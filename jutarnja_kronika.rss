@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Jutarnja kronika</title>
+        <link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link>
+        <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+        <language>hr-HR</language>
+        <copyright>HRT</copyright>
+        <lastBuildDate>Thu, 15 Sep 2022 23:26:05 +0100</lastBuildDate>
+        <ttl>60</ttl>
+        <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
+        <item>
+    <title>JUTARNJA KRONIKA 15.09. 2022-09-15</title>
+    <link>https://api.hrt.hr/media/cb/e2/20220915-jutarnja-kronika-33297385-20220915054031.mp3</link>
+    <description>Sabor počinje jesensko zasjedanje, ali bez Aktualnog prijepodneva! Odgođeno je zbog bolesti premijera Plenkovića. Vlada odlučila da sav plin proizveden u Hrvatskoj INA mora prodavati HEP-u. MOL odluku ne može spriječiti. Porazi naših sportaša u Italiji - Dinamo izgubio u Milanu, tenisači u Bologni. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 15 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cb/e2/20220915-jutarnja-kronika-33297385-20220915054031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>JUTARNJA KRONIKA 14.09. 2022-09-14</title>
+    <link>https://api.hrt.hr/media/ee/42/20220914-jutarnja-kronika-33293715-20220914060047.mp3</link>
+    <description>Predsjednica Europske komisije Ursula von der Leyen u Europskom parlamentu održat će govor o stanju Europske unije, očekuje se da će iznijeti konkretan prijedlog mjera za olakšavanje energetske krize. Ukrajina nastavlja protuofenzivu u harkivskoj regiji, do sada oslobođeno više od 300 naselja sa 150 tisuća stanovnika. Šef zagrebačkog SDP-a Viktor Gotovac izbačen je iz stranke. SPORT: U drugom kolu Lige prvaka Dinamo gostuje kod Milana. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 14 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ee/42/20220914-jutarnja-kronika-33293715-20220914060047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>JUTARNJA KRONIKA 13.09. 2022-09-13</title>
+    <link>https://api.hrt.hr/media/51/16/20220913-jutarnja-kronika-33290551-20220913053103.mp3</link>
+    <description>Europska komisija trebala bi objaviti konkretne prijedloge kako zaustaviti veliko poskupljenje energenata. Amerikanci tvrde da se povukao veći dio ruskih vojnika blizu Harkiva. Lijes britanske kraljice Elizabete Druge stiže u London. Papa Franjo putuje u Kazahstan. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 13 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/51/16/20220913-jutarnja-kronika-33290551-20220913053103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>JUTARNJA KRONIKA 12.09. 2022-09-12</title>
+    <link>https://api.hrt.hr/media/21/20/20220912-jutarnja-kronika-33286927-20220912053521.mp3</link>
+    <description>Još traje istraga teške željezničke nesreće kod Novske. Za razliku od HŽ Infrastrukture, Sindikat strojovođa tvrdi da signalizacija na pruzi nije bila ispravna. Nastavak zasjedanja Zagrebačke skupštine - s obzirom na raskid sporazuma o suradnji SDP-a i Možemo, neizvjesno izglasavanje novog velikog zaduženja. Ukrajinska vojska napreduje u velikoj protuofenzivi na istoku zemlje. Počeo je 15. Vrisak - riječki sajam knjiga i festival autora. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 12 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/21/20/20220912-jutarnja-kronika-33286927-20220912053521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+
+    </channel>
+</rss>

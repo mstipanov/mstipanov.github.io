@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Kronika dana</title>
+        <link>https://radio.hrt.hr/slusaonica/kronika-dana</link>
+        <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+        <language>hr-HR</language>
+        <copyright>HRT</copyright>
+        <lastBuildDate>Thu, 15 Sep 2022 23:26:05 +0100</lastBuildDate>
+        <ttl>60</ttl>
+        <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
+        <item>
+    <title>Kronika dana 15.09. 2022-09-15</title>
+    <link>https://api.hrt.hr/media/5c/c7/20220915-kronika-dana-33300528-20220915204031.mp3</link>
+    <description>Teška željeznička nesreća na prijelazu kod Ludbrega - poginula mlada žena i dvoje četverogodišnje djece. Olujno nevrijeme zahvatilo četiri županije, najteže pogodilo Čazmu i okolicu, vjetar nosio krovove, čupao drveća i prevrtao kamione. Buran početak jesenskog zasjedanja Sabora. Diljem Ukrajine ruske snage nastavile su gađati civilnu infrastrukturu u zračnim i napadima projektilima. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 15 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/c7/20220915-kronika-dana-33300528-20220915204031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Kronika dana 14.09. 2022-09-14</title>
+    <link>https://api.hrt.hr/media/e4/8f/20220914-kronika-dana-33296775-20220914204039.mp3</link>
+    <description>INA mora za 10 posto povećati proizvodnju plina, a sav proizvedeni plin mora se prodavati HEP-u, odlučila Vlada. Predsjednica Europske komisije Ursula von der Leyen održala godišnji govor o stanju Unije, uvjerena je da Putin ne može pobijediti. Sport : Dinamo izgubio utakmicu Lige prvaka, pobjeda Milana 3:1. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 14 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e4/8f/20220914-kronika-dana-33296775-20220914204039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Kronika dana 13.09. 2022-09-13</title>
+    <link>https://api.hrt.hr/media/ca/03/20220913-kronika-dana-33293161-20220913203555.mp3</link>
+    <description>Ukrajina nastavlja protuofenzivu u harkivskoj regiji. Sutra će u Europskom parlamentu biti objavljene mjere štednje energije i pomoći zbog inflacije.
+Kod maloljetnika koji je na subotnjem protuvladinu prosvjedu imao molotovljeve koktele policija pronašla i oproštajno pismo. Predsjednik zagrebačkog SDP-a Viktor Gotovac izbačen iz stranke. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 13 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/03/20220913-kronika-dana-33293161-20220913203555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Kronika dana 12.09. 2022-09-12</title>
+    <link>https://api.hrt.hr/media/7d/48/20220912-kronika-dana-33289995-20220912204021.mp3</link>
+    <description>Nakon što je razvrgnuta zagrebačka koalicija Možemo i SDP-a, novi raskol u samom SDP-u. Zagrebačka policija podnijela kaznenu prijavu protiv maloljetnika koji je uhićen na subotnjem prosvjedu - sumnjiči ga kaznena djela povezana s terorizmom. Predsjednik Zelenski potvrdio da je i strateški važan grad Izjum pod ukrajinskim nadzorom. Iz Kremlja tvrde da će Rusija ispuniti zacrtane ciljeve posebne vojne operacije. Urednica: Mira Barić</description>
+    <pubDate>Mon, 12 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7d/48/20220912-kronika-dana-33289995-20220912204021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+
+    </channel>
+</rss>
