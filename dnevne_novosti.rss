@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Sep 2022 15:21:22 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:35:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nastavlja se ukrajinska protuofenziva u harkivskoj regiji.Kremlj kaže da se ne raspravlja o mobilizaciji u cijeloj Rusiji. Predsjedništvo SDP-a poslijepodne odlučuje o sudbini predsjednika zagrebačkog ogranka Viktora Gotovca. Lijes britanske kraljice Elizabete večeras će zrakoplovom biti prevezen u London. U 92-oj godini umro veliki francuski redatelj Jean-Luc Godard. Urednica: Mira Barić</description>
     <pubDate>Tue, 13 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c0/9a/20220913-dnevne-novosti-33292264-20220913134101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.09. 2022-09-12</title>
-    <link>https://api.hrt.hr/media/0e/fc/20220912-dnevne-novosti-33288846-20220912134023.mp3</link>
-    <description>Sindikat strojovođa tvrdi da se sudar vlakova kod Novske dogodio jer nije radila signalizacija. Raskid zagrebačke koalicije Možemo i SDP-a. Počelo docjepljivanje novim cjepivom protiv koronavirusa. Mladi Španjolac Carlos Alcaraz već piše tenisku povijest - u New Yorku osvojio prvi Grand Slam i postao najmlađi broj jedan. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 12 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0e/fc/20220912-dnevne-novosti-33288846-20220912134023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
