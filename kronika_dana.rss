@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Sep 2022 21:33:16 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 20:56:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.09. 2022-09-17</title>
+    <link>https://api.hrt.hr/media/03/50/20220917-kronika-dana-33306275-20220917204502.mp3</link>
+    <description>Zbog nabujalih rijeka Kupe i Dobre ne očekuju se problemi veći od dosadašnjih - zaključeno na Stožeru Civilne zaštite Karlovačke županije. Pucano na Papina izaslanika u Ukrajini. Deset policajaca ozlijeđeno u sukobima s protivnicima LGBT zajednice na Europrideu u Beogradu. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 17 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/03/50/20220917-kronika-dana-33306275-20220917204502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.09. 2022-09-16</title>
     <link>https://api.hrt.hr/media/f8/ab/20220916-kronika-dana-33304008-20220916204015.mp3</link>
     <description>Pucnjava u Karlovcu - jedna osoba ubijena, jedna ranjena. Mađarski članovi Inine Uprave dali ostavke, a na sjednici saborskog Odbora burna rasprava o pljački u INA-i. Naglo porastao vodostaj Kupe. Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>INA mora za 10 posto povećati proizvodnju plina, a sav proizvedeni plin mora se prodavati HEP-u, odlučila Vlada. Predsjednica Europske komisije Ursula von der Leyen održala godišnji govor o stanju Unije, uvjerena je da Putin ne može pobijediti. Sport : Dinamo izgubio utakmicu Lige prvaka, pobjeda Milana 3:1. Urednica: Sanja Cota</description>
     <pubDate>Wed, 14 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/8f/20220914-kronika-dana-33296775-20220914204039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.09. 2022-09-13</title>
-    <link>https://api.hrt.hr/media/ca/03/20220913-kronika-dana-33293161-20220913203555.mp3</link>
-    <description>Ukrajina nastavlja protuofenzivu u harkivskoj regiji. Sutra će u Europskom parlamentu biti objavljene mjere štednje energije i pomoći zbog inflacije.
-Kod maloljetnika koji je na subotnjem protuvladinu prosvjedu imao molotovljeve koktele policija pronašla i oproštajno pismo. Predsjednik zagrebačkog SDP-a Viktor Gotovac izbačen iz stranke. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 13 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/03/20220913-kronika-dana-33293161-20220913203555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
