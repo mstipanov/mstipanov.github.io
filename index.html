@@ -1,1 +1,36 @@
-Hello World
+<html>
+<head>
+</head>
+<body>
+    <h2>RSS Feed za emisije Hrvatskog radija</h2>
+    <div><a href="https://radio.hrt.hr/slusaonica">Slušaonica</a></div>
+    <div id="showList"></div>
+</body>
+</html>
+<script>
+    var xmlhttp;
+    if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp = new XMLHttpRequest();
+    }
+    else { // code for IE6, IE5
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xmlhttp.onreadystatechange = function() {
+        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            let csv = xmlhttp.responseText;
+            let items = csv.split("\n"),
+                ul = document.createElement('ul');
+
+            document.getElementById('showList').appendChild(ul);
+
+            items.forEach(item => {
+                let li = document.createElement('li');
+                ul.appendChild(li);
+                let show = item.split(",")
+                li.innerHTML += "<a href='" + show[1].trim() + "'>" + show[0].trim() + "</a>";
+            });
+        }
+    }
+    xmlhttp.open("GET", "shows.csv", true);
+    xmlhttp.send();
+</script>
