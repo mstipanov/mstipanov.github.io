@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Sep 2022 21:33:16 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 05:33:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.09. 2022-09-17</title>
+    <link>https://api.hrt.hr/media/6e/94/20220917-jutarnja-kronika-33304548-20220917053104.mp3</link>
+    <description>Zbog obilne kiše koja i dalje pada vodostaj Kupe na povijesnom maksimumu. U poplavama u Italiji poginulo 10 ljudi. Mađarski članovi uprave INA-e dali ostavke - hrvatski će biti smijenjeni u srijedu. 31. je godišnjica bitke za Vukovar. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 17 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6e/94/20220917-jutarnja-kronika-33304548-20220917053104.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.09. 2022-09-16</title>
     <link>https://api.hrt.hr/media/81/07/20220916-jutarnja-kronika-33301067-20220916053513.mp3</link>
     <description>Saniraju se posljedice snažnog nevremena u Čazmi i okolici. Ukrajinci na oslobođenim područjima pronalaze nove dokaze o ruskim zločinima nad civilima. Počinju Vinkovačke jeseni, a u Zagrebu međunarodni lutkarski festival PIF. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Predsjednica Europske komisije Ursula von der Leyen u Europskom parlamentu održat će govor o stanju Europske unije, očekuje se da će iznijeti konkretan prijedlog mjera za olakšavanje energetske krize. Ukrajina nastavlja protuofenzivu u harkivskoj regiji, do sada oslobođeno više od 300 naselja sa 150 tisuća stanovnika. Šef zagrebačkog SDP-a Viktor Gotovac izbačen je iz stranke. SPORT: U drugom kolu Lige prvaka Dinamo gostuje kod Milana. Urednik: Silvio Šop</description>
     <pubDate>Wed, 14 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ee/42/20220914-jutarnja-kronika-33293715-20220914060047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.09. 2022-09-13</title>
-    <link>https://api.hrt.hr/media/51/16/20220913-jutarnja-kronika-33290551-20220913053103.mp3</link>
-    <description>Europska komisija trebala bi objaviti konkretne prijedloge kako zaustaviti veliko poskupljenje energenata. Amerikanci tvrde da se povukao veći dio ruskih vojnika blizu Harkiva. Lijes britanske kraljice Elizabete Druge stiže u London. Papa Franjo putuje u Kazahstan. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 13 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/51/16/20220913-jutarnja-kronika-33290551-20220913053103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
