@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 17 Sep 2022 13:55:51 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 13:58:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.09. 2022-09-18</title>
+    <link>https://api.hrt.hr/media/e9/7d/20220918-dnevne-novosti-33307762-20220918134039.mp3</link>
+    <description>Puno je bolje stanje na poplavljenim područjima, a Čazma će proglasiti prirodnu nepogodu. U slučaju pljačke u Ini policija je odradila profesionalan posao, no trebat će skupiti dokaze da bi se eventualno podnijele prijave, rekao ministar Božinović. Europska komisija Mađarskoj će zamrznuti 7 i pol milijardi europskoga novca zbog slabosti protukorupcijskih istraga. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 18 Sep 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e9/7d/20220918-dnevne-novosti-33307762-20220918134039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.09. 2022-09-17</title>
     <link>https://api.hrt.hr/media/e7/7e/20220917-dnevne-novosti-33305584-20220917134002.mp3</link>
     <description>Vodeni val iz Gorskog Kotara ide prema Karlovcu, proglašene redovite mjere obrane od poplava.Ruski predsjednik Vladimir Putin prijeti da bi mogao pojačati sukob u Ukrajini.Premijerka Sbije Ana Brnabić ipak dopustila Europride u Beogradu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Kod Koprivnice automobil podletio pod vlak, poginula mlada žena i dvoje četverogodišnje djece. Ukrajinski predsjednik Volodimir Zelenski doživio prometnu nesreću, no nije ozbiljnije ozlijeđen. Saborska oporba nezadovoljna jer se na sjednici ne raspravlja o pljački u INA-i. Urednica: Sanja Cota</description>
     <pubDate>Thu, 15 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/ca/20220915-dnevne-novosti-33299410-20220915133532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.09. 2022-09-14</title>
-    <link>https://api.hrt.hr/media/d4/88/20220914-dnevne-novosti-33295845-20220914134039.mp3</link>
-    <description>Vlada donijela odluku da se u našoj zemlji mora povećati proizvodnja plina za 10 posto te da se sav plin mora prodavati HEP-u. Predsjednica Europske komisije Ursula von der Leyen održala godišnji govor o stanju Unije. U Milanu večeras Dinamo igra 2. kolo Lige prvaka protiv Milana. Urednica: Mira Barić</description>
-    <pubDate>Wed, 14 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d4/88/20220914-dnevne-novosti-33295845-20220914134039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
