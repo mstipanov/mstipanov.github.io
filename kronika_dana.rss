@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 18 Sep 2022 20:58:43 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 21:00:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.09. 2022-09-19</title>
+    <link>https://api.hrt.hr/media/a7/09/20220919-kronika-dana-33312118-20220919203512.mp3</link>
+    <description>Velika Britanija i svijet oprostili se od kraljice Elizabete Druge. U krugu obitelji večeras pokopana u dvorcu Windsoru.Vlada predložila tri nova člana Uprave INA-e. Sadašnji nisu ponudili ostavke, premijer Plenković poručio da postoji rješenje za njihov odlazak bez otpremnina! Jak potres magnitude 7,4 prema Rihteru pogodio Meksiko, izdano upozorenje za cunami. Urednica: Mira Barić</description>
+    <pubDate>Mon, 19 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/09/20220919-kronika-dana-33312118-20220919203512.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.09. 2022-09-18</title>
     <link>https://api.hrt.hr/media/6f/cd/20220918-kronika-dana-33308577-20220918205059.mp3</link>
     <description>Vodeni val iz Karlovca ide nizvodno, prema Sisku i Petrinji. Europska komisija Mađarskoj namjerava zamrznuti 7 i pol milijardi europskoga novca; Mađarska pak obećava ispuniti obećanja kako se to ne bi dogodilo. Potres jakosti 6 cijelih 8 prema Rihteru pogodio Tajvan, jedna osoba poginula. Urednica Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Pucnjava u Karlovcu - jedna osoba ubijena, jedna ranjena. Mađarski članovi Inine Uprave dali ostavke, a na sjednici saborskog Odbora burna rasprava o pljački u INA-i. Naglo porastao vodostaj Kupe. Urednica: Sanja Cota</description>
     <pubDate>Fri, 16 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/ab/20220916-kronika-dana-33304008-20220916204015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.09. 2022-09-15</title>
-    <link>https://api.hrt.hr/media/5c/c7/20220915-kronika-dana-33300528-20220915204031.mp3</link>
-    <description>Teška željeznička nesreća na prijelazu kod Ludbrega - poginula mlada žena i dvoje četverogodišnje djece. Olujno nevrijeme zahvatilo četiri županije, najteže pogodilo Čazmu i okolicu, vjetar nosio krovove, čupao drveća i prevrtao kamione. Buran početak jesenskog zasjedanja Sabora. Diljem Ukrajine ruske snage nastavile su gađati civilnu infrastrukturu u zračnim i napadima projektilima. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 15 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/c7/20220915-kronika-dana-33300528-20220915204031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
