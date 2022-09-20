@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 19 Sep 2022 05:59:25 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:01:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.09. 2022-09-20</title>
+    <link>https://api.hrt.hr/media/09/12/20220920-jutarnja-kronika-33312672-20220920053559.mp3</link>
+    <description>U Njujorku počinje glavni dio zasjedanja Opće skupštine UN-a. Napreduje protuofenziva ukrajinske vojske iz harkivske regije prema Luhansku. Ruski separatisti traže hitan referendum. Saborski odbor za Ustav trebao bi donijeti odluku o jednomjesečnoj javnoj raspravi o promjenama Ustava. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 20 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/09/12/20220920-jutarnja-kronika-33312672-20220920053559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.09. 2022-09-19</title>
     <link>https://api.hrt.hr/media/0d/c4/20220919-jutarnja-kronika-33309111-20220919053510.mp3</link>
     <description>Vodni val na Kupi prošao Karlovačku županiju i jutros dolazi na sisačko područje. Kod Petrinje je kritična točka nasip koji je oštećen u potresu. Vlada na današnjoj sjednici donosi nove cijene goriva. Na svjetskim burzama drugi tjedan zaredom pad cijena nafte. Danas pogreb britanske kraljice Elizabete Druge. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Zbog obilne kiše koja i dalje pada vodostaj Kupe na povijesnom maksimumu. U poplavama u Italiji poginulo 10 ljudi. Mađarski članovi uprave INA-e dali ostavke - hrvatski će biti smijenjeni u srijedu. 31. je godišnjica bitke za Vukovar. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 17 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6e/94/20220917-jutarnja-kronika-33304548-20220917053104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.09. 2022-09-16</title>
-    <link>https://api.hrt.hr/media/81/07/20220916-jutarnja-kronika-33301067-20220916053513.mp3</link>
-    <description>Saniraju se posljedice snažnog nevremena u Čazmi i okolici. Ukrajinci na oslobođenim područjima pronalaze nove dokaze o ruskim zločinima nad civilima. Počinju Vinkovačke jeseni, a u Zagrebu međunarodni lutkarski festival PIF. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 16 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/81/07/20220916-jutarnja-kronika-33301067-20220916053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
