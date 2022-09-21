@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Sep 2022 07:30:30 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 05:33:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vodeni val, koji je nabujalom Kupom stigao u Karlovac, veći je nego što se očekivalo. U Londonu, do sutrašnjeg posljednjeg ispraćaja, građani još odaju počast kraljici Elizabeti Drugoj. Umro je Vlado Milunić, češki arhitekt hrvatskog podrijetla, autor praškog simbola - Kuće koja pleše. Urednica: Mira Barić</description>
     <pubDate>Sun, 18 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/2e/20220918-jutarnja-kronika-33306816-20220918053044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.09. 2022-09-17</title>
-    <link>https://api.hrt.hr/media/6e/94/20220917-jutarnja-kronika-33304548-20220917053104.mp3</link>
-    <description>Zbog obilne kiše koja i dalje pada vodostaj Kupe na povijesnom maksimumu. U poplavama u Italiji poginulo 10 ljudi. Mađarski članovi uprave INA-e dali ostavke - hrvatski će biti smijenjeni u srijedu. 31. je godišnjica bitke za Vukovar. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 17 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6e/94/20220917-jutarnja-kronika-33304548-20220917053104.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
