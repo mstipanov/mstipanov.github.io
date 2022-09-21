@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Sep 2022 07:30:29 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 14:04:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.09. 2022-09-21</title>
+    <link>https://api.hrt.hr/media/2b/7c/20220921-dnevne-novosti-33318170-20220921134039.mp3</link>
+    <description>Vladimir Putin naredio djelomičnu mobilizaciju. Zapad smatra da pokazuje znakove očaja. Prema nalogu europskoga javnog tužitelja, uhićena voditeljica iz Hrvatske agencije Hamag Bicro. Pljačka u INA-i ponovno posvađala saborske zastupnike. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 21 Sep 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2b/7c/20220921-dnevne-novosti-33318170-20220921134039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.09. 2022-09-20</title>
     <link>https://api.hrt.hr/media/6f/2b/20220920-dnevne-novosti-33314702-20220920134101.mp3</link>
     <description>Odgođena je sjednica Nadzornog odbora INA-e jer se jedan od novih članova koje je Vlada predložila, Emanuel Kovačić, povukao. Ukrajina nastavlja ofenzivu na istoku zemlje. Premijer Plenković otputovao u New York, na Opću skupštinu Ujedinjenih naroda. Dobri turistički rezultati, priprema iduće sezone već je počela. Hvar je domaćin Izvršnog odbora UEFA-e. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Puno je bolje stanje na poplavljenim područjima, a Čazma će proglasiti prirodnu nepogodu. U slučaju pljačke u Ini policija je odradila profesionalan posao, no trebat će skupiti dokaze da bi se eventualno podnijele prijave, rekao ministar Božinović. Europska komisija Mađarskoj će zamrznuti 7 i pol milijardi europskoga novca zbog slabosti protukorupcijskih istraga. Urednica: Sanja Cota</description>
     <pubDate>Sun, 18 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/7d/20220918-dnevne-novosti-33307762-20220918134039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.09. 2022-09-17</title>
-    <link>https://api.hrt.hr/media/e7/7e/20220917-dnevne-novosti-33305584-20220917134002.mp3</link>
-    <description>Vodeni val iz Gorskog Kotara ide prema Karlovcu, proglašene redovite mjere obrane od poplava.Ruski predsjednik Vladimir Putin prijeti da bi mogao pojačati sukob u Ukrajini.Premijerka Sbije Ana Brnabić ipak dopustila Europride u Beogradu. Urednica: Mira Barić</description>
-    <pubDate>Sat, 17 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e7/7e/20220917-dnevne-novosti-33305584-20220917134002.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
