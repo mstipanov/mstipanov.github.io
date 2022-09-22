@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Sep 2022 07:30:30 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 16:34:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>HISTORIA ZA 22.9. 2022-09-22</title>
+    <link>https://api.hrt.hr/media/8b/52/20220922-historia-histriae-1807741-20220922144017.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 22 Sep 2022 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8b/52/20220922-historia-histriae-1807741-20220922144017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Franko Lukež 2022-09-15</title>
     <link>https://api.hrt.hr/media/b6/7e/20220915-historia-histriae-1805273-20220915164536.mp3</link>
     <description>Franko Lukež pune je dvije godine u našoj emisiji na zabavan i zanimljiv način dijelio sve ono što je marljivo skupljao cijeli život. Tako je nastao izuzetno zanimljiv mozaik priča o povijesti naše svakodnevice, posebno o povijesti hrane, pića i oštarija. U prvom ovosezonskom izdanju Historije zato ćemo se prisjetiti Frankovog posljednjeg gostovanja u emisiji u kojem je govorio o povijesti istarskih slastica.</description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 21 Apr 2022 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/fb/20220421-historia-histriae-1759890-20220419115519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>HISTORIA ZA 14.4. 2022-04-14</title>
-    <link>https://api.hrt.hr/media/86/0e/20220414-historia-histriae-1758542-20220414114008.mp3</link>
-    <description>Tko je najzaslužniji da je Istra pripojena Hrvatskoj? Tko je "prodao" Istru, a tko ju je vratio matici zemlji? Oko ovih se pitanja još uvijek lome koplja u javnosti, a mi upravo o tome pričamo s istarskim povjesničarom sa zagrebačkom adresom - Danijelom Tatićem!</description>
-    <pubDate>Thu, 14 Apr 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/86/0e/20220414-historia-histriae-1758542-20220414114008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
