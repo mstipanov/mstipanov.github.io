@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Sep 2022 14:04:24 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 14:04:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.09. 2022-09-22</title>
+    <link>https://api.hrt.hr/media/1e/f4/20220922-dnevne-novosti-33321908-20220922134009.mp3</link>
+    <description>Objavljeni konačni rezultati popisa stanovništva. U 10 godina u Hrvatskoj gotovo pola milijuna stanovnika manje, u Vukovaru broj Srba pao ispod 30 posto. Više od tisuću 400 ljudi uhićeno u prosvjedima diljem Rusije nakon što je Putin naredio djelomičnu mobilizaciju. Nacionalni je dan borbe protiv nasilja nad ženama, samo u osam mjeseci ove godine ubijeno ih je 12. Na Maksimiru večeras nogometna utakmica Hrvatska - Danska. Pobjeda uvjet za završnicu Lige nacija. Urednica: Mira Barić</description>
+    <pubDate>Thu, 22 Sep 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1e/f4/20220922-dnevne-novosti-33321908-20220922134009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.09. 2022-09-21</title>
     <link>https://api.hrt.hr/media/2b/7c/20220921-dnevne-novosti-33318170-20220921134039.mp3</link>
     <description>Vladimir Putin naredio djelomičnu mobilizaciju. Zapad smatra da pokazuje znakove očaja. Prema nalogu europskoga javnog tužitelja, uhićena voditeljica iz Hrvatske agencije Hamag Bicro. Pljačka u INA-i ponovno posvađala saborske zastupnike. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ujedinjeno Kraljevstvo oprašta se od kraljice Elizabete II - na ulicama Londona stotine tisuća ljudi. Vlada objavila nove cijene goriva, litra dizela bit će jeftinija čak 59 lipa. Kod Petrinje i Siska spremno dočekuju prolazak vodenog vala. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 19 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/da/20220919-dnevne-novosti-33310793-20220919134011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.09. 2022-09-18</title>
-    <link>https://api.hrt.hr/media/e9/7d/20220918-dnevne-novosti-33307762-20220918134039.mp3</link>
-    <description>Puno je bolje stanje na poplavljenim područjima, a Čazma će proglasiti prirodnu nepogodu. U slučaju pljačke u Ini policija je odradila profesionalan posao, no trebat će skupiti dokaze da bi se eventualno podnijele prijave, rekao ministar Božinović. Europska komisija Mađarskoj će zamrznuti 7 i pol milijardi europskoga novca zbog slabosti protukorupcijskih istraga. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 18 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/7d/20220918-dnevne-novosti-33307762-20220918134039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
