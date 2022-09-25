@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Sep 2022 15:58:44 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 23:23:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.09. 2022-09-25</title>
+    <link>https://api.hrt.hr/media/82/a4/20220925-kronika-dana-33331555-20220925204030.mp3</link>
+    <description>Za sat vremena u Italiji se zatvaraju birališta. Hoće li se potvrditi predviđanja o pobjedi desne koalicije Giorgie Meloni? Na okupiranim ukrajinskim područjima nastavlja se referendum o priključenju Rusiji. U Rusiji se nastavljaju prosvjedi i egzodus vojnih obveznika. Hrvatska nogometna reprezentacija večeras u Beču igra s Austrijom u posljednjem kolu Lige nacija. Urednica: Sanja Rabuzin Pavić</description>
+    <pubDate>Sun, 25 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/82/a4/20220925-kronika-dana-33331555-20220925204030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.09. 2022-09-24</title>
     <link>https://api.hrt.hr/media/6d/0e/20220924-kronika-dana-33329354-20220924204551.mp3</link>
     <description>U Rusiji masovna uhićenja prosvjednika protiv mobilizacije i bijeg rezervista u inozemstvo. Rat u Ukrajini i dalje je u središtu glavne rasprave Opće skupštine Ujedinjenih naroda. Nekoliko stotina mladih liječnika prosvjedom zatražilo hitnu reformu zdravstva. Talijani sutra biraju novu vlast. Sve ankete predviđaju pobjedu desnice. Urednica: Sanja Rabuzin-Pavić</description>
