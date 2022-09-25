@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 24 Sep 2022 14:02:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 15:58:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.09. 2022-09-25</title>
+    <link>https://api.hrt.hr/media/a6/47/20220925-dnevne-novosti-33330831-20220925134021.mp3</link>
+    <description>Parlamentarni izbori u Italiji, ankete daju prednost desnoj koaliciji koju vodi Giorgia Meloni. Zbog njezinih neofašističkih stajališta zabrinutost i u Briselu. Zahuktala se predizborna kampanja uoči izbora u Bosni i Hercegovini iduće nedjelje. Na okupiranim ukrajinskim područjima nastavlja se referendum o priključenju Rusiji. Ruski šef diplomacije Lavrov za govornicom UN-a prozvao Zapad zbog rusofobije. Nakon napada na učenika u školi u Biogradu pitamo se je li vršnjačko nasilje u porastu. Hrvatska nogometna reprezentacija večeras u Beču igra s Austrijom u posljednjem kolu Lige nacija. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 25 Sep 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/47/20220925-dnevne-novosti-33330831-20220925134021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.09. 2022-09-24</title>
     <link>https://api.hrt.hr/media/cc/35/20220924-dnevne-novosti-33328568-20220924135058.mp3</link>
     <description>Liječnici prosvjedovali ispred Minstarstva zdravstva, ministar Beroš nije se pojavio. Na okupiranim područjima Ukrajine građane se tjera na referendum o pripojenju Rusiji, čak prijeteći oružjem. Talijani sutra biraju novu vlast - sve ankete predviđaju pobjedu desnice. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Objavljeni konačni rezultati popisa stanovništva. U 10 godina u Hrvatskoj gotovo pola milijuna stanovnika manje, u Vukovaru broj Srba pao ispod 30 posto. Više od tisuću 400 ljudi uhićeno u prosvjedima diljem Rusije nakon što je Putin naredio djelomičnu mobilizaciju. Nacionalni je dan borbe protiv nasilja nad ženama, samo u osam mjeseci ove godine ubijeno ih je 12. Na Maksimiru večeras nogometna utakmica Hrvatska - Danska. Pobjeda uvjet za završnicu Lige nacija. Urednica: Mira Barić</description>
     <pubDate>Thu, 22 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1e/f4/20220922-dnevne-novosti-33321908-20220922134009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.09. 2022-09-21</title>
-    <link>https://api.hrt.hr/media/2b/7c/20220921-dnevne-novosti-33318170-20220921134039.mp3</link>
-    <description>Vladimir Putin naredio djelomičnu mobilizaciju. Zapad smatra da pokazuje znakove očaja. Prema nalogu europskoga javnog tužitelja, uhićena voditeljica iz Hrvatske agencije Hamag Bicro. Pljačka u INA-i ponovno posvađala saborske zastupnike. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 21 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2b/7c/20220921-dnevne-novosti-33318170-20220921134039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
