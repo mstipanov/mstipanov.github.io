@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Sep 2022 20:32:47 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 21:02:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.09. 2022-09-26</title>
+    <link>https://api.hrt.hr/media/0c/37/20220926-kronika-dana-33335086-20220926203602.mp3</link>
+    <description>Apsolutnu većinu na talijanskim parlamentarnim izborima osvojila ujedinjena desnica na čelu s Đorđom Meloni. Premijer Plenković potvrdio da se pokreće postupak razrješenja ravnatelja Vojne sigurnosno-obavještajne agencije.Vladimir Putin dodijelio rusko državljanstvo zviždaču Edwardu Snowdenu.Urednica: Mira Barić</description>
+    <pubDate>Mon, 26 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0c/37/20220926-kronika-dana-33335086-20220926203602.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.09. 2022-09-25</title>
     <link>https://api.hrt.hr/media/82/a4/20220925-kronika-dana-33331555-20220925204030.mp3</link>
     <description>Za sat vremena u Italiji se zatvaraju birališta. Hoće li se potvrditi predviđanja o pobjedi desne koalicije Giorgie Meloni? Na okupiranim ukrajinskim područjima nastavlja se referendum o priključenju Rusiji. U Rusiji se nastavljaju prosvjedi i egzodus vojnih obveznika. Hrvatska nogometna reprezentacija večeras u Beču igra s Austrijom u posljednjem kolu Lige nacija. Urednica: Sanja Rabuzin Pavić</description>
