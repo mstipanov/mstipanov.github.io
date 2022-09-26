@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Sep 2022 23:23:44 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 20:32:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Iz Beograda poslan poziv za suđenje četvorici hrvatskih pilota, Ministarstvo pravosuđa poručuje da će ih zaštititi. Državni zavod za statistiku tvrdi da su podaci iz Popisa stanovništva točni, pa i oni o broju katolika. Na okupiranim ukrajinskim područjima počeli referendumi o pripojenju Rusiji. Urednica: Sanja Cota</description>
     <pubDate>Fri, 23 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/05/20220923-kronika-dana-33326816-20220923203556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.09. 2022-09-22</title>
-    <link>https://api.hrt.hr/media/de/eb/20220922-kronika-dana-33322975-20220922204007.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Thu, 22 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/eb/20220922-kronika-dana-33322975-20220922204007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
