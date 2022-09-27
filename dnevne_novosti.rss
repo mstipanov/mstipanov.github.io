@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Sep 2022 13:51:15 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 13:45:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Liječnici prosvjedovali ispred Minstarstva zdravstva, ministar Beroš nije se pojavio. Na okupiranim područjima Ukrajine građane se tjera na referendum o pripojenju Rusiji, čak prijeteći oružjem. Talijani sutra biraju novu vlast - sve ankete predviđaju pobjedu desnice. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 24 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cc/35/20220924-dnevne-novosti-33328568-20220924135058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.09. 2022-09-23</title>
-    <link>https://api.hrt.hr/media/a0/6e/20220923-dnevne-novosti-33325596-20220923133557.mp3</link>
-    <description>Na okupiranom području Ukrajine počeli referendumi o pripojenju Rusiji. Zapadne zemlje poručile da rezultate neće priznati. Viši sud u Beogradu poslao poziv za suđenje četvorici hrvatskih pilota. Zagrebačka policija utvrđuje okolnosti napada psa na učenike osnovne škole u Gornjem Vrapču. Urednica: Mira Barić</description>
-    <pubDate>Fri, 23 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/6e/20220923-dnevne-novosti-33325596-20220923133557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
