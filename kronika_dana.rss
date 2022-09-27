@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Sep 2022 21:02:51 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 21:16:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.09. 2022-09-27</title>
+    <link>https://api.hrt.hr/media/8d/ee/20220927-kronika-dana-33338612-20220927203542.mp3</link>
+    <description>Vlada predlaže Marina Zovka iz Plinacra za trećeg člana Uprave INA-e. Sutra razrješenje troje dosadašnjih članova. Prije istjecanja plina iz plinovoda Sjeverni tok 1 i 2 dogodile se dvije podvodne eksplozije "vjerojatno namjerno izazvane". Sport! Naša mlada nogometna reprezentacija izborila plasman na Europsko prvenstvo, pobijedili Dansku na jedanaesterce. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 27 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/ee/20220927-kronika-dana-33338612-20220927203542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.09. 2022-09-26</title>
     <link>https://api.hrt.hr/media/0c/37/20220926-kronika-dana-33335086-20220926203602.mp3</link>
     <description>Apsolutnu većinu na talijanskim parlamentarnim izborima osvojila ujedinjena desnica na čelu s Đorđom Meloni. Premijer Plenković potvrdio da se pokreće postupak razrješenja ravnatelja Vojne sigurnosno-obavještajne agencije.Vladimir Putin dodijelio rusko državljanstvo zviždaču Edwardu Snowdenu.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Rusiji masovna uhićenja prosvjednika protiv mobilizacije i bijeg rezervista u inozemstvo. Rat u Ukrajini i dalje je u središtu glavne rasprave Opće skupštine Ujedinjenih naroda. Nekoliko stotina mladih liječnika prosvjedom zatražilo hitnu reformu zdravstva. Talijani sutra biraju novu vlast. Sve ankete predviđaju pobjedu desnice. Urednica: Sanja Rabuzin-Pavić</description>
     <pubDate>Sat, 24 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6d/0e/20220924-kronika-dana-33329354-20220924204551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.09. 2022-09-23</title>
-    <link>https://api.hrt.hr/media/49/05/20220923-kronika-dana-33326816-20220923203556.mp3</link>
-    <description>Iz Beograda poslan poziv za suđenje četvorici hrvatskih pilota, Ministarstvo pravosuđa poručuje da će ih zaštititi. Državni zavod za statistiku tvrdi da su podaci iz Popisa stanovništva točni, pa i oni o broju katolika. Na okupiranim ukrajinskim područjima počeli referendumi o pripojenju Rusiji. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 23 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/05/20220923-kronika-dana-33326816-20220923203556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
