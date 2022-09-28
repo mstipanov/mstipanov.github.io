@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Sep 2022 21:16:31 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 20:48:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.09. 2022-09-28</title>
+    <link>https://api.hrt.hr/media/14/7b/20220928-kronika-dana-33342155-20220928204029.mp3</link>
+    <description>INA dobila novu upravu, troje bivših hrvatskih članova odlaze iz tvrtke bez otpremnina. Na Aktualnom prijepodnevu u Saboru najviše pitanja za premijera o INA-i i korupciji. Još nije jasno što je izazvalo istjecanje plina iz cjevovoda Sjevernog toka jedan i dva. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 28 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/14/7b/20220928-kronika-dana-33342155-20220928204029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.09. 2022-09-27</title>
     <link>https://api.hrt.hr/media/8d/ee/20220927-kronika-dana-33338612-20220927203542.mp3</link>
     <description>Vlada predlaže Marina Zovka iz Plinacra za trećeg člana Uprave INA-e. Sutra razrješenje troje dosadašnjih članova. Prije istjecanja plina iz plinovoda Sjeverni tok 1 i 2 dogodile se dvije podvodne eksplozije "vjerojatno namjerno izazvane". Sport! Naša mlada nogometna reprezentacija izborila plasman na Europsko prvenstvo, pobijedili Dansku na jedanaesterce. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Za sat vremena u Italiji se zatvaraju birališta. Hoće li se potvrditi predviđanja o pobjedi desne koalicije Giorgie Meloni? Na okupiranim ukrajinskim područjima nastavlja se referendum o priključenju Rusiji. U Rusiji se nastavljaju prosvjedi i egzodus vojnih obveznika. Hrvatska nogometna reprezentacija večeras u Beču igra s Austrijom u posljednjem kolu Lige nacija. Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Sun, 25 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/a4/20220925-kronika-dana-33331555-20220925204030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.09. 2022-09-24</title>
-    <link>https://api.hrt.hr/media/6d/0e/20220924-kronika-dana-33329354-20220924204551.mp3</link>
-    <description>U Rusiji masovna uhićenja prosvjednika protiv mobilizacije i bijeg rezervista u inozemstvo. Rat u Ukrajini i dalje je u središtu glavne rasprave Opće skupštine Ujedinjenih naroda. Nekoliko stotina mladih liječnika prosvjedom zatražilo hitnu reformu zdravstva. Talijani sutra biraju novu vlast. Sve ankete predviđaju pobjedu desnice. Urednica: Sanja Rabuzin-Pavić</description>
-    <pubDate>Sat, 24 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6d/0e/20220924-kronika-dana-33329354-20220924204551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
