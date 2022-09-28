@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Sep 2022 14:15:46 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 13:48:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Parlamentarni izbori u Italiji, ankete daju prednost desnoj koaliciji koju vodi Giorgia Meloni. Zbog njezinih neofašističkih stajališta zabrinutost i u Briselu. Zahuktala se predizborna kampanja uoči izbora u Bosni i Hercegovini iduće nedjelje. Na okupiranim ukrajinskim područjima nastavlja se referendum o priključenju Rusiji. Ruski šef diplomacije Lavrov za govornicom UN-a prozvao Zapad zbog rusofobije. Nakon napada na učenika u školi u Biogradu pitamo se je li vršnjačko nasilje u porastu. Hrvatska nogometna reprezentacija večeras u Beču igra s Austrijom u posljednjem kolu Lige nacija. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 25 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a6/47/20220925-dnevne-novosti-33330831-20220925134021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.09. 2022-09-24</title>
-    <link>https://api.hrt.hr/media/cc/35/20220924-dnevne-novosti-33328568-20220924135058.mp3</link>
-    <description>Liječnici prosvjedovali ispred Minstarstva zdravstva, ministar Beroš nije se pojavio. Na okupiranim područjima Ukrajine građane se tjera na referendum o pripojenju Rusiji, čak prijeteći oružjem. Talijani sutra biraju novu vlast - sve ankete predviđaju pobjedu desnice. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 24 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/35/20220924-dnevne-novosti-33328568-20220924135058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
