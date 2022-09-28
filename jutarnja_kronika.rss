@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Sep 2022 05:44:47 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 05:47:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.09. 2022-09-28</title>
+    <link>https://api.hrt.hr/media/fd/b9/20220928-jutarnja-kronika-33339159-20220928053603.mp3</link>
+    <description>Tri nova člana Uprave INA-e bit će imenovana na sjednici Nadzornog odbora. U Saboru Aktualno prijepodne. Sabotaža plinovoda Sjevernog toka 1 i 2 - zabilježene dvije podvodne eksplozije. Oluja pogodila Kubu i prisilila stanovništvo na evakuaciju. Urednica: Mira Barić</description>
+    <pubDate>Wed, 28 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/b9/20220928-jutarnja-kronika-33339159-20220928053603.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.09. 2022-09-27</title>
     <link>https://api.hrt.hr/media/b0/08/20220927-jutarnja-kronika-33335677-20220927053051.mp3</link>
     <description>Zadnji je dan referenduma na okupiranim ukrajinskim područjima, Zapad najavio nove sankcije Rusiji. Danska tvrdi da plin iz Sjevernog toka dva curi u Baltičko more. Od ponoći benzin jeftiniji 9, a dizel 10 lipa po litri. Premijer Plenković složio se sa zahtjevom predsjednika Milanovića da se razriješi ravnatelj Vojno-sigurnosne obavještajne agencije Ivica Kinder. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Talijani na biralištima - predviđa se izborna pobjeda desnice! Ruska Duma u četvrtak bi mogla raspravljati o aneksiji okupiranih dijelova Ukrajine. Sjeverna Koreja ispalila balističku raketu. Utakmica odluke u Beču - Hrvatska bi pobjedom protiv Austrije potvrdila završnicu nogometne Lige nacija. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 25 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a1/a5/20220925-jutarnja-kronika-33329960-20220925053514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.09. 2022-09-24</title>
-    <link>https://api.hrt.hr/media/a7/35/20220924-jutarnja-kronika-33327343-20220924053046.mp3</link>
-    <description>U govoru pred općom skupštinom UN-a premijer Plenković pozvao međunarodnu zajednicu na jedinstvo u osudi Rusije te u suočavanju s posljedicama agresije na Ukrajinu. Na okupiranim ukrajinskim područjima počeli referendumi o pripojenju Rusiji. Četvorici hrvatskih vojnih pilota stigle optužnice iz Beograda. Ministarstvo pravosuđa poručuje da će ih zaštititi. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 24 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a7/35/20220924-jutarnja-kronika-33327343-20220924053046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
