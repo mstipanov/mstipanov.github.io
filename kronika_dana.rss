@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Sep 2022 20:48:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 20:51:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.09. 2022-09-29</title>
+    <link>https://api.hrt.hr/media/25/c5/20220929-kronika-dana-33346460-20220929204013.mp3</link>
+    <description>Zbog kiše koja pada od jučer ponovno prijete poplave. Kupa se izlila u Karlovačkoj županiji. Karlovac se priprema za vrhunac vodnoga vala. U Rijeci saniraju posljedice sinoćnjeg nevremena u kojem je poginuo 50-godišnji muškarac. Na ceremoniji u Moskvi Putin će sutra proglasiti pripojenje četiriju okupiranih ukrajinskih regija Rusiji. Urednica: Mira Barić</description>
+    <pubDate>Thu, 29 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/c5/20220929-kronika-dana-33346460-20220929204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.09. 2022-09-28</title>
     <link>https://api.hrt.hr/media/14/7b/20220928-kronika-dana-33342155-20220928204029.mp3</link>
     <description>INA dobila novu upravu, troje bivših hrvatskih članova odlaze iz tvrtke bez otpremnina. Na Aktualnom prijepodnevu u Saboru najviše pitanja za premijera o INA-i i korupciji. Još nije jasno što je izazvalo istjecanje plina iz cjevovoda Sjevernog toka jedan i dva. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Apsolutnu većinu na talijanskim parlamentarnim izborima osvojila ujedinjena desnica na čelu s Đorđom Meloni. Premijer Plenković potvrdio da se pokreće postupak razrješenja ravnatelja Vojne sigurnosno-obavještajne agencije.Vladimir Putin dodijelio rusko državljanstvo zviždaču Edwardu Snowdenu.Urednica: Mira Barić</description>
     <pubDate>Mon, 26 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0c/37/20220926-kronika-dana-33335086-20220926203602.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.09. 2022-09-25</title>
-    <link>https://api.hrt.hr/media/82/a4/20220925-kronika-dana-33331555-20220925204030.mp3</link>
-    <description>Za sat vremena u Italiji se zatvaraju birališta. Hoće li se potvrditi predviđanja o pobjedi desne koalicije Giorgie Meloni? Na okupiranim ukrajinskim područjima nastavlja se referendum o priključenju Rusiji. U Rusiji se nastavljaju prosvjedi i egzodus vojnih obveznika. Hrvatska nogometna reprezentacija večeras u Beču igra s Austrijom u posljednjem kolu Lige nacija. Urednica: Sanja Rabuzin Pavić</description>
-    <pubDate>Sun, 25 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/82/a4/20220925-kronika-dana-33331555-20220925204030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
