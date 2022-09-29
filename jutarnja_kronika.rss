@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Sep 2022 05:47:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 05:49:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 29.09. 2022-09-29</title>
+    <link>https://api.hrt.hr/media/32/c8/20220929-jutarnja-kronika-33342817-20220929053505.mp3</link>
+    <description>U snažnom nevremenu, koje je sinoć zahvatilo Rijeku, poginula jedna osoba. Još se ne zna što je izazvalo istjecanje plina na podmorskim cijevima Sjevernog toka. Vlada će raspravljati o izmjenama Zakona o radu, jedna od ključnih novosti je reguliranje rada od kuće. Obilježava se Dan policije, blagdan svetog Mihovila. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 29 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/32/c8/20220929-jutarnja-kronika-33342817-20220929053505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.09. 2022-09-28</title>
     <link>https://api.hrt.hr/media/fd/b9/20220928-jutarnja-kronika-33339159-20220928053603.mp3</link>
     <description>Tri nova člana Uprave INA-e bit će imenovana na sjednici Nadzornog odbora. U Saboru Aktualno prijepodne. Sabotaža plinovoda Sjevernog toka 1 i 2 - zabilježene dvije podvodne eksplozije. Oluja pogodila Kubu i prisilila stanovništvo na evakuaciju. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Pobjedom protiv Austrije hrvatska nogometna reprezentacija ušla je u završni turnir četiri najbolje momčadi Lige nacija. Talijanska desnica imat će uvjerljivu većinu u oba doma parlamenta. Prva talijanska premijerka gotovo sigurno bit će Giorgia Meloni, čelnica ekstremno desne stranke Talijanska braća. Na okupiranim ukrajinskim područjima nastavlja se referendum o pripojenju Rusiji, a u toj zemlji i dalje se održavaju prosvjedi i traje egzodus vojnih obveznika. Urednik: Silvio Šop</description>
     <pubDate>Mon, 26 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/99/03/20220926-jutarnja-kronika-33332122-20220926053111.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.09. 2022-09-25</title>
-    <link>https://api.hrt.hr/media/a1/a5/20220925-jutarnja-kronika-33329960-20220925053514.mp3</link>
-    <description>Talijani na biralištima - predviđa se izborna pobjeda desnice! Ruska Duma u četvrtak bi mogla raspravljati o aneksiji okupiranih dijelova Ukrajine. Sjeverna Koreja ispalila balističku raketu. Utakmica odluke u Beču - Hrvatska bi pobjedom protiv Austrije potvrdila završnicu nogometne Lige nacija. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 25 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a1/a5/20220925-jutarnja-kronika-33329960-20220925053514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
