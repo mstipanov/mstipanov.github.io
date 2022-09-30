@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Sep 2022 05:49:45 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 05:52:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.09. 2022-09-30</title>
+    <link>https://api.hrt.hr/media/cc/b2/20220930-jutarnja-kronika-33347004-20220930053556.mp3</link>
+    <description>Vodostaji gornjeg toka rijeke Kupe u padu, vrhunac vodenog vala u Karlovcu se očekuje oko podneva. Na ceremoniji u Moskvi Vladimir Putin proglasit će pripojenje četiriju okupiranih ukrajinskih regija Rusiji. Pregovarački odbor Vlade i sindikati državnih službi održat će pregovore o dodatku Kolektivnom ugovoru za državne službenike i namještenike. Počinje nautički sajam Rijeka Boat Show. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 30 Sep 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/b2/20220930-jutarnja-kronika-33347004-20220930053556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.09. 2022-09-29</title>
     <link>https://api.hrt.hr/media/32/c8/20220929-jutarnja-kronika-33342817-20220929053505.mp3</link>
     <description>U snažnom nevremenu, koje je sinoć zahvatilo Rijeku, poginula jedna osoba. Još se ne zna što je izazvalo istjecanje plina na podmorskim cijevima Sjevernog toka. Vlada će raspravljati o izmjenama Zakona o radu, jedna od ključnih novosti je reguliranje rada od kuće. Obilježava se Dan policije, blagdan svetog Mihovila. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Zadnji je dan referenduma na okupiranim ukrajinskim područjima, Zapad najavio nove sankcije Rusiji. Danska tvrdi da plin iz Sjevernog toka dva curi u Baltičko more. Od ponoći benzin jeftiniji 9, a dizel 10 lipa po litri. Premijer Plenković složio se sa zahtjevom predsjednika Milanovića da se razriješi ravnatelj Vojno-sigurnosne obavještajne agencije Ivica Kinder. Urednik: Silvio Šop</description>
     <pubDate>Tue, 27 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b0/08/20220927-jutarnja-kronika-33335677-20220927053051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.09. 2022-09-26</title>
-    <link>https://api.hrt.hr/media/99/03/20220926-jutarnja-kronika-33332122-20220926053111.mp3</link>
-    <description>Pobjedom protiv Austrije hrvatska nogometna reprezentacija ušla je u završni turnir četiri najbolje momčadi Lige nacija. Talijanska desnica imat će uvjerljivu većinu u oba doma parlamenta. Prva talijanska premijerka gotovo sigurno bit će Giorgia Meloni, čelnica ekstremno desne stranke Talijanska braća. Na okupiranim ukrajinskim područjima nastavlja se referendum o pripojenju Rusiji, a u toj zemlji i dalje se održavaju prosvjedi i traje egzodus vojnih obveznika. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 26 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/99/03/20220926-jutarnja-kronika-33332122-20220926053111.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
