@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Sep 2022 13:50:39 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 14:23:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.09. 2022-09-30</title>
+    <link>https://api.hrt.hr/media/1b/85/20220930-dnevne-novosti-33348859-20220930134606.mp3</link>
+    <description>Očekuje se novo Putinovo obraćanje naciji u povodu pripojenja istočnih ukrajinskih područja. Aneksiju osudilo i Hrvatsko ministarstvo vanjskih poslova. Najmanje 23 osobe poginule su u ruskom raketiranju civilnog konvoja kod Zaporižja. Riječani će danima uklanjati štetu od snažnog nevremena koje u srijedu navečer zahvatilo taj grad. Zbog obilne kiše raste vodostaj rijeka, no stanje nije zabrinjavajuće. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 30 Sep 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/85/20220930-dnevne-novosti-33348859-20220930134606.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.09. 2022-09-29</title>
     <link>https://api.hrt.hr/media/3d/00/20220929-dnevne-novosti-33345456-20220929134011.mp3</link>
     <description>U jučerašnjem nevremenu u Rijeci jedna osoba poginula, velika količina kiše pala i u Istri, Karlovac se priprema za proglašavanje redovitih mjera obrane od poplave. Uragan Ian udario u obalu Floride, no ipak je oslabio na tropsku oluju. Otkriveno i četvrto oštećenje na plinovodima Sjevernog toka jedan i dva. Uredila: Sanja Cota</description>
@@ -23,14 +31,6 @@
     <description>Vlada predlaže člana uprave Plinakra Marina Zovka za novog člana uprave INA-e. Zadnji je dan referenduma o pripojenju ukrajinskih regija Rusiji. Švedska i Danska upozoravaju da u Baltičko more curi ruski plin. Medvjedjev ponovno prijeti nuklearnim oružjem. Gotovo 260 tisuća Rusa pobjeglo pred mobilizacijom. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 27 Sep 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d5/75/20220927-dnevne-novosti-33337579-20220927135544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.09. 2022-09-26</title>
-    <link>https://api.hrt.hr/media/31/b6/20220926-dnevne-novosti-33334096-20220926134118.mp3</link>
-    <description>Trijumf desnog bloka na talijanskim izborima Giorgia Meloni vjerojatno prva premijerka Italije. U središnjoj Rusiji naoružani napadač u školi ubio najmanje 13 ljudi, među njima sedmero djece. Direktor zagrebačke Plinare dao ostavku, neslužbeno - nije htio potpisati sudužništvo u novom kreditu Zagrebačkog holdinga. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 26 Sep 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/b6/20220926-dnevne-novosti-33334096-20220926134118.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
