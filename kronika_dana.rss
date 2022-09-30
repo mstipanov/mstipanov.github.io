@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Sep 2022 20:51:20 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 20:54:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.09. 2022-09-30</title>
+    <link>https://api.hrt.hr/media/a9/e4/20220930-kronika-dana-33349888-20220930204109.mp3</link>
+    <description>Četiri okupirane ukrajinske pokrajine pripojene Rusiji. Ukrajina zatražila hitan prijam u NATO-savez. Na poplavljenim područjima stanje ipak bolje, zbrajaju se štete. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 30 Sep 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/e4/20220930-kronika-dana-33349888-20220930204109.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.09. 2022-09-29</title>
     <link>https://api.hrt.hr/media/25/c5/20220929-kronika-dana-33346460-20220929204013.mp3</link>
     <description>Zbog kiše koja pada od jučer ponovno prijete poplave. Kupa se izlila u Karlovačkoj županiji. Karlovac se priprema za vrhunac vodnoga vala. U Rijeci saniraju posljedice sinoćnjeg nevremena u kojem je poginuo 50-godišnji muškarac. Na ceremoniji u Moskvi Putin će sutra proglasiti pripojenje četiriju okupiranih ukrajinskih regija Rusiji. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Vlada predlaže Marina Zovka iz Plinacra za trećeg člana Uprave INA-e. Sutra razrješenje troje dosadašnjih članova. Prije istjecanja plina iz plinovoda Sjeverni tok 1 i 2 dogodile se dvije podvodne eksplozije "vjerojatno namjerno izazvane". Sport! Naša mlada nogometna reprezentacija izborila plasman na Europsko prvenstvo, pobijedili Dansku na jedanaesterce. Urednica: Sanja Cota</description>
     <pubDate>Tue, 27 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8d/ee/20220927-kronika-dana-33338612-20220927203542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.09. 2022-09-26</title>
-    <link>https://api.hrt.hr/media/0c/37/20220926-kronika-dana-33335086-20220926203602.mp3</link>
-    <description>Apsolutnu većinu na talijanskim parlamentarnim izborima osvojila ujedinjena desnica na čelu s Đorđom Meloni. Premijer Plenković potvrdio da se pokreće postupak razrješenja ravnatelja Vojne sigurnosno-obavještajne agencije.Vladimir Putin dodijelio rusko državljanstvo zviždaču Edwardu Snowdenu.Urednica: Mira Barić</description>
-    <pubDate>Mon, 26 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0c/37/20220926-kronika-dana-33335086-20220926203602.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
