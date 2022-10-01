@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 30 Sep 2022 20:54:04 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 20:57:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.10. 2022-10-01</title>
+    <link>https://api.hrt.hr/media/d6/33/20221001-kronika-dana-33352266-20221001205055.mp3</link>
+    <description>Stupile na snagu Vladine mjere za ublažavanje posljedica inflacije, a u Zagrebu počeo novi sustav prikupljanja i naplate otpada. Ukrajinci ušli u grad Liman, rusko logističko središte za operacije u istočnom Donecku. Uredila: Sanja Cota</description>
+    <pubDate>Sat, 01 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d6/33/20221001-kronika-dana-33352266-20221001205055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.09. 2022-09-30</title>
     <link>https://api.hrt.hr/media/a9/e4/20220930-kronika-dana-33349888-20220930204109.mp3</link>
     <description>Četiri okupirane ukrajinske pokrajine pripojene Rusiji. Ukrajina zatražila hitan prijam u NATO-savez. Na poplavljenim područjima stanje ipak bolje, zbrajaju se štete. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>INA dobila novu upravu, troje bivših hrvatskih članova odlaze iz tvrtke bez otpremnina. Na Aktualnom prijepodnevu u Saboru najviše pitanja za premijera o INA-i i korupciji. Još nije jasno što je izazvalo istjecanje plina iz cjevovoda Sjevernog toka jedan i dva. Urednica: Sanja Cota</description>
     <pubDate>Wed, 28 Sep 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/14/7b/20220928-kronika-dana-33342155-20220928204029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.09. 2022-09-27</title>
-    <link>https://api.hrt.hr/media/8d/ee/20220927-kronika-dana-33338612-20220927203542.mp3</link>
-    <description>Vlada predlaže Marina Zovka iz Plinacra za trećeg člana Uprave INA-e. Sutra razrješenje troje dosadašnjih članova. Prije istjecanja plina iz plinovoda Sjeverni tok 1 i 2 dogodile se dvije podvodne eksplozije "vjerojatno namjerno izazvane". Sport! Naša mlada nogometna reprezentacija izborila plasman na Europsko prvenstvo, pobijedili Dansku na jedanaesterce. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 27 Sep 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8d/ee/20220927-kronika-dana-33338612-20220927203542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
