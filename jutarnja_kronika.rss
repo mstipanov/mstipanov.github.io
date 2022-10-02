@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Oct 2022 05:55:09 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 05:58:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.10. 2022-10-02</title>
+    <link>https://api.hrt.hr/media/a5/46/20221002-jutarnja-kronika-33352819-20221002053506.mp3</link>
+    <description>Otvorena su birališta u Bosni i Hercegovini, biraju se zastupnici na državnoj i lokalnoj razini te članovi rotirajućeg predsjedništva. Ukrajinci ušli u grad Liman, rusko logističko središte za akcije u istočnom Donecku. Stupile na snagu Vladine mjere za ublažavanje posljedica inflacije, a u Zagrebu počeo novi sustav prikupljanja i naplate odvoza otpada. 127 osoba je poginulo, a 180 ozlijeđeno u navijačkim neredima u Indoneziji. Manin Čilić u finalu turnira u Tel Avivu igra protiv Novaka Đokovića, Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 02 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a5/46/20221002-jutarnja-kronika-33352819-20221002053506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.10. 2022-10-01</title>
     <link>https://api.hrt.hr/media/ef/5d/20221001-jutarnja-kronika-33350479-20221001054048.mp3</link>
     <description>Počinje plinska sezona - eurospki ministri energetike nisu se uspjeli dogovoriti o ograničenju cijene plina. Rusija spriječila prihvaćanje rezolucije Vijeća sigurnosti UN-a kojom se osuđuje aneksija četiriju ukrajinskih regija. U Zagrebu od danas novi sustav odvajanja miješanog komunalnog otpada - u upotrebu ulaze plave ZG vrećice. Međunarodni je dan starijih osoba. Urednica Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>U snažnom nevremenu, koje je sinoć zahvatilo Rijeku, poginula jedna osoba. Još se ne zna što je izazvalo istjecanje plina na podmorskim cijevima Sjevernog toka. Vlada će raspravljati o izmjenama Zakona o radu, jedna od ključnih novosti je reguliranje rada od kuće. Obilježava se Dan policije, blagdan svetog Mihovila. Urednik: Silvio Šop</description>
     <pubDate>Thu, 29 Sep 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/c8/20220929-jutarnja-kronika-33342817-20220929053505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.09. 2022-09-28</title>
-    <link>https://api.hrt.hr/media/fd/b9/20220928-jutarnja-kronika-33339159-20220928053603.mp3</link>
-    <description>Tri nova člana Uprave INA-e bit će imenovana na sjednici Nadzornog odbora. U Saboru Aktualno prijepodne. Sabotaža plinovoda Sjevernog toka 1 i 2 - zabilježene dvije podvodne eksplozije. Oluja pogodila Kubu i prisilila stanovništvo na evakuaciju. Urednica: Mira Barić</description>
-    <pubDate>Wed, 28 Sep 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/b9/20220928-jutarnja-kronika-33339159-20220928053603.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
