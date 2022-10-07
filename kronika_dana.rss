@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Oct 2022 20:30:49 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 21:00:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.10. 2022-10-07</title>
+    <link>https://api.hrt.hr/media/95/1c/20221007-kronika-dana-33371778-20221007203548.mp3</link>
+    <description>Nobelovu nagradu za mir dobit će bjeloruski, ruski i ukrajinski aktivisti za ljudska prava.	Europska komisija uskoro će objaviti konkretnije prijedloge za zaustavljanje rasta cijene energenata. Državni zavod za statistiku pokušao objasniti rezultate popisa o broju katolika. Hrvatska biskupska konferencija priopćila - puno je veći problem pad broja stanovništva i broja mladih. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 07 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/1c/20221007-kronika-dana-33371778-20221007203548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.10. 2022-10-06</title>
     <link>https://api.hrt.hr/media/61/d6/20221006-kronika-dana-33368157-20221006204106.mp3</link>
     <description>Na sjednici antikorupcijskog vijeća, bivši direktor Janafa pod istragom, Dragan Kovačević govorio o tome kako je ugašena Sisačka rafinerija. Srbija optužuje Hrvatsku da je odgovorna za odluku Europske unije da im se zabrani uvoz ruske nafte preko Janafa. Zločin u Tajlandu - bivši policajac u vrtiću ubio najmanje 22-oje djece, ukupno je 37 žrtava. Urednica: Sanja Cota</description>
