@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Oct 2022 15:27:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 05:59:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.10. 2022-10-07</title>
+    <link>https://api.hrt.hr/media/b7/26/20221007-jutarnja-kronika-33368727-20221007053549.mp3</link>
+    <description>Bivši direktor Janafa, Uskokov optuženik Dragan Kovačević govorio pred protukorupcijskim vijećem kako je ugašena sisačka rafinerija. Premijer poručio - nisam naredio potpisivanje memoranduma. Iz Srbije optužbe i uvrede na račun Hrvatske zbog odluke Bruxellesa da zabrani dotok ruske nafte hrvatskim naftovodom. Državni zavod za statistiku objasnit će nejasnoće iz popisa stanovništva vezane za izjašnjavanje o vjerskoj zajednici. Urednica: Snježana Kralj</description>
+    <pubDate>Fri, 07 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b7/26/20221007-jutarnja-kronika-33368727-20221007053549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.10. 2022-10-06</title>
     <link>https://api.hrt.hr/media/57/61/20221006-jutarnja-kronika-33364993-20221006053602.mp3</link>
     <description>U Saboru bi Antikorupcijsko vijeće trebalo održati javno saslušanje. Od pozvanih dolazak potvrdio samo nekadašnji čelnik JANAF-a, sada USKOK-ov optuženik Dragan Kovačević. Ukrajina objavila da je i službeno počelo oslobađanje okupirane regije Luhanska. Prvi sastanak na vrhu Europske političke zajednice i neformalni samit Europskog vijeća počinju u Pragu. SPORT: u trećem kolu skupine Lige prvaka Dinamo minimalno poražen u Salzburgu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Sjeverna Koreja ispalila balističku raketu preko Japana. Vlada u Tokiju upozorila građane da se sklone. Ukrajinska vojska i dalje napreduje u svojoj protuofenzivi. Izabrano tročlano Predsjedništvo Bosne i Hercegovine - hrvatski član Željko Komšić, bošnjački Denis Bećirović, srpski Željka Cvijanović. Zadarska zračna luka dočekuje milijuntog putnika ove godine. Zadar dobiva i novi studentski dom. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 04 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7a/1e/20221004-jutarnja-kronika-33358327-20221004053516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.10. 2022-10-03</title>
-    <link>https://api.hrt.hr/media/69/cb/20221003-jutarnja-kronika-33354940-20221003053522.mp3</link>
-    <description>Jutarnja kronika 3. 10. 2022.. Urednik Mislav Togonal. Visoki predstavnik Kristijan Šmit donio izmjene Izbornoga zakona kojim je djelomice spriječio preglasavanje Hrvata u federalnoj vlasti. Iako se tijekom noći činilo da je Željko Komšić izabran za hrvatskog člana Predsjedništva BiH tijekom jutra se dogodio preokret. Trenutačno vodi Borjana Krišto iz HDZ-a. Danas će na sjednici Gospodarsko-socijalnog vijeća biti predstavljen paket Vladinih mjera za ublažavanje inflatornih učinaka i rasta cijena energenata, kao i izmjene Zakona o radu. Devet članica NATO-a iz središnje i istočne Europe dalo je potporu ukrajinskom nastojanju da postane članica Sjevernoatlantskog saveza. Vrijeme danas: prijepodne oblačno, mjestimice uz malo kiše na istoku zemlje i u gorju, a zatim razvedravanje.</description>
-    <pubDate>Mon, 03 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/cb/20221003-jutarnja-kronika-33354940-20221003053522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
