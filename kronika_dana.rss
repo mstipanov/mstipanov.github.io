@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Oct 2022 20:58:22 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 20:30:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Ukrajinske snage znatno napreduju na jugu i istoku zemlje, Moskva opovrgava medijska izvješća o testiranju nuklearnog oružja na ukrajinskoj granici. Sjeverna Koreja ispalila balističku raketu preko Japana, građani te zemlje pozvani u skloništa. Svjetska banka gotovo upola smanjila procjenu rasta hrvatskoga gospodarstva u idućoj godini. Sud naredio povratak zviždačice Maje Đerek na posao u Državne nekretnine. Urednik: Silvio Šop</description>
     <pubDate>Tue, 04 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ad/1c/20221004-kronika-dana-33360882-20221004203516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.10. 2022-10-03</title>
-    <link>https://api.hrt.hr/media/cc/a5/20221003-kronika-dana-33357762-20221003203525.mp3</link>
-    <description>U Predsjedništvo BiH-a izabrani Željko Komšić, Denis Bećirović i Željka Cvijanović. Premijer Plenković izrazio žaljenje što su još jedanput preglasani Hrvati.Ukrajinska vojska i dalje napreduje u svojoj protuofenzivi u regiji Herson, čak 83 posto Ukrajinaca želi da njihova zemlja uđe u NATO.Od ponoći skuplje gorivo, cijena benzina viša za 23 lipe, dizela za 11. Urednica: Mira Barić</description>
-    <pubDate>Mon, 03 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/a5/20221003-kronika-dana-33357762-20221003203525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
