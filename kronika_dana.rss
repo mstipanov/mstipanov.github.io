@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Oct 2022 21:00:53 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 21:03:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.10. 2022-10-08</title>
+    <link>https://api.hrt.hr/media/0b/62/20221008-kronika-dana-33374071-20221008204532.mp3</link>
+    <description>Za promet ponovno otvoren Kerčki most, koji povezuje krimski poluotok s Rusijom. Sjeverna Koreja ponovno ispalila balistički projektil, već sedmi put u dva tjedna. U Puli sutra prvi lokalni referendum. Građani će odlučiti žele li izmjenu urbanističkog plana - kojom će se ukinuti mogućnost gradnje na predjelu Lungomare. Urednica: Mira Barić</description>
+    <pubDate>Sat, 08 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0b/62/20221008-kronika-dana-33374071-20221008204532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.10. 2022-10-07</title>
     <link>https://api.hrt.hr/media/95/1c/20221007-kronika-dana-33371778-20221007203548.mp3</link>
     <description>Nobelovu nagradu za mir dobit će bjeloruski, ruski i ukrajinski aktivisti za ljudska prava.	Europska komisija uskoro će objaviti konkretnije prijedloge za zaustavljanje rasta cijene energenata. Državni zavod za statistiku pokušao objasniti rezultate popisa o broju katolika. Hrvatska biskupska konferencija priopćila - puno je veći problem pad broja stanovništva i broja mladih. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković nije dao nalog za zatvaranje rafinerije Sisak ni za slanje nafte prema Mađarskoj, izjavio bivši ministar Ćorić. Sutra će pred Antikorupcijskim vijećem u Saboru na pitanja o INA-i odgovarati samo Dragan Kovačević, ostali pozvani nisu se odazvali. Ukrajinske snage napreduju i na jugu zemlje vratile dio područja koja je pripojila Rusija. Urednica: Sanja Cota</description>
     <pubDate>Wed, 05 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ab/72/20221005-kronika-dana-33364456-20221005204527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.10. 2022-10-04</title>
-    <link>https://api.hrt.hr/media/ad/1c/20221004-kronika-dana-33360882-20221004203516.mp3</link>
-    <description>Ukrajinske snage znatno napreduju na jugu i istoku zemlje, Moskva opovrgava medijska izvješća o testiranju nuklearnog oružja na ukrajinskoj granici. Sjeverna Koreja ispalila balističku raketu preko Japana, građani te zemlje pozvani u skloništa. Svjetska banka gotovo upola smanjila procjenu rasta hrvatskoga gospodarstva u idućoj godini. Sud naredio povratak zviždačice Maje Đerek na posao u Državne nekretnine. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 04 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ad/1c/20221004-kronika-dana-33360882-20221004203516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
