@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Oct 2022 14:00:07 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 14:02:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.10. 2022-10-08</title>
+    <link>https://api.hrt.hr/media/37/6c/20221008-dnevne-novosti-33373306-20221008134032.mp3</link>
+    <description>Veliki požar jutros na mostu koji spaja Krim s Rusijom, ukrajinska vojska objavila da to nije njezino djelo. Srbijanski predsjednik Aleksandar Vučić Hrvatsku proglasio nepouzdanim dobavljačem te najavio gradnju naftovoda do Mađarske. Predsjednik Zoran Milanović poslao dopis premijeru Andreju Plenkoviću u kojem ga i pisano upozorava na nezakonito postupanje ministra obrane zbog odluke o upisu saborskog zastupnika Ante Bačića u ratnu školu. Dan je Hrvatskog sabora, građani su ga mogli razgledati i popričati s njegovim predsjednikom i zastupnicima. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 08 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/37/6c/20221008-dnevne-novosti-33373306-20221008134032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.10. 2022-10-07</title>
     <link>https://api.hrt.hr/media/42/16/20221007-dnevne-novosti-33370681-20221007134051.mp3</link>
     <description>27 članica Europske unije u Pragu traži odgovor na pitanje kako zaustaviti poskupljenje plina. Ministar Beroš prvi put predstavio reformu zdravstva. Neće se ukidati bolnice i domovi zdravlja. Nobelova nagrada za mir pripala bjeloruskim, ruskim i ukrajinskim aktivistima za ljudska prava. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ruski predsjednik Vladimir Putin i formalno pripojio više od 15 posto ukrajinskog teritorija. Zemlje članice Europske unije dogovorile osmi krug sankcija Rusiji. Saborska oporba optužila HDZ da pokušava spriječiti održavanje sutrašnje sjednice Antikorupcijskog vijeća o kriminalu u INA-i. Svjetski je Dan učitelja, u Hrvatskoj ih je 513 nagrađeno za njihova postignuća. Sport: Dinamo u trećem kolu Lige prvaka gostuje kod Salzburga, prijenos je na Drugom programu Radija i Televizije. Urednik: Silvio Šop</description>
     <pubDate>Wed, 05 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/57/0d/20221005-dnevne-novosti-33363466-20221005133525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.10. 2022-10-04</title>
-    <link>https://api.hrt.hr/media/2d/2c/20221004-dnevne-novosti-33359970-20221004134018.mp3</link>
-    <description>Sjeverna Koreja ispalila balističku raketu preko Japana koji je upozorio svoje građane da odu u skloništa. Ukrajinska vojska i dalje napreduje u protuofenzivi u hersonskoj regiji, Rusija ima velike probleme s novačenjem vojnika. Sve oštrija retorika između predsjednika Milanovića i ministra Banožića. Gradonačelnik Tomašević tvrdi da novi sustav razdvajanja otpada u gradu funkcionira, građani imaju mnogobrojne zamjerke, izdana prva kazna. Urednica: Mira Barić</description>
-    <pubDate>Tue, 04 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2d/2c/20221004-dnevne-novosti-33359970-20221004134018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
