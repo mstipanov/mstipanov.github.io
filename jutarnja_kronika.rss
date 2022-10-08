@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Oct 2022 05:59:15 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 06:01:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.10. 2022-10-08</title>
+    <link>https://api.hrt.hr/media/eb/ed/20221008-jutarnja-kronika-33372322-20221008053528.mp3</link>
+    <description>Bijela kuća tvrdi kako nema znakova da se Putin priprema upotrijebiti nuklearno oružje. Sud u Moskvi naredio zapljenu ureda Memoriala, samo nekoliko sati nakon što je ta nevladina organizacija dobila Nobelovu nagradu za mir. Ni u Pragu nije bilo jedinstva Europske unije o cijeni plina. Sabor se prisjeća 8. listopada '91. i otvara vrata građanima. U Lisinskom večeras nastupa londonski Kraljevski filharmonijski orkestar, jedan od najpoznatijih na svijetu. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 08 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/ed/20221008-jutarnja-kronika-33372322-20221008053528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.10. 2022-10-07</title>
     <link>https://api.hrt.hr/media/b7/26/20221007-jutarnja-kronika-33368727-20221007053549.mp3</link>
     <description>Bivši direktor Janafa, Uskokov optuženik Dragan Kovačević govorio pred protukorupcijskim vijećem kako je ugašena sisačka rafinerija. Premijer poručio - nisam naredio potpisivanje memoranduma. Iz Srbije optužbe i uvrede na račun Hrvatske zbog odluke Bruxellesa da zabrani dotok ruske nafte hrvatskim naftovodom. Državni zavod za statistiku objasnit će nejasnoće iz popisa stanovništva vezane za izjašnjavanje o vjerskoj zajednici. Urednica: Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>Kremlj opovrgnuo pisanja zapadnih medija o navodnom testiranju nuklearnog oružja na ukrajinskoj granici. Svjetska banka prognozira da će hrvatsko gospodarstvo iduće godine rasti upola slabije nego što se očekivalo. Svjetski je dan učitelja - obilježava se u više od sto zemalja svijeta. Urednica: Mira Barić</description>
     <pubDate>Wed, 05 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cd/f9/20221005-jutarnja-kronika-33361444-20221005053504.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.10. 2022-10-04</title>
-    <link>https://api.hrt.hr/media/7a/1e/20221004-jutarnja-kronika-33358327-20221004053516.mp3</link>
-    <description>Sjeverna Koreja ispalila balističku raketu preko Japana. Vlada u Tokiju upozorila građane da se sklone. Ukrajinska vojska i dalje napreduje u svojoj protuofenzivi. Izabrano tročlano Predsjedništvo Bosne i Hercegovine - hrvatski član Željko Komšić, bošnjački Denis Bećirović, srpski Željka Cvijanović. Zadarska zračna luka dočekuje milijuntog putnika ove godine. Zadar dobiva i novi studentski dom. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 04 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7a/1e/20221004-jutarnja-kronika-33358327-20221004053516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
