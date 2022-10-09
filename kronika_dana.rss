@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Oct 2022 21:03:17 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 21:05:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Na sjednici antikorupcijskog vijeća, bivši direktor Janafa pod istragom, Dragan Kovačević govorio o tome kako je ugašena Sisačka rafinerija. Srbija optužuje Hrvatsku da je odgovorna za odluku Europske unije da im se zabrani uvoz ruske nafte preko Janafa. Zločin u Tajlandu - bivši policajac u vrtiću ubio najmanje 22-oje djece, ukupno je 37 žrtava. Urednica: Sanja Cota</description>
     <pubDate>Thu, 06 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/61/d6/20221006-kronika-dana-33368157-20221006204106.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.10. 2022-10-05</title>
-    <link>https://api.hrt.hr/media/ab/72/20221005-kronika-dana-33364456-20221005204527.mp3</link>
-    <description>Premijer Plenković nije dao nalog za zatvaranje rafinerije Sisak ni za slanje nafte prema Mađarskoj, izjavio bivši ministar Ćorić. Sutra će pred Antikorupcijskim vijećem u Saboru na pitanja o INA-i odgovarati samo Dragan Kovačević, ostali pozvani nisu se odazvali. Ukrajinske snage napreduju i na jugu zemlje vratile dio područja koja je pripojila Rusija. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 05 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ab/72/20221005-kronika-dana-33364456-20221005204527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
