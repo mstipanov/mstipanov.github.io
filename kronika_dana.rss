@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Oct 2022 21:05:41 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 12:07:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.10. 2022-10-09</title>
+    <link>https://api.hrt.hr/media/dd/db/20221009-kronika-dana-33376243-20221010113105.mp3</link>
+    <description>Propao referendum u Puli - izašlo manje od 23 posto birača! Ruski predsjednik Putin za napad na Krimski most optužio ukrajinsku tajnu službu. Napad nazvao terorizmom. Za sutra sazvao važan sastanak u Kremlju. Austrijski predsjednik Alexander Van der Bellen osvojio još jedan mandat. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 09 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/db/20221009-kronika-dana-33376243-20221010113105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.10. 2022-10-08</title>
     <link>https://api.hrt.hr/media/0b/62/20221008-kronika-dana-33374071-20221008204532.mp3</link>
     <description>Za promet ponovno otvoren Kerčki most, koji povezuje krimski poluotok s Rusijom. Sjeverna Koreja ponovno ispalila balistički projektil, već sedmi put u dva tjedna. U Puli sutra prvi lokalni referendum. Građani će odlučiti žele li izmjenu urbanističkog plana - kojom će se ukinuti mogućnost gradnje na predjelu Lungomare. Urednica: Mira Barić</description>
