@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Oct 2022 14:04:58 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 13:37:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.10. 2022-10-10</title>
+    <link>https://api.hrt.hr/media/94/a3/20221010-dnevne-novosti-33378684-20221010133545.mp3</link>
+    <description>Rusi raketirali središta Kijeva. Ima mrtvih i ranjenih. Napadnuti i drugi gradovi diljem Ukrajine. Europska unija napade nazvala ratnim zločinom. Nakon novih ruskih napada porasle cijene nafte. Zemlje OPEC-a od idućeg mjeseca smanjuju proizvodnju. Širi se istraga o aferi u INA-i. Uhićena još dvojica direktora. Nakon neuspjelog referenduma u Puli nastavljaju se prepucavanja između gradonačelnika Zoričića i stranke Možemo. Iz Zadra večeras slavljenička Pomorska večer, emisija našeg radija koja je u srpnju napunila 70 godina neprekinutog emitiranja. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 10 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/a3/20221010-dnevne-novosti-33378684-20221010133545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.10. 2022-10-09</title>
     <link>https://api.hrt.hr/media/ae/f3/20221009-dnevne-novosti-33375518-20221009133505.mp3</link>
     <description>Građani Pule na referendumu izjašnjavaju se hoće li se na predjelu Lungomare graditi hotel ili ostati šetalište. Više od 17 civila poginulo, nekoliko desetaka ozlijeđeno u noćašnjem raketnom napadu u Zaporižji. Hrvatska doznala protivnike na Europskom nogometnom prvenstvu 2024.-te - izbjegla najteže protivnike, igrat će protiv Walesa, Armenije, Turske i Latvije. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>27 članica Europske unije u Pragu traži odgovor na pitanje kako zaustaviti poskupljenje plina. Ministar Beroš prvi put predstavio reformu zdravstva. Neće se ukidati bolnice i domovi zdravlja. Nobelova nagrada za mir pripala bjeloruskim, ruskim i ukrajinskim aktivistima za ljudska prava. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 07 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/16/20221007-dnevne-novosti-33370681-20221007134051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.10. 2022-10-06</title>
-    <link>https://api.hrt.hr/media/a6/29/20221006-dnevne-novosti-33367038-20221006134605.mp3</link>
-    <description>Održana sjednica antikorupcijskog vijeća - saslušan samo Dragan Kovačević. U Pragu prvi sastanak Europske političke zajednice, zasjenio ga verbalni sukob između premijera Plenkovića i srbijanskog predsjednika Vučića. Bivši policijac u dječjem vrtiću u Tajlandu ubio 34 osobe, među kojima 22-oje djece. Urednica: Mira Barić</description>
-    <pubDate>Thu, 06 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a6/29/20221006-dnevne-novosti-33367038-20221006134605.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
