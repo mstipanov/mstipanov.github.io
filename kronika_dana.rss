@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 10 Oct 2022 21:08:09 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 21:10:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.10. 2022-10-11</title>
+    <link>https://api.hrt.hr/media/3f/6a/20221011-kronika-dana-33382976-20221011204009.mp3</link>
+    <description>Ruska vojska i danas žestoko napada ukrajinske gradove. Trećini svjetskoga gospodarstva prijeti pad u ovoj i idućoj godini koja bi mogla biti i godina recesije, prognozira MMF. U Bosni i Hercegovini počeli pregovori o formiranju vlasti, Željko Komšić tuži visokog predstavnika Schmidta ustavnom sudu, a u Republici Srpskoj ponovno se prebrojavaju glasovi. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 11 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/6a/20221011-kronika-dana-33382976-20221011204009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.10. 2022-10-10</title>
     <link>https://api.hrt.hr/media/c9/4a/20221010-kronika-dana-33379662-20221010204047.mp3</link>
     <description>Rusi raketirali središte Kijeva i druge velike ukrajinske gradove. Zapad jednoglasan u osudi napada, poručuje da će nastaviti davati potporu Ukrajini. Širi se istraga o aferi u INA-i. Uhićena još dvojica direktora. Za ubojstvo bivše partnerice u splitskoj trgovini Željko Đekić osuđen na 38 godina zatvora. Pomorska večer slavi 70 godina neprekinutog emitiranja, domaćin slavljeničke emisije je Zadar. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Za promet ponovno otvoren Kerčki most, koji povezuje krimski poluotok s Rusijom. Sjeverna Koreja ponovno ispalila balistički projektil, već sedmi put u dva tjedna. U Puli sutra prvi lokalni referendum. Građani će odlučiti žele li izmjenu urbanističkog plana - kojom će se ukinuti mogućnost gradnje na predjelu Lungomare. Urednica: Mira Barić</description>
     <pubDate>Sat, 08 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/62/20221008-kronika-dana-33374071-20221008204532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.10. 2022-10-07</title>
-    <link>https://api.hrt.hr/media/95/1c/20221007-kronika-dana-33371778-20221007203548.mp3</link>
-    <description>Nobelovu nagradu za mir dobit će bjeloruski, ruski i ukrajinski aktivisti za ljudska prava.	Europska komisija uskoro će objaviti konkretnije prijedloge za zaustavljanje rasta cijene energenata. Državni zavod za statistiku pokušao objasniti rezultate popisa o broju katolika. Hrvatska biskupska konferencija priopćila - puno je veći problem pad broja stanovništva i broja mladih. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 07 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/1c/20221007-kronika-dana-33371778-20221007203548.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
