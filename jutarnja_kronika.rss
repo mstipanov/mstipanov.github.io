@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 10 Oct 2022 12:07:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 05:38:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.10. 2022-10-11</title>
+    <link>https://api.hrt.hr/media/f3/50/20221011-jutarnja-kronika-33380204-20221011053105.mp3</link>
+    <description>Više od 11 ljudi poginulo u jučerašnjim ruskim raketnim napadima na Kijev i druge ukrajinske gradove. Ukrajina prekinula izvoz struje. Jučer uhićena dvojica u aferi INA trebali bi izaći pred suca istrage. Država će graditi novi stadion u Zagrebu, a uložit će i u gradnju drugih sportskih objekata diljem zemlje. U 21 sat na zagrebačkome Maksimiru uzvratna utakmica 4-og kola Lige prvaka između Dinama i Salzburga. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 11 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f3/50/20221011-jutarnja-kronika-33380204-20221011053105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.10. 2022-10-10</title>
     <link>https://api.hrt.hr/media/12/df/20221010-jutarnja-kronika-33376738-20221010114558.mp3</link>
     <description>Propao jučerašnji referendum za Lungomare u Puli. Na njega je izišlo manje od četvrtine građana.Vladimir Putin optužio Ukrajinu da stoji iza napada na Krimski most. Za danas sazvao sastanak svojeg Vijeća sigurnosti. Iz Zadra večeras slavljenička Pomorska večer, emisija koja je u srpnju napunila 70 godina neprekinutog emitiranja. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Bijela kuća tvrdi kako nema znakova da se Putin priprema upotrijebiti nuklearno oružje. Sud u Moskvi naredio zapljenu ureda Memoriala, samo nekoliko sati nakon što je ta nevladina organizacija dobila Nobelovu nagradu za mir. Ni u Pragu nije bilo jedinstva Europske unije o cijeni plina. Sabor se prisjeća 8. listopada '91. i otvara vrata građanima. U Lisinskom večeras nastupa londonski Kraljevski filharmonijski orkestar, jedan od najpoznatijih na svijetu. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 08 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/eb/ed/20221008-jutarnja-kronika-33372322-20221008053528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.10. 2022-10-07</title>
-    <link>https://api.hrt.hr/media/b7/26/20221007-jutarnja-kronika-33368727-20221007053549.mp3</link>
-    <description>Bivši direktor Janafa, Uskokov optuženik Dragan Kovačević govorio pred protukorupcijskim vijećem kako je ugašena sisačka rafinerija. Premijer poručio - nisam naredio potpisivanje memoranduma. Iz Srbije optužbe i uvrede na račun Hrvatske zbog odluke Bruxellesa da zabrani dotok ruske nafte hrvatskim naftovodom. Državni zavod za statistiku objasnit će nejasnoće iz popisa stanovništva vezane za izjašnjavanje o vjerskoj zajednici. Urednica: Snježana Kralj</description>
-    <pubDate>Fri, 07 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/26/20221007-jutarnja-kronika-33368727-20221007053549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
