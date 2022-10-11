@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Oct 2022 15:27:49 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 16:40:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>EXPLORA 2022-10-11</title>
+    <link>https://api.hrt.hr/media/dd/17/20221011-explora-1814236-20221011161520.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 11 Oct 2022 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/17/20221011-explora-1814236-20221011161520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 2022-10-04</title>
     <link>https://api.hrt.hr/media/79/21/20221004-explora-1811893-20221004161018.mp3</link>
     <description>Elon Musk predlaže mirovni ugovor. Himars i ostali raketni sustavi. AI – umjetna inteligencija sve pametnija. Dart – nove informacije. Šah, poker – prevara do prevare. Nobel za medicinu – sekvenciranje genoma neandertalca (Svante Paabo, suradnica Petra Korlević).
@@ -93,14 +101,6 @@ Ukraina:
 Škola u AUS zabranila mobitele, dramatičan porast boljeg vladanja. </description>
     <pubDate>Tue, 09 Aug 2022 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/00/f1/20220809-explora-1795094-20220809160518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2022-08-02</title>
-    <link>https://api.hrt.hr/media/c5/04/20220802-explora-1793042-20220802161020.mp3</link>
-    <description>Rusija u Ukrajini. Loše njemačke samohodne haubice. Ruski svemirski program pred raspadom. Novi oblici života u špiljama i jamskim sustavima. Neželjene fotokemijske reakcije u ulju i vinu. Neom – novi pametni grad u saudijskoj pustinji.</description>
-    <pubDate>Tue, 02 Aug 2022 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/04/20220802-explora-1793042-20220802161020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
