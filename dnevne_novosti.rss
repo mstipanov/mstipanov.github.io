@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Oct 2022 13:42:15 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 13:45:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Rusi raketirali središta Kijeva. Ima mrtvih i ranjenih. Napadnuti i drugi gradovi diljem Ukrajine. Europska unija napade nazvala ratnim zločinom. Nakon novih ruskih napada porasle cijene nafte. Zemlje OPEC-a od idućeg mjeseca smanjuju proizvodnju. Širi se istraga o aferi u INA-i. Uhićena još dvojica direktora. Nakon neuspjelog referenduma u Puli nastavljaju se prepucavanja između gradonačelnika Zoričića i stranke Možemo. Iz Zadra večeras slavljenička Pomorska večer, emisija našeg radija koja je u srpnju napunila 70 godina neprekinutog emitiranja. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 10 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/a3/20221010-dnevne-novosti-33378684-20221010133545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.10. 2022-10-09</title>
-    <link>https://api.hrt.hr/media/ae/f3/20221009-dnevne-novosti-33375518-20221009133505.mp3</link>
-    <description>Građani Pule na referendumu izjašnjavaju se hoće li se na predjelu Lungomare graditi hotel ili ostati šetalište. Više od 17 civila poginulo, nekoliko desetaka ozlijeđeno u noćašnjem raketnom napadu u Zaporižji. Hrvatska doznala protivnike na Europskom nogometnom prvenstvu 2024.-te - izbjegla najteže protivnike, igrat će protiv Walesa, Armenije, Turske i Latvije. Urednica: Mira Barić</description>
-    <pubDate>Sun, 09 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/f3/20221009-dnevne-novosti-33375518-20221009133505.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
