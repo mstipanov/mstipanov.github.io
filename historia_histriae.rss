@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Oct 2022 15:57:50 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 15:46:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>HISTORIA IGOR JOVANOVIC 13.10. 2022-10-13</title>
+    <link>https://api.hrt.hr/media/31/4a/20221013-historia-histriae-1814861-20221013154015.mp3</link>
+    <description>U goste nam dolazi povjesničar Igor Jovanović, a pričamo o aktualnoj temi - investicijama. Kako su investicije u vrijeme Austrougarske utjecale na život stanovnika Pule? Saznajte samo u novom izdanju Historia Histriae. </description>
+    <pubDate>Thu, 13 Oct 2022 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/31/4a/20221013-historia-histriae-1814861-20221013154015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Povijest bolnice 2022-10-06</title>
     <link>https://api.hrt.hr/media/24/5a/20221006-historia-histriae-1812526-20221006154616.mp3</link>
     <description>U goste nam dolazi umirovljeni otorinolaringolog Ivica Pavičić Donkić......pričamo o povijesti civilne bolnice koju je Pula dobila u jeku epidemije sifilisa, a dotaknut ćemo se i mistične povijesti brda Sv. Mihovila. Budite s nama. </description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 05 May 2022 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4f/33/20220505-historia-histriae-1765039-20220505161527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Historia Histriae 2022-04-28</title>
-    <link>https://api.hrt.hr/media/a9/c9/20220428-historia-histriae-1762886-20220428161039.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 28 Apr 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/c9/20220428-historia-histriae-1762886-20220428161039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
