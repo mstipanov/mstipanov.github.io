@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Oct 2022 10:48:31 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 21:19:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.10. 2022-10-14</title>
+    <link>https://api.hrt.hr/media/dc/4e/20221014-kronika-dana-33394692-20221014204602.mp3</link>
+    <description>Rekordna inflacija u rujnu 12 cijelih 8 posto. Vladimir Putin najavio kraj mobilizacije i tvrdi da mu nije namjera uništavanje Ukrajine. U Turskoj eksplozija u rudniku ugljena - 49 radnika ostalo zarobljeno 300 metara pod zemljom. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 14 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/4e/20221014-kronika-dana-33394692-20221014204602.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.10. 2022-10-13</title>
     <link>https://api.hrt.hr/media/21/64/20221013-kronika-dana-33390937-20221014102126.mp3</link>
     <description>Rusi žestoko napadaju ukrajinske gradove, a predsjednik Zelenski i dalje traži više oružja. Hrvatska se nije pridružila njemačkoj inicijativi za nabavu europskog sustava protuzračne obrane jer već otprije o tome pregovara s Francuskom. Nakon što je u splitskoj bolnici umrla teško bolesna šestogodišnja djevojčica, centar za socijalnu skrb odbacio je tvrdnje da je bila zanemarivana. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ruska vojska i danas žestoko napada ukrajinske gradove. Trećini svjetskoga gospodarstva prijeti pad u ovoj i idućoj godini koja bi mogla biti i godina recesije, prognozira MMF. U Bosni i Hercegovini počeli pregovori o formiranju vlasti, Željko Komšić tuži visokog predstavnika Schmidta ustavnom sudu, a u Republici Srpskoj ponovno se prebrojavaju glasovi. Urednica: Sanja Cota</description>
     <pubDate>Tue, 11 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3f/6a/20221011-kronika-dana-33382976-20221011204009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.10. 2022-10-10</title>
-    <link>https://api.hrt.hr/media/c9/4a/20221010-kronika-dana-33379662-20221010204047.mp3</link>
-    <description>Rusi raketirali središte Kijeva i druge velike ukrajinske gradove. Zapad jednoglasan u osudi napada, poručuje da će nastaviti davati potporu Ukrajini. Širi se istraga o aferi u INA-i. Uhićena još dvojica direktora. Za ubojstvo bivše partnerice u splitskoj trgovini Željko Đekić osuđen na 38 godina zatvora. Pomorska večer slavi 70 godina neprekinutog emitiranja, domaćin slavljeničke emisije je Zadar. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 10 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/4a/20221010-kronika-dana-33379662-20221010204047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
