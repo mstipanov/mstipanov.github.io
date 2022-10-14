@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Oct 2022 10:18:26 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 13:49:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.10. 2022-10-14</title>
+    <link>https://api.hrt.hr/media/70/03/20221014-dnevne-novosti-33393785-20221014134100.mp3</link>
+    <description>Inflacija rekordnih 12 cijelih 8 posto - najviše poskupjeli hrana i bezalkoholna pića - više od 19 posto. Na višem sudu u Beogradu odgođeno pripremno ročište za suđenje četvorici hrvatskih pilota. Ruska vojska nastavlja granatirati Zaporižje te druge ukrajinske gradove i naselja - iz okupirane regije Hersona stanovnici se evakuiraju u Rusiju. Urednica: Mira Barić</description>
+    <pubDate>Fri, 14 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/70/03/20221014-dnevne-novosti-33393785-20221014134100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.10. 2022-10-13</title>
     <link>https://api.hrt.hr/media/85/1a/20221013-dnevne-novosti-33389845-20221014094601.mp3</link>
     <description>Ruske rakete gađale više od 40 ukrajinskih gradova i naselja - Rusija nastavlja i prijetnje da bi primanje Ukrajine u NATO moglo izazvati treći svjetski rat. Problemi sa zagrebačkim otpadom - inspekcija privremeno zaustavila primanje novog biootpada u kompostanu na Jakuševcu. U splitskom KBC-u zabranjeni sporazumni otkazi medicinskim sestrama, tehničarima i primaljama. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ruska vojska jutros žestoko napala više ukrajinskih gradova i regija. U jučerašnjim napadima poginulo je 19, a ranjeno 105 osoba. Jučer uhićeni u INA-inoj aferi `plin` Stjepan Leko i Vlado Mandić kod suca istrage koji odlučuje idu li u istražni zatvor. Klubovi zastupnika lijeve oporbe jednoglasno ocijenili skandaloznom izjavu premijera Plenkovića da istragu u INA-i iskorištavaju za orkestriranu operaciju rušenja Vlade. Sport: Dinamo večeras na Maksimiru u skupini Lige prvaka igra uzvratni susret protiv Salzburga, prijenos je na našem Drugom programu. Urednik: Silvio Šop</description>
     <pubDate>Tue, 11 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e2/e5/20221011-dnevne-novosti-33382024-20221011134509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.10. 2022-10-10</title>
-    <link>https://api.hrt.hr/media/94/a3/20221010-dnevne-novosti-33378684-20221010133545.mp3</link>
-    <description>Rusi raketirali središta Kijeva. Ima mrtvih i ranjenih. Napadnuti i drugi gradovi diljem Ukrajine. Europska unija napade nazvala ratnim zločinom. Nakon novih ruskih napada porasle cijene nafte. Zemlje OPEC-a od idućeg mjeseca smanjuju proizvodnju. Širi se istraga o aferi u INA-i. Uhićena još dvojica direktora. Nakon neuspjelog referenduma u Puli nastavljaju se prepucavanja između gradonačelnika Zoričića i stranke Možemo. Iz Zadra večeras slavljenička Pomorska večer, emisija našeg radija koja je u srpnju napunila 70 godina neprekinutog emitiranja. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 10 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/a3/20221010-dnevne-novosti-33378684-20221010133545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
