@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Oct 2022 05:47:34 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 10:48:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.10. 2022-10-14</title>
+    <link>https://api.hrt.hr/media/a4/b7/20221014-jutarnja-kronika-33391500-20221014102121.mp3</link>
+    <description>Rusi pozivaju civile na evakuaciju iz Hersona zbog napredovanja ukrajinskih snaga. Opet pucnjava u SAD-u - napadač u Sjevernoj Karolini ubio petero ljudi. Nakon što je u splitskoj bolnici umrla teško bolesna šestogodišnja djevojčica, Centar za socijalnu skrb odbacio je tvrdnje da je bila zanemarivana. Počinje Mjesec hrvatske knjige. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 14 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/b7/20221014-jutarnja-kronika-33391500-20221014102121.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.10. 2022-10-13</title>
     <link>https://api.hrt.hr/media/03/fe/20221013-jutarnja-kronika-33387409-20221013053513.mp3</link>
     <description>UN osudio Putinovu aneksiju ukrajinskih regija. Samo četiri zemlje uz Rusiju glasovale protiv rezolucije. Kina i Indija suzdržane. Za osudu ruske aneksije glasovala i Srbija. U Astani sastanak Putina i Erdogana. Turski bi predsjednik mogao iznijeti ideju za mir u Ukrajini. Grad Zagreb ponovno se zadužuje. U Saboru Zakon o sportu. Urednik: Mario Krstanović</description>
