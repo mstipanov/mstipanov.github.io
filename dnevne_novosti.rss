@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Oct 2022 13:58:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 13:55:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Ivo Sanader nije kriv za ratno profiterstvo. Skandal u Zrakoplovno-tehničkom centru - Uprava se sastala s ruskim trgovcima vojnom opremom. Vladimir Putin poručuje da Rusija može opskrbljivati Europu plinom preko plinovoda Sjeverni tok dva; Europa samo mora reći želi li to. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 12 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1a/b6/20221012-dnevne-novosti-33385779-20221012134024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.10. 2022-10-11</title>
-    <link>https://api.hrt.hr/media/e2/e5/20221011-dnevne-novosti-33382024-20221011134509.mp3</link>
-    <description>Ruska vojska jutros žestoko napala više ukrajinskih gradova i regija. U jučerašnjim napadima poginulo je 19, a ranjeno 105 osoba. Jučer uhićeni u INA-inoj aferi `plin` Stjepan Leko i Vlado Mandić kod suca istrage koji odlučuje idu li u istražni zatvor. Klubovi zastupnika lijeve oporbe jednoglasno ocijenili skandaloznom izjavu premijera Plenkovića da istragu u INA-i iskorištavaju za orkestriranu operaciju rušenja Vlade. Sport: Dinamo večeras na Maksimiru u skupini Lige prvaka igra uzvratni susret protiv Salzburga, prijenos je na našem Drugom programu. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 11 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e2/e5/20221011-dnevne-novosti-33382024-20221011134509.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
