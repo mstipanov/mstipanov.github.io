@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Oct 2022 13:58:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 20:56:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Zapad šalje Ukrajini oružje za protuzračnu obranu. Europska komisija predložila da se Bosni i Hercegovini dodijeli kandidacijski status. U Švicarskoj odbačen zahtjev Hrvatske za reviziju arbitraže o INA-i. Urednica: Sanja Cota</description>
     <pubDate>Wed, 12 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/0d/20221012-kronika-dana-33386805-20221012204028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.10. 2022-10-11</title>
-    <link>https://api.hrt.hr/media/3f/6a/20221011-kronika-dana-33382976-20221011204009.mp3</link>
-    <description>Ruska vojska i danas žestoko napada ukrajinske gradove. Trećini svjetskoga gospodarstva prijeti pad u ovoj i idućoj godini koja bi mogla biti i godina recesije, prognozira MMF. U Bosni i Hercegovini počeli pregovori o formiranju vlasti, Željko Komšić tuži visokog predstavnika Schmidta ustavnom sudu, a u Republici Srpskoj ponovno se prebrojavaju glasovi. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 11 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/6a/20221011-kronika-dana-33382976-20221011204009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
