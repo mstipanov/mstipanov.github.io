@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 16 Oct 2022 07:26:55 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 13:57:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.10. 2022-10-16</title>
+    <link>https://api.hrt.hr/media/f1/74/20221016-dnevne-novosti-33398259-20221016134103.mp3</link>
+    <description>U Vukovaru sjećanje na heroje obrane grada - Blagu Zadru i Alfreda Hilla. Istodobno, u Vukovar je stigao i patrijarh Srpske pravoslavne Crkve Porfirije kako bi posvetio obnovljenu crkvu. Kina bira novog čelnika partije i države, pod Xi Jinpingom postala drugo najjače gospodarstvo svijeta. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 16 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f1/74/20221016-dnevne-novosti-33398259-20221016134103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.10. 2022-10-15</title>
     <link>https://api.hrt.hr/media/bb/ca/20221015-dnevne-novosti-33396063-20221016063101.mp3</link>
     <description>Najmanje 40 rudara poginulo u eksploziji u rudniku ugljena na sjeveru Turske. Akcija spašavanja još traje. Zbog neprestanih ruskih napada, jutros za cijelu Ukrajinu proglašena zračna opasnost. U dubrovačku zračnu luku sletjela dvomilijunta putnica u ovoj godini. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ruske rakete gađale više od 40 ukrajinskih gradova i naselja - Rusija nastavlja i prijetnje da bi primanje Ukrajine u NATO moglo izazvati treći svjetski rat. Problemi sa zagrebačkim otpadom - inspekcija privremeno zaustavila primanje novog biootpada u kompostanu na Jakuševcu. U splitskom KBC-u zabranjeni sporazumni otkazi medicinskim sestrama, tehničarima i primaljama. Urednica: Mira Barić</description>
     <pubDate>Thu, 13 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/85/1a/20221013-dnevne-novosti-33389845-20221014094601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.10. 2022-10-12</title>
-    <link>https://api.hrt.hr/media/1a/b6/20221012-dnevne-novosti-33385779-20221012134024.mp3</link>
-    <description>Ivo Sanader nije kriv za ratno profiterstvo. Skandal u Zrakoplovno-tehničkom centru - Uprava se sastala s ruskim trgovcima vojnom opremom. Vladimir Putin poručuje da Rusija može opskrbljivati Europu plinom preko plinovoda Sjeverni tok dva; Europa samo mora reći želi li to. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 12 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1a/b6/20221012-dnevne-novosti-33385779-20221012134024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
