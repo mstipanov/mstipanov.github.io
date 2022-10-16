@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Oct 2022 13:58:18 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 05:56:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -23,14 +23,6 @@
     <description>UN osudio Putinovu aneksiju ukrajinskih regija. Samo četiri zemlje uz Rusiju glasovale protiv rezolucije. Kina i Indija suzdržane. Za osudu ruske aneksije glasovala i Srbija. U Astani sastanak Putina i Erdogana. Turski bi predsjednik mogao iznijeti ideju za mir u Ukrajini. Grad Zagreb ponovno se zadužuje. U Saboru Zakon o sportu. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 13 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/fe/20221013-jutarnja-kronika-33387409-20221013053513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.10. 2022-10-12</title>
-    <link>https://api.hrt.hr/media/f6/ca/20221012-jutarnja-kronika-33383565-20221012053521.mp3</link>
-    <description>Ruska vojska i jučer je žestoko napadala ukrajinske gradove. Ukrajinski predsjednik Zelenski od zemalja skupine G7 zatražio još oružja. Međunarodni monetarni fond upozorio - trećini svjetskoga gospodarstva prijeti pad u ovoj i idućoj godini, koja bi mogla biti i godina recesije. Nakon ponovljenog postupka u slučaju Hypo, očekuje se presuda bivšem premijeru Ivi Sanaderu. SPORT: u uzvratnom susretu skupine Lige prvaka Dinamo na Maksimiru remizirao sa Salzburgom 1:1. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 12 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/ca/20221012-jutarnja-kronika-33383565-20221012053521.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
