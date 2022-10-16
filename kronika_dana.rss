@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Oct 2022 20:56:02 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 07:26:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.10. 2022-10-15</title>
+    <link>https://api.hrt.hr/media/2c/80/20221015-kronika-dana-33396931-20221016070057.mp3</link>
+    <description>Iz rudnika u Turskoj spašeno 58 rudara, poginuo je 41.Cijela Ukrajina danas je bila pod uzbunom zbog ruskih zračnih napada.Patrijarh srpske pravoslavne crkve Porfirije došao u Vukovar, dio javnosti nezadovoljan jer se sutra obilježava obljetnica pogibije vukovarskog heroja Blage Zadre.
+Urednica: Sanja Cota</description>
+    <pubDate>Sat, 15 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/80/20221015-kronika-dana-33396931-20221016070057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.10. 2022-10-14</title>
     <link>https://api.hrt.hr/media/dc/4e/20221014-kronika-dana-33394692-20221014204602.mp3</link>
     <description>Rekordna inflacija u rujnu 12 cijelih 8 posto. Vladimir Putin najavio kraj mobilizacije i tvrdi da mu nije namjera uništavanje Ukrajine. U Turskoj eksplozija u rudniku ugljena - 49 radnika ostalo zarobljeno 300 metara pod zemljom. Urednica: Sanja Cota</description>
