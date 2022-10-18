@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Oct 2022 00:24:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 21:26:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.10. 2022-10-18</title>
+    <link>https://api.hrt.hr/media/57/c5/20221018-kronika-dana-33405770-20221018204542.mp3</link>
+    <description>Premijer Saboru podnio izvješće o radu Vlade, istodobno je održana sjednica Protukorupcijskog vijeća o INA-i. Sindikati državnih i javnih službi odbili novu ponudu Vlade za povećanje plaća i ostalih materijalnih prava. Rusija i dalje napada brojne ukrajinske gradove, Ukrajina tvrdi da to čini iranskim bespilotnim letjelicama i najavljuje prekid diplomatskih odnosa s Iranom. Privedena trojica maloljetnika koji su prije deset dana u Dugom Selu pretukli 15-godišnjaka. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 18 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/c5/20221018-kronika-dana-33405770-20221018204542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.10. 2022-10-17</title>
     <link>https://api.hrt.hr/media/dc/d5/20221017-kronika-dana-33402218-20221017204020.mp3</link>
     <description>Gorivo neće poskupjeti, Vlada intervenirala i ograničila cijene na još tjedan dana.Premijer Plenković ni sutra neće doći na sjednicu antikorupcijskog vijeća - u to će vrijeme u Saboru podnijeti izvješće o radu Vlade.Rusi napala Kijev bespilotnim letjelicama, vojni zrakoplov srušio se na stambenu zgradu u Rusiji, najmanje četvero ljudi poginulo. U Našicama spaljeno više od dvije tone droge koja bi na ilegalnom tržištu dosegnula cijenu oko 13 milijuna eura. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednica: Sanja Cota</description>
     <pubDate>Sat, 15 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2c/80/20221015-kronika-dana-33396931-20221016070057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.10. 2022-10-14</title>
-    <link>https://api.hrt.hr/media/dc/4e/20221014-kronika-dana-33394692-20221014204602.mp3</link>
-    <description>Rekordna inflacija u rujnu 12 cijelih 8 posto. Vladimir Putin najavio kraj mobilizacije i tvrdi da mu nije namjera uništavanje Ukrajine. U Turskoj eksplozija u rudniku ugljena - 49 radnika ostalo zarobljeno 300 metara pod zemljom. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 14 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/4e/20221014-kronika-dana-33394692-20221014204602.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
