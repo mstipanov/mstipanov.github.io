@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 16 Oct 2022 20:58:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 00:24:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.10. 2022-10-17</title>
+    <link>https://api.hrt.hr/media/dc/d5/20221017-kronika-dana-33402218-20221017204020.mp3</link>
+    <description>Gorivo neće poskupjeti, Vlada intervenirala i ograničila cijene na još tjedan dana.Premijer Plenković ni sutra neće doći na sjednicu antikorupcijskog vijeća - u to će vrijeme u Saboru podnijeti izvješće o radu Vlade.Rusi napala Kijev bespilotnim letjelicama, vojni zrakoplov srušio se na stambenu zgradu u Rusiji, najmanje četvero ljudi poginulo. U Našicama spaljeno više od dvije tone droge koja bi na ilegalnom tržištu dosegnula cijenu oko 13 milijuna eura. Urednica: Mira Barić</description>
+    <pubDate>Mon, 17 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/d5/20221017-kronika-dana-33402218-20221017204020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.10. 2022-10-16</title>
     <link>https://api.hrt.hr/media/49/cd/20221016-kronika-dana-33398972-20221016204052.mp3</link>
     <description>U Vukovaru je odana počast Blagi Zadri i Alfredu Hillu, herojima obrane grada, koji su poginuli prije 31-nu godinu. Istodobno, patrijarh Srpske pravoslavne Crkve Porfirije u Vukovaru posvetio obnovljenu crkvu, pozvao na molitvu i za žrtve Hrvate katolike. Rusi objavili da su uspjeli zaustaviti ukrajinsku protuofenzivu u regijama Hersonu i Luhansku. Tisuće ljudi izašle na ulice Pariza prosvjedujući protiv rasta cijena.Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednica: Sanja Cota</description>
     <description>Rekordna inflacija u rujnu 12 cijelih 8 posto. Vladimir Putin najavio kraj mobilizacije i tvrdi da mu nije namjera uništavanje Ukrajine. U Turskoj eksplozija u rudniku ugljena - 49 radnika ostalo zarobljeno 300 metara pod zemljom. Urednica: Sanja Cota</description>
     <pubDate>Fri, 14 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/4e/20221014-kronika-dana-33394692-20221014204602.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.10. 2022-10-13</title>
-    <link>https://api.hrt.hr/media/21/64/20221013-kronika-dana-33390937-20221014102126.mp3</link>
-    <description>Rusi žestoko napadaju ukrajinske gradove, a predsjednik Zelenski i dalje traži više oružja. Hrvatska se nije pridružila njemačkoj inicijativi za nabavu europskog sustava protuzračne obrane jer već otprije o tome pregovara s Francuskom. Nakon što je u splitskoj bolnici umrla teško bolesna šestogodišnja djevojčica, centar za socijalnu skrb odbacio je tvrdnje da je bila zanemarivana. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 13 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/64/20221013-kronika-dana-33390937-20221014102126.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

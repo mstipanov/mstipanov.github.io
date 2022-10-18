@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 16 Oct 2022 13:57:29 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 00:24:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.10. 2022-10-17</title>
+    <link>https://api.hrt.hr/media/dd/6c/20221017-dnevne-novosti-33401251-20221017133518.mp3</link>
+    <description>Ruska vojska dronovima snažno napala Kijev. Sindikati javnih službi odbili ponudu Vlade za povećanje osnovica plaća, najavljuju sindikalne akcije. Neslužbeno se doznaje da bi gorivo od ponoći moglo znatno poskupjeti. U Našicama spaljeno više od dvije tone droge, čija je vrijednost procijenjena na oko 13 milijuna eura. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 17 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/6c/20221017-dnevne-novosti-33401251-20221017133518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.10. 2022-10-16</title>
     <link>https://api.hrt.hr/media/f1/74/20221016-dnevne-novosti-33398259-20221016134103.mp3</link>
     <description>U Vukovaru sjećanje na heroje obrane grada - Blagu Zadru i Alfreda Hilla. Istodobno, u Vukovar je stigao i patrijarh Srpske pravoslavne Crkve Porfirije kako bi posvetio obnovljenu crkvu. Kina bira novog čelnika partije i države, pod Xi Jinpingom postala drugo najjače gospodarstvo svijeta. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Inflacija rekordnih 12 cijelih 8 posto - najviše poskupjeli hrana i bezalkoholna pića - više od 19 posto. Na višem sudu u Beogradu odgođeno pripremno ročište za suđenje četvorici hrvatskih pilota. Ruska vojska nastavlja granatirati Zaporižje te druge ukrajinske gradove i naselja - iz okupirane regije Hersona stanovnici se evakuiraju u Rusiju. Urednica: Mira Barić</description>
     <pubDate>Fri, 14 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/03/20221014-dnevne-novosti-33393785-20221014134100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.10. 2022-10-13</title>
-    <link>https://api.hrt.hr/media/85/1a/20221013-dnevne-novosti-33389845-20221014094601.mp3</link>
-    <description>Ruske rakete gađale više od 40 ukrajinskih gradova i naselja - Rusija nastavlja i prijetnje da bi primanje Ukrajine u NATO moglo izazvati treći svjetski rat. Problemi sa zagrebačkim otpadom - inspekcija privremeno zaustavila primanje novog biootpada u kompostanu na Jakuševcu. U splitskom KBC-u zabranjeni sporazumni otkazi medicinskim sestrama, tehničarima i primaljama. Urednica: Mira Barić</description>
-    <pubDate>Thu, 13 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/1a/20221013-dnevne-novosti-33389845-20221014094601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
