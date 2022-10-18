@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Oct 2022 13:58:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 16:25:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 2022-10-18</title>
+    <link>https://api.hrt.hr/media/07/86/20221018-explora-1816416-20221018161543.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 18 Oct 2022 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/86/20221018-explora-1816416-20221018161543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>EXPLORA 2022-10-11</title>
     <link>https://api.hrt.hr/media/dd/17/20221011-explora-1814236-20221011161520.mp3</link>
     <description>Kerčki ili Krimski most. USA Himars, GER Iris (umjesto Egiptu). Prekid u radu Starlinka. Hakerski napadi, zračne luke, bolnice. Space X, Crew5 i Anna Kikina Barbie. Navodnjavanje u Bangladešu i monsunski ciklusi.
@@ -97,15 +105,6 @@ Ukraina:
     <description>Kadrovski problemi ruske vojske. Nuklearka Zaporižje – granatiranje i međusobno optuživanje. Eksplozije na Krimu. USMC vadi F-35 iz mora.  Robot usisivač crta tlocrt kuće. Voyager izvan heliosfere. Enceladus – podzemni slani ocean. Budućnost svemira potpuni mrak. Što je bilo prije, galaksija ili crna rupa. Muškarci nadomještaju testosteron.  Spavanje i strane svijeta. Puno ili malo soli. Cijena magarećeg mlijeka.</description>
     <pubDate>Tue, 16 Aug 2022 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/5c/20220816-explora-1796987-20220816160104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2022-08-09</title>
-    <link>https://api.hrt.hr/media/00/f1/20220809-explora-1795094-20220809160518.mp3</link>
-    <description>Trbušasti sredovječni muškarci. Žitarice i mahunarke namakati prije konzumacije. Savjeti za održavanje vrta. Kolaps civilizacije. Promjena karijere u petom desetljeću života. Zrakoplovi ne lete preko polova. Kupovina rabljenog električnog auta. Wim Hof, Nizozemac u ledu. FBI pretresa Trumpa. Kina- Tajvan.  Ukrajina i Amnesty International . GPS – zašto ga Rusija ne ometa. Radijacijski proturadarski raketni sustavi. 
-Škola u AUS zabranila mobitele, dramatičan porast boljeg vladanja. </description>
-    <pubDate>Tue, 09 Aug 2022 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/00/f1/20220809-explora-1795094-20220809160518.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
