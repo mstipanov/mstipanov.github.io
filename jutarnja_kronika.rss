@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Oct 2022 00:24:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 05:54:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.10. 2022-10-18</title>
+    <link>https://api.hrt.hr/media/42/a5/20221018-jutarnja-kronika-33402736-20221018053051.mp3</link>
+    <description>Protukorupcijsko vijeće pozvalo premijera na saslušanje zbog afere INA. On ih ignorira i u to vrijeme u sabornici podnosi godišnje izvješće o radu Vlade. Nastavljaju se pregovori o povećanju osnovice plaća u javnim službama. Iz Vlade nude ukupno šest posto, a sindikati zbog inflacije traže ukupno 13 posto i prijete štrajkom. Vlada spriječila radikalni skok cijene goriva za još tjedan dana. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 18 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/a5/20221018-jutarnja-kronika-33402736-20221018053051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.10. 2022-10-17</title>
     <link>https://api.hrt.hr/media/cf/f9/20221017-jutarnja-kronika-33399508-20221017121020.mp3</link>
     <description>Europa će se iduće godine naći u recesiji, a negativni rast neće zaobići ni našu zemlju - poručio guverner Hrvatske narodne banke Boris Vujčić. Čelnici sindikata javnih službi objavit će rezultate izjašnjavanja o Vladinoj ponudi za povećanje plaća. Iločani će obilježiti 31-vu godišnjicu progonstva u Domovinskom ratu. Danas je i službeni početak cijepljenja protiv gripe. Zadarska zračna luka u uglednom društvu najboljih svjetskih aerodroma do 5 milijuna putnika. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Ruski predsjednik Vladimir Putin najavio kraj mobilizacije i tvrdi da mu nije namjera uništenje Ukrajine. Rekordna inflacija u rujnu - 12 cijelih 8 posto! U eksploziji rudnika ugljena u Turskoj poginulo je najmanje 25 ljudi. Međunarodni je dan bijelog štapa, u našoj je zemlji 5 i pol tisuća slijepih osoba. Urednik: Silvio Šop</description>
     <pubDate>Sat, 15 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b1/02/20221015-jutarnja-kronika-33395180-20221016062554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.10. 2022-10-14</title>
-    <link>https://api.hrt.hr/media/a4/b7/20221014-jutarnja-kronika-33391500-20221014102121.mp3</link>
-    <description>Rusi pozivaju civile na evakuaciju iz Hersona zbog napredovanja ukrajinskih snaga. Opet pucnjava u SAD-u - napadač u Sjevernoj Karolini ubio petero ljudi. Nakon što je u splitskoj bolnici umrla teško bolesna šestogodišnja djevojčica, Centar za socijalnu skrb odbacio je tvrdnje da je bila zanemarivana. Počinje Mjesec hrvatske knjige. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 14 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/b7/20221014-jutarnja-kronika-33391500-20221014102121.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
