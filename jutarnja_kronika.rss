@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Oct 2022 05:54:26 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 05:56:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.10. 2022-10-19</title>
+    <link>https://api.hrt.hr/media/4d/c6/20221019-jutarnja-kronika-33406291-20221019053602.mp3</link>
+    <description>Točno je šest godina otkako je Andrej Plenković na čelu Vlade. Jučer je Saboru podnio izvješće o njezinu radu. Sindikati državnih i javnih službi odbili novu Vladinu ponudu za povećanje plaća, pregovori se nastavljaju. Ukrajina najavila prekid diplomatskih odnosa s Iranom. Tvrde da Rusi upravo iranskim bespilotnim letjelicama napadaju civilne ciljeve. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 19 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/c6/20221019-jutarnja-kronika-33406291-20221019053602.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.10. 2022-10-18</title>
     <link>https://api.hrt.hr/media/42/a5/20221018-jutarnja-kronika-33402736-20221018053051.mp3</link>
     <description>Protukorupcijsko vijeće pozvalo premijera na saslušanje zbog afere INA. On ih ignorira i u to vrijeme u sabornici podnosi godišnje izvješće o radu Vlade. Nastavljaju se pregovori o povećanju osnovice plaća u javnim službama. Iz Vlade nude ukupno šest posto, a sindikati zbog inflacije traže ukupno 13 posto i prijete štrajkom. Vlada spriječila radikalni skok cijene goriva za još tjedan dana. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Napetosti u dijelu javnosti jer će patrijarh Porfirije danas, na godišnjicu pogibije heroja Blage Zadre, u Vukovaru posvetiti crkvu svetog oca Nikolaja. Najmanje jedanaestero ljudi je ubijeno, na poligonu za vojnu obuku u jugozapadnoj Rusiji, tvrdi se da je riječ o terorističkom napadu. Zbog problema u predškolskom sustavu, odgojitelji najavili prosvjed. Urednica: Mira Barić</description>
     <pubDate>Sun, 16 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/26/8b/20221016-jutarnja-kronika-33397432-20221016072057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.10. 2022-10-15</title>
-    <link>https://api.hrt.hr/media/b1/02/20221015-jutarnja-kronika-33395180-20221016062554.mp3</link>
-    <description>Ruski predsjednik Vladimir Putin najavio kraj mobilizacije i tvrdi da mu nije namjera uništenje Ukrajine. Rekordna inflacija u rujnu - 12 cijelih 8 posto! U eksploziji rudnika ugljena u Turskoj poginulo je najmanje 25 ljudi. Međunarodni je dan bijelog štapa, u našoj je zemlji 5 i pol tisuća slijepih osoba. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 15 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b1/02/20221015-jutarnja-kronika-33395180-20221016062554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
