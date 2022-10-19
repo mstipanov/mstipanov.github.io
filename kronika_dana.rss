@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Oct 2022 21:26:08 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 21:01:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.10. 2022-10-19</title>
+    <link>https://api.hrt.hr/media/a6/c4/20221019-kronika-dana-33409559-20221019204103.mp3</link>
+    <description>Najmanje 30 osoba, pod sumnjom na nedopuštenu trgovinu drogom, uhićeno u akciji policije i USKOK-a na području četiriju županija i grada Zagreba. Strašan slučaj nasilja u ambulanti - liječnik pretukao medicinsku sestru. Vlada donijela rebalans ovogodišnjeg proračuna, prema kojem prihodi rastu, a rashodi ostaju isti. Rusija nastavila zračne napade na ukrajinska energetska postrojenja, za okupirane ukrajinske regije Putin proglasio ratno stanje. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 19 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/c4/20221019-kronika-dana-33409559-20221019204103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.10. 2022-10-18</title>
     <link>https://api.hrt.hr/media/57/c5/20221018-kronika-dana-33405770-20221018204542.mp3</link>
     <description>Premijer Saboru podnio izvješće o radu Vlade, istodobno je održana sjednica Protukorupcijskog vijeća o INA-i. Sindikati državnih i javnih službi odbili novu ponudu Vlade za povećanje plaća i ostalih materijalnih prava. Rusija i dalje napada brojne ukrajinske gradove, Ukrajina tvrdi da to čini iranskim bespilotnim letjelicama i najavljuje prekid diplomatskih odnosa s Iranom. Privedena trojica maloljetnika koji su prije deset dana u Dugom Selu pretukli 15-godišnjaka. Urednik: Silvio Šop</description>
@@ -31,15 +39,6 @@
     <description>U Vukovaru je odana počast Blagi Zadri i Alfredu Hillu, herojima obrane grada, koji su poginuli prije 31-nu godinu. Istodobno, patrijarh Srpske pravoslavne Crkve Porfirije u Vukovaru posvetio obnovljenu crkvu, pozvao na molitvu i za žrtve Hrvate katolike. Rusi objavili da su uspjeli zaustaviti ukrajinsku protuofenzivu u regijama Hersonu i Luhansku. Tisuće ljudi izašle na ulice Pariza prosvjedujući protiv rasta cijena.Urednik: Silvio Šop</description>
     <pubDate>Sun, 16 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/cd/20221016-kronika-dana-33398972-20221016204052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.10. 2022-10-15</title>
-    <link>https://api.hrt.hr/media/2c/80/20221015-kronika-dana-33396931-20221016070057.mp3</link>
-    <description>Iz rudnika u Turskoj spašeno 58 rudara, poginuo je 41.Cijela Ukrajina danas je bila pod uzbunom zbog ruskih zračnih napada.Patrijarh srpske pravoslavne crkve Porfirije došao u Vukovar, dio javnosti nezadovoljan jer se sutra obilježava obljetnica pogibije vukovarskog heroja Blage Zadre.
-Urednica: Sanja Cota</description>
-    <pubDate>Sat, 15 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2c/80/20221015-kronika-dana-33396931-20221016070057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
