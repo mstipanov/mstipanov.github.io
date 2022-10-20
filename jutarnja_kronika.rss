@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Oct 2022 05:56:52 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 06:02:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.10. 2022-10-20</title>
+    <link>https://api.hrt.hr/media/70/7f/20221020-jutarnja-kronika-33410121-20221020053521.mp3</link>
+    <description>U Bruxellesu sastanak na vrhu Europske unije, glavne teme - Ukrajina i energetska kriza. U Saboru rasprava o Zakonu o radu. Počinje obnova zagrebačke katedrale teško oštećene u potresu. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 20 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/70/7f/20221020-jutarnja-kronika-33410121-20221020053521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.10. 2022-10-19</title>
     <link>https://api.hrt.hr/media/4d/c6/20221019-jutarnja-kronika-33406291-20221019053602.mp3</link>
     <description>Točno je šest godina otkako je Andrej Plenković na čelu Vlade. Jučer je Saboru podnio izvješće o njezinu radu. Sindikati državnih i javnih službi odbili novu Vladinu ponudu za povećanje plaća, pregovori se nastavljaju. Ukrajina najavila prekid diplomatskih odnosa s Iranom. Tvrde da Rusi upravo iranskim bespilotnim letjelicama napadaju civilne ciljeve. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Europa će se iduće godine naći u recesiji, a negativni rast neće zaobići ni našu zemlju - poručio guverner Hrvatske narodne banke Boris Vujčić. Čelnici sindikata javnih službi objavit će rezultate izjašnjavanja o Vladinoj ponudi za povećanje plaća. Iločani će obilježiti 31-vu godišnjicu progonstva u Domovinskom ratu. Danas je i službeni početak cijepljenja protiv gripe. Zadarska zračna luka u uglednom društvu najboljih svjetskih aerodroma do 5 milijuna putnika. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 17 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cf/f9/20221017-jutarnja-kronika-33399508-20221017121020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.10. 2022-10-16</title>
-    <link>https://api.hrt.hr/media/26/8b/20221016-jutarnja-kronika-33397432-20221016072057.mp3</link>
-    <description>Napetosti u dijelu javnosti jer će patrijarh Porfirije danas, na godišnjicu pogibije heroja Blage Zadre, u Vukovaru posvetiti crkvu svetog oca Nikolaja. Najmanje jedanaestero ljudi je ubijeno, na poligonu za vojnu obuku u jugozapadnoj Rusiji, tvrdi se da je riječ o terorističkom napadu. Zbog problema u predškolskom sustavu, odgojitelji najavili prosvjed. Urednica: Mira Barić</description>
-    <pubDate>Sun, 16 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/8b/20221016-jutarnja-kronika-33397432-20221016072057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
