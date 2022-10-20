@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Oct 2022 21:01:18 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 21:03:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.10. 2022-10-20</title>
+    <link>https://api.hrt.hr/media/18/1b/20221020-kronika-dana-33413301-20221020204026.mp3</link>
+    <description>Energetska kriza i rat u Ukrajini - glavne teme sastanka na vrhu Europske unije u Briselu. Izmjene Zakona o radu izazvale burnu raspravu u Saboru. Rezultati HRejtinga o popularnosti političkih stranaka. Nakon samo 45 dana, britanska premijerka Liz Truss dala ostavku. Urednica: Sanja Rabuzin Pavić</description>
+    <pubDate>Thu, 20 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/18/1b/20221020-kronika-dana-33413301-20221020204026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.10. 2022-10-19</title>
     <link>https://api.hrt.hr/media/a6/c4/20221019-kronika-dana-33409559-20221019204103.mp3</link>
     <description>Najmanje 30 osoba, pod sumnjom na nedopuštenu trgovinu drogom, uhićeno u akciji policije i USKOK-a na području četiriju županija i grada Zagreba. Strašan slučaj nasilja u ambulanti - liječnik pretukao medicinsku sestru. Vlada donijela rebalans ovogodišnjeg proračuna, prema kojem prihodi rastu, a rashodi ostaju isti. Rusija nastavila zračne napade na ukrajinska energetska postrojenja, za okupirane ukrajinske regije Putin proglasio ratno stanje. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Gorivo neće poskupjeti, Vlada intervenirala i ograničila cijene na još tjedan dana.Premijer Plenković ni sutra neće doći na sjednicu antikorupcijskog vijeća - u to će vrijeme u Saboru podnijeti izvješće o radu Vlade.Rusi napala Kijev bespilotnim letjelicama, vojni zrakoplov srušio se na stambenu zgradu u Rusiji, najmanje četvero ljudi poginulo. U Našicama spaljeno više od dvije tone droge koja bi na ilegalnom tržištu dosegnula cijenu oko 13 milijuna eura. Urednica: Mira Barić</description>
     <pubDate>Mon, 17 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/d5/20221017-kronika-dana-33402218-20221017204020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.10. 2022-10-16</title>
-    <link>https://api.hrt.hr/media/49/cd/20221016-kronika-dana-33398972-20221016204052.mp3</link>
-    <description>U Vukovaru je odana počast Blagi Zadri i Alfredu Hillu, herojima obrane grada, koji su poginuli prije 31-nu godinu. Istodobno, patrijarh Srpske pravoslavne Crkve Porfirije u Vukovaru posvetio obnovljenu crkvu, pozvao na molitvu i za žrtve Hrvate katolike. Rusi objavili da su uspjeli zaustaviti ukrajinsku protuofenzivu u regijama Hersonu i Luhansku. Tisuće ljudi izašle na ulice Pariza prosvjedujući protiv rasta cijena.Urednik: Silvio Šop</description>
-    <pubDate>Sun, 16 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/cd/20221016-kronika-dana-33398972-20221016204052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
