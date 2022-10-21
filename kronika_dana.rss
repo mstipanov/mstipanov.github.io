@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Oct 2022 21:03:45 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 21:10:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.10. 2022-10-21</title>
+    <link>https://api.hrt.hr/media/b0/9f/20221021-kronika-dana-33416612-20221021204534.mp3</link>
+    <description>U Briselu čelnici Europske unije postigli napredak, ali bez konkretnog dogovora o ograničenju cijena plina.Čelnica stranke Braća Italije Giorgia Meloni dobila mandat za sastav nove vlade. Strašna nesreća u Sisku, poginuli vlasnik klesarskog obrta i njegov radnik pri istovaru mramornih ploča iz kamiona. Urednica: Mira Barić</description>
+    <pubDate>Fri, 21 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/9f/20221021-kronika-dana-33416612-20221021204534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.10. 2022-10-20</title>
     <link>https://api.hrt.hr/media/18/1b/20221020-kronika-dana-33413301-20221020204026.mp3</link>
     <description>Energetska kriza i rat u Ukrajini - glavne teme sastanka na vrhu Europske unije u Briselu. Izmjene Zakona o radu izazvale burnu raspravu u Saboru. Rezultati HRejtinga o popularnosti političkih stranaka. Nakon samo 45 dana, britanska premijerka Liz Truss dala ostavku. Urednica: Sanja Rabuzin Pavić</description>
@@ -31,14 +39,6 @@
     <description>Premijer Saboru podnio izvješće o radu Vlade, istodobno je održana sjednica Protukorupcijskog vijeća o INA-i. Sindikati državnih i javnih službi odbili novu ponudu Vlade za povećanje plaća i ostalih materijalnih prava. Rusija i dalje napada brojne ukrajinske gradove, Ukrajina tvrdi da to čini iranskim bespilotnim letjelicama i najavljuje prekid diplomatskih odnosa s Iranom. Privedena trojica maloljetnika koji su prije deset dana u Dugom Selu pretukli 15-godišnjaka. Urednik: Silvio Šop</description>
     <pubDate>Tue, 18 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/57/c5/20221018-kronika-dana-33405770-20221018204542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.10. 2022-10-17</title>
-    <link>https://api.hrt.hr/media/dc/d5/20221017-kronika-dana-33402218-20221017204020.mp3</link>
-    <description>Gorivo neće poskupjeti, Vlada intervenirala i ograničila cijene na još tjedan dana.Premijer Plenković ni sutra neće doći na sjednicu antikorupcijskog vijeća - u to će vrijeme u Saboru podnijeti izvješće o radu Vlade.Rusi napala Kijev bespilotnim letjelicama, vojni zrakoplov srušio se na stambenu zgradu u Rusiji, najmanje četvero ljudi poginulo. U Našicama spaljeno više od dvije tone droge koja bi na ilegalnom tržištu dosegnula cijenu oko 13 milijuna eura. Urednica: Mira Barić</description>
-    <pubDate>Mon, 17 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/d5/20221017-kronika-dana-33402218-20221017204020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
