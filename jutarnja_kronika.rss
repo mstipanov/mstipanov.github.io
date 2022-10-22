@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Oct 2022 05:56:07 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 05:41:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.10. 2022-10-22</title>
+    <link>https://api.hrt.hr/media/22/2b/20221022-jutarnja-kronika-33417209-20221022053552.mp3</link>
+    <description>Simbolično u 12 sati i 5 minuta na glavnom zagrebačkom trgu prosvjed odgojitelja u vrtićima. Italija će dobiti novu Vladu i prvu premijerku - Giorgiu Meloni. Dan je svjesnosti o mucanju. Derbi Hajduka i Dinama na Poljudu bez pobjednika. Počinje nova skijaška sezona u Svjetskom kupu. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 22 Oct 2022 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/22/2b/20221022-jutarnja-kronika-33417209-20221022053552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.10. 2022-10-21</title>
     <link>https://api.hrt.hr/media/23/ba/20221021-jutarnja-kronika-33413847-20221021053529.mp3</link>
     <description>U Bruxellesu rano jutros prihvaćeni zaključci o odgovoru na energetsku krizu. U domaćoj političkoj areni - sukobi zbog spremnosti Hrvatske da sudjeluje u obuci ukrajinskih snaga. Prema HRejtingu, nakon afere INA, HDZ-u blago pala potpora, ali oporba nije profitirala. Urednica Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>Točno je šest godina otkako je Andrej Plenković na čelu Vlade. Jučer je Saboru podnio izvješće o njezinu radu. Sindikati državnih i javnih službi odbili novu Vladinu ponudu za povećanje plaća, pregovori se nastavljaju. Ukrajina najavila prekid diplomatskih odnosa s Iranom. Tvrde da Rusi upravo iranskim bespilotnim letjelicama napadaju civilne ciljeve. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 19 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/c6/20221019-jutarnja-kronika-33406291-20221019053602.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.10. 2022-10-18</title>
-    <link>https://api.hrt.hr/media/42/a5/20221018-jutarnja-kronika-33402736-20221018053051.mp3</link>
-    <description>Protukorupcijsko vijeće pozvalo premijera na saslušanje zbog afere INA. On ih ignorira i u to vrijeme u sabornici podnosi godišnje izvješće o radu Vlade. Nastavljaju se pregovori o povećanju osnovice plaća u javnim službama. Iz Vlade nude ukupno šest posto, a sindikati zbog inflacije traže ukupno 13 posto i prijete štrajkom. Vlada spriječila radikalni skok cijene goriva za još tjedan dana. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 18 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/42/a5/20221018-jutarnja-kronika-33402736-20221018053051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
