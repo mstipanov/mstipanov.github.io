@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Oct 2022 14:09:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 13:42:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Golema akcija policije i USKOK-a - samo na osječkom području najmanje 30 uhićenih - navodno je riječ o trima organiziranim skupinama koje su preprodavale drogu i duhan. Vlada utvrdila prijedlog rebalansa ovogodišnjeg proračuna, prihode povaćala za gotovo 760 milijuna kuna, rashodi ostali isti. Ruske vlasti počele evakuirati građane iz Hersonske regije zbog ukrajinske protuofenzive. Urednica: Mira Barić</description>
     <pubDate>Wed, 19 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/02/20221019-dnevne-novosti-33408535-20221019134106.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.10. 2022-10-18</title>
-    <link>https://api.hrt.hr/media/b2/7b/20221018-dnevne-novosti-33404686-20221018135541.mp3</link>
-    <description>Premijer Plenković u Saboru podnio izvješće o radu Vlade, većina oporbenih zastupnika bojkotirala raspravu i napustila sabornicu. Sa sjednice Antikorupcijskog vijeća o aferi u Ini udaljen Hrvoje Zekanović, saslušan član Inine Uprave Davor Mayer. U Francuskoj se štrajku velikih rafinerija pridružio i javni sektor. U jeku visoke inflacije sindikati traže veće plaće. Urednica: Mira Barić</description>
-    <pubDate>Tue, 18 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/7b/20221018-dnevne-novosti-33404686-20221018135541.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
