@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Oct 2022 20:43:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 20:45:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.10. 2022-10-23</title>
+    <link>https://api.hrt.hr/media/d3/9f/20221023-kronika-dana-33421109-20221023204011.mp3</link>
+    <description>Hoće li Vlada od sutra prestati intervenirati u cijene goriva? Zbog sastanka na vrhu Krimske platforme u Zagrebu, hrvatska policija pod posebnim sigurnosnim režimom. Uključuje to i posebnu regulaciju prometa. Tomislav Žigmanov bit će ministar u novoj srbijanskoj vladi - to je prvi put da je jedan Hrvat na ministarskoj dužnosti u Srbiji. Slovenci će predsjednika izabrati u drugome krugu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 23 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d3/9f/20221023-kronika-dana-33421109-20221023204011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.10. 2022-10-22</title>
     <link>https://api.hrt.hr/media/ad/13/20221022-kronika-dana-33418973-20221022203551.mp3</link>
     <description>Više od tisuću odgojitelja iz cijele zemlje prosvjedovalo na zagrebačkom glavnom trgu.Nastavljeni žestoki ruski napadi na Ukrajinu - opet napadnut i Kijev. Ukrajinci strahuju da će ruske snage razoriti branu na rijeci Dnjepru. Veliko zanimanje građana za neobičnu turu na zagrebačkome Mirogoju. Uprava organizirala "Dan otvorenih vrata" kako bi zainteresirani mogli vidjeti kako funkcionira krematorij. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Energetska kriza i rat u Ukrajini - glavne teme sastanka na vrhu Europske unije u Briselu. Izmjene Zakona o radu izazvale burnu raspravu u Saboru. Rezultati HRejtinga o popularnosti političkih stranaka. Nakon samo 45 dana, britanska premijerka Liz Truss dala ostavku. Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Thu, 20 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/18/1b/20221020-kronika-dana-33413301-20221020204026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.10. 2022-10-19</title>
-    <link>https://api.hrt.hr/media/a6/c4/20221019-kronika-dana-33409559-20221019204103.mp3</link>
-    <description>Najmanje 30 osoba, pod sumnjom na nedopuštenu trgovinu drogom, uhićeno u akciji policije i USKOK-a na području četiriju županija i grada Zagreba. Strašan slučaj nasilja u ambulanti - liječnik pretukao medicinsku sestru. Vlada donijela rebalans ovogodišnjeg proračuna, prema kojem prihodi rastu, a rashodi ostaju isti. Rusija nastavila zračne napade na ukrajinska energetska postrojenja, za okupirane ukrajinske regije Putin proglasio ratno stanje. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 19 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a6/c4/20221019-kronika-dana-33409559-20221019204103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
