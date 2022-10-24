@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Oct 2022 13:44:46 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 13:47:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.10. 2022-10-24</title>
+    <link>https://api.hrt.hr/media/49/bb/20221024-dnevne-novosti-33423738-20221024134041.mp3</link>
+    <description>Zagreb je domaćin Krimske platforme. Stigla i predsjednica Zastupničkog doma američkog Kongresa Nancy Pelosi. Razgovarat će s premijerom i predsjednikom Sabora. U ponoć poskupljuje gorivo, Vlada ovaj put nije zamrznula cijene. Novi britanski premijer mogao bi postati Rishi Sunak. Aco Petrović četvrti put postao izbornik hrvatske košarkaške reprezentacije. Urednik: Mario Krstanović</description>
+    <pubDate>Mon, 24 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/49/bb/20221024-dnevne-novosti-33423738-20221024134041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.10. 2022-10-23</title>
     <link>https://api.hrt.hr/media/96/9b/20221023-dnevne-novosti-33420344-20221023134013.mp3</link>
     <description>Tomislav Žigmanov, predsjednik Demokratskog saveza vojvođanskih Hrvata, bit će ministar u novoj srbijanskoj vladi - prvi je to put da je jedan Hrvat na ministarskoj dužnosti u Srbiji. Zbog golemih šteta na energetskim postrojenjima, ukrajinski predsjednik Zelenski pozvao građane da štede struju. Predsjednički izbori u Sloveniji. Prema anketama, nasljednika Boruta Pahora nećemo doznati u prvom krugu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Šefovi država i vlada Europske unije korak su bliže dogovoru o korekciji cijene plina. Sabor prihvatio godišnje izvješće o radu Vlade. Oporba nije propustila još jedanput prozvati HDZ zbog afere INA. Ostavku dao predsjednik Nadzornog odbora Podravke Želimir Vukina. Pojedinosti se ne znaju. Na Poljudu derbi vječitih protivnika Hajduka i Dinama. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 21 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/34/20221021-dnevne-novosti-33415778-20221021134035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.10. 2022-10-20</title>
-    <link>https://api.hrt.hr/media/b5/ee/20221020-dnevne-novosti-33412063-20221020134024.mp3</link>
-    <description>Izmjene Zakona o radu u Saboru u prvom čitanju. Dok vladajući tvrde da će potaknuti zapošljavanje i rast plaća, oporba ističe da pogoduje poslodavcima te da nijednu nepravdu s kojom se suočavaju radnici neće ispraviti. Energetska kriza i rat u Ukrajini glavne teme sastanka na vrhu Europske unije u Briselu. Britanska premijerka Liz Truss dala ostavku. Počela obnova Zagrebačke katedrale stradale u potresu. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 20 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/ee/20221020-dnevne-novosti-33412063-20221020134024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
