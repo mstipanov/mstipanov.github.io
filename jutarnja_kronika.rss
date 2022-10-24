@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Oct 2022 05:43:59 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 05:46:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Bruxellesu rano jutros prihvaćeni zaključci o odgovoru na energetsku krizu. U domaćoj političkoj areni - sukobi zbog spremnosti Hrvatske da sudjeluje u obuci ukrajinskih snaga. Prema HRejtingu, nakon afere INA, HDZ-u blago pala potpora, ali oporba nije profitirala. Urednica Snježana Kralj</description>
     <pubDate>Fri, 21 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/23/ba/20221021-jutarnja-kronika-33413847-20221021053529.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.10. 2022-10-20</title>
-    <link>https://api.hrt.hr/media/70/7f/20221020-jutarnja-kronika-33410121-20221020053521.mp3</link>
-    <description>U Bruxellesu sastanak na vrhu Europske unije, glavne teme - Ukrajina i energetska kriza. U Saboru rasprava o Zakonu o radu. Počinje obnova zagrebačke katedrale teško oštećene u potresu. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 20 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/7f/20221020-jutarnja-kronika-33410121-20221020053521.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
