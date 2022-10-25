@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Oct 2022 13:47:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 13:51:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Zagrebu održan prosvjed odgojitelja iz cijele zemlje. Traže veće plaće i bolje radne uvjete. Prisegnula talijanska premijerka Giorgia Meloni. Slovenci sutra biraju novog predsjednika. Uoči sastanka na vrhu Krimske platforme, koji će se održati u utorak u Zagrebu, u našu zemlju stigao predsjednik Ukrajinskog parlamenta Ruslan Stefančuk. Diljem Ukrajine od jutros traju ruski raketni napadi. Napadnuti su Kijev, Odesa i drugi gradovi. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 22 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/12/20221022-dnevne-novosti-33418174-20221022134056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.10. 2022-10-21</title>
-    <link>https://api.hrt.hr/media/04/34/20221021-dnevne-novosti-33415778-20221021134035.mp3</link>
-    <description>Šefovi država i vlada Europske unije korak su bliže dogovoru o korekciji cijene plina. Sabor prihvatio godišnje izvješće o radu Vlade. Oporba nije propustila još jedanput prozvati HDZ zbog afere INA. Ostavku dao predsjednik Nadzornog odbora Podravke Želimir Vukina. Pojedinosti se ne znaju. Na Poljudu derbi vječitih protivnika Hajduka i Dinama. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 21 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/34/20221021-dnevne-novosti-33415778-20221021134035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
