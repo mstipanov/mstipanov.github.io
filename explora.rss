@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Oct 2022 16:00:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 16:21:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 2022-10-25</title>
+    <link>https://api.hrt.hr/media/1c/9e/20221025-explora-1818788-20221025162029.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 25 Oct 2022 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/9e/20221025-explora-1818788-20221025162029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 2022-10-18</title>
     <link>https://api.hrt.hr/media/22/da/20221018-explora-1816420-20221019153600.mp3</link>
     <description>Kina, treći mandat Xi Jin Pingu, razvoj tehnologije, tržište. Američki embargo na isporuku poluvodiča u Kinu. Energetika – Grčka 100 % obnovljivi izvori energije. Iskoristivost i produktivnost vjetro-turbine Siemens Gamesa SG 14-222 (236).  Poslovni ljudi odjavljuju svoje zrakoplove (da ih se ne prati).  Recikliranje mobilnih telefona.  Nobelovci. HAARP. Neandertalci i koplje. Damanhur, životna zajednica na Moho sloju.
@@ -99,14 +107,6 @@ Ukraina:
     <description>Ljetna škola astronomije u Višnjanu. Projekt "Sophia". Uskoro NASA šalje raketu na Mjesec. Jupiter očima Jamesa Webba. Kina gradi velike solarne teleskope. Nestašica čipova. Sezona otkazanih letova. Morski oprašivači.</description>
     <pubDate>Tue, 23 Aug 2022 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/6f/20220823-explora-1799021-20220823160536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2022-08-16</title>
-    <link>https://api.hrt.hr/media/d7/5c/20220816-explora-1796987-20220816160104.mp3</link>
-    <description>Kadrovski problemi ruske vojske. Nuklearka Zaporižje – granatiranje i međusobno optuživanje. Eksplozije na Krimu. USMC vadi F-35 iz mora.  Robot usisivač crta tlocrt kuće. Voyager izvan heliosfere. Enceladus – podzemni slani ocean. Budućnost svemira potpuni mrak. Što je bilo prije, galaksija ili crna rupa. Muškarci nadomještaju testosteron.  Spavanje i strane svijeta. Puno ili malo soli. Cijena magarećeg mlijeka.</description>
-    <pubDate>Tue, 16 Aug 2022 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d7/5c/20220816-explora-1796987-20220816160104.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
