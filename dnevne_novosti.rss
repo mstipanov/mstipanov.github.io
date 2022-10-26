@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 25 Oct 2022 14:21:43 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 13:48:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.10. 2022-10-26</title>
+    <link>https://api.hrt.hr/media/30/58/20221026-dnevne-novosti-33431048-20221026134550.mp3</link>
+    <description>Podignuta optužnica protiv Horvata, Aladrovića, Tolušića i Miloševića. Oporba zaziva pad Vlade, premijer uvjerava da optužnica nije teret za Vladu jer je riječ o njezinim bivšim članovima. Vlada i sindikati nastavljaju pregovore o povećanju plaća, pregovorima se priključuje i premijer. Moskva i dalje optužuje Kijev da namjerava napasti tzv. "prljavom bombom". Reagirao NATO: "Rusija često optužuje druge za ono što sama planira učiniti". Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 26 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/30/58/20221026-dnevne-novosti-33431048-20221026134550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.10. 2022-10-25</title>
     <link>https://api.hrt.hr/media/04/84/20221025-dnevne-novosti-33427506-20221025141528.mp3</link>
     <description>Sa sastanka Krimske platforme u Zagrebu poslane snažne poruke potpore Ukrajini. Svih jedanaest sindikata u javnim službama odbilo Vladinu ponudu za povećanje osnovice plaće. Najavljuju prosvjede. Nakon što ga je imenovao kralj Charles III, Rishi Sunak i službeno novi britanski premijer. Dinamo večeras u Maksimiru očekuje ključna utakmica u skupini Lige prvaka protiv talijanskog Milana. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Tomislav Žigmanov, predsjednik Demokratskog saveza vojvođanskih Hrvata, bit će ministar u novoj srbijanskoj vladi - prvi je to put da je jedan Hrvat na ministarskoj dužnosti u Srbiji. Zbog golemih šteta na energetskim postrojenjima, ukrajinski predsjednik Zelenski pozvao građane da štede struju. Predsjednički izbori u Sloveniji. Prema anketama, nasljednika Boruta Pahora nećemo doznati u prvom krugu. Urednica: Mira Barić</description>
     <pubDate>Sun, 23 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/96/9b/20221023-dnevne-novosti-33420344-20221023134013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.10. 2022-10-22</title>
-    <link>https://api.hrt.hr/media/32/12/20221022-dnevne-novosti-33418174-20221022134056.mp3</link>
-    <description>U Zagrebu održan prosvjed odgojitelja iz cijele zemlje. Traže veće plaće i bolje radne uvjete. Prisegnula talijanska premijerka Giorgia Meloni. Slovenci sutra biraju novog predsjednika. Uoči sastanka na vrhu Krimske platforme, koji će se održati u utorak u Zagrebu, u našu zemlju stigao predsjednik Ukrajinskog parlamenta Ruslan Stefančuk. Diljem Ukrajine od jutros traju ruski raketni napadi. Napadnuti su Kijev, Odesa i drugi gradovi. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 22 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/32/12/20221022-dnevne-novosti-33418174-20221022134056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
