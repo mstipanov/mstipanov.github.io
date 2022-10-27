@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Oct 2022 21:19:31 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 20:47:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@
 Od ponoći benzin i dizel skuplji, cijena plavog dizela ostaje ista. Rishi Sunak sutra će i službeno postati novi britanski premijer. Urednica: Mira Barić</description>
     <pubDate>Mon, 24 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/96/6a/20221024-kronika-dana-33425032-20221024204040.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.10. 2022-10-23</title>
-    <link>https://api.hrt.hr/media/d3/9f/20221023-kronika-dana-33421109-20221023204011.mp3</link>
-    <description>Hoće li Vlada od sutra prestati intervenirati u cijene goriva? Zbog sastanka na vrhu Krimske platforme u Zagrebu, hrvatska policija pod posebnim sigurnosnim režimom. Uključuje to i posebnu regulaciju prometa. Tomislav Žigmanov bit će ministar u novoj srbijanskoj vladi - to je prvi put da je jedan Hrvat na ministarskoj dužnosti u Srbiji. Slovenci će predsjednika izabrati u drugome krugu. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 23 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/9f/20221023-kronika-dana-33421109-20221023204011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
