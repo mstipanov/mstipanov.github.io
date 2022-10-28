@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Oct 2022 20:49:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 21:20:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.10. 2022-10-28</title>
+    <link>https://api.hrt.hr/media/e8/9b/20221028-kronika-dana-33440183-20221028204104.mp3</link>
+    <description>Ratne obljetnice izazvale novu razmjenu teških riječi predsjednika i premijera. Sindikat znanosti i visokog obrazovanja odbio ponudu Vlade o rastu plaća.. U Puli otvorena nova moderna bolnica vrijedna 800 milijuna kuna. Preminuo je Jerry Lee Lewis - jedan od pionira rock and rolla.
+Urednica: Sanja Rabuzin Pavić</description>
+    <pubDate>Fri, 28 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/9b/20221028-kronika-dana-33440183-20221028204104.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.10. 2022-10-27</title>
     <link>https://api.hrt.hr/media/46/4f/20221027-kronika-dana-33436133-20221027204026.mp3</link>
     <description>Predstavljena reforma zdravstva - predviđa okretanje prevenciji i reorganizaciju zdravstvenog sustava. Ministar financija u Saboru izložio drugi rebalans ovogodišnjeg državnog proračuna, oporba prozvala Vladu da se koristi inflacijom kako bi punila proračun, a građanima daje mrvice. Ruski predsjednik Vladimir Putin u obraćanju javnosti optužio Zapad da podupire rat u Ukrajini, eskalira provokacija oko Tajvana i destabilizira svjetska tržišta hrane i energije. Europska središnja banka podignula vodeću kamatnu stopu za euro na dva posto, najviše od 2011. Urednik: Silvio Šop</description>
