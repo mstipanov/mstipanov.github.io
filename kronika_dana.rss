@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Oct 2022 21:20:01 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 20:52:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.10. 2022-10-29</title>
+    <link>https://api.hrt.hr/media/a0/f2/20221029-kronika-dana-33442539-20221029204015.mp3</link>
+    <description>Najmanje 146 poginulih u Seulu na proslavi Noći vještica. 30. obljetnica oslobođenja juga Hrvatske u sjeni novog prijepora predsjednika države i premijera. Hoće li sindikati javnih i državnih službi prihvatiti Vladinu ponudu povećanja osnovice plaća i drugih materijalnih prava? Nakon duge i teške bolesti umro je redatelj Lukas Nola. Urednica: Sanja Rabuzin Pavić</description>
+    <pubDate>Sat, 29 Oct 2022 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a0/f2/20221029-kronika-dana-33442539-20221029204015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.10. 2022-10-28</title>
     <link>https://api.hrt.hr/media/e8/9b/20221028-kronika-dana-33440183-20221028204104.mp3</link>
     <description>Ratne obljetnice izazvale novu razmjenu teških riječi predsjednika i premijera. Sindikat znanosti i visokog obrazovanja odbio ponudu Vlade o rastu plaća.. U Puli otvorena nova moderna bolnica vrijedna 800 milijuna kuna. Preminuo je Jerry Lee Lewis - jedan od pionira rock and rolla.
@@ -32,14 +40,6 @@ Urednica: Sanja Rabuzin Pavić</description>
     <description>U Vladi završen sastanak sa sindikatima državnih i javnih službi o povećanju plaća. Vlada ponudila šest posto od ovog mjeseca i još dva posto od travnja iduće godine. Sindikati s ponudom idu pred članstvo. Podignuta optužnica protiv Horvata, Aladrovića, Tolušića i Miloševića. Rusija raketirala više od 40 ukrajinskih gradova, ukrajinsko napredovanje u regiji Herson otežano zbog vremenskih uvjeta. Urednica: Mira Barić</description>
     <pubDate>Wed, 26 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/c4/20221026-kronika-dana-33432089-20221026203546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.10. 2022-10-25</title>
-    <link>https://api.hrt.hr/media/af/46/20221025-kronika-dana-33428426-20221025204015.mp3</link>
-    <description>Prihvaćanjem zajedničke deklaracije, kojom je potvrđen suverenitet i teritorijalna cjelovitost Ukrajine, u Zagrebu je završio sastanak na vrhu Krimske platforme. Odbor Europskog parlamenta za građanske slobode, pravosuđe i unutarnje poslove potvrdio je pozitivno izvješće za ulazak Hrvatske u Schengen prvoga siječnja sljedeće godine. Rishi Sunak i službeno je postao 57. premijer Velike Britanije, najmlađi na toj dužnosti u posljednja dva stoljeća. Premijer Plenković sutra će primiti predstavnike sindikata državnih i javnih službi. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 25 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/af/46/20221025-kronika-dana-33428426-20221025204015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
