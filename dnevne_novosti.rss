@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Oct 2022 13:49:19 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 14:21:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.10. 2022-10-29</title>
+    <link>https://api.hrt.hr/media/b6/47/20221029-dnevne-novosti-33441741-20221029135013.mp3</link>
+    <description>U Dubrovniku je obilježena 30. obljetnica oslobođenja juga Hrvatske. Agencija Fitch potvrdila kreditni rejting Hrvatske BBB plus, sa stabilnim izgledima. Rusija objavila da je Ukrajina dronovima napala Krim te optužila britansku mornaricu za sabotažu plinovoda Sjeverni tok. Noćas počinje zimsko računanje vremena, vrijeme u 3 sata računa se kao 2. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 29 Oct 2022 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/47/20221029-dnevne-novosti-33441741-20221029135013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.10. 2022-10-28</title>
     <link>https://api.hrt.hr/media/35/8f/20221028-dnevne-novosti-33439111-20221028134103.mp3</link>
     <description>Ponovno teške riječi između predsjednika i premijera, povod su ratne obljetnice. Otvorena moderna bolnica u Puli. Oporba negoduje što je saslušanje ministra Filipovića na Odboru za gospodarstvo najavljeno za dan uoči blagdana Svih svetih. Ministar poručuje da je spreman. Ilon Musk kupio twitter i otpustio vodstvo kompanije. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Podignuta optužnica protiv Horvata, Aladrovića, Tolušića i Miloševića. Oporba zaziva pad Vlade, premijer uvjerava da optužnica nije teret za Vladu jer je riječ o njezinim bivšim članovima. Vlada i sindikati nastavljaju pregovore o povećanju plaća, pregovorima se priključuje i premijer. Moskva i dalje optužuje Kijev da namjerava napasti tzv. "prljavom bombom". Reagirao NATO: "Rusija često optužuje druge za ono što sama planira učiniti". Urednik: Mario Krstanović</description>
     <pubDate>Wed, 26 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/30/58/20221026-dnevne-novosti-33431048-20221026134550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.10. 2022-10-25</title>
-    <link>https://api.hrt.hr/media/04/84/20221025-dnevne-novosti-33427506-20221025141528.mp3</link>
-    <description>Sa sastanka Krimske platforme u Zagrebu poslane snažne poruke potpore Ukrajini. Svih jedanaest sindikata u javnim službama odbilo Vladinu ponudu za povećanje osnovice plaće. Najavljuju prosvjede. Nakon što ga je imenovao kralj Charles III, Rishi Sunak i službeno novi britanski premijer. Dinamo večeras u Maksimiru očekuje ključna utakmica u skupini Lige prvaka protiv talijanskog Milana. Urednica: Mira Barić</description>
-    <pubDate>Tue, 25 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/84/20221025-dnevne-novosti-33427506-20221025141528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
