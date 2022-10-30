@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Oct 2022 05:50:45 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 06:52:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vlada i sindikati državnih i javnih službi postigli dogovor o visini osnovice plaće te povećanju iznosa božićnice, regresa i dara za djecu. Ministar zdravstva Vili Beroš predstavit će svoju zdravstvenu reformu. Rusija je raketirala više od 40 ukrajinskih gradova i mjesta. Tijekom noći napadan i Kijev. Kultni britanski sastav The Cure (D KJUR) gostuje večeras u zagrebačkoj Areni. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 27 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6b/47/20221027-jutarnja-kronika-33432605-20221027053532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.10. 2022-10-26</title>
-    <link>https://api.hrt.hr/media/3d/8f/20221026-jutarnja-kronika-33428990-20221026053546.mp3</link>
-    <description>Zagrebački sastanak na vrhu Krimske platforme završio prihvaćanjem zajedničke deklaracije, kojom je potvrđen suverenitet i teritorijalna cjelovitost Ukrajine. Ministri energetike Europske unije postigli su sporazum o zajedničkoj nabavi plina. U pregovore Vlade i sindikata javnih i državnih službi danas bi se trebao uključiti i premijer Andrej Plenković. SPORT: Sinoćnjim porazom protiv Milana Dinamo se vjerojatno oprostio od proljeća u Ligi prvaka. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 26 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3d/8f/20221026-jutarnja-kronika-33428990-20221026053546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
