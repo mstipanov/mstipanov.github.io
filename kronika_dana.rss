@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Nov 2022 06:00:30 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 22:02:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.11. 2022-11-02</title>
+    <link>https://api.hrt.hr/media/36/29/20221102-kronika-dana-33454341-20221102214041.mp3</link>
+    <description>Nakon objave da je ruska Sberbanka prodala svojih 43 posto udjela u Fortenova grupi ulagaču iz Ujedinjenih Arapskih Emirata, Fortenova grupa to opovrgnula. Podsjećaju da je Sberbanka pod sankcijama. Počeo petomjesečni remont riječke rafinerije. Stručnjaci tvrde - igra se prema mađarskim pravilima, INA će izgubiti nekoliko stotina milijuna dolara. Vijeće sigurnosti UN-a večeras raspravlja o Izvješću visokog predstavnika za Bosnu i Hercegovinu Christiana Schmidta. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 02 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/36/29/20221102-kronika-dana-33454341-20221102214041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.11. 2022-11-01</title>
     <link>https://api.hrt.hr/media/48/77/20221101-kronika-dana-33450831-20221101214021.mp3</link>
     <description>Svijeće, cvijeće i molitva za one koji više nisu s nama. Jair Bolsonaro napokon se obratio brazilskoj javnosti nakon izbornog poraza, ali nije ga priznao. Riječka rafinerija od sutra postupno počinje prekidati rad zbog modernizacije svojih pogona. Iako je prvi dan studenoga mnogi su se kupali u moru. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U Zagrebu sukob navijačkih skupina Bad Blue Boysa i Torcide. 50-ero privedenih. Uhićen ubojica žene u Vukovaru. U Seulu nacionalna žalost nakon stampeda u kojem su poginule najmanje 154 osobe. Žrtve i u nesrećama u Indiji i Kongu. 9 od 11 sindikata državnih i javnih službi prihvatiloVladinu ponudu za rast plaća. Potpisi - sutra. Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Sun, 30 Oct 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/34/95/20221030-kronika-dana-33444800-20221030214027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.10. 2022-10-29</title>
-    <link>https://api.hrt.hr/media/a0/f2/20221029-kronika-dana-33442539-20221029204015.mp3</link>
-    <description>Najmanje 146 poginulih u Seulu na proslavi Noći vještica. 30. obljetnica oslobođenja juga Hrvatske u sjeni novog prijepora predsjednika države i premijera. Hoće li sindikati javnih i državnih službi prihvatiti Vladinu ponudu povećanja osnovice plaća i drugih materijalnih prava? Nakon duge i teške bolesti umro je redatelj Lukas Nola. Urednica: Sanja Rabuzin Pavić</description>
-    <pubDate>Sat, 29 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/f2/20221029-kronika-dana-33442539-20221029204015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
