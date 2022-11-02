@@ -6,10 +6,26 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Oct 2022 21:54:08 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 06:00:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.11. 2022-11-01</title>
+    <link>https://api.hrt.hr/media/48/77/20221101-kronika-dana-33450831-20221101214021.mp3</link>
+    <description>Svijeće, cvijeće i molitva za one koji više nisu s nama. Jair Bolsonaro napokon se obratio brazilskoj javnosti nakon izbornog poraza, ali nije ga priznao. Riječka rafinerija od sutra postupno počinje prekidati rad zbog modernizacije svojih pogona. Iako je prvi dan studenoga mnogi su se kupali u moru. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 01 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/48/77/20221101-kronika-dana-33450831-20221101214021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Kronika dana 31.10. 2022-10-31</title>
+    <link>https://api.hrt.hr/media/b6/e1/20221031-kronika-dana-33448285-20221031213539.mp3</link>
+    <description>Vlada i sindikati potpisali sporazum, za oko 240 tisuća radnika iz javnog i državnog sektora - povećava se osnovica plaće. 36 tisuća poreznih obveznika državi duguje oko 8 i pol milijardi kuna. Zračni napadi Rusa na ukrajinske gradove, gotovo cijeli Kijev nema vode. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 31 Oct 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/e1/20221031-kronika-dana-33448285-20221031213539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.10. 2022-10-30</title>
     <link>https://api.hrt.hr/media/34/95/20221030-kronika-dana-33444800-20221030214027.mp3</link>
     <description>U Zagrebu sukob navijačkih skupina Bad Blue Boysa i Torcide. 50-ero privedenih. Uhićen ubojica žene u Vukovaru. U Seulu nacionalna žalost nakon stampeda u kojem su poginule najmanje 154 osobe. Žrtve i u nesrećama u Indiji i Kongu. 9 od 11 sindikata državnih i javnih službi prihvatiloVladinu ponudu za rast plaća. Potpisi - sutra. Urednica: Sanja Rabuzin Pavić</description>
@@ -23,23 +39,6 @@
     <description>Najmanje 146 poginulih u Seulu na proslavi Noći vještica. 30. obljetnica oslobođenja juga Hrvatske u sjeni novog prijepora predsjednika države i premijera. Hoće li sindikati javnih i državnih službi prihvatiti Vladinu ponudu povećanja osnovice plaća i drugih materijalnih prava? Nakon duge i teške bolesti umro je redatelj Lukas Nola. Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Sat, 29 Oct 2022 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/f2/20221029-kronika-dana-33442539-20221029204015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.10. 2022-10-28</title>
-    <link>https://api.hrt.hr/media/e8/9b/20221028-kronika-dana-33440183-20221028204104.mp3</link>
-    <description>Ratne obljetnice izazvale novu razmjenu teških riječi predsjednika i premijera. Sindikat znanosti i visokog obrazovanja odbio ponudu Vlade o rastu plaća.. U Puli otvorena nova moderna bolnica vrijedna 800 milijuna kuna. Preminuo je Jerry Lee Lewis - jedan od pionira rock and rolla.
-Urednica: Sanja Rabuzin Pavić</description>
-    <pubDate>Fri, 28 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/9b/20221028-kronika-dana-33440183-20221028204104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.10. 2022-10-27</title>
-    <link>https://api.hrt.hr/media/46/4f/20221027-kronika-dana-33436133-20221027204026.mp3</link>
-    <description>Predstavljena reforma zdravstva - predviđa okretanje prevenciji i reorganizaciju zdravstvenog sustava. Ministar financija u Saboru izložio drugi rebalans ovogodišnjeg državnog proračuna, oporba prozvala Vladu da se koristi inflacijom kako bi punila proračun, a građanima daje mrvice. Ruski predsjednik Vladimir Putin u obraćanju javnosti optužio Zapad da podupire rat u Ukrajini, eskalira provokacija oko Tajvana i destabilizira svjetska tržišta hrane i energije. Europska središnja banka podignula vodeću kamatnu stopu za euro na dva posto, najviše od 2011. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 27 Oct 2022 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/4f/20221027-kronika-dana-33436133-20221027204026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

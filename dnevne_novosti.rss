@@ -6,10 +6,26 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Oct 2022 14:53:29 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 06:00:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.11. 2022-11-01</title>
+    <link>https://api.hrt.hr/media/8f/72/20221101-dnevne-novosti-33450077-20221101150517.mp3</link>
+    <description>Blagdan je Svih svetih. Nakon ruskih napada mnogi ukrajinski gradovi bez vode i grijanja. Većina stanovnika Kijeva dobila struju i vodu. U zagrebačkoj zračnoj luci uhićen Brazilac koji je progutao 117 kapsula ispunjenih kokainom. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 01 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8f/72/20221101-dnevne-novosti-33450077-20221101150517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Dnevne novosti 31.10. 2022-10-31</title>
+    <link>https://api.hrt.hr/media/81/b3/20221031-dnevne-novosti-33447347-20221031144039.mp3</link>
+    <description>U Banskim dvorima i službeno potpisivanje dodatka Kolektivnom ugovoru za državne i javne službe kojim se povećava osnovica plaće. O stanju u INA-i na saborskom Odboru za gospodarstvo na pitanja zastupnika odgovara ministar Filipović. Novi val napada na Ukrajinu, Rusi ispalili više od 50 projektila. Međunarodni je Dan štednje, hrvatski građani u bankama čuvaju rekordne 263 milijarde kuna. Urednica: Mira Barić</description>
+    <pubDate>Mon, 31 Oct 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/81/b3/20221031-dnevne-novosti-33447347-20221031144039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 30.10. 2022-10-30</title>
     <link>https://api.hrt.hr/media/db/09/20221030-dnevne-novosti-33443964-20221030143523.mp3</link>
     <description>U Vukovaru muškarac ubio 38-godišnju ženu, majku dvoje male djece. Raste broj žrtava u Seulu nakon stampeda, poginulo najmanje 153 ljudi, deseci su ozlijeđeni. Članovi Sindikata učitelja i Nezavisnog sindikata zaposlenih u srednjim školama tijesnom većinom prihvatili Vladinu ponudu o rastu osnovice plaće. Urednica: Sanja Cota</description>
@@ -23,22 +39,6 @@
     <description>U Dubrovniku je obilježena 30. obljetnica oslobođenja juga Hrvatske. Agencija Fitch potvrdila kreditni rejting Hrvatske BBB plus, sa stabilnim izgledima. Rusija objavila da je Ukrajina dronovima napala Krim te optužila britansku mornaricu za sabotažu plinovoda Sjeverni tok. Noćas počinje zimsko računanje vremena, vrijeme u 3 sata računa se kao 2. Urednik: Silvio Šop</description>
     <pubDate>Sat, 29 Oct 2022 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/47/20221029-dnevne-novosti-33441741-20221029135013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.10. 2022-10-28</title>
-    <link>https://api.hrt.hr/media/35/8f/20221028-dnevne-novosti-33439111-20221028134103.mp3</link>
-    <description>Ponovno teške riječi između predsjednika i premijera, povod su ratne obljetnice. Otvorena moderna bolnica u Puli. Oporba negoduje što je saslušanje ministra Filipovića na Odboru za gospodarstvo najavljeno za dan uoči blagdana Svih svetih. Ministar poručuje da je spreman. Ilon Musk kupio twitter i otpustio vodstvo kompanije. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 28 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/35/8f/20221028-dnevne-novosti-33439111-20221028134103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 27.10. 2022-10-27</title>
-    <link>https://api.hrt.hr/media/d0/f8/20221027-dnevne-novosti-33435089-20221027140036.mp3</link>
-    <description>Ministar zdravstva Vili Beroš predstavlja novu zdravstvenu reformu. Iz Vlade tvrde da povećana potražnja plavog dizela neće izazvati nestašicu te da će ponovno ublažiti mogući rast cijena na tržištu. U Ukrajini traje borba za Herson. Vladimir Putin obraća se javnosti. Urednica: Mira Barić</description>
-    <pubDate>Thu, 27 Oct 2022 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/f8/20221027-dnevne-novosti-33435089-20221027140036.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

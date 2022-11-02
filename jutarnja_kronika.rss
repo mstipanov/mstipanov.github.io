@@ -6,10 +6,26 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Oct 2022 07:22:54 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 06:00:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.11. 2022-11-01</title>
+    <link>https://api.hrt.hr/media/87/03/20221101-jutarnja-kronika-33448829-20221101063516.mp3</link>
+    <description>Blagdan je Svih svetih, groblja obasjana svjetlošću svijeća. Zbog masovnih napada na energetske pogone Kijev i mnogi drugi ukrajinski gradovi bez struje i vode. Koncertom u zagrebačkoj Areni Sting sinoć potvrdio da je jedan od najvećih glazbenika današnjice. Urednica: Mira Barić</description>
+    <pubDate>Tue, 01 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/87/03/20221101-jutarnja-kronika-33448829-20221101063516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>JUTARNJA KRONIKA 31.10. 2022-10-31</title>
+    <link>https://api.hrt.hr/media/eb/9e/20221031-jutarnja-kronika-33445362-20221031063537.mp3</link>
+    <description>Vlada i sindikati danas u Banskim dvorima potpisuju dodatak temeljnom kolektivnom ugovoru, prema kojem će rasti plaće u javnim službama. Ministar Filipović dolazi na sjednicu saborskog Odbora za gospodarstvo na saslušanje o INI. Lula novi predsjednik Brazila. Večeras Stingov koncert u zagrebačkoj Areni. Urednik Mislav Togonal</description>
+    <pubDate>Mon, 31 Oct 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/9e/20221031-jutarnja-kronika-33445362-20221031063537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.10. 2022-10-30</title>
     <link>https://api.hrt.hr/media/94/d0/20221030-jutarnja-kronika-33443159-20221030070025.mp3</link>
     <description>Najmanje 151 osoba poginula je u Seulu na proslavi Noći vještica. Više od stotinu mrtvih u eksploziji dvaju automobila bombi u somalijskom glavnom gradu Mogadišuu. Rusija optužla britansku mornaricu za sabotažu plinovoda Sjeverni tok, Britanija odgovorila da su to lažne tvrdnje epskih razmjera. Sindikati javnih i državnih službi sutra će odlučiti hoće li prihvatiti Vladinu ponudu za povećanje osnovice plaća i drugih materijalnih prava. Pakistanski film "Joyland" najbolji je film 20. Zagrebačkog filmskog festivala. Urednik: Silvio Šop</description>
@@ -23,22 +39,6 @@
     <description>Dan eura u Zagrebu - građanima će na pitanja o promjeni valute odgovarati premijer i guverner. Prije 30 godina oslobođen jug Hrvatske, Dubrovnik slavi deblokadu Grada. Ukrajinski predsjednik Zelenski sumnja da je djelomična mobilizacija u Rusiji završena. Noćas počinje zimsko računanje vremena. Kazaljke vraćamo jedan sat natrag. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 29 Oct 2022 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/88/20221029-jutarnja-kronika-33440719-20221029053509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.10. 2022-10-28</title>
-    <link>https://api.hrt.hr/media/df/87/20221028-jutarnja-kronika-33436717-20221028053559.mp3</link>
-    <description>Ministar Vili Beroš jučer predstavio dugo najavljivanu reformu zdravstva - predviđa okretanje prevenciji i preustroj zdravstvenog sustava. Nakon šest godina gradnje, u Puli se otvara Opća bolnica. Ruski predsjednik Vladimir Putin u obraćanju javnosti optužio Zapad da podupire rat u Ukrajini te pozvao Sjedinjene Države da prisile Ukrajinu na pregovore. U zagrebačkom HNK-u večeras premijera opere Nabucco u režiji Giancarla del Monaca. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 28 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/87/20221028-jutarnja-kronika-33436717-20221028053559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.10. 2022-10-27</title>
-    <link>https://api.hrt.hr/media/6b/47/20221027-jutarnja-kronika-33432605-20221027053532.mp3</link>
-    <description>Vlada i sindikati državnih i javnih službi postigli dogovor o visini osnovice plaće te povećanju iznosa božićnice, regresa i dara za djecu. Ministar zdravstva Vili Beroš predstavit će svoju zdravstvenu reformu. Rusija je raketirala više od 40 ukrajinskih gradova i mjesta. Tijekom noći napadan i Kijev. Kultni britanski sastav The Cure (D KJUR) gostuje večeras u zagrebačkoj Areni. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 27 Oct 2022 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6b/47/20221027-jutarnja-kronika-33432605-20221027053532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
