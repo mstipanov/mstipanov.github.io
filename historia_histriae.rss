@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 27 Oct 2022 16:17:24 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 17:04:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Historia Histriae 2022-11-03</title>
+    <link>https://api.hrt.hr/media/1d/99/20221103-historia-histriae-7887307-20221103165028.mp3</link>
+    <description>U goste nam dolazi povjesničar Ian Tataj, a govorimo o njegovoj knjizi "Rat, mir i strasti Languedoca"</description>
+    <pubDate>Thu, 03 Nov 2022 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/99/20221103-historia-histriae-7887307-20221103165028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Historia Radosevic i Dabo 27.10. 2022-10-27</title>
     <link>https://api.hrt.hr/media/bd/ee/20221027-historia-histriae-1818587-20221027151018.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 26 May 2022 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a9/cd/20220526-historia-histriae-1770260-20220526162046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>HISTORIA ZA 19.5. 2022-05-19</title>
-    <link>https://api.hrt.hr/media/6a/55/20220519-historia-histriae-1770054-20220519123535.mp3</link>
-    <description>U goste nam dolazi bivši novinar i pokretač facebook stranice "Pulske štorije" - Zvjezdan Strahinja. S nama će podijeliti štorije koje je spasio od zaborava, a koje nam pričaju priču o povijesti našeg grada na jedan potpuno drugačiji način.....priče su to o gradskim osobenjacima, o mističnim ukazanjima, o smaku svijeta na pulski način, o tajnama koje kriju podzemni pulski tuneli......budite s nama i ovog četvrtka!</description>
-    <pubDate>Thu, 19 May 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6a/55/20220519-historia-histriae-1770054-20220519123535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
