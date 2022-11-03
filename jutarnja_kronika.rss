@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Nov 2022 07:00:33 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 06:33:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vlada i sindikati danas u Banskim dvorima potpisuju dodatak temeljnom kolektivnom ugovoru, prema kojem će rasti plaće u javnim službama. Ministar Filipović dolazi na sjednicu saborskog Odbora za gospodarstvo na saslušanje o INI. Lula novi predsjednik Brazila. Večeras Stingov koncert u zagrebačkoj Areni. Urednik Mislav Togonal</description>
     <pubDate>Mon, 31 Oct 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/eb/9e/20221031-jutarnja-kronika-33445362-20221031063537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.10. 2022-10-30</title>
-    <link>https://api.hrt.hr/media/94/d0/20221030-jutarnja-kronika-33443159-20221030070025.mp3</link>
-    <description>Najmanje 151 osoba poginula je u Seulu na proslavi Noći vještica. Više od stotinu mrtvih u eksploziji dvaju automobila bombi u somalijskom glavnom gradu Mogadišuu. Rusija optužla britansku mornaricu za sabotažu plinovoda Sjeverni tok, Britanija odgovorila da su to lažne tvrdnje epskih razmjera. Sindikati javnih i državnih službi sutra će odlučiti hoće li prihvatiti Vladinu ponudu za povećanje osnovice plaća i drugih materijalnih prava. Pakistanski film "Joyland" najbolji je film 20. Zagrebačkog filmskog festivala. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 30 Oct 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/d0/20221030-jutarnja-kronika-33443159-20221030070025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
