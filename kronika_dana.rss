@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 04 Nov 2022 22:03:19 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 21:35:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nakon objave da je ruska Sberbanka prodala svojih 43 posto udjela u Fortenova grupi ulagaču iz Ujedinjenih Arapskih Emirata, Fortenova grupa to opovrgnula. Podsjećaju da je Sberbanka pod sankcijama. Počeo petomjesečni remont riječke rafinerije. Stručnjaci tvrde - igra se prema mađarskim pravilima, INA će izgubiti nekoliko stotina milijuna dolara. Vijeće sigurnosti UN-a večeras raspravlja o Izvješću visokog predstavnika za Bosnu i Hercegovinu Christiana Schmidta. Urednica: Sanja Cota</description>
     <pubDate>Wed, 02 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/36/29/20221102-kronika-dana-33454341-20221102214041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.11. 2022-11-01</title>
-    <link>https://api.hrt.hr/media/48/77/20221101-kronika-dana-33450831-20221101214021.mp3</link>
-    <description>Svijeće, cvijeće i molitva za one koji više nisu s nama. Jair Bolsonaro napokon se obratio brazilskoj javnosti nakon izbornog poraza, ali nije ga priznao. Riječka rafinerija od sutra postupno počinje prekidati rad zbog modernizacije svojih pogona. Iako je prvi dan studenoga mnogi su se kupali u moru. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 01 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/48/77/20221101-kronika-dana-33450831-20221101214021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
