@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 04 Nov 2022 07:01:43 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 07:04:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.11. 2022-11-05</title>
+    <link>https://api.hrt.hr/media/38/e4/20221105-jutarnja-kronika-33462760-20221105063559.mp3</link>
+    <description>Počelo se odmotavati klupko rusko-arapske operacije kuoprodaje uloga iz Fortenova grupe. Zemlje G7 osnivaju mehanizam pomoći obrani i obnovi ukrajinske energetske infrastrukture. U Zagrebu sinoć otvoren Muzej novoga vala, a večeras koncertni spektakl glazbenika koji je iz njega potekao. Masimo Savić prvi put nastupa u zagrebačkoj Areni.
+Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 05 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/38/e4/20221105-jutarnja-kronika-33462760-20221105063559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.11. 2022-11-04</title>
     <link>https://api.hrt.hr/media/2c/ea/20221104-jutarnja-kronika-33458788-20221104063532.mp3</link>
     <description>Još nisu jasne mnoge okolnosti prodaje udjela ruske Sberbanke u Fortenovoj, kao i najvažnije - je li transakcija, s obzirom na sankcije Rusiji, legalna? Sabor će glasovati o rebalansu ovogodišnjeg proračuna, kojim se prihodi povećavaju, a rashodi ostaju isti. Rusi i Ukrajinci razmijenili 107 ratnih zarobljenika, četiri i pol milijuna ukrajinskih kućanstava - bez struje. U Zagrebu se otvara muzej Novog vala. Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>Sjeverna Koreja ispalila deset balističkih projektila, Južna joj uzvratila s trima. U Saboru rasprava o rebalansu ovogodišnjeg proračuna, glasovanje preksutra. Riječka rafinerija postupno počinje prekidati rad zbog modernizacije pogona. SPORT: Dinamo u skupini Lige prvaka u Londonu igra uzvratni susret protiv Chelseaja, prijenos je na Drugom programu radija i televizije. Urednik: Silvio Šop</description>
     <pubDate>Wed, 02 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/80/20221102-jutarnja-kronika-33451350-20221102063547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.11. 2022-11-01</title>
-    <link>https://api.hrt.hr/media/87/03/20221101-jutarnja-kronika-33448829-20221101063516.mp3</link>
-    <description>Blagdan je Svih svetih, groblja obasjana svjetlošću svijeća. Zbog masovnih napada na energetske pogone Kijev i mnogi drugi ukrajinski gradovi bez struje i vode. Koncertom u zagrebačkoj Areni Sting sinoć potvrdio da je jedan od najvećih glazbenika današnjice. Urednica: Mira Barić</description>
-    <pubDate>Tue, 01 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/87/03/20221101-jutarnja-kronika-33448829-20221101063516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
