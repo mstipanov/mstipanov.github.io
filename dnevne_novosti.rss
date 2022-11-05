@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 04 Nov 2022 15:32:41 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 15:05:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.11. 2022-11-05</title>
+    <link>https://api.hrt.hr/media/41/dd/20221105-dnevne-novosti-33463870-20221105144600.mp3</link>
+    <description>Hrvatska će ispitati sve okolnosti vezane za prodaju dionica Fortenove privatnom arapskom investitoru. Najvažnije je da tvrtka nesmetano posluje, izjavio je premijer Plenković. Tri mjeseca nakon smrti novinara Vladimira Matijanića HND traži neovisnu istragu, a ministar Beroš ponavlja da zdravstveni sustav nije pogriješio. Iran je priznao da je isporučio bespilotne letjelice Rusiji. Ukrajinska vojska odbila 14 pokušaja napredovanja ruskih snaga u regijama Luhansk i Doneck. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 05 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/41/dd/20221105-dnevne-novosti-33463870-20221105144600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.11. 2022-11-04</title>
     <link>https://api.hrt.hr/media/50/65/20221104-dnevne-novosti-33461206-20221104151533.mp3</link>
     <description>Nizozemska nije dala odobrenje za prodaju Fortenove ulagaču iz Ujedinjenih Arapskih Emirata. Ta je vijest potvrđena iz Ministarstva vanjskih poslova, a okolnosti cijelog slučaja i dalje su nepoznate. Trebao je početi i sudski postupak za Agrokor, no Ivica Todorić ga zaustavio tražeći izuzeće sudaca i tužitelja. Europska javna tužiteljica u Zagrebu pozvala naše građane da prijave sumnje u nezakonitosti vezane za proračunski novac Europske unije. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Iznimno napeto na korejskom poluotoku - jedna od raketa koje je ispalila Sjeverna Koreja, pala blizu južnokorejskih teritorijalnih voda. Rusija ponovno sudjeluje u sporazumu o izvozu žitarica iz kojeg se povukla tijekom vikenda. Kao što je najavljeno, počeo petomjesečni remont riječke rafinerije, u Omišu prosvjedovali radnici tvornice Galeb. Dinamo večeras u Londonu protiv Chelsea. Izravni prijenos na Drugom programu Radija i Televizije. Urednica: Mira Barić</description>
     <pubDate>Wed, 02 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9a/df/20221102-dnevne-novosti-33453248-20221102144041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.11. 2022-11-01</title>
-    <link>https://api.hrt.hr/media/8f/72/20221101-dnevne-novosti-33450077-20221101150517.mp3</link>
-    <description>Blagdan je Svih svetih. Nakon ruskih napada mnogi ukrajinski gradovi bez vode i grijanja. Većina stanovnika Kijeva dobila struju i vodu. U zagrebačkoj zračnoj luci uhićen Brazilac koji je progutao 117 kapsula ispunjenih kokainom. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 01 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8f/72/20221101-dnevne-novosti-33450077-20221101150517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
