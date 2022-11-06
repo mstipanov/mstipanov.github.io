@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 06 Nov 2022 21:38:01 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 22:08:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.11. 2022-11-06</title>
+    <link>https://api.hrt.hr/media/e5/65/20221106-kronika-dana-33466978-20221106214047.mp3</link>
+    <description>U egipatskom ljetovalištu Šarm el Šeiku počeo godišnji klimatski sastanak na vrhu, oko 200 sudionika pokušat će se dogovoriti kako zaustaviti globalno zatopljenje. Kijevske vlasti opovrgnule da planiraju evakuaciju sva tri milijuna stanovnika ako grad ostane potpuno bez struje.Nalaz inspekcije potvrdio da na pohanom mesu u restoranu Studentskog centra u Zagrebu nisu bili crvi nego riža.Urednica: Mira Barić</description>
+    <pubDate>Sun, 06 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/65/20221106-kronika-dana-33466978-20221106214047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.11. 2022-11-05</title>
     <link>https://api.hrt.hr/media/69/32/20221105-kronika-dana-33464789-20221105214500.mp3</link>
     <description>I dalje je mnogo nepoznanica u vezi s prodajom udjela Sberbanke u Fortenova grupi. Premijer Plenković izjavio kako je najvažnije da tvrtka normalno posluje. U prošloj godini u Hrvatskoj je umrlo više od 62 tisuće osoba, najviše u jednoj godini od Drugoga svjetskog rata. U Ukrajini žestoke borbe, Iran priznao da je Rusima prodao bespilotne letjelice - kamikaze. Srbi sa sjevera Kosova napustili sve kosovske političke institucije. Urednik: Silvio Šop</description>
