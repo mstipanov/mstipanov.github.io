@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 07 Nov 2022 21:40:30 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 22:10:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.11. 2022-11-07</title>
+    <link>https://api.hrt.hr/media/58/a5/20221107-kronika-dana-33470531-20221107215016.mp3</link>
+    <description>O prodaji udjela Fortenove arapskom šeiku prvi put govorio Miodrag Borojević, poslovni čovjek kojeg se povezivalo s prodajom. U Egiptu sastanak o klimi, sudjeluje oko 200 čelnika država i vlada. Sutra - na sjednici Antikorupcijskog vijeća o INA-i govorit će bivši predsjednik Nadzornog odbora Damir Vanđelić. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 07 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/58/a5/20221107-kronika-dana-33470531-20221107215016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.11. 2022-11-06</title>
     <link>https://api.hrt.hr/media/e5/65/20221106-kronika-dana-33466978-20221106214047.mp3</link>
     <description>U egipatskom ljetovalištu Šarm el Šeiku počeo godišnji klimatski sastanak na vrhu, oko 200 sudionika pokušat će se dogovoriti kako zaustaviti globalno zatopljenje. Kijevske vlasti opovrgnule da planiraju evakuaciju sva tri milijuna stanovnika ako grad ostane potpuno bez struje.Nalaz inspekcije potvrdio da na pohanom mesu u restoranu Studentskog centra u Zagrebu nisu bili crvi nego riža.Urednica: Mira Barić</description>
