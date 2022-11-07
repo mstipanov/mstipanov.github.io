@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 06 Nov 2022 22:08:04 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 21:40:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>I dalje nije jasno - kako je arapskom investitoru prodano 43 cijela 4 posto udjela u Fortenova grupi. Iz Nizozemske potvrđeno da nije traženo ni izdano odobrenje za transakciju.U prvom posjetu Zagrebu europska javna tužiteljica Laura Koveši. Potvrdila da se u našoj zemlji istražuje nekoliko desetaka slučajeva.Ne prestaju ruski udari na ukrajinske energetske objekte. Putin pozvao na evakuaciju civila iz regije Herson. Urednica: Mira Barić</description>
     <pubDate>Fri, 04 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/43/d7/20221104-kronika-dana-33462040-20221104214034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.11. 2022-11-03</title>
-    <link>https://api.hrt.hr/media/37/b2/20221103-kronika-dana-33458254-20221103215028.mp3</link>
-    <description>Državno odvjetništvo uključit će se u istragu o prodaji udjela u Fortenova grupi arapskom investitoru ako državna tijela posumnjaju na kazneno djelo. Jedan od najvećih ratnih brodova na svijetu, američki nosač zrakoplova George Bush, usidren ispred splitske luke. U razmjeni ratnih zarobljenika Rusi oslobodili i borce iz mariupoljske čeličane. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 03 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/37/b2/20221103-kronika-dana-33458254-20221103215028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
