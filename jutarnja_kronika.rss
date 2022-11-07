@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 06 Nov 2022 06:36:36 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 06:38:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.11. 2022-11-07</title>
+    <link>https://api.hrt.hr/media/00/ac/20221107-jutarnja-kronika-33467510-20221107063513.mp3</link>
+    <description>Od sutra benzin poskupljuje za 48 lipa po litri i dizel pojeftinjuje za 25 lipa po litri. U egipatskom ljetovalištu Sharm el Sheiku počeo globalni sastanak o klimatskim promjenama. Ukrajinske vlasti opovrgavaju da planiraju evakuaciju stanovnika Kijeva ako grad ostane potpuno bez struje. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 07 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/00/ac/20221107-jutarnja-kronika-33467510-20221107063513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.11. 2022-11-06</title>
     <link>https://api.hrt.hr/media/50/f9/20221106-jutarnja-kronika-33465291-20221106063544.mp3</link>
     <description>Hrvatska će istražiti prodaju dionica Fortenove privatnom arapskom investitoru, najvažnije je da tvrtka uredno posluje, izjavio je premijer Plenković. Covid-19 prošle je godine bio najčešći uzrok smrti u našoj zemlji. Umrlo 62 tisuće ljudi, najviše od Drugoga svjetskog rata. U Ukrajini snažne borbe, Iran priznao da je Rusima prodao bespilotne letjelice. U Egiptu počinje UN-ova konferencija o klimatskim promjenama. Urednik: Grgo Mrvica</description>
@@ -32,14 +40,6 @@ Urednica: Marija Gerbec Njavro</description>
     <description>Još nisu jasne mnoge okolnosti prodaje udjela ruske Sberbanke u Fortenovoj, kao i najvažnije - je li transakcija, s obzirom na sankcije Rusiji, legalna? Sabor će glasovati o rebalansu ovogodišnjeg proračuna, kojim se prihodi povećavaju, a rashodi ostaju isti. Rusi i Ukrajinci razmijenili 107 ratnih zarobljenika, četiri i pol milijuna ukrajinskih kućanstava - bez struje. U Zagrebu se otvara muzej Novog vala. Urednik: Silvio Šop</description>
     <pubDate>Fri, 04 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2c/ea/20221104-jutarnja-kronika-33458788-20221104063532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.11. 2022-11-03</title>
-    <link>https://api.hrt.hr/media/fd/23/20221103-jutarnja-kronika-33454961-20221103064028.mp3</link>
-    <description>Ruska Sberbanka prodala svoj udjel u Fortenova grupi investitoru iz Ujedinjenih Arapskih Emirata. Fortenova nema nikakvih službenih spoznaja o tome. Vijeće sigurnosti UN-a odobrilo nastavak vojne misije Europske unije u Bosni i Hercegovini. U Berlinu sastanak na vrhu zemalja Zapadnog Balkana. Papa Franjo putuje u Bahrein, kao prvi papa koji će posjetiti tu arapsku zemlju u Perzijskom zaljevu. Dinamo se porazom u Londonu oprostio od europskog proljeća. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 03 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/23/20221103-jutarnja-kronika-33454961-20221103064028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
