@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Nov 2022 06:00:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 17:12:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>EXPLORA 2022-11-08</title>
+    <link>https://api.hrt.hr/media/14/65/20221108-explora-7888623-20221108164047.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 08 Nov 2022 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/14/65/20221108-explora-7888623-20221108164047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 2022-11-01</title>
     <link>https://api.hrt.hr/media/57/27/20221101-explora-7886647-20221101170517.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -101,14 +109,6 @@ Ukraina:
 </description>
     <pubDate>Tue, 06 Sep 2022 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/48/3e/20220906-explora-1803041-20220906160538.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>EXPLORA 2022-08-30</title>
-    <link>https://api.hrt.hr/media/6e/1e/20220830-explora-1800970-20220830161041.mp3</link>
-    <description>Odgođeno lansiranje Artemisa. Metaverzum i manipulacije u vizualnim komunikacijama. Radio astronomija kod kuće. MRNA cjepiva za liječenje karcinoma. Trčanje i aktiviranje stresora. Savjet – kako odgajati dijete u današnjem vremenu. Skeptičan slušatelj – ako su Amerikanci prije 53 godine na Mjesec slali čovjeka ...  Zeleni meteor iznad rta Kamenjak.  Zašto psi jedu travu.  Spolnost kao atavizam.</description>
-    <pubDate>Tue, 30 Aug 2022 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6e/1e/20220830-explora-1800970-20220830161041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
