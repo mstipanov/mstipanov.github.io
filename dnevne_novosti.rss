@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 08 Nov 2022 15:12:26 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 15:14:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.11. 2022-11-09</title>
+    <link>https://api.hrt.hr/media/bb/f4/20221109-dnevne-novosti-33476857-20221109144004.mp3</link>
+    <description>Jutros jak potres 5,7 u središnjoj Italiji. Nije bilo ozlijeđenih, ali se osjetio i u obalnim dijelovima Hrvatske. Na međuizborima u Sjedinjenim Državama, Republikanska stranka na putu je da preuzme nadzor nad Zastupničkim domom Kongresa, u Senatu neizvjesno. Sport: izbornik Zlatko Dalić objavio konačni popis reprezentativaca za Svjetsko prvenstvo u Kataru. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 09 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/f4/20221109-dnevne-novosti-33476857-20221109144004.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.11. 2022-11-08</title>
     <link>https://api.hrt.hr/media/87/44/20221108-dnevne-novosti-33473162-20221108144048.mp3</link>
     <description>U Sjedinjenim Državama izbori za Kongres - ankete predviđaju da bi demokrati mogli izgubiti većinu u oba doma parlamenta. Samo regulatorna tijela u Nizozemskoj mogu razriješiti dvojbu je li kupoprodaja udjela Fortenove legalna. Otvoren 44. Interliber - naš najveći sajam knjige i izdavaštva. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Egiptu počinje godišnji klimatski samit Ujedinjenih naroda, okupit će oko 200 svjetskih čelnika. Vlasti u Kijevu pripremaju plan za moguću potpunu evakuaciju tri milijuna stanovnika. Neslužbeno: od utorka skuplji eurosuper, jeftiniji eurodizel. Zdravstvena reforma: hoće li svi mladi liječnici nakon diplome obavezno odraditi godinu dana u primarnom zdravstvu ili će neki to moći izbjeći? Urednik: Silvio Šop</description>
     <pubDate>Sun, 06 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ea/08/20221106-dnevne-novosti-33466230-20221106144045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.11. 2022-11-05</title>
-    <link>https://api.hrt.hr/media/41/dd/20221105-dnevne-novosti-33463870-20221105144600.mp3</link>
-    <description>Hrvatska će ispitati sve okolnosti vezane za prodaju dionica Fortenove privatnom arapskom investitoru. Najvažnije je da tvrtka nesmetano posluje, izjavio je premijer Plenković. Tri mjeseca nakon smrti novinara Vladimira Matijanića HND traži neovisnu istragu, a ministar Beroš ponavlja da zdravstveni sustav nije pogriješio. Iran je priznao da je isporučio bespilotne letjelice Rusiji. Ukrajinska vojska odbila 14 pokušaja napredovanja ruskih snaga u regijama Luhansk i Doneck. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 05 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/41/dd/20221105-dnevne-novosti-33463870-20221105144600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
