@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Nov 2022 21:45:29 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 21:47:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.11. 2022-11-10</title>
+    <link>https://api.hrt.hr/media/0a/b3/20221110-kronika-dana-33482240-20221110214540.mp3</link>
+    <description>Kutinska Petrokemija, jedina hrvatska tvornica mineralnih gnojiva, , prelazi u većinsko tursko vlasništvo.Europski parlament podupro ulazak Hrvatske u Schengen - konačnu odluku donosi Europsko vijeće početkom prosinca. Na Markovu trgu prosvjedovale bivše radnice požeške Orljave - ni nakon godinu dana nisu im isplaćene zaostale plaće i zakonom zajamčene otpremnine. U zadarskoj bolnici kažu da se smrt 22-godišnje rodilje, nažalost, nije mogla spriječiti. Ukrajina i dalje najavu ruskog povlačenja iz Hersona uzima s oprezom. Urednica: Mira Barić</description>
+    <pubDate>Thu, 10 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0a/b3/20221110-kronika-dana-33482240-20221110214540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.11. 2022-11-09</title>
     <link>https://api.hrt.hr/media/ca/b5/20221109-kronika-dana-33478020-20221109214027.mp3</link>
     <description>Europski parlament podupro ulazak Hrvatske u schengenski prostor. Ruski ministar obrane Sergei Shoigu zapovjedio povlačenje iz Hersona. Snažan potres pogodio Italiju, osjetio se i na hrvatskoj obali Jadrana. Uljanik brodogradnja dobila ponudu iz Češke za kupnju 55 posto udjela tvrtke za 155 milijuna kuna. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>O prodaji udjela Fortenove arapskom šeiku prvi put govorio Miodrag Borojević, poslovni čovjek kojeg se povezivalo s prodajom. U Egiptu sastanak o klimi, sudjeluje oko 200 čelnika država i vlada. Sutra - na sjednici Antikorupcijskog vijeća o INA-i govorit će bivši predsjednik Nadzornog odbora Damir Vanđelić. Urednica: Sanja Cota</description>
     <pubDate>Mon, 07 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/58/a5/20221107-kronika-dana-33470531-20221107215016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.11. 2022-11-06</title>
-    <link>https://api.hrt.hr/media/e5/65/20221106-kronika-dana-33466978-20221106214047.mp3</link>
-    <description>U egipatskom ljetovalištu Šarm el Šeiku počeo godišnji klimatski sastanak na vrhu, oko 200 sudionika pokušat će se dogovoriti kako zaustaviti globalno zatopljenje. Kijevske vlasti opovrgnule da planiraju evakuaciju sva tri milijuna stanovnika ako grad ostane potpuno bez struje.Nalaz inspekcije potvrdio da na pohanom mesu u restoranu Studentskog centra u Zagrebu nisu bili crvi nego riža.Urednica: Mira Barić</description>
-    <pubDate>Sun, 06 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/65/20221106-kronika-dana-33466978-20221106214047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
