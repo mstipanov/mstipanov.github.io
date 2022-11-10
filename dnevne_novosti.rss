@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Nov 2022 14:47:09 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 15:17:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.11. 2022-11-10</title>
+    <link>https://api.hrt.hr/media/d1/86/20221110-dnevne-novosti-33481117-20221110144039.mp3</link>
+    <description>Europski parlament velikom većinom glasova podupro ulazak Hrvatske u schengenski prostor. Ukrajina objavila da za sada nema naznaka ruskog povlačenja iz Hersona. Tko će kontrolirati američki Senat - znat će se nakon rezultata međuizbora u Arizoni, Georgiji i Nevadi. Na Zagrebačkom velesajmu otvorena je 27-ma smotra Sveučilišta u Zagrebu. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 10 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d1/86/20221110-dnevne-novosti-33481117-20221110144039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.11. 2022-11-09</title>
     <link>https://api.hrt.hr/media/bb/f4/20221109-dnevne-novosti-33476857-20221109144004.mp3</link>
     <description>Jutros jak potres 5,7 u središnjoj Italiji. Nije bilo ozlijeđenih, ali se osjetio i u obalnim dijelovima Hrvatske. Na međuizborima u Sjedinjenim Državama, Republikanska stranka na putu je da preuzme nadzor nad Zastupničkim domom Kongresa, u Senatu neizvjesno. Sport: izbornik Zlatko Dalić objavio konačni popis reprezentativaca za Svjetsko prvenstvo u Kataru. Urednica: Sanja Cota</description>
