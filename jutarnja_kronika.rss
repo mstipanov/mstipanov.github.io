@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 11 Nov 2022 06:48:37 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 06:50:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.11. 2022-11-12</title>
+    <link>https://api.hrt.hr/media/54/bc/20221112-jutarnja-kronika-33486761-20221112063541.mp3</link>
+    <description>Diljem Ukrajine slavlje - ruske snage potpuno se povukle iz Hersona.Bivši američki predsjednik Donald Trump u utorak će objaviti da je kandidat za predsjedničke izbore 2024.U Zagreb stigao Placido Domingo. Večeras će u Lisinskom dirigirati Verdijev Rekvijem. Urednica: Mira Barić</description>
+    <pubDate>Sat, 12 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/bc/20221112-jutarnja-kronika-33486761-20221112063541.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.11. 2022-11-11</title>
     <link>https://api.hrt.hr/media/f4/cd/20221111-jutarnja-kronika-33482884-20221111063516.mp3</link>
     <description>Nakon jučerašnje potpore Europskog parlamenta, Hrvatsku od ulaska u Schengen još samo dijeli odluka Europskog vijeća, koja se očekuje početkom prosinca. Ministar Vili Beroš predstavit će koje su primjedbe prihvaćene iz trotjedne javne rasprave o dvama zakonima ključnim za zdravstvenu reformu. Najveća hrvatska tvornica mineralnih gnojiva prelazi u većinsko tursko vlasništvo. Diljem Europe iduća tri dana obilježava se Noć cirkusa. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon međuizbora u Americi, republikanci uvjerljivo vode u utrci za Zastupnički dom, a u Senatu su izjednačeni s demokratima. Europski će parlament odlučivati o ulasku Hrvatske u Schengen. Ekonomska politika u idućoj godini glavna je tema skupa Hrvatskog društva ekonomista u Opatiji. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/05/20221109-jutarnja-kronika-33474704-20221109063003.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.11. 2022-11-08</title>
-    <link>https://api.hrt.hr/media/b2/b4/20221108-jutarnja-kronika-33471084-20221108063547.mp3</link>
-    <description>Istražuje se sporna transakcija između ruske banke i arapskog investitora u Fortenovi. Na sjednici Antikorupcijskog vijeća o INA-i bit će slaslušani Damir Vanđelić i Božo Mikuš. Govor premijera Plenkovića na klimatskom sastanku u Šarm el Šeiku. Amerikanci izlaze na izbore za Kongres. Iako se očekivalo, Donald Trump još nije objavio kandidaturu na predsjedničkim izborima. Na Zagrebačkom velesajmu počinje Interliber. Popusti na omiljene knjige do nedjelje. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 08 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/b4/20221108-jutarnja-kronika-33471084-20221108063547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
