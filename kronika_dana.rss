@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 11 Nov 2022 21:49:57 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 21:52:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Europski parlament podupro ulazak Hrvatske u schengenski prostor. Ruski ministar obrane Sergei Shoigu zapovjedio povlačenje iz Hersona. Snažan potres pogodio Italiju, osjetio se i na hrvatskoj obali Jadrana. Uljanik brodogradnja dobila ponudu iz Češke za kupnju 55 posto udjela tvrtke za 155 milijuna kuna. Urednik: Silvio Šop</description>
     <pubDate>Wed, 09 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/b5/20221109-kronika-dana-33478020-20221109214027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.11. 2022-11-08</title>
-    <link>https://api.hrt.hr/media/c8/47/20221108-kronika-dana-33474167-20221108214048.mp3</link>
-    <description>Još nije jasno zašto su mirovinski fondovi odustali od kupnje udjela u Fortenovi. Nakon svjedočenja na Antikorupcijskom vijeću Damir Vanđelić pozvao saborske zastupnike da proglase ništetnim dodatak ugovoru između INA-e i MOL-a. Na klimatskoj konferenciji u Egiptu premijer Plenković najavio i projekt Doline vodika Sjeverni Jadran. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 08 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c8/47/20221108-kronika-dana-33474167-20221108214048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
