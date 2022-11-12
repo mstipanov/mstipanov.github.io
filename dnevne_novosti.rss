@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 11 Nov 2022 15:19:26 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 14:51:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.11. 2022-11-12</title>
+    <link>https://api.hrt.hr/media/80/05/20221112-dnevne-novosti-33487639-20221112144042.mp3</link>
+    <description>Ukrajinci strahuju što će pronaći u gradu nakon oslobođenja Harsona. Suradnici Donalda Trumpa najavljuju da će on u utorak objaviti kandidaturu za predsjedničke izbore 2024. Alkohol, brzina i mobiteli - najveći su neprijatelji sigurnosti prometa, potvrđuje se i ovaj vikend uz proslavu Martinja. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 12 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/80/05/20221112-dnevne-novosti-33487639-20221112144042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.11. 2022-11-11</title>
     <link>https://api.hrt.hr/media/c0/82/20221111-dnevne-novosti-33485275-20221111143540.mp3</link>
     <description>Ukrajinska vojska ušla u napušteni Herson. Prema jesenskoj prognozi Europske komisije, hrvatsko gospodarstvo ostvarit će rast od 6 posto, a u idućoj 1 posto. Predviđanja su povoljnija od ljetnih, ali i onih koja je dala Hrvatska vlada. U Vukovaru predstavljen program obilježavanja Dana sjećanja, gradonačelnik Penava istaknuo da u koloni očekuje sve političke opcije, a predsjednik Milanović odbacio nagađanja o dvjema kolonama. Uz proslavu Martinja policija najavila pojačan nadzor prometa i alkotestiranje vozača. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Jutros jak potres 5,7 u središnjoj Italiji. Nije bilo ozlijeđenih, ali se osjetio i u obalnim dijelovima Hrvatske. Na međuizborima u Sjedinjenim Državama, Republikanska stranka na putu je da preuzme nadzor nad Zastupničkim domom Kongresa, u Senatu neizvjesno. Sport: izbornik Zlatko Dalić objavio konačni popis reprezentativaca za Svjetsko prvenstvo u Kataru. Urednica: Sanja Cota</description>
     <pubDate>Wed, 09 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bb/f4/20221109-dnevne-novosti-33476857-20221109144004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.11. 2022-11-08</title>
-    <link>https://api.hrt.hr/media/87/44/20221108-dnevne-novosti-33473162-20221108144048.mp3</link>
-    <description>U Sjedinjenim Državama izbori za Kongres - ankete predviđaju da bi demokrati mogli izgubiti većinu u oba doma parlamenta. Samo regulatorna tijela u Nizozemskoj mogu razriješiti dvojbu je li kupoprodaja udjela Fortenove legalna. Otvoren 44. Interliber - naš najveći sajam knjige i izdavaštva. Urednica: Mira Barić</description>
-    <pubDate>Tue, 08 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/87/44/20221108-dnevne-novosti-33473162-20221108144048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
