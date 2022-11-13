@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 13 Nov 2022 21:53:59 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 22:24:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.11. 2022-11-13</title>
+    <link>https://api.hrt.hr/media/a7/83/20221113-kronika-dana-33490465-20221113221045.mp3</link>
+    <description>Slovenija dobila prvu predsjednicu u povijesti. U Istanbulu se sumnja na teroristički napad, najmanje je šestero mrtvih i više od 80 ozlijeđenih. Među stradalima nema Hrvata.Urednik: Sanja Cota</description>
+    <pubDate>Sun, 13 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/83/20221113-kronika-dana-33490465-20221113221045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.11. 2022-11-12</title>
     <link>https://api.hrt.hr/media/bd/21/20221112-kronika-dana-33488339-20221112230542.mp3</link>
     <description>Ukrajinci slave pobjedu u Hersonu. Suradnici Donalda Trumpa najavljuju da će on u utorak objaviti kandidaturu za predsjedničke izbore 2024. Jedna je osoba ozlijeđena, a više objekata oštećeno u eksploziji u središtu Preka na otoku Ugljanu. Urednik: Grgo Mrvica</description>
