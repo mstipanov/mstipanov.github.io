@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Nov 2022 23:22:18 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 21:53:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Kutinska Petrokemija, jedina hrvatska tvornica mineralnih gnojiva, , prelazi u većinsko tursko vlasništvo.Europski parlament podupro ulazak Hrvatske u Schengen - konačnu odluku donosi Europsko vijeće početkom prosinca. Na Markovu trgu prosvjedovale bivše radnice požeške Orljave - ni nakon godinu dana nisu im isplaćene zaostale plaće i zakonom zajamčene otpremnine. U zadarskoj bolnici kažu da se smrt 22-godišnje rodilje, nažalost, nije mogla spriječiti. Ukrajina i dalje najavu ruskog povlačenja iz Hersona uzima s oprezom. Urednica: Mira Barić</description>
     <pubDate>Thu, 10 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0a/b3/20221110-kronika-dana-33482240-20221110214540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.11. 2022-11-09</title>
-    <link>https://api.hrt.hr/media/ca/b5/20221109-kronika-dana-33478020-20221109214027.mp3</link>
-    <description>Europski parlament podupro ulazak Hrvatske u schengenski prostor. Ruski ministar obrane Sergei Shoigu zapovjedio povlačenje iz Hersona. Snažan potres pogodio Italiju, osjetio se i na hrvatskoj obali Jadrana. Uljanik brodogradnja dobila ponudu iz Češke za kupnju 55 posto udjela tvrtke za 155 milijuna kuna. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 09 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/b5/20221109-kronika-dana-33478020-20221109214027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
