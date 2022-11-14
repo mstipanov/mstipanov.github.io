@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 13 Nov 2022 21:21:43 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 14:55:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.11. 2022-11-14</title>
+    <link>https://api.hrt.hr/media/cd/10/20221114-dnevne-novosti-33493053-20221114144045.mp3</link>
+    <description>Bivši direktor INA-e Davor Štern svjedočio na Protukorupcijskom vijeću Sabora - najveća pogreška u prodaji INA-e MOL-u bilo je pravo veta. Prošle noći nesreća u Škrljevu pokraj Rijeke - teretni vlak udario u cisternu, nema ozlijeđenih. Počela je sanacija mora i plaža kod Ližnjana, gdje je jučer otkriveno veliko onečišćenje. Na sastanku ministara vanjskih poslova zemalja Europske unije najvažnija točka pokretanje misije uvježbavanja ukrajinskih vojnika. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 14 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cd/10/20221114-dnevne-novosti-33493053-20221114144045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.11. 2022-11-13</title>
     <link>https://api.hrt.hr/media/ff/09/20221113-dnevne-novosti-33489680-20221113204544.mp3</link>
     <description>Nakon Hersona ukrajinska vojska postupno ulazi i u druga donedavno okupirana naselja. U susjednoj Sloveniji održava se drugi krug predsjedničkih izbora. Slovenci biraju između konzervativca Anžea Logara i neovisne kandidatkinje Nataše Pirc Musar. Istarska policija zaplijenila gotovo tri i pol kilograma heroina - to je druga najveća ovogodišnja zapljena na tom području. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinska vojska ušla u napušteni Herson. Prema jesenskoj prognozi Europske komisije, hrvatsko gospodarstvo ostvarit će rast od 6 posto, a u idućoj 1 posto. Predviđanja su povoljnija od ljetnih, ali i onih koja je dala Hrvatska vlada. U Vukovaru predstavljen program obilježavanja Dana sjećanja, gradonačelnik Penava istaknuo da u koloni očekuje sve političke opcije, a predsjednik Milanović odbacio nagađanja o dvjema kolonama. Uz proslavu Martinja policija najavila pojačan nadzor prometa i alkotestiranje vozača. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 11 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c0/82/20221111-dnevne-novosti-33485275-20221111143540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.11. 2022-11-10</title>
-    <link>https://api.hrt.hr/media/d1/86/20221110-dnevne-novosti-33481117-20221110144039.mp3</link>
-    <description>Europski parlament velikom većinom glasova podupro ulazak Hrvatske u schengenski prostor. Ukrajina objavila da za sada nema naznaka ruskog povlačenja iz Hersona. Tko će kontrolirati američki Senat - znat će se nakon rezultata međuizbora u Arizoni, Georgiji i Nevadi. Na Zagrebačkom velesajmu otvorena je 27-ma smotra Sveučilišta u Zagrebu. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 10 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d1/86/20221110-dnevne-novosti-33481117-20221110144039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
