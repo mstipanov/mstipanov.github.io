@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 13 Nov 2022 10:23:10 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 06:54:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.11. 2022-11-14</title>
+    <link>https://api.hrt.hr/media/b7/88/20221114-jutarnja-kronika-33491030-20221114064044.mp3</link>
+    <description>Uhićen terorist koji je podmetnuo bombu u središtu Istanbula. Turski ministar unutarnjih poslova najavljuje osvetu Kurdskoj radničkoj stranci. Nataša Pirc Musar prva je predsjednica u povijesti Slovenije. Na sjednici Protukorupcijskog vijeća danas saslušanje Siniše Petrovića i Davora Šterna. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b7/88/20221114-jutarnja-kronika-33491030-20221114064044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.11. 2022-11-13</title>
     <link>https://api.hrt.hr/media/7e/ec/20221113-jutarnja-kronika-33488851-20221113100543.mp3</link>
     <description>Uz slavlje zbog oslobođenja Hersona - raste zabrinutost od osvetničkih ruskih napada. Demokrati zadržali kontrolu u gornjem domu američkog kongresa. Slovenci u drugom krugu predsjedničkih izbora odlučuju između Anžea Logara i Nataše Pirc Musar. Dan je siromaha! - U Hrvatskoj 20 posto stanovnika u riziku od siromaštva. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Nakon jučerašnje potpore Europskog parlamenta, Hrvatsku od ulaska u Schengen još samo dijeli odluka Europskog vijeća, koja se očekuje početkom prosinca. Ministar Vili Beroš predstavit će koje su primjedbe prihvaćene iz trotjedne javne rasprave o dvama zakonima ključnim za zdravstvenu reformu. Najveća hrvatska tvornica mineralnih gnojiva prelazi u većinsko tursko vlasništvo. Diljem Europe iduća tri dana obilježava se Noć cirkusa. Urednik: Silvio Šop</description>
     <pubDate>Fri, 11 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f4/cd/20221111-jutarnja-kronika-33482884-20221111063516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.11. 2022-11-10</title>
-    <link>https://api.hrt.hr/media/20/d3/20221110-jutarnja-kronika-33478620-20221110063538.mp3</link>
-    <description>Europski parlament trebao bi potvrditi ulazak Hrvatske u schengensko područje. Rusi naredili povlačenje iz Hersona. Još se prebrojavaju glasovi nakon izbora za američki Kongres - ključne su tri države: Arizona, Nevada i Giorgia. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 10 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/20/d3/20221110-jutarnja-kronika-33478620-20221110063538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
