@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Nov 2022 14:44:48 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 17:27:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 2022-11-15</title>
+    <link>https://api.hrt.hr/media/c9/62/20221115-explora-7891158-20221115170046.mp3</link>
+    <description>Elon Musk kupio Twitter i otpustio sve direktore. Asteroid 2022 AP7 bi mogao biti opasan. Ukrajina i crnomorska flota. Preskupi CoVid19 i dvojbeno podrijetlo CoVida 2. Bumbari se loptaju. Uspavljujuća Explora.</description>
+    <pubDate>Tue, 15 Nov 2022 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c9/62/20221115-explora-7891158-20221115170046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>EXPLORA 2022-11-08</title>
     <link>https://api.hrt.hr/media/14/65/20221108-explora-7888623-20221108164047.mp3</link>
     <description>Ukrajinci kao Kurdi. Egipat, globalno zatopljenje i emisija CO2. Kineske podmornice na litijeve akumulatore. Indija i dronovi. Podvodni plinovod, mrežni kabeli i optika. Mp3 standard, Meta može bolje. Pet očiju – sve se sluša.</description>
@@ -98,17 +106,6 @@ Ukraina:
 </description>
     <pubDate>Tue, 13 Sep 2022 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/21/20220913-explora-1805124-20220913160555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2022-09-06</title>
-    <link>https://api.hrt.hr/media/48/3e/20220906-explora-1803041-20220906160538.mp3</link>
-    <description>Artemis opet odgođen, curenje goriva, što ćemo na Mjesecu. Mars rover Perseverance. IR fotografije – toplo i hladno. Zašto tražimo naseljive planete u udaljenim sustavima, a ne bliže nama. Gravitacijski valovi i brzina svjetlosti, ako se Svemir širi, u što se širi ? Proizvodnja čipova. Ulaganje u solarne ploče, zakoni i regulative. Vitiligo.  
-
-
-</description>
-    <pubDate>Tue, 06 Sep 2022 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/48/3e/20220906-explora-1803041-20220906160538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
