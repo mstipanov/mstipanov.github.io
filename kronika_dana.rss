@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Nov 2022 21:56:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 21:52:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.11. 2022-11-15</title>
+    <link>https://api.hrt.hr/media/36/ac/20221115-kronika-dana-33497750-20221115214047.mp3</link>
+    <description>Na Poljsku pale dvije zalutale ruske rakete, poginule su dvije osobe, slučaj se još istražuje. Poljska sazvala Nacionalno vijeće sigurnosti. Rusi danas inače cijeli dan raketiraju Kijev i Lavov te mnoge druge gradove. Predsjednik Milanović ponovio da neće dati suglasnost za obuku ukrajinskih vojnika u Hrvatskoj, odluka je na Saboru. Svijet od danas ima osam milijardi stanovnika. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 15 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/36/ac/20221115-kronika-dana-33497750-20221115214047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.11. 2022-11-14</title>
     <link>https://api.hrt.hr/media/8f/f0/20221114-kronika-dana-33494043-20221114213545.mp3</link>
     <description>U Vladinu prijedlogu državnog proračuna za sljedeću godinu rastu prihodi i rashodi. Davor Štern i Siniša Petrović svjedočili o INI na Protukorupcijskom vijeću. Ukrajinski predsjednik Zelenski u oslobođenom Hersonu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinci slave pobjedu u Hersonu. Suradnici Donalda Trumpa najavljuju da će on u utorak objaviti kandidaturu za predsjedničke izbore 2024. Jedna je osoba ozlijeđena, a više objekata oštećeno u eksploziji u središtu Preka na otoku Ugljanu. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 12 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bd/21/20221112-kronika-dana-33488339-20221112230542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.11. 2022-11-11</title>
-    <link>https://api.hrt.hr/media/2b/eb/20221111-kronika-dana-33486270-20221111213540.mp3</link>
-    <description>Ruske snage potpuno se povukle iz Hersona. U grad ušli ukrajinski vojnici. Hrvatska među pet država Europske unije s najvišom stopom gospodarskog rasta. Na cestama pojačane policijske kontrole. Vinogradari i ljubitelji vina slave Martinje! Urednica: Mira Barić</description>
-    <pubDate>Fri, 11 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2b/eb/20221111-kronika-dana-33486270-20221111213540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
