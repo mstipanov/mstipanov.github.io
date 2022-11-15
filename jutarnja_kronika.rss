@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Nov 2022 06:54:36 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 06:56:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.11. 2022-11-15</title>
+    <link>https://api.hrt.hr/media/e2/c2/20221115-jutarnja-kronika-33494560-20221115063046.mp3</link>
+    <description>Sabor počinje novu sjednicu Aktualnim prijepodnevom. Vlada predložila državni proračun za sljedeću godinu - rastu prihodi i rashodi. Zelenski pozvao svjetske vođe okupljene na sastanku G 20 da prihvate ukrajinski mirovni plan. Bivši američki predsjednik Trump večeras bi se mogao službeno uključiti u utrku za Bijelu kuću. Svijet će od danas imati 8 milijardi stanovnika. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e2/c2/20221115-jutarnja-kronika-33494560-20221115063046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.11. 2022-11-14</title>
     <link>https://api.hrt.hr/media/b7/88/20221114-jutarnja-kronika-33491030-20221114064044.mp3</link>
     <description>Uhićen terorist koji je podmetnuo bombu u središtu Istanbula. Turski ministar unutarnjih poslova najavljuje osvetu Kurdskoj radničkoj stranci. Nataša Pirc Musar prva je predsjednica u povijesti Slovenije. Na sjednici Protukorupcijskog vijeća danas saslušanje Siniše Petrovića i Davora Šterna. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Diljem Ukrajine slavlje - ruske snage potpuno se povukle iz Hersona.Bivši američki predsjednik Donald Trump u utorak će objaviti da je kandidat za predsjedničke izbore 2024.U Zagreb stigao Placido Domingo. Večeras će u Lisinskom dirigirati Verdijev Rekvijem. Urednica: Mira Barić</description>
     <pubDate>Sat, 12 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/bc/20221112-jutarnja-kronika-33486761-20221112063541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.11. 2022-11-11</title>
-    <link>https://api.hrt.hr/media/f4/cd/20221111-jutarnja-kronika-33482884-20221111063516.mp3</link>
-    <description>Nakon jučerašnje potpore Europskog parlamenta, Hrvatsku od ulaska u Schengen još samo dijeli odluka Europskog vijeća, koja se očekuje početkom prosinca. Ministar Vili Beroš predstavit će koje su primjedbe prihvaćene iz trotjedne javne rasprave o dvama zakonima ključnim za zdravstvenu reformu. Najveća hrvatska tvornica mineralnih gnojiva prelazi u većinsko tursko vlasništvo. Diljem Europe iduća tri dana obilježava se Noć cirkusa. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 11 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f4/cd/20221111-jutarnja-kronika-33482884-20221111063516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
