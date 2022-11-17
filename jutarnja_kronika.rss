@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Nov 2022 06:50:29 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:32:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Uhićen terorist koji je podmetnuo bombu u središtu Istanbula. Turski ministar unutarnjih poslova najavljuje osvetu Kurdskoj radničkoj stranci. Nataša Pirc Musar prva je predsjednica u povijesti Slovenije. Na sjednici Protukorupcijskog vijeća danas saslušanje Siniše Petrovića i Davora Šterna. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/88/20221114-jutarnja-kronika-33491030-20221114064044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.11. 2022-11-13</title>
-    <link>https://api.hrt.hr/media/7e/ec/20221113-jutarnja-kronika-33488851-20221113100543.mp3</link>
-    <description>Uz slavlje zbog oslobođenja Hersona - raste zabrinutost od osvetničkih ruskih napada. Demokrati zadržali kontrolu u gornjem domu američkog kongresa. Slovenci u drugom krugu predsjedničkih izbora odlučuju između Anžea Logara i Nataše Pirc Musar. Dan je siromaha! - U Hrvatskoj 20 posto stanovnika u riziku od siromaštva. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 13 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7e/ec/20221113-jutarnja-kronika-33488851-20221113100543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
