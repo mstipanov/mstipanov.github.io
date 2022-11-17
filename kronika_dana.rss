@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Nov 2022 21:52:03 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 21:37:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Vladinu prijedlogu državnog proračuna za sljedeću godinu rastu prihodi i rashodi. Davor Štern i Siniša Petrović svjedočili o INI na Protukorupcijskom vijeću. Ukrajinski predsjednik Zelenski u oslobođenom Hersonu. Urednica: Sanja Cota</description>
     <pubDate>Mon, 14 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/f0/20221114-kronika-dana-33494043-20221114213545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.11. 2022-11-13</title>
-    <link>https://api.hrt.hr/media/a7/83/20221113-kronika-dana-33490465-20221113221045.mp3</link>
-    <description>Slovenija dobila prvu predsjednicu u povijesti. U Istanbulu se sumnja na teroristički napad, najmanje je šestero mrtvih i više od 80 ozlijeđenih. Među stradalima nema Hrvata.Urednik: Sanja Cota</description>
-    <pubDate>Sun, 13 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a7/83/20221113-kronika-dana-33490465-20221113221045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
