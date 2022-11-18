@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Nov 2022 17:03:52 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 14:57:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.11. 2022-11-18</title>
+    <link>https://api.hrt.hr/media/57/28/20221118-dnevne-novosti-33507452-20221118144017.mp3</link>
+    <description>Dan je sjećanja na žrtvu Vukovara i Škabrnje.Unatoč kiši, deseci tisuća ljudi iz cijele Hrvatske u Koloni sjećanja. Nevrijeme i obilna kiša izazvali poplave u Novom Vinodolskom, Crikvenici te u Malinskoj. Švedski istražitelji pronašli tragove eksploziva na oštećenim dijelovima plinovoda Sjeverni tok 1 i 2, što potvrđuje da se radilo o sabotaži. Urednica: Mira Barić</description>
+    <pubDate>Fri, 18 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/28/20221118-dnevne-novosti-33507452-20221118144017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.11. 2022-11-17</title>
     <link>https://api.hrt.hr/media/68/8b/20221117-dnevne-novosti-33504595-20221117164015.mp3</link>
     <description>Ministar financija Marko Primorac objavio pojedinosti novog poreza na ekstraprofit, Hrvatska udruga poslodavaca šokirana prijedlogom. Počelo obilježavanje Dana sjećanja na žrtvu Vukovara i Škabrnje. Drugog dana posjeta španjolskoga kraljevskog para Hrvatskoj potpisan memorandum za projekt vrijedan 650 milijuna eura. Sporazum o izvozu ukrajinskih žitarica produljen za još četiri mjeseca, Rusi i dalje dalekometnim projektilima napadaju mnoge ukrajinske gradove. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Aktualno saborsko prijepodne proteklo bez povišenih tonova, premijer Andrej Plenković poručio da će se parlamentarni izbori održati kada je i predviđeno. Na Baliju počeo sastanak G20, glavna je tema rat u Ukrajini. Sanira se šteta nakon nesreće na željezničkoj postaji Škrljevo , normalizacija prometa očekuje se sutra. Nije donesena odluka o osnovanosti optužnice u slučaju JANAF jer je obrana zatražila da se tajne snimke izdvoje iz spisa kao nezakonite. Urednik: Silvio Šop</description>
     <pubDate>Tue, 15 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2c/c4/20221115-dnevne-novosti-33496611-20221115143546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.11. 2022-11-14</title>
-    <link>https://api.hrt.hr/media/cd/10/20221114-dnevne-novosti-33493053-20221114144045.mp3</link>
-    <description>Bivši direktor INA-e Davor Štern svjedočio na Protukorupcijskom vijeću Sabora - najveća pogreška u prodaji INA-e MOL-u bilo je pravo veta. Prošle noći nesreća u Škrljevu pokraj Rijeke - teretni vlak udario u cisternu, nema ozlijeđenih. Počela je sanacija mora i plaža kod Ližnjana, gdje je jučer otkriveno veliko onečišćenje. Na sastanku ministara vanjskih poslova zemalja Europske unije najvažnija točka pokretanje misije uvježbavanja ukrajinskih vojnika. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 14 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/10/20221114-dnevne-novosti-33493053-20221114144045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
