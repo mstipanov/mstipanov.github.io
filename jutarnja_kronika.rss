@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Nov 2022 07:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:56:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.11. 2022-11-18</title>
+    <link>https://api.hrt.hr/media/a4/56/20221118-jutarnja-kronika-33505819-20221118063513.mp3</link>
+    <description>Dan je sjećanja na žrtvu Vukovara i Škabrnje. Vlada predstavila prijedlog zakona o dodatnom porezu na dobit. Švicarska će od 1. siječnja za hrvatske državljane primjenjivati sustav kvota za izdavanje radnih dozvola. Rusi i dalje gađaju ukrajinsku infrastrukturu, više od 10 milijuna Ukrajinaca bez struje. Urednik Silvio Šop</description>
+    <pubDate>Fri, 18 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/56/20221118-jutarnja-kronika-33505819-20221118063513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.11. 2022-11-17</title>
     <link>https://api.hrt.hr/media/ee/de/20221117-jutarnja-kronika-33501956-20221117063511.mp3</link>
     <description>Smiruje se međunarodna napetost nakon pada projektila na poljsko pogranično mjesto, pri čemu su poginule dvije osobe. Španjolski kraljevski par u posjetu Hrvatskoj. Dvije zemlje predvode jedinstven projekt izgradnje fuzijske elektrane. Uoči Dana sjećanja na žrtvu Vukovara i Škabrnje, večeras će u dvorištu vukovarske bolnice dr. Juraj Njavro biti zapaljene svijeće i održana molitva za poginule i nestale u agresiji na Vukovar. Uspješna generalna proba uoči svjetskog nogometnog prvenstva. Hrvatska pobijedila Saudijsku Arabiju 1:0. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Sabor počinje novu sjednicu Aktualnim prijepodnevom. Vlada predložila državni proračun za sljedeću godinu - rastu prihodi i rashodi. Zelenski pozvao svjetske vođe okupljene na sastanku G 20 da prihvate ukrajinski mirovni plan. Bivši američki predsjednik Trump večeras bi se mogao službeno uključiti u utrku za Bijelu kuću. Svijet će od danas imati 8 milijardi stanovnika. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e2/c2/20221115-jutarnja-kronika-33494560-20221115063046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.11. 2022-11-14</title>
-    <link>https://api.hrt.hr/media/b7/88/20221114-jutarnja-kronika-33491030-20221114064044.mp3</link>
-    <description>Uhićen terorist koji je podmetnuo bombu u središtu Istanbula. Turski ministar unutarnjih poslova najavljuje osvetu Kurdskoj radničkoj stranci. Nataša Pirc Musar prva je predsjednica u povijesti Slovenije. Na sjednici Protukorupcijskog vijeća danas saslušanje Siniše Petrovića i Davora Šterna. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/88/20221114-jutarnja-kronika-33491030-20221114064044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
