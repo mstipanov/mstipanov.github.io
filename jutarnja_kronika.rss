@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Nov 2022 06:56:26 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 07:05:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.11. 2022-11-19</title>
+    <link>https://api.hrt.hr/media/e5/24/20221119-jutarnja-kronika-33508896-20221119063515.mp3</link>
+    <description>U Vukovaru i Škabrnji - Kolone sjećanja na najteže dane Domovinskog rata. Prisjećamo se stradanja u Borovu naselju i Nadinu. Više od deset milijuna ljudi u Ukrajini bez struje i grijanja. Kijevu prijeti potpuni mrak. U Peruu na pisti zračne luke sudar zrakoplova s vozilom - poginula dvojica vatrogasaca. Pred nama je Noć kazališta. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 19 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/24/20221119-jutarnja-kronika-33508896-20221119063515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.11. 2022-11-18</title>
     <link>https://api.hrt.hr/media/a4/56/20221118-jutarnja-kronika-33505819-20221118063513.mp3</link>
     <description>Dan je sjećanja na žrtvu Vukovara i Škabrnje. Vlada predstavila prijedlog zakona o dodatnom porezu na dobit. Švicarska će od 1. siječnja za hrvatske državljane primjenjivati sustav kvota za izdavanje radnih dozvola. Rusi i dalje gađaju ukrajinsku infrastrukturu, više od 10 milijuna Ukrajinaca bez struje. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dvije osobe poginule su u eksploziji projektila koji je sinoć pao na Poljsku uz ukrajinsku granicu. Moskva i Kijev međusobno se optužuju. Predsjednik države Zoran Milanović ponovno poručuje da neće odobriti obuku ukrajinskih vojnika u Hrvatskoj. Premijer Andrej Plenković tražit će potporu Sabora. U Hrvatsku stiže španjolski kraljevski par. Donald Trump najavio ulazak u utrku za Bijelu kuću za dvije godine. Urednica: Snježana Kralj</description>
     <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/8e/20221116-jutarnja-kronika-33498391-20221116063547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.11. 2022-11-15</title>
-    <link>https://api.hrt.hr/media/e2/c2/20221115-jutarnja-kronika-33494560-20221115063046.mp3</link>
-    <description>Sabor počinje novu sjednicu Aktualnim prijepodnevom. Vlada predložila državni proračun za sljedeću godinu - rastu prihodi i rashodi. Zelenski pozvao svjetske vođe okupljene na sastanku G 20 da prihvate ukrajinski mirovni plan. Bivši američki predsjednik Trump večeras bi se mogao službeno uključiti u utrku za Bijelu kuću. Svijet će od danas imati 8 milijardi stanovnika. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e2/c2/20221115-jutarnja-kronika-33494560-20221115063046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
