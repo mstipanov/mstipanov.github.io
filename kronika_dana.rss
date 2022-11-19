@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Nov 2022 22:04:01 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 22:07:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.11. 2022-11-19</title>
+    <link>https://api.hrt.hr/media/94/3f/20221119-kronika-dana-33510506-20221119214018.mp3</link>
+    <description>Danas smo se sjećali žrtava Borova Naselja i Nadina. Ministar Božinović ne očekuje da će Austrija blokirati ulazak Hrvatske u Schengen iako je njegov austrijski kolega izjavio da za to nije vrijeme. U Ukrajini Rusi oštetili gotovo polovicu energetskog sustava. Više od deset milijuna ljudi bez struje. U Lici i Gorskom kotaru pao je snijeg. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 19 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/3f/20221119-kronika-dana-33510506-20221119214018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.11. 2022-11-18</title>
     <link>https://api.hrt.hr/media/01/41/20221118-kronika-dana-33508212-20221118214017.mp3</link>
     <description>U Vukovaru i Škabrnji - kolone sjećanja na najteže dane Domovinskog rata. Više od deset milijuna ljudi u Ukrajini bez struje i grijanja. Poplava u Novom Vinodolskom i na Krku. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Volodimir Zelenski opovrgnuo da je na poljsko selo uz granicu pao projektil ukrajinske protuzračne obrane. Inflacija i dalje ruši rekorde - u listopadu je bila 13,2 posto. Prvi dan posjeta Hrvatskoj španjolski kraljevski par završio svečanom večerom na Pantovčaku. Dodijeljene ovogodišnje "Nagrade Luka Ritz - nasilje nije hrabrost". Urednik: Silvio Šop</description>
     <pubDate>Wed, 16 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/c3/20221116-kronika-dana-33501380-20221116214549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.11. 2022-11-15</title>
-    <link>https://api.hrt.hr/media/36/ac/20221115-kronika-dana-33497750-20221115214047.mp3</link>
-    <description>Na Poljsku pale dvije zalutale ruske rakete, poginule su dvije osobe, slučaj se još istražuje. Poljska sazvala Nacionalno vijeće sigurnosti. Rusi danas inače cijeli dan raketiraju Kijev i Lavov te mnoge druge gradove. Predsjednik Milanović ponovio da neće dati suglasnost za obuku ukrajinskih vojnika u Hrvatskoj, odluka je na Saboru. Svijet od danas ima osam milijardi stanovnika. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 15 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/36/ac/20221115-kronika-dana-33497750-20221115214047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
