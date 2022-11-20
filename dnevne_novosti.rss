@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 19 Nov 2022 15:06:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:09:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 20.11. 2022-11-20</title>
+    <link>https://api.hrt.hr/media/a2/01/20221120-dnevne-novosti-33511830-20221120144020.mp3</link>
+    <description>U Kataru počinje Svjetsko nogometno prvenstvo. Prije 31 godinu na Ovčari se dogodio najveći zločin u Domovinskom ratu. Uzbune u Ukrajini zbog najjačih raketnih napada od početka ruske agresije. Snijeg zabijelio Gorski Kotar i Liku. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 20 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a2/01/20221120-dnevne-novosti-33511830-20221120144020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 19.11. 2022-11-19</title>
     <link>https://api.hrt.hr/media/27/8e/20221119-dnevne-novosti-33509744-20221119144019.mp3</link>
     <description>Nakon Vukovara i Škabrnje danas odajemo počast poginulima u Borovu naselju i Nadinu. Austrija podupire ulazak Hrvatske u Shengen i tu se ništa nije promijenilo izjavio ministar Božinović. Jake borbe na istoku Ukrajine, Rusi već danima uništavaju ukrajinska energetska postrojenja. Večeras se diljem zemlje održava Noć kazališta. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Ministar financija Marko Primorac objavio pojedinosti novog poreza na ekstraprofit, Hrvatska udruga poslodavaca šokirana prijedlogom. Počelo obilježavanje Dana sjećanja na žrtvu Vukovara i Škabrnje. Drugog dana posjeta španjolskoga kraljevskog para Hrvatskoj potpisan memorandum za projekt vrijedan 650 milijuna eura. Sporazum o izvozu ukrajinskih žitarica produljen za još četiri mjeseca, Rusi i dalje dalekometnim projektilima napadaju mnoge ukrajinske gradove. Urednik: Silvio Šop</description>
     <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/68/8b/20221117-dnevne-novosti-33504595-20221117164015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 16.11. 2022-11-16</title>
-    <link>https://api.hrt.hr/media/b9/56/20221116-dnevne-novosti-33500305-20221116144050.mp3</link>
-    <description>Projektili koji su jučer pali na poljski teritorij i ubili dvoje ljudi ipak su ukrajinski. Inflacija ne posustaje, u listopadu iznosila 13,2 posto u odnosu prema prošloj godini. Na zadnjoj utakmici uoči Svjetskog nogometnog prvenstva, Hrvatska pobijedila Saudijsku Arabiju 1:0. Urednica: Mira Barić</description>
-    <pubDate>Wed, 16 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b9/56/20221116-dnevne-novosti-33500305-20221116144050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
