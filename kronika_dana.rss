@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 19 Nov 2022 22:07:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 21:40:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Uoči Dana sjećanja na žrtvu Vukovara i Škabrnje diljem Hrvatske večeras gore tisuće svijeće.Vlada predstavila prijedlog zakona o dodatnom porezu na dobit, morat će ga platiti tvrtke koje će ostvariti prihode veće od 300 milijuna kuna. Ne prestaju ruski napadi na ukrajinske gradove, ukrajinski istražitelji stigli su u Poljsku i uskoro bi trebali dobiti pristup mjestu na koje je prije dva dana pao projektil.Urednica Mira Barić</description>
     <pubDate>Thu, 17 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4a/6f/20221117-kronika-dana-33505222-20221117214014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.11. 2022-11-16</title>
-    <link>https://api.hrt.hr/media/5a/c3/20221116-kronika-dana-33501380-20221116214549.mp3</link>
-    <description>Predsjednik Volodimir Zelenski opovrgnuo da je na poljsko selo uz granicu pao projektil ukrajinske protuzračne obrane. Inflacija i dalje ruši rekorde - u listopadu je bila 13,2 posto. Prvi dan posjeta Hrvatskoj španjolski kraljevski par završio svečanom večerom na Pantovčaku. Dodijeljene ovogodišnje "Nagrade Luka Ritz - nasilje nije hrabrost". Urednik: Silvio Šop</description>
-    <pubDate>Wed, 16 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/c3/20221116-kronika-dana-33501380-20221116214549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
