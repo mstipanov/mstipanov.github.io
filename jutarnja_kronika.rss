@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 21 Nov 2022 06:41:15 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 07:11:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.11. 2022-11-21</title>
+    <link>https://api.hrt.hr/media/59/11/20221121-jutarnja-kronika-33513198-20221121070021.mp3</link>
+    <description>Kosovo danas počinje kažnjavati svoje građane koji na automobilima ne budu imali kosovske registracijske oznake. U Briselu o toj temi razgovarat će kosovski premijer Kurti i srbijanski predsjednik Vučić. Na temperaturama ispod nule u Ukrajini više od deset milijuna ljudi bez struje. U Kataru počelo Svjetsko nogometno prvenstvo. Istraživanje HRrejting - HDZ uvjerljivo prvi s više od 25 posto potpore, SDP na 15,7 posto. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 21 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/59/11/20221121-jutarnja-kronika-33513198-20221121070021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.11. 2022-11-20</title>
     <link>https://api.hrt.hr/media/52/e4/20221120-jutarnja-kronika-33511016-20221120063020.mp3</link>
     <description>Danas će se odati počast žrtvama srpskog koncentracijskog logora Veleprometa. U Ukrajini deset milijuna ljudi bez struje. Počinje Svjetsko nogometno prvenstvo. Na većini cesta su zimski uvjeti, u Gorskom kotaru pao je snijeg. Urednik: Grgo Mrvica</description>
