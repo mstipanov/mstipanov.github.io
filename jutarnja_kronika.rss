@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 20 Nov 2022 07:08:06 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 06:41:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Dan je sjećanja na žrtvu Vukovara i Škabrnje. Vlada predstavila prijedlog zakona o dodatnom porezu na dobit. Švicarska će od 1. siječnja za hrvatske državljane primjenjivati sustav kvota za izdavanje radnih dozvola. Rusi i dalje gađaju ukrajinsku infrastrukturu, više od 10 milijuna Ukrajinaca bez struje. Urednik Silvio Šop</description>
     <pubDate>Fri, 18 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a4/56/20221118-jutarnja-kronika-33505819-20221118063513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.11. 2022-11-17</title>
-    <link>https://api.hrt.hr/media/ee/de/20221117-jutarnja-kronika-33501956-20221117063511.mp3</link>
-    <description>Smiruje se međunarodna napetost nakon pada projektila na poljsko pogranično mjesto, pri čemu su poginule dvije osobe. Španjolski kraljevski par u posjetu Hrvatskoj. Dvije zemlje predvode jedinstven projekt izgradnje fuzijske elektrane. Uoči Dana sjećanja na žrtvu Vukovara i Škabrnje, večeras će u dvorištu vukovarske bolnice dr. Juraj Njavro biti zapaljene svijeće i održana molitva za poginule i nestale u agresiji na Vukovar. Uspješna generalna proba uoči svjetskog nogometnog prvenstva. Hrvatska pobijedila Saudijsku Arabiju 1:0. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 17 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ee/de/20221117-jutarnja-kronika-33501956-20221117063511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
