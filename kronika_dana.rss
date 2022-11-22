@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 22 Nov 2022 18:44:34 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 21:58:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.11. 2022-11-22</title>
+    <link>https://api.hrt.hr/media/d9/e3/20221122-kronika-dana-33520019-20221122214045.mp3</link>
+    <description>Orkansko jugo i jaka kiša prekinuli pomorski promet, podignuli more, poplavili mnoge rive i zatvorili prometnice. Predsjednik Zoran Milanović odbio dati suglasnost za sudjelovanje hrvatskih vojnika u misiji Europske unije za vojnu pomoć Ukrajini. Ministar Mario Banožić najavljuje da će odluku donijeti u Saboru. U službeni posjet Zagrebu sutra dolazi austrijski kancelar Nehammer. Tamošnji dnevnik Kleine Zeitung prenio njegovu izjavu da Austrija neće staviti veto na hrvatski ulazak u Schengen. Sport: iznenađenje na Svjetskom nogometnom prvenstvu - Saudijska Arabija pobijedila Argentinu! Hrvatska reprezentacija nastup počinje sutra, utakmicom protiv Maroka.
+Urednik: Silvio Šop</description>
+    <pubDate>Tue, 22 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d9/e3/20221122-kronika-dana-33520019-20221122214045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.11. 2022-11-21</title>
     <link>https://api.hrt.hr/media/c2/c9/20221121-kronika-dana-33516470-20221121214022.mp3</link>
     <description>Od ponoći jeftinije gorivo - cijene sirove nafte na svjetskim tržištima na najnižoj razini od početka ruske agresije na Ukrajinu. Austrijski ministar ponavlja da nije vrijeme za proširenje Schengena, premijer Plenković siguran da će Hrvatska dobiti pozitivan odgovor. Potres u Indoneziji - više od 160 ljudi poginulo, 700 ozlijeđeno. Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Danas smo se sjećali žrtava Borova Naselja i Nadina. Ministar Božinović ne očekuje da će Austrija blokirati ulazak Hrvatske u Schengen iako je njegov austrijski kolega izjavio da za to nije vrijeme. U Ukrajini Rusi oštetili gotovo polovicu energetskog sustava. Više od deset milijuna ljudi bez struje. U Lici i Gorskom kotaru pao je snijeg. Urednica: Sanja Cota</description>
     <pubDate>Sat, 19 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/3f/20221119-kronika-dana-33510506-20221119214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.11. 2022-11-18</title>
-    <link>https://api.hrt.hr/media/01/41/20221118-kronika-dana-33508212-20221118214017.mp3</link>
-    <description>U Vukovaru i Škabrnji - kolone sjećanja na najteže dane Domovinskog rata. Više od deset milijuna ljudi u Ukrajini bez struje i grijanja. Poplava u Novom Vinodolskom i na Krku. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 18 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/01/41/20221118-kronika-dana-33508212-20221118214017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
