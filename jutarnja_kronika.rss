@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 22 Nov 2022 18:44:35 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 06:31:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Danas će se odati počast žrtvama srpskog koncentracijskog logora Veleprometa. U Ukrajini deset milijuna ljudi bez struje. Počinje Svjetsko nogometno prvenstvo. Na većini cesta su zimski uvjeti, u Gorskom kotaru pao je snijeg. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 20 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/52/e4/20221120-jutarnja-kronika-33511016-20221120063020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.11. 2022-11-19</title>
-    <link>https://api.hrt.hr/media/e5/24/20221119-jutarnja-kronika-33508896-20221119063515.mp3</link>
-    <description>U Vukovaru i Škabrnji - Kolone sjećanja na najteže dane Domovinskog rata. Prisjećamo se stradanja u Borovu naselju i Nadinu. Više od deset milijuna ljudi u Ukrajini bez struje i grijanja. Kijevu prijeti potpuni mrak. U Peruu na pisti zračne luke sudar zrakoplova s vozilom - poginula dvojica vatrogasaca. Pred nama je Noć kazališta. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 19 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/24/20221119-jutarnja-kronika-33508896-20221119063515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
