@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Nov 2022 07:02:12 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:51:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.11. 2022-11-24</title>
+    <link>https://api.hrt.hr/media/3f/99/20221124-jutarnja-kronika-33524580-20221124063540.mp3</link>
+    <description>Noćas malo poslije 2 i 30 Sabor završio maratonsku raspravu o državnom proračunu za 2023. Vlada će izmijeniti Uredbu o visini trošarine na energente i električnu energiju. Austrijski kancelar Nehamer i bavarski premijer Zeder s premijerom Plenkovićem će posjetiti LNG terminal na Krku. Dogovarat će suradnju na području opskrbe energijom i smanjenja ovisnosti o ruskom plinu. 15 ukrajinskih regija i grad Kijev ponovno imaju struju. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 24 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/99/20221124-jutarnja-kronika-33524580-20221124063540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.11. 2022-11-23</title>
     <link>https://api.hrt.hr/media/67/d3/20221123-jutarnja-kronika-33520567-20221123063536.mp3</link>
     <description>Hrvatska s Marokom igra prvu utakmicu na Svjetskome nogometnom prvenstvu. Sabor će raspravljati o prijedlogu državnog proračuna za iduću godinu, prvog koji je iskazan u novoj valuti - euru. U Zagreb dolazi austrijski kancelar Karl Nehammer. Shengen i proširenje LNG terminala na Krku bit će glavne teme razgovora. U Pragu se otvara velika izložba Ivana Meštrovića. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Kosovo danas počinje kažnjavati svoje građane koji na automobilima ne budu imali kosovske registracijske oznake. U Briselu o toj temi razgovarat će kosovski premijer Kurti i srbijanski predsjednik Vučić. Na temperaturama ispod nule u Ukrajini više od deset milijuna ljudi bez struje. U Kataru počelo Svjetsko nogometno prvenstvo. Istraživanje HRrejting - HDZ uvjerljivo prvi s više od 25 posto potpore, SDP na 15,7 posto. Urednik: Silvio Šop</description>
     <pubDate>Mon, 21 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/11/20221121-jutarnja-kronika-33513198-20221121070021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.11. 2022-11-20</title>
-    <link>https://api.hrt.hr/media/52/e4/20221120-jutarnja-kronika-33511016-20221120063020.mp3</link>
-    <description>Danas će se odati počast žrtvama srpskog koncentracijskog logora Veleprometa. U Ukrajini deset milijuna ljudi bez struje. Počinje Svjetsko nogometno prvenstvo. Na većini cesta su zimski uvjeti, u Gorskom kotaru pao je snijeg. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 20 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/52/e4/20221120-jutarnja-kronika-33511016-20221120063020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
