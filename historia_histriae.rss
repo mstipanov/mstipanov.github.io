@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Nov 2022 17:03:52 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 17:22:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Zapisi Fachinettija 2022-11-24</title>
+    <link>https://api.hrt.hr/media/75/76/20221124-historia-histriae-7894033-20221124162047.mp3</link>
+    <description>U ovoj emisiji slušamo vrijedne zapise o istarskim Slavenima koje je sredinom 19. stoljeća zapisao župnik u Savičenti Antonio Facchinetti. Čut ćemo nešto o gostoljubivosti naših predaka i njihovim običajima vezanim za rođenje djeteta. </description>
+    <pubDate>Thu, 24 Nov 2022 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/75/76/20221124-historia-histriae-7894033-20221124162047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>IGOR JOVANOVIC 2022-11-17</title>
     <link>https://api.hrt.hr/media/b5/55/20221117-historia-histriae-7891860-20221117162514.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>Franko Lukež pune je dvije godine u našoj emisiji na zabavan i zanimljiv način dijelio sve ono što je marljivo skupljao cijeli život. Tako je nastao izuzetno zanimljiv mozaik priča o povijesti naše svakodnevice, posebno o povijesti hrane, pića i oštarija. U prvom ovosezonskom izdanju Historije zato ćemo se prisjetiti Frankovog posljednjeg gostovanja u emisiji u kojem je govorio o povijesti istarskih slastica.</description>
     <pubDate>Thu, 15 Sep 2022 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/7e/20220915-historia-histriae-1805273-20220915164536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>HISTORIA ZA 9.6. 2022-06-09</title>
-    <link>https://api.hrt.hr/media/76/f3/20220609-historia-histriae-1770263-20220609155559.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 09 Jun 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/76/f3/20220609-historia-histriae-1770263-20220609155559.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
