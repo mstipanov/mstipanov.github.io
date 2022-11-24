@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Nov 2022 15:03:52 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 14:52:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vlada će ponovno intervenirati u cijene goriva. Od ponoći bi trebalo pojeftiniti. Austrijski ministar unutarnjih poslova opet se usprotivio proširenju Schengena. 27 godina nakon rata Požeško-slavonska županija očišćena od mina. Snažan potres u Indoneziji, poginulo više od 60 ljudi, a ozlijeđeno više od 700. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 21 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bd/1a/20221121-dnevne-novosti-33515339-20221121145029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.11. 2022-11-20</title>
-    <link>https://api.hrt.hr/media/a2/01/20221120-dnevne-novosti-33511830-20221120144020.mp3</link>
-    <description>U Kataru počinje Svjetsko nogometno prvenstvo. Prije 31 godinu na Ovčari se dogodio najveći zločin u Domovinskom ratu. Uzbune u Ukrajini zbog najjačih raketnih napada od početka ruske agresije. Snijeg zabijelio Gorski Kotar i Liku. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 20 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/01/20221120-dnevne-novosti-33511830-20221120144020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
