@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Nov 2022 15:22:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 14:53:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Duž Jadrana orkansko jugo prekinulo pomorski promet; poplavljeni dijelovi Pule, Rijeke, Rovinja. Predsjednik Milanović odbio dati suglasnost za sudjelovanje hrvatskih vojnika u misiji Europske unije za vojnu pomoć Ukrajini. Iznenađenje na Svjetskom nogometnom prvenstvu - Saudijska Arabija pobijedila Argentinu. Urednica: Mira Barić</description>
     <pubDate>Tue, 22 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d8/e5/20221122-dnevne-novosti-33519014-20221122145519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.11. 2022-11-21</title>
-    <link>https://api.hrt.hr/media/bd/1a/20221121-dnevne-novosti-33515339-20221121145029.mp3</link>
-    <description>Vlada će ponovno intervenirati u cijene goriva. Od ponoći bi trebalo pojeftiniti. Austrijski ministar unutarnjih poslova opet se usprotivio proširenju Schengena. 27 godina nakon rata Požeško-slavonska županija očišćena od mina. Snažan potres u Indoneziji, poginulo više od 60 ljudi, a ozlijeđeno više od 700. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 21 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bd/1a/20221121-dnevne-novosti-33515339-20221121145029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
