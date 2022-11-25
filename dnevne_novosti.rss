@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Nov 2022 14:53:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 18:54:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.11. 2022-11-25</title>
+    <link>https://api.hrt.hr/media/32/3a/20221125-dnevne-novosti-33531247-20221125181509.mp3</link>
+    <description>I dalje su različita mišljenja Vlade i saborskih zastupnika o tome tko treba odlučiti o sudjelovanju Hrvatske u misiji potpore Ukrajini. U toj se zemlji najteže borbe vode na istočnoj bojišnici, predsjednik Zelenski traži ograničenje cijena barela ruske nafte na 30 dolara. Ni nakon dva tjedna ne zna se tko je odgovoran za onečišćenje obale i plaža u Istri. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 25 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/32/3a/20221125-dnevne-novosti-33531247-20221125181509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.11. 2022-11-24</title>
     <link>https://api.hrt.hr/media/a2/20/20221124-dnevne-novosti-33527218-20221124145540.mp3</link>
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
