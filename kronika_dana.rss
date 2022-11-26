@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 26 Nov 2022 08:45:28 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 21:47:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Sabor i kasno večeras raspravlja o prijedlogu državnog proračuna. Austrija će poduprijeti ulazak Hrvatske u schengenski prostor. I danas Rusija snažno napadala cijelu Ukrajinu, Vijeće sigurnosti održat će hitnu sjednicu. Urednica: Sanja Cota</description>
     <pubDate>Wed, 23 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/c1/20221123-kronika-dana-33523863-20221124015050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.11. 2022-11-22</title>
-    <link>https://api.hrt.hr/media/d9/e3/20221122-kronika-dana-33520019-20221122214045.mp3</link>
-    <description>Orkansko jugo i jaka kiša prekinuli pomorski promet, podignuli more, poplavili mnoge rive i zatvorili prometnice. Predsjednik Zoran Milanović odbio dati suglasnost za sudjelovanje hrvatskih vojnika u misiji Europske unije za vojnu pomoć Ukrajini. Ministar Mario Banožić najavljuje da će odluku donijeti u Saboru. U službeni posjet Zagrebu sutra dolazi austrijski kancelar Nehammer. Tamošnji dnevnik Kleine Zeitung prenio njegovu izjavu da Austrija neće staviti veto na hrvatski ulazak u Schengen. Sport: iznenađenje na Svjetskom nogometnom prvenstvu - Saudijska Arabija pobijedila Argentinu! Hrvatska reprezentacija nastup počinje sutra, utakmicom protiv Maroka.
-Urednik: Silvio Šop</description>
-    <pubDate>Tue, 22 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d9/e3/20221122-kronika-dana-33520019-20221122214045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
