@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Nov 2022 06:53:20 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 08:45:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hrvatska s Marokom igra prvu utakmicu na Svjetskome nogometnom prvenstvu. Sabor će raspravljati o prijedlogu državnog proračuna za iduću godinu, prvog koji je iskazan u novoj valuti - euru. U Zagreb dolazi austrijski kancelar Karl Nehammer. Shengen i proširenje LNG terminala na Krku bit će glavne teme razgovora. U Pragu se otvara velika izložba Ivana Meštrovića. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 23 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/67/d3/20221123-jutarnja-kronika-33520567-20221123063536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.11. 2022-11-22</title>
-    <link>https://api.hrt.hr/media/71/7c/20221122-jutarnja-kronika-33517019-20221122063519.mp3</link>
-    <description>Od ponoći jeftinije gorivo - cijene sirove nafte na svjetskim tržištima na najnižoj razini od početka ruske agresije na Ukrajinu. Austrijski ministar ponavlja da nije vrijeme za proširenje Schengena, premijer Plenković siguran da će Hrvatska dobiti pozitivan odgovor. Ukrajini zbog zime i nedostatka struje prijeti humanitarna katastrofa. Potres magnitude 7 na Solomonskim otocima. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 22 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/7c/20221122-jutarnja-kronika-33517019-20221122063519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
