@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 26 Nov 2022 21:47:49 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 07:18:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.11. 2022-11-26</title>
+    <link>https://api.hrt.hr/media/fd/c7/20221126-kronika-dana-33534595-20221127071038.mp3</link>
+    <description>Na temperaturama oko nule, Ukrajina i dalje trpi ruske napade na energetsku infrastrukturu. Kijev su posjetili premijeri Belgije, Poljske i Latvije. Crni petak podbacio u svijetu, ali u Hrvatskoj potrošnja za petinu bolja nego lani.U Hrvatskoj nasilje nad ženama u porastu. Kako osigurati učinkovite mjere opreza? Paljenjem prve adventske svijeće otvoreni adventski sajmovi u mnogim hrvatskim gradovima. Zagrebački advent ponovno u punom sjaju. : Sanja Rabuzin Pavić</description>
+    <pubDate>Sat, 26 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/c7/20221126-kronika-dana-33534595-20221127071038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.11. 2022-11-25</title>
     <link>https://api.hrt.hr/media/d9/39/20221125-kronika-dana-33532221-20221126083547.mp3</link>
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
