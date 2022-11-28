@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 28 Nov 2022 13:21:17 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 15:21:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.11. 2022-11-28</title>
+    <link>https://api.hrt.hr/media/6c/ab/20221128-dnevne-novosti-33539615-20221128144552.mp3</link>
+    <description>U Saboru cijeli dan traje izjašnjavanje o gotovo 430 amandmana na prijedlog državnog proračuna za sljedeću godinu. Masovni prosvjedi šire se u sve više kineskih gradova, nekoliko desetaka ljudi uhićeno, među njima i BBC-jev novinar koji je pretučen. Nakon pobjede nad Kanadom, Vatreni se pripremaju za utakmicu s Belgijom u četvrtak. Urednica: Mira Barić</description>
+    <pubDate>Mon, 28 Nov 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6c/ab/20221128-dnevne-novosti-33539615-20221128144552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.11. 2022-11-27</title>
     <link>https://api.hrt.hr/media/37/92/20221127-dnevne-novosti-33536069-20221128103044.mp3</link>
     <description>Na Svjetskom prvenstvu u Dohi nogometna utakmica Hrvatska - Kanada. Iako je gotovo cijeli Kijev ponovno spojen na električnu mrežu, ukrajinski opskrbljivači električne energije pozivaju na štednju. Sabor će sutra raspravljati o amandmanima na proračun za iduću godinu, njih čak 435. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>I dalje su različita mišljenja Vlade i saborskih zastupnika o tome tko treba odlučiti o sudjelovanju Hrvatske u misiji potpore Ukrajini. U toj se zemlji najteže borbe vode na istočnoj bojišnici, predsjednik Zelenski traži ograničenje cijena barela ruske nafte na 30 dolara. Ni nakon dva tjedna ne zna se tko je odgovoran za onečišćenje obale i plaža u Istri. Urednica: Sanja Cota</description>
     <pubDate>Fri, 25 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/3a/20221125-dnevne-novosti-33531247-20221125181509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.11. 2022-11-24</title>
-    <link>https://api.hrt.hr/media/a2/20/20221124-dnevne-novosti-33527218-20221124145540.mp3</link>
-    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
-    <pubDate>Thu, 24 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/20/20221124-dnevne-novosti-33527218-20221124145540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
