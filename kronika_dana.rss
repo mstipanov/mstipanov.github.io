@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 28 Nov 2022 15:21:34 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 21:52:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.11. 2022-11-28</title>
+    <link>https://api.hrt.hr/media/c5/c7/20221128-kronika-dana-33540676-20221128214055.mp3</link>
+    <description>Iako su većinom oporbeni zastupnici podnijeli više od 400 amandmana na državni proračun, Vlada ih prihvaća samo deset. Sabor će u srijedu raspravljati o sudjelovanju Hrvatske u misiji potpore Ukrajini. Tisuće prosvjednika ponovno u Podgorici tražilo raspisivanje izvanrednih parlamentarnih izbora. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 28 Nov 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/c7/20221128-kronika-dana-33540676-20221128214055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.11. 2022-11-27</title>
     <link>https://api.hrt.hr/media/32/3e/20221127-kronika-dana-33536855-20221128131058.mp3</link>
     <description>Hrvatska reprezentacija na Svjetskom prvenstvu u Kataru pobijedila Kanadu s 4:1. Iako je gotovo cijeli Kijev ponovno spojen na električnu mrežu, ukrajinski opskrbljivači pozivaju na štednju.Diljem Kine prosvjedi zbog strogih epidemioloških mjera. Sabor sutra raspravlja o amandmanima na državni proračun za iduću godinu. Urednica: Sanja Rabuzin Pavić</description>
@@ -31,14 +39,6 @@
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
     <pubDate>Fri, 25 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d9/39/20221125-kronika-dana-33532221-20221126083547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.11. 2022-11-24</title>
-    <link>https://api.hrt.hr/media/64/9d/20221124-kronika-dana-33528323-20221124215540.mp3</link>
-    <description>Predsjednik države i saborska oporba tvrde da je protuustavan prijedlog koji je Vlada poslala u Sabor - o sudjelovanju hrvatskih vojnika u vojnoj pomoći Ukrajini. Do kraja godine primjenjivat će se niže trošarine na najprodavanije naftne prerađevine, a Vlada snizila i trošarine na loživo ulje. Oko 20 sati slab potres jakosti 2,6 kod Šibenika, građani su ga osjetili, ali nije bilo materijalne štete. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 24 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/64/9d/20221124-kronika-dana-33528323-20221124215540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
