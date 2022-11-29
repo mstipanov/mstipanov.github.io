@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 22 Nov 2022 18:44:36 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 17:20:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 2022-11-29</title>
+    <link>https://api.hrt.hr/media/04/6a/20221129-explora-7895937-20221129170503.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 29 Nov 2022 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/04/6a/20221129-explora-7895937-20221129170503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 2022-11-22</title>
     <link>https://api.hrt.hr/media/5f/77/20221122-explora-7893332-20221122170557.mp3</link>
     <description>Projekt Artemis, NASA, Mjesec. Ariane 6. Pronađeni ostaci Challengera u moru. Rizično ulaganje u kriptovalute. Musk i Bezos nastavljaju otpuštati djelatnike. 
@@ -98,14 +106,6 @@ Uragan Ian ubio previše ljudi na Floridi. Samsung upozorava na pad planirane do
 </description>
     <pubDate>Tue, 27 Sep 2022 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b4/43/20220927-explora-1809861-20220927160542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2022-09-20</title>
-    <link>https://api.hrt.hr/media/04/5f/20220920-explora-1807521-20220920161100.mp3</link>
-    <description>Poštovani slušatelji, ovaj tjedan nema Korada, pa nema ni Explore. Obiteljski su razlozi u pitanju, najdublje isprike u njegovo i moje ime. Na podcast smo postavili prošlotjednu emisiju, jer je temom najbliže aktualnim zbivanjima. Narednog ćemo tjedna pokušati nadoknaditi propušteno. Srdačno, Elvis Mileta.</description>
-    <pubDate>Tue, 20 Sep 2022 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/5f/20220920-explora-1807521-20220920161100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
