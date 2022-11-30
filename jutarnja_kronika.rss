@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 29 Nov 2022 06:52:54 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:52:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.11. 2022-11-30</title>
+    <link>https://api.hrt.hr/media/92/87/20221130-jutarnja-kronika-33544949-20221130064018.mp3</link>
+    <description>U Saboru - rasprava o Vladinu prijedlogu uvježbavanja ukrajinskih vojnika i o oporbenom - za osnutak Istražnog povjerenstva o INI. Banovina će, dvije godine od potresa, na kraj obnove još čekati tri do četiri godine. 30 je godina institucije Pučkog pravobranitelja. Urednica: Snježana Kralj</description>
+    <pubDate>Wed, 30 Nov 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/92/87/20221130-jutarnja-kronika-33544949-20221130064018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.11. 2022-11-29</title>
     <link>https://api.hrt.hr/media/67/fe/20221129-jutarnja-kronika-33541240-20221129065057.mp3</link>
     <description>Sabor bi trebao donijeti proračun za sljedeću godinu. Prije toga glasovat će o 400-tinjak amandmana. Prema Konačnom prijedlogu Zakona o radu - rad nedjeljom plaćat će se 50 posto više. Na ulicama kineskih gradova sve više policije kako bi spriječila daljnje prosvjede. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska nogometna reprezentacija igra drugu utakmicu na Svjetskom prvenstvu, protivnik je Kanada. Na temperaturama oko nule, Ukrajina i dalje trpi ruske napade na energetsku infrastrukturu. Kijev su posjetili premijeri Belgije, Poljske i Latvije. Ususret raspravi o izmjenama Zakona o radu, SDP predlaže da se njime urede i svi dodaci na plaću. Paljenjem prve adventske svijeće otvoreni adventski sajmovi u mnogim hrvatskim gradovima. Urednik: Silvio Šop</description>
     <pubDate>Sun, 27 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d8/1a/20221127-jutarnja-kronika-33535112-20221128130057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.11. 2022-11-26</title>
-    <link>https://api.hrt.hr/media/59/7d/20221126-jutarnja-kronika-33532735-20221126145527.mp3</link>
-    <description>Počinje Advent u Zagrebu, Splitu, Dubrovniku, Rijeci i još nekim gradovima. Očekuje se velika zarada. Oslobođeni grad Herson na meti je ruskih napada, Ukrajinci evakuiraju stanovništvo. Hrvatski nogometaši pripremaju se za sutrašnju utakmicu protiv Kanade. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 26 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/7d/20221126-jutarnja-kronika-33532735-20221126145527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
