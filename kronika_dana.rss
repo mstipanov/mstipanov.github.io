@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 30 Nov 2022 18:05:34 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 21:35:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hrvatska reprezentacija na Svjetskom prvenstvu u Kataru pobijedila Kanadu s 4:1. Iako je gotovo cijeli Kijev ponovno spojen na električnu mrežu, ukrajinski opskrbljivači pozivaju na štednju.Diljem Kine prosvjedi zbog strogih epidemioloških mjera. Sabor sutra raspravlja o amandmanima na državni proračun za iduću godinu. Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Sun, 27 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/3e/20221127-kronika-dana-33536855-20221128131058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.11. 2022-11-26</title>
-    <link>https://api.hrt.hr/media/fd/c7/20221126-kronika-dana-33534595-20221127071038.mp3</link>
-    <description>Na temperaturama oko nule, Ukrajina i dalje trpi ruske napade na energetsku infrastrukturu. Kijev su posjetili premijeri Belgije, Poljske i Latvije. Crni petak podbacio u svijetu, ali u Hrvatskoj potrošnja za petinu bolja nego lani.U Hrvatskoj nasilje nad ženama u porastu. Kako osigurati učinkovite mjere opreza? Paljenjem prve adventske svijeće otvoreni adventski sajmovi u mnogim hrvatskim gradovima. Zagrebački advent ponovno u punom sjaju. : Sanja Rabuzin Pavić</description>
-    <pubDate>Sat, 26 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/c7/20221126-kronika-dana-33534595-20221127071038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
