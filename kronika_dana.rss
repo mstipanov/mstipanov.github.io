@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Dec 2022 21:37:57 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 22:08:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.12. 2022-12-01</title>
+    <link>https://api.hrt.hr/media/eb/42/20221201-kronika-dana-33552466-20221201214027.mp3</link>
+    <description>Utakmica s Belgijom završila bez golova, ali hrvatska nogometna reprezentacija u osmini je finala Svjetskoga prvenstva. U Splitu uhićen 29-godišnji muškarac koji je automobilom pokosio policajca, s njim uhićene još tri osobe. U Dubrovniku dodijeljena Plava vrpca Vjesnika - nagrada za spašavanje ljudskih života na moru. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 01 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/42/20221201-kronika-dana-33552466-20221201214027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.11. 2022-11-30</title>
     <link>https://api.hrt.hr/media/21/02/20221130-kronika-dana-33548661-20221130214018.mp3</link>
     <description>Split i okolica pod policijskom opsadom, traje potraga za Ivanom Božićem iz Solina za kojeg se sumnja da je automobilom udario prometnog policajca. U Saboru cijeli dan rasprava o sudjelovanju Hrvatske u obuci ukrajinskih vojnika. Da bi je Sabor potvrdio, potrebna dvotrećinska većina. Hrvatski građani od sutra mogu nabaviti dva početna paketa eurokovanica. Urednica: Mira Barić</description>
