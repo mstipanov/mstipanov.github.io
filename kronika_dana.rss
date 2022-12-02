@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Dec 2022 22:08:01 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 21:42:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sabor donio prvi državni proračun u eurima - projekcija prihoda u 2023. je 25 milijardi, a rashoda 26 milijardi i 700 milijuna eura. Saborski odbor za obranu podupro prijedlog o obuci ukrajinskih vojnika u Hrvatskoj, njegov predsjednik Franko Vidović napustio sjednicu. Banovinu obišli premijer Plenković i ministri, obnova bi mogla završiti za tri do četiri godine. Ministri vanjskih poslova država članica NATO saveza na sastanku u Bukureštu obećali daljnju vojnu pomoć Ukrajini. Urednik: Silvio Šop</description>
     <pubDate>Tue, 29 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ba/9a/20221129-kronika-dana-33544343-20221129214053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.11. 2022-11-28</title>
-    <link>https://api.hrt.hr/media/c5/c7/20221128-kronika-dana-33540676-20221128214055.mp3</link>
-    <description>Iako su većinom oporbeni zastupnici podnijeli više od 400 amandmana na državni proračun, Vlada ih prihvaća samo deset. Sabor će u srijedu raspravljati o sudjelovanju Hrvatske u misiji potpore Ukrajini. Tisuće prosvjednika ponovno u Podgorici tražilo raspisivanje izvanrednih parlamentarnih izbora. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 28 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/c7/20221128-kronika-dana-33540676-20221128214055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
