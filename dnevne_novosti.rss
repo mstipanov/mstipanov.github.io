@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Dec 2022 15:37:22 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:11:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.12. 2022-12-02</title>
+    <link>https://api.hrt.hr/media/35/54/20221202-dnevne-novosti-33555110-20221202144009.mp3</link>
+    <description>Hrvatski nogometaši među 16 najboljih na Svjetskom prvenstvu. Sljedeći protivnik za četvrtfinale - Japan. Kremlj potvrdio da je Putin spreman za razgovore s Bidenom o riješenju za Ukrajinu. Ukrajinska veleposlanstva u Europi, među njima i ono u Zagrebu, primilo krvave pakete. Otvoren novi dio koridora 5 CE od Osijeka do Belog Manastira. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 02 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/35/54/20221202-dnevne-novosti-33555110-20221202144009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.12. 2022-12-01</title>
     <link>https://api.hrt.hr/media/c1/e3/20221201-dnevne-novosti-33551602-20221201152038.mp3</link>
     <description>Hrvatska igra protiv Belgije odlučujuću utakmicu za osminu finala Svjetskog prvenstva u Kataru. Proširena policijska potraga za Ivanom Božićem iz Solina na susjednu županiju. Vlada predstavila izmjene Zakona o trgovini, odustalo se od takozvanog priziva savjesti, na godinu dana odgodila poskupljenje vode. Točno mjesec dana prije uvođenja eura građani mogu kupiti prvi paket eurokovanica. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Saboru donesen proračun za iduću godinu. Premijer i ministri na Banovini, za mjesec dana bit će dvije godine od razornoga potresa. U Sarajevu potpisan koalicijski sporazum između HDZ-a BiH i osam bošnjačkih građanskih stranaka. Urednica: Sanja Cota</description>
     <pubDate>Tue, 29 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/e7/20221129-dnevne-novosti-33543397-20221129143504.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.11. 2022-11-28</title>
-    <link>https://api.hrt.hr/media/6c/ab/20221128-dnevne-novosti-33539615-20221128144552.mp3</link>
-    <description>U Saboru cijeli dan traje izjašnjavanje o gotovo 430 amandmana na prijedlog državnog proračuna za sljedeću godinu. Masovni prosvjedi šire se u sve više kineskih gradova, nekoliko desetaka ljudi uhićeno, među njima i BBC-jev novinar koji je pretučen. Nakon pobjede nad Kanadom, Vatreni se pripremaju za utakmicu s Belgijom u četvrtak. Urednica: Mira Barić</description>
-    <pubDate>Mon, 28 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/ab/20221128-dnevne-novosti-33539615-20221128144552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
