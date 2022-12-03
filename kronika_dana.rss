@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 Dec 2022 22:12:50 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 21:49:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Split i okolica pod policijskom opsadom, traje potraga za Ivanom Božićem iz Solina za kojeg se sumnja da je automobilom udario prometnog policajca. U Saboru cijeli dan rasprava o sudjelovanju Hrvatske u obuci ukrajinskih vojnika. Da bi je Sabor potvrdio, potrebna dvotrećinska većina. Hrvatski građani od sutra mogu nabaviti dva početna paketa eurokovanica. Urednica: Mira Barić</description>
     <pubDate>Wed, 30 Nov 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/02/20221130-kronika-dana-33548661-20221130214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.11. 2022-11-29</title>
-    <link>https://api.hrt.hr/media/ba/9a/20221129-kronika-dana-33544343-20221129214053.mp3</link>
-    <description>Sabor donio prvi državni proračun u eurima - projekcija prihoda u 2023. je 25 milijardi, a rashoda 26 milijardi i 700 milijuna eura. Saborski odbor za obranu podupro prijedlog o obuci ukrajinskih vojnika u Hrvatskoj, njegov predsjednik Franko Vidović napustio sjednicu. Banovinu obišli premijer Plenković i ministri, obnova bi mogla završiti za tri do četiri godine. Ministri vanjskih poslova država članica NATO saveza na sastanku u Bukureštu obećali daljnju vojnu pomoć Ukrajini. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 29 Nov 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ba/9a/20221129-kronika-dana-33544343-20221129214053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
