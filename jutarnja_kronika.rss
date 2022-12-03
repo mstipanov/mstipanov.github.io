@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 Dec 2022 07:11:01 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 06:46:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.12. 2022-12-03</title>
+    <link>https://api.hrt.hr/media/40/ed/20221203-jutarnja-kronika-33556604-20221203063600.mp3</link>
+    <description>U Hrvatsku stižu još dva američka helikoptera Black Hawk. Europska unija dogovorila ograničenje cijene ruske nafte na 60 dolara po barelu. Međunarodni je dan osoba s invaliditetom. U Hrvatskoj ih je više od 600 tisuća. Na Svjetskom nogometnom prvenstvu završilo natjecanje po skupinama. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 03 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/ed/20221203-jutarnja-kronika-33556604-20221203063600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.12. 2022-12-02</title>
     <link>https://api.hrt.hr/media/0d/23/20221202-jutarnja-kronika-33553066-20221202063548.mp3</link>
     <description>Hrvatska nogometna reprezentacija u osmini je finala Svjetskoga prvenstva, prvi protivnik je Japan. Iz prijedloga Zakona o trgovini izbačeno da radnik može odbiti rad nedjeljom zbog priziva savjesti. Uhićen 29-godišnjak koji je u Splitu automobilom pokosio policajca i pobjegao. Otvara se dionica koridora Pet Ce od Belog Manastira do Osijeka, koji slavi svoj dan. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Saboru - rasprava o Vladinu prijedlogu uvježbavanja ukrajinskih vojnika i o oporbenom - za osnutak Istražnog povjerenstva o INI. Banovina će, dvije godine od potresa, na kraj obnove još čekati tri do četiri godine. 30 je godina institucije Pučkog pravobranitelja. Urednica: Snježana Kralj</description>
     <pubDate>Wed, 30 Nov 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/92/87/20221130-jutarnja-kronika-33544949-20221130064018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.11. 2022-11-29</title>
-    <link>https://api.hrt.hr/media/67/fe/20221129-jutarnja-kronika-33541240-20221129065057.mp3</link>
-    <description>Sabor bi trebao donijeti proračun za sljedeću godinu. Prije toga glasovat će o 400-tinjak amandmana. Prema Konačnom prijedlogu Zakona o radu - rad nedjeljom plaćat će se 50 posto više. Na ulicama kineskih gradova sve više policije kako bi spriječila daljnje prosvjede. Urednica: Mira Barić</description>
-    <pubDate>Tue, 29 Nov 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/67/fe/20221129-jutarnja-kronika-33541240-20221129065057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
