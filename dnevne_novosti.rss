@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 Dec 2022 15:11:48 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 14:47:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.12. 2022-12-03</title>
+    <link>https://api.hrt.hr/media/42/68/20221203-dnevne-novosti-33557732-20221203144105.mp3</link>
+    <description>Zapadni saveznici postigli dogovor o ograničenju cijene ruske nafte na 60 dolara po barelu. Sjedinjene Države isporučile Hrvatskoj dva helikoptera Black Hawk. Počinje kazneni postupak zbog smrti 18 korisnika splitskog doma za starije i nemoćne tijekom epidemije kovida. Međunarodni je Dan osoba s invaliditetom, u našoj ih je zemlji više od 600 tisuća. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 03 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/68/20221203-dnevne-novosti-33557732-20221203144105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.12. 2022-12-02</title>
     <link>https://api.hrt.hr/media/35/54/20221202-dnevne-novosti-33555110-20221202144009.mp3</link>
     <description>Hrvatski nogometaši među 16 najboljih na Svjetskom prvenstvu. Sljedeći protivnik za četvrtfinale - Japan. Kremlj potvrdio da je Putin spreman za razgovore s Bidenom o riješenju za Ukrajinu. Ukrajinska veleposlanstva u Europi, među njima i ono u Zagrebu, primilo krvave pakete. Otvoren novi dio koridora 5 CE od Osijeka do Belog Manastira. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Noćas u Splitu teško ozlijeđen 20-godišnji policajac, policija traga za 29-godišnjim muškarcem za kojeg se sumnja da ga je pokosio automobilom. Za ubojstvo hrvatskog rukometaša Denisa Tota u Skoplju na zatvorske kazne od 18 i 16 godina osuđena trojka koja ga je pretukla. U Saboru burna rasprava o sudjelovanju Hrvatske u vojnoj pomoći i potpori Ukrajini. Urednica: Sanja Cota</description>
     <pubDate>Wed, 30 Nov 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5c/fb/20221130-dnevne-novosti-33547411-20221130143516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.11. 2022-11-29</title>
-    <link>https://api.hrt.hr/media/0b/e7/20221129-dnevne-novosti-33543397-20221129143504.mp3</link>
-    <description>U Saboru donesen proračun za iduću godinu. Premijer i ministri na Banovini, za mjesec dana bit će dvije godine od razornoga potresa. U Sarajevu potpisan koalicijski sporazum između HDZ-a BiH i osam bošnjačkih građanskih stranaka. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 29 Nov 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/e7/20221129-dnevne-novosti-33543397-20221129143504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
