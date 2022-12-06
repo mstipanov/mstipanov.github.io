@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 Dec 2022 15:55:22 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 14:58:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.12. 2022-12-06</title>
+    <link>https://api.hrt.hr/media/33/b1/20221206-dnevne-novosti-33567014-20221206144056.mp3</link>
+    <description>Hrvatski vojni zrakoplov MIG-21 srušio se kod Slatine. Za jednim se pilotom još traga. Ulazak Hrvatske u četvrtfinale Svjetskoga nogometnog prvenstva i danas je vijest dana. Svi priželjkuju pobjedu nad Brazilom u petak. U Zagrebu je iznenada umro general Pavao Miljavac. U Saboru rasprava o ustavnim promjenama. Bosna i Hercegovina trebala bi dobiti kandidacijski status već do kraja godine, izjavio je premijer Plenković na sastanku u Tirani. Blagdan je svetoga Nikole, u Zadru glavna proslava Dana pomoraca. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 06 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/33/b1/20221206-dnevne-novosti-33567014-20221206144056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.12. 2022-12-04</title>
     <link>https://api.hrt.hr/media/c6/91/20221204-dnevne-novosti-33559970-20221204143559.mp3</link>
     <description>Velika pobjeda žena u Iranu - nakon višemjesečnih prosvjeda Teheran odlučio ukinuti moralnu policiju. Preispitat će i zakon o obveznom nošenju hidžaba. Od utorka bi gorivo trebalo znatno pojeftiniti. Vatreni se pripremaju za utakmicu s Japanom. Izbornik Zlatko Dalić i Joško Gvardiol ekskluzivno za Hrvatski radio. Urednik: Mario Krstanović</description>
@@ -23,14 +31,6 @@
     <description>Zapadni saveznici postigli dogovor o ograničenju cijene ruske nafte na 60 dolara po barelu. Sjedinjene Države isporučile Hrvatskoj dva helikoptera Black Hawk. Počinje kazneni postupak zbog smrti 18 korisnika splitskog doma za starije i nemoćne tijekom epidemije kovida. Međunarodni je Dan osoba s invaliditetom, u našoj ih je zemlji više od 600 tisuća. Urednik: Silvio Šop</description>
     <pubDate>Sat, 03 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/68/20221203-dnevne-novosti-33557732-20221203144105.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.12. 2022-12-02</title>
-    <link>https://api.hrt.hr/media/35/54/20221202-dnevne-novosti-33555110-20221202144009.mp3</link>
-    <description>Hrvatski nogometaši među 16 najboljih na Svjetskom prvenstvu. Sljedeći protivnik za četvrtfinale - Japan. Kremlj potvrdio da je Putin spreman za razgovore s Bidenom o riješenju za Ukrajinu. Ukrajinska veleposlanstva u Europi, među njima i ono u Zagrebu, primilo krvave pakete. Otvoren novi dio koridora 5 CE od Osijeka do Belog Manastira. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 02 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/35/54/20221202-dnevne-novosti-33555110-20221202144009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
