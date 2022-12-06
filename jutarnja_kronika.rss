@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 Dec 2022 07:23:58 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 06:57:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.12. 2022-12-06</title>
+    <link>https://api.hrt.hr/media/33/a1/20221206-jutarnja-kronika-33564874-20221206063548.mp3</link>
+    <description>Hrvatska među 8 najboljih na svijetu. Nogometna reprezentacija ušla u četvrtfinale Svjetskog prvenstva. U Saboru rasprava o nacrtu promjene Ustava. Od ponoći jeftinije gorivo. Cijene benzina i dizela niže za gotovo jednu kunu. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 06 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/33/a1/20221206-jutarnja-kronika-33564874-20221206063548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.12. 2022-12-05</title>
     <link>https://api.hrt.hr/media/9e/60/20221205-jutarnja-kronika-33561250-20221205072029.mp3</link>
     <description>Hrvatsku trese nogometna groznica. Utakmica odluke za ulazak u četvrtfinale Svjetskog prvenstva Hrvatska - Japan danas u 16 sati. Od ponoći pojeftinjuje gorivo. Od danas ograničenje cijene ruske nafte na 60 dolara po barelu. Iran ukinuo policiju za moral, a parlament preispituje Zakon o obveznom nošenju hidžaba. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U Hrvatsku stižu još dva američka helikoptera Black Hawk. Europska unija dogovorila ograničenje cijene ruske nafte na 60 dolara po barelu. Međunarodni je dan osoba s invaliditetom. U Hrvatskoj ih je više od 600 tisuća. Na Svjetskom nogometnom prvenstvu završilo natjecanje po skupinama. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 03 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/ed/20221203-jutarnja-kronika-33556604-20221203063600.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.12. 2022-12-02</title>
-    <link>https://api.hrt.hr/media/0d/23/20221202-jutarnja-kronika-33553066-20221202063548.mp3</link>
-    <description>Hrvatska nogometna reprezentacija u osmini je finala Svjetskoga prvenstva, prvi protivnik je Japan. Iz prijedloga Zakona o trgovini izbačeno da radnik može odbiti rad nedjeljom zbog priziva savjesti. Uhićen 29-godišnjak koji je u Splitu automobilom pokosio policajca i pobjegao. Otvara se dionica koridora Pet Ce od Belog Manastira do Osijeka, koji slavi svoj dan. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 02 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/23/20221202-jutarnja-kronika-33553066-20221202063548.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
