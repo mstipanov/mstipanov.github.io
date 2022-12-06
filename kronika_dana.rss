@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 Dec 2022 21:56:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 22:00:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.12. 2022-12-06</title>
+    <link>https://api.hrt.hr/media/a5/4b/20221206-kronika-dana-33568161-20221206214058.mp3</link>
+    <description>Spašena oba pilota MIG-a 21 koji se poslijepodne srušio na području Voćina. U Zagrebu iznenada umro umirovljeni general Pavao Miljavac. Čelnici zemalja Europske unije u Tirani dali snažnu potporu integraciji zapadnog Balkana u Uniju. Urednica: Mira Barić</description>
+    <pubDate>Tue, 06 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a5/4b/20221206-kronika-dana-33568161-20221206214058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.12. 2022-12-05</title>
     <link>https://api.hrt.hr/media/b6/cf/20221205-kronika-dana-33564287-20221205214055.mp3</link>
     <description>Nakon produžetaka i izvođenja jedanaesteraca, hrvatska nogometna reprezentacija pobjedom nad Japanom ušla u četvrtfinale Svjetskog prvenstva u Kataru. 55 pravosudnih objekata i 38 trgovačkih centara diljem Hrvatske primilo anonimne lažne dojave o postavljenim eksplozivnim napravama. Od ponoći pojeftinjuje gorivo - benzin za 88 lipa, a dizel za 91-nu lipu. Jadrolinija obilježila 75 godina plovidbe. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Predsjednik Milanović u Bosni i Hercegovini odlikovao ratnu postrojbu za posebne namjene "Gavran 2".Urednica Sanja Cota</description>
     <pubDate>Sat, 03 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d9/66/20221203-kronika-dana-33558437-20221203215058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.12. 2022-12-02</title>
-    <link>https://api.hrt.hr/media/3e/b8/20221202-kronika-dana-33556077-20221202214007.mp3</link>
-    <description>Ukrajinska veleposlanstva u Europi, među njima i u Hrvatskoj, primila krvave pakete. Vladimir Putin spreman za mirovne pregovore, ali uz uvjet da Sjedinjene Države priznaju aneksiju četiriju ukrajinskih regija. Europska unija dogovorila ograničavanje cijene ruske nafte na 60 dolara po barelu. Otvoren novi dio koridora 5C od Osijeka do Belog Manastira. Urednica: Sanja Rabuzin Pavić</description>
-    <pubDate>Fri, 02 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3e/b8/20221202-kronika-dana-33556077-20221202214007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
