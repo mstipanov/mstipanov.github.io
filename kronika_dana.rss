@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Dec 2022 22:00:33 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 22:03:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.12. 2022-12-07</title>
+    <link>https://api.hrt.hr/media/32/85/20221207-kronika-dana-33571789-20221207214532.mp3</link>
+    <description>Traje istraga o padu MIG-a, jedan je pilot otpušten iz bolnice, a drugi operiran. Vladimir Putin rekao da je prijetnja nuklearnog rata sve veća, ali da ruski nuklearni arsenal služi isključivo za odvraćanje. Kijevski gradonačelnik Vitalij Kličko upozorio da još nije vrijeme za evakuaciju grada, ali da je i taj scenarij moguć. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 07 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/32/85/20221207-kronika-dana-33571789-20221207214532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.12. 2022-12-06</title>
     <link>https://api.hrt.hr/media/a5/4b/20221206-kronika-dana-33568161-20221206214058.mp3</link>
     <description>Spašena oba pilota MIG-a 21 koji se poslijepodne srušio na području Voćina. U Zagrebu iznenada umro umirovljeni general Pavao Miljavac. Čelnici zemalja Europske unije u Tirani dali snažnu potporu integraciji zapadnog Balkana u Uniju. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>Od utorka znatno jefinije gorivo.Iz Rusije kažu da neće prodavati naftu koja podliježe ograničenjima Zapada. Iran ukinuo policiju za moral, a parlament preispituje Zakon o obveznom nošenju hidžaba, objavio iranski glavni državni odvjetnik.	Hrvatska protiv Japana sutra igra za četvrtfinale Svjetskoga nogometnog prvenstva. Urednica: Mira Barić</description>
     <pubDate>Sun, 04 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a2/7a/20221204-kronika-dana-33560709-20221204213519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.12. 2022-12-03</title>
-    <link>https://api.hrt.hr/media/d9/66/20221203-kronika-dana-33558437-20221203215058.mp3</link>
-    <description>Zapad ograničio cijene ruske nafte na 60 dolara po barelu. Od ponedjeljka i zabrana uvoza ruske sirove nafte morskim putom u Uniju.U Hrvatsku stigla još dva američka helikoptera Black Hawk.
-Predsjednik Milanović u Bosni i Hercegovini odlikovao ratnu postrojbu za posebne namjene "Gavran 2".Urednica Sanja Cota</description>
-    <pubDate>Sat, 03 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d9/66/20221203-kronika-dana-33558437-20221203215058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
