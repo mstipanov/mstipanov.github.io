@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 07 Dec 2022 22:03:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 21:36:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nakon produžetaka i izvođenja jedanaesteraca, hrvatska nogometna reprezentacija pobjedom nad Japanom ušla u četvrtfinale Svjetskog prvenstva u Kataru. 55 pravosudnih objekata i 38 trgovačkih centara diljem Hrvatske primilo anonimne lažne dojave o postavljenim eksplozivnim napravama. Od ponoći pojeftinjuje gorivo - benzin za 88 lipa, a dizel za 91-nu lipu. Jadrolinija obilježila 75 godina plovidbe. Urednik: Silvio Šop</description>
     <pubDate>Mon, 05 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/cf/20221205-kronika-dana-33564287-20221205214055.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.12. 2022-12-04</title>
-    <link>https://api.hrt.hr/media/a2/7a/20221204-kronika-dana-33560709-20221204213519.mp3</link>
-    <description>Od utorka znatno jefinije gorivo.Iz Rusije kažu da neće prodavati naftu koja podliježe ograničenjima Zapada. Iran ukinuo policiju za moral, a parlament preispituje Zakon o obveznom nošenju hidžaba, objavio iranski glavni državni odvjetnik.	Hrvatska protiv Japana sutra igra za četvrtfinale Svjetskoga nogometnog prvenstva. Urednica: Mira Barić</description>
-    <pubDate>Sun, 04 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/7a/20221204-kronika-dana-33560709-20221204213519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
