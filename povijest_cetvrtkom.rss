@@ -6,10 +6,19 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Dec 2022 13:37:12 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 13:35:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.jpg</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Ivan Hunyadi I. dio 2022-12-08</title>
+    <link>https://api.hrt.hr/media/b8/62/20221208-povijest-cetvrtkom-33570135-20221207124529.mp3</link>
+    <description>Bio je neuglednog roda, počeo je kao paž na dvorovima bogatih ugarskih baruna.
+Zbog svoje vojne vještine postao je najmoćniji čovjek u kraljevstvu i ušao je u narodne pjesme u kojima je znan kao Sibinjanin Janko. Tko je on? Poslušajte u emisiji.</description>
+    <pubDate>Thu, 08 Dec 2022 12:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b8/62/20221208-povijest-cetvrtkom-33570135-20221207124529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Energija kroz povijest, III. dio 2022-12-01</title>
     <link>https://api.hrt.hr/media/75/b5/20221201-povijest-cetvrtkom-33546973-20221130133514.mp3</link>
     <description>Do 19. stoljeća svijet su pogonili ljudska radna snaga, tegleće životinje i voda.
@@ -97,16 +106,6 @@ Riječ je o moći. O tom važnom, ali teško uhvatljivom pojmu govorit ćemo u P
 </description>
     <pubDate>Thu, 06 Oct 2022 11:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6f/dc/20221006-povijest-cetvrtkom-33363056-20221005121520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Brazil od vojne diktature do danas 2.dio 2022-09-29</title>
-    <link>https://api.hrt.hr/media/64/55/20220929-povijest-cetvrtkom-33340980-20220928131108.mp3</link>
-    <description>2. listopada u Brazilu će se održati predsjednički izbori. Glavni kandidati na tim izborima su Lula da Silva, žrtva vojne hunte koja je 21 godinu vladala Brazilom i Jair Bolsonaro, vatreni pobornik te vojne diktature. Zašto je vojna diktatura tako odredila noviju povijest Brazila poslušajte u Povijesti četvrtkom. /2.dio/ 
-
-</description>
-    <pubDate>Thu, 29 Sep 2022 11:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/64/55/20220929-povijest-cetvrtkom-33340980-20220928131108.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
