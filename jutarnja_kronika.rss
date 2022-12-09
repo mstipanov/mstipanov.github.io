@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 Dec 2022 07:04:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:44:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.12. 2022-12-09</title>
+    <link>https://api.hrt.hr/media/ed/62/20221209-jutarnja-kronika-33576349-20221209064102.mp3</link>
+    <description>Hrvatska nogometna reprezentacija igra protiv Brazila za polufinale Svjetskog prvenstva. Hoće li božica Fortuna biti na našoj strani? Od 1. siječnja Hrvatska postaje dio Schengena. Predsjednik Zoran Milanović u višednevnom je službenom posjetu Čileu. U zagrebačkom HNK-u premijera drame "Plodna voda". Urednik: Silvio Šop</description>
+    <pubDate>Fri, 09 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ed/62/20221209-jutarnja-kronika-33576349-20221209064102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.12. 2022-12-08</title>
     <link>https://api.hrt.hr/media/7e/32/20221208-jutarnja-kronika-33572347-20221208063554.mp3</link>
     <description>Hrvatska čeka "zeleno svjetlo" za ulazak u Schengen. Hrvatska i SAD potpisale Konvenciju o izbjegavanju dvostrukog oporezivanja. Sabor raspravlja o radu nedjeljom, a zagrebačka skupština o proračunu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska među 8 najboljih na svijetu. Nogometna reprezentacija ušla u četvrtfinale Svjetskog prvenstva. U Saboru rasprava o nacrtu promjene Ustava. Od ponoći jeftinije gorivo. Cijene benzina i dizela niže za gotovo jednu kunu. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 06 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/a1/20221206-jutarnja-kronika-33564874-20221206063548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.12. 2022-12-05</title>
-    <link>https://api.hrt.hr/media/9e/60/20221205-jutarnja-kronika-33561250-20221205072029.mp3</link>
-    <description>Hrvatsku trese nogometna groznica. Utakmica odluke za ulazak u četvrtfinale Svjetskog prvenstva Hrvatska - Japan danas u 16 sati. Od ponoći pojeftinjuje gorivo. Od danas ograničenje cijene ruske nafte na 60 dolara po barelu. Iran ukinuo policiju za moral, a parlament preispituje Zakon o obveznom nošenju hidžaba. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 05 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9e/60/20221205-jutarnja-kronika-33561250-20221205072029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
