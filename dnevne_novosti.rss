@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 09 Dec 2022 15:16:06 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:18:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.12. 2022-12-10</title>
+    <link>https://api.hrt.hr/media/66/92/20221210-dnevne-novosti-33581197-20221210144004.mp3</link>
+    <description>Hrvatska nakon utakmice za povijest i neprospavane noći slavi Vatrene. Izbornik Dalić jutros poručuje: nemamo vremena za slavlje jer nas već u utorak očekuje neugodna Argentina. Ulazak Hrvatske u Shengen novi je poticaj za ukupno gospodarstvo. Potpredsjednica Europskog parlamenta Grkinja Eva Kaili uhićena zbog sumnje na korupciju. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 10 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/66/92/20221210-dnevne-novosti-33581197-20221210144004.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.12. 2022-12-09</title>
     <link>https://api.hrt.hr/media/e9/e8/20221209-dnevne-novosti-33578612-20221209144100.mp3</link>
     <description>Hrvatska igra protiv Brazila za polufinale Svjetskog nogometnog prvenstva. Ponovno jačaju napetosti na sjeveru Kosova, iz Beograda prijete da će poslati policiju iz Srbije. U španjolskom gradu Alicanteu sastanak 9 mediteranskih i južnih zemalja članica Europske unije. Urednica: Mira Barić</description>
@@ -23,14 +31,6 @@
     <description>Još nema službene potvrde, ali hrvatski mediji prenose neslužbene informacije da je Hrvatska primljena u šengenski prostor. U Saboru rasprava o izmjenama i dopunama Zakona o radu. Gradonačelnik Kijeva Vitalij Kličko upozorio stanovnike da budu spremni na evakuaciju. Održana komemoracija za generala zbora Pavla Miljavca. Uredio: Silvio Šop</description>
     <pubDate>Thu, 08 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/a9/20221208-dnevne-novosti-33574581-20221208143555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.12. 2022-12-06</title>
-    <link>https://api.hrt.hr/media/33/b1/20221206-dnevne-novosti-33567014-20221206144056.mp3</link>
-    <description>Hrvatski vojni zrakoplov MIG-21 srušio se kod Slatine. Za jednim se pilotom još traga. Ulazak Hrvatske u četvrtfinale Svjetskoga nogometnog prvenstva i danas je vijest dana. Svi priželjkuju pobjedu nad Brazilom u petak. U Zagrebu je iznenada umro general Pavao Miljavac. U Saboru rasprava o ustavnim promjenama. Bosna i Hercegovina trebala bi dobiti kandidacijski status već do kraja godine, izjavio je premijer Plenković na sastanku u Tirani. Blagdan je svetoga Nikole, u Zadru glavna proslava Dana pomoraca. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 06 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/33/b1/20221206-dnevne-novosti-33567014-20221206144056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
