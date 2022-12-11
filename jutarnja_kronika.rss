@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 10 Dec 2022 06:47:47 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 06:50:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.12. 2022-12-11</title>
+    <link>https://api.hrt.hr/media/a7/d1/20221211-jutarnja-kronika-33582489-20221211064006.mp3</link>
+    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Sun, 11 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/d1/20221211-jutarnja-kronika-33582489-20221211064006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.12. 2022-12-10</title>
     <link>https://api.hrt.hr/media/05/19/20221210-jutarnja-kronika-33580224-20221210064004.mp3</link>
     <description>Hrvatska pobijedila Brazil i ušla u polufinale Svjetskog prvenstva. Navijačko ludilo diljem zemlje. Svjetski mediji pišu o hrvatskoj senzaciji na Prvenstvu. Zelenski poziva na uspostavu specijalnog suda za zločin ruske invazije na Ukrajinu. Putin najavljuje kolaps u svjetskoj energetici zbog limitiranja cijene ruske nafte. Uredila i vodila Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska čeka "zeleno svjetlo" za ulazak u Schengen. Hrvatska i SAD potpisale Konvenciju o izbjegavanju dvostrukog oporezivanja. Sabor raspravlja o radu nedjeljom, a zagrebačka skupština o proračunu. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7e/32/20221208-jutarnja-kronika-33572347-20221208063554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.12. 2022-12-07</title>
-    <link>https://api.hrt.hr/media/12/d4/20221207-jutarnja-kronika-33568679-20221207063021.mp3</link>
-    <description>Spašena su oba pilota MIG-a 21 koji se jučer srušio na području Voćina. Pretpostavlja se da su uzrok pada problemi s motorom. Ministri financija zemalja Europske unije nisu se uspjeli dogovoriti o daljnjoj financijskoj pomoći Ukrajini. Na otvorenju sastanka na vrhu o bioraznolikosti glavni tajnik UN-a Antonio Guterres poručio kako je vrijeme da čovječanstvo prekine rat s prirodom. Zbog nespremnosti uprave na razgovor o rastu plaća, radnici zagrebačke Čistoće održat će prosvjed. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 07 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/12/d4/20221207-jutarnja-kronika-33568679-20221207063021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
