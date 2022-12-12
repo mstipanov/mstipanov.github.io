@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 11 Dec 2022 15:21:55 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 15:10:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.12. 2022-12-12</title>
+    <link>https://api.hrt.hr/media/df/3e/20221212-dnevne-novosti-33587070-20221212144011.mp3</link>
+    <description>Voda i dalje ugrožava kuće u Gračacu, stanovnicima Hrvatske Kostajnice dijeli se voda za piće. Hrvatska za nekoliko dana očekuje isplatu druge tranše 700 milijuna eura u sklopu Nacionalnog plana za oporavak i otpornost. Sabor će na izvanrednoj sjednici u petak glasovati o obuci ukrajinskih vojnika u našoj zemlji. Na sjeveru Kosova stanje je jako napeto, ne rade škole. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 12 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/3e/20221212-dnevne-novosti-33587070-20221212144011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.12. 2022-12-11</title>
     <link>https://api.hrt.hr/media/c9/f7/20221211-dnevne-novosti-33583385-20221211144008.mp3</link>
     <description>Zbog vodostaja rijeka Une i Sunje izvanredno stanje obrane od poplava, najkritičnije na području Hrvatske Kostajnice. Visoki vodostaji i oko Karlovca te u Lici. Iz svijeta: ukrajinska vojska raketama napala okupirani strateški ključan grad Melitopolj, a Rusi dronovima napali Odesu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska igra protiv Brazila za polufinale Svjetskog nogometnog prvenstva. Ponovno jačaju napetosti na sjeveru Kosova, iz Beograda prijete da će poslati policiju iz Srbije. U španjolskom gradu Alicanteu sastanak 9 mediteranskih i južnih zemalja članica Europske unije. Urednica: Mira Barić</description>
     <pubDate>Fri, 09 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/e8/20221209-dnevne-novosti-33578612-20221209144100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.12. 2022-12-08</title>
-    <link>https://api.hrt.hr/media/d2/a9/20221208-dnevne-novosti-33574581-20221208143555.mp3</link>
-    <description>Još nema službene potvrde, ali hrvatski mediji prenose neslužbene informacije da je Hrvatska primljena u šengenski prostor. U Saboru rasprava o izmjenama i dopunama Zakona o radu. Gradonačelnik Kijeva Vitalij Kličko upozorio stanovnike da budu spremni na evakuaciju. Održana komemoracija za generala zbora Pavla Miljavca. Uredio: Silvio Šop</description>
-    <pubDate>Thu, 08 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d2/a9/20221208-dnevne-novosti-33574581-20221208143555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
