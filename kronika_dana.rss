@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 11 Dec 2022 21:52:40 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 21:41:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hrvatska je u polufinalu svjetskoga nogometnog prvenstva. Brazilci odlaze kući, sada je svima jasno: Idemo do kraja, do finala. Euforija i slavlje diljem zemlje. Vlada prihvatila prijedlog zakona o porezu na ekstradobit. Također je odlučeno da se plaće neće nužno isplaćivati preko tekućeg računa. Predsjednik Milanović u prvom posjetu Čileu. Predsjednik te zemlje ljevičar Gabriel Borić hrvatskog je podrijetla. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 09 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bb/6c/20221209-kronika-dana-33579675-20221209214057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.12. 2022-12-08</title>
-    <link>https://api.hrt.hr/media/a3/b2/20221208-kronika-dana-33575711-20221208214101.mp3</link>
-    <description>Hrvatska od 1. siječnja postaje dio Schengena - odluku u Bruxellesu jednoglasno potvrdili ministri unutarnjih poslova država članica Europske unije. Ruski predsjednik Putin prvi put javno priznao da je cilj napada na Ukrajinu energetska infrastruktura. Rusija oslobodila američku košarkašku zvijezdu Brittney Griner - razmijenjena za ruskog trgovca oružjem. Vatreni odradili posljednji trening uoči utakmice s Brazilom. Urednica: Mira Barić</description>
-    <pubDate>Thu, 08 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a3/b2/20221208-kronika-dana-33575711-20221208214101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
