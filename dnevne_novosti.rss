@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 12 Dec 2022 15:10:48 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 14:43:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.12. 2022-12-13</title>
+    <link>https://api.hrt.hr/media/97/9c/20221213-dnevne-novosti-33591000-20221213144107.mp3</link>
+    <description>U polufinalu Svjetskoga nogometnog prvenstva Hrvatska protiv Argentine, za navijače nema dvojbe tko pobjeđuje. Na poplavljenim područjima povoljnije stanje. Dok se traži dvotrećinska većina za odluku o uvježbavanju ukrajinskih vojnika, saborski zastupnici IDS-a najavili da će je poduprijeti. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 13 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/97/9c/20221213-dnevne-novosti-33591000-20221213144107.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.12. 2022-12-12</title>
     <link>https://api.hrt.hr/media/df/3e/20221212-dnevne-novosti-33587070-20221212144011.mp3</link>
     <description>Voda i dalje ugrožava kuće u Gračacu, stanovnicima Hrvatske Kostajnice dijeli se voda za piće. Hrvatska za nekoliko dana očekuje isplatu druge tranše 700 milijuna eura u sklopu Nacionalnog plana za oporavak i otpornost. Sabor će na izvanrednoj sjednici u petak glasovati o obuci ukrajinskih vojnika u našoj zemlji. Na sjeveru Kosova stanje je jako napeto, ne rade škole. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska nakon utakmice za povijest i neprospavane noći slavi Vatrene. Izbornik Dalić jutros poručuje: nemamo vremena za slavlje jer nas već u utorak očekuje neugodna Argentina. Ulazak Hrvatske u Shengen novi je poticaj za ukupno gospodarstvo. Potpredsjednica Europskog parlamenta Grkinja Eva Kaili uhićena zbog sumnje na korupciju. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 10 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/66/92/20221210-dnevne-novosti-33581197-20221210144004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.12. 2022-12-09</title>
-    <link>https://api.hrt.hr/media/e9/e8/20221209-dnevne-novosti-33578612-20221209144100.mp3</link>
-    <description>Hrvatska igra protiv Brazila za polufinale Svjetskog nogometnog prvenstva. Ponovno jačaju napetosti na sjeveru Kosova, iz Beograda prijete da će poslati policiju iz Srbije. U španjolskom gradu Alicanteu sastanak 9 mediteranskih i južnih zemalja članica Europske unije. Urednica: Mira Barić</description>
-    <pubDate>Fri, 09 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/e8/20221209-dnevne-novosti-33578612-20221209144100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
