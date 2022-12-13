@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 12 Dec 2022 07:10:06 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:42:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.12. 2022-12-13</title>
+    <link>https://api.hrt.hr/media/06/ad/20221213-jutarnja-kronika-33588880-20221213064036.mp3</link>
+    <description>Večeras nogometni spektakl - Hrvatska protiv Argentine želi u finale Svjetskog prvenstva. Vodeni val Kupe iz Karlovca stigao do Petrinje. U Saboru rasprava o dodatnom porezu na dobit zbog kojeg se podignula velika bura u javnosti. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/06/ad/20221213-jutarnja-kronika-33588880-20221213064036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.12. 2022-12-12</title>
     <link>https://api.hrt.hr/media/1f/df/20221212-jutarnja-kronika-33584794-20221212064010.mp3</link>
     <description>Danas bi vodeni val koji se spušta Kupom trebao stići do Petrinje. Hoće li izdržati nasipi oštećeni u potresu? U Nacionalnoj i sveučilišnoj knjižnici Konferencija o Nacionalnom planu oporavka i otpornosti vrijednom više od 48 milijardi kuna. Vrije na Kosovu. Srbi blokirali ceste na sjeveru zemlje i razmijenili vatru s kosovskom policijom. : Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska pobijedila Brazil i ušla u polufinale Svjetskog prvenstva. Navijačko ludilo diljem zemlje. Svjetski mediji pišu o hrvatskoj senzaciji na Prvenstvu. Zelenski poziva na uspostavu specijalnog suda za zločin ruske invazije na Ukrajinu. Putin najavljuje kolaps u svjetskoj energetici zbog limitiranja cijene ruske nafte. Uredila i vodila Marija Gerbec Njavro</description>
     <pubDate>Sat, 10 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/05/19/20221210-jutarnja-kronika-33580224-20221210064004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.12. 2022-12-09</title>
-    <link>https://api.hrt.hr/media/ed/62/20221209-jutarnja-kronika-33576349-20221209064102.mp3</link>
-    <description>Hrvatska nogometna reprezentacija igra protiv Brazila za polufinale Svjetskog prvenstva. Hoće li božica Fortuna biti na našoj strani? Od 1. siječnja Hrvatska postaje dio Schengena. Predsjednik Zoran Milanović u višednevnom je službenom posjetu Čileu. U zagrebačkom HNK-u premijera drame "Plodna voda". Urednik: Silvio Šop</description>
-    <pubDate>Fri, 09 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ed/62/20221209-jutarnja-kronika-33576349-20221209064102.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
