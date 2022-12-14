@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 13 Dec 2022 22:44:10 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 21:47:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.12. 2022-12-14</title>
+    <link>https://api.hrt.hr/media/40/0a/20221214-kronika-dana-33596122-20221214214039.mp3</link>
+    <description>Francuska u finalu Svjetskog nogometnog prvenstva. Hrvatski se nogometaši u subotu za broncu bore protiv Maroka, u nedjelju doček u Zagrebu. Tragedija kod Jasenovca - u prevrtanju čamca poginuo muškarac, za drugim se traga. Hoće li HDZ osigurati potrebnu dvotrećinsku većinu za odluku o obuci ukrajinskih vojnika u Hrvatskoj? Urednica: Sanja Rabuzin Pavić</description>
+    <pubDate>Wed, 14 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/0a/20221214-kronika-dana-33596122-20221214214039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.12. 2022-12-13</title>
     <link>https://api.hrt.hr/media/62/02/20221213-kronika-dana-33592242-20221213224101.mp3</link>
     <description>Hrvatska - Argentina 0:3, Vatreni će u subotu igrati za svjetsku broncu. Utakmica se pratila diljem Hrvatske na otvorenom, bez obzira na niske temperature. Stanje na poplavljenim područjima znatno je bolje, ali sve su službe i dalje na oprezu. U samo 15 dana u KBC-u Zagreb obavljeno je čak 9 transplantacija. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Zbog rasta vodostaja rijeka proglašeno izvanredno stanje, najteže na području Hrvatske Kostajnice. Napeto je na Kosovu - Nakon uhićenja bivšeg srpskog policajca - srpski prosvjednici drugi su dan blokirali ceste! Ukrajinska vojska raketama napala okupirani grad Melitopolj, a Rusi iranskim bespilotnim letjelicama napali Odesu. Za vrijeme utakmice s Brazilom - uređaji Seizmološkog zavoda u Zagrebu i Rijeci - zabilježili "veliku količinu pozitivne" energije! Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 11 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/a0/20221211-kronika-dana-33584263-20221211214506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.12. 2022-12-10</title>
-    <link>https://api.hrt.hr/media/3e/63/20221210-kronika-dana-33581931-20221210214004.mp3</link>
-    <description>Hrvatska proslavila ulazak svoje reprezentacije u polufinale Svjetskoga nogometnog prvenstva. Drugi je polufinalni par Francuska i Maroko. Zbog sumnje na korupciju, uhićena potpredsjednica Europskog parlamenta Eva Kaili, slučaj vjerojatno povezan s Katarom. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 10 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3e/63/20221210-kronika-dana-33581931-20221210214004.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
