@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 Dec 2022 17:36:13 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 17:19:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>MIRO NACINOVIC ZA 15.12. 2022-12-15</title>
+    <link>https://api.hrt.hr/media/31/93/20221215-historia-histriae-7900897-20221215171023.mp3</link>
+    <description>Naš gost je Miro Načinović, a pričamo o povijesti Pule i njegovim sjećanjima o lovicama na vrhu Arene, ekspedicijama u podzemlje Pule i naravno o Stoji i njezinoj povijesti. </description>
+    <pubDate>Thu, 15 Dec 2022 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/31/93/20221215-historia-histriae-7900897-20221215171023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Josip Iskra za 8.12. 2022-12-08</title>
     <link>https://api.hrt.hr/media/1c/b0/20221208-historia-histriae-7898994-20221208170553.mp3</link>
     <description>09. prosinca 1856. položen je kamen temeljac za pulsko brodogradilište koje je odredilo razvoj i povijest grada. Tim povodom pričamo o povijesti ove institucije uz bivšeg djelatnika Josipa Iskru. </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi povjesničar Igor Jovanović, a pričamo o aktualnoj temi - investicijama. Kako su investicije u vrijeme Austrougarske utjecale na život stanovnika Pule? Saznajte samo u novom izdanju Historia Histriae. </description>
     <pubDate>Thu, 13 Oct 2022 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/4a/20221013-historia-histriae-1814861-20221013154015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Povijest bolnice 2022-10-06</title>
-    <link>https://api.hrt.hr/media/24/5a/20221006-historia-histriae-1812526-20221006154616.mp3</link>
-    <description>U goste nam dolazi umirovljeni otorinolaringolog Ivica Pavičić Donkić......pričamo o povijesti civilne bolnice koju je Pula dobila u jeku epidemije sifilisa, a dotaknut ćemo se i mistične povijesti brda Sv. Mihovila. Budite s nama. </description>
-    <pubDate>Thu, 06 Oct 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/24/5a/20221006-historia-histriae-1812526-20221006154616.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
