@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 14 Dec 2022 06:44:48 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 06:47:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.12. 2022-12-15</title>
+    <link>https://api.hrt.hr/media/1b/ce/20221215-jutarnja-kronika-33596702-20221215064506.mp3</link>
+    <description>U podne na Markovu trgu prosvjed obitelji djece s teškoćama u razvoju i osoba s invaliditetom zbog predloženih izmjena Zakona o osobnoj asistenciji. Novinari u obilasku gradilišta u Petrinji i Glini uoči druge godišnjice potresa. Kosovo danas predaje zahtjev za članstvo u Europskoj uniji. Traju pripreme za doček Vatrenih, koji će u subotu za broncu igrati protiv Maroka. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Thu, 15 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/ce/20221215-jutarnja-kronika-33596702-20221215064506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.12. 2022-12-14</title>
     <link>https://api.hrt.hr/media/89/c2/20221214-jutarnja-kronika-33592738-20221214063532.mp3</link>
     <description>Argentina je pobijedila Hrvatsku s 3:0 u polufinalu Svjetskoga nogometnog prvenstva u Kataru. Vatreni će se u subotu pokušati izboriti za broncu. Stanje na poplavljenim područjima se smiruje, sve hitne službe su i dalje na terenu. Sabor će raspravljati o izmjenama zakona koji su ključni za zdravstvenu reformu. Predsjednik Milanovć nazočit će sjednici obaju domova čileanskog parlamenta njemu u čast. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Danas bi vodeni val koji se spušta Kupom trebao stići do Petrinje. Hoće li izdržati nasipi oštećeni u potresu? U Nacionalnoj i sveučilišnoj knjižnici Konferencija o Nacionalnom planu oporavka i otpornosti vrijednom više od 48 milijardi kuna. Vrije na Kosovu. Srbi blokirali ceste na sjeveru zemlje i razmijenili vatru s kosovskom policijom. : Mislav Togonal</description>
     <pubDate>Mon, 12 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/df/20221212-jutarnja-kronika-33584794-20221212064010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.12. 2022-12-11</title>
-    <link>https://api.hrt.hr/media/a7/d1/20221211-jutarnja-kronika-33582489-20221211064006.mp3</link>
-    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Sun, 11 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a7/d1/20221211-jutarnja-kronika-33582489-20221211064006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
