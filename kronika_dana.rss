@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 15 Dec 2022 21:49:59 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 21:52:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.12. 2022-12-16</title>
+    <link>https://api.hrt.hr/media/44/0c/20221216-kronika-dana-33603685-20221216214042.mp3</link>
+    <description>Ukrajinski vojnici neće na obuku u našu zemlju, vladajućima je u Saboru nedostajalo četiri glasa za pozitivnu odluku. Pola je Ukrajine bez struje. Rusi i dalje silovito gađaju infrastrukturu, Europska unija dogovorila deveti paket sankcija. Gorivo bi u utorak trebalo znatno pojeftiniti, ali je inflacija rekordnih 13 i pol posto. Najveće curenje osobnih podataka u Hrvatskoj - iz Agencije za naplatu potraživanja u javnost dospjeli osobni podaci više od 77 tisuća građana. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 16 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/44/0c/20221216-kronika-dana-33603685-20221216214042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.12. 2022-12-15</title>
     <link>https://api.hrt.hr/media/a4/f0/20221215-kronika-dana-33599917-20221215214023.mp3</link>
     <description>Bosna i Hercegovina dobila status kandidatkinje za članstvo u Europskoj uniji. Službeni zahtjev za članstvo podnijelo i Kosovo. Sabor sutra odlučuje o uvježbavanju ukrajinskih vojnika u Hrvatskoj. U Zagrebu i Splitu prosvjed protiv prijedloga Zakona o osobnoj asistenciji koji je trenutačno u javnoj raspravi. Strahuje se, naime, da bi osobe s invaliditetom mogle ostati bez asistenta. Vlada povukla iz procedure Konačni prijedlog zakona o pravima državnih dužnosnika, odustaje se od povećanja dužnosničkih plaća. Prvog siječnja u Zagreb dolazi predsjednica Europske komisije u povodu ulaska Hrvatske u Shengen i uvođenja eura. Objavljene pojedinosti svečanog dočeka Vatrenih u nedjelju na zagrebačkom Trgu bana Jelačića. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska - Argentina 0:3, Vatreni će u subotu igrati za svjetsku broncu. Utakmica se pratila diljem Hrvatske na otvorenom, bez obzira na niske temperature. Stanje na poplavljenim područjima znatno je bolje, ali sve su službe i dalje na oprezu. U samo 15 dana u KBC-u Zagreb obavljeno je čak 9 transplantacija. Urednik: Silvio Šop</description>
     <pubDate>Tue, 13 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/62/02/20221213-kronika-dana-33592242-20221213224101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.12. 2022-12-12</title>
-    <link>https://api.hrt.hr/media/a8/45/20221212-kronika-dana-33588258-20221212214010.mp3</link>
-    <description>Na poplavljenim područjima večeras povoljnije stanje. Europska komisija odobrila Hrvatskoj još 700 milijuna eura iz mehanizma za oporavak i otpornost. U Crnoj Gori sukob policije i prosvjednika nakon prihvaćanja zakona kojim se smanjuju ovlasti predsjedniku Đukanoviću. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 12 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a8/45/20221212-kronika-dana-33588258-20221212214010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
