@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Dec 2022 21:52:32 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 22:30:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.12. 2022-12-17</title>
+    <link>https://api.hrt.hr/media/74/6a/20221217-kronika-dana-33606261-20221217214054.mp3</link>
+    <description>Hrvatska nogometna reprezentacija osvojila je broncu na Svjetskom prvenstvu u Kataru. Diljem zemlje utakmica se pratila na otvorenome, a još traje veliko slavlje. Doček brončanih nogometaša sutra je na zagrebačkom Trgu bana Jelačića. Rusi su i danas raketirali ukrajinsku energetsku infrastrukturu. Papa Franjo proslavio 86. rođendan. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 17 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/74/6a/20221217-kronika-dana-33606261-20221217214054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.12. 2022-12-16</title>
     <link>https://api.hrt.hr/media/44/0c/20221216-kronika-dana-33603685-20221216214042.mp3</link>
     <description>Ukrajinski vojnici neće na obuku u našu zemlju, vladajućima je u Saboru nedostajalo četiri glasa za pozitivnu odluku. Pola je Ukrajine bez struje. Rusi i dalje silovito gađaju infrastrukturu, Europska unija dogovorila deveti paket sankcija. Gorivo bi u utorak trebalo znatno pojeftiniti, ali je inflacija rekordnih 13 i pol posto. Najveće curenje osobnih podataka u Hrvatskoj - iz Agencije za naplatu potraživanja u javnost dospjeli osobni podaci više od 77 tisuća građana. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Francuska u finalu Svjetskog nogometnog prvenstva. Hrvatski se nogometaši u subotu za broncu bore protiv Maroka, u nedjelju doček u Zagrebu. Tragedija kod Jasenovca - u prevrtanju čamca poginuo muškarac, za drugim se traga. Hoće li HDZ osigurati potrebnu dvotrećinsku većinu za odluku o obuci ukrajinskih vojnika u Hrvatskoj? Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Wed, 14 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/0a/20221214-kronika-dana-33596122-20221214214039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.12. 2022-12-13</title>
-    <link>https://api.hrt.hr/media/62/02/20221213-kronika-dana-33592242-20221213224101.mp3</link>
-    <description>Hrvatska - Argentina 0:3, Vatreni će u subotu igrati za svjetsku broncu. Utakmica se pratila diljem Hrvatske na otvorenom, bez obzira na niske temperature. Stanje na poplavljenim područjima znatno je bolje, ali sve su službe i dalje na oprezu. U samo 15 dana u KBC-u Zagreb obavljeno je čak 9 transplantacija. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 13 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/62/02/20221213-kronika-dana-33592242-20221213224101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
