@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Dec 2022 06:50:57 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 06:53:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.12. 2022-12-17</title>
+    <link>https://api.hrt.hr/media/5a/f8/20221217-jutarnja-kronika-33604298-20221217063535.mp3</link>
+    <description>Vatreni idu po broncu na Svjetskom nogometnom prvenstvu! Od utorka jeftinije gorivo - cijena litre benzina nakon dugo vremena mogla bi biti ispod 10 kuna, a dizela manja od 11. Sabor nije prihvatio da se ukrajinski vojnici uvježbavaju u Hrvatskoj. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 17 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5a/f8/20221217-jutarnja-kronika-33604298-20221217063535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.12. 2022-12-16</title>
     <link>https://api.hrt.hr/media/8f/f8/20221216-jutarnja-kronika-33600456-20221216064059.mp3</link>
     <description>Sabor odlučuje o uvježbavanju ukrajinskih vojnika u Hrvatskoj. Bosna i Hercegovina dobila kandidacijski status za člansvo u Europskoj uniji.siječnja u Zagreb dolazi predsjednica Europske komisije, u povodu ulaska Hrvatske u Schengen i uvođenja eura. Posljednje pripreme vatrenih za sutrašnji susret s Marokom, u nedjelju svečani doček u Zagrebu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Argentina je pobijedila Hrvatsku s 3:0 u polufinalu Svjetskoga nogometnog prvenstva u Kataru. Vatreni će se u subotu pokušati izboriti za broncu. Stanje na poplavljenim područjima se smiruje, sve hitne službe su i dalje na terenu. Sabor će raspravljati o izmjenama zakona koji su ključni za zdravstvenu reformu. Predsjednik Milanovć nazočit će sjednici obaju domova čileanskog parlamenta njemu u čast. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 14 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/89/c2/20221214-jutarnja-kronika-33592738-20221214063532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.12. 2022-12-13</title>
-    <link>https://api.hrt.hr/media/06/ad/20221213-jutarnja-kronika-33588880-20221213064036.mp3</link>
-    <description>Večeras nogometni spektakl - Hrvatska protiv Argentine želi u finale Svjetskog prvenstva. Vodeni val Kupe iz Karlovca stigao do Petrinje. U Saboru rasprava o dodatnom porezu na dobit zbog kojeg se podignula velika bura u javnosti. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/06/ad/20221213-jutarnja-kronika-33588880-20221213064036.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
