@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 17 Dec 2022 14:53:55 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 15:01:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.12. 2022-12-18</title>
+    <link>https://api.hrt.hr/media/ed/e6/20221218-dnevne-novosti-33607868-20221218144029.mp3</link>
+    <description>Još jedan dan za pamćenje - Hrvatska čeka svoje brončane nogometaše. Zrakoplov Vatrenih u Zagreb bi trebao sletjeti u 17 sati i 14 minuta, na glavnom Trgu već tisuće ljudi. Rusi ne prestaju gađati ukrajinsku infrastrukturu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 18 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ed/e6/20221218-dnevne-novosti-33607868-20221218144029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.12. 2022-12-17</title>
     <link>https://api.hrt.hr/media/27/bd/20221217-dnevne-novosti-33605352-20221217144535.mp3</link>
     <description>U 16 sati Hrvatska protiv Maroka igra za broncu na Svjetskom nogometnom prvenstvu. Rusi nastavljaju s uništavanjem ukrajinske energetske infrastrukture. Papa Franjo slavi 86-ti rođendan. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Briselu posljednji ovogodišnji sastanak na vrhu Europskog vijeća. U Zagrebu i Splitu prosvjed osoba s invaliditetom i roditelja djece s poteškoćama u razvoju. Sljedećih mjesec dana gotovinu s bilo kojeg bankomata možemo podizati bez naknade. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 15 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/43/20221215-dnevne-novosti-33598834-20221215143523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.12. 2022-12-14</title>
-    <link>https://api.hrt.hr/media/54/e8/20221214-dnevne-novosti-33594937-20221214144047.mp3</link>
-    <description>U subotu se nogometaši bore za treće mjesto na Svjetskom prvenstvu, u nedjelju doček u Zagrebu. Nagrada Europskog parlamenta "Saharov" ove je godine dodijeljena hrabrom ukrajinskom narodu. Snažno nevrijeme u Sjedinjenim Državama i u Portugalu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 14 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/54/e8/20221214-dnevne-novosti-33594937-20221214144047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
