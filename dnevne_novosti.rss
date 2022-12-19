@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 18 Dec 2022 15:01:52 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 14:34:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Fri, 16 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/74/15/20221216-dnevne-novosti-33602203-20221216145111.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.12. 2022-12-15</title>
-    <link>https://api.hrt.hr/media/ae/43/20221215-dnevne-novosti-33598834-20221215143523.mp3</link>
-    <description>U Briselu posljednji ovogodišnji sastanak na vrhu Europskog vijeća. U Zagrebu i Splitu prosvjed osoba s invaliditetom i roditelja djece s poteškoćama u razvoju. Sljedećih mjesec dana gotovinu s bilo kojeg bankomata možemo podizati bez naknade. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 15 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/43/20221215-dnevne-novosti-33598834-20221215143523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
