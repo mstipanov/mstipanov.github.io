@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 18 Dec 2022 22:02:35 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 22:05:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.12. 2022-12-19</title>
+    <link>https://api.hrt.hr/media/3f/d5/20221219-kronika-dana-33612321-20221219213531.mp3</link>
+    <description>Zadar, Split, Čepin, Velika Gorica i Varaždin oduševljeno dočekali svoje nogometaše i izbornika. Brisel dogovorio najvišu cijenu za uvoz plina u Europsku uniju, 180 eura za megavatsat! Vladimir Putin u posjetu Bjelorusiji. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 19 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/d5/20221219-kronika-dana-33612321-20221219213531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.12. 2022-12-18</title>
     <link>https://api.hrt.hr/media/36/f7/20221218-kronika-dana-33608760-20221218215035.mp3</link>
     <description>Vatreni se s broncom vratili u Hrvatsku, u Zagrebu ih dočekalo više od 100 tisuća navijača. Kapetan Luka Modrić u budućnosti obećao i zlato.Svjetski prvak je Argentina, jedanaestercima pobijedila Francusku.Urednica Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinski vojnici neće na obuku u našu zemlju, vladajućima je u Saboru nedostajalo četiri glasa za pozitivnu odluku. Pola je Ukrajine bez struje. Rusi i dalje silovito gađaju infrastrukturu, Europska unija dogovorila deveti paket sankcija. Gorivo bi u utorak trebalo znatno pojeftiniti, ali je inflacija rekordnih 13 i pol posto. Najveće curenje osobnih podataka u Hrvatskoj - iz Agencije za naplatu potraživanja u javnost dospjeli osobni podaci više od 77 tisuća građana. Urednik: Silvio Šop</description>
     <pubDate>Fri, 16 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/44/0c/20221216-kronika-dana-33603685-20221216214042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.12. 2022-12-15</title>
-    <link>https://api.hrt.hr/media/a4/f0/20221215-kronika-dana-33599917-20221215214023.mp3</link>
-    <description>Bosna i Hercegovina dobila status kandidatkinje za članstvo u Europskoj uniji. Službeni zahtjev za članstvo podnijelo i Kosovo. Sabor sutra odlučuje o uvježbavanju ukrajinskih vojnika u Hrvatskoj. U Zagrebu i Splitu prosvjed protiv prijedloga Zakona o osobnoj asistenciji koji je trenutačno u javnoj raspravi. Strahuje se, naime, da bi osobe s invaliditetom mogle ostati bez asistenta. Vlada povukla iz procedure Konačni prijedlog zakona o pravima državnih dužnosnika, odustaje se od povećanja dužnosničkih plaća. Prvog siječnja u Zagreb dolazi predsjednica Europske komisije u povodu ulaska Hrvatske u Shengen i uvođenja eura. Objavljene pojedinosti svečanog dočeka Vatrenih u nedjelju na zagrebačkom Trgu bana Jelačića. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 15 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/f0/20221215-kronika-dana-33599917-20221215214023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
