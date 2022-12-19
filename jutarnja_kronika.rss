@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 19 Dec 2022 06:33:25 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 07:03:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.12. 2022-12-19</title>
+    <link>https://api.hrt.hr/media/c2/54/20221219-jutarnja-kronika-33609317-20221219063530.mp3</link>
+    <description>Brončani Vatreni vratili se jučer u Hrvatsku, u Zagrebu ih na glavnom trgu i pristupnim ulicama dočekalo više od 80 tisuća navijača. Svjetski prvak je Argentina, pobijedila je Francusku na jedanaesterce. U zračnom prostoru Kijeva noćas srušeno devet bespilotnih letjelica. Urednik Silvio Šop</description>
+    <pubDate>Mon, 19 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/54/20221219-jutarnja-kronika-33609317-20221219063530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.12. 2022-12-18</title>
     <link>https://api.hrt.hr/media/f8/bf/20221218-jutarnja-kronika-33606829-20221218063506.mp3</link>
     <description>Pobjedom protiv reprezentacije Maroka, hrvatska reprezentacija ponovila je uspjeh iz 1998. - Vatreni su ponovno treća najbolja momčad na svijetu! Doček brončanih nogometaša bit će poslijepodne na zagrebačkom Trgu bana Jelačića. Rusi su i jučer raketirali ukrajinsku energetsku infrastrukturu, poginulo je petero ljudi. Urednik: Silvio Šop</description>
