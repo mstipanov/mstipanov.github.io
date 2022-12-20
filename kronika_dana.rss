@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 19 Dec 2022 22:05:10 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 22:07:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.12. 2022-12-20</title>
+    <link>https://api.hrt.hr/media/b8/1e/20221220-kronika-dana-33615795-20221220214042.mp3</link>
+    <description>Odlukom Vrhovnog suda o kreditima kovertiranim iz švicarskih franaka u eure nezadovoljni i potrošači i banke. Uhićeni roditelji koji su bacili molotovljev koktel na Centar za socijalnu skrb u Ivancu. Argentina slavi pobjednike Svjetskog nogometnog prvenstva, a Karlovac i Osijek i danas slavili sa svojim Vatrenima. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 20 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b8/1e/20221220-kronika-dana-33615795-20221220214042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.12. 2022-12-19</title>
     <link>https://api.hrt.hr/media/3f/d5/20221219-kronika-dana-33612321-20221219213531.mp3</link>
     <description>Zadar, Split, Čepin, Velika Gorica i Varaždin oduševljeno dočekali svoje nogometaše i izbornika. Brisel dogovorio najvišu cijenu za uvoz plina u Europsku uniju, 180 eura za megavatsat! Vladimir Putin u posjetu Bjelorusiji. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska nogometna reprezentacija osvojila je broncu na Svjetskom prvenstvu u Kataru. Diljem zemlje utakmica se pratila na otvorenome, a još traje veliko slavlje. Doček brončanih nogometaša sutra je na zagrebačkom Trgu bana Jelačića. Rusi su i danas raketirali ukrajinsku energetsku infrastrukturu. Papa Franjo proslavio 86. rođendan. Urednik: Silvio Šop</description>
     <pubDate>Sat, 17 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/74/6a/20221217-kronika-dana-33606261-20221217214054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.12. 2022-12-16</title>
-    <link>https://api.hrt.hr/media/44/0c/20221216-kronika-dana-33603685-20221216214042.mp3</link>
-    <description>Ukrajinski vojnici neće na obuku u našu zemlju, vladajućima je u Saboru nedostajalo četiri glasa za pozitivnu odluku. Pola je Ukrajine bez struje. Rusi i dalje silovito gađaju infrastrukturu, Europska unija dogovorila deveti paket sankcija. Gorivo bi u utorak trebalo znatno pojeftiniti, ali je inflacija rekordnih 13 i pol posto. Najveće curenje osobnih podataka u Hrvatskoj - iz Agencije za naplatu potraživanja u javnost dospjeli osobni podaci više od 77 tisuća građana. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 16 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/0c/20221216-kronika-dana-33603685-20221216214042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
