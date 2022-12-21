@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Dec 2022 14:39:34 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 15:09:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.12. 2022-12-21</title>
+    <link>https://api.hrt.hr/media/48/73/20221221-dnevne-novosti-33618312-20221221145553.mp3</link>
+    <description>Ukrajinski predsjednik Zelenski danas je u Sjedinjenim Državama, to je njegovo prvo međunarodno putovanje od početka ruske invazije. Odlukom Vrhovnog suda o kreditima konvertiranim iz švicarskog franka u euro nisu zadovoljni ni potrošači ni banke. Zatvara se splitska Spaladium arena. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 21 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/48/73/20221221-dnevne-novosti-33618312-20221221145553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.12. 2022-12-20</title>
     <link>https://api.hrt.hr/media/90/ab/20221220-dnevne-novosti-33614839-20221220144051.mp3</link>
     <description>Od ponoći je jeftinije gorivo, litra benzina, nakon gotovo dvije godine, stoji manje od deset kuna. Još se čeka odluka Vrhovnog suda o tome imaju li pravo na odštetu građani koji su kredite u švicarskim francima konvertirali u euro. U Pitomači je održana sjednica Savjeta za Slavoniju, Baranju i Srijem. 300-ti je dan ruske invazije na Ukrajinu, vojnike u Bahmutu, na prvoj crti bojišta, posjetio predsjednik Zelenski. Urednik: Silvio Šop</description>
