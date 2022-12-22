@@ -6,10 +6,18 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 15 Dec 2022 13:19:06 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 13:42:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.jpg</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Terorizam I. dio 2022-12-22</title>
+    <link>https://api.hrt.hr/media/2b/67/20221222-povijest-cetvrtkom-33617347-20221221113054.mp3</link>
+    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
+    <pubDate>Thu, 22 Dec 2022 12:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2b/67/20221222-povijest-cetvrtkom-33617347-20221221113054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Ivan Hunyadi II. dio 2022-12-15</title>
     <link>https://api.hrt.hr/media/33/da/20221215-povijest-cetvrtkom-33594780-20221214140533.mp3</link>
     <description>Bio je neuglednog roda, počeo je kao paž na dvorovima bogatih ugarskih baruna.
@@ -98,14 +106,6 @@ Riječ je o moći. O tom važnom, ali teško uhvatljivom pojmu govorit ćemo u P
 </description>
     <pubDate>Thu, 20 Oct 2022 11:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/89/d0/20221020-povijest-cetvrtkom-33408121-20221019123601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Charles de Gaulle, I. dio 2022-10-13</title>
-    <link>https://api.hrt.hr/media/f1/c0/20221013-povijest-cetvrtkom-33385301-20221012123522.mp3</link>
-    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
-    <pubDate>Thu, 13 Oct 2022 11:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f1/c0/20221013-povijest-cetvrtkom-33385301-20221012123522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
