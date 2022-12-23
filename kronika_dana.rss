@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Dec 2022 21:43:17 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 21:47:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Odlukom Vrhovnog suda o kreditima kovertiranim iz švicarskih franaka u eure nezadovoljni i potrošači i banke. Uhićeni roditelji koji su bacili molotovljev koktel na Centar za socijalnu skrb u Ivancu. Argentina slavi pobjednike Svjetskog nogometnog prvenstva, a Karlovac i Osijek i danas slavili sa svojim Vatrenima. Urednica: Sanja Cota</description>
     <pubDate>Tue, 20 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/1e/20221220-kronika-dana-33615795-20221220214042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.12. 2022-12-19</title>
-    <link>https://api.hrt.hr/media/3f/d5/20221219-kronika-dana-33612321-20221219213531.mp3</link>
-    <description>Zadar, Split, Čepin, Velika Gorica i Varaždin oduševljeno dočekali svoje nogometaše i izbornika. Brisel dogovorio najvišu cijenu za uvoz plina u Europsku uniju, 180 eura za megavatsat! Vladimir Putin u posjetu Bjelorusiji. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 19 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/d5/20221219-kronika-dana-33612321-20221219213531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
