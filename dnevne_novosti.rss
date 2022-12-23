@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Dec 2022 14:42:40 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 14:46:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.12. 2022-12-23</title>
+    <link>https://api.hrt.hr/media/db/da/20221223-dnevne-novosti-33625361-20221223143518.mp3</link>
+    <description>Uoči božićnih blagdana gužve na cestama i graničnim prijelazima. Blagdanska potrošnja u znaku dosad najveće inflacije. Sjedinjene Države i Kanada na udaru zimske oluje. Do minus 50 očekuje se i na Floridi te na granici s Meksikom. Putin prekršio vlastiti zakon. Prvi je put sukob u Ukrajini nazvao ratom. Urednik: Grgo Mrvica.</description>
+    <pubDate>Fri, 23 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/db/da/20221223-dnevne-novosti-33625361-20221223143518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.12. 2022-12-22</title>
     <link>https://api.hrt.hr/media/ca/ab/20221222-dnevne-novosti-33621844-20221222143540.mp3</link>
     <description>Jednokratnim isplatama, vrijednim više od 718 milijuna kuna, Vlada pomaže krizom ugroženom stanovništvu. Ukrajinski predsjednik u Americi dobio novi paket vojne pomoći od dvije milijarde dolara. Moskva je to nazvala provokacijom. Dječaku u Zagrebu u ruci eksplodirala petarda, vrlo teško je ozlijeđen. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Od ponoći je jeftinije gorivo, litra benzina, nakon gotovo dvije godine, stoji manje od deset kuna. Još se čeka odluka Vrhovnog suda o tome imaju li pravo na odštetu građani koji su kredite u švicarskim francima konvertirali u euro. U Pitomači je održana sjednica Savjeta za Slavoniju, Baranju i Srijem. 300-ti je dan ruske invazije na Ukrajinu, vojnike u Bahmutu, na prvoj crti bojišta, posjetio predsjednik Zelenski. Urednik: Silvio Šop</description>
     <pubDate>Tue, 20 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/90/ab/20221220-dnevne-novosti-33614839-20221220144051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.12. 2022-12-19</title>
-    <link>https://api.hrt.hr/media/24/e7/20221219-dnevne-novosti-33611234-20221219144030.mp3</link>
-    <description>Nakon Zagreba, brončane nogometaše dočekat će i Split, Zadar, Varaždin i Velika Gorica. Cijene benzina od ponoći ponovno ispod 10 kuna, a dizela manje od 11. Hrvatska narodna banka za sljedeću godinu predviđa usporavanje inflacije na 7 i pol posto. Rusi ponovno bespilotnim letjelicama gađali kijevsku infrastrukturu. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 19 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/24/e7/20221219-dnevne-novosti-33611234-20221219144030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
