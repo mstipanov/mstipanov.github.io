@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Dec 2022 06:40:55 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 07:14:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.12. 2022-12-23</title>
+    <link>https://api.hrt.hr/media/f0/5b/20221223-jutarnja-kronika-33623364-20221223063018.mp3</link>
+    <description>Za socijalno ugroženo stanovništvo Vlada je pripremila pomoć u obliku jednokratne isplate više od 718 milijuna kuna. Dječak kojem je eksplodirala petarda u ruci, pri čemu je ostao bez četiri prsta, stabilno, očekuje ga niz operacija. Ukrajinski predsjednik Volodimir Zelenski iz Amerike otišao s potvrdom o novom paketu vojne pomoći, uključujući i napredni proturaketni sustav Patriot. U Providurovoj palači u Zadru sinoć otvorena velika izložba Jedan svijet, može se razgledati iduće dvije godine. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 23 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f0/5b/20221223-jutarnja-kronika-33623364-20221223063018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.12. 2022-12-22</title>
     <link>https://api.hrt.hr/media/97/11/20221222-jutarnja-kronika-33619861-20221222063034.mp3</link>
     <description>Danas na sjednici Vlade odluka o jednokratnoj novčanoj pomoći umirovljenicima, socijalno ugroženima i stradalnicima potresa zbog rasta životnih troškova. Francuska paralizirana štrajkom željezničara. Zelenskom u Washingtonu obećana isporuka protuzračnog sustava Patriot. Urednik: Mislav Togonal.</description>
@@ -31,14 +39,6 @@
     <description>55 tisuća obitelji u Hrvatskoj čeka odluku Vrhovnog suda o kreditima u švicarskim francima. Europski ministri energetike dogovorili najvišu cijenu plina. Litra benzina od ponoći jeftinija od 10, a dizela od 11 kuna. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/48/b9/20221220-jutarnja-kronika-33612879-20221220063534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.12. 2022-12-19</title>
-    <link>https://api.hrt.hr/media/c2/54/20221219-jutarnja-kronika-33609317-20221219063530.mp3</link>
-    <description>Brončani Vatreni vratili se jučer u Hrvatsku, u Zagrebu ih na glavnom trgu i pristupnim ulicama dočekalo više od 80 tisuća navijača. Svjetski prvak je Argentina, pobijedila je Francusku na jedanaesterce. U zračnom prostoru Kijeva noćas srušeno devet bespilotnih letjelica. Urednik Silvio Šop</description>
-    <pubDate>Mon, 19 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/54/20221219-jutarnja-kronika-33609317-20221219063530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
