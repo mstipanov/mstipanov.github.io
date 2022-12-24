@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Dec 2022 22:17:27 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 21:49:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.12. 2022-12-24</title>
+    <link>https://api.hrt.hr/media/0f/72/20221224-kronika-dana-33628671-20221224214024.mp3</link>
+    <description>Zagrebački nadbiskup kardinal Josip Bozanić uputio božićnu čestitku, poručio da nam i ovoga Božića ne ponestane solidarnosti sa svima koji trpe. Badnjak proslavljen diljem Hrvatske, podijeljene tisuće porcija bakalara i fiš paprikaša. Rusi i danas raketirali Ukrajinu, u Hersonu ubijeno desetero civila. Hrvatska i regija opraštaju se od pjevača Massima Savića. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 24 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/72/20221224-kronika-dana-33628671-20221224214024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.12. 2022-12-23</title>
     <link>https://api.hrt.hr/media/db/7c/20221223-kronika-dana-33626473-20221223214026.mp3</link>
     <description>U 61-oj godini umro pjevač jedinstvenoga glasa - Masimo Savić. U ovome predblagdanskom tjednu potrošnja 20 posto viša nego u istom razdoblju prošle godine. Sjedinjene Države zahvatila arktička zima, temperatura će pasti i na minus 45 stupnjeva. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinski predsjednik Zelenski u Bijeloj kući razgovarao s američkim predsjednikom Bidenom. Ukrajina dobiva novu vojnu pomoć i obrambeni sustav Patriot. Nakon nezadovoljstva odlukom Vrhovnog suda o konverzijama kredita, udruga Franak sutra će najaviti nove poteze. Europska unija zaprijetila Crnoj Gori prekidom pristupnih pregovora. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 21 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bc/70/20221221-kronika-dana-33619332-20221221214054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.12. 2022-12-20</title>
-    <link>https://api.hrt.hr/media/b8/1e/20221220-kronika-dana-33615795-20221220214042.mp3</link>
-    <description>Odlukom Vrhovnog suda o kreditima kovertiranim iz švicarskih franaka u eure nezadovoljni i potrošači i banke. Uhićeni roditelji koji su bacili molotovljev koktel na Centar za socijalnu skrb u Ivancu. Argentina slavi pobjednike Svjetskog nogometnog prvenstva, a Karlovac i Osijek i danas slavili sa svojim Vatrenima. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 20 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/1e/20221220-kronika-dana-33615795-20221220214042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
