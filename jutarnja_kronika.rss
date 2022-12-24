@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Dec 2022 07:14:02 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 06:48:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Odlukom Vrhovnog suda o kreditima u švicarskom franku nezadovoljni i građani i banke. Nastavljen verbalni rat između predsjednika Milanovića i premijera Plenkovića. Veliki prosvjedi ispred crnogorskog parlamenta. Ukrajinski predsjednik Zelenski danas putuje u Ameriku. Deseci tisuća ljudi traže nove izbore. Kaos na dočeku argentinske reprezentacije. Navijači s mostova skakali na autobus s reprezentativcima. Mesi i suigrači evakuirani helikopterom. Urednik: Mislav Togonal</description>
     <pubDate>Wed, 21 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/24/d5/20221221-jutarnja-kronika-33616305-20221221063530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.12. 2022-12-20</title>
-    <link>https://api.hrt.hr/media/48/b9/20221220-jutarnja-kronika-33612879-20221220063534.mp3</link>
-    <description>55 tisuća obitelji u Hrvatskoj čeka odluku Vrhovnog suda o kreditima u švicarskim francima. Europski ministri energetike dogovorili najvišu cijenu plina. Litra benzina od ponoći jeftinija od 10, a dizela od 11 kuna. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/48/b9/20221220-jutarnja-kronika-33612879-20221220063534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
