@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 24 Dec 2022 16:48:53 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 14:51:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.12. 2022-12-25</title>
+    <link>https://api.hrt.hr/media/97/ca/20221225-dnevne-novosti-33630301-20221225143549.mp3</link>
+    <description>Božić proslavljen diljem Hrvatske, kardinal Josip Bozanić pozvao na zajedništvo i solidarnost u hrvatskom društvu. Premijer Andrej Plenković i predsjednik Sabora Gordan Jandroković izjavili da se obnova kuća na Banovini mora ubrzati. Papa Franjo u tradicionalnoj poruci Gradu i svijetu još jedanput pozvao na mir u Ukrajini. Ruski predsjednik Vladimir Putin kaže da je spreman na mirovne pregovore, ali da ih odbijaju Kijev i njegovi zapadni podupiratelji. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 25 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/97/ca/20221225-dnevne-novosti-33630301-20221225143549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.12. 2022-12-24</title>
     <link>https://api.hrt.hr/media/24/51/20221224-dnevne-novosti-33627860-20221224161529.mp3</link>
     <description>Ruski pokolj civila na Badnjak u Hersonu, osmero mrtvih. 200 milijuna Amerikanaca na udaru zimske oluje. Hrvatska se priprema za Božić. Na Badnji dan u Splitu podijeljeno pet tisuća porcija bakalara, a u Osijeku dvije i pol tisuće porcija fiša. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Jednokratnim isplatama, vrijednim više od 718 milijuna kuna, Vlada pomaže krizom ugroženom stanovništvu. Ukrajinski predsjednik u Americi dobio novi paket vojne pomoći od dvije milijarde dolara. Moskva je to nazvala provokacijom. Dječaku u Zagrebu u ruci eksplodirala petarda, vrlo teško je ozlijeđen. Urednica: Sanja Cota</description>
     <pubDate>Thu, 22 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/ab/20221222-dnevne-novosti-33621844-20221222143540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.12. 2022-12-21</title>
-    <link>https://api.hrt.hr/media/48/73/20221221-dnevne-novosti-33618312-20221221145553.mp3</link>
-    <description>Ukrajinski predsjednik Zelenski danas je u Sjedinjenim Državama, to je njegovo prvo međunarodno putovanje od početka ruske invazije. Odlukom Vrhovnog suda o kreditima konvertiranim iz švicarskog franka u euro nisu zadovoljni ni potrošači ni banke. Zatvara se splitska Spaladium arena. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 21 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/48/73/20221221-dnevne-novosti-33618312-20221221145553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
