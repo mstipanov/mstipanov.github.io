@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 24 Dec 2022 21:49:16 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 21:51:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.12. 2022-12-25</title>
+    <link>https://api.hrt.hr/media/01/40/20221225-kronika-dana-33630945-20221225214057.mp3</link>
+    <description>Na misnim slavljima diljem Hrvatske proslavljen Božić, uz pozive na zajedništvo i solidarnost. Papa Franjo u tradicionalnoj poruci Gradu i svijetu još jedanput pozvao na mir u Ukrajini. Arktička hladnoća okovala Sjedinjene Države i Kanadu. Urednica: Sanja Rabuzin Pavić</description>
+    <pubDate>Sun, 25 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/01/40/20221225-kronika-dana-33630945-20221225214057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.12. 2022-12-24</title>
     <link>https://api.hrt.hr/media/0f/72/20221224-kronika-dana-33628671-20221224214024.mp3</link>
     <description>Zagrebački nadbiskup kardinal Josip Bozanić uputio božićnu čestitku, poručio da nam i ovoga Božića ne ponestane solidarnosti sa svima koji trpe. Badnjak proslavljen diljem Hrvatske, podijeljene tisuće porcija bakalara i fiš paprikaša. Rusi i danas raketirali Ukrajinu, u Hersonu ubijeno desetero civila. Hrvatska i regija opraštaju se od pjevača Massima Savića. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dječaku u Zagrebu u ruci eksplodirala petarda, gotovo je ostao bez šake. Vlada socijalno ugroženom stanovništvu pomaže jednokratnim isplatama vrijednim više od 718 milijuna kuna. Ukrajinski predsjednik Zelenski iz Amerike otišao s potvrdom o novom paketu vojne pomoći, Putin poručio: neće vam pomoći. U Providurovoj palači u Zadru otvorena velika izložba Jedan svijet. Jedinstven je to projekt preseljenja umjetnina iz Nacionalnog muzeja moderne umjetnosti, koje će u Zadru ostati dvije godineUrednik: Grgo Mrvica</description>
     <pubDate>Thu, 22 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c7/5d/20221222-kronika-dana-33622790-20221222213515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.12. 2022-12-21</title>
-    <link>https://api.hrt.hr/media/bc/70/20221221-kronika-dana-33619332-20221221214054.mp3</link>
-    <description>Ukrajinski predsjednik Zelenski u Bijeloj kući razgovarao s američkim predsjednikom Bidenom. Ukrajina dobiva novu vojnu pomoć i obrambeni sustav Patriot. Nakon nezadovoljstva odlukom Vrhovnog suda o konverzijama kredita, udruga Franak sutra će najaviti nove poteze. Europska unija zaprijetila Crnoj Gori prekidom pristupnih pregovora. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 21 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bc/70/20221221-kronika-dana-33619332-20221221214054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
