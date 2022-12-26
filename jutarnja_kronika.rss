@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Dec 2022 06:50:24 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 06:52:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.12. 2022-12-26</title>
+    <link>https://api.hrt.hr/media/b9/52/20221226-jutarnja-kronika-33631486-20221226064049.mp3</link>
+    <description>Na misnim slavljima diljem Hrvatske proslavljen Božić, uz pozive na zajedništvo i solidarnost.Papa Franjo u tradicionalnoj poruci Gradu i svijetu još jedanput pozvao na mir u Ukrajini.
+Arktička hladnoća okovala Sjedinjene Države i Kanadu.Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 26 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b9/52/20221226-jutarnja-kronika-33631486-20221226064049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.12. 2022-12-25</title>
     <link>https://api.hrt.hr/media/6a/a9/20221225-jutarnja-kronika-33629227-20221225063049.mp3</link>
     <description>SRETAN BOŽIĆ! žić vjernici dočekali na polnoćkama. Predsjednik Zelenski Ukrajincima poslao emotivnu božićnu poruku. Policija utvrdila identitet četvorice izgrednika koji su sudjelovali u tučnjavi u Slavonskom Brodu. Urednik: Mario Krstanović</description>
@@ -23,14 +32,6 @@
     <description>Za socijalno ugroženo stanovništvo Vlada je pripremila pomoć u obliku jednokratne isplate više od 718 milijuna kuna. Dječak kojem je eksplodirala petarda u ruci, pri čemu je ostao bez četiri prsta, stabilno, očekuje ga niz operacija. Ukrajinski predsjednik Volodimir Zelenski iz Amerike otišao s potvrdom o novom paketu vojne pomoći, uključujući i napredni proturaketni sustav Patriot. U Providurovoj palači u Zadru sinoć otvorena velika izložba Jedan svijet, može se razgledati iduće dvije godine. Urednik: Silvio Šop</description>
     <pubDate>Fri, 23 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f0/5b/20221223-jutarnja-kronika-33623364-20221223063018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.12. 2022-12-22</title>
-    <link>https://api.hrt.hr/media/97/11/20221222-jutarnja-kronika-33619861-20221222063034.mp3</link>
-    <description>Danas na sjednici Vlade odluka o jednokratnoj novčanoj pomoći umirovljenicima, socijalno ugroženima i stradalnicima potresa zbog rasta životnih troškova. Francuska paralizirana štrajkom željezničara. Zelenskom u Washingtonu obećana isporuka protuzračnog sustava Patriot. Urednik: Mislav Togonal.</description>
-    <pubDate>Thu, 22 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/97/11/20221222-jutarnja-kronika-33619861-20221222063034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
