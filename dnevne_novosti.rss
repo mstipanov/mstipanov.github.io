@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Dec 2022 14:51:03 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 14:52:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.12. 2022-12-26</title>
+    <link>https://api.hrt.hr/media/71/37/20221226-dnevne-novosti-33632498-20221226144057.mp3</link>
+    <description>Napadaču koji je na Badnjak u Slavonskom Brodu teško ozlijedio mladića odjevenog u Djeda Mraza, određen jednomjesečni pritvor. Ukrajina ponovno bespilotnom letjelicom napala vojni aerodrom u dubini ruskog teritorija. Drugi je dan Božića, blagdan svetog Stjepana, u Hrvatskoj neradni dan. U 98. godini umro najstariji aktivni hrvatski pjevač Bruno Petrali. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 26 Dec 2022 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/37/20221226-dnevne-novosti-33632498-20221226144057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.12. 2022-12-25</title>
     <link>https://api.hrt.hr/media/97/ca/20221225-dnevne-novosti-33630301-20221225143549.mp3</link>
     <description>Božić proslavljen diljem Hrvatske, kardinal Josip Bozanić pozvao na zajedništvo i solidarnost u hrvatskom društvu. Premijer Andrej Plenković i predsjednik Sabora Gordan Jandroković izjavili da se obnova kuća na Banovini mora ubrzati. Papa Franjo u tradicionalnoj poruci Gradu i svijetu još jedanput pozvao na mir u Ukrajini. Ruski predsjednik Vladimir Putin kaže da je spreman na mirovne pregovore, ali da ih odbijaju Kijev i njegovi zapadni podupiratelji. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Uoči božićnih blagdana gužve na cestama i graničnim prijelazima. Blagdanska potrošnja u znaku dosad najveće inflacije. Sjedinjene Države i Kanada na udaru zimske oluje. Do minus 50 očekuje se i na Floridi te na granici s Meksikom. Putin prekršio vlastiti zakon. Prvi je put sukob u Ukrajini nazvao ratom. Urednik: Grgo Mrvica.</description>
     <pubDate>Fri, 23 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/da/20221223-dnevne-novosti-33625361-20221223143518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.12. 2022-12-22</title>
-    <link>https://api.hrt.hr/media/ca/ab/20221222-dnevne-novosti-33621844-20221222143540.mp3</link>
-    <description>Jednokratnim isplatama, vrijednim više od 718 milijuna kuna, Vlada pomaže krizom ugroženom stanovništvu. Ukrajinski predsjednik u Americi dobio novi paket vojne pomoći od dvije milijarde dolara. Moskva je to nazvala provokacijom. Dječaku u Zagrebu u ruci eksplodirala petarda, vrlo teško je ozlijeđen. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 22 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/ab/20221222-dnevne-novosti-33621844-20221222143540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
