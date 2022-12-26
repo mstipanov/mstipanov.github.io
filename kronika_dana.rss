@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Dec 2022 21:51:36 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 21:53:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.12. 2022-12-26</title>
+    <link>https://api.hrt.hr/media/4d/a7/20221226-kronika-dana-33633451-20221226213550.mp3</link>
+    <description>Počelo odbrojavanje - Hrvatsku samo nekoliko dana dijeli od nove valute - eura te ulaska u Schengen. Nakon obećanja da će dobiti američke proturaketne sustave Patriot, Ukrajina od Zapada traži bojne avione i ratne brodove. U Beogradu ponovno odgođeno inscenirano suđenje četvorici hrvatskih pilota. Međunarodna skijaška federacija dala "zeleno svjetlo" za ženske slalome na Sljemenu. Urednik: Mario Krstanović</description>
+    <pubDate>Mon, 26 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/a7/20221226-kronika-dana-33633451-20221226213550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.12. 2022-12-25</title>
     <link>https://api.hrt.hr/media/01/40/20221225-kronika-dana-33630945-20221225214057.mp3</link>
     <description>Na misnim slavljima diljem Hrvatske proslavljen Božić, uz pozive na zajedništvo i solidarnost. Papa Franjo u tradicionalnoj poruci Gradu i svijetu još jedanput pozvao na mir u Ukrajini. Arktička hladnoća okovala Sjedinjene Države i Kanadu. Urednica: Sanja Rabuzin Pavić</description>
@@ -31,14 +39,6 @@
     <description>U 61-oj godini umro pjevač jedinstvenoga glasa - Masimo Savić. U ovome predblagdanskom tjednu potrošnja 20 posto viša nego u istom razdoblju prošle godine. Sjedinjene Države zahvatila arktička zima, temperatura će pasti i na minus 45 stupnjeva. Urednica: Sanja Cota</description>
     <pubDate>Fri, 23 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/7c/20221223-kronika-dana-33626473-20221223214026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.12. 2022-12-22</title>
-    <link>https://api.hrt.hr/media/c7/5d/20221222-kronika-dana-33622790-20221222213515.mp3</link>
-    <description>Dječaku u Zagrebu u ruci eksplodirala petarda, gotovo je ostao bez šake. Vlada socijalno ugroženom stanovništvu pomaže jednokratnim isplatama vrijednim više od 718 milijuna kuna. Ukrajinski predsjednik Zelenski iz Amerike otišao s potvrdom o novom paketu vojne pomoći, Putin poručio: neće vam pomoći. U Providurovoj palači u Zadru otvorena velika izložba Jedan svijet. Jedinstven je to projekt preseljenja umjetnina iz Nacionalnog muzeja moderne umjetnosti, koje će u Zadru ostati dvije godineUrednik: Grgo Mrvica</description>
-    <pubDate>Thu, 22 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/5d/20221222-kronika-dana-33622790-20221222213515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
