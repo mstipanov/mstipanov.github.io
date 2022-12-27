@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Dec 2022 21:53:22 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 21:55:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.12. 2022-12-27</title>
+    <link>https://api.hrt.hr/media/9e/58/20221227-kronika-dana-33636396-20221227213552.mp3</link>
+    <description>Slovenski Petrol sutra na jedan sat u Hrvatskoj zatvara prodajna mjesta. Tvrdi da su na gubitku od 45 milijuna eura zbog regulacije cijena goriva koju provodi hrvatska Vlada. Vladimir Putin od 1. veljače na pet mjeseci zabranjuje opskrbu naftom zemljama koje su ograničile cijenu ruske nafte. Izolacija u vrijeme pandemije jedan je od uzroka pojačanog širenja respiratornih bolesti. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 27 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9e/58/20221227-kronika-dana-33636396-20221227213552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.12. 2022-12-26</title>
     <link>https://api.hrt.hr/media/4d/a7/20221226-kronika-dana-33633451-20221226213550.mp3</link>
     <description>Počelo odbrojavanje - Hrvatsku samo nekoliko dana dijeli od nove valute - eura te ulaska u Schengen. Nakon obećanja da će dobiti američke proturaketne sustave Patriot, Ukrajina od Zapada traži bojne avione i ratne brodove. U Beogradu ponovno odgođeno inscenirano suđenje četvorici hrvatskih pilota. Međunarodna skijaška federacija dala "zeleno svjetlo" za ženske slalome na Sljemenu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Zagrebački nadbiskup kardinal Josip Bozanić uputio božićnu čestitku, poručio da nam i ovoga Božića ne ponestane solidarnosti sa svima koji trpe. Badnjak proslavljen diljem Hrvatske, podijeljene tisuće porcija bakalara i fiš paprikaša. Rusi i danas raketirali Ukrajinu, u Hersonu ubijeno desetero civila. Hrvatska i regija opraštaju se od pjevača Massima Savića. Urednik: Silvio Šop</description>
     <pubDate>Sat, 24 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/72/20221224-kronika-dana-33628671-20221224214024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.12. 2022-12-23</title>
-    <link>https://api.hrt.hr/media/db/7c/20221223-kronika-dana-33626473-20221223214026.mp3</link>
-    <description>U 61-oj godini umro pjevač jedinstvenoga glasa - Masimo Savić. U ovome predblagdanskom tjednu potrošnja 20 posto viša nego u istom razdoblju prošle godine. Sjedinjene Države zahvatila arktička zima, temperatura će pasti i na minus 45 stupnjeva. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 23 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/db/7c/20221223-kronika-dana-33626473-20221223214026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
