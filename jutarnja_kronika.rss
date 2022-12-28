@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Dec 2022 06:54:09 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 06:56:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.12. 2022-12-28</title>
+    <link>https://api.hrt.hr/media/1f/c8/20221228-jutarnja-kronika-33636934-20221228063052.mp3</link>
+    <description>Dvije su godine od potresa na Banovini. Obnova ide sporo, nagađa se da ministar graditeljstva Ivan Paladina odbrojava posljednje dane u Vladi. Oboljeli od koronavirusa imaju blaže kliničke slike, ali su ambulante pune zbog drugih respiratornih bolesti i gripe. Slovenski Petrol na jedan sat zatvara crpke u Hrvatskoj. Tvrdi da je na gubitku od 45 milijuna eura zbog Vladine regulacije cijena goriva.	Na sjeveru Kosova i dalje napeto, kosovski Srbi 19. dan blokiraju magistralne ceste. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 28 Dec 2022 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/c8/20221228-jutarnja-kronika-33636934-20221228063052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.12. 2022-12-27</title>
     <link>https://api.hrt.hr/media/ee/8a/20221227-jutarnja-kronika-33634012-20221227063051.mp3</link>
     <description>Ukrajina od Zapada traži bojne avione i ratne brodove. Zbog stanja na Kosovu srbijanska vojska od sinoć u punoj pripravnosti. Sve veći broj poginulih u povijesnoj snježnoj oluji u Sjedinjenim Državama. Samo nas nekoliko dana dijeli od uvođenja eura i Schengena. Urednik: Grgo Mrvica</description>
