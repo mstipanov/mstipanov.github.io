@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Dec 2022 17:42:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 17:29:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Katarina Maric i Suncica Mustac 2022-12-29</title>
+    <link>https://api.hrt.hr/media/7e/86/20221229-historia-histriae-7905092-20221229170008.mp3</link>
+    <description>Govorimo o nevjerojatnoj knjizi "Slava Vojvodine Kranjske" Johanna Valvasora koja je napisana prije 333 godine, a u kojoj je autor opisao istarske gradove, kaštele, crkve, prirodu, ljude, naravne i nadnaravne pojave, između ostalog i priču o Juri Grandu. Katarina Marić i Sunčica Mustač prevele su njegove tekstove i ukoričile ih u knjigu "Valvasor u Istri". One su naše gošće ovotjedne Historie. </description>
+    <pubDate>Thu, 29 Dec 2022 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7e/86/20221229-historia-histriae-7905092-20221229170008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Emil Jurcan Historia 22.12. 2022-12-22</title>
     <link>https://api.hrt.hr/media/85/17/20221222-historia-histriae-7903090-20221222170513.mp3</link>
     <description>U goste nam dolazi arhitekt i urbanist Emil Jurcan, a pričamo o urbanističkom razvoju Pule kroz povijest burnog 20. stoljeća. </description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 27 Oct 2022 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bd/ee/20221027-historia-histriae-1818587-20221027151018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>DAVID ORLOVIĆ 2022-10-20</title>
-    <link>https://api.hrt.hr/media/f0/5f/20221020-historia-histriae-1817058-20221020154534.mp3</link>
-    <description>U goste nam dolazi David Orlović, a pričamo o tajnama istoka Pule - o povijesti Šijane! Budite s nama!</description>
-    <pubDate>Thu, 20 Oct 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f0/5f/20221020-historia-histriae-1817058-20221020154534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
