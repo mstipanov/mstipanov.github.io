@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Dec 2022 22:00:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 22:00:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.12. 2022-12-30</title>
+    <link>https://api.hrt.hr/media/ea/ce/20221230-kronika-dana-33647011-20221230214051.mp3</link>
+    <description>Približava se ulazak u šengenski prostor i eurozonu, građani se pripremaju na promjene. Potvrđeno da su djeca, koja su trebala biti posvojena iz Konga, imala hrvatske dokumente; istražuje se je li postupak bio zakonit. Ruski i kineski predsjednik potvrdili čvrstu suradnju dviju država. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 30 Dec 2022 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/ce/20221230-kronika-dana-33647011-20221230214051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.12. 2022-12-29</title>
     <link>https://api.hrt.hr/media/6f/d3/20221229-kronika-dana-33643411-20221229214006.mp3</link>
     <description>Umro je legendarni Pele, jedan od najboljih nogometaša svih vremena. Druga godišnjica razornog potresa na Banovini u Petrinji obilježena prosvjedom zbog spore obnove. 73-godišnji Benjanim Netanyahu ponovno prisegnuo za izraelskog premijera na čelu krajnje desne vlade. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Slovenski Petrol sutra na jedan sat u Hrvatskoj zatvara prodajna mjesta. Tvrdi da su na gubitku od 45 milijuna eura zbog regulacije cijena goriva koju provodi hrvatska Vlada. Vladimir Putin od 1. veljače na pet mjeseci zabranjuje opskrbu naftom zemljama koje su ograničile cijenu ruske nafte. Izolacija u vrijeme pandemije jedan je od uzroka pojačanog širenja respiratornih bolesti. Urednica: Sanja Cota</description>
     <pubDate>Tue, 27 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/58/20221227-kronika-dana-33636396-20221227213552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.12. 2022-12-26</title>
-    <link>https://api.hrt.hr/media/4d/a7/20221226-kronika-dana-33633451-20221226213550.mp3</link>
-    <description>Počelo odbrojavanje - Hrvatsku samo nekoliko dana dijeli od nove valute - eura te ulaska u Schengen. Nakon obećanja da će dobiti američke proturaketne sustave Patriot, Ukrajina od Zapada traži bojne avione i ratne brodove. U Beogradu ponovno odgođeno inscenirano suđenje četvorici hrvatskih pilota. Međunarodna skijaška federacija dala "zeleno svjetlo" za ženske slalome na Sljemenu. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 26 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4d/a7/20221226-kronika-dana-33633451-20221226213550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
