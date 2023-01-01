@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 31 Dec 2022 15:01:54 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 15:03:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.01. 2023-01-01</title>
+    <link>https://api.hrt.hr/media/a8/d2/20230101-dnevne-novosti-33650874-20230101143555.mp3</link>
+    <description>Od danas plaćamo u eurima i dio smo šengenskog prostora, neki bankomati počeli isplaćivati eure. Predsjednica Europske komisije Ursula von der Leyen u Zagrebu. Nova godina diljem Hrvatske i svijeta dočekana uz spektakularne proslave! Urednica: Mira Barić</description>
+    <pubDate>Sun, 01 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/d2/20230101-dnevne-novosti-33650874-20230101143555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.12. 2022-12-31</title>
     <link>https://api.hrt.hr/media/1f/e7/20221231-dnevne-novosti-33648487-20221231144028.mp3</link>
     <description>Papa Benedikt Šesnaesti umro u Vatikanu u 96.-oj godini. Pogreb će 5. siječnja predvoditi Papa Franjo. Euro od sutra službena valuta i u Hrvatskoj. Naši građani od sutra će uživati u pogodnostima shengenskog prostora. Pripreme za najluđu noć i doček Nove godine na otvorenom diljem zemlje. Severina pjeva u Splitu, Petar Grašo u Dubrovniku. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Dvije godine prošle su od razornog potresa na Banovini kada je poginulo sedmero ljudi. Ured europskog javnog tužitelja podignuo optužnicu protiv bivše ministrice Gabrijele Žalac. Veliki ukrajinski gradovi od jutra su pod snažnim ruskim napadima. Urednica: Sanja Cota</description>
     <pubDate>Thu, 29 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2e/80/20221229-dnevne-novosti-33642505-20221229143506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.12. 2022-12-28</title>
-    <link>https://api.hrt.hr/media/51/69/20221228-dnevne-novosti-33638978-20221228144053.mp3</link>
-    <description>Sve spremno za uvođenje eura, iz HNB-a pozivaju građane da se za novogodišnji vikend opskrbe gotovinom. Prije dvije godine na današnji dan počeo niz potresa na Banovini. Seizmolozi objavili podatak: do danas ih je bilo više od 17 tisuća. Od ponoći zatvoren najveći granični prijelaz između Srbije i Kosova . Papa Franjo pozvao na molitvu za svojeg prethodnika, teško bolesnog 95-godišnjeg Benedikta Šesnaestog. Urednica: Mira Barić</description>
-    <pubDate>Wed, 28 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/51/69/20221228-dnevne-novosti-33638978-20221228144053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
