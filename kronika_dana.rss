@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Jan 2023 22:04:15 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 22:06:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.01. 2023-01-02</title>
+    <link>https://api.hrt.hr/media/a7/a4/20230102-kronika-dana-33654600-20230102213505.mp3</link>
+    <description>Od ponoći skuplje gorivo. Hrvatski se građani navikavaju na euro. Premijer Plenković sazvao sastanak kako bi spriječio neopravdano dizanje cijena. U pograničnim područjima i danas slave ulazak Hrvatske u Schengen. U Humu na Sutli ističu trajnu povezanost s prvim susjedima Slovencima. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 02 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/a4/20230102-kronika-dana-33654600-20230102213505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.01. 2023-01-01</title>
     <link>https://api.hrt.hr/media/cd/f9/20230101-kronika-dana-33651650-20230101214055.mp3</link>
     <description>U ponoć smo kunu zamijenili eurom i ušli u šengenski prostor. Na snagu je stupio Zakon o mirovinskom osiguranju, od sutra se podnose zahtjevi za korištenje dijela obiteljske mirovine umrlog supruga ili supruge. Svijet se oprašta od pape Benedikta 16-og. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Približava se ulazak u šengenski prostor i eurozonu, građani se pripremaju na promjene. Potvrđeno da su djeca, koja su trebala biti posvojena iz Konga, imala hrvatske dokumente; istražuje se je li postupak bio zakonit. Ruski i kineski predsjednik potvrdili čvrstu suradnju dviju država. Urednica: Sanja Cota</description>
     <pubDate>Fri, 30 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ea/ce/20221230-kronika-dana-33647011-20221230214051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.12. 2022-12-29</title>
-    <link>https://api.hrt.hr/media/6f/d3/20221229-kronika-dana-33643411-20221229214006.mp3</link>
-    <description>Umro je legendarni Pele, jedan od najboljih nogometaša svih vremena. Druga godišnjica razornog potresa na Banovini u Petrinji obilježena prosvjedom zbog spore obnove. 73-godišnji Benjanim Netanyahu ponovno prisegnuo za izraelskog premijera na čelu krajnje desne vlade. Urednica: Mira Barić</description>
-    <pubDate>Thu, 29 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6f/d3/20221229-kronika-dana-33643411-20221229214006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
