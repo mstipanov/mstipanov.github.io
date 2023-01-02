@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Jan 2023 07:03:08 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 07:04:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.01. 2023-01-02</title>
+    <link>https://api.hrt.hr/media/84/1b/20230102-jutarnja-kronika-33652218-20230102063506.mp3</link>
+    <description>Od jučer je Hrvatska u eurozoni i šengenskom području. Nije bilo većih problema s novom valutom, ne očekuju se ni danas. Vlada će objaviti nove cijene goriva, nagađa se da će biti više. Od danas počinje podnošenje zahtjeva za korištenje dijela obiteljske mirovine umrlog supružnika. Kijev i noćas napadnut bespilotnim letjelicama. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/84/1b/20230102-jutarnja-kronika-33652218-20230102063506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.01. 2023-01-01</title>
     <link>https://api.hrt.hr/media/07/7f/20230101-jutarnja-kronika-33649969-20230101063555.mp3</link>
     <description>Euro od danas službena valuta i u Hrvatskoj, a naša zemlja je sastavni dio šengenskog prostora. Predsjednica Europske komisija Ursula von der Leyen danas dolazi u Zagreb. Diljem zemlje dočeci Nove godine na otvorenome protekli veselo i uz obilje pirotehnike. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Druga godišnjica razornog potresa na Banovini jučer u Petrinji obilježena prosvjedom zbog spore obnove. Ćirilica više nije ravnopravno pismo u Vukovaru. Rusi noćas dronovima napali Kijev. Umro je legendarni Pele, prema mnogima najbolji nogometaš svih vremena. Brazil proglasio trodnevnu žalost. Urednik: Silvio Šop</description>
     <pubDate>Fri, 30 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e1/a7/20221230-jutarnja-kronika-33643938-20221230063547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.12. 2022-12-29</title>
-    <link>https://api.hrt.hr/media/31/75/20221229-jutarnja-kronika-33640436-20221229063554.mp3</link>
-    <description>Dva dana prije prelaska na euro, građani se pozivaju da se za novogodišnji vikend opskrbe gotovinom. Prije dvije godine razorni potres jakosti 6,2 pogodio Banovinu, poginulo je sedmero ljudi. Srbi na sjeveru Kosova, nakon 19 dana, počinju uklanjati barikade s prometnica. U zagrebačkom HNK-u premijera "Šišmiša" u režiji Krešimira Dolenčića. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 29 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/75/20221229-jutarnja-kronika-33640436-20221229063554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
