@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Jan 2023 15:05:34 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 15:07:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.01. 2023-01-03</title>
+    <link>https://api.hrt.hr/media/31/f9/20230103-dnevne-novosti-33656754-20230103144012.mp3</link>
+    <description>Velika nesreća u Osijeku. Četiri osobe ozlijeđene pri padu lučke dizalice. Rast cijena roba i usluga. Ministar gospodarstva poručuje da će naći način da zaštiti građane. Od danas je skuplje i gorivo. Ukrajinci otkrili ruske logore za mučenje na oslobođenom području oko Harkiva. Sve više oboljelih od gripe, još nije kasno za cijepljenje. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 03 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/31/f9/20230103-dnevne-novosti-33656754-20230103144012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.01. 2023-01-02</title>
     <link>https://api.hrt.hr/media/d3/27/20230102-dnevne-novosti-33653817-20230102145013.mp3</link>
     <description>Od jučer je Hrvatska u eurozoni i šengenskom području. Nije bilo većih problema s novom valutom, ne očekuju se ni danas. Vlada će objaviti nove cijene goriva, nagađa se da će biti više. Od danas počinje podnošenje zahtjeva za korištenje dijela obiteljske mirovine umrlog supružnika. Kijev i noćas napadnut bespilotnim letjelicama. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Papa Benedikt Šesnaesti umro u Vatikanu u 96.-oj godini. Pogreb će 5. siječnja predvoditi Papa Franjo. Euro od sutra službena valuta i u Hrvatskoj. Naši građani od sutra će uživati u pogodnostima shengenskog prostora. Pripreme za najluđu noć i doček Nove godine na otvorenom diljem zemlje. Severina pjeva u Splitu, Petar Grašo u Dubrovniku. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 31 Dec 2022 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/e7/20221231-dnevne-novosti-33648487-20221231144028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.12. 2022-12-30</title>
-    <link>https://api.hrt.hr/media/99/b2/20221230-dnevne-novosti-33645909-20221230144047.mp3</link>
-    <description>Još samo sutra kuna je hrvatska valuta, i danas gužve u bankama. U Brazilu proglašena trodnevna žalost zbog smrti legendarnog Pelea. Predsjednik Milanović ocijenio da je u obnovi Banovine napravljeno zastrašujuće malo. Suzama i ovacijama glazbenici se oprostili od Massima.Urednica Mira Barić</description>
-    <pubDate>Fri, 30 Dec 2022 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/99/b2/20221230-dnevne-novosti-33645909-20221230144047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
