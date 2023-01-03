@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Jan 2023 22:06:06 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 21:38:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Od ponoći Hrvatska ulazi u šengenski prostor i eurozonu. Na posljednji dan godine u Vatikanu je umro 96-godišnji papa Benedikt 16. Dočeci 2023. diljem zemlje pamtit će se i po toplini silvestarske noći, a i sutra će biti iznadprosječno toplo. Urednica: Sanja Cota</description>
     <pubDate>Sat, 31 Dec 2022 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d1/b5/20221231-kronika-dana-33649285-20221231214028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.12. 2022-12-30</title>
-    <link>https://api.hrt.hr/media/ea/ce/20221230-kronika-dana-33647011-20221230214051.mp3</link>
-    <description>Približava se ulazak u šengenski prostor i eurozonu, građani se pripremaju na promjene. Potvrđeno da su djeca, koja su trebala biti posvojena iz Konga, imala hrvatske dokumente; istražuje se je li postupak bio zakonit. Ruski i kineski predsjednik potvrdili čvrstu suradnju dviju država. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 30 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ea/ce/20221230-kronika-dana-33647011-20221230214051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
