@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Jan 2023 07:04:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 06:36:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Od ponoći Hrvatska u eurozoni i šengenskom prostoru. Rusija će dopustiti državama da svoje dugove za ruski plin podmire u stranoj valuti.Silvestrovo je, opraštamo se od stare i dočekujemo novu godinu! Mnogi su gradovi odustali od vatrometa, ipak diljem zemlje dočeci na otvorenom.Urednica Mira Barić</description>
     <pubDate>Sat, 31 Dec 2022 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/23/c9/20221231-jutarnja-kronika-33647604-20221231070031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.12. 2022-12-30</title>
-    <link>https://api.hrt.hr/media/e1/a7/20221230-jutarnja-kronika-33643938-20221230063547.mp3</link>
-    <description>Druga godišnjica razornog potresa na Banovini jučer u Petrinji obilježena prosvjedom zbog spore obnove. Ćirilica više nije ravnopravno pismo u Vukovaru. Rusi noćas dronovima napali Kijev. Umro je legendarni Pele, prema mnogima najbolji nogometaš svih vremena. Brazil proglasio trodnevnu žalost. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 30 Dec 2022 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/a7/20221230-jutarnja-kronika-33643938-20221230063547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
