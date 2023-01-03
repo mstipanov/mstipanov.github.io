@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 03 Jan 2023 06:36:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 07:06:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.01. 2023-01-03</title>
+    <link>https://api.hrt.hr/media/cc/81/20230103-jutarnja-kronika-33655155-20230103063515.mp3</link>
+    <description>Zbog neopravdanog zaokruživanja cijena nakon prelaska na euro, u Ministarstvo gospodarstva pozvani predstavnici najvećih trgovačkih lanaca. U ponoć poskupjelo i gorivo. Glavni zapovjednik ukrajinske vojske tvrdi da su oslobodili 40 posto teritorija koji su okupirali Rusi. U Zadru posljednji ispraćaj Massima. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 03 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/81/20230103-jutarnja-kronika-33655155-20230103063515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.01. 2023-01-02</title>
     <link>https://api.hrt.hr/media/84/1b/20230102-jutarnja-kronika-33652218-20230102063506.mp3</link>
     <description>Od jučer je Hrvatska u eurozoni i šengenskom području. Nije bilo većih problema s novom valutom, ne očekuju se ni danas. Vlada će objaviti nove cijene goriva, nagađa se da će biti više. Od danas počinje podnošenje zahtjeva za korištenje dijela obiteljske mirovine umrlog supružnika. Kijev i noćas napadnut bespilotnim letjelicama. Urednik: Silvio Šop</description>
