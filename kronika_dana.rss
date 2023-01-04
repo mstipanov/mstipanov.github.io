@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 03 Jan 2023 22:08:07 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 21:40:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U ponoć smo kunu zamijenili eurom i ušli u šengenski prostor. Na snagu je stupio Zakon o mirovinskom osiguranju, od sutra se podnose zahtjevi za korištenje dijela obiteljske mirovine umrlog supruga ili supruge. Svijet se oprašta od pape Benedikta 16-og. Urednica: Sanja Cota</description>
     <pubDate>Sun, 01 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cd/f9/20230101-kronika-dana-33651650-20230101214055.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.12. 2022-12-31</title>
-    <link>https://api.hrt.hr/media/d1/b5/20221231-kronika-dana-33649285-20221231214028.mp3</link>
-    <description>Od ponoći Hrvatska ulazi u šengenski prostor i eurozonu. Na posljednji dan godine u Vatikanu je umro 96-godišnji papa Benedikt 16. Dočeci 2023. diljem zemlje pamtit će se i po toplini silvestarske noći, a i sutra će biti iznadprosječno toplo. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 31 Dec 2022 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d1/b5/20221231-kronika-dana-33649285-20221231214028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
