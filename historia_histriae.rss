@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Dec 2022 17:29:50 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 17:12:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>"Pulske storije" uz Zvjezdana Strahinju 1. dio 2023-01-05</title>
+    <link>https://api.hrt.hr/media/9a/2e/20230105-historia-histriae-7907209-20230105165528.mp3</link>
+    <description>U goste nam dolazi kolega novinar i pokretač facebook stranice "Pulske štorije" Zvjezdan Strahinja. Priče o klubu Uljanik, o pulskim toaletima, o gradskim facama, o mitovima i intrigama na granici stvarnosti.......nevjerojatne priče koje čine mozaik sjećanja generacija......Zvjezdan nam priča o jednom gradu i otkriva njegove tajne.....budite s nama!</description>
+    <pubDate>Thu, 05 Jan 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9a/2e/20230105-historia-histriae-7907209-20230105165528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Katarina Maric i Suncica Mustac 2022-12-29</title>
     <link>https://api.hrt.hr/media/7e/86/20221229-historia-histriae-7905092-20221229170008.mp3</link>
     <description>Govorimo o nevjerojatnoj knjizi "Slava Vojvodine Kranjske" Johanna Valvasora koja je napisana prije 333 godine, a u kojoj je autor opisao istarske gradove, kaštele, crkve, prirodu, ljude, naravne i nadnaravne pojave, između ostalog i priču o Juri Grandu. Katarina Marić i Sunčica Mustač prevele su njegove tekstove i ukoričile ih u knjigu "Valvasor u Istri". One su naše gošće ovotjedne Historie. </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi povjesničar Ian Tataj, a govorimo o njegovoj knjizi "Rat, mir i strasti Languedoca"</description>
     <pubDate>Thu, 03 Nov 2022 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1d/99/20221103-historia-histriae-7887307-20221103165028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Historia Radosevic i Dabo 27.10. 2022-10-27</title>
-    <link>https://api.hrt.hr/media/bd/ee/20221027-historia-histriae-1818587-20221027151018.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 27 Oct 2022 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bd/ee/20221027-historia-histriae-1818587-20221027151018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
