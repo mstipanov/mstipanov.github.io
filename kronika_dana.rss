@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 04 Jan 2023 22:10:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 22:12:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.01. 2023-01-05</title>
+    <link>https://api.hrt.hr/media/cc/b5/20230105-kronika-dana-33664500-20230105214035.mp3</link>
+    <description>Nakon niza poskupljena prvih dana nove godine premijer Plenković najavio pojačane inspekcije. U Vatikanu pokopan papa Benedikt Šesnaesti. Strašan zločin Zagrebu - muškarac sjekirom ubio djevojčicu i teško ranio njezinu majku, zatim se na autocesti bacio pod automobil. Otkazana druga slalomska utrka skijašica na Sljemenu. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 05 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/b5/20230105-kronika-dana-33664500-20230105214035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.01. 2023-01-04</title>
     <link>https://api.hrt.hr/media/38/6b/20230104-kronika-dana-33661045-20230104214018.mp3</link>
     <description>Vlada će na sutrašnjoj sjednici donijeti mjere za sprječavanje neopravdanog poskupljenja nakon uvođenja eura. Sutra u Vatikanu pogreb pape emeritusa Benedikta Šesnaestog. Amerikanka Mikaela Shiffrin pobjednica slaloma na Sljemenu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Od ponoći skuplje gorivo. Hrvatski se građani navikavaju na euro. Premijer Plenković sazvao sastanak kako bi spriječio neopravdano dizanje cijena. U pograničnim područjima i danas slave ulazak Hrvatske u Schengen. U Humu na Sutli ističu trajnu povezanost s prvim susjedima Slovencima. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 02 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a7/a4/20230102-kronika-dana-33654600-20230102213505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.01. 2023-01-01</title>
-    <link>https://api.hrt.hr/media/cd/f9/20230101-kronika-dana-33651650-20230101214055.mp3</link>
-    <description>U ponoć smo kunu zamijenili eurom i ušli u šengenski prostor. Na snagu je stupio Zakon o mirovinskom osiguranju, od sutra se podnose zahtjevi za korištenje dijela obiteljske mirovine umrlog supruga ili supruge. Svijet se oprašta od pape Benedikta 16-og. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 01 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/f9/20230101-kronika-dana-33651650-20230101214055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
