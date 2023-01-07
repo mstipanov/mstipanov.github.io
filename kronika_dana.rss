@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Jan 2023 21:44:41 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 21:46:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.01. 2023-01-07</title>
+    <link>https://api.hrt.hr/media/ca/7d/20230107-kronika-dana-33668984-20230107214035.mp3</link>
+    <description>Oko 200 državnih inspektora krenulo u nadzor neopravdanih poskupljenja. Nema mira u Ukrajini, iako je Vladimir Putin naredio primirje. S božićnih misa iz ukrajinskih i ruskih crkava šalju se političke poruke. Nakon 15 krugova glasovanja Kevin Mc Carthy novi predsjednik Zastupničkog doma američkog Kongresa.: Sanja Rabuzin-Pavić.</description>
+    <pubDate>Sat, 07 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/7d/20230107-kronika-dana-33668984-20230107214035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.01. 2023-01-06</title>
     <link>https://api.hrt.hr/media/af/0a/20230106-kronika-dana-33666866-20230106214030.mp3</link>
     <description>Poduzetnici odgovorili Vladi - osudili prijetnje inspekcijama, poziv da vrate cijene koje su bile posljednjeg dana prošle godine smatraju nepromišljenim. Održan tradicionalni božićni prijam Srpskoga narodnog vijeća, istaknuto da treba rješavati otvorena pitanja između Hrvatske i Srbije.Meksiko zahvatio nezapamćeni val nasilja nakon uhićenja sina ozloglašenog krijumčara droge. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Vlada će na sutrašnjoj sjednici donijeti mjere za sprječavanje neopravdanog poskupljenja nakon uvođenja eura. Sutra u Vatikanu pogreb pape emeritusa Benedikta Šesnaestog. Amerikanka Mikaela Shiffrin pobjednica slaloma na Sljemenu. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 04 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/6b/20230104-kronika-dana-33661045-20230104214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.01. 2023-01-03</title>
-    <link>https://api.hrt.hr/media/4b/8a/20230103-kronika-dana-33657550-20230103213513.mp3</link>
-    <description>Nakon uvođenja eura veliki val poskupljenja - ministar gospodarstva Davor Filipović trgovcima zaprijetio crnim listama i zamrzavanjem cijena. U padu lučke dizalice u Osijeku četvero radnika ozlijeđeno, jedan teško. U Zadru pokopan Massimo Savić. Sport: izvučeni startni brojevi za sutrašnji ženski slalom Snježne kraljice, prva kreće Slovenka Ana Bucik, od naših skijašica Leona Popović je trinaesta, a Zrinka Ljutić sedamnaesta. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 03 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/8a/20230103-kronika-dana-33657550-20230103213513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
