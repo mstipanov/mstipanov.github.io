@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Jan 2023 06:43:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 06:45:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.01. 2023-01-07</title>
+    <link>https://api.hrt.hr/media/0a/32/20230107-jutarnja-kronika-33667416-20230107063531.mp3</link>
+    <description>Premijer Plenković još jedanput upozorio trgovce da vrate cijene na staro. Opet izgred na Kosovu - ranjena dvojica mladih Srba. Pravoslavni vjernici slave Božić. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 07 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0a/32/20230107-jutarnja-kronika-33667416-20230107063531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.01. 2023-01-06</title>
     <link>https://api.hrt.hr/media/e3/4f/20230106-jutarnja-kronika-33665007-20230106063030.mp3</link>
     <description>Vlada inspekcijama kreće u borbu protiv onih koji su uvođenje eura iskoristili za neporavdano podizanje cijena. U podne tradicionalni božićni prijam Srpskog narodnog vijeća. Strašan zločin u Zagrebu - muškarac sjekirom ubio djevojčicu i teško ranio njezinu majku, zatim se na autocesti bacio pod automobil. Amerikanci i Nijemci Ukrajincima šalju borbena oklopna vozila pješaštva - Bradleyje i Mardere. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Vlada zaprijetila trgovcima zbog neopravdanih podizanja cijena nakon uvođenja eura. Bolnički hitni odjeli opterećeni zbog sve više oboljelih od gripe. Na Sljemenu prvi od dvaju slaloma Snježne kraljice.Urednica je Mira Barić</description>
     <pubDate>Wed, 04 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4f/aa/20230104-jutarnja-kronika-33658062-20230104063518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.01. 2023-01-03</title>
-    <link>https://api.hrt.hr/media/cc/81/20230103-jutarnja-kronika-33655155-20230103063515.mp3</link>
-    <description>Zbog neopravdanog zaokruživanja cijena nakon prelaska na euro, u Ministarstvo gospodarstva pozvani predstavnici najvećih trgovačkih lanaca. U ponoć poskupjelo i gorivo. Glavni zapovjednik ukrajinske vojske tvrdi da su oslobodili 40 posto teritorija koji su okupirali Rusi. U Zadru posljednji ispraćaj Massima. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 03 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/81/20230103-jutarnja-kronika-33655155-20230103063515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
