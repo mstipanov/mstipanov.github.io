@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Jan 2023 06:49:20 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 07:19:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.01. 2023-01-09</title>
+    <link>https://api.hrt.hr/media/1f/65/20230109-jutarnja-kronika-33671777-20230109064534.mp3</link>
+    <description>Počinje novo polugodište. Od danas besplatni obroci za sve osnovnoškolce. Tijekom vikenda 200 inspektora češljalo trgovine i kafiće provjeravajući tko je sve neopravdano podizao cijene. Danas će objaviti koliko su nepravilnosti utvrdili. U Braziliji pristaše bivšeg predsjednika Bolsonara upali u Kongres, predsjedničku palaču i Vrhovni sud. Predsjednik Lula da Silva poslao vojsku na ulice. Milorad Dodik odlikovao Vladimira Putina u povodu dana bosanskohercegovačkog entiteta zvanog Republika Srpska. Objavljeno narančasto upozorenje za okolicu Gospića i Knina zbog mogućeg nevremena - najavljena obilna kiša i olujan vjetar. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/65/20230109-jutarnja-kronika-33671777-20230109064534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.01. 2023-01-08</title>
     <link>https://api.hrt.hr/media/5d/42/20230108-jutarnja-kronika-33669548-20230108063033.mp3</link>
     <description>Državni inspektori u nadzoru neopravdanih poskupljenja - sutra bi trebali objaviti koliko su nepravilnosti utvrdili.Epidemiolozi upozoravaju na novu varijantu koronavirusa, poznatu i kao Kraken. Sutra počinje drugo polugodište i provedba projekta besplatnog obroka za osnovnoškolce.Urednica Mira Barić</description>
