@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 08 Jan 2023 14:47:58 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 14:50:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.01. 2023-01-09</title>
+    <link>https://api.hrt.hr/media/8b/10/20230109-dnevne-novosti-33673537-20230109143535.mp3</link>
+    <description>Tijekom dana trebali bismo doznati napušta li Vladu ministar graditeljstva Ivan Paladina. Pola milijuna učenika vratilo se u školske klupe, svi bi trebali dobiti besplatan obrok, ali neke škole za to nemaju prostor ili osoblje. Stotine inspektora na terenu provjerava je li bilo neopravdanih poskupljenja kod prelaska na euro. Pristaše bivšeg brazilskog predsjednika Bolsonara opustošili Kongres, predsjedničku palaču i Vrhovni sud. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 09 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8b/10/20230109-dnevne-novosti-33673537-20230109143535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.01. 2023-01-08</title>
     <link>https://api.hrt.hr/media/9f/09/20230108-dnevne-novosti-33670445-20230108144041.mp3</link>
     <description>Radne nedjelje svima će biti plaćene 50 % više. Gužve i zastoji na granicama s Bosnom i Hercegovinom i Srbijom. Kina nakon tri godine otvorila granice za strane putnike. KFOR nije prihvatio zahtjev srbijanske vlade da na Kosovo vrati vojsku i policiju. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Udruga Glas poduzetnika ideju o objavi crnih lista poduzetnika koji zaokružuju i povisuju cijene zbog uvođenja eura nazvala suludom i nepromišljenom. Na božićnom domjenku SNV-a premijer Andrej Plenković i četvero ministara te dvojica ministara Vlade Srbije - Ivica Dačić i Tomislav Žigmanov. Rusija objavila da je na snazi božićno primirje, Ukrajina pak tvrdi da su Rusi granatirali vatrogasnu postaju u Hersonu. Rimokatolički vjernici slave Sveta tri kralja, pravoslavni vjernici Badnjak. Urednik: Silvio Šop</description>
     <pubDate>Fri, 06 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f7/97/20230106-dnevne-novosti-33666086-20230106143530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.01. 2023-01-05</title>
-    <link>https://api.hrt.hr/media/18/b2/20230105-dnevne-novosti-33663549-20230105144029.mp3</link>
-    <description>Zbog neopravdanih poskupljenja nakon uvođenja eura premijer Plenković najavio inspekcije i sankcije. Strašna tragedija u Zagrebu - muškarac sjekirom ubio jednoipolgodišnju djevojčicu i teško ranio njezinu majku, potom se na autocesti bacio pod automobil. Papa Franjo predvodio pogreb pape emeritusa Benedikta Šesnaestog. Zbog visokih temperatura i vjetra otkazana druga slalomska utrka skijašica na Sljemenu. Urednica: Mira Barić</description>
-    <pubDate>Thu, 05 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/b2/20230105-dnevne-novosti-33663549-20230105144029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
