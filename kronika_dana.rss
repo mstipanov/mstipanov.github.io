@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Jan 2023 21:50:50 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 21:54:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.01. 2023-01-10</title>
+    <link>https://api.hrt.hr/media/4d/5d/20230110-kronika-dana-33677636-20230110213537.mp3</link>
+    <description>Osmero Hrvata na sudu u Zambiji izjavilo da nisu krivi za trgovanje djecom. Mediji večeras prenose neslužbenu vijest da iz Vlade, uz ministra Paladinu, odlazi i Nataša Tramišak. Rusi osvojili gradić Soledar, što ugrožava i obližnji Bahmut koji još drže Ukrajinci. Tek objavljena autobiografija britanskog princa Harryja već je najprodavanija publicistička knjiga u povijesti. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 10 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/5d/20230110-kronika-dana-33677636-20230110213537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.01. 2023-01-09</title>
     <link>https://api.hrt.hr/media/ad/fa/20230109-kronika-dana-33674384-20230109213535.mp3</link>
     <description>Premijer Plenković poručio trgovcima da je rok za vraćanje cijena do petka inače je moguće ukidanje subvencija i dizanje poreza. Od danas u osnovnim školama besplatni obroci.Iz službe udaljen 21-godišnji hrvatski policajac koji je preuzeo poziv za upis u vojnu evidenciju Srbije. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Oko 200 državnih inspektora krenulo u nadzor neopravdanih poskupljenja. Nema mira u Ukrajini, iako je Vladimir Putin naredio primirje. S božićnih misa iz ukrajinskih i ruskih crkava šalju se političke poruke. Nakon 15 krugova glasovanja Kevin Mc Carthy novi predsjednik Zastupničkog doma američkog Kongresa.: Sanja Rabuzin-Pavić.</description>
     <pubDate>Sat, 07 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/7d/20230107-kronika-dana-33668984-20230107214035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.01. 2023-01-06</title>
-    <link>https://api.hrt.hr/media/af/0a/20230106-kronika-dana-33666866-20230106214030.mp3</link>
-    <description>Poduzetnici odgovorili Vladi - osudili prijetnje inspekcijama, poziv da vrate cijene koje su bile posljednjeg dana prošle godine smatraju nepromišljenim. Održan tradicionalni božićni prijam Srpskoga narodnog vijeća, istaknuto da treba rješavati otvorena pitanja između Hrvatske i Srbije.Meksiko zahvatio nezapamćeni val nasilja nakon uhićenja sina ozloglašenog krijumčara droge. Urednica: Mira Barić</description>
-    <pubDate>Fri, 06 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/af/0a/20230106-kronika-dana-33666866-20230106214030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
