@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 05 Jan 2023 17:12:05 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 17:13:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>"Pulske storije" uz Zvjezdana Strahinju 2. DIO 2023-01-12</title>
+    <link>https://api.hrt.hr/media/53/76/20230112-historia-histriae-7907223-20230112155534.mp3</link>
+    <description>U goste nam se vraća novinar i pokretač facebook stranice "Pulske štorije" Zvjezdan Strahinja.....priča nam o domaru Marine Casina, o izgubljenim dječacima Vedranu i Draganu, o cirkusu na Lungo Mare, o šamaru Mussoliniju u Puli i o pulskim farfallinama.....budite s nama i u nastavku putovanja kroz mozaik priča našeg grada!</description>
+    <pubDate>Thu, 12 Jan 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/53/76/20230112-historia-histriae-7907223-20230112155534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>"Pulske storije" uz Zvjezdana Strahinju 1. dio 2023-01-05</title>
     <link>https://api.hrt.hr/media/9a/2e/20230105-historia-histriae-7907209-20230105165528.mp3</link>
     <description>U goste nam dolazi kolega novinar i pokretač facebook stranice "Pulske štorije" Zvjezdan Strahinja. Priče o klubu Uljanik, o pulskim toaletima, o gradskim facama, o mitovima i intrigama na granici stvarnosti.......nevjerojatne priče koje čine mozaik sjećanja generacija......Zvjezdan nam priča o jednom gradu i otkriva njegove tajne.....budite s nama!</description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 10 Nov 2022 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/b7/20221110-historia-histriae-7889392-20221110170039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Historia Histriae 2022-11-03</title>
-    <link>https://api.hrt.hr/media/1d/99/20221103-historia-histriae-7887307-20221103165028.mp3</link>
-    <description>U goste nam dolazi povjesničar Ian Tataj, a govorimo o njegovoj knjizi "Rat, mir i strasti Languedoca"</description>
-    <pubDate>Thu, 03 Nov 2022 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1d/99/20221103-historia-histriae-7887307-20221103165028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
