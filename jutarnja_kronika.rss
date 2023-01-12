@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 11 Jan 2023 06:55:40 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:00:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.01. 2023-01-12</title>
+    <link>https://api.hrt.hr/media/f4/b8/20230112-jutarnja-kronika-33681846-20230112063539.mp3</link>
+    <description>Premijer Plenković predstavio promjene u Vladi - Branko Bačić bit će novi ministar prostornog uređenja, graditeljstva i državne imovine, Šime Erlić regionalnog razvoja i fondova Europske unije. Smijenjeni ministar Ivan Paladina kaže da je odlazak iz Vlade najbolja odluka za sve, Nataša Tramišak nije doznala konkretan razlog smjene. Sud u Zambiji odlučuje hoće li osmero Hrvata osumnjičenih za trgovinu djecom biti pušteno da se brane sa slobode ili će i dalje ostati u zatvoru. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 12 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f4/b8/20230112-jutarnja-kronika-33681846-20230112063539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.01. 2023-01-11</title>
     <link>https://api.hrt.hr/media/ab/d2/20230111-jutarnja-kronika-33678148-20230111063037.mp3</link>
     <description>Održat će se sastanak vladajuće koalicije na kojemu bi se trebale potvrditi promjene u Vladi, navodno uz ministra Paladinu odlazi i ministrica Tramišak. Osmero Hrvata na sudu u Zambiji jučer izjavilo da nije krivo za trgovinu djecom, proces se nastavlja sutra. Više izvora prenosi da su Rusi osvojili gradić Soledar, što ugrožava obližnji Bahmut koji još drže Ukrajinci. Večeras svečana premijera prvijenca Dubravke Turić, filma "Tragovi". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Počinje novo polugodište. Od danas besplatni obroci za sve osnovnoškolce. Tijekom vikenda 200 inspektora češljalo trgovine i kafiće provjeravajući tko je sve neopravdano podizao cijene. Danas će objaviti koliko su nepravilnosti utvrdili. U Braziliji pristaše bivšeg predsjednika Bolsonara upali u Kongres, predsjedničku palaču i Vrhovni sud. Predsjednik Lula da Silva poslao vojsku na ulice. Milorad Dodik odlikovao Vladimira Putina u povodu dana bosanskohercegovačkog entiteta zvanog Republika Srpska. Objavljeno narančasto upozorenje za okolicu Gospića i Knina zbog mogućeg nevremena - najavljena obilna kiša i olujan vjetar. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/65/20230109-jutarnja-kronika-33671777-20230109064534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.01. 2023-01-08</title>
-    <link>https://api.hrt.hr/media/5d/42/20230108-jutarnja-kronika-33669548-20230108063033.mp3</link>
-    <description>Državni inspektori u nadzoru neopravdanih poskupljenja - sutra bi trebali objaviti koliko su nepravilnosti utvrdili.Epidemiolozi upozoravaju na novu varijantu koronavirusa, poznatu i kao Kraken. Sutra počinje drugo polugodište i provedba projekta besplatnog obroka za osnovnoškolce.Urednica Mira Barić</description>
-    <pubDate>Sun, 08 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5d/42/20230108-jutarnja-kronika-33669548-20230108063033.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
