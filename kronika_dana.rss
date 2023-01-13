@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 12 Jan 2023 21:43:54 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 21:45:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.01. 2023-01-13</title>
+    <link>https://api.hrt.hr/media/d8/3a/20230113-kronika-dana-33688300-20230113213538.mp3</link>
+    <description>Premijer je na sjednici Vlade rekao da su mnogi trgovci poslušali i spustili cijene, a za one koji nisu, najavio je rigorozne kazne i još jači inspekcijski nadzor. Bit će predložena nova arhitektura sustava obnove kojoj je cilj ubrzanje procesa. Rusija tvrdi da je zauzela grad Soledar. Ukrajina to opovrgava. SPORT: U prvoj utakmici na svjetskom prvenstvu hrvatski rukometaši izgubili od Egipta. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 13 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d8/3a/20230113-kronika-dana-33688300-20230113213538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.01. 2023-01-12</title>
     <link>https://api.hrt.hr/media/64/a7/20230112-kronika-dana-33684821-20230112214046.mp3</link>
     <description>I danas reakcije na imenovanje novih ministara. Predsjednik Milanović tijekom posjeta Banovini za sporost obnove prozvao premijera Plenkovića. Osmero Hrvata uhićenih u Zambiji branit će se sa slobode. Snažan otpor Ukrajinaca ruskim napadima na Bahmut, ali i Soledar. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Osmero Hrvata na sudu u Zambiji izjavilo da nisu krivi za trgovanje djecom. Mediji večeras prenose neslužbenu vijest da iz Vlade, uz ministra Paladinu, odlazi i Nataša Tramišak. Rusi osvojili gradić Soledar, što ugrožava i obližnji Bahmut koji još drže Ukrajinci. Tek objavljena autobiografija britanskog princa Harryja već je najprodavanija publicistička knjiga u povijesti. Urednica: Sanja Cota</description>
     <pubDate>Tue, 10 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/5d/20230110-kronika-dana-33677636-20230110213537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.01. 2023-01-09</title>
-    <link>https://api.hrt.hr/media/ad/fa/20230109-kronika-dana-33674384-20230109213535.mp3</link>
-    <description>Premijer Plenković poručio trgovcima da je rok za vraćanje cijena do petka inače je moguće ukidanje subvencija i dizanje poreza. Od danas u osnovnim školama besplatni obroci.Iz službe udaljen 21-godišnji hrvatski policajac koji je preuzeo poziv za upis u vojnu evidenciju Srbije. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 09 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ad/fa/20230109-kronika-dana-33674384-20230109213535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
