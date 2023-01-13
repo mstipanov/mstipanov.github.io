@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 12 Jan 2023 07:00:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 06:44:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Premijer Andrej Plenković poručio trgovcima da je rok za vraćanje cijena do petka. Ako se to ne dogodi, moguće je ukidanje subvencija i povećanje poreza. Najavljene su i kadrovske promjene kojima se želi ubrzati obnova. Od jučer u osnovnim školama besplatni obroci, problem je što škole nemaju iste uvjete za njihovu pripremu. Večeras 80. dodjela Zlatnih globusa za filmska i televizijska ostvarenja. Urednik: Silvio Šop</description>
     <pubDate>Tue, 10 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8c/d6/20230110-jutarnja-kronika-33674903-20230110063536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.01. 2023-01-09</title>
-    <link>https://api.hrt.hr/media/1f/65/20230109-jutarnja-kronika-33671777-20230109064534.mp3</link>
-    <description>Počinje novo polugodište. Od danas besplatni obroci za sve osnovnoškolce. Tijekom vikenda 200 inspektora češljalo trgovine i kafiće provjeravajući tko je sve neopravdano podizao cijene. Danas će objaviti koliko su nepravilnosti utvrdili. U Braziliji pristaše bivšeg predsjednika Bolsonara upali u Kongres, predsjedničku palaču i Vrhovni sud. Predsjednik Lula da Silva poslao vojsku na ulice. Milorad Dodik odlikovao Vladimira Putina u povodu dana bosanskohercegovačkog entiteta zvanog Republika Srpska. Objavljeno narančasto upozorenje za okolicu Gospića i Knina zbog mogućeg nevremena - najavljena obilna kiša i olujan vjetar. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1f/65/20230109-jutarnja-kronika-33671777-20230109064534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
