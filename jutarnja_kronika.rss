@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Jan 2023 07:14:36 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 06:40:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.01. 2023-01-14</title>
+    <link>https://api.hrt.hr/media/6d/77/20230114-jutarnja-kronika-33688899-20230114063050.mp3</link>
+    <description>Još samo danas u Hrvatskoj možemo plaćati kunama. Od sutra - samo eurima. Iako se Rusija hvali da je zauzela Soledar, ukrajinski predsjednik Zelenski tvrdi da se borbe za taj grad nastavljaju. Težak poraz hrvatskih rukometaša na početku Svjetskog prvenstva. Egipat je bio bolji - 31:22. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 14 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6d/77/20230114-jutarnja-kronika-33688899-20230114063050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.01. 2023-01-13</title>
     <link>https://api.hrt.hr/media/2c/29/20230113-jutarnja-kronika-33685368-20230113063508.mp3</link>
     <description>U ponoć istekao ultimatum koji je Vlada dala svima koji su zbog uvođenja eura neopravdano podignuli cijene.Još samo dva dana možemo plaćati u kunama, od nedjelje isključivo u eurima. Pokrenuta istraga protiv predsjednika Bidena nakon što su povjerljivi vladini dokumenti nađeni i u njegovoj kući. Naši rukometaši na Svjetskom prvenstvu igraju prvu utakmicu protiv Egipta. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Održat će se sastanak vladajuće koalicije na kojemu bi se trebale potvrditi promjene u Vladi, navodno uz ministra Paladinu odlazi i ministrica Tramišak. Osmero Hrvata na sudu u Zambiji jučer izjavilo da nije krivo za trgovinu djecom, proces se nastavlja sutra. Više izvora prenosi da su Rusi osvojili gradić Soledar, što ugrožava obližnji Bahmut koji još drže Ukrajinci. Večeras svečana premijera prvijenca Dubravke Turić, filma "Tragovi". Urednik: Silvio Šop</description>
     <pubDate>Wed, 11 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ab/d2/20230111-jutarnja-kronika-33678148-20230111063037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.01. 2023-01-10</title>
-    <link>https://api.hrt.hr/media/8c/d6/20230110-jutarnja-kronika-33674903-20230110063536.mp3</link>
-    <description>Premijer Andrej Plenković poručio trgovcima da je rok za vraćanje cijena do petka. Ako se to ne dogodi, moguće je ukidanje subvencija i povećanje poreza. Najavljene su i kadrovske promjene kojima se želi ubrzati obnova. Od jučer u osnovnim školama besplatni obroci, problem je što škole nemaju iste uvjete za njihovu pripremu. Večeras 80. dodjela Zlatnih globusa za filmska i televizijska ostvarenja. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 10 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8c/d6/20230110-jutarnja-kronika-33674903-20230110063536.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
