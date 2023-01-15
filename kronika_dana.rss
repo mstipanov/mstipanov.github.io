@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 14 Jan 2023 22:12:11 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 21:36:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>I danas reakcije na imenovanje novih ministara. Predsjednik Milanović tijekom posjeta Banovini za sporost obnove prozvao premijera Plenkovića. Osmero Hrvata uhićenih u Zambiji branit će se sa slobode. Snažan otpor Ukrajinaca ruskim napadima na Bahmut, ali i Soledar. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 12 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/64/a7/20230112-kronika-dana-33684821-20230112214046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.01. 2023-01-11</title>
-    <link>https://api.hrt.hr/media/a0/8b/20230111-kronika-dana-33681294-20230111213538.mp3</link>
-    <description>Branko Bačić bit će novi ministar prostornog uređenja, graditeljstva i državne imovine, a Šime Erlić regionalnog razvoja i fondova Europske unije.Smijenjeni ministar Ivan Paladina kaže da je odlazak iz Vlade premijeru najavio prije dva mjeseca, a Nataša Tramišak nije doznala konkretan razlog smjene. Zbog slučaja žene s Brača, koja je na trajektu pobacila u trećemu mjesecu trudnoće, ministar zdravstva šalje inspekciju u KBC Split.	Normaliziran zračni promet u Sjedinjenim Državama nakon što su satima bili otkazani svi domaći letovi. Urednica: Mira Barić</description>
-    <pubDate>Wed, 11 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/8b/20230111-kronika-dana-33681294-20230111213538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
