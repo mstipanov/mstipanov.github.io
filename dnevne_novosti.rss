@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 14 Jan 2023 14:41:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 14:43:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Reakcije na smjenu dvoje ministara u Vladi: oporba ih kritizira, u HDZ-u tvrde da Nataša Tramišak nije kolateralna žrtva frakcijskih borbi u stranci. Hrvatima uhićenima u Zambiji određena jamčevina, smiju se braniti sa slobode, no ne smiju napustiti tu zemlju. Sutra istječe ultimatum koji je premijer Plenković dao onima koji su podignuli cijene zbog prelaska na euro. Urednica: Mira Barić</description>
     <pubDate>Thu, 12 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6a/cc/20230112-dnevne-novosti-33683948-20230112144535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.01. 2023-01-11</title>
-    <link>https://api.hrt.hr/media/27/7a/20230111-dnevne-novosti-33680162-20230111143541.mp3</link>
-    <description>Očekuje se da premijer Plenković objavi promjene u Vladi. Transplantacijski tim KBC-a Zagreb dječaku presadio pluća, a muškarcu istodobno jetru i srce. Kijev je jutros opovrgnuo da su Rusi zauzeli grad Soledar. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 11 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/7a/20230111-dnevne-novosti-33680162-20230111143541.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
