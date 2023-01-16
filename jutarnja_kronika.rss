@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Jan 2023 06:43:01 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 06:37:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.01. 2023-01-16</title>
+    <link>https://api.hrt.hr/media/41/e3/20230116-jutarnja-kronika-33693483-20230116063516.mp3</link>
+    <description>Kandidati za nove ministre bit će saslušani na saborskim odborima. Prvi je radni dan u kojem plaćamo samo eurima, a euri se više ne mogu podizati na bilo kojem bankomatu bez naknade. Osmero Hrvata, uhićenih u Zambiji zbog sumnjiva posvojenja, danas bi mogli izaći iz pritvora. Broj poginulih u stambenoj zgradi u Dnjipru, koju je pogodio ruski projektil, popeo se na 29, a sedamdeset i tri osobe vode se kao nestale. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/41/e3/20230116-jutarnja-kronika-33693483-20230116063516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.01. 2023-01-15</title>
     <link>https://api.hrt.hr/media/8f/2b/20230115-jutarnja-kronika-33691091-20230115063011.mp3</link>
     <description>Jedna je osoba poginula, a 11 je ozlijeđeno nakon sinoćnjeg sudara na autocesti kod Nove Gradiške, u kojem je sudjelovalo deset automobila, tri teretnjaka i autobus. Promet u smjeru Lipovca još je prekinut. Od ponoći kuna je otišla u povijest, euro je postao jedina hrvatska valuta. 31-va je obljetnica međunarodnog priznanja Hrvatske i 25-a mirne reintegracije Podunavlja. Rusi i dalje snažno raketiraju Ukrajinu, u razorenoj stambenoj zgradi u Dnjipru poginulo je 14 osoba. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U ponoć istekao ultimatum koji je Vlada dala svima koji su zbog uvođenja eura neopravdano podignuli cijene.Još samo dva dana možemo plaćati u kunama, od nedjelje isključivo u eurima. Pokrenuta istraga protiv predsjednika Bidena nakon što su povjerljivi vladini dokumenti nađeni i u njegovoj kući. Naši rukometaši na Svjetskom prvenstvu igraju prvu utakmicu protiv Egipta. Urednica Mira Barić</description>
     <pubDate>Fri, 13 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2c/29/20230113-jutarnja-kronika-33685368-20230113063508.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.01. 2023-01-12</title>
-    <link>https://api.hrt.hr/media/f4/b8/20230112-jutarnja-kronika-33681846-20230112063539.mp3</link>
-    <description>Premijer Plenković predstavio promjene u Vladi - Branko Bačić bit će novi ministar prostornog uređenja, graditeljstva i državne imovine, Šime Erlić regionalnog razvoja i fondova Europske unije. Smijenjeni ministar Ivan Paladina kaže da je odlazak iz Vlade najbolja odluka za sve, Nataša Tramišak nije doznala konkretan razlog smjene. Sud u Zambiji odlučuje hoće li osmero Hrvata osumnjičenih za trgovinu djecom biti pušteno da se brane sa slobode ili će i dalje ostati u zatvoru. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 12 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f4/b8/20230112-jutarnja-kronika-33681846-20230112063539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
