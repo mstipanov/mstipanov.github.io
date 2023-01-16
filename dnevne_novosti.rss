@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Jan 2023 15:13:53 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 15:07:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.01. 2023-01-16</title>
+    <link>https://api.hrt.hr/media/3f/58/20230116-dnevne-novosti-33695515-20230116144018.mp3</link>
+    <description>Mjerodavni saborski odbori podržali kandidate za nove ministre Branka Bačića i Šimu Erlića. U Italiji uhićen najtraženiji mafijaški boss Matteo Messina Denaro, vođa zloglasne sicilijanske Cosa Nostre i jedan od deset najtraženijih kriminalaca na svijetu. U Baranji slavni holivudski glumci, snima se američki triler u režiji Vjekoslava Katušina. Urednica: Mira Barić</description>
+    <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/58/20230116-dnevne-novosti-33695515-20230116144018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.01. 2023-01-15</title>
     <link>https://api.hrt.hr/media/5d/11/20230115-dnevne-novosti-33692055-20230115144013.mp3</link>
     <description>31. je obljetnica međunarodnog priznanja Hrvatske i 25. mirne reintegracije hrvatskoga Podunavlja. Najmanje je 68 ljudi poginulo u padu zrakoplova u Nepalu. U Ukrajini raste broj žrtava ruskoga projektila koji je pogodio zgradu u gradu Dnjipru. Poginula je 21 osoba. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Rusija tvrdi da je njezina vojska zauzela grad Soledar. Sljedeći cilj je grad Bahmut. Nakon inspekcijskog nadzora, većina tvrtki i obrta vraća cijene na staro. Novi ministri sljedeći će tjedan biti predstavljeni u Saboru. Hrvatskim rukometašima večeras počinje Svjetsko prvenstvo. Prvi ispit - Egipat. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 13 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/e5/20230113-dnevne-novosti-33687435-20230113143507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.01. 2023-01-12</title>
-    <link>https://api.hrt.hr/media/6a/cc/20230112-dnevne-novosti-33683948-20230112144535.mp3</link>
-    <description>Reakcije na smjenu dvoje ministara u Vladi: oporba ih kritizira, u HDZ-u tvrde da Nataša Tramišak nije kolateralna žrtva frakcijskih borbi u stranci. Hrvatima uhićenima u Zambiji određena jamčevina, smiju se braniti sa slobode, no ne smiju napustiti tu zemlju. Sutra istječe ultimatum koji je premijer Plenković dao onima koji su podignuli cijene zbog prelaska na euro. Urednica: Mira Barić</description>
-    <pubDate>Thu, 12 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6a/cc/20230112-dnevne-novosti-33683948-20230112144535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
