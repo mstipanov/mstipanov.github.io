@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 16 Jan 2023 15:07:48 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 14:39:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Još samo do ponoći može se plaćati i u eurima i u kunama. Rusi jutros raketirali Kijev, Harkiv i Zaporižju, zračna opasnost oglašena za cijelu Ukrajinu. SDP i Inicijativa "Javno je dobro" protive se izmjenama Zakona o pomorskom dobru. U Osijeku još danas sajam vina, delicija i ugodnog življenja - WineOs. Urednik: Silvio Šop</description>
     <pubDate>Sat, 14 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a3/d2/20230114-dnevne-novosti-33689804-20230114143549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.01. 2023-01-13</title>
-    <link>https://api.hrt.hr/media/b8/e5/20230113-dnevne-novosti-33687435-20230113143507.mp3</link>
-    <description>Rusija tvrdi da je njezina vojska zauzela grad Soledar. Sljedeći cilj je grad Bahmut. Nakon inspekcijskog nadzora, većina tvrtki i obrta vraća cijene na staro. Novi ministri sljedeći će tjedan biti predstavljeni u Saboru. Hrvatskim rukometašima večeras počinje Svjetsko prvenstvo. Prvi ispit - Egipat. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 13 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/e5/20230113-dnevne-novosti-33687435-20230113143507.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
