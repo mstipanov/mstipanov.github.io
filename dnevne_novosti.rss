@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 18 Jan 2023 14:58:15 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 15:00:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.01. 2023-01-19</title>
+    <link>https://api.hrt.hr/media/71/dc/20230119-dnevne-novosti-33706789-20230119144028.mp3</link>
+    <description>Obilni kiše i snijeg ponovno izazvali opasnost od poplava, ponajprije na sisačkom i karlovačkom području. Na Svjetskome gospodarskom forumu u Davosu premijer Plenković razgovarao sa srbijanskim predsjednikom Vučićem. Izgradnja spalionice opasnog otpada u sklopu KBC-a Zagreb ugrozila bi građane - upozoravaju iz građanske inicijative "Stop spalionici Rebro". U Francuskoj masovni štrajk zbog najavljene mirovinske reforme predsjednika Makrona. Urednica: Mira Barić</description>
+    <pubDate>Thu, 19 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/dc/20230119-dnevne-novosti-33706789-20230119144028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.01. 2023-01-18</title>
     <link>https://api.hrt.hr/media/ca/57/20230118-dnevne-novosti-33703064-20230118143524.mp3</link>
     <description>U padu helikoptera kod Kijeva poginuo i ukrajinski ministar unutarnjih poslova. Novi ministar graditeljstva najavio kraće administrativne procedure, no za gradnju kuće nakon potresa nema građevinskih radnika. Stopa inflacije u prosincu u eurozoni 9,2 posto. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Mjerodavni saborski odbori podržali kandidate za nove ministre Branka Bačića i Šimu Erlića. U Italiji uhićen najtraženiji mafijaški boss Matteo Messina Denaro, vođa zloglasne sicilijanske Cosa Nostre i jedan od deset najtraženijih kriminalaca na svijetu. U Baranji slavni holivudski glumci, snima se američki triler u režiji Vjekoslava Katušina. Urednica: Mira Barić</description>
     <pubDate>Mon, 16 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3f/58/20230116-dnevne-novosti-33695515-20230116144018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.01. 2023-01-15</title>
-    <link>https://api.hrt.hr/media/5d/11/20230115-dnevne-novosti-33692055-20230115144013.mp3</link>
-    <description>31. je obljetnica međunarodnog priznanja Hrvatske i 25. mirne reintegracije hrvatskoga Podunavlja. Najmanje je 68 ljudi poginulo u padu zrakoplova u Nepalu. U Ukrajini raste broj žrtava ruskoga projektila koji je pogodio zgradu u gradu Dnjipru. Poginula je 21 osoba. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 15 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5d/11/20230115-dnevne-novosti-33692055-20230115144013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
