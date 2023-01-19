@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 18 Jan 2023 21:58:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 22:00:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.01. 2023-01-19</title>
+    <link>https://api.hrt.hr/media/2c/c3/20230119-kronika-dana-33707829-20230119213522.mp3</link>
+    <description>Visok vodostaj rijeka zbog obilnih kiša. Sljedećih bi se dana stanje trebalo stabilizirati. Hrvatska je u eurozoni zaštićenija od inflacije i utjecaja globalne krize, izjavio u Davosu na Svjetskome gospodarskom forumu premijer Plenković. U Kijevu razgovarali predsjednik Europskog vijeća Charles Michel i ukrajinski predsjednik Zelenski. Francuzi na masovnim prosvjedima, ne žele u mirovinu tek u 64.-oj. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 19 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/c3/20230119-kronika-dana-33707829-20230119213522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.01. 2023-01-18</title>
     <link>https://api.hrt.hr/media/80/e8/20230118-kronika-dana-33704081-20230118214025.mp3</link>
     <description>U padu helikoptera nedaleko od Kijeva poginulo 14-ero ljudi među kojima jedno dijete i cijeli vrh ukrajinskog Ministarstva unutarnjih poslova.Rastu vodostaji karlovačkih rijeka; izvanredne mjere obrane od poplave i u Lici.Ne prestaju reakcije na pohvale Segeja Lavrova upućene predsjedniku Milanoviću zbog izjave da Vašington i NATO preko Ukrajine vode rat protiv Rusije. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Sutra u Saboru glasovanje o novim minsitrima Branku Bačiću i Šimi Erliću. Cijene hrane u Europskoj uniji prošle su godine porasle 24 posto, a cijene žitarica u Hrvatskoj 52. Do sada u ruskoj agresiji na Ukrajinu poginulo 7 tisuća civila. Uredila: Sanja Cota</description>
     <pubDate>Mon, 16 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2b/3f/20230116-kronika-dana-33696470-20230116214516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.01. 2023-01-15</title>
-    <link>https://api.hrt.hr/media/3d/4a/20230115-kronika-dana-33692924-20230115214511.mp3</link>
-    <description>Kandidati za nove ministre sutra će biti saslušani na saborskim odborima. Hrvatska se prisjetila međunarodnog priznanja i mirne reintegracije Podunavlja. Nakon poraza od Egipta, hrvatski rukometaši nadigrali Amerikance za prvu pobjedu na Svjetskom prvenstvu. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 15 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3d/4a/20230115-kronika-dana-33692924-20230115214511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
