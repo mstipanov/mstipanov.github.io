@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Jan 2023 06:59:35 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 07:01:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.01. 2023-01-20</title>
+    <link>https://api.hrt.hr/media/1d/0d/20230120-jutarnja-kronika-33708378-20230120064036.mp3</link>
+    <description>Vodeni val koji se spušta Kupom poslijepodne dolazi do Petrinje, gdje su nasipi oštećeni u potresu. I trgovački lanac Tommy pridružuje se Konzumu i KTC-u u slanju podataka Ministarstvu gospodarstva o cijeni najprodavanijih proizvoda. Danas u bazi Ramsteinu u Njemačkoj veliki skup o naoružavanju Ukrajine. U Francuskoj više od milijun ljudi prosvjeduje protiv mirovinske reforme. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 20 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/0d/20230120-jutarnja-kronika-33708378-20230120064036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.01. 2023-01-19</title>
     <link>https://api.hrt.hr/media/69/79/20230119-jutarnja-kronika-33704647-20230119063523.mp3</link>
     <description>Ukrajinski predsjednik Zelenski traži od Zapada da pošalje još oružja. New York Times piše kako Amerika podupire Kijev da ponovno preuzme nadzor nad Krimom. U Francuskoj masovni prosvjedi i štrajkovi protiv mirovinske reforme. Hrvatske rukometaše čeka težak protivnik - dvostruki svjetski prvak Danska. Donna Vekić u trećem kolu Australian Opena. Zbog obilnih kiša rastu vodostaji rijeka. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Sabor počinje zasjedanje nakon jednomjesečne stanke, glasovat će o novim minsitrima Branku Bačiću i Šimi Erliću. Od ponoći benzin skuplji, a dizel jeftiniji za jedan cent po litri. Osmero Hrvata, osumnjičenih za pokušaj trgovine djecom, još je u pritvoru u Zambiji. Diljem svijeta obilježit će se Rođendan umjetnosti. Urednik: Silvio Šop</description>
     <pubDate>Tue, 17 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9c/55/20230117-jutarnja-kronika-33697027-20230117063044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.01. 2023-01-16</title>
-    <link>https://api.hrt.hr/media/41/e3/20230116-jutarnja-kronika-33693483-20230116063516.mp3</link>
-    <description>Kandidati za nove ministre bit će saslušani na saborskim odborima. Prvi je radni dan u kojem plaćamo samo eurima, a euri se više ne mogu podizati na bilo kojem bankomatu bez naknade. Osmero Hrvata, uhićenih u Zambiji zbog sumnjiva posvojenja, danas bi mogli izaći iz pritvora. Broj poginulih u stambenoj zgradi u Dnjipru, koju je pogodio ruski projektil, popeo se na 29, a sedamdeset i tri osobe vode se kao nestale. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/41/e3/20230116-jutarnja-kronika-33693483-20230116063516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
