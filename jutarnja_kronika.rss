@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 20 Jan 2023 07:01:29 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 07:03:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.01. 2023-01-21</title>
+    <link>https://api.hrt.hr/media/fa/4b/20230121-jutarnja-kronika-33711689-20230121063533.mp3</link>
+    <description>Ukrajini stiže novi veliki paket zapadne vojne pomoći, no bez njemačkih Leoparda. Moskva prijeti da će Zapad požaliti zabludu da Ukrajina može pobijediti. Bačić najavio da bi Banovina u veljači trebala postati veliko gradilište. U Zadru središnja svečanost u povodu 30. obljetnice vojno-redarstvene operacije Maslenice. Primopredajom ključeva grada i izborom kraljice počeo jubilarni 40. Riječki karneval. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 21 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fa/4b/20230121-jutarnja-kronika-33711689-20230121063533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.01. 2023-01-20</title>
     <link>https://api.hrt.hr/media/1d/0d/20230120-jutarnja-kronika-33708378-20230120064036.mp3</link>
     <description>Vodeni val koji se spušta Kupom poslijepodne dolazi do Petrinje, gdje su nasipi oštećeni u potresu. I trgovački lanac Tommy pridružuje se Konzumu i KTC-u u slanju podataka Ministarstvu gospodarstva o cijeni najprodavanijih proizvoda. Danas u bazi Ramsteinu u Njemačkoj veliki skup o naoružavanju Ukrajine. U Francuskoj više od milijun ljudi prosvjeduje protiv mirovinske reforme. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Novi ministri Branko Bačić i Šime Erlić dobili potporu većine u Saboru. Inflacija u prosincu 13 cijelih jedan posto. Premijer Plenković na Svjetskom gospodarskom forumu u Davosu. U 118.-oj godini umrla najstarija osoba na svijetu. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 18 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2e/bd/20230118-jutarnja-kronika-33700838-20230118063523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.01. 2023-01-17</title>
-    <link>https://api.hrt.hr/media/9c/55/20230117-jutarnja-kronika-33697027-20230117063044.mp3</link>
-    <description>Sabor počinje zasjedanje nakon jednomjesečne stanke, glasovat će o novim minsitrima Branku Bačiću i Šimi Erliću. Od ponoći benzin skuplji, a dizel jeftiniji za jedan cent po litri. Osmero Hrvata, osumnjičenih za pokušaj trgovine djecom, još je u pritvoru u Zambiji. Diljem svijeta obilježit će se Rođendan umjetnosti. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 17 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/55/20230117-jutarnja-kronika-33697027-20230117063044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
