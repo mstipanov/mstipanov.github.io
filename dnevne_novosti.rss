@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 20 Jan 2023 15:02:11 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 15:04:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.01. 2023-01-21</title>
+    <link>https://api.hrt.hr/media/69/4a/20230121-dnevne-novosti-33712597-20230121144036.mp3</link>
+    <description>Snijeg zabijelio Dalmaciju, zbog jake bure na snazi crveni meteoalarm. U Zadru se obilježava 30. obljetnica vojno-redarstvene akcije Maslenica. Sjedinjene Države proglasile rusku poluprivatnu vojsku Wagner kriminalnom organizacijom. Drugi je i završni dan posjeta predsjednika Zorana Milanovića Mađarskoj. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 21 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/69/4a/20230121-dnevne-novosti-33712597-20230121144036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.01. 2023-01-20</title>
     <link>https://api.hrt.hr/media/d9/a9/20230120-dnevne-novosti-33710267-20230120143530.mp3</link>
     <description>Državni inspektorat u čak četvrtini nadzora utvrdio neopravdano povećanje cijena usluga u prosjeku 20 posto, u nekima čak 126 posto. U američkoj zračnoj bazi u Ramsteinu čelnici obrane zemalja NATO-a razgovaraju o novoj pomoći u oružju Ukrajini. Predsjednik Milanović u dvodnevnom službenom posjetu Mađarskoj. Na turističkom sajmu u Stuttgartu Hrvatska među traženijim odredištima. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U padu helikoptera kod Kijeva poginuo i ukrajinski ministar unutarnjih poslova. Novi ministar graditeljstva najavio kraće administrativne procedure, no za gradnju kuće nakon potresa nema građevinskih radnika. Stopa inflacije u prosincu u eurozoni 9,2 posto. Urednica: Sanja Cota</description>
     <pubDate>Wed, 18 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/57/20230118-dnevne-novosti-33703064-20230118143524.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.01. 2023-01-17</title>
-    <link>https://api.hrt.hr/media/a3/05/20230117-dnevne-novosti-33699255-20230117144025.mp3</link>
-    <description>U Saboru povjerenje dobila dvojica novih ministara Branko Bačić i Šime Erlić. Inflacija je u prosincu iznosila 13,1 posto. Svjetski čelnici iz Davosa obećavaju daljnju pomoć Ukrajini, a Rusija najavljuje povećanje broja vojnika na milijun i 500 tisuća. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 17 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a3/05/20230117-dnevne-novosti-33699255-20230117144025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
