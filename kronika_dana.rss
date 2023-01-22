@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 21 Jan 2023 22:04:46 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 22:06:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.01. 2023-01-22</title>
+    <link>https://api.hrt.hr/media/d3/b6/20230122-kronika-dana-33715990-20230122214008.mp3</link>
+    <description>Zbog olujnog vjetra i snijega ograničenja u prometu. Deset mrtvih u pucnjavi na proslavi kineske Nove godine u Kaliforniji! Ubojica u bijegu! Ukrajina i dalje traži što bržu isporuku njemačkih tenkova, u Parizu sastanak Scholtza i Macrona. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 22 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d3/b6/20230122-kronika-dana-33715990-20230122214008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.01. 2023-01-21</title>
     <link>https://api.hrt.hr/media/db/bc/20230121-kronika-dana-33713452-20230121214535.mp3</link>
     <description>Zbog snijega i olujnog vjetra ni večeras nema prohodne ceste prema moru. Policija u suradnji s USKOKOM istražuje slučaj Zambija. U Zadru održana glavna svečanost u povodu 30.-te obljetnice vojno-redarstvene operacije "Maslenica". Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Visok vodostaj rijeka zbog obilnih kiša. Sljedećih bi se dana stanje trebalo stabilizirati. Hrvatska je u eurozoni zaštićenija od inflacije i utjecaja globalne krize, izjavio u Davosu na Svjetskome gospodarskom forumu premijer Plenković. U Kijevu razgovarali predsjednik Europskog vijeća Charles Michel i ukrajinski predsjednik Zelenski. Francuzi na masovnim prosvjedima, ne žele u mirovinu tek u 64.-oj. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 19 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2c/c3/20230119-kronika-dana-33707829-20230119213522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.01. 2023-01-18</title>
-    <link>https://api.hrt.hr/media/80/e8/20230118-kronika-dana-33704081-20230118214025.mp3</link>
-    <description>U padu helikoptera nedaleko od Kijeva poginulo 14-ero ljudi među kojima jedno dijete i cijeli vrh ukrajinskog Ministarstva unutarnjih poslova.Rastu vodostaji karlovačkih rijeka; izvanredne mjere obrane od poplave i u Lici.Ne prestaju reakcije na pohvale Segeja Lavrova upućene predsjedniku Milanoviću zbog izjave da Vašington i NATO preko Ukrajine vode rat protiv Rusije. Urednica: Mira Barić</description>
-    <pubDate>Wed, 18 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/80/e8/20230118-kronika-dana-33704081-20230118214025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
