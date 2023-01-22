@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Jan 2023 14:36:07 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 15:06:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.01. 2023-01-22</title>
+    <link>https://api.hrt.hr/media/70/4c/20230122-dnevne-novosti-33714973-20230122145008.mp3</link>
+    <description>Za razliku od jučer, danas prohodne autoceste prema moru. Vojno-redarstvena operacija Maslenica počela je na današnji dan prije 30 godina. Najmanje deset osoba ubijeno u pucnjavi u Kaliforniji, ubojica u bijegu. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 22 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/70/4c/20230122-dnevne-novosti-33714973-20230122145008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.01. 2023-01-21</title>
     <link>https://api.hrt.hr/media/69/4a/20230121-dnevne-novosti-33712597-20230121144036.mp3</link>
     <description>Snijeg zabijelio Dalmaciju, zbog jake bure na snazi crveni meteoalarm. U Zadru se obilježava 30. obljetnica vojno-redarstvene akcije Maslenica. Sjedinjene Države proglasile rusku poluprivatnu vojsku Wagner kriminalnom organizacijom. Drugi je i završni dan posjeta predsjednika Zorana Milanovića Mađarskoj. Urednik: Silvio Šop</description>
