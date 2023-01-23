@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Jan 2023 07:05:28 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 07:24:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.01. 2023-01-23</title>
+    <link>https://api.hrt.hr/media/e1/86/20230123-jutarnja-kronika-33716574-20230123065517.mp3</link>
+    <description>Zbog olujne bure i snijega unutrašnjost zemlje odsječena od priobalja. Danas će se održati novo sudsko ročište za osmero Hrvata optuženih za trgovanje djecom u Zambiji. Hoće li prijedlog novog Zakona o pomorskom dobru omogućiti da hrvatsku obalu privatiziraju veliki hotelski lanci?. 72-godišnjak osumnjičen za ubojstvo desetero ljudi u Kaliforniji počinio samoubojstvo. Urednik: Mislav Togonal.</description>
+    <pubDate>Mon, 23 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/86/20230123-jutarnja-kronika-33716574-20230123065517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.01. 2023-01-22</title>
     <link>https://api.hrt.hr/media/fd/04/20230122-jutarnja-kronika-33714010-20230122063008.mp3</link>
     <description>Snijeg i olujni vjetar i dalje stvaraju probleme u cestovnom i pomorskom prometu. Nastavlja se obilježavanje 30. obljetnice vojno-redarstvene operacije "Maslenica". Policija u suradnji s USKOKOM istražuje slučaj Hrvata uhićenih u Zambiji zbog sumnjiva posvojenja djece. U Zagrebu će biti dodijeljena nagrada "Fric" za najbolju fikcijsku prozu prošle godine. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vodeni val koji se spušta Kupom poslijepodne dolazi do Petrinje, gdje su nasipi oštećeni u potresu. I trgovački lanac Tommy pridružuje se Konzumu i KTC-u u slanju podataka Ministarstvu gospodarstva o cijeni najprodavanijih proizvoda. Danas u bazi Ramsteinu u Njemačkoj veliki skup o naoružavanju Ukrajine. U Francuskoj više od milijun ljudi prosvjeduje protiv mirovinske reforme. Urednik: Mislav Togonal</description>
     <pubDate>Fri, 20 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1d/0d/20230120-jutarnja-kronika-33708378-20230120064036.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.01. 2023-01-19</title>
-    <link>https://api.hrt.hr/media/69/79/20230119-jutarnja-kronika-33704647-20230119063523.mp3</link>
-    <description>Ukrajinski predsjednik Zelenski traži od Zapada da pošalje još oružja. New York Times piše kako Amerika podupire Kijev da ponovno preuzme nadzor nad Krimom. U Francuskoj masovni prosvjedi i štrajkovi protiv mirovinske reforme. Hrvatske rukometaše čeka težak protivnik - dvostruki svjetski prvak Danska. Donna Vekić u trećem kolu Australian Opena. Zbog obilnih kiša rastu vodostaji rijeka. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 19 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/79/20230119-jutarnja-kronika-33704647-20230119063523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
