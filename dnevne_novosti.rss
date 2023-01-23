@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Jan 2023 15:06:10 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 14:54:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.01. 2023-01-23</title>
+    <link>https://api.hrt.hr/media/9e/77/20230123-dnevne-novosti-33718563-20230123144026.mp3</link>
+    <description>Iako se bura smiruje, i danas zbog snijega problemi u cestovnom prometu. Radnici zagrebačke Čistoće u štrajku - traže da se hitno na posao vrate trojica kolega koji su dobili otkaze. Dok Europa odlučuje o slanju tenkova u Ukrajinu, Sergej Lavrov poručuje da je Rusija u pravom ratu sa Zapadom. Urednica: Mira Barić</description>
+    <pubDate>Mon, 23 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9e/77/20230123-dnevne-novosti-33718563-20230123144026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.01. 2023-01-22</title>
     <link>https://api.hrt.hr/media/70/4c/20230122-dnevne-novosti-33714973-20230122145008.mp3</link>
     <description>Za razliku od jučer, danas prohodne autoceste prema moru. Vojno-redarstvena operacija Maslenica počela je na današnji dan prije 30 godina. Najmanje deset osoba ubijeno u pucnjavi u Kaliforniji, ubojica u bijegu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Državni inspektorat u čak četvrtini nadzora utvrdio neopravdano povećanje cijena usluga u prosjeku 20 posto, u nekima čak 126 posto. U američkoj zračnoj bazi u Ramsteinu čelnici obrane zemalja NATO-a razgovaraju o novoj pomoći u oružju Ukrajini. Predsjednik Milanović u dvodnevnom službenom posjetu Mađarskoj. Na turističkom sajmu u Stuttgartu Hrvatska među traženijim odredištima. Urednica: Mira Barić</description>
     <pubDate>Fri, 20 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d9/a9/20230120-dnevne-novosti-33710267-20230120143530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.01. 2023-01-19</title>
-    <link>https://api.hrt.hr/media/71/dc/20230119-dnevne-novosti-33706789-20230119144028.mp3</link>
-    <description>Obilni kiše i snijeg ponovno izazvali opasnost od poplava, ponajprije na sisačkom i karlovačkom području. Na Svjetskome gospodarskom forumu u Davosu premijer Plenković razgovarao sa srbijanskim predsjednikom Vučićem. Izgradnja spalionice opasnog otpada u sklopu KBC-a Zagreb ugrozila bi građane - upozoravaju iz građanske inicijative "Stop spalionici Rebro". U Francuskoj masovni štrajk zbog najavljene mirovinske reforme predsjednika Makrona. Urednica: Mira Barić</description>
-    <pubDate>Thu, 19 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/dc/20230119-dnevne-novosti-33706789-20230119144028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
