@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Jan 2023 14:54:59 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 14:56:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.01. 2023-01-24</title>
+    <link>https://api.hrt.hr/media/14/17/20230124-dnevne-novosti-33722385-20230124144017.mp3</link>
+    <description>Radnici zagrebačke Čistoće nastavljaju štrajk dok se ne ispune njihovi zahtjevi. Uprava tvrdi da je štrajk nezakonit. U međuvremenu, sve je više smeća na ulicama metropole. Ministar graditeljstva Branko Bačić tijekom posjeta Banovini najavio do polovice idućeg mjeseca novi zakon o obnovi i konačni plan zbrinjavanja svih koji su u kontejnerima. Zagreb je domaćin velike međunarodne konferencije o euru. Nepošteni rast cijena nakon uvođenja nove valute samo je jedna od tema. Washington i Bruxelles pozivaju srbijanskog predsjednika Vučića da prihvati plan za Kosovo. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 24 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/14/17/20230124-dnevne-novosti-33722385-20230124144017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.01. 2023-01-23</title>
     <link>https://api.hrt.hr/media/9e/77/20230123-dnevne-novosti-33718563-20230123144026.mp3</link>
     <description>Iako se bura smiruje, i danas zbog snijega problemi u cestovnom prometu. Radnici zagrebačke Čistoće u štrajku - traže da se hitno na posao vrate trojica kolega koji su dobili otkaze. Dok Europa odlučuje o slanju tenkova u Ukrajinu, Sergej Lavrov poručuje da je Rusija u pravom ratu sa Zapadom. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Snijeg zabijelio Dalmaciju, zbog jake bure na snazi crveni meteoalarm. U Zadru se obilježava 30. obljetnica vojno-redarstvene akcije Maslenica. Sjedinjene Države proglasile rusku poluprivatnu vojsku Wagner kriminalnom organizacijom. Drugi je i završni dan posjeta predsjednika Zorana Milanovića Mađarskoj. Urednik: Silvio Šop</description>
     <pubDate>Sat, 21 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/4a/20230121-dnevne-novosti-33712597-20230121144036.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.01. 2023-01-20</title>
-    <link>https://api.hrt.hr/media/d9/a9/20230120-dnevne-novosti-33710267-20230120143530.mp3</link>
-    <description>Državni inspektorat u čak četvrtini nadzora utvrdio neopravdano povećanje cijena usluga u prosjeku 20 posto, u nekima čak 126 posto. U američkoj zračnoj bazi u Ramsteinu čelnici obrane zemalja NATO-a razgovaraju o novoj pomoći u oružju Ukrajini. Predsjednik Milanović u dvodnevnom službenom posjetu Mađarskoj. Na turističkom sajmu u Stuttgartu Hrvatska među traženijim odredištima. Urednica: Mira Barić</description>
-    <pubDate>Fri, 20 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d9/a9/20230120-dnevne-novosti-33710267-20230120143530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
