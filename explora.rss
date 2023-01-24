@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 17 Jan 2023 17:10:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 17:27:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 2023-01-24</title>
+    <link>https://api.hrt.hr/media/ae/93/20230124-explora-7912997-20230124171519.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 24 Jan 2023 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/93/20230124-explora-7912997-20230124171519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 2023-01-17</title>
     <link>https://api.hrt.hr/media/56/65/20230117-explora-7910768-20230117170520.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -87,14 +95,6 @@ Stable Diffusion i Devian Art, , Dance Diffusion i Harmonai. Zašto nula iza zar
 </description>
     <pubDate>Tue, 22 Nov 2022 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5f/77/20221122-explora-7893332-20221122170557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2022-11-15</title>
-    <link>https://api.hrt.hr/media/c9/62/20221115-explora-7891158-20221115170046.mp3</link>
-    <description>Promjena paradigme svega. Brodovi bez GPS transpondera nad Sjevernim tokom. Elon Musk dijeli otkaze na sve strane. Metaverse još ne funkcionira. Hubble snimio Supernovu u tri različita vremena. Više nema ptica. Još malo o radonu i baznim stanicama mobilne telefonije. Inox posude u mikrovalnoj. Nova sintetička super-ljepila. Obrana i zaštita od javnog nadzora. Pred menstrualni sindrom i evolucija.</description>
-    <pubDate>Tue, 15 Nov 2022 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/62/20221115-explora-7891158-20221115170046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
