@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 24 Jan 2023 21:57:29 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 21:59:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.01. 2023-01-25</title>
+    <link>https://api.hrt.hr/media/62/4d/20230125-kronika-dana-33727197-20230125214512.mp3</link>
+    <description>Postignut dogovor radnika zagrebačke Čistoće i Uprave Holdinga, no treća smjena zasad se ne vraća na posao. Njemački kancelar odlučio Ukrajini poslati tenkove Leopard, Joe Biden najavio da šalje američke Abramse. U Saboru rasprava o Zakonu o pomorskom dobru. Urednica: Mira Barić</description>
+    <pubDate>Wed, 25 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/62/4d/20230125-kronika-dana-33727197-20230125214512.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.01. 2023-01-24</title>
     <link>https://api.hrt.hr/media/f3/74/20230124-kronika-dana-33723298-20230124214018.mp3</link>
     <description>Radnici Čistoće ostaju u štrajku iako Uprava i Grad razmatraju njegovu sudsku zabranu. Ministar graditeljstva Branko Bačić na Banovini najavio plan ubrzanja obnove. Iako još nema službene potvrde, čini se da je Berlin odlučio poslati tenkove u Ukrajinu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zbog olujnog vjetra i snijega ograničenja u prometu. Deset mrtvih u pucnjavi na proslavi kineske Nove godine u Kaliforniji! Ubojica u bijegu! Ukrajina i dalje traži što bržu isporuku njemačkih tenkova, u Parizu sastanak Scholtza i Macrona. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 22 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/b6/20230122-kronika-dana-33715990-20230122214008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.01. 2023-01-21</title>
-    <link>https://api.hrt.hr/media/db/bc/20230121-kronika-dana-33713452-20230121214535.mp3</link>
-    <description>Zbog snijega i olujnog vjetra ni večeras nema prohodne ceste prema moru. Policija u suradnji s USKOKOM istražuje slučaj Zambija. U Zadru održana glavna svečanost u povodu 30.-te obljetnice vojno-redarstvene operacije "Maslenica". Urednica: Sanja Cota</description>
-    <pubDate>Sat, 21 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/db/bc/20230121-kronika-dana-33713452-20230121214535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
