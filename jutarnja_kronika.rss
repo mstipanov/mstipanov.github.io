@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 24 Jan 2023 06:56:15 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 06:58:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 25.01. 2023-01-25</title>
+    <link>https://api.hrt.hr/media/d6/47/20230125-jutarnja-kronika-33723888-20230125063509.mp3</link>
+    <description>Radnici zagrebačke Čistoće i dalje u štrajku. Uprava i Grad razmatraju njegovu sudsku zabranu, radnici bi mogli biti i sankcionirani. U Saboru počinje rasprava o prijedlogu Zakona o pomorskom dobru, koji je već dignuo dosta prašine u javnosti. Nema službene potvrde, ali čini se da je Berlin odlučio poslati tenkove Leopard, a Washington Abrams - u Ukrajinu. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 25 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d6/47/20230125-jutarnja-kronika-33723888-20230125063509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 24.01. 2023-01-24</title>
     <link>https://api.hrt.hr/media/83/8c/20230124-jutarnja-kronika-33720257-20230124064017.mp3</link>
     <description>Ministar Branko Bačić prvi put u radnom posjetu Banovini. Radnici zagrebačke Čistoće ne odustaju od štrajka iako je uprava privremeno suspendirala odluku o otkazima trojici njihovih kolega. Danas jedanaest mjeseci od napada Rusije na Ukrajinu. Sedam osoba ubijeno u još jednom krvoproliću u SAD-u. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Snijeg i olujni vjetar i dalje stvaraju probleme u cestovnom i pomorskom prometu. Nastavlja se obilježavanje 30. obljetnice vojno-redarstvene operacije "Maslenica". Policija u suradnji s USKOKOM istražuje slučaj Hrvata uhićenih u Zambiji zbog sumnjiva posvojenja djece. U Zagrebu će biti dodijeljena nagrada "Fric" za najbolju fikcijsku prozu prošle godine. Urednik: Silvio Šop</description>
     <pubDate>Sun, 22 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/04/20230122-jutarnja-kronika-33714010-20230122063008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 21.01. 2023-01-21</title>
-    <link>https://api.hrt.hr/media/fa/4b/20230121-jutarnja-kronika-33711689-20230121063533.mp3</link>
-    <description>Ukrajini stiže novi veliki paket zapadne vojne pomoći, no bez njemačkih Leoparda. Moskva prijeti da će Zapad požaliti zabludu da Ukrajina može pobijediti. Bačić najavio da bi Banovina u veljači trebala postati veliko gradilište. U Zadru središnja svečanost u povodu 30. obljetnice vojno-redarstvene operacije Maslenice. Primopredajom ključeva grada i izborom kraljice počeo jubilarni 40. Riječki karneval. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 21 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fa/4b/20230121-jutarnja-kronika-33711689-20230121063533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
