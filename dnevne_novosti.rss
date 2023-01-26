@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 25 Jan 2023 14:58:55 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 15:00:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.01. 2023-01-26</title>
+    <link>https://api.hrt.hr/media/18/bd/20230126-dnevne-novosti-33729907-20230126144002.mp3</link>
+    <description>Radnici zagrebačke Čistoće prekinuli štrajk, gradonačelnik Tomislav Tomašević s njima čistio grad. U Saboru rasprava o oporbenoj interpelaciji o radu Vlade vezano za sanaciju posljedica potresa. Državni inspektorat, u gotovo tisuću i pol nadzora, utvrdio 305 neopravdanih povećanja cijena, izrečeno oko pola milijuna eura kazni. Rusija pokrenula nove raketne napade, Ukrajina ruši projektile. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 26 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/18/bd/20230126-dnevne-novosti-33729907-20230126144002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.01. 2023-01-25</title>
     <link>https://api.hrt.hr/media/06/d3/20230125-dnevne-novosti-33725990-20230125144013.mp3</link>
     <description>Radnici zagrebačke Čistoće već treći dan ne odvoze smeće, gradonačelnik Tomašević kaže da će prijaviti nezakoniti štrajk. Ujedinjena oporba u Saboru kritizira novi Zakon o pomorskom dobru. Njemačka odlučila - Ukrajini isporučuje tenkove Leopard. Sport: U polufinalu Lige nacija hrvatska nogometna reprezentacija igrat će protiv Nizozemske. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Iako se bura smiruje, i danas zbog snijega problemi u cestovnom prometu. Radnici zagrebačke Čistoće u štrajku - traže da se hitno na posao vrate trojica kolega koji su dobili otkaze. Dok Europa odlučuje o slanju tenkova u Ukrajinu, Sergej Lavrov poručuje da je Rusija u pravom ratu sa Zapadom. Urednica: Mira Barić</description>
     <pubDate>Mon, 23 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/77/20230123-dnevne-novosti-33718563-20230123144026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.01. 2023-01-22</title>
-    <link>https://api.hrt.hr/media/70/4c/20230122-dnevne-novosti-33714973-20230122145008.mp3</link>
-    <description>Za razliku od jučer, danas prohodne autoceste prema moru. Vojno-redarstvena operacija Maslenica počela je na današnji dan prije 30 godina. Najmanje deset osoba ubijeno u pucnjavi u Kaliforniji, ubojica u bijegu. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 22 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/4c/20230122-dnevne-novosti-33714973-20230122145008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
