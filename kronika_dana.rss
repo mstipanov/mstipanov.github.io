@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Jan 2023 22:01:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 22:05:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.01. 2023-01-27</title>
+    <link>https://api.hrt.hr/media/94/d2/20230127-kronika-dana-33734538-20230127214023.mp3</link>
+    <description>Policija u Splitu ispituje nekoliko osoba zbog isplovljavanja ruske jahte čiji je vlasnik blizak Putinu. U Hrvatskoj 12 slučajeva novog kraken soja koronavirusa. Sedam osoba poginulo u napadu na Sinagogu u Jeruzalemu. Međunarodni je Dan sjećanja na žrtve holokausta. U našoj zemlji večeras je Noć muzeja, ove godine pod sloganom "Muzeji su važni". Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 27 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/d2/20230127-kronika-dana-33734538-20230127214023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.01. 2023-01-26</title>
     <link>https://api.hrt.hr/media/9f/8f/20230126-kronika-dana-33730960-20230126214002.mp3</link>
     <description>Radnici zagrebačke Čistoće završili štrajk, gradonačelnik im obećao da neće biti sankcija. U Saboru kasno večeras završila rasprava o interpelaciji kojom je oporba željela potaknuti na bržu obnovu nakon potresa. Zapadni tenkovi u Ukrajinu stižu do kraja ožujka, Rusi danas pojačali raketne napade. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Radnici Čistoće ostaju u štrajku iako Uprava i Grad razmatraju njegovu sudsku zabranu. Ministar graditeljstva Branko Bačić na Banovini najavio plan ubrzanja obnove. Iako još nema službene potvrde, čini se da je Berlin odlučio poslati tenkove u Ukrajinu. Urednica: Sanja Cota</description>
     <pubDate>Tue, 24 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f3/74/20230124-kronika-dana-33723298-20230124214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.01. 2023-01-23</title>
-    <link>https://api.hrt.hr/media/52/71/20230123-kronika-dana-33719642-20230123213517.mp3</link>
-    <description>Osmero Hrvata pušteno iz zambijskog pritvora. Radnici zagrebačke Čistoće štrajkali zbog otkaza trojici radnika, tvrtka suspendirala otkaze, no radnici i dalje u štrajku. Europska unija odobrila dodatnu vojnu pomoć Ukrajini od 500 milijuna eura. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 23 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/52/71/20230123-kronika-dana-33719642-20230123213517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
