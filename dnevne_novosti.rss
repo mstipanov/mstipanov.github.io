@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 27 Jan 2023 14:34:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 15:05:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.01. 2023-01-27</title>
+    <link>https://api.hrt.hr/media/88/b6/20230127-dnevne-novosti-33733628-20230127144023.mp3</link>
+    <description>Nakon prekida štrajka, počeli pregovori o zahtjevima radnika zagrebačke Čistoće. U Sinju otvoren veteranski centar, najavljeno da će se za 62 tisuće branitelja ponovno povećati mirovine. Nastavljeni ruski siloviti napadi na Ukrajinu, eksplozije i oko nuklearne elektrane Zaporižja. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 27 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/88/b6/20230127-dnevne-novosti-33733628-20230127144023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.01. 2023-01-26</title>
     <link>https://api.hrt.hr/media/18/bd/20230126-dnevne-novosti-33729907-20230126144002.mp3</link>
     <description>Radnici zagrebačke Čistoće prekinuli štrajk, gradonačelnik Tomislav Tomašević s njima čistio grad. U Saboru rasprava o oporbenoj interpelaciji o radu Vlade vezano za sanaciju posljedica potresa. Državni inspektorat, u gotovo tisuću i pol nadzora, utvrdio 305 neopravdanih povećanja cijena, izrečeno oko pola milijuna eura kazni. Rusija pokrenula nove raketne napade, Ukrajina ruši projektile. Urednik: Silvio Šop</description>
