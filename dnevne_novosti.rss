@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Jan 2023 15:00:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 14:34:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Radnici zagrebačke Čistoće nastavljaju štrajk dok se ne ispune njihovi zahtjevi. Uprava tvrdi da je štrajk nezakonit. U međuvremenu, sve je više smeća na ulicama metropole. Ministar graditeljstva Branko Bačić tijekom posjeta Banovini najavio do polovice idućeg mjeseca novi zakon o obnovi i konačni plan zbrinjavanja svih koji su u kontejnerima. Zagreb je domaćin velike međunarodne konferencije o euru. Nepošteni rast cijena nakon uvođenja nove valute samo je jedna od tema. Washington i Bruxelles pozivaju srbijanskog predsjednika Vučića da prihvati plan za Kosovo. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 24 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/14/17/20230124-dnevne-novosti-33722385-20230124144017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.01. 2023-01-23</title>
-    <link>https://api.hrt.hr/media/9e/77/20230123-dnevne-novosti-33718563-20230123144026.mp3</link>
-    <description>Iako se bura smiruje, i danas zbog snijega problemi u cestovnom prometu. Radnici zagrebačke Čistoće u štrajku - traže da se hitno na posao vrate trojica kolega koji su dobili otkaze. Dok Europa odlučuje o slanju tenkova u Ukrajinu, Sergej Lavrov poručuje da je Rusija u pravom ratu sa Zapadom. Urednica: Mira Barić</description>
-    <pubDate>Mon, 23 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9e/77/20230123-dnevne-novosti-33718563-20230123144026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
