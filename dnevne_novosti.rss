@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Jan 2023 15:07:16 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 14:39:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.01. 2023-01-29</title>
+    <link>https://api.hrt.hr/media/18/52/20230129-dnevne-novosti-33738393-20230129143507.mp3</link>
+    <description>Traje postupak mirenja u zagrebačkom Holdingu. Ne postigne li se dogovor, sedam tisuća zaposlenih moglo bi u štrajk. Sve više građana na udaru internetskih prijevara. Zbog visokih troškova upitna proizvodnja mlijeka i jaja. Novi ruski napadi u Ukrajini koja od Zapada traži zrakoplove i dalekometne sustaveZrinka Ljutić treća u slalomskoj utrci u Špindlerovu Mlinu u Češkoj. Novak Đoković osvojio Austarian open. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 29 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/18/52/20230129-dnevne-novosti-33738393-20230129143507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.01. 2023-01-28</title>
     <link>https://api.hrt.hr/media/be/f6/20230128-dnevne-novosti-33736094-20230128143601.mp3</link>
     <description>Dovršena policijska istraga o nestaloj ruskoj jahti iz Betine na Murteru - čeka se odluka o istražnom pritvoru za četvero osumnjičenih. Ne smiruju se reakcije na dopisivanje Gabrijele Žalac i Josipe Rimac u aferi "Vjetroelektrane". MOST će tražiti da u Saboru izvješće podnese glavna državna odvjetnica. Nakon sinoćnjeg terorističkog napada u kojemu je ubijeno sedam osoba, danas novi napad u Jeruzalemu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Radnici zagrebačke Čistoće prekinuli štrajk, gradonačelnik Tomislav Tomašević s njima čistio grad. U Saboru rasprava o oporbenoj interpelaciji o radu Vlade vezano za sanaciju posljedica potresa. Državni inspektorat, u gotovo tisuću i pol nadzora, utvrdio 305 neopravdanih povećanja cijena, izrečeno oko pola milijuna eura kazni. Rusija pokrenula nove raketne napade, Ukrajina ruši projektile. Urednik: Silvio Šop</description>
     <pubDate>Thu, 26 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/18/bd/20230126-dnevne-novosti-33729907-20230126144002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.01. 2023-01-25</title>
-    <link>https://api.hrt.hr/media/06/d3/20230125-dnevne-novosti-33725990-20230125144013.mp3</link>
-    <description>Radnici zagrebačke Čistoće već treći dan ne odvoze smeće, gradonačelnik Tomašević kaže da će prijaviti nezakoniti štrajk. Ujedinjena oporba u Saboru kritizira novi Zakon o pomorskom dobru. Njemačka odlučila - Ukrajini isporučuje tenkove Leopard. Sport: U polufinalu Lige nacija hrvatska nogometna reprezentacija igrat će protiv Nizozemske. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 25 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/06/d3/20230125-dnevne-novosti-33725990-20230125144013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
