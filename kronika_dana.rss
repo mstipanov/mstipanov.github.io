@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Jan 2023 22:07:59 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 21:39:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Radnici zagrebačke Čistoće završili štrajk, gradonačelnik im obećao da neće biti sankcija. U Saboru kasno večeras završila rasprava o interpelaciji kojom je oporba željela potaknuti na bržu obnovu nakon potresa. Zapadni tenkovi u Ukrajinu stižu do kraja ožujka, Rusi danas pojačali raketne napade. Urednica: Sanja Cota</description>
     <pubDate>Thu, 26 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9f/8f/20230126-kronika-dana-33730960-20230126214002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.01. 2023-01-25</title>
-    <link>https://api.hrt.hr/media/62/4d/20230125-kronika-dana-33727197-20230125214512.mp3</link>
-    <description>Postignut dogovor radnika zagrebačke Čistoće i Uprave Holdinga, no treća smjena zasad se ne vraća na posao. Njemački kancelar odlučio Ukrajini poslati tenkove Leopard, Joe Biden najavio da šalje američke Abramse. U Saboru rasprava o Zakonu o pomorskom dobru. Urednica: Mira Barić</description>
-    <pubDate>Wed, 25 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/62/4d/20230125-kronika-dana-33727197-20230125214512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
