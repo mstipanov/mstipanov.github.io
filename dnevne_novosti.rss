@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Jan 2023 14:41:13 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:11:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.01. 2023-01-30</title>
+    <link>https://api.hrt.hr/media/0e/22/20230130-dnevne-novosti-33741608-20230130144051.mp3</link>
+    <description>Policija potvrdila da je u Hlevnici u Zagorju pronađeno tijelo novorođenčeta. Naš su prioritet građani koji žive u kontejnerima - rekao ministar Bačić koji je drugi put u tjedan dana posjetio stanovnike u kontejnerskim naseljima na Banovini. Sindikati s upravom zagrebačkog Holdinga nastavljaju postupak mirenja koji sutra ulazi u završnu fazu. Ako ne bude postignut dogovor, sindikati najavljuju opći štrajk. Početak ponovljenog suđenja Filipu Zavadlavu odgođen jer je na sva pitanja sutkinje odgovarao na talijanskom jeziku. Urednica: Mira Barić</description>
+    <pubDate>Mon, 30 Jan 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0e/22/20230130-dnevne-novosti-33741608-20230130144051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.01. 2023-01-29</title>
     <link>https://api.hrt.hr/media/18/52/20230129-dnevne-novosti-33738393-20230129143507.mp3</link>
     <description>Traje postupak mirenja u zagrebačkom Holdingu. Ne postigne li se dogovor, sedam tisuća zaposlenih moglo bi u štrajk. Sve više građana na udaru internetskih prijevara. Zbog visokih troškova upitna proizvodnja mlijeka i jaja. Novi ruski napadi u Ukrajini koja od Zapada traži zrakoplove i dalekometne sustaveZrinka Ljutić treća u slalomskoj utrci u Špindlerovu Mlinu u Češkoj. Novak Đoković osvojio Austarian open. Urednik: Grgo Mrvica</description>
