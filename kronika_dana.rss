@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Jan 2023 22:09:54 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 22:11:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.01. 2023-01-30</title>
+    <link>https://api.hrt.hr/media/4d/15/20230130-kronika-dana-33742625-20230130214053.mp3</link>
+    <description>Policija moli pomoć građana nakon što je u Zagorju pronađeno mrtvo novorođenče. Premijer Andrej Plenković pretpostavlja da je on A. P. u porukama koje su izmjenjivale Gabrijela Žalac i Josipa Rimac. Predsjednik Milanović izjavio da je Kosovo oteto Srbiji i izazvao veliku pozornost u toj zemlji. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 30 Jan 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/15/20230130-kronika-dana-33742625-20230130214053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.01. 2023-01-29</title>
     <link>https://api.hrt.hr/media/62/60/20230129-kronika-dana-33739058-20230129214002.mp3</link>
     <description>Napadnuta liječnica u Virovitici operirana i izvan životne opasnosti, pacijentica koja ju je napala uhićena.Vlada odlučila uvesti napojnice u sustav fiskalizacije ugostitelja. tenkova Ukrajina od Zapada traži vojne zrakoplove.	Zrinka Ljutić treća u slalomskoj utrci u Špindlerovu Mlinu u Češkoj.Danska, treći put uzastopce Svjetski rukometni prvak. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Policija u Splitu ispituje nekoliko osoba zbog isplovljavanja ruske jahte čiji je vlasnik blizak Putinu. U Hrvatskoj 12 slučajeva novog kraken soja koronavirusa. Sedam osoba poginulo u napadu na Sinagogu u Jeruzalemu. Međunarodni je Dan sjećanja na žrtve holokausta. U našoj zemlji večeras je Noć muzeja, ove godine pod sloganom "Muzeji su važni". Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 27 Jan 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/d2/20230127-kronika-dana-33734538-20230127214023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.01. 2023-01-26</title>
-    <link>https://api.hrt.hr/media/9f/8f/20230126-kronika-dana-33730960-20230126214002.mp3</link>
-    <description>Radnici zagrebačke Čistoće završili štrajk, gradonačelnik im obećao da neće biti sankcija. U Saboru kasno večeras završila rasprava o interpelaciji kojom je oporba željela potaknuti na bržu obnovu nakon potresa. Zapadni tenkovi u Ukrajinu stižu do kraja ožujka, Rusi danas pojačali raketne napade. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 26 Jan 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9f/8f/20230126-kronika-dana-33730960-20230126214002.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
