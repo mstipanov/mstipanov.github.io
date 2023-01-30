@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Jan 2023 06:38:41 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 06:40:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.01. 2023-01-30</title>
+    <link>https://api.hrt.hr/media/a7/16/20230130-jutarnja-kronika-33739583-20230130063044.mp3</link>
+    <description>Napadnuta psihijatrica u Virovitici operirana i izvan životne opasnosti, pacijentica koja ju je napala nožem uhićena. Od ponoći poskupljuje gorivo. Ministar graditeljstva Branko Bačić na Banovini će posjetiti Glinu i Gvozd. Sveučilište u Rijeci obilježava 50-u obljetnicu, pod sloganom "Rijeka tehnologije" do subote organizira predavanja, radionice i posjete laboratorijima tehničkih fakulteta. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 30 Jan 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/16/20230130-jutarnja-kronika-33739583-20230130063044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.01. 2023-01-29</title>
     <link>https://api.hrt.hr/media/25/cd/20230129-jutarnja-kronika-33737440-20230129063002.mp3</link>
     <description>Najmanje tri osobe su umrle, a stotine su ozlijeđene u potresu magnitude 5,9 koji je pogodio sjeverozapadni Iran. Izraelski premijer najavio snažan i čvrst odgovor na terorizam nakon dvaju palestinskih napada u istočnom Jeruzalemu. Četvero uhićenih zbog ruske jahte - pušteno je da se brane sa slobode. Ministar Malenica poručio kako nije bitno tko je AP u dopisivanju Žalac i Rimac.
@@ -32,14 +40,6 @@ Urednica je Marija Gerbec Njavro</description>
     <description>Nakon što su radnici zagrebačke Čistoće jučer prekinuli štrajk, danas počinju pregovori o njihovih preostalih 6 zahtjeva. Saborske zastupnike očekuje rasprava o izmjenama i dopunama Zakona o osiguranju radničkih tražbina. Zapadni tenkovi u Ukrajinu stižu do kraja ožujka, Rusi jučer pojačali raketne napade. Pod sloganom "Muzeji su važni" večeras će se održati 18. Noć muzeja. Urednik: Silvio Šop</description>
     <pubDate>Fri, 27 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6c/20/20230127-jutarnja-kronika-33731582-20230127063022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.01. 2023-01-26</title>
-    <link>https://api.hrt.hr/media/d6/fb/20230126-jutarnja-kronika-33727763-20230126063003.mp3</link>
-    <description>Radnici zagrebačke Čistoće jutros počinju čistiti ispred vrtića, škola i bolnica. U Saboru oporbena interpelacija o radu Vlade, povod je sporost u obnovi nakon potresa. Ukrajina dobiva najmodernije njemačke i američke tenkove. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 26 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d6/fb/20230126-jutarnja-kronika-33727763-20230126063003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
