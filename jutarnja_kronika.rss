@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Jan 2023 06:40:33 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 06:42:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica je Marija Gerbec Njavro</description>
     <description>Uhićeni zbog nestanka ruske jahte "Irina VU" - tijekom dana trebali bi biti privedeni na ispitivanje u šibensko Općinsko državno odvjetništvo. Sedam osoba poginulo, a devet ozlijeđeno u napadu na sinagogu u Jeruzalemu. Sinoć održana Noć muzeja pod sloganom "Muzeji su važni". Urednica je Marije Gerbec Njavro</description>
     <pubDate>Sat, 28 Jan 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/71/3e/20230128-jutarnja-kronika-33735119-20230128063557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.01. 2023-01-27</title>
-    <link>https://api.hrt.hr/media/6c/20/20230127-jutarnja-kronika-33731582-20230127063022.mp3</link>
-    <description>Nakon što su radnici zagrebačke Čistoće jučer prekinuli štrajk, danas počinju pregovori o njihovih preostalih 6 zahtjeva. Saborske zastupnike očekuje rasprava o izmjenama i dopunama Zakona o osiguranju radničkih tražbina. Zapadni tenkovi u Ukrajinu stižu do kraja ožujka, Rusi jučer pojačali raketne napade. Pod sloganom "Muzeji su važni" večeras će se održati 18. Noć muzeja. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 27 Jan 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/20/20230127-jutarnja-kronika-33731582-20230127063022.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
