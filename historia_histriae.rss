@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Jan 2023 18:31:07 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 17:17:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>BRUNO LANGER (Nastavak) 2023-02-02</title>
+    <link>https://api.hrt.hr/media/bf/c4/20230202-historia-histriae-7916026-20230202170012.mp3</link>
+    <description>U goste nam se vraća legendarni Bruno Langer.....nastavljamo našu priču o Puli i njezinoj prošlosti. Budite s nama!</description>
+    <pubDate>Thu, 02 Feb 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bf/c4/20230202-historia-histriae-7916026-20230202170012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>BRUNO LANGER 2023-01-26</title>
     <link>https://api.hrt.hr/media/ea/f2/20230126-historia-histriae-7913638-20230126174517.mp3</link>
     <description>U goste nam dolazi legendarni Bruno Langer, a s nama će podijeliti svoja sjećanja o Puli, o povijesti jednog vremena, o počecima rock glazbe, o klubu Uljanik....budite s nama!</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi povjesničar David Orlović, a s nama će podijeliti nepoznate detalje iz povijest pulske četvrti sv. Polikarpa....</description>
     <pubDate>Thu, 01 Dec 2022 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/57/20221201-historia-histriae-7896630-20221201161028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Zapisi Fachinettija 2022-11-24</title>
-    <link>https://api.hrt.hr/media/75/76/20221124-historia-histriae-7894033-20221124162047.mp3</link>
-    <description>U ovoj emisiji slušamo vrijedne zapise o istarskim Slavenima koje je sredinom 19. stoljeća zapisao župnik u Savičenti Antonio Facchinetti. Čut ćemo nešto o gostoljubivosti naših predaka i njihovim običajima vezanim za rođenje djeteta. </description>
-    <pubDate>Thu, 24 Nov 2022 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/75/76/20221124-historia-histriae-7894033-20221124162047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
