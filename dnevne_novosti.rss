@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Feb 2023 14:47:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 14:49:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.02. 2023-02-03</title>
+    <link>https://api.hrt.hr/media/8c/5c/20230203-dnevne-novosti-33756541-20230203143502.mp3</link>
+    <description>Zdravstveni radnici prosvjedovali ispred Ministarstva, moguć je i štrajk ako se ne počnu rješavati njihovi zahtjevi. Ministar Božinović ne vidi ništa sporno u postupanju policije u slučaju Platak, no uključilo se i Državno odvjetništvo. Saborski odbor za obitelj traži da se utvrdi jesu li sva posvojena djeca iz stranih država i dalje u Hrvatskoj. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 03 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8c/5c/20230203-dnevne-novosti-33756541-20230203143502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.02. 2023-02-02</title>
     <link>https://api.hrt.hr/media/4b/54/20230202-dnevne-novosti-33752527-20230202144015.mp3</link>
     <description>Policija zbog divljačkog napada na Platku podnijela prijave protiv pet osoba, među kojima i protiv ozlijeđenog HGSS-ovca. Nezadovoljni i ogorčeni od Pule, Ilovika do Makarske prosvjedovali na Markovu trgu zbog zakonskog prijedloga o pomorskom dobru. Zbog Kosova iznimno burno na posebnoj sjednici srbijanske Skupštine. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Zagrebu postignut dogovor, štrajka u Holdingu neće biti, ali Zagrepčane očekuju poskupljenja. Dužnosnici Vlade i HDZ-a opovrgavaju medijske navode da su utjecali na zapošljavanje u Hrvatskim šumama. Ukrajinci nakon tenkova traže i zrakoplove, francuski predsjednik zasad jedini nije odbacio tu mogućnost. : Sanja Cota</description>
     <pubDate>Tue, 31 Jan 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a7/6e/20230131-dnevne-novosti-33745114-20230131143531.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.01. 2023-01-30</title>
-    <link>https://api.hrt.hr/media/0e/22/20230130-dnevne-novosti-33741608-20230130144051.mp3</link>
-    <description>Policija potvrdila da je u Hlevnici u Zagorju pronađeno tijelo novorođenčeta. Naš su prioritet građani koji žive u kontejnerima - rekao ministar Bačić koji je drugi put u tjedan dana posjetio stanovnike u kontejnerskim naseljima na Banovini. Sindikati s upravom zagrebačkog Holdinga nastavljaju postupak mirenja koji sutra ulazi u završnu fazu. Ako ne bude postignut dogovor, sindikati najavljuju opći štrajk. Početak ponovljenog suđenja Filipu Zavadlavu odgođen jer je na sva pitanja sutkinje odgovarao na talijanskom jeziku. Urednica: Mira Barić</description>
-    <pubDate>Mon, 30 Jan 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0e/22/20230130-dnevne-novosti-33741608-20230130144051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
