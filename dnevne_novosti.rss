@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Feb 2023 14:51:23 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 15:51:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.02. 2023-02-04</title>
+    <link>https://api.hrt.hr/media/42/90/20230204-dnevne-novosti-33759156-20230204151527.mp3</link>
+    <description>Goleme probleme olujni vjetar stvara diljem zemlje. Porušena stabla, telefonski i električni stupovi, u Zagrebu jedna osoba lakše ozlijeđena. Najmanje 13 ljudi poginulo u više od 200 šumskih požara u središnjem dijelu Čilea, pogođenom toplinskim valom. Svjetski je dan borbe protiv raka, Udruga pacijenata upozorava na probleme s kojima se nose onkološki bolesnici. Urednica: Mira Barić</description>
+    <pubDate>Sat, 04 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/90/20230204-dnevne-novosti-33759156-20230204151527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.02. 2023-02-03</title>
     <link>https://api.hrt.hr/media/8c/5c/20230203-dnevne-novosti-33756541-20230203143502.mp3</link>
     <description>Zdravstveni radnici prosvjedovali ispred Ministarstva, moguć je i štrajk ako se ne počnu rješavati njihovi zahtjevi. Ministar Božinović ne vidi ništa sporno u postupanju policije u slučaju Platak, no uključilo se i Državno odvjetništvo. Saborski odbor za obitelj traži da se utvrdi jesu li sva posvojena djeca iz stranih država i dalje u Hrvatskoj. Urednica: Sanja Cota</description>
