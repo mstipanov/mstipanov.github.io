@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Feb 2023 06:50:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 06:52:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.02. 2023-02-05</title>
+    <link>https://api.hrt.hr/media/d2/49/20230205-jutarnja-kronika-33760313-20230205064040.mp3</link>
+    <description>Amerikanci srušili kineski meteorološki balon zbog sumnje na špijunažu, Kina oštro prosvjedovala. Hrvatsko novinarsko društvo održat će prosvjed u Zagrebu. Traže smjenu ministra Beroša zbog okolnosti u kojima je prije 6 mjeseci umro novinar Vladimir Matijanić. Predsjednik Milanović u službenom posjetu Egiptu. Završava Festa svetog Vlaha. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 05 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d2/49/20230205-jutarnja-kronika-33760313-20230205064040.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.02. 2023-02-04</title>
     <link>https://api.hrt.hr/media/4d/bf/20230204-jutarnja-kronika-33758141-20230204064525.mp3</link>
     <description>Prosvjedovale medicinske sestre i tehničari, prijete i štrajkom. Objavljena nova snimka brutalne tučnjave na Platku koja pokazuje tko je i kako počeo napad. Ukrajinska borba za Bahmut. Srbijanski parlament glasovao protiv priznanja Kosova. Davis cup u Rijeci - Hrvatska protiv Austrije. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Brutalni napad na Platku policija još uvijek smatra prekršajem, oglasila se i hrvatska MMA udruga. Afera navodnog zapošljavanja prijatelja i poznanika u Hrvatskim šumama i dalje izaziva reakcije. Europska unija donijela je odluku o uvježbavanju 30 tisuća ukrajinskih vojnika. Sjedinjene Države pripremaju paket vojne pomoći vrijedan dvije milijarde dolara. Otvara se 1051. Festa svetoga Vlaha. Urednik: Silvio Šop</description>
     <pubDate>Thu, 02 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/ae/20230202-jutarnja-kronika-33750315-20230202064010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.02. 2023-02-01</title>
-    <link>https://api.hrt.hr/media/85/67/20230201-jutarnja-kronika-33746721-20230201063037.mp3</link>
-    <description>Postignut dogovor sindikata Holdinga i ZET-a sa zagrebačkim gradonačelnikom. Osnovica plaće od 1. siječnja bit će veća za pet posto te još tri posto od 1. srpnja, povećavaju se i naknade na plaću. Premijer Plenković o porukama o navodnom zapošljavanju u Hrvatskim šumama kaže: "To je netema."	Nakon tenkova Ukrajina očekuje od zapada i bojne zrakoplove.: Grgo Mrvica</description>
-    <pubDate>Wed, 01 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/67/20230201-jutarnja-kronika-33746721-20230201063037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
