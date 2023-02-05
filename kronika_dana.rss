@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Feb 2023 21:51:59 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 21:53:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.02. 2023-02-05</title>
+    <link>https://api.hrt.hr/media/ff/6c/20230205-kronika-dana-33761877-20230205213541.mp3</link>
+    <description>U olujnom nevremenu poginula jedna osoba, pet ih je ozlijeđeno. Smijenjen ukrajinski ministar obrane Oleksij Reznikov. Na snazi je europska zabrana uvoza ruske nafte - nestašice u Hrvatskoj neće biti, uvjeravaju stručnjaci. Ministar Bačić sutra ponovno na Banovini. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 05 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/6c/20230205-kronika-dana-33761877-20230205213541.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.02. 2023-02-04</title>
     <link>https://api.hrt.hr/media/41/1f/20230204-kronika-dana-33759767-20230204214526.mp3</link>
     <description>Olujni vjetar diljem zemlje rušio stabla i nosio krovove. Dragan Čović ponovno izabran za predsjednika Hrvatskoga narodnog sabora BiH. Hrvatsko novinarsko društvo za sutra najavilo prosvjed. Šest mjeseci od smrti novinara Vladimira Matijanića smatra da ministar Beroš treba dati ostavku. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Policija večeras priopćila da na Platku ozlijeđeni pripadnik HGSS-a nije prekršajno prijavljen. Za aferu sa SMS-porukama svojih suradnika premijer Plenković optužuje oporbu koja, kaže, slijedi svojeg vođu Milanovića. Predstavnici Europske unije u Kijevu: ekonomska, humanitarna i vojna potpora Unije Ukrajini do sada gotovo 50 milijardi eura. Urednica: Sanja Cota</description>
     <pubDate>Thu, 02 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/02/20230202-kronika-dana-33753682-20230202214012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.02. 2023-02-01</title>
-    <link>https://api.hrt.hr/media/05/58/20230201-kronika-dana-33749813-20230201214039.mp3</link>
-    <description>U istrazi protiv Josipe Rimac USKOK prikupio više od tri milijuna stranica materijala, izvidi još traju. Samo prekršajnu prijavu zaradila trojica mladića koji su na Platku teško pretukli nekoliko ljudi. Europska unija obučavat će 30 tisuća ukrajinskih vojnika, Sjedinjene Države pripremaju paket vojne pomoći od dvije milijarde dolara. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 01 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/58/20230201-kronika-dana-33749813-20230201214039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
