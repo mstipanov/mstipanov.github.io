@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Feb 2023 21:53:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 21:55:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.02. 2023-02-06</title>
+    <link>https://api.hrt.hr/media/3d/b7/20230206-kronika-dana-33765793-20230206214546.mp3</link>
+    <description>Razorni potresi pogodili Tursku i Siriju. Poginulo je najmanje dvije tisuće 300 ljudi. Među više tisuća ozlijeđenih - i dvije Hrvatice. Prema Turskoj krenuo i hrvatski spasilački tim s 40 ljudi. U Zambiji odbačena optužnica protiv osmero Hrvata. Zasad se ne zna što je s djecom koju su željeli posvojiti. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 06 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3d/b7/20230206-kronika-dana-33765793-20230206214546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.02. 2023-02-05</title>
     <link>https://api.hrt.hr/media/ff/6c/20230205-kronika-dana-33761877-20230205213541.mp3</link>
     <description>U olujnom nevremenu poginula jedna osoba, pet ih je ozlijeđeno. Smijenjen ukrajinski ministar obrane Oleksij Reznikov. Na snazi je europska zabrana uvoza ruske nafte - nestašice u Hrvatskoj neće biti, uvjeravaju stručnjaci. Ministar Bačić sutra ponovno na Banovini. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Prosvjedovale medicinske sestre i tehničari, traže da se riješi pitanje njihovih koeficijenata, prijete štrajkom.Europska unija obećala snažnu potporu Ukrajini, ali ne i ubrzano pristupanje. Zbog kineskog balona iznad SAD-a američki državni tajnik Antony Blinken odgodio posjet Pekingu.Kako bi se podignula svijest o moždanom udaru kod žena, obilježen Dan crvenih haljina. Urednica: Mira Barić</description>
     <pubDate>Fri, 03 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/af/20230203-kronika-dana-33757616-20230203214058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.02. 2023-02-02</title>
-    <link>https://api.hrt.hr/media/e8/02/20230202-kronika-dana-33753682-20230202214012.mp3</link>
-    <description>Policija večeras priopćila da na Platku ozlijeđeni pripadnik HGSS-a nije prekršajno prijavljen. Za aferu sa SMS-porukama svojih suradnika premijer Plenković optužuje oporbu koja, kaže, slijedi svojeg vođu Milanovića. Predstavnici Europske unije u Kijevu: ekonomska, humanitarna i vojna potpora Unije Ukrajini do sada gotovo 50 milijardi eura. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 02 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/02/20230202-kronika-dana-33753682-20230202214012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
