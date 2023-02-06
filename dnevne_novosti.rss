@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Feb 2023 14:53:17 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 14:55:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.02. 2023-02-06</title>
+    <link>https://api.hrt.hr/media/49/0a/20230206-dnevne-novosti-33764475-20230206143545.mp3</link>
+    <description>Dva snažna potresa pogodila Tursku, tisuće mrtvih i ozlijeđenih, među ozlijeđenima su i dvije hrvatske državljanke. Hrvatska šalje Turskoj tim za spašavanje s 40 ljudi. Osmero Hrvata optuženih u Zambiji za trgovinu djecom oslobođeno optužbe. Dodijeljene prestižne glazbene nagrade Grammy - nova rekorderka prema broju zlatnih gramofona je Beyonce. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 06 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/49/0a/20230206-dnevne-novosti-33764475-20230206143545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.02. 2023-02-05</title>
     <link>https://api.hrt.hr/media/25/1a/20230205-dnevne-novosti-33761145-20230205144042.mp3</link>
     <description>Dok središnji dio zemlje zbraja štetu od jučerašnjeg olujnog nevremena, danas problemi na Jadranu zbog olujne bure. Šest mjeseci nakon smrti Vladimira Matijanića, u Zagrebu održan prosvjed "Oprostite što smetam, ne mogu disati". Službeni boravak u Egiptu predsjednik Milanović počeo posjetom memorijalnom groblju hrvatskih izbjeglica u El Shattu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Zdravstveni radnici prosvjedovali ispred Ministarstva, moguć je i štrajk ako se ne počnu rješavati njihovi zahtjevi. Ministar Božinović ne vidi ništa sporno u postupanju policije u slučaju Platak, no uključilo se i Državno odvjetništvo. Saborski odbor za obitelj traži da se utvrdi jesu li sva posvojena djeca iz stranih država i dalje u Hrvatskoj. Urednica: Sanja Cota</description>
     <pubDate>Fri, 03 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8c/5c/20230203-dnevne-novosti-33756541-20230203143502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.02. 2023-02-02</title>
-    <link>https://api.hrt.hr/media/4b/54/20230202-dnevne-novosti-33752527-20230202144015.mp3</link>
-    <description>Policija zbog divljačkog napada na Platku podnijela prijave protiv pet osoba, među kojima i protiv ozlijeđenog HGSS-ovca. Nezadovoljni i ogorčeni od Pule, Ilovika do Makarske prosvjedovali na Markovu trgu zbog zakonskog prijedloga o pomorskom dobru. Zbog Kosova iznimno burno na posebnoj sjednici srbijanske Skupštine. Urednica: Mira Barić</description>
-    <pubDate>Thu, 02 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/54/20230202-dnevne-novosti-33752527-20230202144015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
