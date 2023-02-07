@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Feb 2023 21:55:57 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 21:59:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.02. 2023-02-07</title>
+    <link>https://api.hrt.hr/media/ff/44/20230207-kronika-dana-33769583-20230207214020.mp3</link>
+    <description>Raste broj poginulih u razornim potresima u Turskoj i Siriji. Prema posljednjim podacima, poginulo više od 7 tisuća ljudi. Ustavni sud ukinuo Zakon o izbornim jedinicama. Obrat u slučaju osmero hrvatskih državljana u Zambiji. Uhićeni u zračnoj luci i vraćeni u pritvor. Urednica: Mira Barić</description>
+    <pubDate>Tue, 07 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/44/20230207-kronika-dana-33769583-20230207214020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.02. 2023-02-06</title>
     <link>https://api.hrt.hr/media/3d/b7/20230206-kronika-dana-33765793-20230206214546.mp3</link>
     <description>Razorni potresi pogodili Tursku i Siriju. Poginulo je najmanje dvije tisuće 300 ljudi. Među više tisuća ozlijeđenih - i dvije Hrvatice. Prema Turskoj krenuo i hrvatski spasilački tim s 40 ljudi. U Zambiji odbačena optužnica protiv osmero Hrvata. Zasad se ne zna što je s djecom koju su željeli posvojiti. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Olujni vjetar diljem zemlje rušio stabla i nosio krovove. Dragan Čović ponovno izabran za predsjednika Hrvatskoga narodnog sabora BiH. Hrvatsko novinarsko društvo za sutra najavilo prosvjed. Šest mjeseci od smrti novinara Vladimira Matijanića smatra da ministar Beroš treba dati ostavku. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 04 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/41/1f/20230204-kronika-dana-33759767-20230204214526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.02. 2023-02-03</title>
-    <link>https://api.hrt.hr/media/12/af/20230203-kronika-dana-33757616-20230203214058.mp3</link>
-    <description>Prosvjedovale medicinske sestre i tehničari, traže da se riješi pitanje njihovih koeficijenata, prijete štrajkom.Europska unija obećala snažnu potporu Ukrajini, ali ne i ubrzano pristupanje. Zbog kineskog balona iznad SAD-a američki državni tajnik Antony Blinken odgodio posjet Pekingu.Kako bi se podignula svijest o moždanom udaru kod žena, obilježen Dan crvenih haljina. Urednica: Mira Barić</description>
-    <pubDate>Fri, 03 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/12/af/20230203-kronika-dana-33757616-20230203214058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
