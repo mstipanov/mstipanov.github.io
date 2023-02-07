@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Feb 2023 06:54:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 06:57:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.02. 2023-02-07</title>
+    <link>https://api.hrt.hr/media/42/7a/20230207-jutarnja-kronika-33766387-20230207063019.mp3</link>
+    <description>U jučerašnja dva jaka potresa u Turskoj i Siriji poginulo više od 4300 ljudi. Hrvatski tim za traganje i spašavanje krenuo sinoć prema potresom pogođenom području. Glavna državna odvjetnica Zlata Hrvoj Šipek na saborskom Odboru za pravosuđe branit će Izvješće o radu državnih odvjetništava u 2021. godini. Predsjednik Zoran Milanović završava posjet Egiptu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/7a/20230207-jutarnja-kronika-33766387-20230207063019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.02. 2023-02-06</title>
     <link>https://api.hrt.hr/media/84/24/20230206-jutarnja-kronika-33762425-20230206063543.mp3</link>
     <description>Katastrofalan potres od 7,8 prema Richteru pogodio rano jutros jug Turske i sjever Sirije. Velik broj poginulih i nestalih pod ruševinama. Ministar graditeljstva Branko Bačić danas će u Sisku provjeriti kako napreduje konstrukcijska obnova višestambenih zgrada. U olujnom nevremenu tijekom vikenda u Vukovaru se utopio muškarac koji je na Dunavu pokušao spasiti svoj čamac. Predsjednik Milanović danas se u Kairu sastaje s egipatskim predsjednikom al-Sisijem. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Prosvjedovale medicinske sestre i tehničari, prijete i štrajkom. Objavljena nova snimka brutalne tučnjave na Platku koja pokazuje tko je i kako počeo napad. Ukrajinska borba za Bahmut. Srbijanski parlament glasovao protiv priznanja Kosova. Davis cup u Rijeci - Hrvatska protiv Austrije. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 04 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/bf/20230204-jutarnja-kronika-33758141-20230204064525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.02. 2023-02-03</title>
-    <link>https://api.hrt.hr/media/0d/da/20230203-jutarnja-kronika-33754393-20230203063502.mp3</link>
-    <description>Slučaj Platak: prekršajno prijavljeno pet osoba, ozlijeđeni pripadnik HGSS-a nije među njima. Članovi sindikata medicinskih sestara i tehničara te sindikata zdravstva i socijalne skrbi prosvjedovat će ispred Ministarstva zdravstva. U Kijevu sastanak na vrhu Europske unije i Ukrajine. Dan je crvenih haljina, posvećen borbi protiv moždanog udara kod žena. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 03 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/da/20230203-jutarnja-kronika-33754393-20230203063502.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
