@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Feb 2023 06:57:11 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 06:59:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.02. 2023-02-08</title>
+    <link>https://api.hrt.hr/media/83/a7/20230208-jutarnja-kronika-33770117-20230208063517.mp3</link>
+    <description>Broj poginulih u razornim potresima u Turskoj i Siriji približio se 8 tisuća i 300. Mnogo je ljudi i dalje pod ruševinama, na niskim temperaturama. Na sjednici Vlade prijedlog je novog Zakona o obnovi zgrada oštećenih potresom, koji bi trebao znatno ubrzati obnovu. Ustavni sud ukinuo Zakon o izbornim jedinicama. U govoru naciji američki predsjednik Joe Biden najavio daljnju potporu Ukrajini te suradnju s Kinom. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 08 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/83/a7/20230208-jutarnja-kronika-33770117-20230208063517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.02. 2023-02-07</title>
     <link>https://api.hrt.hr/media/42/7a/20230207-jutarnja-kronika-33766387-20230207063019.mp3</link>
     <description>U jučerašnja dva jaka potresa u Turskoj i Siriji poginulo više od 4300 ljudi. Hrvatski tim za traganje i spašavanje krenuo sinoć prema potresom pogođenom području. Glavna državna odvjetnica Zlata Hrvoj Šipek na saborskom Odboru za pravosuđe branit će Izvješće o radu državnih odvjetništava u 2021. godini. Predsjednik Zoran Milanović završava posjet Egiptu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Amerikanci srušili kineski meteorološki balon zbog sumnje na špijunažu, Kina oštro prosvjedovala. Hrvatsko novinarsko društvo održat će prosvjed u Zagrebu. Traže smjenu ministra Beroša zbog okolnosti u kojima je prije 6 mjeseci umro novinar Vladimir Matijanić. Predsjednik Milanović u službenom posjetu Egiptu. Završava Festa svetog Vlaha. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 05 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/49/20230205-jutarnja-kronika-33760313-20230205064040.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.02. 2023-02-04</title>
-    <link>https://api.hrt.hr/media/4d/bf/20230204-jutarnja-kronika-33758141-20230204064525.mp3</link>
-    <description>Prosvjedovale medicinske sestre i tehničari, prijete i štrajkom. Objavljena nova snimka brutalne tučnjave na Platku koja pokazuje tko je i kako počeo napad. Ukrajinska borba za Bahmut. Srbijanski parlament glasovao protiv priznanja Kosova. Davis cup u Rijeci - Hrvatska protiv Austrije. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 04 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4d/bf/20230204-jutarnja-kronika-33758141-20230204064525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
