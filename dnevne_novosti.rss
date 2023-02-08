@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Feb 2023 14:57:52 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 15:00:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.02. 2023-02-08</title>
+    <link>https://api.hrt.hr/media/a1/0b/20230208-dnevne-novosti-33772699-20230208144522.mp3</link>
+    <description>Nakon duge i teške bolesti u Zagrebu umro Miroslav Ćiro Blažević. Svijet i dalje obilaze slike užasa iz potresom pogođene Turske i Sirije - broj žrtava dosad veći od 11 tisuća. Hrvatski državljani koji su jučer ponovno uhićeni u Zambiji sutra bi trebali izići na novo ročište. Zasad se ne zna koje nove dokaze ima tužiteljstvo. Urednica: Mira Barić</description>
+    <pubDate>Wed, 08 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/0b/20230208-dnevne-novosti-33772699-20230208144522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.02. 2023-02-07</title>
     <link>https://api.hrt.hr/media/07/c0/20230207-dnevne-novosti-33768617-20230207144020.mp3</link>
     <description>Turska i Sirija: u razornim potresima zasad potvrđena smrt više od 5 tisuća 200 ljudi. Zambija: osmero Hrvata zaustavljeno u zračnoj luci i vraćeno u pritvor, još se ne zna zbog čega. Iz naše zemlje: Ustavni sud ukinuo Zakon o izbornim jedinicama. Premijer Plenković svjedočio na sudu u Sisku o prijetnjama koje je primao. Glavna državna odvjetnica Zlata Hrvoj Šipek na saborskom Odboru za pravosuđe. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Dok središnji dio zemlje zbraja štetu od jučerašnjeg olujnog nevremena, danas problemi na Jadranu zbog olujne bure. Šest mjeseci nakon smrti Vladimira Matijanića, u Zagrebu održan prosvjed "Oprostite što smetam, ne mogu disati". Službeni boravak u Egiptu predsjednik Milanović počeo posjetom memorijalnom groblju hrvatskih izbjeglica u El Shattu. Urednica: Mira Barić</description>
     <pubDate>Sun, 05 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/1a/20230205-dnevne-novosti-33761145-20230205144042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.02. 2023-02-04</title>
-    <link>https://api.hrt.hr/media/42/90/20230204-dnevne-novosti-33759156-20230204151527.mp3</link>
-    <description>Goleme probleme olujni vjetar stvara diljem zemlje. Porušena stabla, telefonski i električni stupovi, u Zagrebu jedna osoba lakše ozlijeđena. Najmanje 13 ljudi poginulo u više od 200 šumskih požara u središnjem dijelu Čilea, pogođenom toplinskim valom. Svjetski je dan borbe protiv raka, Udruga pacijenata upozorava na probleme s kojima se nose onkološki bolesnici. Urednica: Mira Barić</description>
-    <pubDate>Sat, 04 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/42/90/20230204-dnevne-novosti-33759156-20230204151527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
