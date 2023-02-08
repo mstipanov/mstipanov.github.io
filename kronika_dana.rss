@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Feb 2023 21:59:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 22:01:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.02. 2023-02-08</title>
+    <link>https://api.hrt.hr/media/93/1d/20230208-kronika-dana-33773743-20230208214016.mp3</link>
+    <description>Oproštaj od Miroslava Ćire Blaževića - iduću srijedu na zagrebačkome Mirogoju. U Turskoj i Siriji više od 12 tisuća poginulih. U Londonu Volodimir Zelenski zatražio vojne zrakoplove za Ukrajinu. Večeras je ukrajinski predsjednik i u Parizu. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 08 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/93/1d/20230208-kronika-dana-33773743-20230208214016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.02. 2023-02-07</title>
     <link>https://api.hrt.hr/media/ff/44/20230207-kronika-dana-33769583-20230207214020.mp3</link>
     <description>Raste broj poginulih u razornim potresima u Turskoj i Siriji. Prema posljednjim podacima, poginulo više od 7 tisuća ljudi. Ustavni sud ukinuo Zakon o izbornim jedinicama. Obrat u slučaju osmero hrvatskih državljana u Zambiji. Uhićeni u zračnoj luci i vraćeni u pritvor. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U olujnom nevremenu poginula jedna osoba, pet ih je ozlijeđeno. Smijenjen ukrajinski ministar obrane Oleksij Reznikov. Na snazi je europska zabrana uvoza ruske nafte - nestašice u Hrvatskoj neće biti, uvjeravaju stručnjaci. Ministar Bačić sutra ponovno na Banovini. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 05 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/6c/20230205-kronika-dana-33761877-20230205213541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.02. 2023-02-04</title>
-    <link>https://api.hrt.hr/media/41/1f/20230204-kronika-dana-33759767-20230204214526.mp3</link>
-    <description>Olujni vjetar diljem zemlje rušio stabla i nosio krovove. Dragan Čović ponovno izabran za predsjednika Hrvatskoga narodnog sabora BiH. Hrvatsko novinarsko društvo za sutra najavilo prosvjed. Šest mjeseci od smrti novinara Vladimira Matijanića smatra da ministar Beroš treba dati ostavku. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 04 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/41/1f/20230204-kronika-dana-33759767-20230204214526.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
