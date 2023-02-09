@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Feb 2023 17:17:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 17:12:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Ivan Sergo 2023-02-09</title>
+    <link>https://api.hrt.hr/media/dd/2a/20230209-historia-histriae-7917635-20230209170536.mp3</link>
+    <description>U goste nam dolazi pokretač instagram profila "Stara Pula" Ivan Sergo. On nam donosi brojne povijesne zanimljivosti iz nevjerojatnog povijesnog mozaika našeg grada. Budite s nama!  </description>
+    <pubDate>Thu, 09 Feb 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/2a/20230209-historia-histriae-7917635-20230209170536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>BRUNO LANGER (Nastavak) 2023-02-02</title>
     <link>https://api.hrt.hr/media/bf/c4/20230202-historia-histriae-7916026-20230202170012.mp3</link>
     <description>U goste nam se vraća legendarni Bruno Langer.....nastavljamo našu priču o Puli i njezinoj prošlosti. Budite s nama!</description>
@@ -79,14 +87,6 @@
     <description>09. prosinca 1856. položen je kamen temeljac za pulsko brodogradilište koje je odredilo razvoj i povijest grada. Tim povodom pričamo o povijesti ove institucije uz bivšeg djelatnika Josipa Iskru. </description>
     <pubDate>Thu, 08 Dec 2022 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1c/b0/20221208-historia-histriae-7898994-20221208170553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>David Orlovic za Historiu 2022-12-01</title>
-    <link>https://api.hrt.hr/media/d3/57/20221201-historia-histriae-7896630-20221201161028.mp3</link>
-    <description>U goste nam dolazi povjesničar David Orlović, a s nama će podijeliti nepoznate detalje iz povijest pulske četvrti sv. Polikarpa....</description>
-    <pubDate>Thu, 01 Dec 2022 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/57/20221201-historia-histriae-7896630-20221201161028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
