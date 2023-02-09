@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 08 Feb 2023 15:00:52 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 15:12:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.02. 2023-02-09</title>
+    <link>https://api.hrt.hr/media/94/f8/20230209-dnevne-novosti-33776408-20230209143536.mp3</link>
+    <description>Sve manje nade da u ruševinama u Turskoj i Siriji ima preživjelih. Prema posljednjim podacima, u katastrofalnim potresima poginulo više od 19 tisuća ljudi. Ukrajinski predsjednik Volodimir Zelenski u Briselu na izvanrednom sastanku na vrhu Europske unije. Glavna državna odvjetnica Zlata Hrvoj Šipek poslijepodne će Saboru podnijeti izvješće o radu državnih odvjetništava u 2021. godini. Urednica: Mira Barić</description>
+    <pubDate>Thu, 09 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/f8/20230209-dnevne-novosti-33776408-20230209143536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.02. 2023-02-08</title>
     <link>https://api.hrt.hr/media/a1/0b/20230208-dnevne-novosti-33772699-20230208144522.mp3</link>
     <description>Nakon duge i teške bolesti u Zagrebu umro Miroslav Ćiro Blažević. Svijet i dalje obilaze slike užasa iz potresom pogođene Turske i Sirije - broj žrtava dosad veći od 11 tisuća. Hrvatski državljani koji su jučer ponovno uhićeni u Zambiji sutra bi trebali izići na novo ročište. Zasad se ne zna koje nove dokaze ima tužiteljstvo. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Dva snažna potresa pogodila Tursku, tisuće mrtvih i ozlijeđenih, među ozlijeđenima su i dvije hrvatske državljanke. Hrvatska šalje Turskoj tim za spašavanje s 40 ljudi. Osmero Hrvata optuženih u Zambiji za trgovinu djecom oslobođeno optužbe. Dodijeljene prestižne glazbene nagrade Grammy - nova rekorderka prema broju zlatnih gramofona je Beyonce. Urednik: Silvio Šop</description>
     <pubDate>Mon, 06 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/0a/20230206-dnevne-novosti-33764475-20230206143545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.02. 2023-02-05</title>
-    <link>https://api.hrt.hr/media/25/1a/20230205-dnevne-novosti-33761145-20230205144042.mp3</link>
-    <description>Dok središnji dio zemlje zbraja štetu od jučerašnjeg olujnog nevremena, danas problemi na Jadranu zbog olujne bure. Šest mjeseci nakon smrti Vladimira Matijanića, u Zagrebu održan prosvjed "Oprostite što smetam, ne mogu disati". Službeni boravak u Egiptu predsjednik Milanović počeo posjetom memorijalnom groblju hrvatskih izbjeglica u El Shattu. Urednica: Mira Barić</description>
-    <pubDate>Sun, 05 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/1a/20230205-dnevne-novosti-33761145-20230205144042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
