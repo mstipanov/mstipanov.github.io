@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Feb 2023 07:04:23 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:43:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.02. 2023-02-10</title>
+    <link>https://api.hrt.hr/media/e5/b8/20230210-jutarnja-kronika-33778122-20230210063502.mp3</link>
+    <description>Broj poginulih u razornim potresima u Turskoj i Siriji veći je od 21 tisuće. Hladnoća, glad i očaj zahvatili su stotine tisuća ljudi. Tužiteljstvo u Zambiji podignulo je novu optužnicu protiv osmero hrvatskih državljana. Blagdan je blaženog Alojzija Stepinca. Urednica: Mira Barić</description>
+    <pubDate>Fri, 10 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/b8/20230210-jutarnja-kronika-33778122-20230210063502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.02. 2023-02-09</title>
     <link>https://api.hrt.hr/media/a5/c7/20230209-jutarnja-kronika-33774285-20230209063535.mp3</link>
     <description>Broj poginulih u potresima u Turskoj i Siriji prešao 15 tisuća. Europska unija organizirat će donatorsku konferenciju. Trener svih trenera - Miroslav Ćiro Blažević iduće srijede bit će pokopan u Aleji velikana na zagrebačkome Mirogoju. Osmero hrvatskih državljana, ponovno pritvorenih u Zambiji, danas izlazi pred suca. Glavna državna odvjetnica Zlata Hrvoj Šipek Saboru podnosi izvješće o radu državnih odvjetništava u 2021. godini. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U jučerašnja dva jaka potresa u Turskoj i Siriji poginulo više od 4300 ljudi. Hrvatski tim za traganje i spašavanje krenuo sinoć prema potresom pogođenom području. Glavna državna odvjetnica Zlata Hrvoj Šipek na saborskom Odboru za pravosuđe branit će Izvješće o radu državnih odvjetništava u 2021. godini. Predsjednik Zoran Milanović završava posjet Egiptu. Urednik: Silvio Šop</description>
     <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/7a/20230207-jutarnja-kronika-33766387-20230207063019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.02. 2023-02-06</title>
-    <link>https://api.hrt.hr/media/84/24/20230206-jutarnja-kronika-33762425-20230206063543.mp3</link>
-    <description>Katastrofalan potres od 7,8 prema Richteru pogodio rano jutros jug Turske i sjever Sirije. Velik broj poginulih i nestalih pod ruševinama. Ministar graditeljstva Branko Bačić danas će u Sisku provjeriti kako napreduje konstrukcijska obnova višestambenih zgrada. U olujnom nevremenu tijekom vikenda u Vukovaru se utopio muškarac koji je na Dunavu pokušao spasiti svoj čamac. Predsjednik Milanović danas se u Kairu sastaje s egipatskim predsjednikom al-Sisijem. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/24/20230206-jutarnja-kronika-33762425-20230206063543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
