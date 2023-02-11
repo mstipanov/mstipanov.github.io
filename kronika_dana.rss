@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 10 Feb 2023 21:47:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 21:49:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.02. 2023-02-11</title>
+    <link>https://api.hrt.hr/media/80/f6/20230211-kronika-dana-33783149-20230211213512.mp3</link>
+    <description>U potresima u Turskoj i Siriji poginulo više od 25 tisuća ljudi. U Turskoj uhićenja građevinara, zbog nesigurnosti neki su se timovi spasilaca povukli s terena. Pokreće se prikupljanje potpisa za opoziv glavne državne odvjetnice Zlate Hrvoj-Šipek. Gorivo bi u utorak trebalo pojeftiniti, dizel znatno više od benzina. Ruski napadi na ukrajinsku energetsku infrastrukturu ne prestaju. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 11 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/80/f6/20230211-kronika-dana-33783149-20230211213512.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.02. 2023-02-10</title>
     <link>https://api.hrt.hr/media/d0/a2/20230210-kronika-dana-33780989-20230210214040.mp3</link>
     <description>Više od 23.000 ljudi poginulo u potresima u Turskoj i Siriji. Ruske snage pokrenule najavljenu veliku ofenzivu na Ukrajinu. Kijevski gradonačelnik Vitalij Kličko za HRT rekao da je cilj Rusije cijela Ukrajina. Protiv osmero pritvorenih Hrvata u Zambiji podignuta nova optužnica. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Oproštaj od Miroslava Ćire Blaževića - iduću srijedu na zagrebačkome Mirogoju. U Turskoj i Siriji više od 12 tisuća poginulih. U Londonu Volodimir Zelenski zatražio vojne zrakoplove za Ukrajinu. Večeras je ukrajinski predsjednik i u Parizu. Urednica: Sanja Cota</description>
     <pubDate>Wed, 08 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/1d/20230208-kronika-dana-33773743-20230208214016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.02. 2023-02-07</title>
-    <link>https://api.hrt.hr/media/ff/44/20230207-kronika-dana-33769583-20230207214020.mp3</link>
-    <description>Raste broj poginulih u razornim potresima u Turskoj i Siriji. Prema posljednjim podacima, poginulo više od 7 tisuća ljudi. Ustavni sud ukinuo Zakon o izbornim jedinicama. Obrat u slučaju osmero hrvatskih državljana u Zambiji. Uhićeni u zračnoj luci i vraćeni u pritvor. Urednica: Mira Barić</description>
-    <pubDate>Tue, 07 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/44/20230207-kronika-dana-33769583-20230207214020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
