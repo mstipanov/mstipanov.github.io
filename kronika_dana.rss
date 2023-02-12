@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Feb 2023 21:49:24 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 21:53:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.02. 2023-02-12</title>
+    <link>https://api.hrt.hr/media/bb/8a/20230212-kronika-dana-33785256-20230212214033.mp3</link>
+    <description>U Turskoj uhićenja poduzetnika zbog nesavjesne gradnje. Naš tim civilne zaštite i dalje je u Turskoj, kamo je stigao i konvoj pomoći iz Hrvatske. SDP i Zeleno-lijevi blok predložit će da se zakonski zabrani prodaja dugova građana agencijama za naplatu potraživanja. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 12 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/8a/20230212-kronika-dana-33785256-20230212214033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.02. 2023-02-11</title>
     <link>https://api.hrt.hr/media/80/f6/20230211-kronika-dana-33783149-20230211213512.mp3</link>
     <description>U potresima u Turskoj i Siriji poginulo više od 25 tisuća ljudi. U Turskoj uhićenja građevinara, zbog nesigurnosti neki su se timovi spasilaca povukli s terena. Pokreće se prikupljanje potpisa za opoziv glavne državne odvjetnice Zlate Hrvoj-Šipek. Gorivo bi u utorak trebalo pojeftiniti, dizel znatno više od benzina. Ruski napadi na ukrajinsku energetsku infrastrukturu ne prestaju. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Raste broj poginulih u katastrofalnim potresima u Turskoj i Siriji. Sve je manje nade da će se pod ruševinama pronaći još preživjelih. Osmero Hrvata u Zambiji ponovno u zatvoru u Ndoli. Ukrajinski predsjednik Volodimir Zelenski u Briselu na izvanrednom sastanku na vrhu Europske unije. U Europskom parlamentu dočekan je ovacijama. Oporba u Saboru proziva državnu odvjetnicu Zlatu Hrvoj-Šipek zbog izostanka reakcije na korupcijske afere. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 09 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/da/20230209-kronika-dana-33777481-20230209213537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.02. 2023-02-08</title>
-    <link>https://api.hrt.hr/media/93/1d/20230208-kronika-dana-33773743-20230208214016.mp3</link>
-    <description>Oproštaj od Miroslava Ćire Blaževića - iduću srijedu na zagrebačkome Mirogoju. U Turskoj i Siriji više od 12 tisuća poginulih. U Londonu Volodimir Zelenski zatražio vojne zrakoplove za Ukrajinu. Večeras je ukrajinski predsjednik i u Parizu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 08 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/1d/20230208-kronika-dana-33773743-20230208214016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
