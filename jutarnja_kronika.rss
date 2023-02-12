@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Feb 2023 06:47:46 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 06:51:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.02. 2023-02-12</title>
+    <link>https://api.hrt.hr/media/08/4e/20230212-jutarnja-kronika-33783659-20230212064008.mp3</link>
+    <description>Broj poginulih u Turskoj i Siriji približava se 26 tisuća! Na terenu sve više nereda, Austrija i Njemačka prekinule akcije spašavanja. Rusija pripremila novih 300 tisuća vojnika za skoru ofenzivu, tvrdi ukrajinska strana. Oporba traži ostavku glavne državne odvjetnice, no Zlata Hrvoj-Šipek - ne planira odstupiti. Na Eurosongu u Velikoj Britaniji Hrvatsku će predstavljati riječka grupa Let 3 s antiratnom pjesmom Mama ŠČ. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 12 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/4e/20230212-jutarnja-kronika-33783659-20230212064008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.02. 2023-02-11</title>
     <link>https://api.hrt.hr/media/b8/d4/20230211-jutarnja-kronika-33781554-20230211064011.mp3</link>
     <description>Broj poginulih u razornom potresu u Turskoj i Siriji dosegnuo gotovo 24 tisuće. Američki vojni zrakoplov srušio novi objekt koji je letio iznad Aljaske. Idući tjedan pojeftinjuje gorivo, posebno eurodizel! Večeras se održava Dora, izbor hrvatske pjesme za pjesmu Eurovizije. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Broj poginulih u potresima u Turskoj i Siriji prešao 15 tisuća. Europska unija organizirat će donatorsku konferenciju. Trener svih trenera - Miroslav Ćiro Blažević iduće srijede bit će pokopan u Aleji velikana na zagrebačkome Mirogoju. Osmero hrvatskih državljana, ponovno pritvorenih u Zambiji, danas izlazi pred suca. Glavna državna odvjetnica Zlata Hrvoj Šipek Saboru podnosi izvješće o radu državnih odvjetništava u 2021. godini. Urednik: Silvio Šop</description>
     <pubDate>Thu, 09 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a5/c7/20230209-jutarnja-kronika-33774285-20230209063535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.02. 2023-02-08</title>
-    <link>https://api.hrt.hr/media/83/a7/20230208-jutarnja-kronika-33770117-20230208063517.mp3</link>
-    <description>Broj poginulih u razornim potresima u Turskoj i Siriji približio se 8 tisuća i 300. Mnogo je ljudi i dalje pod ruševinama, na niskim temperaturama. Na sjednici Vlade prijedlog je novog Zakona o obnovi zgrada oštećenih potresom, koji bi trebao znatno ubrzati obnovu. Ustavni sud ukinuo Zakon o izbornim jedinicama. U govoru naciji američki predsjednik Joe Biden najavio daljnju potporu Ukrajini te suradnju s Kinom. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 08 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/a7/20230208-jutarnja-kronika-33770117-20230208063517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
