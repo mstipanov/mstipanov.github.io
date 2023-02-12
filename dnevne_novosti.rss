@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Feb 2023 14:48:52 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 14:52:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.02. 2023-02-12</title>
+    <link>https://api.hrt.hr/media/ee/c3/20230212-dnevne-novosti-33784540-20230212143509.mp3</link>
+    <description>Broj mrtvih u potresu u Turskoj i Siriji prešao 29 tisuća. Turska je privela više od 130 ljudi zbog propusta u izgradnji objekata. Saborski klubovi SDP-a i Zeleno-lijevog bloka pozvat će i klubove vladajuće većine da se pridruže zahtjevu za opoziv glavne državne odvjetnice Zlate Hrvoj-Šipek. Oporba će zatražiti i zakonsku zabranu prodaje dugova građana agencijama za naplatu potraživanja. Let 3 predstavljat će Hrvatsku na Euroviziji s pjesmom Mama ŠČ, Harry Styles apsolutni pobjednik britanskih glazbenih nagrada Britt awards. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 12 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ee/c3/20230212-dnevne-novosti-33784540-20230212143509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.02. 2023-02-11</title>
     <link>https://api.hrt.hr/media/4b/c1/20230211-dnevne-novosti-33782406-20230211143513.mp3</link>
     <description>U potresima u Turskoj i Siriji poginulo više od 24 tisuće ljudi. Ukrajina i danas pod snažnim ruskim napadima, zračna uzbuna u većem dijelu zemlje. Saborska oporba oštro protiv glavne državne odvjetnice Zlate Hrvoj Šipek za koju tvrde da je lagala u Saboru. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sve manje nade da u ruševinama u Turskoj i Siriji ima preživjelih. Prema posljednjim podacima, u katastrofalnim potresima poginulo više od 19 tisuća ljudi. Ukrajinski predsjednik Volodimir Zelenski u Briselu na izvanrednom sastanku na vrhu Europske unije. Glavna državna odvjetnica Zlata Hrvoj Šipek poslijepodne će Saboru podnijeti izvješće o radu državnih odvjetništava u 2021. godini. Urednica: Mira Barić</description>
     <pubDate>Thu, 09 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/f8/20230209-dnevne-novosti-33776408-20230209143536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.02. 2023-02-08</title>
-    <link>https://api.hrt.hr/media/a1/0b/20230208-dnevne-novosti-33772699-20230208144522.mp3</link>
-    <description>Nakon duge i teške bolesti u Zagrebu umro Miroslav Ćiro Blažević. Svijet i dalje obilaze slike užasa iz potresom pogođene Turske i Sirije - broj žrtava dosad veći od 11 tisuća. Hrvatski državljani koji su jučer ponovno uhićeni u Zambiji sutra bi trebali izići na novo ročište. Zasad se ne zna koje nove dokaze ima tužiteljstvo. Urednica: Mira Barić</description>
-    <pubDate>Wed, 08 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a1/0b/20230208-dnevne-novosti-33772699-20230208144522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
