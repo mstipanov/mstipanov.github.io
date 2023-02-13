@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 12 Feb 2023 06:51:56 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 06:54:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.02. 2023-02-13</title>
+    <link>https://api.hrt.hr/media/35/10/20230213-jutarnja-kronika-33785827-20230213063546.mp3</link>
+    <description>tjedan dana nakon prvog iz niza razornih potresa u Turskoj, broj poginulih premašio 34 tisuće. Uhićenja u Turskoj zbog nesavjesne gradnje.mjesta Donje Bebrine, istočno od Slavonskog Broda, pronađena dva tijela. Pretpostavlja se da je riječ o migrantima. oporba traži zakonsku zabranu prodaja dugova građana agencijama za naplatu potraživanja američki zrakoplov srušio još jedan neidentificirani objekt iznad jezera Huron. Svjetski je dan radija, medija kojem se najviše vjeruje. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/35/10/20230213-jutarnja-kronika-33785827-20230213063546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.02. 2023-02-12</title>
     <link>https://api.hrt.hr/media/08/4e/20230212-jutarnja-kronika-33783659-20230212064008.mp3</link>
     <description>Broj poginulih u Turskoj i Siriji približava se 26 tisuća! Na terenu sve više nereda, Austrija i Njemačka prekinule akcije spašavanja. Rusija pripremila novih 300 tisuća vojnika za skoru ofenzivu, tvrdi ukrajinska strana. Oporba traži ostavku glavne državne odvjetnice, no Zlata Hrvoj-Šipek - ne planira odstupiti. Na Eurosongu u Velikoj Britaniji Hrvatsku će predstavljati riječka grupa Let 3 s antiratnom pjesmom Mama ŠČ. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Broj poginulih u razornim potresima u Turskoj i Siriji veći je od 21 tisuće. Hladnoća, glad i očaj zahvatili su stotine tisuća ljudi. Tužiteljstvo u Zambiji podignulo je novu optužnicu protiv osmero hrvatskih državljana. Blagdan je blaženog Alojzija Stepinca. Urednica: Mira Barić</description>
     <pubDate>Fri, 10 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/b8/20230210-jutarnja-kronika-33778122-20230210063502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.02. 2023-02-09</title>
-    <link>https://api.hrt.hr/media/a5/c7/20230209-jutarnja-kronika-33774285-20230209063535.mp3</link>
-    <description>Broj poginulih u potresima u Turskoj i Siriji prešao 15 tisuća. Europska unija organizirat će donatorsku konferenciju. Trener svih trenera - Miroslav Ćiro Blažević iduće srijede bit će pokopan u Aleji velikana na zagrebačkome Mirogoju. Osmero hrvatskih državljana, ponovno pritvorenih u Zambiji, danas izlazi pred suca. Glavna državna odvjetnica Zlata Hrvoj Šipek Saboru podnosi izvješće o radu državnih odvjetništava u 2021. godini. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 09 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a5/c7/20230209-jutarnja-kronika-33774285-20230209063535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
