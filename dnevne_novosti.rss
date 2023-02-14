@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Feb 2023 14:55:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 14:57:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.02. 2023-02-14</title>
+    <link>https://api.hrt.hr/media/cc/34/20230214-dnevne-novosti-33791466-20230214143510.mp3</link>
+    <description>Iako gotovo nema nade, spasioci ni deveti dan ne odustaju od potrage za preživjelima u razornim potresima u Turskoj i Siriji. Osmero Hrvata pritvorenih u Zambiji bit će pušteno da se brane sa slobode kad ispune uvjete - odlučio sud u Ndoli. Josipa Bozanića naslijedit će splitsko-makarski nadbiskup Dražen Kutleša. Urednica: Mira Barić</description>
+    <pubDate>Tue, 14 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/34/20230214-dnevne-novosti-33791466-20230214143510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.02. 2023-02-13</title>
     <link>https://api.hrt.hr/media/02/3e/20230213-dnevne-novosti-33787744-20230213144046.mp3</link>
     <description>Još se pronalaze preživjeli pod ruševinama nakon potresa u Turskoj i Siriji, broj žrtava sada je veći od 36 tisuća. Liječnici najavljuju veliki prosvjed 18. idućeg mjeseca i štrajk je još moguć. Svjetski je Dan radija. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U potresima u Turskoj i Siriji poginulo više od 24 tisuće ljudi. Ukrajina i danas pod snažnim ruskim napadima, zračna uzbuna u većem dijelu zemlje. Saborska oporba oštro protiv glavne državne odvjetnice Zlate Hrvoj Šipek za koju tvrde da je lagala u Saboru. Urednica: Sanja Cota</description>
     <pubDate>Sat, 11 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4b/c1/20230211-dnevne-novosti-33782406-20230211143513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.02. 2023-02-10</title>
-    <link>https://api.hrt.hr/media/49/99/20230210-dnevne-novosti-33780029-20230210144039.mp3</link>
-    <description>Broj poginulih u razornom potresu premašio je 22-ije tisuće i povećava se iz sata u sat. Spasioci iz cijelog svijeta ne gube nadu da će pet dana nakon potresa pod ruševinama pronaći preživjele. Iz Hrvatske je prema Turskoj i Siriji krenuo prvi veliki konvoj humanitarne pomoći. Siloviti ruski raketni napadi diljem Ukrajine. Sirene za uzbunu oglasile se u Kijevu, Harkivu, Zaporižji, Odesi. Blagdan je Stepinčeva, svečana misa ispred zagrebačke katedrale uz izravni prijenos na našem radiju je u 17 sati. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 10 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/99/20230210-dnevne-novosti-33780029-20230210144039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
