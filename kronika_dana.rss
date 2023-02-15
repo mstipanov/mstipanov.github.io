@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Feb 2023 22:00:24 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 22:04:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.02. 2023-02-15</title>
+    <link>https://api.hrt.hr/media/0b/c0/20230215-kronika-dana-33796331-20230215214053.mp3</link>
+    <description>Hrvatska se oprostila od Miroslava Ćire Blaževića, pokopan je u Aleji velikana na zagrebačkom Mirogoju. Uhićenom načelniku općine Murter Toniju Turčinovu određen jednomjesečni istražni zatvor. Ukrajina opovrgava tvrdnje Moskve da ruske snage napreduju u regiji Luhansku, te da se ukrajinske povlače.Deset dana od razornih potresa iz ruševina u Turskoj spašena majka i njezino dvoje djece te još dvije žene. Urednica: Mira Barić</description>
+    <pubDate>Wed, 15 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0b/c0/20230215-kronika-dana-33796331-20230215214053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.02. 2023-02-14</title>
     <link>https://api.hrt.hr/media/fd/4f/20230214-kronika-dana-33792447-20230214214010.mp3</link>
     <description>Više od 41 tisuće ljudi stradalo u potresima, no danas ih je iz ruševina spašeno devetero. Prema američkom izvješću, Rusi drže najmanje šest tisuća ukrajinske djece koju žele politički preodgojiti. Osmero Hrvata u Zambiji bit će pušteno iz pritvora, u Hrvatskoj u vezi s tim slučajem mnogobrojne kaznene prijave. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Turskoj uhićenja poduzetnika zbog nesavjesne gradnje. Naš tim civilne zaštite i dalje je u Turskoj, kamo je stigao i konvoj pomoći iz Hrvatske. SDP i Zeleno-lijevi blok predložit će da se zakonski zabrani prodaja dugova građana agencijama za naplatu potraživanja. Urednica: Sanja Cota</description>
     <pubDate>Sun, 12 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bb/8a/20230212-kronika-dana-33785256-20230212214033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.02. 2023-02-11</title>
-    <link>https://api.hrt.hr/media/80/f6/20230211-kronika-dana-33783149-20230211213512.mp3</link>
-    <description>U potresima u Turskoj i Siriji poginulo više od 25 tisuća ljudi. U Turskoj uhićenja građevinara, zbog nesigurnosti neki su se timovi spasilaca povukli s terena. Pokreće se prikupljanje potpisa za opoziv glavne državne odvjetnice Zlate Hrvoj-Šipek. Gorivo bi u utorak trebalo pojeftiniti, dizel znatno više od benzina. Ruski napadi na ukrajinsku energetsku infrastrukturu ne prestaju. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 11 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/80/f6/20230211-kronika-dana-33783149-20230211213512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
