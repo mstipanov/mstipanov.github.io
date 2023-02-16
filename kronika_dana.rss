@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 15 Feb 2023 22:04:31 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 21:37:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.02. 2023-02-16</title>
+    <link>https://api.hrt.hr/media/ce/42/20230216-kronika-dana-33800165-20230216213557.mp3</link>
+    <description>Nema većih šteta nakon jutrošnjeg potresa na Krku. Ipak, u osnovnoj školi sutra neće biti nastave. Rusija i Ukrajina razmijenile 200 ratnih zarobljenika, oslobođeni i ukrajinski branitelji Mariupolja. Sutra u Saboru glasovanje o izvješću glavne državne odvjetnice čiji opoziv želi oporba. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 16 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ce/42/20230216-kronika-dana-33800165-20230216213557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.02. 2023-02-15</title>
     <link>https://api.hrt.hr/media/0b/c0/20230215-kronika-dana-33796331-20230215214053.mp3</link>
     <description>Hrvatska se oprostila od Miroslava Ćire Blaževića, pokopan je u Aleji velikana na zagrebačkom Mirogoju. Uhićenom načelniku općine Murter Toniju Turčinovu određen jednomjesečni istražni zatvor. Ukrajina opovrgava tvrdnje Moskve da ruske snage napreduju u regiji Luhansku, te da se ukrajinske povlače.Deset dana od razornih potresa iz ruševina u Turskoj spašena majka i njezino dvoje djece te još dvije žene. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Tjedan dana od razornog potresa u Turskoj i Siriji poginulih više od 37 500. Hrvatski potražni tim vraća se u zemlju! Liječnici najavljuju veliki prosvjed 18. sljedećeg mjeseca. Traže da se riješe njihovi zahtjevi iz kolovoza prošle godine. Nakon što je Most u saborsku proceduru poslao zaključak za razrješenje glavne državne odvjetnice Zlate Hrvoj-Šipek, premijer Plenković najavio je promjene zakona te da će curenje informacija iz spisa biti kazneno djelo. Urednica: Mira Barić</description>
     <pubDate>Mon, 13 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ba/0b/20230213-kronika-dana-33788790-20230213214046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.02. 2023-02-12</title>
-    <link>https://api.hrt.hr/media/bb/8a/20230212-kronika-dana-33785256-20230212214033.mp3</link>
-    <description>U Turskoj uhićenja poduzetnika zbog nesavjesne gradnje. Naš tim civilne zaštite i dalje je u Turskoj, kamo je stigao i konvoj pomoći iz Hrvatske. SDP i Zeleno-lijevi blok predložit će da se zakonski zabrani prodaja dugova građana agencijama za naplatu potraživanja. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 12 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bb/8a/20230212-kronika-dana-33785256-20230212214033.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
