@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Feb 2023 17:12:25 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 17:06:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>MILAN RADOSEVIC 2023-02-16</title>
+    <link>https://api.hrt.hr/media/7c/5b/20230216-historia-histriae-7920821-20230216170057.mp3</link>
+    <description>U goste nam dolazi jedan od naših najistaknutijih povjesničara Milan Radošević, a pričamo o njegovoj knjizi "Geneza antifašizma u Istri". Budite s nama!</description>
+    <pubDate>Thu, 16 Feb 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7c/5b/20230216-historia-histriae-7920821-20230216170057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Ivan Sergo 2023-02-09</title>
     <link>https://api.hrt.hr/media/dd/2a/20230209-historia-histriae-7917635-20230209170536.mp3</link>
     <description>U goste nam dolazi pokretač instagram profila "Stara Pula" Ivan Sergo. On nam donosi brojne povijesne zanimljivosti iz nevjerojatnog povijesnog mozaika našeg grada. Budite s nama!  </description>
@@ -79,14 +87,6 @@
     <description>Naš gost je Miro Načinović, a pričamo o povijesti Pule i njegovim sjećanjima o lovicama na vrhu Arene, ekspedicijama u podzemlje Pule i naravno o Stoji i njezinoj povijesti. </description>
     <pubDate>Thu, 15 Dec 2022 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/93/20221215-historia-histriae-7900897-20221215171023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Josip Iskra za 8.12. 2022-12-08</title>
-    <link>https://api.hrt.hr/media/1c/b0/20221208-historia-histriae-7898994-20221208170553.mp3</link>
-    <description>09. prosinca 1856. položen je kamen temeljac za pulsko brodogradilište koje je odredilo razvoj i povijest grada. Tim povodom pričamo o povijesti ove institucije uz bivšeg djelatnika Josipa Iskru. </description>
-    <pubDate>Thu, 08 Dec 2022 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1c/b0/20221208-historia-histriae-7898994-20221208170553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
