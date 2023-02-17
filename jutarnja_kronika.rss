@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Feb 2023 07:05:14 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 06:37:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.02. 2023-02-17</title>
+    <link>https://api.hrt.hr/media/c6/d6/20230217-jutarnja-kronika-33800872-20230217063559.mp3</link>
+    <description>Sabor će glasovati o novom Zakonu o obnovi i o izvješću glavne državne odvjetnice Zlate Hrvoj-Šipek. Aplikacija za praćenje cijena od danas dostupna građanima. U Minhenu počinje međunarodna sigurnosna konferencija na kojoj sudjeluje i premijer Plenković. U Pleternici se otvara Muzej bećarca. Urednik Grgo Mrvica</description>
+    <pubDate>Fri, 17 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c6/d6/20230217-jutarnja-kronika-33800872-20230217063559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.02. 2023-02-16</title>
     <link>https://api.hrt.hr/media/cc/aa/20230216-jutarnja-kronika-33796878-20230216063555.mp3</link>
     <description>Načelniku općine Murter Toniju Turčinovu, osumnjičenom za gospodarske malverzacije i trošenje općinskog novca, sinoć određen jednomjesečni istražni zatvor. Optužno vijeće zagrebačkoga Županijskog suda odlučivat će o osnovanosti optužnice protiv četvorice bivših ministara optuženih za korupciju. Hrvatska se jučer oprostila od Miroslava Ćire Blaževića, pokopan je u Aleji velikana na zagrebačkom Mirogoju. Počinje 73. Berlinski filmski festival. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Deveti dan od razornog potresa u Turskoj i Siriji, hrvatski potražni tim vraća se u zemlju! Zakon o obnovi nakon potresa u Hrvatskoj u petak na glasovanju u Saboru, danas o njemu Odbor za graditeljstvo. Od ponoći niže cijene goriva. Prosječni spremnik dizela jeftiniji 6 eura. Liječnici najavili veliki prosvjed 18. idućeg mjeseca. 100 je godina od rođenja Miljenka Smoje. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 14 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fe/69/20230214-jutarnja-kronika-33789343-20230214063509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.02. 2023-02-13</title>
-    <link>https://api.hrt.hr/media/35/10/20230213-jutarnja-kronika-33785827-20230213063546.mp3</link>
-    <description>tjedan dana nakon prvog iz niza razornih potresa u Turskoj, broj poginulih premašio 34 tisuće. Uhićenja u Turskoj zbog nesavjesne gradnje.mjesta Donje Bebrine, istočno od Slavonskog Broda, pronađena dva tijela. Pretpostavlja se da je riječ o migrantima. oporba traži zakonsku zabranu prodaja dugova građana agencijama za naplatu potraživanja američki zrakoplov srušio još jedan neidentificirani objekt iznad jezera Huron. Svjetski je dan radija, medija kojem se najviše vjeruje. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/35/10/20230213-jutarnja-kronika-33785827-20230213063546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
