@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Feb 2023 21:37:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 21:40:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Više od 41 tisuće ljudi stradalo u potresima, no danas ih je iz ruševina spašeno devetero. Prema američkom izvješću, Rusi drže najmanje šest tisuća ukrajinske djece koju žele politički preodgojiti. Osmero Hrvata u Zambiji bit će pušteno iz pritvora, u Hrvatskoj u vezi s tim slučajem mnogobrojne kaznene prijave. Urednica: Sanja Cota</description>
     <pubDate>Tue, 14 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/4f/20230214-kronika-dana-33792447-20230214214010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.02. 2023-02-13</title>
-    <link>https://api.hrt.hr/media/ba/0b/20230213-kronika-dana-33788790-20230213214046.mp3</link>
-    <description>Tjedan dana od razornog potresa u Turskoj i Siriji poginulih više od 37 500. Hrvatski potražni tim vraća se u zemlju! Liječnici najavljuju veliki prosvjed 18. sljedećeg mjeseca. Traže da se riješe njihovi zahtjevi iz kolovoza prošle godine. Nakon što je Most u saborsku proceduru poslao zaključak za razrješenje glavne državne odvjetnice Zlate Hrvoj-Šipek, premijer Plenković najavio je promjene zakona te da će curenje informacija iz spisa biti kazneno djelo. Urednica: Mira Barić</description>
-    <pubDate>Mon, 13 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ba/0b/20230213-kronika-dana-33788790-20230213214046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
