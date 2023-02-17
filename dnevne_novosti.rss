@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Feb 2023 15:06:33 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 15:08:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.02. 2023-02-17</title>
+    <link>https://api.hrt.hr/media/46/1e/20230217-dnevne-novosti-33808112-20230217144058.mp3</link>
+    <description>Liječnici ne odustaju od provjeda ni nakon sastanka s ministrom Berošem. Ubrzava se obnova nakon potresa, Sabor prihvatio novi zakon. Glavna državna odvjetnica Zlata Hrvoj-Šipek ostaje na dužnosti, a za novu predsjednicu Povjerenstva za odlučivanje o subou interesa izabrana Aleksandra Jozić Ileković. U Minhenu sigurnosna konferencija - glavna tema Ukrajina. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 17 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/46/1e/20230217-dnevne-novosti-33808112-20230217144058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.02. 2023-02-16</title>
     <link>https://api.hrt.hr/media/12/c5/20230216-dnevne-novosti-33799214-20230216144056.mp3</link>
     <description>Potres jakosti 4,8 pogodio otok Krk. Osjetio se u većem dijelu Hrvatske. U srijedu počinje prodaja državnih obveznica, građani će prvi put u njih moći uložiti svoju štednju. Vrhovni sud potvrdio oslobađajuću presudu Ivici Todoriću u slučaju "mali Agrokor". Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Iako gotovo nema nade, spasioci ni deveti dan ne odustaju od potrage za preživjelima u razornim potresima u Turskoj i Siriji. Osmero Hrvata pritvorenih u Zambiji bit će pušteno da se brane sa slobode kad ispune uvjete - odlučio sud u Ndoli. Josipa Bozanića naslijedit će splitsko-makarski nadbiskup Dražen Kutleša. Urednica: Mira Barić</description>
     <pubDate>Tue, 14 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cc/34/20230214-dnevne-novosti-33791466-20230214143510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.02. 2023-02-13</title>
-    <link>https://api.hrt.hr/media/02/3e/20230213-dnevne-novosti-33787744-20230213144046.mp3</link>
-    <description>Još se pronalaze preživjeli pod ruševinama nakon potresa u Turskoj i Siriji, broj žrtava sada je veći od 36 tisuća. Liječnici najavljuju veliki prosvjed 18. idućeg mjeseca i štrajk je još moguć. Svjetski je Dan radija. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 13 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/02/3e/20230213-dnevne-novosti-33787744-20230213144046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
