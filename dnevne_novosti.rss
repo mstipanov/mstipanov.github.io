@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 17 Feb 2023 15:08:34 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 14:42:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.02. 2023-02-18</title>
+    <link>https://api.hrt.hr/media/f3/b4/20230218-dnevne-novosti-33828091-20230218143502.mp3</link>
+    <description>Glavna je poruka sigurnosne konferencije u M&amp;uuml;nchenu jasna i čvrsta potpora Ukrajini. Rusi sada napadaju uglavnom naselja oko Bahmuta, ukrajinska vojska priopćila da napade uspješno odbija. Održan prosvjed protiv planirane gradnje spalionice opasnog otpada u sklopu KBC-a Zagreb. IDS proslavio 33. obljetnicu, predstavio platformu za sljedeće 33 godine rada. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 18 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f3/b4/20230218-dnevne-novosti-33828091-20230218143502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.02. 2023-02-17</title>
     <link>https://api.hrt.hr/media/46/1e/20230217-dnevne-novosti-33808112-20230217144058.mp3</link>
     <description>Liječnici ne odustaju od provjeda ni nakon sastanka s ministrom Berošem. Ubrzava se obnova nakon potresa, Sabor prihvatio novi zakon. Glavna državna odvjetnica Zlata Hrvoj-Šipek ostaje na dužnosti, a za novu predsjednicu Povjerenstva za odlučivanje o subou interesa izabrana Aleksandra Jozić Ileković. U Minhenu sigurnosna konferencija - glavna tema Ukrajina. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Na zagrebačkom Mirogoju pokopan Miroslav Ćiro Blažević. Uhićen načelnik općine Murtera Toni Turčinov. Rusi tvrde da su probili ukrajinsku obranu u Luhansku. Komisijin povjerenik Varhelji idiotima nazvao zastupnike u Europskom parlamentu nakon pitanja Tomislava Sokola o odnosu Srbije i Europske unije. Urednica: Sanja Cota</description>
     <pubDate>Wed, 15 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4c/3b/20230215-dnevne-novosti-33795404-20230215144054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.02. 2023-02-14</title>
-    <link>https://api.hrt.hr/media/cc/34/20230214-dnevne-novosti-33791466-20230214143510.mp3</link>
-    <description>Iako gotovo nema nade, spasioci ni deveti dan ne odustaju od potrage za preživjelima u razornim potresima u Turskoj i Siriji. Osmero Hrvata pritvorenih u Zambiji bit će pušteno da se brane sa slobode kad ispune uvjete - odlučio sud u Ndoli. Josipa Bozanića naslijedit će splitsko-makarski nadbiskup Dražen Kutleša. Urednica: Mira Barić</description>
-    <pubDate>Tue, 14 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/34/20230214-dnevne-novosti-33791466-20230214143510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
