@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 18 Feb 2023 14:42:05 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 14:45:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.02. 2023-02-19</title>
+    <link>https://api.hrt.hr/media/2a/69/20230219-dnevne-novosti-33847629-20230219144018.mp3</link>
+    <description>Snažnim porukama potpore Ukrajini i njezinoj borbi protiv ruske agresije u Munchenu završila međunarodna sigurnosna konferencija. Ne smiruje se tlo u Turskoj, u 14 dana registrirano više od šest tisuća potresa. Kroz Rijeku u podne krenula međunarodna karnevalska povorka. Urednica: Mira Barić</description>
+    <pubDate>Sun, 19 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2a/69/20230219-dnevne-novosti-33847629-20230219144018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.02. 2023-02-18</title>
     <link>https://api.hrt.hr/media/f3/b4/20230218-dnevne-novosti-33828091-20230218143502.mp3</link>
     <description>Glavna je poruka sigurnosne konferencije u M&amp;uuml;nchenu jasna i čvrsta potpora Ukrajini. Rusi sada napadaju uglavnom naselja oko Bahmuta, ukrajinska vojska priopćila da napade uspješno odbija. Održan prosvjed protiv planirane gradnje spalionice opasnog otpada u sklopu KBC-a Zagreb. IDS proslavio 33. obljetnicu, predstavio platformu za sljedeće 33 godine rada. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Potres jakosti 4,8 pogodio otok Krk. Osjetio se u većem dijelu Hrvatske. U srijedu počinje prodaja državnih obveznica, građani će prvi put u njih moći uložiti svoju štednju. Vrhovni sud potvrdio oslobađajuću presudu Ivici Todoriću u slučaju "mali Agrokor". Urednica: Mira Barić</description>
     <pubDate>Thu, 16 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/c5/20230216-dnevne-novosti-33799214-20230216144056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.02. 2023-02-15</title>
-    <link>https://api.hrt.hr/media/4c/3b/20230215-dnevne-novosti-33795404-20230215144054.mp3</link>
-    <description>Na zagrebačkom Mirogoju pokopan Miroslav Ćiro Blažević. Uhićen načelnik općine Murtera Toni Turčinov. Rusi tvrde da su probili ukrajinsku obranu u Luhansku. Komisijin povjerenik Varhelji idiotima nazvao zastupnike u Europskom parlamentu nakon pitanja Tomislava Sokola o odnosu Srbije i Europske unije. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 15 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4c/3b/20230215-dnevne-novosti-33795404-20230215144054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
