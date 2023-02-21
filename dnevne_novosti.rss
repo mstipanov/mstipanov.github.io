@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Feb 2023 14:48:59 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 14:52:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.02. 2023-02-21</title>
+    <link>https://api.hrt.hr/media/8d/6e/20230221-dnevne-novosti-33864667-20230221144016.mp3</link>
+    <description>U svojem govoru Vladimir Putin optužio Zapad za rat u Ukrajini i najavio rusko povlačenje iz Sporazuma o kontroli nuklearnog oružja. U Turskoj u protekla dva tjedna zabilježeno oko sedam tisuća potresa. Na Protukorupcijskom vijeću o upravljanju INA-om svjedočili zviždačica Vesna Balenović i bivši sindikalist Predrag Sekulić. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 21 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/6e/20230221-dnevne-novosti-33864667-20230221144016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.02. 2023-02-20</title>
     <link>https://api.hrt.hr/media/22/78/20230220-dnevne-novosti-33861215-20230220144004.mp3</link>
     <description>Prvi put od početka ruske agresije na Ukrajinu u Kijev stigao američki predsjednik Joe Biden. Država će već ove godine podstanarima sufinancirati najam stanova. Hrabri zagrebački policajac porodio ženu i spasio život djevojčici. Hrvatska radiotelevizija dobila posebno priznanje za projekt praćenja Svjetskoga nogometnog prvenstva u Kataru. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Glavna je poruka sigurnosne konferencije u M&amp;uuml;nchenu jasna i čvrsta potpora Ukrajini. Rusi sada napadaju uglavnom naselja oko Bahmuta, ukrajinska vojska priopćila da napade uspješno odbija. Održan prosvjed protiv planirane gradnje spalionice opasnog otpada u sklopu KBC-a Zagreb. IDS proslavio 33. obljetnicu, predstavio platformu za sljedeće 33 godine rada. Urednik: Silvio Šop</description>
     <pubDate>Sat, 18 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f3/b4/20230218-dnevne-novosti-33828091-20230218143502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.02. 2023-02-17</title>
-    <link>https://api.hrt.hr/media/46/1e/20230217-dnevne-novosti-33808112-20230217144058.mp3</link>
-    <description>Liječnici ne odustaju od provjeda ni nakon sastanka s ministrom Berošem. Ubrzava se obnova nakon potresa, Sabor prihvatio novi zakon. Glavna državna odvjetnica Zlata Hrvoj-Šipek ostaje na dužnosti, a za novu predsjednicu Povjerenstva za odlučivanje o subou interesa izabrana Aleksandra Jozić Ileković. U Minhenu sigurnosna konferencija - glavna tema Ukrajina. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 17 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/1e/20230217-dnevne-novosti-33808112-20230217144058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
