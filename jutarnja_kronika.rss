@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Feb 2023 06:47:48 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 06:50:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.02. 2023-02-21</title>
+    <link>https://api.hrt.hr/media/8f/5b/20230221-jutarnja-kronika-33862796-20230221063017.mp3</link>
+    <description>Jučer dva nova snažna potresa uz tursko-sirijsku granicu, ponovno se broje mrtvi i ranjeni. Američki predsjednik Biden u Kijevu izrazio snažnu potporu Ukrajini uoči godišnjice ruske invazije na tu zemlju. Nakon Kijeva Biden stigao u Poljsku. Od sutra za građane počinje upis državnih obveznica.
+Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 21 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8f/5b/20230221-jutarnja-kronika-33862796-20230221063017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.02. 2023-02-20</title>
     <link>https://api.hrt.hr/media/3d/4b/20230220-jutarnja-kronika-33859522-20230220063503.mp3</link>
     <description>Uoči godišnjice ruskog napada na Ukrajinu, američki predsjednik Biden dolazi u Europu. Danas se očekuje objava javnog poziva za kupnju državnih obveznica koje će građani moći kupovati od srijede.Vlade Branko Bačić i Davor Božinović danas u Sisku potpisuju ugovor o donaciji 15 državnih stanova županiji za smještaj obitelji iz kontejnerskog naselja. : Mislav Togonal</description>
@@ -31,14 +40,6 @@
     <description>Više od 450 sudionika, među kojima i četrdeset pet predsjednika država i vlada - na Međunarodnoj sigurnosnoj konferenciji u Muenchenu. Šest osoba ubijeno je u masovnoj pucnjavi u Sjedinjenim Državama.	U Zagrebu prosvjed Građanske inicijative "Stop spalionici Rebro". Urednica: Mira Barić.</description>
     <pubDate>Sat, 18 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/5a/20230218-jutarnja-kronika-33820843-20230218063505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.02. 2023-02-17</title>
-    <link>https://api.hrt.hr/media/c6/d6/20230217-jutarnja-kronika-33800872-20230217063559.mp3</link>
-    <description>Sabor će glasovati o novom Zakonu o obnovi i o izvješću glavne državne odvjetnice Zlate Hrvoj-Šipek. Aplikacija za praćenje cijena od danas dostupna građanima. U Minhenu počinje međunarodna sigurnosna konferencija na kojoj sudjeluje i premijer Plenković. U Pleternici se otvara Muzej bećarca. Urednik Grgo Mrvica</description>
-    <pubDate>Fri, 17 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/d6/20230217-jutarnja-kronika-33800872-20230217063559.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
