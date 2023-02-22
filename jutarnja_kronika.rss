@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Feb 2023 06:50:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 06:54:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.02. 2023-02-22</title>
+    <link>https://api.hrt.hr/media/85/1a/20230222-jutarnja-kronika-33866222-20230222063522.mp3</link>
+    <description>Počinje upis državnih obveznica, minimalni ulog - 500 eura. Ministar financija ne vidi razlog za nova poskupljenja, distributerima je pak stanje s trenutačnim cijenama neodrživo. Vladimir Putin odlučio da Rusija prekida sporazum sa SAD-om o ograničavanju nuklearnog arsenala. Američki predsjednik Biden iz Varšave poručio da potpora Ukrajini neće prestati. Urednica: Snježana Kralj</description>
+    <pubDate>Wed, 22 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/85/1a/20230222-jutarnja-kronika-33866222-20230222063522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.02. 2023-02-21</title>
     <link>https://api.hrt.hr/media/8f/5b/20230221-jutarnja-kronika-33862796-20230221063017.mp3</link>
     <description>Jučer dva nova snažna potresa uz tursko-sirijsku granicu, ponovno se broje mrtvi i ranjeni. Američki predsjednik Biden u Kijevu izrazio snažnu potporu Ukrajini uoči godišnjice ruske invazije na tu zemlju. Nakon Kijeva Biden stigao u Poljsku. Od sutra za građane počinje upis državnih obveznica.
@@ -32,14 +40,6 @@ Urednik: Grgo Mrvica</description>
     <description>Američka potpredsjednica Kamala Harris na konferenciji o sigurnosti u Munchenu poručila: "Rusija je u Ukrajini počinila zločine protiv čovječnosti." Svi sudionici konferencije ujedinjeni u potpori Ukrajini u borbi protiv ruske agresije. Rusi koncentriraju napade oko Bahmuta, prema američkim procjenama dosad je oko 200 tisuća ruskih vojnika ubijeno ili ranjeno. Novi potres jakosti 5,2 prema Richteru pogodio sinoć središnju Tursku. Veliki finale 40. Riječkog karnevala - međunarodna povorka počinje u podne, najavljeno sudjelovanje devet tisuća maškara. Urednik: Silvio Šop</description>
     <pubDate>Sun, 19 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/78/20230219-jutarnja-kronika-33840757-20230219063013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.02. 2023-02-18</title>
-    <link>https://api.hrt.hr/media/03/5a/20230218-jutarnja-kronika-33820843-20230218063505.mp3</link>
-    <description>Više od 450 sudionika, među kojima i četrdeset pet predsjednika država i vlada - na Međunarodnoj sigurnosnoj konferenciji u Muenchenu. Šest osoba ubijeno je u masovnoj pucnjavi u Sjedinjenim Državama.	U Zagrebu prosvjed Građanske inicijative "Stop spalionici Rebro". Urednica: Mira Barić.</description>
-    <pubDate>Sat, 18 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/03/5a/20230218-jutarnja-kronika-33820843-20230218063505.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
