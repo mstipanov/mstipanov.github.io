@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Feb 2023 21:53:05 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 21:56:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.02. 2023-02-22</title>
+    <link>https://api.hrt.hr/media/9d/87/20230222-kronika-dana-33869400-20230222214023.mp3</link>
+    <description>Za građane počeo upis državnih obveznica. Osmero Hrvata u Zambiji pušteno da se brane sa slobode, njihov slučaj preuzeo tamošnji Visoki sud. Dok se na istoku Ukrajine vode teške borbe, Rusija proslavila godišnjicu invazije velikim koncertom. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 22 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9d/87/20230222-kronika-dana-33869400-20230222214023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.02. 2023-02-21</title>
     <link>https://api.hrt.hr/media/64/1e/20230221-kronika-dana-33865687-20230221214017.mp3</link>
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>Turska završava potragu i spašavanje preživjelih u razornom potresu. Uoči godišnjice početka ruske agresije na Ukrajinu, u Europu će doputovati američki predsjednik Joe Biden. Počele pripreme za novu turističku sezonu - hoće li biti dovoljno radnika? Završio 40. Riječki karneval - devet tisuća maškara prošlo Korzom. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 19 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8c/7a/20230219-kronika-dana-33853770-20230219214013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.02. 2023-02-18</title>
-    <link>https://api.hrt.hr/media/93/1b/20230218-kronika-dana-33834245-20230218214503.mp3</link>
-    <description>Sudionici sigurnosne konferencije u Munchenu ujedinjeni u potpori Ukrajini i njezinu naoružavanju. Američka potpredsjednica Kamala Harris poručila - "Rusija je u Ukrajini počinila zločine protiv čovječnosti". U Zagrebu prosvjed protiv planirane gradnje spalionice opasnog otpada u sklopu KBC-a. Počeo karneval u Riju de Janeiru. Karnevalsko veselje i u hrvatskim gradovima. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 18 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/1b/20230218-kronika-dana-33834245-20230218214503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
