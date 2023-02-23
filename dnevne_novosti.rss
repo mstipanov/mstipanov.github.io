@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 22 Feb 2023 14:55:28 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 14:57:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.02. 2023-02-23</title>
+    <link>https://api.hrt.hr/media/3f/bd/20230223-dnevne-novosti-33872119-20230223143506.mp3</link>
+    <description>Od jučer uplaćeno 220 milijuna eura za državne obveznice. Od prvoga srpnja ukidanje rada nedjeljom, Vlada Zakon o trgovini poslala u saborsku proceduru. Sutra je godišnjica ruske invazije na Ukrajinu, Ujedinjeni narodi održavaju izvanrednu sjednicu Opće skupštine. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 23 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/bd/20230223-dnevne-novosti-33872119-20230223143506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.02. 2023-02-22</title>
     <link>https://api.hrt.hr/media/44/c4/20230222-dnevne-novosti-33868471-20230222143522.mp3</link>
     <description>Počeo upis državnih javnih obveznica, prvi put dostupnih i građanima. Premijer Andrej Plenković o najavljenim poskupljenjima - osigurali smo sigurnost opskrbe energentima, oni su i pojeftinili, ne vidim razlog za rast cijena. U Osijeku je otvoren Regionalni distribucijski centar za voće i povrće. Današnjom Pepelnicom ili Čistom srijedom počinje 40-dnevna korizma, priprema za Uskrs. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Prvi put od početka ruske agresije na Ukrajinu u Kijev stigao američki predsjednik Joe Biden. Država će već ove godine podstanarima sufinancirati najam stanova. Hrabri zagrebački policajac porodio ženu i spasio život djevojčici. Hrvatska radiotelevizija dobila posebno priznanje za projekt praćenja Svjetskoga nogometnog prvenstva u Kataru. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 20 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/22/78/20230220-dnevne-novosti-33861215-20230220144004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.02. 2023-02-19</title>
-    <link>https://api.hrt.hr/media/2a/69/20230219-dnevne-novosti-33847629-20230219144018.mp3</link>
-    <description>Snažnim porukama potpore Ukrajini i njezinoj borbi protiv ruske agresije u Munchenu završila međunarodna sigurnosna konferencija. Ne smiruje se tlo u Turskoj, u 14 dana registrirano više od šest tisuća potresa. Kroz Rijeku u podne krenula međunarodna karnevalska povorka. Urednica: Mira Barić</description>
-    <pubDate>Sun, 19 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/69/20230219-dnevne-novosti-33847629-20230219144018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
