@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 23 Feb 2023 21:58:18 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 22:01:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.02. 2023-02-24</title>
+    <link>https://api.hrt.hr/media/97/9e/20230224-kronika-dana-33876683-20230224215543.mp3</link>
+    <description>Godinu dana od ruske invazije ukrajinski predsjednik Zelenski izrazio uvjerenje u sposobnost svoje zemlje da se obrani. . Poljska isporučila Ukrajini prve tenkove. U Hrvatskoj novi dom našle 22 tisuće Ukrajinaca. Unutarnji nadzor KBC-a Sestre milosrdnice nije utvrdio stručne propuste u liječenju Line Budak. Predsjednik Milanović i ministar Banožić polemično o stanju u oružanim snagama. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 24 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/97/9e/20230224-kronika-dana-33876683-20230224215543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.02. 2023-02-23</title>
     <link>https://api.hrt.hr/media/49/e8/20230223-kronika-dana-33873248-20230223214507.mp3</link>
     <description>Dvoje pirotehničara poginulo tijekom razminiravanja blizu Perušića. U Saboru burna rasprava o povjerenju predsjedniku Vlade Plenkoviću. Uoči godišnjice ruske invazije na Ukrajinu Opća skupština UN-a prihvatila rezoluciju kojom se osuđuje taj čin. Kina za sutra najavila objavu svoje mirovne inicijative. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
     <pubDate>Tue, 21 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/64/1e/20230221-kronika-dana-33865687-20230221214017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.02. 2023-02-20</title>
-    <link>https://api.hrt.hr/media/90/42/20230220-kronika-dana-33862171-20230220213505.mp3</link>
-    <description>Dva nova snažna potresa uz tursko-sirijsku granicu, tri su osobe poginule, a više od 200 je ozlijeđeno.Američki predsjednik Biden završio iznenadni posjet Ukrajini i otputovao u Poljsku.Od srijede za građane počinje upis državnih obveznica. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 20 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/90/42/20230220-kronika-dana-33862171-20230220213505.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
