@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 23 Feb 2023 07:26:56 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 06:59:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.02. 2023-02-24</title>
+    <link>https://api.hrt.hr/media/0f/01/20230224-jutarnja-kronika-33873880-20230224063539.mp3</link>
+    <description>Godišnjica je opće ruske invazije na Ukrajinu, kraj rata se ne nazire, Opća skupština UN-a prihvatila rezoluciju kojom se traži trenutni prekid napada na ukrajinsku energetsku infrastrukturu i civilne objekte. Burna saborska rasprava o povjerenju predsjedniku Vlade Andreju Plenkoviću završila noćas u dva sata. Nastavlja se očevid na mjestu pogibije dvoje pirotehničara tijekom razminiranja blizu Čanka. Kazališne premijere u Varaždinu, Dubrovniku i Rijeci. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 24 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/01/20230224-jutarnja-kronika-33873880-20230224063539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.02. 2023-02-23</title>
     <link>https://api.hrt.hr/media/05/1e/20230223-jutarnja-kronika-33870118-20230223071551.mp3</link>
     <description>Vrlo solidan prvi dan upisa državnih obveznica - jučer prikupljeno više od 15 posto od predviđenih milijardu eura. Sabor će raspravljati o oporbenom prijedlogu opoziva Andreja Plenkovića, što će biti prva takva rasprava u njegovu premijerskome mandatu. Opća skupština UN-a na izvanrednoj sjednici raspravljat će o rezoluciji koja od Rusije traži potpuno i bezuvjetno povlačenje njezinih snaga iz Ukrajine. Osmero Hrvata uhićenih u Zambiji pod sumnjom da su pokušali trgovati djecom pušteno da se brane sa slobode. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 21 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/5b/20230221-jutarnja-kronika-33862796-20230221063017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.02. 2023-02-20</title>
-    <link>https://api.hrt.hr/media/3d/4b/20230220-jutarnja-kronika-33859522-20230220063503.mp3</link>
-    <description>Uoči godišnjice ruskog napada na Ukrajinu, američki predsjednik Biden dolazi u Europu. Danas se očekuje objava javnog poziva za kupnju državnih obveznica koje će građani moći kupovati od srijede.Vlade Branko Bačić i Davor Božinović danas u Sisku potpisuju ugovor o donaciji 15 državnih stanova županiji za smještaj obitelji iz kontejnerskog naselja. : Mislav Togonal</description>
-    <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3d/4b/20230220-jutarnja-kronika-33859522-20230220063503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
