@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 24 Feb 2023 06:59:01 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 06:32:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Počinje upis državnih obveznica, minimalni ulog - 500 eura. Ministar financija ne vidi razlog za nova poskupljenja, distributerima je pak stanje s trenutačnim cijenama neodrživo. Vladimir Putin odlučio da Rusija prekida sporazum sa SAD-om o ograničavanju nuklearnog arsenala. Američki predsjednik Biden iz Varšave poručio da potpora Ukrajini neće prestati. Urednica: Snježana Kralj</description>
     <pubDate>Wed, 22 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/85/1a/20230222-jutarnja-kronika-33866222-20230222063522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 21.02. 2023-02-21</title>
-    <link>https://api.hrt.hr/media/8f/5b/20230221-jutarnja-kronika-33862796-20230221063017.mp3</link>
-    <description>Jučer dva nova snažna potresa uz tursko-sirijsku granicu, ponovno se broje mrtvi i ranjeni. Američki predsjednik Biden u Kijevu izrazio snažnu potporu Ukrajini uoči godišnjice ruske invazije na tu zemlju. Nakon Kijeva Biden stigao u Poljsku. Od sutra za građane počinje upis državnih obveznica.
-Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 21 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8f/5b/20230221-jutarnja-kronika-33862796-20230221063017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
