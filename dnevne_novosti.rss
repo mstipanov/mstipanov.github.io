@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 24 Feb 2023 15:29:45 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 15:03:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.02. 2023-02-25</title>
+    <link>https://api.hrt.hr/media/35/52/20230225-dnevne-novosti-33878293-20230225144016.mp3</link>
+    <description>Na glavnom zagrebačkom trgu održan skup potpore Ukrajini. Europska unija prihvatila deseti paket sankcija Rusiji. Novim investicijama Hrvatska se priprema za turističku sezonu. Prije točno tri godine u našoj se zemlji pojavio prvi slučaj bolesti covid-19. Hoće li biti proglašen kraj pandemije? Zlatko Dalić ostaje izbornik do idućeg svjetskog prvenstva. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 25 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/35/52/20230225-dnevne-novosti-33878293-20230225144016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.02. 2023-02-24</title>
     <link>https://api.hrt.hr/media/b9/f2/20230224-dnevne-novosti-33875780-20230224150546.mp3</link>
     <description>24. veljače prije godinu dana bio je najteži dan u povijesti Ukrajine - Rusi počeli veliku agresiju. Godinu dana poslije završetak rata nije na vidiku, napadi se pojačavaju. O slučaju odvjetnice Line Budak svoje zaključke objavljuje Povjerenstvo KBC-a Sestre milosrdnice. Odjeci maratonske saborske rasprave o opozivu Andreja Plenkovića. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Počeo upis državnih javnih obveznica, prvi put dostupnih i građanima. Premijer Andrej Plenković o najavljenim poskupljenjima - osigurali smo sigurnost opskrbe energentima, oni su i pojeftinili, ne vidim razlog za rast cijena. U Osijeku je otvoren Regionalni distribucijski centar za voće i povrće. Današnjom Pepelnicom ili Čistom srijedom počinje 40-dnevna korizma, priprema za Uskrs. Urednik: Silvio Šop</description>
     <pubDate>Wed, 22 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/44/c4/20230222-dnevne-novosti-33868471-20230222143522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.02. 2023-02-21</title>
-    <link>https://api.hrt.hr/media/8d/6e/20230221-dnevne-novosti-33864667-20230221144016.mp3</link>
-    <description>U svojem govoru Vladimir Putin optužio Zapad za rat u Ukrajini i najavio rusko povlačenje iz Sporazuma o kontroli nuklearnog oružja. U Turskoj u protekla dva tjedna zabilježeno oko sedam tisuća potresa. Na Protukorupcijskom vijeću o upravljanju INA-om svjedočili zviždačica Vesna Balenović i bivši sindikalist Predrag Sekulić. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 21 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8d/6e/20230221-dnevne-novosti-33864667-20230221144016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
