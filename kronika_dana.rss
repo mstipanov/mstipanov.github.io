@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 25 Feb 2023 22:04:09 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 21:53:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.02. 2023-02-26</title>
+    <link>https://api.hrt.hr/media/0e/dc/20230226-kronika-dana-33881349-20230226213527.mp3</link>
+    <description>Potpuno je prekinut promet između unutrašnjosti i Dalmacije. U Gračacu otvoren prihvatni centar za putnike zastale u prometu. U nesreći albanskog autobusa kod Brinja poginula jedna osoba, nekoliko ih je ozlijeđeno. Ukrajinska vojska u proljeće će biti spremna za protuofenzivu i oslobađanje zemlje od ruske okupacije. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 26 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0e/dc/20230226-kronika-dana-33881349-20230226213527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.02. 2023-02-25</title>
     <link>https://api.hrt.hr/media/ff/9b/20230225-kronika-dana-33879164-20230225214016.mp3</link>
     <description>Njemački tenkovi Leopard stigli u Ukrajinu. Skup potpore Ukrajincima održan u Zagrebu.
@@ -32,14 +40,6 @@ Još se traga za napadačem koji je jučer pucao na muškarca u Zagrebu, a u pol
     <description>Dvoje pirotehničara poginulo tijekom razminiravanja blizu Perušića. U Saboru burna rasprava o povjerenju predsjedniku Vlade Plenkoviću. Uoči godišnjice ruske invazije na Ukrajinu Opća skupština UN-a prihvatila rezoluciju kojom se osuđuje taj čin. Kina za sutra najavila objavu svoje mirovne inicijative. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 23 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/e8/20230223-kronika-dana-33873248-20230223214507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.02. 2023-02-22</title>
-    <link>https://api.hrt.hr/media/9d/87/20230222-kronika-dana-33869400-20230222214023.mp3</link>
-    <description>Za građane počeo upis državnih obveznica. Osmero Hrvata u Zambiji pušteno da se brane sa slobode, njihov slučaj preuzeo tamošnji Visoki sud. Dok se na istoku Ukrajine vode teške borbe, Rusija proslavila godišnjicu invazije velikim koncertom. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 22 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/87/20230222-kronika-dana-33869400-20230222214023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
