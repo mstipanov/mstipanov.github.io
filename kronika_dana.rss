@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 26 Feb 2023 21:53:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 21:55:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.02. 2023-02-27</title>
+    <link>https://api.hrt.hr/media/53/53/20230227-kronika-dana-33885153-20230227214014.mp3</link>
+    <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Visoki upravni sud proglasio zakonitom odluku Grada Zagreba koji je smanjio novčanu naknadu roditeljima-odgojiteljima. Građani dosad uplatili oko 700 milijuna narodnih obveznica. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 27 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/53/53/20230227-kronika-dana-33885153-20230227214014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.02. 2023-02-26</title>
     <link>https://api.hrt.hr/media/0e/dc/20230226-kronika-dana-33881349-20230226213527.mp3</link>
     <description>Potpuno je prekinut promet između unutrašnjosti i Dalmacije. U Gračacu otvoren prihvatni centar za putnike zastale u prometu. U nesreći albanskog autobusa kod Brinja poginula jedna osoba, nekoliko ih je ozlijeđeno. Ukrajinska vojska u proljeće će biti spremna za protuofenzivu i oslobađanje zemlje od ruske okupacije. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Još se traga za napadačem koji je jučer pucao na muškarca u Zagrebu, a u pol
     <description>Godinu dana od ruske invazije ukrajinski predsjednik Zelenski izrazio uvjerenje u sposobnost svoje zemlje da se obrani. . Poljska isporučila Ukrajini prve tenkove. U Hrvatskoj novi dom našle 22 tisuće Ukrajinaca. Unutarnji nadzor KBC-a Sestre milosrdnice nije utvrdio stručne propuste u liječenju Line Budak. Predsjednik Milanović i ministar Banožić polemično o stanju u oružanim snagama. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 24 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/97/9e/20230224-kronika-dana-33876683-20230224215543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.02. 2023-02-23</title>
-    <link>https://api.hrt.hr/media/49/e8/20230223-kronika-dana-33873248-20230223214507.mp3</link>
-    <description>Dvoje pirotehničara poginulo tijekom razminiravanja blizu Perušića. U Saboru burna rasprava o povjerenju predsjedniku Vlade Plenkoviću. Uoči godišnjice ruske invazije na Ukrajinu Opća skupština UN-a prihvatila rezoluciju kojom se osuđuje taj čin. Kina za sutra najavila objavu svoje mirovne inicijative. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 23 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/e8/20230223-kronika-dana-33873248-20230223214507.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
