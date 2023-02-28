@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 27 Feb 2023 06:54:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 06:56:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.02. 2023-02-28</title>
+    <link>https://api.hrt.hr/media/aa/7b/20230228-jutarnja-kronika-33885761-20230228063517.mp3</link>
+    <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Neodgovorni vozači, koji su vozili unatoč zabrani, dobili kazne. U slučaju Agrokor jučer svjedočio financijski vještak. Todorić ponovno prozvao premijera Plenkovića da je upropastio Agrokor. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 28 Feb 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/aa/7b/20230228-jutarnja-kronika-33885761-20230228063517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.02. 2023-02-27</title>
     <link>https://api.hrt.hr/media/ef/12/20230227-jutarnja-kronika-33881899-20230227063513.mp3</link>
     <description>I dalje je zbog obilnog snijega i bure prekinut promet između unutrašnjosti zemlje i Dalmacije. Prihvatni centri za putnike koji su zapeli na cestama otvoreni su u Gospiću, Gračacu i Obrovcu. U nesreći albanskog autobusa kod Brinja poginula je jedna osoba, nekoliko ih je ozlijeđeno. Prema neslužbenim informacija, od ponoći cijene goriva neće se znatno mijenjati. U posjetu Hrvatskoj boravi povjerenik Europske komisije za rad i socijalna pitanja Nicolas Schmit. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Jučer u Zagrebu skup potpore Ukrajini. Poslijepodne u Zagrebu veliki derbi Dina
     <description>Europska unija prihvatila deseti paket sankcija Rusiji. Hrvatska će prosvjedom protiv rata na glavnom zagrebačkom Trgu izraziti potporu Ukrajini. U potresu u Turskoj i Siriji više od 50 tisuća poginulih! Pokušaj ubojstva u Zagrebu - napadač u bijegu. Tri godine od prvog slučaja zaraze koronavirusom u Hrvatskoj. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 25 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/43/ad/20230225-jutarnja-kronika-33877225-20230225064517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.02. 2023-02-24</title>
-    <link>https://api.hrt.hr/media/0f/01/20230224-jutarnja-kronika-33873880-20230224063539.mp3</link>
-    <description>Godišnjica je opće ruske invazije na Ukrajinu, kraj rata se ne nazire, Opća skupština UN-a prihvatila rezoluciju kojom se traži trenutni prekid napada na ukrajinsku energetsku infrastrukturu i civilne objekte. Burna saborska rasprava o povjerenju predsjedniku Vlade Andreju Plenkoviću završila noćas u dva sata. Nastavlja se očevid na mjestu pogibije dvoje pirotehničara tijekom razminiranja blizu Čanka. Kazališne premijere u Varaždinu, Dubrovniku i Rijeci. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 24 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0f/01/20230224-jutarnja-kronika-33873880-20230224063539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
