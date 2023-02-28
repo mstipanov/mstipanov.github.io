@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 27 Feb 2023 14:55:09 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 14:57:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.02. 2023-02-28</title>
+    <link>https://api.hrt.hr/media/5a/e0/20230228-dnevne-novosti-33887763-20230228144018.mp3</link>
+    <description>Dalmacija više nije u prometnoj blokadi, ali i dalje vrijedi preporuka - ako nije zaista nužno, ne krećite na put! U odnosu prema 2021-voj godini, hrvatski BDP porastao za 6,3 posto. Od sutra se očekuju poskupljenja proizvoda mnogih stranih kompanija, od 10 do 30 posto. Rusija poručuje kako je i dalje otvorena za pregovore o završetku sukoba u Ukrajini, ali traži četiri regije te zemlje. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 28 Feb 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5a/e0/20230228-dnevne-novosti-33887763-20230228144018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.02. 2023-02-27</title>
     <link>https://api.hrt.hr/media/ac/88/20230227-dnevne-novosti-33883955-20230227144015.mp3</link>
     <description>Dalmacija i dalje snijegom odsječena od ostatka zemlje. Putnici više od 24 sata čekaju bolje vijesti. Naši novinari na obje strane Velebita. Visoki upravni sud odlučio da je gradska odluka o novčanoj pomoći za roditelje odgojitelje u Zagrebu - zakonita. Građani dosad uplatili oko 700 milijuna eura za kupnju narodnih obveznica. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Na glavnom zagrebačkom trgu održan skup potpore Ukrajini. Europska unija prihvatila deseti paket sankcija Rusiji. Novim investicijama Hrvatska se priprema za turističku sezonu. Prije točno tri godine u našoj se zemlji pojavio prvi slučaj bolesti covid-19. Hoće li biti proglašen kraj pandemije? Zlatko Dalić ostaje izbornik do idućeg svjetskog prvenstva. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 25 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/35/52/20230225-dnevne-novosti-33878293-20230225144016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.02. 2023-02-24</title>
-    <link>https://api.hrt.hr/media/b9/f2/20230224-dnevne-novosti-33875780-20230224150546.mp3</link>
-    <description>24. veljače prije godinu dana bio je najteži dan u povijesti Ukrajine - Rusi počeli veliku agresiju. Godinu dana poslije završetak rata nije na vidiku, napadi se pojačavaju. O slučaju odvjetnice Line Budak svoje zaključke objavljuje Povjerenstvo KBC-a Sestre milosrdnice. Odjeci maratonske saborske rasprave o opozivu Andreja Plenkovića. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 24 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b9/f2/20230224-dnevne-novosti-33875780-20230224150546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
