@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 27 Feb 2023 21:55:44 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 21:58:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.02. 2023-02-28</title>
+    <link>https://api.hrt.hr/media/e9/d2/20230228-kronika-dana-33888803-20230228213518.mp3</link>
+    <description>Od sutra nova poskupljenja mnogih proizvoda. U Zagrebu voda skuplja 15 posto. Vladine mjere pomoći u travnju najviše će biti usmjerene na energetski sektor. Promet se normalizirao, ali u pojedinim dijelovima Like i podvelebitskog primorja još nema struje. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e9/d2/20230228-kronika-dana-33888803-20230228213518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.02. 2023-02-27</title>
     <link>https://api.hrt.hr/media/53/53/20230227-kronika-dana-33885153-20230227214014.mp3</link>
     <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Visoki upravni sud proglasio zakonitom odluku Grada Zagreba koji je smanjio novčanu naknadu roditeljima-odgojiteljima. Građani dosad uplatili oko 700 milijuna narodnih obveznica. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Još se traga za napadačem koji je jučer pucao na muškarca u Zagrebu, a u policiju je privedena osoba koja ima saznanja o zločinu. Prije točno tri godine u Hrvatskoj je zabilježen prvi slučaj koronavirusa. Urednica: Sanja Cota</description>
     <pubDate>Sat, 25 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/9b/20230225-kronika-dana-33879164-20230225214016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.02. 2023-02-24</title>
-    <link>https://api.hrt.hr/media/97/9e/20230224-kronika-dana-33876683-20230224215543.mp3</link>
-    <description>Godinu dana od ruske invazije ukrajinski predsjednik Zelenski izrazio uvjerenje u sposobnost svoje zemlje da se obrani. . Poljska isporučila Ukrajini prve tenkove. U Hrvatskoj novi dom našle 22 tisuće Ukrajinaca. Unutarnji nadzor KBC-a Sestre milosrdnice nije utvrdio stručne propuste u liječenju Line Budak. Predsjednik Milanović i ministar Banožić polemično o stanju u oružanim snagama. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 24 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/97/9e/20230224-kronika-dana-33876683-20230224215543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
