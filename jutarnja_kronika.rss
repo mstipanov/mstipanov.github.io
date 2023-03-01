@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 28 Feb 2023 06:56:32 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 06:58:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.03. 2023-03-01</title>
+    <link>https://api.hrt.hr/media/8a/77/20230301-jutarnja-kronika-33889325-20230301064028.mp3</link>
+    <description>U sudaru putničkog i teretnog vlaka u Grčkoj poginule najmanje 32-je osobe, 85 ozlijeđeno. Od danas nova poskupljenja hrane, pića i kućnih potrepština. Posljednji je dan za upis državnih obveznica, građani do sada upisali u vrijednosti većoj od milijardu eura. U Zagrebu počinje petodnevni festival posvećen našoj velikoj skladateljici i glazbenici Dori Pejačević.
+Urednik: Silvio Šop</description>
+    <pubDate>Wed, 01 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8a/77/20230301-jutarnja-kronika-33889325-20230301064028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.02. 2023-02-28</title>
     <link>https://api.hrt.hr/media/aa/7b/20230228-jutarnja-kronika-33885761-20230228063517.mp3</link>
     <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Neodgovorni vozači, koji su vozili unatoč zabrani, dobili kazne. U slučaju Agrokor jučer svjedočio financijski vještak. Todorić ponovno prozvao premijera Plenkovića da je upropastio Agrokor. Urednik: Grgo Mrvica</description>
@@ -32,14 +41,6 @@
 Jučer u Zagrebu skup potpore Ukrajini. Poslijepodne u Zagrebu veliki derbi Dinamo - Hajduk. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 26 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/4f/20230226-jutarnja-kronika-33879686-20230226063527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.02. 2023-02-25</title>
-    <link>https://api.hrt.hr/media/43/ad/20230225-jutarnja-kronika-33877225-20230225064517.mp3</link>
-    <description>Europska unija prihvatila deseti paket sankcija Rusiji. Hrvatska će prosvjedom protiv rata na glavnom zagrebačkom Trgu izraziti potporu Ukrajini. U potresu u Turskoj i Siriji više od 50 tisuća poginulih! Pokušaj ubojstva u Zagrebu - napadač u bijegu. Tri godine od prvog slučaja zaraze koronavirusom u Hrvatskoj. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 25 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/43/ad/20230225-jutarnja-kronika-33877225-20230225064517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
