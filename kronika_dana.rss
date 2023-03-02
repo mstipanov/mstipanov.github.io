@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Mar 2023 22:00:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 22:02:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.03. 2023-03-02</title>
+    <link>https://api.hrt.hr/media/45/c1/20230302-kronika-dana-33896180-20230302214038.mp3</link>
+    <description>Inflacija u veljači usporila na 11,9 posto. Od početka rata u Ukrajini prvi put uživo razgovarali američki i ruski šefovi diplomacija. Broj žrtava željezničke nesreće u Grčkoj popeo se na 57. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 02 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/c1/20230302-kronika-dana-33896180-20230302214038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.03. 2023-03-01</title>
     <link>https://api.hrt.hr/media/a4/cb/20230301-kronika-dana-33892573-20230301214029.mp3</link>
     <description>Najmanje 43- je ljudi je poginulo, a 85 ozlijeđeno u sudaru vlakova kod grčkoga grada Larise. Uzrok nesreće je ljudska pogreška objavio je premijer Micotakis. Poskupljenjima nema kraja. Od danas skuplji uglavnom neprehrambeni proizvodi. Građani do 15 sati uplatili milijardu i 300 milijuna eura državnih obveznica. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Visoki upravni sud proglasio zakonitom odluku Grada Zagreba koji je smanjio novčanu naknadu roditeljima-odgojiteljima. Građani dosad uplatili oko 700 milijuna narodnih obveznica. Urednica: Sanja Cota</description>
     <pubDate>Mon, 27 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/53/53/20230227-kronika-dana-33885153-20230227214014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.02. 2023-02-26</title>
-    <link>https://api.hrt.hr/media/0e/dc/20230226-kronika-dana-33881349-20230226213527.mp3</link>
-    <description>Potpuno je prekinut promet između unutrašnjosti i Dalmacije. U Gračacu otvoren prihvatni centar za putnike zastale u prometu. U nesreći albanskog autobusa kod Brinja poginula jedna osoba, nekoliko ih je ozlijeđeno. Ukrajinska vojska u proljeće će biti spremna za protuofenzivu i oslobađanje zemlje od ruske okupacije. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 26 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0e/dc/20230226-kronika-dana-33881349-20230226213527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
