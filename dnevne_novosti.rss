@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Mar 2023 14:59:38 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 15:01:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.03. 2023-03-02</title>
+    <link>https://api.hrt.hr/media/33/44/20230302-dnevne-novosti-33895233-20230302143538.mp3</link>
+    <description>Nakon siječanjskih 12,7, inflacija u veljači usporila na 11,9 posto, no dobavljači šalju nove cjenike trgovcima. Novi paket mjera za ublažavanje cijena energenata bit će gotov do sredine ovog mjeseca, najavio premijer Plenković. Najteža željeznička nesreća u povijesti Grčke, prema dosadašnjim podacima, odnijela je 43 života. Rusija je objavila da su ukrajinski diverzanti upali na njezin teritorij i da drže taoce, Ukrajina odbacuje umiješanost. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 02 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/33/44/20230302-dnevne-novosti-33895233-20230302143538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.03. 2023-03-01</title>
     <link>https://api.hrt.hr/media/64/0c/20230301-dnevne-novosti-33891566-20230301145529.mp3</link>
     <description>Najmanje 36 osoba poginulo, deseci ozlijeđeni u sudaru putničkog i teretnog vlaka u Grčkoj. U Zagrebu od danas voda skuplja 15 posto, oko deset posto rastu cijene hrane, pića i kućnih potrepština. Nakon prometnog kolapsa, stanje na cestama se normalizira iako bura i snijeg ponovno otežavaju promet. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Dalmacija i dalje snijegom odsječena od ostatka zemlje. Putnici više od 24 sata čekaju bolje vijesti. Naši novinari na obje strane Velebita. Visoki upravni sud odlučio da je gradska odluka o novčanoj pomoći za roditelje odgojitelje u Zagrebu - zakonita. Građani dosad uplatili oko 700 milijuna eura za kupnju narodnih obveznica. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 27 Feb 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ac/88/20230227-dnevne-novosti-33883955-20230227144015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.02. 2023-02-26</title>
-    <link>https://api.hrt.hr/media/85/06/20230226-dnevne-novosti-33880681-20230226144027.mp3</link>
-    <description>Nagla promjena vremena i povratak zime stvorili probleme vozačima, kod Brinja se prevrnuo albanski autobus, jedna osoba poginula, a jedna je kritično. Ukrajinska vojska bit će u proljeće spremna za kontraofenzivu protiv ruskih snaga. Najmanje 45 migranata poginulo u potonuću broda kod talijanske regije Kalabrije. Na maksimirskom stadionu upravo počinje derbi Dinama i Hajduka - već 102. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 26 Feb 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/06/20230226-dnevne-novosti-33880681-20230226144027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
