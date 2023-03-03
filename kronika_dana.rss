@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Mar 2023 22:02:44 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 22:05:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.03. 2023-03-03</title>
+    <link>https://api.hrt.hr/media/c6/8a/20230303-kronika-dana-33899850-20230303214558.mp3</link>
+    <description>Vijeće za vodne usluge zaustavilo poskupljenje vode u Zagrebu, iz grada poručuju - cijena raste, ali upola manje od najavljenih 15 posto. Ruska plaćenička skupina Wagner objavila da je Bahmut praktički opkoljen. Ukrajinska vojska najavljuje pojačanja, ali ne isključuje povlačenje .Oporba nije uspjela u rušenju premijera Plenkovića. 17 oporbenih zastupnika nije niti došlo na glasovanje. Suzdržanog Milana Vrkljana optužila da je " Vladin žetončić". Urednica: Mira Barić</description>
+    <pubDate>Fri, 03 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c6/8a/20230303-kronika-dana-33899850-20230303214558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.03. 2023-03-02</title>
     <link>https://api.hrt.hr/media/45/c1/20230302-kronika-dana-33896180-20230302214038.mp3</link>
     <description>Inflacija u veljači usporila na 11,9 posto. Od početka rata u Ukrajini prvi put uživo razgovarali američki i ruski šefovi diplomacija. Broj žrtava željezničke nesreće u Grčkoj popeo se na 57. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Od sutra nova poskupljenja mnogih proizvoda. U Zagrebu voda skuplja 15 posto. Vladine mjere pomoći u travnju najviše će biti usmjerene na energetski sektor. Promet se normalizirao, ali u pojedinim dijelovima Like i podvelebitskog primorja još nema struje. Urednica: Sanja Cota</description>
     <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/d2/20230228-kronika-dana-33888803-20230228213518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.02. 2023-02-27</title>
-    <link>https://api.hrt.hr/media/53/53/20230227-kronika-dana-33885153-20230227214014.mp3</link>
-    <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Visoki upravni sud proglasio zakonitom odluku Grada Zagreba koji je smanjio novčanu naknadu roditeljima-odgojiteljima. Građani dosad uplatili oko 700 milijuna narodnih obveznica. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 27 Feb 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/53/20230227-kronika-dana-33885153-20230227214014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
