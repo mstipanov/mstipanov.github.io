@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Mar 2023 07:01:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 06:33:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.03. 2023-03-03</title>
+    <link>https://api.hrt.hr/media/e9/5e/20230303-jutarnja-kronika-33896892-20230303063038.mp3</link>
+    <description>U Saboru glasovanje o oporbenom zahtjevu za opoziv premijera Andreja Plenkovića, koji nema razloga za brigu vezano za to. Nakon građana, samo danas državne obveznice mogu upisati institucionalni investitori. Broj poginulih u sudaru vlakova u Grčkoj porastao na 57, a 56 osoba smatra se nestalima. U zagrebačkoj Komediji premijera predstave prema kultnoj TV seriji "Velo misto", u varaždinskom HNK-u počinje 14. Tjedan smijeha. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 03 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e9/5e/20230303-jutarnja-kronika-33896892-20230303063038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.03. 2023-03-02</title>
     <link>https://api.hrt.hr/media/93/16/20230302-jutarnja-kronika-33893134-20230302063537.mp3</link>
     <description>Sinoć za građane završio upis državnih obveznica. Odziv je velik, a do 11 sati zadnji je rok za uplatu. U novom valu rasta cijena, skuplja uglavnom uvozna roba. U Zagrebu i - voda! Za plin zasad - obećanje da od prvoga travnja neće poskupjeti. U najtežoj željezničkoj nesreći u povijesti Grčke, 40-tak mrtvih. Pritvoren šef željezničke postaje i ostavka ministra prometa.
@@ -33,14 +41,6 @@ Urednik: Silvio Šop</description>
     <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Neodgovorni vozači, koji su vozili unatoč zabrani, dobili kazne. U slučaju Agrokor jučer svjedočio financijski vještak. Todorić ponovno prozvao premijera Plenkovića da je upropastio Agrokor. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 28 Feb 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/aa/7b/20230228-jutarnja-kronika-33885761-20230228063517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.02. 2023-02-27</title>
-    <link>https://api.hrt.hr/media/ef/12/20230227-jutarnja-kronika-33881899-20230227063513.mp3</link>
-    <description>I dalje je zbog obilnog snijega i bure prekinut promet između unutrašnjosti zemlje i Dalmacije. Prihvatni centri za putnike koji su zapeli na cestama otvoreni su u Gospiću, Gračacu i Obrovcu. U nesreći albanskog autobusa kod Brinja poginula je jedna osoba, nekoliko ih je ozlijeđeno. Prema neslužbenim informacija, od ponoći cijene goriva neće se znatno mijenjati. U posjetu Hrvatskoj boravi povjerenik Europske komisije za rad i socijalna pitanja Nicolas Schmit. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ef/12/20230227-jutarnja-kronika-33881899-20230227063513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
