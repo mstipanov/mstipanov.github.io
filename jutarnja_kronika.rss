@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 03 Mar 2023 06:33:31 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 07:06:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.03. 2023-03-04</title>
+    <link>https://api.hrt.hr/media/b0/ed/20230304-jutarnja-kronika-33900390-20230304070503.mp3</link>
+    <description>Ukrajinska vojska opovrgava izvješća da se povlači iz Bahmuta i da će predati opkoljeni grad. Amerika šalje novu vojnu pomoć Kijevu. Sporno poskupljenje vode u Zagrebu - Tomašević smijenio šefa Vodoopskrbe i odvodnje. Za malverzacije u pulskom Uljaniku već peta kaznena prijava. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 04 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/ed/20230304-jutarnja-kronika-33900390-20230304070503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.03. 2023-03-03</title>
     <link>https://api.hrt.hr/media/e9/5e/20230303-jutarnja-kronika-33896892-20230303063038.mp3</link>
     <description>U Saboru glasovanje o oporbenom zahtjevu za opoziv premijera Andreja Plenkovića, koji nema razloga za brigu vezano za to. Nakon građana, samo danas državne obveznice mogu upisati institucionalni investitori. Broj poginulih u sudaru vlakova u Grčkoj porastao na 57, a 56 osoba smatra se nestalima. U zagrebačkoj Komediji premijera predstave prema kultnoj TV seriji "Velo misto", u varaždinskom HNK-u počinje 14. Tjedan smijeha. Urednik: Silvio Šop</description>
@@ -33,14 +41,6 @@ Uredila: Snježana Kralj</description>
 Urednik: Silvio Šop</description>
     <pubDate>Wed, 01 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8a/77/20230301-jutarnja-kronika-33889325-20230301064028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.02. 2023-02-28</title>
-    <link>https://api.hrt.hr/media/aa/7b/20230228-jutarnja-kronika-33885761-20230228063517.mp3</link>
-    <description>Autocesta A1 otvorena samo za osobna vozila, uz ograničenje brzine vozi se u oba smjera. Neodgovorni vozači, koji su vozili unatoč zabrani, dobili kazne. U slučaju Agrokor jučer svjedočio financijski vještak. Todorić ponovno prozvao premijera Plenkovića da je upropastio Agrokor. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 28 Feb 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/aa/7b/20230228-jutarnja-kronika-33885761-20230228063517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
