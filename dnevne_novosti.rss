@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Mar 2023 14:39:31 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:09:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.03. 2023-03-05</title>
+    <link>https://api.hrt.hr/media/e6/4a/20230305-dnevne-novosti-33903464-20230305144003.mp3</link>
+    <description>Nema novih vijesti o stanju u opkoljenom ukrajinskom gradu Bahmutu. U Ateni se i danas prosvjedovalo zbog željezničke nesreće u kojoj je poginulo 57 ljudi. Sutra učenici četvrtih razreda 80 osnovnih škola eksperimentalno pišu nacionalne ispite. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 05 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/4a/20230305-dnevne-novosti-33903464-20230305144003.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.03. 2023-03-04</title>
     <link>https://api.hrt.hr/media/e5/32/20230304-dnevne-novosti-33901379-20230304144001.mp3</link>
     <description>Žestoke bitke za ukrajinski grad Bahmut, ruska vojska granatira posljednje izlaze iz grada. Finska počela krčiti šume na granici s Rusijom kako bi postavila 200 kilometara dugu ogradu s bodljikavom žicom. Svake godine u Hrvatskoj imamo više od 3600 novoboljelih od raka debelog crijeva, zato je iznimno važno odazvati se na preventivni pregled. Urednica: Mira Barić</description>
