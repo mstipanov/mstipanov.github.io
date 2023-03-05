@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Mar 2023 22:07:52 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 22:10:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.03. 2023-03-05</title>
+    <link>https://api.hrt.hr/media/48/52/20230305-kronika-dana-33904170-20230305214004.mp3</link>
+    <description>Ukrajinski vojnici u Bahmutu upozoravaju da nemaju dovoljno streljiva. Nezadovoljna i ruska plaćenička vojska Wagner. Donald Trump snimio pjesmu s napadačima na američki Kongres. Najavio da će ih pomilovati ako se vrati u Bijelu kuću. Želi li Hrvatska do kraja lipnja potrošiti sav preostali europski novac za poslijepotresnu obnovu Zagreba i Banovine, svaki bi dan trebala trošiti oko 4 milijuna eura, izračunao ministar Bačić. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 05 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/48/52/20230305-kronika-dana-33904170-20230305214004.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.03. 2023-03-04</title>
     <link>https://api.hrt.hr/media/fa/e9/20230304-kronika-dana-33902003-20230304214002.mp3</link>
     <description>U ukrajinskom gradu Bahmutu vode se ulične borbe, Rusi granatiraju posljednje izlaze iz grada. Finska postavlja 200 kilometara ograde prema Rusiji, isto namjeravaju i baltičke zemlje te Poljska. Popravljen cjevovod u Ježevu kod Dugog Sela gdje se jučer izlila nafta. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Inflacija u veljači usporila na 11,9 posto. Od početka rata u Ukrajini prvi put uživo razgovarali američki i ruski šefovi diplomacija. Broj žrtava željezničke nesreće u Grčkoj popeo se na 57. Urednica: Sanja Cota</description>
     <pubDate>Thu, 02 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/c1/20230302-kronika-dana-33896180-20230302214038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.03. 2023-03-01</title>
-    <link>https://api.hrt.hr/media/a4/cb/20230301-kronika-dana-33892573-20230301214029.mp3</link>
-    <description>Najmanje 43- je ljudi je poginulo, a 85 ozlijeđeno u sudaru vlakova kod grčkoga grada Larise. Uzrok nesreće je ljudska pogreška objavio je premijer Micotakis. Poskupljenjima nema kraja. Od danas skuplji uglavnom neprehrambeni proizvodi. Građani do 15 sati uplatili milijardu i 300 milijuna eura državnih obveznica. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 01 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/cb/20230301-kronika-dana-33892573-20230301214029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
