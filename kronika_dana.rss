@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Mar 2023 22:10:18 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 21:42:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.03. 2023-03-06</title>
+    <link>https://api.hrt.hr/media/01/87/20230306-kronika-dana-33907826-20230306213545.mp3</link>
+    <description>Mladić s hladnim oružjem upao u Klasičnu gimnaziju u Zagrebu. Policija ga uhitila nakon trosatne potrage. I dalje traju teške borbe za Bahmut, Ukrajina je odlučila da će nastaviti braniti grad. Danska premijerka Mette Frederiksen, u pratnji hrvatskog kolege Plenkovića, u riječkoj luci razgledala gradilište budućeg kontejnerskog terminala. Počelo je podnošenje zahtjeva za izravne potpore u poljoprivredi, aktivnosti će se od sada pratiti preko satelita. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 06 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/01/87/20230306-kronika-dana-33907826-20230306213545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.03. 2023-03-05</title>
     <link>https://api.hrt.hr/media/48/52/20230305-kronika-dana-33904170-20230305214004.mp3</link>
     <description>Ukrajinski vojnici u Bahmutu upozoravaju da nemaju dovoljno streljiva. Nezadovoljna i ruska plaćenička vojska Wagner. Donald Trump snimio pjesmu s napadačima na američki Kongres. Najavio da će ih pomilovati ako se vrati u Bijelu kuću. Želi li Hrvatska do kraja lipnja potrošiti sav preostali europski novac za poslijepotresnu obnovu Zagreba i Banovine, svaki bi dan trebala trošiti oko 4 milijuna eura, izračunao ministar Bačić. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Vijeće za vodne usluge zaustavilo poskupljenje vode u Zagrebu, iz grada poručuju - cijena raste, ali upola manje od najavljenih 15 posto. Ruska plaćenička skupina Wagner objavila da je Bahmut praktički opkoljen. Ukrajinska vojska najavljuje pojačanja, ali ne isključuje povlačenje .Oporba nije uspjela u rušenju premijera Plenkovića. 17 oporbenih zastupnika nije niti došlo na glasovanje. Suzdržanog Milana Vrkljana optužila da je " Vladin žetončić". Urednica: Mira Barić</description>
     <pubDate>Fri, 03 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c6/8a/20230303-kronika-dana-33899850-20230303214558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.03. 2023-03-02</title>
-    <link>https://api.hrt.hr/media/45/c1/20230302-kronika-dana-33896180-20230302214038.mp3</link>
-    <description>Inflacija u veljači usporila na 11,9 posto. Od početka rata u Ukrajini prvi put uživo razgovarali američki i ruski šefovi diplomacija. Broj žrtava željezničke nesreće u Grčkoj popeo se na 57. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 02 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/45/c1/20230302-kronika-dana-33896180-20230302214038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
