@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Mar 2023 06:41:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 06:43:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.03. 2023-03-07</title>
+    <link>https://api.hrt.hr/media/eb/61/20230307-jutarnja-kronika-33908382-20230307063515.mp3</link>
+    <description>Dugotrajna bitka za Bahmut. NATO procijenio - na svakog ukrajinskog vojnika, ruske snage izgubile njih najmanje pet. Drugog dana boravka u Hrvatskoj danska premijerka Mette Frederiksen u posjetu Nacionalnom koordinacijskom centru za nadzor granice. Oporba potpisima požurila raspravu o izvješćima predsjednika Vrhovnoga suda. Radovan Dobronić na Odboru za pravosuđe, u četvrtak u Sabornici.ćen 18-godišnjak koji je s hladnim oružjem upao u Klasičnu gimnaziju u Zagrebu. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 07 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/61/20230307-jutarnja-kronika-33908382-20230307063515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.03. 2023-03-06</title>
     <link>https://api.hrt.hr/media/03/fa/20230306-jutarnja-kronika-33904740-20230306063540.mp3</link>
     <description>Hrvatska svaki dan na obnovu treba trošiti 4 milijuna eura, namjerava li iskoristiti sva europska sredstva do kraja lipnja - izračunao ministar Bačić. Danas bi se trebalo znati tko je pobijedio na natječaju za uređenje privremenog odlagališta građevnog otpada u zagrebačkom Resniku. Danska premijerka posjet Hrvatskoj počinje poslijepodnevnim obilaskom novog terminala za brodove duboka gaza u riječkoj luci. Nastavljaju se krvave borbe za Bahmut. Ukrajinska vojska tvrdi da je odbila 130 ruskih napada. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinska vojska opovrgava izvješća da se povlači iz Bahmuta i da će predati opkoljeni grad. Amerika šalje novu vojnu pomoć Kijevu. Sporno poskupljenje vode u Zagrebu - Tomašević smijenio šefa Vodoopskrbe i odvodnje. Za malverzacije u pulskom Uljaniku već peta kaznena prijava. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 04 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b0/ed/20230304-jutarnja-kronika-33900390-20230304070503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.03. 2023-03-03</title>
-    <link>https://api.hrt.hr/media/e9/5e/20230303-jutarnja-kronika-33896892-20230303063038.mp3</link>
-    <description>U Saboru glasovanje o oporbenom zahtjevu za opoziv premijera Andreja Plenkovića, koji nema razloga za brigu vezano za to. Nakon građana, samo danas državne obveznice mogu upisati institucionalni investitori. Broj poginulih u sudaru vlakova u Grčkoj porastao na 57, a 56 osoba smatra se nestalima. U zagrebačkoj Komediji premijera predstave prema kultnoj TV seriji "Velo misto", u varaždinskom HNK-u počinje 14. Tjedan smijeha. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 03 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/5e/20230303-jutarnja-kronika-33896892-20230303063038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
