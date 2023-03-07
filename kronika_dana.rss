@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Mar 2023 21:42:36 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 21:52:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.03. 2023-03-07</title>
+    <link>https://api.hrt.hr/media/1c/81/20230307-kronika-dana-33911312-20230307213534.mp3</link>
+    <description>U novom paketu mjera pomoći zadržat će se najniža stopa PDV-a za plin, najavio premijer. Sutra je Međunarodni dan žena, one u Hrvatskoj i dalje imaju 16 posto nižu plaću od muškaraca. Iz svijeta: Ukrajinska vojska ne namjerava se povući iz Bahmuta. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 07 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/81/20230307-kronika-dana-33911312-20230307213534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.03. 2023-03-06</title>
     <link>https://api.hrt.hr/media/01/87/20230306-kronika-dana-33907826-20230306213545.mp3</link>
     <description>Mladić s hladnim oružjem upao u Klasičnu gimnaziju u Zagrebu. Policija ga uhitila nakon trosatne potrage. I dalje traju teške borbe za Bahmut, Ukrajina je odlučila da će nastaviti braniti grad. Danska premijerka Mette Frederiksen, u pratnji hrvatskog kolege Plenkovića, u riječkoj luci razgledala gradilište budućeg kontejnerskog terminala. Počelo je podnošenje zahtjeva za izravne potpore u poljoprivredi, aktivnosti će se od sada pratiti preko satelita. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U ukrajinskom gradu Bahmutu vode se ulične borbe, Rusi granatiraju posljednje izlaze iz grada. Finska postavlja 200 kilometara ograde prema Rusiji, isto namjeravaju i baltičke zemlje te Poljska. Popravljen cjevovod u Ježevu kod Dugog Sela gdje se jučer izlila nafta. Urednica: Sanja Cota</description>
     <pubDate>Sat, 04 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fa/e9/20230304-kronika-dana-33902003-20230304214002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.03. 2023-03-03</title>
-    <link>https://api.hrt.hr/media/c6/8a/20230303-kronika-dana-33899850-20230303214558.mp3</link>
-    <description>Vijeće za vodne usluge zaustavilo poskupljenje vode u Zagrebu, iz grada poručuju - cijena raste, ali upola manje od najavljenih 15 posto. Ruska plaćenička skupina Wagner objavila da je Bahmut praktički opkoljen. Ukrajinska vojska najavljuje pojačanja, ali ne isključuje povlačenje .Oporba nije uspjela u rušenju premijera Plenkovića. 17 oporbenih zastupnika nije niti došlo na glasovanje. Suzdržanog Milana Vrkljana optužila da je " Vladin žetončić". Urednica: Mira Barić</description>
-    <pubDate>Fri, 03 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/8a/20230303-kronika-dana-33899850-20230303214558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
