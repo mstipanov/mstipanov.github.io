@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 08 Mar 2023 06:53:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 06:57:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.03. 2023-03-09</title>
+    <link>https://api.hrt.hr/media/e9/02/20230309-jutarnja-kronika-33915643-20230309063541.mp3</link>
+    <description>Ministar Primorac najavio nove Vladine mjere: smanjit će se troškovi za energente i povećati kupovna moć građana.Ključna izborna skupština Dinama na kojoj će se odlučivati o tome tko će voditi klub.Zbog napada na prava žena UN bi mogao smanjiti pomoć Afganistanu.Urednica je Mira Barić</description>
+    <pubDate>Thu, 09 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e9/02/20230309-jutarnja-kronika-33915643-20230309063541.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.03. 2023-03-08</title>
     <link>https://api.hrt.hr/media/0b/a8/20230308-jutarnja-kronika-33911923-20230308063540.mp3</link>
     <description>Na međunarodni Dan žena posebno se ističe kako žene još uvijek nisu ravnopravne u svim područjima života. Izmjene Zakona o trgovini, kojima se uređuje rad nedjeljom, u drugom čitanju u Saboru. Premijer Plenković najavio niži PDV na plin i novi paket pomoći građanima. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska svaki dan na obnovu treba trošiti 4 milijuna eura, namjerava li iskoristiti sva europska sredstva do kraja lipnja - izračunao ministar Bačić. Danas bi se trebalo znati tko je pobijedio na natječaju za uređenje privremenog odlagališta građevnog otpada u zagrebačkom Resniku. Danska premijerka posjet Hrvatskoj počinje poslijepodnevnim obilaskom novog terminala za brodove duboka gaza u riječkoj luci. Nastavljaju se krvave borbe za Bahmut. Ukrajinska vojska tvrdi da je odbila 130 ruskih napada. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 06 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/fa/20230306-jutarnja-kronika-33904740-20230306063540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.03. 2023-03-05</title>
-    <link>https://api.hrt.hr/media/b6/8d/20230305-jutarnja-kronika-33902571-20230305063502.mp3</link>
-    <description>Grad Bahmut gotovo odsječen, nema naznaka da će Kijev zapovjediti povlačenje.Oko 160 tisuća ljudi prosvjedovalo u Tel Avivu protiv pravosudne reforme kojom bi se parlamentu dale ovlasti da ukine odluke Vrhovnoga suda. Spojen most preko Cetine iznad Omiša , službeno otvorenje u četvrtak. Urednica Mira Barić</description>
-    <pubDate>Sun, 05 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b6/8d/20230305-jutarnja-kronika-33902571-20230305063502.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
