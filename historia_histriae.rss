@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Mar 2023 17:02:05 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:28:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>David Orlović o Monte Zaru 2023-03-09</title>
+    <link>https://api.hrt.hr/media/b8/bb/20230309-historia-histriae-7928025-20230309165542.mp3</link>
+    <description>U goste nam dolazi naš povjesničar David Orlović, a nastavljamo ciklus priče o povijesti pulskih kvartova.....ovog puta na redu je, kako on kaže "nekad magični" Monte Zaro...</description>
+    <pubDate>Thu, 09 Mar 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b8/bb/20230309-historia-histriae-7928025-20230309165542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>NINOSLAV MOGOROVIC 2023-03-02</title>
     <link>https://api.hrt.hr/media/40/01/20230302-historia-histriae-7925624-20230302161038.mp3</link>
     <description>Njegov je život film za holivudski scenarij....preživio je gulag, Jasenovac, bio je revolucionar, dizao ustanke, borio se protiv svih totalitarnih režima i ostavio neizbrisiv trag u europskoj povijesti....on je naš Istranin Ante Ciliga....o njegovom životu i djelu pričamo s našim gostom Ninoslavom Mogorovićem. </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi kolega novinar i pokretač facebook stranice "Pulske štorije" Zvjezdan Strahinja. Priče o klubu Uljanik, o pulskim toaletima, o gradskim facama, o mitovima i intrigama na granici stvarnosti.......nevjerojatne priče koje čine mozaik sjećanja generacija......Zvjezdan nam priča o jednom gradu i otkriva njegove tajne.....budite s nama!</description>
     <pubDate>Thu, 05 Jan 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9a/2e/20230105-historia-histriae-7907209-20230105165528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Katarina Maric i Suncica Mustac 2022-12-29</title>
-    <link>https://api.hrt.hr/media/7e/86/20221229-historia-histriae-7905092-20221229170008.mp3</link>
-    <description>Govorimo o nevjerojatnoj knjizi "Slava Vojvodine Kranjske" Johanna Valvasora koja je napisana prije 333 godine, a u kojoj je autor opisao istarske gradove, kaštele, crkve, prirodu, ljude, naravne i nadnaravne pojave, između ostalog i priču o Juri Grandu. Katarina Marić i Sunčica Mustač prevele su njegove tekstove i ukoričile ih u knjigu "Valvasor u Istri". One su naše gošće ovotjedne Historie. </description>
-    <pubDate>Thu, 29 Dec 2022 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7e/86/20221229-historia-histriae-7905092-20221229170008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
