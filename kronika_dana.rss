@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Mar 2023 21:59:12 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 22:01:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.03. 2023-03-10</title>
+    <link>https://api.hrt.hr/media/05/10/20230310-kronika-dana-33922991-20230310213544.mp3</link>
+    <description>Otok Unije ostat će u Primorsko-goranskoj županiji, zaključeno na sastanku predstavnika županije i otočana. Sedmero ljudi ubijeno, osmero ranjeno u pokolju u zgradi Jehovinih svjedoka u Hamburgu. U Zagrebu prosvjedovali radnici digitalnih platformi - traže da se zakonski uredi i zaštiti njihov rad. Urednica: Mira Barić</description>
+    <pubDate>Fri, 10 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/05/10/20230310-kronika-dana-33922991-20230310213544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.03. 2023-03-09</title>
     <link>https://api.hrt.hr/media/c7/10/20230309-kronika-dana-33919153-20230309214044.mp3</link>
     <description>Skupština Dinama prekinuta - članovi skloni Zdravku Mamiću srušili kvorum. Stopa PDV-a na plin ostaje 5 posto. Drugi put zaustavljeno poskupljenje vode u Zagrebu. U Omišu spojen most preko Cetine. Cijela Ukrajina pod silovitim ruskim napadima. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U novom paketu mjera pomoći zadržat će se najniža stopa PDV-a za plin, najavio premijer. Sutra je Međunarodni dan žena, one u Hrvatskoj i dalje imaju 16 posto nižu plaću od muškaraca. Iz svijeta: Ukrajinska vojska ne namjerava se povući iz Bahmuta. Urednica: Sanja Cota</description>
     <pubDate>Tue, 07 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1c/81/20230307-kronika-dana-33911312-20230307213534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.03. 2023-03-06</title>
-    <link>https://api.hrt.hr/media/01/87/20230306-kronika-dana-33907826-20230306213545.mp3</link>
-    <description>Mladić s hladnim oružjem upao u Klasičnu gimnaziju u Zagrebu. Policija ga uhitila nakon trosatne potrage. I dalje traju teške borbe za Bahmut, Ukrajina je odlučila da će nastaviti braniti grad. Danska premijerka Mette Frederiksen, u pratnji hrvatskog kolege Plenkovića, u riječkoj luci razgledala gradilište budućeg kontejnerskog terminala. Počelo je podnošenje zahtjeva za izravne potpore u poljoprivredi, aktivnosti će se od sada pratiti preko satelita. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 06 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/01/87/20230306-kronika-dana-33907826-20230306213545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
