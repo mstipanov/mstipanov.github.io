@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Mar 2023 06:57:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:00:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.03. 2023-03-10</title>
+    <link>https://api.hrt.hr/media/90/09/20230310-jutarnja-kronika-33919890-20230310063543.mp3</link>
+    <description>U napadu na crkvu Jehovinih svjedoka u Hamburgu ubijeno sedmero ljudi. Skupština Dinama sinoć prekinuta - članovi skloni Zdravku Mamiću srušili kvorum. Stopa PDV-a na plin ostaje 5 posto, voda u Zagrebu, za sada, ne poskupljuje. U splitskom HNK-u premijera opere Jakova Gotovca "Mila Gojsalića". Urednik: Silvio Šop</description>
+    <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/90/09/20230310-jutarnja-kronika-33919890-20230310063543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.03. 2023-03-09</title>
     <link>https://api.hrt.hr/media/e9/02/20230309-jutarnja-kronika-33915643-20230309063541.mp3</link>
     <description>Ministar Primorac najavio nove Vladine mjere: smanjit će se troškovi za energente i povećati kupovna moć građana.Ključna izborna skupština Dinama na kojoj će se odlučivati o tome tko će voditi klub.Zbog napada na prava žena UN bi mogao smanjiti pomoć Afganistanu.Urednica je Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Dugotrajna bitka za Bahmut. NATO procijenio - na svakog ukrajinskog vojnika, ruske snage izgubile njih najmanje pet. Drugog dana boravka u Hrvatskoj danska premijerka Mette Frederiksen u posjetu Nacionalnom koordinacijskom centru za nadzor granice. Oporba potpisima požurila raspravu o izvješćima predsjednika Vrhovnoga suda. Radovan Dobronić na Odboru za pravosuđe, u četvrtak u Sabornici.ćen 18-godišnjak koji je s hladnim oružjem upao u Klasičnu gimnaziju u Zagrebu. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 07 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/eb/61/20230307-jutarnja-kronika-33908382-20230307063515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.03. 2023-03-06</title>
-    <link>https://api.hrt.hr/media/03/fa/20230306-jutarnja-kronika-33904740-20230306063540.mp3</link>
-    <description>Hrvatska svaki dan na obnovu treba trošiti 4 milijuna eura, namjerava li iskoristiti sva europska sredstva do kraja lipnja - izračunao ministar Bačić. Danas bi se trebalo znati tko je pobijedio na natječaju za uređenje privremenog odlagališta građevnog otpada u zagrebačkom Resniku. Danska premijerka posjet Hrvatskoj počinje poslijepodnevnim obilaskom novog terminala za brodove duboka gaza u riječkoj luci. Nastavljaju se krvave borbe za Bahmut. Ukrajinska vojska tvrdi da je odbila 130 ruskih napada. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 06 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/03/fa/20230306-jutarnja-kronika-33904740-20230306063540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
