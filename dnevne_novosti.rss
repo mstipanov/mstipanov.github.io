@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Mar 2023 14:58:13 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 15:00:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.03. 2023-03-10</title>
+    <link>https://api.hrt.hr/media/13/5b/20230310-dnevne-novosti-33922078-20230310143544.mp3</link>
+    <description>Sedmero ljudi ubijeno, osmero ranjeno u pokolju u zgradi Jehovinih svjedoka u Hamburgu. Predsjednik Milanović optužio premijera Plenkovića da krši Ustav i daje nevjerojatna objašnjenja za opstrukciju funkcioniranja države. Nakon prekinute burne skupštine Dinama klub će do daljnjega voditi Mirko Barišić. Urednica: Mira Barić</description>
+    <pubDate>Fri, 10 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/5b/20230310-dnevne-novosti-33922078-20230310143544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.03. 2023-03-09</title>
     <link>https://api.hrt.hr/media/e0/7f/20230309-dnevne-novosti-33917894-20230309143542.mp3</link>
     <description>Novi paket mjera za građane u uvjetima energetske krize i inflacije bit će predstavljen idući tjedan, a na današnjoj sjednici Vlade produljena je odluka o nižem PDV-u na plin. Drugi put zaustavljeno poskupljenje vode u Zagrebu. U Omišu spojen most preko Cetine, u promet bi trebao biti pušten najesen. Diljem Ukrajine masovni ruski napadi, poginulo najmanje devet osoba. Večeras ključna izborna skupština Dinama, na kojoj će biti odlučeno tko će dalje voditi klub. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nastavljene su teške borbe za Bahmut, ukrajinski predsjednik Volodimir Zelenski najavio još odlučniju obranu grada. Predsjednik Vrhovnog suda Radovan Dobronić saborskom Odboru za pravosuđe podnio izvješće o stanju sudbene vlasti u 2020. i 2021. godini. Prema podacima Državnog zavoda za statistiku, cijena četvornog metra stana u 2022., u odnosu prema godini prije, viša za 20 posto. Voda u Zagrebu ipak poskupljuje, ali ne 15, nego sedam posto. Urednik: Silvio Šop</description>
     <pubDate>Tue, 07 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/ec/20230307-dnevne-novosti-33910265-20230307143534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.03. 2023-03-06</title>
-    <link>https://api.hrt.hr/media/eb/bb/20230306-dnevne-novosti-33906806-20230306144044.mp3</link>
-    <description>Bahmut vrlo blizu pada, predsjednik Zelenski kaže da nastavljaju braniti grad. I mjesec dana od razornih potresa u Turskoj i Siriji broje se mrtvi. Gotovo dva milijuna ljudi ostalo bez doma i žive kao beskućnici. Zlatko Dalić objavio popis igrača za prve utakmice u kvalifikacijama za EURO u Njemačkoj. Urednica: Mira Barić</description>
-    <pubDate>Mon, 06 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/eb/bb/20230306-dnevne-novosti-33906806-20230306144044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
