@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 10 Mar 2023 15:00:55 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 15:03:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.03. 2023-03-11</title>
+    <link>https://api.hrt.hr/media/fa/a7/20230311-dnevne-novosti-33924367-20230311144046.mp3</link>
+    <description>Nastavlja se bitka za Bahmut, Rusi drže istočni, a Ukrajinci zapadni dio grada. Ministar Beroš najavljuje reformu zdravstva, liječnici ne odustaju od prosvjeda sljedeće subote. Zbog anonimne prijave u kojoj se navode mnoge teške optužbe, ministar poslao inspekciju u Kliničku bolnicu Dubrava. Mnoga sela nemaju javni prijevoz i to dodatno potiče iseljavanje. Samo su tri županije iskoristile Vladinu subvenciju. Urednica: Mira Barić</description>
+    <pubDate>Sat, 11 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fa/a7/20230311-dnevne-novosti-33924367-20230311144046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.03. 2023-03-10</title>
     <link>https://api.hrt.hr/media/13/5b/20230310-dnevne-novosti-33922078-20230310143544.mp3</link>
     <description>Sedmero ljudi ubijeno, osmero ranjeno u pokolju u zgradi Jehovinih svjedoka u Hamburgu. Predsjednik Milanović optužio premijera Plenkovića da krši Ustav i daje nevjerojatna objašnjenja za opstrukciju funkcioniranja države. Nakon prekinute burne skupštine Dinama klub će do daljnjega voditi Mirko Barišić. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Istri počelo rušenje bespravno sagrađenih objekata, procjenjuje se da ih ima oko 50 tisuća. Državne obveznice uvrštene na tržište Zagrebačke burze. Uz međunarodni Dan žena marševi i prosvjedi jer žene su plaćene manje od muškaraca, žrtve su nasilja i dalje neravnopravne. Urednica: Sanja Cota</description>
     <pubDate>Wed, 08 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6d/bf/20230308-dnevne-novosti-33914241-20230308144040.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.03. 2023-03-07</title>
-    <link>https://api.hrt.hr/media/32/ec/20230307-dnevne-novosti-33910265-20230307143534.mp3</link>
-    <description>Nastavljene su teške borbe za Bahmut, ukrajinski predsjednik Volodimir Zelenski najavio još odlučniju obranu grada. Predsjednik Vrhovnog suda Radovan Dobronić saborskom Odboru za pravosuđe podnio izvješće o stanju sudbene vlasti u 2020. i 2021. godini. Prema podacima Državnog zavoda za statistiku, cijena četvornog metra stana u 2022., u odnosu prema godini prije, viša za 20 posto. Voda u Zagrebu ipak poskupljuje, ali ne 15, nego sedam posto. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 07 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/32/ec/20230307-dnevne-novosti-33910265-20230307143534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
