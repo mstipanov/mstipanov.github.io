@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 12 Mar 2023 22:06:28 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 22:08:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.03. 2023-03-13</title>
+    <link>https://api.hrt.hr/media/a3/6a/20230313-kronika-dana-33930730-20230313214552.mp3</link>
+    <description>Predstavljen novi Vladin paket mjera za pomoć građanima i gospodarstvu. U Europskoj komisiji drže da propast američke Silicon Valley banke nije izravna prijetnja europskome bankovnom sektoru, ali su moguće neizravne posljedice. I dalje traje teška bitka za Bahmut. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 13 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a3/6a/20230313-kronika-dana-33930730-20230313214552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.03. 2023-03-12</title>
     <link>https://api.hrt.hr/media/ae/74/20230312-kronika-dana-33927216-20230312214049.mp3</link>
     <description>Uoči proljetne ofenzive koju najavljuju za dva mjeseca, Kijev od zapadnih saveznika traži bržu isporuku i više oružja.Unatoč prosvjedima, francuski predsjednik i vlada ne odustaju od mirovinske reforme. U Los Angelesu 95-a dodjela Oskara. Najviše nominacija ima znanstveno-fantastična humoristična drama "Sve u isto vrijeme".
@@ -32,14 +40,6 @@ Urednica: Mira Barić</description>
     <description>Otok Unije ostat će u Primorsko-goranskoj županiji, zaključeno na sastanku predstavnika županije i otočana. Sedmero ljudi ubijeno, osmero ranjeno u pokolju u zgradi Jehovinih svjedoka u Hamburgu. U Zagrebu prosvjedovali radnici digitalnih platformi - traže da se zakonski uredi i zaštiti njihov rad. Urednica: Mira Barić</description>
     <pubDate>Fri, 10 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/05/10/20230310-kronika-dana-33922991-20230310213544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.03. 2023-03-09</title>
-    <link>https://api.hrt.hr/media/c7/10/20230309-kronika-dana-33919153-20230309214044.mp3</link>
-    <description>Skupština Dinama prekinuta - članovi skloni Zdravku Mamiću srušili kvorum. Stopa PDV-a na plin ostaje 5 posto. Drugi put zaustavljeno poskupljenje vode u Zagrebu. U Omišu spojen most preko Cetine. Cijela Ukrajina pod silovitim ruskim napadima. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 09 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/10/20230309-kronika-dana-33919153-20230309214044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
