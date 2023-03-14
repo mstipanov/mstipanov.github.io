@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Mar 2023 15:08:09 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 14:40:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nastavlja se bitka za Bahmut, Rusi drže istočni, a Ukrajinci zapadni dio grada. Ministar Beroš najavljuje reformu zdravstva, liječnici ne odustaju od prosvjeda sljedeće subote. Zbog anonimne prijave u kojoj se navode mnoge teške optužbe, ministar poslao inspekciju u Kliničku bolnicu Dubrava. Mnoga sela nemaju javni prijevoz i to dodatno potiče iseljavanje. Samo su tri županije iskoristile Vladinu subvenciju. Urednica: Mira Barić</description>
     <pubDate>Sat, 11 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fa/a7/20230311-dnevne-novosti-33924367-20230311144046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.03. 2023-03-10</title>
-    <link>https://api.hrt.hr/media/13/5b/20230310-dnevne-novosti-33922078-20230310143544.mp3</link>
-    <description>Sedmero ljudi ubijeno, osmero ranjeno u pokolju u zgradi Jehovinih svjedoka u Hamburgu. Predsjednik Milanović optužio premijera Plenkovića da krši Ustav i daje nevjerojatna objašnjenja za opstrukciju funkcioniranja države. Nakon prekinute burne skupštine Dinama klub će do daljnjega voditi Mirko Barišić. Urednica: Mira Barić</description>
-    <pubDate>Fri, 10 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/13/5b/20230310-dnevne-novosti-33922078-20230310143544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
