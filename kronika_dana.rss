@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Mar 2023 21:42:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 22:12:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.03. 2023-03-14</title>
+    <link>https://api.hrt.hr/media/99/bc/20230314-kronika-dana-33934124-20230314214032.mp3</link>
+    <description>Iznad Crnog mora srušena američka bespilotna letjelica nakon što su ruski borbeni zrakoplovi proletjeli ispod nje. Rusi tvrde da nisu pucali. Vlada detaljno predstavila paket mjera za pomoć građanima i poduzetnicima. Brodosplit bi mogao u stečaj zbog duga od gotovo 24 milijuna eura. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 14 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/bc/20230314-kronika-dana-33934124-20230314214032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.03. 2023-03-13</title>
     <link>https://api.hrt.hr/media/a3/6a/20230313-kronika-dana-33930730-20230313214552.mp3</link>
     <description>Predstavljen novi Vladin paket mjera za pomoć građanima i gospodarstvu. U Europskoj komisiji drže da propast američke Silicon Valley banke nije izravna prijetnja europskome bankovnom sektoru, ali su moguće neizravne posljedice. I dalje traje teška bitka za Bahmut. Urednica: Sanja Cota</description>
