@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Mar 2023 22:08:58 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 21:42:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Strahota na autocesti kod Budimpešte. Više od 36 osoba je ozlijeđeno u lančanom sudaru pet kamiona i najmanje 37 osobnih vozila. Zapalilo se 19 automobila. Nastavlja se bitka za Bahmut, Rusi drže istočni, a Ukrajinci zapadni dio grada. Nakon anonimne prijave o nepravilnostima na Kirurgiji u zagrebačkoj KB Dubravi, ministar Beroš poslao inspekciju. Urednik je Grgo Mrvica.</description>
     <pubDate>Sat, 11 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fc/f5/20230311-kronika-dana-33925124-20230311214047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.03. 2023-03-10</title>
-    <link>https://api.hrt.hr/media/05/10/20230310-kronika-dana-33922991-20230310213544.mp3</link>
-    <description>Otok Unije ostat će u Primorsko-goranskoj županiji, zaključeno na sastanku predstavnika županije i otočana. Sedmero ljudi ubijeno, osmero ranjeno u pokolju u zgradi Jehovinih svjedoka u Hamburgu. U Zagrebu prosvjedovali radnici digitalnih platformi - traže da se zakonski uredi i zaštiti njihov rad. Urednica: Mira Barić</description>
-    <pubDate>Fri, 10 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/10/20230310-kronika-dana-33922991-20230310213544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
