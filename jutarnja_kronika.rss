@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Mar 2023 07:07:18 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:09:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.03. 2023-03-14</title>
+    <link>https://api.hrt.hr/media/90/6c/20230314-jutarnja-kronika-33931272-20230314063532.mp3</link>
+    <description>Nakon što su jučer objavljene neke pojedinosti, Vlada će danas opširno predstaviti novi paket mjera za pomoć građanima i gospodarstvu. Oporba se slaže da je pomoć građanima i gospodarstvu dobrodošla, ali mjere ne jamče zaustavljanje rasta cijena. Autocesta Zagreb - Sisak bit će gotova do idućih parlamentarnih izbora, najavio premijer Plenković. I dalje traje teška bitka za Bahmut, Rusija predložila da se sporazum o izvozu ukrajinskog žita produlji za 60 dana. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 14 Mar 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/90/6c/20230314-jutarnja-kronika-33931272-20230314063532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.03. 2023-03-13</title>
     <link>https://api.hrt.hr/media/f3/82/20230313-jutarnja-kronika-33927750-20230313063550.mp3</link>
     <description>Na sjednici Gospodarsko-socijalnog vijeća bit će predstavljen novi paket mjera za ublažavanje inflatornih učinaka i porasta cijena energenata. Umirovljenici mogu očekivati novi energetski dodatak. Od sutra gorivo skuplje dva eurocenta po litri. Deseta je godišnjica pontifikata pape Franje. Film "Sve u isto vrijeme" apsolutni pobjednik noćašnje dodjele Oscara. Urednik Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Francuska i Britanija sklopile sporazum vrijedan 577 milijuna dolara kako bi zaustavile migrante na putu prema britanskom otoku! U KB Dubrava traje inspekcijski nadzor zbog prijave za neetično i seksističko ponašanje pojedinih liječnika. Proveli smo večer s radnicima zagrebačke Čistoće i provjerili koliko se građani i poduzetnici drže pravila za odvajanje otpada. Uoči dodjele Oskara danas će biti dodijeljene Zlatne maline za najgora filmska ostvarenja. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 11 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7e/54/20230311-jutarnja-kronika-33923576-20230311065050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.03. 2023-03-10</title>
-    <link>https://api.hrt.hr/media/90/09/20230310-jutarnja-kronika-33919890-20230310063543.mp3</link>
-    <description>U napadu na crkvu Jehovinih svjedoka u Hamburgu ubijeno sedmero ljudi. Skupština Dinama sinoć prekinuta - članovi skloni Zdravku Mamiću srušili kvorum. Stopa PDV-a na plin ostaje 5 posto, voda u Zagrebu, za sada, ne poskupljuje. U splitskom HNK-u premijera opere Jakova Gotovca "Mila Gojsalića". Urednik: Silvio Šop</description>
-    <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/90/09/20230310-jutarnja-kronika-33919890-20230310063543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
