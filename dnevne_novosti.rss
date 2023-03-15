@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Mar 2023 15:10:58 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:14:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.03. 2023-03-15</title>
+    <link>https://api.hrt.hr/media/34/9d/20230315-dnevne-novosti-33936831-20230315144033.mp3</link>
+    <description>Uhićen vukovarsko-srijemski župan Damir Dekanić zbog prikrivanja okolnosti prošlogodišnje prometne nesreće. Uhićeno i troje policajaca te još dvije osobe. Washington i Moskva međusobno se optužuju zbog jučerašnjeg pada američkog drona u Crno more. Na cestu između Omiša i Radmanovih mlinica odlomilo se kamenje i ozlijedilo čovjeka u automobilu. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 15 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/34/9d/20230315-dnevne-novosti-33936831-20230315144033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.03. 2023-03-14</title>
     <link>https://api.hrt.hr/media/47/f9/20230314-dnevne-novosti-33933200-20230314144534.mp3</link>
     <description>Premijer Plenković detaljno predstavio četvrti paket mjera vrijedan milijardu 700 milijuna eura, za dva artikla više neće biti zamrznute cijene. Fina podnijela Trgovačkom sudu u Splitu prijedlog za otvaranje stečaja nad Brodosplitom. Naša plivačica Dina Levačić preplivala Cookov prolaz, i time postala najmlađa žena u povijesti koja je završila slavni maraton u kolekciji "Oceanovih sedam". Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinci pozivaju zapadne saveznike da pojačaju opskrbu streljivom uoči proljetne ofenzive koju najavljuju za dva mjeseca. Vlada će idući tjedan socijalnim partnerima predstaviti mjere pomoći stanovništvu. Iako su izvanredni izbori za Gradsko vijeće Varaždina tek idućeg mjeseca, naslužbena kampanja već je počela. Počele pripreme za proljetnu sjetvu. Pred nama je noć dodjele Oskara. Urednik Grgo Mrvica</description>
     <pubDate>Sun, 12 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/8a/20230312-dnevne-novosti-33926476-20230312143548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.03. 2023-03-11</title>
-    <link>https://api.hrt.hr/media/fa/a7/20230311-dnevne-novosti-33924367-20230311144046.mp3</link>
-    <description>Nastavlja se bitka za Bahmut, Rusi drže istočni, a Ukrajinci zapadni dio grada. Ministar Beroš najavljuje reformu zdravstva, liječnici ne odustaju od prosvjeda sljedeće subote. Zbog anonimne prijave u kojoj se navode mnoge teške optužbe, ministar poslao inspekciju u Kliničku bolnicu Dubrava. Mnoga sela nemaju javni prijevoz i to dodatno potiče iseljavanje. Samo su tri županije iskoristile Vladinu subvenciju. Urednica: Mira Barić</description>
-    <pubDate>Sat, 11 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fa/a7/20230311-dnevne-novosti-33924367-20230311144046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
