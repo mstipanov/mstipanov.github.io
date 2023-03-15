@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Mar 2023 22:12:12 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 21:44:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.03. 2023-03-15</title>
+    <link>https://api.hrt.hr/media/4f/45/20230315-kronika-dana-33937782-20230315214033.mp3</link>
+    <description>Uhićeni vukovarsko-srijemski župan Damir Dekanić, troje policajaca i još dvije osobe. Župan će u osječkom USKOK-u biti ispitan sutra. Dan nakon izgreda iznad Crnog mora i bliskog kontakta ruskih bojnih zrakoplova i američke bespilotne letjelice, nižu se optužbe Moskve i Vašingtona. Švicarski bankarski div Credit Suisse mogao bi bankrotirati. SPORT: Juniori Hajduka, nakon jedanaesteraca, prošli u polufinale Lige prvaka! Urednik: Silvio Šop</description>
+    <pubDate>Wed, 15 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4f/45/20230315-kronika-dana-33937782-20230315214033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.03. 2023-03-14</title>
     <link>https://api.hrt.hr/media/99/bc/20230314-kronika-dana-33934124-20230314214032.mp3</link>
     <description>Iznad Crnog mora srušena američka bespilotna letjelica nakon što su ruski borbeni zrakoplovi proletjeli ispod nje. Rusi tvrde da nisu pucali. Vlada detaljno predstavila paket mjera za pomoć građanima i poduzetnicima. Brodosplit bi mogao u stečaj zbog duga od gotovo 24 milijuna eura. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Sun, 12 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/74/20230312-kronika-dana-33927216-20230312214049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.03. 2023-03-11</title>
-    <link>https://api.hrt.hr/media/fc/f5/20230311-kronika-dana-33925124-20230311214047.mp3</link>
-    <description>Strahota na autocesti kod Budimpešte. Više od 36 osoba je ozlijeđeno u lančanom sudaru pet kamiona i najmanje 37 osobnih vozila. Zapalilo se 19 automobila. Nastavlja se bitka za Bahmut, Rusi drže istočni, a Ukrajinci zapadni dio grada. Nakon anonimne prijave o nepravilnostima na Kirurgiji u zagrebačkoj KB Dubravi, ministar Beroš poslao inspekciju. Urednik je Grgo Mrvica.</description>
-    <pubDate>Sat, 11 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fc/f5/20230311-kronika-dana-33925124-20230311214047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
