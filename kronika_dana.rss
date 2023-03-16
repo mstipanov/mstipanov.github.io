@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 15 Mar 2023 21:44:59 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 21:48:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.03. 2023-03-16</title>
+    <link>https://api.hrt.hr/media/74/db/20230316-kronika-dana-33941741-20230316213555.mp3</link>
+    <description>Policija objavila da je vukovarsko-srijemski župan Damir Dekanić vozio pijan i poslije zataškavao prometnu nesreću. Poljska je prva zemlja koja će Ukrajini poslati bojne zrakoplove. Na Poljudu navijači dočekali juniore Hajduka koji su ušli u polufinale Lige prvaka. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 16 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/74/db/20230316-kronika-dana-33941741-20230316213555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.03. 2023-03-15</title>
     <link>https://api.hrt.hr/media/4f/45/20230315-kronika-dana-33937782-20230315214033.mp3</link>
     <description>Uhićeni vukovarsko-srijemski župan Damir Dekanić, troje policajaca i još dvije osobe. Župan će u osječkom USKOK-u biti ispitan sutra. Dan nakon izgreda iznad Crnog mora i bliskog kontakta ruskih bojnih zrakoplova i američke bespilotne letjelice, nižu se optužbe Moskve i Vašingtona. Švicarski bankarski div Credit Suisse mogao bi bankrotirati. SPORT: Juniori Hajduka, nakon jedanaesteraca, prošli u polufinale Lige prvaka! Urednik: Silvio Šop</description>
@@ -31,15 +39,6 @@
     <description>Predstavljen novi Vladin paket mjera za pomoć građanima i gospodarstvu. U Europskoj komisiji drže da propast američke Silicon Valley banke nije izravna prijetnja europskome bankovnom sektoru, ali su moguće neizravne posljedice. I dalje traje teška bitka za Bahmut. Urednica: Sanja Cota</description>
     <pubDate>Mon, 13 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a3/6a/20230313-kronika-dana-33930730-20230313214552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.03. 2023-03-12</title>
-    <link>https://api.hrt.hr/media/ae/74/20230312-kronika-dana-33927216-20230312214049.mp3</link>
-    <description>Uoči proljetne ofenzive koju najavljuju za dva mjeseca, Kijev od zapadnih saveznika traži bržu isporuku i više oružja.Unatoč prosvjedima, francuski predsjednik i vlada ne odustaju od mirovinske reforme. U Los Angelesu 95-a dodjela Oskara. Najviše nominacija ima znanstveno-fantastična humoristična drama "Sve u isto vrijeme".
-Urednica: Mira Barić</description>
-    <pubDate>Sun, 12 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/74/20230312-kronika-dana-33927216-20230312214049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
