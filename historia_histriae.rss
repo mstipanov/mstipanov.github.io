@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Mar 2023 17:28:33 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:17:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>DARIO KORACA ZA HISTORIU 2023-03-16</title>
+    <link>https://api.hrt.hr/media/71/b2/20230316-historia-histriae-7930486-20230316170051.mp3</link>
+    <description>Priču o povijesti sporta u Istri donosi nam Dario Koraca, autor knjige "Sport u Istri: prvih 150 godina"</description>
+    <pubDate>Thu, 16 Mar 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/b2/20230316-historia-histriae-7930486-20230316170051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>David Orlović o Monte Zaru 2023-03-09</title>
     <link>https://api.hrt.hr/media/b8/bb/20230309-historia-histriae-7928025-20230309165542.mp3</link>
     <description>U goste nam dolazi naš povjesničar David Orlović, a nastavljamo ciklus priče o povijesti pulskih kvartova.....ovog puta na redu je, kako on kaže "nekad magični" Monte Zaro...</description>
@@ -79,14 +87,6 @@
     <description>U goste nam se vraća novinar i pokretač facebook stranice "Pulske štorije" Zvjezdan Strahinja.....priča nam o domaru Marine Casina, o izgubljenim dječacima Vedranu i Draganu, o cirkusu na Lungo Mare, o šamaru Mussoliniju u Puli i o pulskim farfallinama.....budite s nama i u nastavku putovanja kroz mozaik priča našeg grada!</description>
     <pubDate>Thu, 12 Jan 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/53/76/20230112-historia-histriae-7907223-20230112155534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>"Pulske storije" uz Zvjezdana Strahinju 1. dio 2023-01-05</title>
-    <link>https://api.hrt.hr/media/9a/2e/20230105-historia-histriae-7907209-20230105165528.mp3</link>
-    <description>U goste nam dolazi kolega novinar i pokretač facebook stranice "Pulske štorije" Zvjezdan Strahinja. Priče o klubu Uljanik, o pulskim toaletima, o gradskim facama, o mitovima i intrigama na granici stvarnosti.......nevjerojatne priče koje čine mozaik sjećanja generacija......Zvjezdan nam priča o jednom gradu i otkriva njegove tajne.....budite s nama!</description>
-    <pubDate>Thu, 05 Jan 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/2e/20230105-historia-histriae-7907209-20230105165528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
