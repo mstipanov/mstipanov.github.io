@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 17 Mar 2023 21:51:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 22:51:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.03. 2023-03-17</title>
+    <link>https://api.hrt.hr/media/6b/8c/20230317-kronika-dana-33945558-20230317222522.mp3</link>
+    <description>Pet liječničkih udruga sutra u Zagrebu organizira prosvjed pod nazivom "S.O.S. za hrvatsko zdravstvo". Ministar Vili Beroš predstavio je probni projekt preventivnih sistematskih pregleda. Roditelji njegovatelji, ako im dijete umre, i dalje bez prava na naknadu za još šest mjeseci. Međunarodni kazneni sud izdao nalog za uhićenje ruskog predsjednika Vladimira Putina. Nakon Poljske, i Slovačka šalje Migove Ukrajini. Umrla je Dubravka Ugrešić, jedna od najistaknutijih europskih esejistica i književnica. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 17 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6b/8c/20230317-kronika-dana-33945558-20230317222522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.03. 2023-03-16</title>
     <link>https://api.hrt.hr/media/74/db/20230316-kronika-dana-33941741-20230316213555.mp3</link>
     <description>Policija objavila da je vukovarsko-srijemski župan Damir Dekanić vozio pijan i poslije zataškavao prometnu nesreću. Poljska je prva zemlja koja će Ukrajini poslati bojne zrakoplove. Na Poljudu navijači dočekali juniore Hajduka koji su ušli u polufinale Lige prvaka. Urednica: Sanja Cota</description>
