@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 17 Mar 2023 15:21:06 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 14:53:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.03. 2023-03-18</title>
+    <link>https://api.hrt.hr/media/80/1a/20230318-dnevne-novosti-33947074-20230318143523.mp3</link>
+    <description>U Zagrebu održan prosvjed liječnika pod nazivom SOS za zdravstvo. Ističu loše stanje u zdravstvenom sustavu, slabu pokrivenost zemlje liječničkim timovima i ordinacijama, mnogobrojne prekovremene sate i odlazak mladih liječnika u inozemstvo. Na liječnički prosvjed ministar Beroš odgovorio otvorenim pismom, u kojem pita je li motiv prosvjeda želja Hrvatske liječničke komore za proširenjem ovlasti, a ne borba za prava liječnika. Možemo! bira vodstvo stranke, sjednicu održava i Glavni odbor SDP-a. Sport! Leona Popović u zadnjem slalomu sezone osvojila drugo mjesto! Urednik: Silvio Šop</description>
+    <pubDate>Sat, 18 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/80/1a/20230318-dnevne-novosti-33947074-20230318143523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.03. 2023-03-17</title>
     <link>https://api.hrt.hr/media/c1/30/20230317-dnevne-novosti-33944329-20230317151011.mp3</link>
     <description>U Saboru će se glasovati o paketu zakona iz zdravstvene reforme zbog kojih će sutra na Markovu trgu prosvjedovati liječnici. Vukovarsko-srijemskom županu Damiru Dekaniću određen jednomjesečni istražni zatvor. Poljska šalje Ukrajini bojne zrakoplove. Francuzi ponovno na ulicama, nakon što je parlament prihvatio mirovinsku reformu.Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Uhićen vukovarsko-srijemski župan Damir Dekanić zbog prikrivanja okolnosti prošlogodišnje prometne nesreće. Uhićeno i troje policajaca te još dvije osobe. Washington i Moskva međusobno se optužuju zbog jučerašnjeg pada američkog drona u Crno more. Na cestu između Omiša i Radmanovih mlinica odlomilo se kamenje i ozlijedilo čovjeka u automobilu. Urednica: Sanja Cota</description>
     <pubDate>Wed, 15 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/34/9d/20230315-dnevne-novosti-33936831-20230315144033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.03. 2023-03-14</title>
-    <link>https://api.hrt.hr/media/47/f9/20230314-dnevne-novosti-33933200-20230314144534.mp3</link>
-    <description>Premijer Plenković detaljno predstavio četvrti paket mjera vrijedan milijardu 700 milijuna eura, za dva artikla više neće biti zamrznute cijene. Fina podnijela Trgovačkom sudu u Splitu prijedlog za otvaranje stečaja nad Brodosplitom. Naša plivačica Dina Levačić preplivala Cookov prolaz, i time postala najmlađa žena u povijesti koja je završila slavni maraton u kolekciji "Oceanovih sedam". Urednica: Mira Barić</description>
-    <pubDate>Tue, 14 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/47/f9/20230314-dnevne-novosti-33933200-20230314144534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
