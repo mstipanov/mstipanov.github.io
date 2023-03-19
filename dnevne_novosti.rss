@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 18 Mar 2023 14:53:50 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 14:56:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.03. 2023-03-19</title>
+    <link>https://api.hrt.hr/media/21/71/20230319-dnevne-novosti-33949358-20230319143508.mp3</link>
+    <description>Protubrodska mina iz Drugog svjetskog rata uspješno uništena u Riječkom zaljevu. Život u gradu vraća se u normalu. Nakon Krima, ruski predsjednik Putin posjetio Mariupolj. Crna Gora bira predsjednika. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 19 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/21/71/20230319-dnevne-novosti-33949358-20230319143508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.03. 2023-03-18</title>
     <link>https://api.hrt.hr/media/80/1a/20230318-dnevne-novosti-33947074-20230318143523.mp3</link>
     <description>U Zagrebu održan prosvjed liječnika pod nazivom SOS za zdravstvo. Ističu loše stanje u zdravstvenom sustavu, slabu pokrivenost zemlje liječničkim timovima i ordinacijama, mnogobrojne prekovremene sate i odlazak mladih liječnika u inozemstvo. Na liječnički prosvjed ministar Beroš odgovorio otvorenim pismom, u kojem pita je li motiv prosvjeda želja Hrvatske liječničke komore za proširenjem ovlasti, a ne borba za prava liječnika. Možemo! bira vodstvo stranke, sjednicu održava i Glavni odbor SDP-a. Sport! Leona Popović u zadnjem slalomu sezone osvojila drugo mjesto! Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vukovarsko-srijemski župan Damir Dekanić na Županijskom sudu gdje će sudac istrage odlučiti o mogućem istražnom pritvoru. Švicarska središnja banka pristala pozajmiti 50 milijardi franaka Credit Suissu, što bi trebalo umiriti svjetska financijska tržišta. Grčka paralizirana - zaustavljen javni prijevoz, zatvorene državne škole, ne rade javne službe. U nedjelju će iz mora u riječkoj luci biti uklonjena protubrodska mina iz Drugog svjetskog rata. Središte Rijeke evakuirat će se već u subotu navečer. Urednica: Mira Barić</description>
     <pubDate>Thu, 16 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/8c/20230316-dnevne-novosti-33940678-20230316144035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.03. 2023-03-15</title>
-    <link>https://api.hrt.hr/media/34/9d/20230315-dnevne-novosti-33936831-20230315144033.mp3</link>
-    <description>Uhićen vukovarsko-srijemski župan Damir Dekanić zbog prikrivanja okolnosti prošlogodišnje prometne nesreće. Uhićeno i troje policajaca te još dvije osobe. Washington i Moskva međusobno se optužuju zbog jučerašnjeg pada američkog drona u Crno more. Na cestu između Omiša i Radmanovih mlinica odlomilo se kamenje i ozlijedilo čovjeka u automobilu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 15 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/9d/20230315-dnevne-novosti-33936831-20230315144033.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
