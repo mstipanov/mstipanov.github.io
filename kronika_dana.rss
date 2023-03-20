@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 19 Mar 2023 21:57:12 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 22:00:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.03. 2023-03-20</title>
+    <link>https://api.hrt.hr/media/e0/7b/20230320-kronika-dana-33953596-20230320214010.mp3</link>
+    <description>Prvog dana posjeta Xi Jinpinga Moskvi dvojica predsjednika razgovarala o najvažnijim temama za Rusiju i Kinu. Europska unija dogovorila pomoć Ukrajini, dobit će oružje vrijedno dvije milijarde eura. MORH potvrdio da je na adrese desetak tisuća osoba poslan poziv; riječ je o redovitim aktivnostima vezanima za pričuvni sastav Oružanih snage. Urednica: Mira Barić</description>
+    <pubDate>Mon, 20 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e0/7b/20230320-kronika-dana-33953596-20230320214010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.03. 2023-03-19</title>
     <link>https://api.hrt.hr/media/83/0c/20230319-kronika-dana-33950080-20230319214008.mp3</link>
     <description>Klinička bolnica Dubrava rekorder po transplatacijama srca, u posljednja dva mjeseca obavljeno ih čak devet. U Kvarnerskom zaljevu uništena protubrodska mina koja je sadržavala 690 kilograma eksploziva. Milo Đukanović i Jakov Milatović u drugom krugu predsjedničkih izbora u Crnoj Gori. Nakon Krima, ruski predsjednik Putin nenajavljeno posjetio Mariupolj.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Pet liječničkih udruga sutra u Zagrebu organizira prosvjed pod nazivom "S.O.S. za hrvatsko zdravstvo". Ministar Vili Beroš predstavio je probni projekt preventivnih sistematskih pregleda. Roditelji njegovatelji, ako im dijete umre, i dalje bez prava na naknadu za još šest mjeseci. Međunarodni kazneni sud izdao nalog za uhićenje ruskog predsjednika Vladimira Putina. Nakon Poljske, i Slovačka šalje Migove Ukrajini. Umrla je Dubravka Ugrešić, jedna od najistaknutijih europskih esejistica i književnica. Urednik: Silvio Šop</description>
     <pubDate>Fri, 17 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6b/8c/20230317-kronika-dana-33945558-20230317222522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.03. 2023-03-16</title>
-    <link>https://api.hrt.hr/media/74/db/20230316-kronika-dana-33941741-20230316213555.mp3</link>
-    <description>Policija objavila da je vukovarsko-srijemski župan Damir Dekanić vozio pijan i poslije zataškavao prometnu nesreću. Poljska je prva zemlja koja će Ukrajini poslati bojne zrakoplove. Na Poljudu navijači dočekali juniore Hajduka koji su ušli u polufinale Lige prvaka. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 16 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/74/db/20230316-kronika-dana-33941741-20230316213555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
