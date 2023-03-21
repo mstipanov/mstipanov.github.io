@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Mar 2023 21:34:07 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 22:04:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.03. 2023-03-21</title>
+    <link>https://api.hrt.hr/media/7f/3e/20230321-kronika-dana-33957038-20230321214034.mp3</link>
+    <description>Ruski i kineski predsjednici u Moskvi potpisali dokumente o gospodarskoj suradnji i produbljivanju partnerstva dviju zemalja.Uoči treće godišnjice zagrebačkog potresa, obnavljaju se javne ustanove, obnova zgrada i kuća nije niti počela.Potres 6 cijelih 5 prema Richteru pogodio večeras Afganistan. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 21 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7f/3e/20230321-kronika-dana-33957038-20230321214034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.03. 2023-03-20</title>
     <link>https://api.hrt.hr/media/e0/7b/20230320-kronika-dana-33953596-20230320214010.mp3</link>
     <description>Prvog dana posjeta Xi Jinpinga Moskvi dvojica predsjednika razgovarala o najvažnijim temama za Rusiju i Kinu. Europska unija dogovorila pomoć Ukrajini, dobit će oružje vrijedno dvije milijarde eura. MORH potvrdio da je na adrese desetak tisuća osoba poslan poziv; riječ je o redovitim aktivnostima vezanima za pričuvni sastav Oružanih snage. Urednica: Mira Barić</description>
