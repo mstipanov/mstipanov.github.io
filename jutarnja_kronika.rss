@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Mar 2023 06:58:07 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 06:31:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Prosvjed liječnika na Markovu trgu počinje simbolično - u podne i pet minuta. Međunarodni kazneni sud izdao nalog za uhićenje ruskog predsjednika Vladimira Putina. Zbog uništavanja mine iz Drugog svjetskog rata, u Rijeci večeras u 22 sata evakuacija stanovništva koje živi oko riječke luke. Na gradilištu u Rijeci pronađena i avionska bomba. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 18 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/66/1e/20230318-jutarnja-kronika-33946014-20230318065522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.03. 2023-03-17</title>
-    <link>https://api.hrt.hr/media/36/90/20230317-jutarnja-kronika-33942301-20230317063556.mp3</link>
-    <description>U Saboru će se glasovati o paketu zakona iz zdravstvene reforme zbog kojih će sutra na Markovu trgu prosvjedovati liječnici. Vukovarsko-srijemskom županu Damiru Dekaniću određen jednomjesečni istražni zatvor. Poljska šalje Ukrajini bojne zrakoplove. Francuzi ponovno na ulicama, nakon što je parlament prihvatio mirovinsku reformu.Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 17 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/36/90/20230317-jutarnja-kronika-33942301-20230317063556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
