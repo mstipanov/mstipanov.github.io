@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Mar 2023 17:41:19 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:03:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 21.03.2023. 2023-03-21</title>
+    <link>https://api.hrt.hr/media/ca/f0/20230321-explora-7932225-20230321160034.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 21 Mar 2023 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/f0/20230321-explora-7932225-20230321160034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 14.03.2023. 2023-03-14</title>
     <link>https://api.hrt.hr/media/18/48/20230314-explora-7929877-20230314161032.mp3</link>
     <description>Neuspješno testiranje raketa Terran 1 i japanske H3. James Webb i prateća galaksija u ranom svemiru. Korisnost ili pomodarstvo ukrasnih led traka. Štetni toaletni papir. Friteze na vrući zrak, kuhanje na paru, ili bez ikakve tekućine. Radioaktivni vrh gromobrana, njegova vrijednost i štetnost. Izbaciti persiranje, neposredna komunikacija. Kada je čovjek počeo govoriti neistinu. Novo cjepivo za američke pčele. Zaštita Velikog koraljnog grebena u Australiji.
@@ -88,14 +96,6 @@ Prvi američki političar čitao govor koji je napisao Chat GPT, uskoro dio MS W
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
     <pubDate>Tue, 17 Jan 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/56/65/20230117-explora-7910768-20230117170520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>EXPLORA 2023-01-10</title>
-    <link>https://api.hrt.hr/media/69/d5/20230110-explora-7908522-20230110170536.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 10 Jan 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/d5/20230110-explora-7908522-20230110170536.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
