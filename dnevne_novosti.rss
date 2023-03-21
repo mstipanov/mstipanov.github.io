@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Mar 2023 14:59:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 15:03:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.03. 2023-03-21</title>
+    <link>https://api.hrt.hr/media/db/63/20230321-dnevne-novosti-33956051-20230321144035.mp3</link>
+    <description>Vlada priprema novi prijedlog zakona po kojima će roditelji njegovatelji nakon smrti djeteta imati pravo na naknadu deset mjeseci. U Moskvi sastanak ruskog i kineskog predsjednika, u posjet Kijevu stigao japanski premijer. Sutra tri godine od zagrebačkih potresa. Još nije izgrađena nijedna zamjenska kuća. Urednica: Mira Barić</description>
+    <pubDate>Tue, 21 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/db/63/20230321-dnevne-novosti-33956051-20230321144035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.03. 2023-03-20</title>
     <link>https://api.hrt.hr/media/71/9c/20230320-dnevne-novosti-33952604-20230320143510.mp3</link>
     <description>Kineski predsjednik Xi Jinping stigao u Moskvu. Drugi krug predsjedničkih izbora u Crnoj Gori bit će borba za politički opstanak Mila Đukanovića, protukandidat mu je čelnik prosrpskog Pokreta Europa sad Jakov Milatović. General-major JNA Aleksandar Vasiljević u odsutnosti osuđen na 20 godina zatvora za ratni zločin nad ratnim zarobljenicima i civilima. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Zagrebu održan prosvjed liječnika pod nazivom SOS za zdravstvo. Ističu loše stanje u zdravstvenom sustavu, slabu pokrivenost zemlje liječničkim timovima i ordinacijama, mnogobrojne prekovremene sate i odlazak mladih liječnika u inozemstvo. Na liječnički prosvjed ministar Beroš odgovorio otvorenim pismom, u kojem pita je li motiv prosvjeda želja Hrvatske liječničke komore za proširenjem ovlasti, a ne borba za prava liječnika. Možemo! bira vodstvo stranke, sjednicu održava i Glavni odbor SDP-a. Sport! Leona Popović u zadnjem slalomu sezone osvojila drugo mjesto! Urednik: Silvio Šop</description>
     <pubDate>Sat, 18 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/80/1a/20230318-dnevne-novosti-33947074-20230318143523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.03. 2023-03-17</title>
-    <link>https://api.hrt.hr/media/c1/30/20230317-dnevne-novosti-33944329-20230317151011.mp3</link>
-    <description>U Saboru će se glasovati o paketu zakona iz zdravstvene reforme zbog kojih će sutra na Markovu trgu prosvjedovati liječnici. Vukovarsko-srijemskom županu Damiru Dekaniću određen jednomjesečni istražni zatvor. Poljska šalje Ukrajini bojne zrakoplove. Francuzi ponovno na ulicama, nakon što je parlament prihvatio mirovinsku reformu.Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 17 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c1/30/20230317-dnevne-novosti-33944329-20230317151011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
