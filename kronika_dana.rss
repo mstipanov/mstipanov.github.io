@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Mar 2023 22:04:12 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 22:07:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.03. 2023-03-22</title>
+    <link>https://api.hrt.hr/media/88/6a/20230322-kronika-dana-33960778-20230322214039.mp3</link>
+    <description>Tri godine nakon potresa Zagreb se sporo obnavlja. Ministarstvo vanjskih poslova opovrgnulo tvrdnje zambijskoga dužnosnika da je osmero Hrvata više puta s djecom prelazilo granicu s Kongom. Projekt cjelodnevne nastave - od jeseni eksperimentalno u 50 osnovnih škola. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 22 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/88/6a/20230322-kronika-dana-33960778-20230322214039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.03. 2023-03-21</title>
     <link>https://api.hrt.hr/media/7f/3e/20230321-kronika-dana-33957038-20230321214034.mp3</link>
     <description>Ruski i kineski predsjednici u Moskvi potpisali dokumente o gospodarskoj suradnji i produbljivanju partnerstva dviju zemalja.Uoči treće godišnjice zagrebačkog potresa, obnavljaju se javne ustanove, obnova zgrada i kuća nije niti počela.Potres 6 cijelih 5 prema Richteru pogodio večeras Afganistan. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Klinička bolnica Dubrava rekorder po transplatacijama srca, u posljednja dva mjeseca obavljeno ih čak devet. U Kvarnerskom zaljevu uništena protubrodska mina koja je sadržavala 690 kilograma eksploziva. Milo Đukanović i Jakov Milatović u drugom krugu predsjedničkih izbora u Crnoj Gori. Nakon Krima, ruski predsjednik Putin nenajavljeno posjetio Mariupolj.Urednica: Mira Barić</description>
     <pubDate>Sun, 19 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/83/0c/20230319-kronika-dana-33950080-20230319214008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.03. 2023-03-18</title>
-    <link>https://api.hrt.hr/media/fe/bb/20230318-kronika-dana-33947893-20230318214024.mp3</link>
-    <description>Na Markovu trgu prosvjedovali liječnici. Sandra Benčić i Tomislav Tomašević na čelu Platforme Možemo koja očekuje da će nakon Zagreba voditi i Hrvatsku. Vladimir Putin nenajavljeno posjetio Krim na devetu obljetnice ruskog pripojenja tog ukrajinskog poluotoka. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 18 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fe/bb/20230318-kronika-dana-33947893-20230318214024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
