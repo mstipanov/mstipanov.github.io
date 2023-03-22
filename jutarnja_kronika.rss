@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Mar 2023 07:02:01 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:35:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -32,14 +32,6 @@ Roditeljima njegovateljima nakon smrti djeteta puna naknada još 10 mjeseci - na
     <description>U Rijeci u tijeku akcija uklanjanja mine iz Drugoga svjetskog rata, evakuirani stanovnici iz središta grada. Snažan potres pogodio Ekvador, poginulo najmanje 16 osoba. Kosovo i Srbija dogovorili su se o provedbi sporazuma o normalizaciji odnosa nakon 12 sati razgovora, ali ništa nije potpisano. U Crnoj Gori održavaju se predsjednički izbori. Urednik: Silvio Šop</description>
     <pubDate>Sun, 19 Mar 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/5b/20230319-jutarnja-kronika-33948511-20230319070025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.03. 2023-03-18</title>
-    <link>https://api.hrt.hr/media/66/1e/20230318-jutarnja-kronika-33946014-20230318065522.mp3</link>
-    <description>Prosvjed liječnika na Markovu trgu počinje simbolično - u podne i pet minuta. Međunarodni kazneni sud izdao nalog za uhićenje ruskog predsjednika Vladimira Putina. Zbog uništavanja mine iz Drugog svjetskog rata, u Rijeci večeras u 22 sata evakuacija stanovništva koje živi oko riječke luke. Na gradilištu u Rijeci pronađena i avionska bomba. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 18 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/66/1e/20230318-jutarnja-kronika-33946014-20230318065522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
