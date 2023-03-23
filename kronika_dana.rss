@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 22 Mar 2023 22:07:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 21:41:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.03. 2023-03-23</title>
+    <link>https://api.hrt.hr/media/c0/c3/20230323-kronika-dana-33964399-20230323214046.mp3</link>
+    <description>Čelnici Europske unije dogovorili nastavak pomoći Ukrajini, uključujući što bržu dostavu streljiva. Zelenski ih pozvao da požure s isporukom.Diljem Francuske prosvjedi zbog Macronove mirovinske reforme, u mnogim gradovima prerasli u nasilje.Brodosplit ne ide u stečaj, vlasnik Debeljak osobnom zadužnicom deblokirao račun.
+Urednica: Mira Barić</description>
+    <pubDate>Thu, 23 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c0/c3/20230323-kronika-dana-33964399-20230323214046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.03. 2023-03-22</title>
     <link>https://api.hrt.hr/media/88/6a/20230322-kronika-dana-33960778-20230322214039.mp3</link>
     <description>Tri godine nakon potresa Zagreb se sporo obnavlja. Ministarstvo vanjskih poslova opovrgnulo tvrdnje zambijskoga dužnosnika da je osmero Hrvata više puta s djecom prelazilo granicu s Kongom. Projekt cjelodnevne nastave - od jeseni eksperimentalno u 50 osnovnih škola. Urednica: Sanja Cota</description>
@@ -31,14 +40,6 @@
     <description>Prvog dana posjeta Xi Jinpinga Moskvi dvojica predsjednika razgovarala o najvažnijim temama za Rusiju i Kinu. Europska unija dogovorila pomoć Ukrajini, dobit će oružje vrijedno dvije milijarde eura. MORH potvrdio da je na adrese desetak tisuća osoba poslan poziv; riječ je o redovitim aktivnostima vezanima za pričuvni sastav Oružanih snage. Urednica: Mira Barić</description>
     <pubDate>Mon, 20 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e0/7b/20230320-kronika-dana-33953596-20230320214010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.03. 2023-03-19</title>
-    <link>https://api.hrt.hr/media/83/0c/20230319-kronika-dana-33950080-20230319214008.mp3</link>
-    <description>Klinička bolnica Dubrava rekorder po transplatacijama srca, u posljednja dva mjeseca obavljeno ih čak devet. U Kvarnerskom zaljevu uništena protubrodska mina koja je sadržavala 690 kilograma eksploziva. Milo Đukanović i Jakov Milatović u drugom krugu predsjedničkih izbora u Crnoj Gori. Nakon Krima, ruski predsjednik Putin nenajavljeno posjetio Mariupolj.Urednica: Mira Barić</description>
-    <pubDate>Sun, 19 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/0c/20230319-kronika-dana-33950080-20230319214008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
