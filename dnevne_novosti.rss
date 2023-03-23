@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 22 Mar 2023 14:36:20 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:10:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.03. 2023-03-23</title>
+    <link>https://api.hrt.hr/media/57/74/20230323-dnevne-novosti-33963204-20230323144046.mp3</link>
+    <description>Radnici Petrokemije zahtijevaju hitno pokretanje proizvodnje, a radnice šibenske Revije još traže otpremnine koje im nisu isplaćene ni nakon više od 20 godina. Otkriveno da se u Nemetinu gradi pogon američke kompanije Jabil koji će zaposliti tisuću i 500 ljudi. Rimac grupa prvi put pokazala svoju proizvodnju. Počeo sastanak na vrhu Europske unije, razgovara se o posljedicama agresije na Ukrajinu. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 23 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/74/20230323-dnevne-novosti-33963204-20230323144046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.03. 2023-03-22</title>
     <link>https://api.hrt.hr/media/6a/a8/20230322-dnevne-novosti-33959717-20230322143539.mp3</link>
     <description>Tri godine od zagrebačkog potresa obnova ide sporo, od potresa četvrti ministar graditeljstva Branko Bačić sada ističe da je najvažnije isplatiti milijardu eura za obnovu iz Fonda solidarnosti do kraja prve polovice ove godine. Oporba tvrdi da je Vlada nesposobna iskoristiti europski novac za obnovu. Djeca iz Konga, koju je pokušalo posvojiti osmero Hrvata, optuženih za pokušaj trgovine djecom u Zambiji, moraju se vratiti u tu zemlju, izjavio voditelj izaslanstva Konga u Ujedinjenim narodima. Rusi tijekom noći i jutra napali Zaporižju, Herson i predgrađe Kijeva. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Kineski predsjednik Xi Jinping stigao u Moskvu. Drugi krug predsjedničkih izbora u Crnoj Gori bit će borba za politički opstanak Mila Đukanovića, protukandidat mu je čelnik prosrpskog Pokreta Europa sad Jakov Milatović. General-major JNA Aleksandar Vasiljević u odsutnosti osuđen na 20 godina zatvora za ratni zločin nad ratnim zarobljenicima i civilima. Urednica: Sanja Cota</description>
     <pubDate>Mon, 20 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/71/9c/20230320-dnevne-novosti-33952604-20230320143510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.03. 2023-03-19</title>
-    <link>https://api.hrt.hr/media/21/71/20230319-dnevne-novosti-33949358-20230319143508.mp3</link>
-    <description>Protubrodska mina iz Drugog svjetskog rata uspješno uništena u Riječkom zaljevu. Život u gradu vraća se u normalu. Nakon Krima, ruski predsjednik Putin posjetio Mariupolj. Crna Gora bira predsjednika. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 19 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/71/20230319-dnevne-novosti-33949358-20230319143508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
