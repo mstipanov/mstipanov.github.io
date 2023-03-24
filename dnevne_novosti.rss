@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 23 Mar 2023 15:10:10 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 14:44:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.03. 2023-03-24</title>
+    <link>https://api.hrt.hr/media/1a/c3/20230324-dnevne-novosti-33967133-20230324144009.mp3</link>
+    <description>Čak 30 posto skuplja hrana nego prošle godine, uoči Uskrsa očekuje se dodatni rast. Oko 450 policajaca ozlijeđeno, a 500 ljudi uhićeno u masovnim prosvjedima koji su prerasli u nerede diljem Francuske - otkazan posjet britanskog kralja najavljen za sljedeći tjedan. Slavonska kobasica dobila europsku zaštićenu oznaku zemljopisnog podrijetla i postala 41. hrvatski proizvod zaštićen na razini Europske unije. Urednica: Mira Barić</description>
+    <pubDate>Fri, 24 Mar 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1a/c3/20230324-dnevne-novosti-33967133-20230324144009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.03. 2023-03-23</title>
     <link>https://api.hrt.hr/media/57/74/20230323-dnevne-novosti-33963204-20230323144046.mp3</link>
     <description>Radnici Petrokemije zahtijevaju hitno pokretanje proizvodnje, a radnice šibenske Revije još traže otpremnine koje im nisu isplaćene ni nakon više od 20 godina. Otkriveno da se u Nemetinu gradi pogon američke kompanije Jabil koji će zaposliti tisuću i 500 ljudi. Rimac grupa prvi put pokazala svoju proizvodnju. Počeo sastanak na vrhu Europske unije, razgovara se o posljedicama agresije na Ukrajinu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Vlada priprema novi prijedlog zakona po kojima će roditelji njegovatelji nakon smrti djeteta imati pravo na naknadu deset mjeseci. U Moskvi sastanak ruskog i kineskog predsjednika, u posjet Kijevu stigao japanski premijer. Sutra tri godine od zagrebačkih potresa. Još nije izgrađena nijedna zamjenska kuća. Urednica: Mira Barić</description>
     <pubDate>Tue, 21 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/63/20230321-dnevne-novosti-33956051-20230321144035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.03. 2023-03-20</title>
-    <link>https://api.hrt.hr/media/71/9c/20230320-dnevne-novosti-33952604-20230320143510.mp3</link>
-    <description>Kineski predsjednik Xi Jinping stigao u Moskvu. Drugi krug predsjedničkih izbora u Crnoj Gori bit će borba za politički opstanak Mila Đukanovića, protukandidat mu je čelnik prosrpskog Pokreta Europa sad Jakov Milatović. General-major JNA Aleksandar Vasiljević u odsutnosti osuđen na 20 godina zatvora za ratni zločin nad ratnim zarobljenicima i civilima. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 20 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/9c/20230320-dnevne-novosti-33952604-20230320143510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
