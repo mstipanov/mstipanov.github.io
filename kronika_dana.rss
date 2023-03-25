@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 24 Mar 2023 22:15:30 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 21:47:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.03. 2023-03-25</title>
+    <link>https://api.hrt.hr/media/98/0d/20230325-kronika-dana-33970635-20230325213555.mp3</link>
+    <description>Od ponoći će i hrvatske zračne luke biti u šengenskom režimu. Nakon Credit Suissea, u problemima i Deutsche bank. Analitičari umiruju da nema rizika za prelijevanje bankarske krize u eurozonu. Rusija će rasporediti taktičko nuklearno oružje u Bjelorusiji. Večeras na Poljudu hrvatska nogometna reprezentacija igra protiv Walesa. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 25 Mar 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/0d/20230325-kronika-dana-33970635-20230325213555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.03. 2023-03-24</title>
     <link>https://api.hrt.hr/media/3d/7a/20230324-kronika-dana-33968287-20230324214008.mp3</link>
     <description>Europski čelnici tvrde da je bankarski sustav Unije stabilan, no Deutsche Bank u problemima, povećao se rizik od bankrota! U usporedbi s prošlom godinom cijene proizvoda iz uskrsne košarice i 30 posto više. Nakon što je kineski predsjednik posjetio Moskvu, u sljedećim tjednima mnogi europski dužnosnici putuju u Peking. Večernjakovu ružu za radijsku emisju godine dobio Purgeraj Radija Sljeme urednice Tanje Baran. Urednica: Sanja Cota.</description>
@@ -32,14 +40,6 @@ Urednica: Mira Barić</description>
     <description>Tri godine nakon potresa Zagreb se sporo obnavlja. Ministarstvo vanjskih poslova opovrgnulo tvrdnje zambijskoga dužnosnika da je osmero Hrvata više puta s djecom prelazilo granicu s Kongom. Projekt cjelodnevne nastave - od jeseni eksperimentalno u 50 osnovnih škola. Urednica: Sanja Cota</description>
     <pubDate>Wed, 22 Mar 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/88/6a/20230322-kronika-dana-33960778-20230322214039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.03. 2023-03-21</title>
-    <link>https://api.hrt.hr/media/7f/3e/20230321-kronika-dana-33957038-20230321214034.mp3</link>
-    <description>Ruski i kineski predsjednici u Moskvi potpisali dokumente o gospodarskoj suradnji i produbljivanju partnerstva dviju zemalja.Uoči treće godišnjice zagrebačkog potresa, obnavljaju se javne ustanove, obnova zgrada i kuća nije niti počela.Potres 6 cijelih 5 prema Richteru pogodio večeras Afganistan. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 21 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7f/3e/20230321-kronika-dana-33957038-20230321214034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
