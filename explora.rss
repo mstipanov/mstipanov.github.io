@@ -6,10 +6,21 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Mar 2023 18:03:42 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 16:25:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 28.03.2023. 2023-03-28</title>
+    <link>https://api.hrt.hr/media/cc/c4/20230328-explora-7934445-20230328161105.mp3</link>
+    <description>Umjetna piletina u Singapuru. GMO kućni ljubimci. Rolls Royce NUKE generatori na Mjesecu. Chat GPT – tko će sve ostati bez posla? Taiwan – kriza – NATO u AUS, Japan diže razinu bojeve spremnosti. Oumuamua - nove spoznaje, zarobljeni vodik.  3D isprintana raketa Relativity Space prošlog četvrtka - opet ništa. Hayabusa 2 – pronađene aminokiseline. Porijeklo organskih spojeva na asteroidima – kemijska evolucija ili trauma impakta svemirskih tijela?  Je li je infracrvena sauna štetna za ljudsko tijelo? Metoda mršavljenja preparatima koji djeluju transdermalno.  Smije li se jesti kora od smokve? Kako savladati flow?
+
+
+</description>
+    <pubDate>Tue, 28 Mar 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/c4/20230328-explora-7934445-20230328161105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 21.03.2023. 2023-03-21</title>
     <link>https://api.hrt.hr/media/ca/f0/20230321-explora-7932225-20230321160034.mp3</link>
     <description>Messier maraton u Višnjanu. Podzemne baze na Mjesecu. Vinske i voćne mušice – prva definirana struktura mozga. Borilački sportovi i oštećenje mozga. Izgradnja bio elektroda ubrizgavanjem gela – poništavanje razlike između biologije i elektronike.  Izgaranje borovine – paljenje tamjana i drugih eteričnih ulja. Prehrambena industrija, koji pasterizator. Djeca i monitori, ekrani – kada dopustiti i koliko? 
@@ -89,14 +100,6 @@ Prvi američki političar čitao govor koji je napisao Chat GPT, uskoro dio MS W
     <description>Davos, isplanirani detalji za ovu godinu. Britanske državne potpore za prijelaz na zelenu energiju 600 milijuna funti. Indija, proizvodnja zelenog vodika elektrolizom. Znanstvenici u autoritarnim režimima. Kinezi  grade najveću vjetroturbinu , lopatica 140 metara. Robotizirani McDonalds – iskustva kupaca. HAARP i zagrijavanje ionosfere, elektromagnetski impulsi i povrat 2,7 do 10 MHz. Stvaranje kišonosnih oblaka uz pomoć elektromagnetskih naboja. Oregon, legalizacija halucinogenih gljiva i psilocibina. Zimbabve zabranio izvoz sirovog litija, traže veću dodana vrijednost. Kada tehnologija za femto strukturu materijala (10 na minus 15 ) i kada teleskopi koji mogu vidjeti iza plamenog zida. </description>
     <pubDate>Tue, 24 Jan 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/93/20230124-explora-7912997-20230124171519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2023-01-17</title>
-    <link>https://api.hrt.hr/media/56/65/20230117-explora-7910768-20230117170520.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 17 Jan 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/65/20230117-explora-7910768-20230117170520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
