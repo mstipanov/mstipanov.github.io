@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 27 Mar 2023 13:52:53 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 13:55:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.03. 2023-03-28</title>
+    <link>https://api.hrt.hr/media/ae/ed/20230328-dnevne-novosti-33978884-20230328134105.mp3</link>
+    <description>Premijer Plenković u radnom posjetu Sloveniji, u Brdu kod Kranja razgovarao s kolegom Robertom Golobom. U Ukrajinu stigli prvi britanski tenkovi, noćas raketiran Kijev. Samo 11 posto raka debelog crijeva otkrije se u ranom stadiju, zato Zavod za javno zdravstvo još jedanput poziva građane na preventivne preglede. Urednica: Mira Barić</description>
+    <pubDate>Tue, 28 Mar 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/ed/20230328-dnevne-novosti-33978884-20230328134105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.03. 2023-03-27</title>
     <link>https://api.hrt.hr/media/c5/e1/20230327-dnevne-novosti-33975426-20230327133557.mp3</link>
     <description>Zbog pokušaja izraelskog premijera da progura pravosudnu reformu, diljem zemlje veliki prosvjedi. Njemačka paralizirana štrajkom u prometu. Istru noćas zahvatilo jako nevrijeme, srećom nije bilo ozlijeđenih. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Od ponoći će i hrvatske zračne luke biti u šengenskom režimu. Na rasprodanom Poljudu Vatreni igraju protiv Walesa prvu kvalifikacijsku utakmicu za Europsko prvenstvo. Noćas prelazimo na ljetno računanje vremena - pomičemo kazaljke jedan sat naprijed. Urednica: Mira Barić</description>
     <pubDate>Sat, 25 Mar 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6d/8f/20230325-dnevne-novosti-33969896-20230325144539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.03. 2023-03-24</title>
-    <link>https://api.hrt.hr/media/1a/c3/20230324-dnevne-novosti-33967133-20230324144009.mp3</link>
-    <description>Čak 30 posto skuplja hrana nego prošle godine, uoči Uskrsa očekuje se dodatni rast. Oko 450 policajaca ozlijeđeno, a 500 ljudi uhićeno u masovnim prosvjedima koji su prerasli u nerede diljem Francuske - otkazan posjet britanskog kralja najavljen za sljedeći tjedan. Slavonska kobasica dobila europsku zaštićenu oznaku zemljopisnog podrijetla i postala 41. hrvatski proizvod zaštićen na razini Europske unije. Urednica: Mira Barić</description>
-    <pubDate>Fri, 24 Mar 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1a/c3/20230324-dnevne-novosti-33967133-20230324144009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
