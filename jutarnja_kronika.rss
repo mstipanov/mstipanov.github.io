@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 28 Mar 2023 05:54:48 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 05:59:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 29.03. 2023-03-29</title>
+    <link>https://api.hrt.hr/media/10/f6/20230329-jutarnja-kronika-33980448-20230329053556.mp3</link>
+    <description>Pet krovnih liječničkih udruga sinoć najavilo da liječnici idu u štrajk. Premijeri Hrvatske i Slovenije, Andrej Plenković i Robert Golob, sastali su se jučer u Brdu kod Kranja. UN pokušava dogovoriti zaštićenu zonu oko ukrajinske nuklearne elektrane Zaporižja. U drugoj utakmici kvalifikacija za europsko prvenstvo Vatreni sinoć pobijedili Tursku rezultatom 2 : 0. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 29 Mar 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/10/f6/20230329-jutarnja-kronika-33980448-20230329053556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.03. 2023-03-28</title>
     <link>https://api.hrt.hr/media/16/d3/20230328-jutarnja-kronika-33976988-20230328053513.mp3</link>
     <description>Izraelski premijer objavio odgodu pravosudne reforme čija je najava izazvala kaos u zemlji. Prosvjedi se nastavljaju. Zagrebački županijski sud odlučivat će o osnovanosti optužnice protiv Gabrijele Žalac, koju se tereti zbog pronevjere milijun i 300 tisuća eura europskoga novca. Premijer Plenković boravit će u radnom posjetu Sloveniji. Vatreni večras protiv Turske u Bursi igraju drugu kvalifikacijsku utakmicu za europsko prvenstvo Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska je potpuno završila proces ulaska u Schengen - u njemu su od ponoći i zračne luke. Vadimir Putin najavio da će Rusija postaviti nuklearno oružje na teritorij Bjelorusije. Počinje 19. Zagreb Dox. Na početku nogometnih kvalifikacija za Euro Hrvatska remizirala s Walesom 1:1. Urednica je Marija Gerbec Njavro</description>
     <pubDate>Sun, 26 Mar 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d5/2f/20230326-jutarnja-kronika-33971209-20230326054055.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.03. 2023-03-25</title>
-    <link>https://api.hrt.hr/media/c8/73/20230325-jutarnja-kronika-33968885-20230325064039.mp3</link>
-    <description>Od ponoći će i hrvatske zračne luke biti u šengenskom režimu. Deutsche Bank u problemima, povećao se rizik od bankrota! Europski šefovi država i vlada tvrde da je bankarski sustav Unije stabilan. Vatreni počinju pohod na EURO. Prvi protivnik - Wales na rasprodanom Poljudu. Noćas pomičemo kazaljke jedan sat naprijed. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 25 Mar 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c8/73/20230325-jutarnja-kronika-33968885-20230325064039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
