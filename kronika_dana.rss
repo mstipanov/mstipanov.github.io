@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 28 Mar 2023 20:56:27 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 21:00:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.03. 2023-03-29</title>
+    <link>https://api.hrt.hr/media/5e/99/20230329-kronika-dana-33983291-20230329204559.mp3</link>
+    <description>Financijsko vještačenje na kojem se temelji optužnica u slučaju veliki Agrokor - nezakonito.Premijer Plenković najavio da će Vlada dokapitalizirati HEP s 900 milijuna eura.Papa Franjo u bolnici - ima respiratornu infekciju. Urednica: Mira Barić</description>
+    <pubDate>Wed, 29 Mar 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5e/99/20230329-kronika-dana-33983291-20230329204559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.03. 2023-03-28</title>
     <link>https://api.hrt.hr/media/11/36/20230328-kronika-dana-33979858-20230328204059.mp3</link>
     <description>Kvalifikacije za europsko nogometno prvenstvo - Hrvatska na početku drugog poluvremena vodi protiv Turske 2: O. Liječnici idu u štrajk - najavilo večeras pet krovnih liječničkih udruga. Više od milijun Francuza na ulicama zbog mirovinske reforme. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Od ponoći i naše zračne luke u šengenskom režimu pa više nema graničnih kontrola. U ruskom gradu Kirejevsku eksplodirala bespilotna letjelica. NATO kritizirao nuklearnu retoriku Vladimira Putina, nazvao je opasnom i neodgovornom. Bivši američki predsjednik Donald Trump u Teksasu je održao prvi veliki skup u kampanji za predsjedničke izbore sljedeće godine. Urednica: Mira Barić</description>
     <pubDate>Sun, 26 Mar 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/44/20230326-kronika-dana-33973045-20230326204556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.03. 2023-03-25</title>
-    <link>https://api.hrt.hr/media/98/0d/20230325-kronika-dana-33970635-20230325213555.mp3</link>
-    <description>Od ponoći će i hrvatske zračne luke biti u šengenskom režimu. Nakon Credit Suissea, u problemima i Deutsche bank. Analitičari umiruju da nema rizika za prelijevanje bankarske krize u eurozonu. Rusija će rasporediti taktičko nuklearno oružje u Bjelorusiji. Večeras na Poljudu hrvatska nogometna reprezentacija igra protiv Walesa. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 25 Mar 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/0d/20230325-kronika-dana-33970635-20230325213555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
