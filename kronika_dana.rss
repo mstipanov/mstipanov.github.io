@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 29 Mar 2023 21:00:47 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 20:36:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Ponovno skandal zbog curenja osobnih podataka. Iz još jedne agencije za naplatu potraživanja iscurili podatci tisuća građana, među kojima ima i maloljetnika. Izraelski premijer Benjamin Netanyahu odgodio pravosudnu reformu. Prosvjedi ne prestaju. Njemačka paralizirana štrajkom u javnom prometu. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 27 Mar 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/f4/20230327-kronika-dana-33976454-20230327204058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.03. 2023-03-26</title>
-    <link>https://api.hrt.hr/media/e4/44/20230326-kronika-dana-33973045-20230326204556.mp3</link>
-    <description>Od ponoći i naše zračne luke u šengenskom režimu pa više nema graničnih kontrola. U ruskom gradu Kirejevsku eksplodirala bespilotna letjelica. NATO kritizirao nuklearnu retoriku Vladimira Putina, nazvao je opasnom i neodgovornom. Bivši američki predsjednik Donald Trump u Teksasu je održao prvi veliki skup u kampanji za predsjedničke izbore sljedeće godine. Urednica: Mira Barić</description>
-    <pubDate>Sun, 26 Mar 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e4/44/20230326-kronika-dana-33973045-20230326204556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
