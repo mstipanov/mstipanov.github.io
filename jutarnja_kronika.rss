@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 29 Mar 2023 05:59:11 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:01:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.03. 2023-03-30</title>
+    <link>https://api.hrt.hr/media/a8/40/20230330-jutarnja-kronika-33983823-20230330053558.mp3</link>
+    <description>Na sjednici Vlade bit će donesena odluka o dokapitalizaciji Hrvatske elektroprivrede. U Saboru prva rasprava o prijedlogu Zakona o osobnoj asistenciji. Financijsko vještačenje na kojem se temelji optužnica u slučaju "veliki Agrokor" proglašeno nezakonitim dokazom. Predsjednik Vladimir Putin prvi put priznao da bi zapadne sankcije mogle naštetiti ruskom gospodarstvu. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 30 Mar 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/40/20230330-jutarnja-kronika-33983823-20230330053558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.03. 2023-03-29</title>
     <link>https://api.hrt.hr/media/10/f6/20230329-jutarnja-kronika-33980448-20230329053556.mp3</link>
     <description>Pet krovnih liječničkih udruga sinoć najavilo da liječnici idu u štrajk. Premijeri Hrvatske i Slovenije, Andrej Plenković i Robert Golob, sastali su se jučer u Brdu kod Kranja. UN pokušava dogovoriti zaštićenu zonu oko ukrajinske nuklearne elektrane Zaporižja. U drugoj utakmici kvalifikacija za europsko prvenstvo Vatreni sinoć pobijedili Tursku rezultatom 2 : 0. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Od ponoći padaju cijene goriva. Njemačka u prometnom kolapsu, počeo štrajk zaposlenih u javnom prometu, ne voze autobusi, tramvaji, vlakovi, zrakoplovi. U Izraelu ponovno prosvjedi nakon što je premijer Netanyahu smijenio ministra obrane. U gotovo cijeloj zemlji jutros pada kiša, u Gorskom kotaru i na Sljemenu snijeg, do kraja dana razvedravanje, no osjetno hladnije. Urednica: Mira Barić</description>
     <pubDate>Mon, 27 Mar 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/94/20230327-jutarnja-kronika-33973625-20230327055557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.03. 2023-03-26</title>
-    <link>https://api.hrt.hr/media/d5/2f/20230326-jutarnja-kronika-33971209-20230326054055.mp3</link>
-    <description>Hrvatska je potpuno završila proces ulaska u Schengen - u njemu su od ponoći i zračne luke. Vadimir Putin najavio da će Rusija postaviti nuklearno oružje na teritorij Bjelorusije. Počinje 19. Zagreb Dox. Na početku nogometnih kvalifikacija za Euro Hrvatska remizirala s Walesom 1:1. Urednica je Marija Gerbec Njavro</description>
-    <pubDate>Sun, 26 Mar 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/2f/20230326-jutarnja-kronika-33971209-20230326054055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
