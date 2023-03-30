@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 30 Mar 2023 20:36:16 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 21:06:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.03. 2023-03-30</title>
+    <link>https://api.hrt.hr/media/2c/5b/20230330-kronika-dana-33986973-20230330204019.mp3</link>
+    <description>U Saboru se raspravljalo o Zakonu o osobnoj asistenciji. Na Vladi odlučeno o pomoći HEP-u od 900 milijuna eura.Washington pozvao građane SAD-a da napuste Rusiju, nakon što je u toj zemlji pritvoren američki novinar optužen za špijunažu. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 30 Mar 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/5b/20230330-kronika-dana-33986973-20230330204019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.03. 2023-03-29</title>
     <link>https://api.hrt.hr/media/5e/99/20230329-kronika-dana-33983291-20230329204559.mp3</link>
     <description>Financijsko vještačenje na kojem se temelji optužnica u slučaju veliki Agrokor - nezakonito.Premijer Plenković najavio da će Vlada dokapitalizirati HEP s 900 milijuna eura.Papa Franjo u bolnici - ima respiratornu infekciju. Urednica: Mira Barić</description>
