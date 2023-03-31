@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 31 Mar 2023 20:41:44 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 21:12:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.03. 2023-03-31</title>
+    <link>https://api.hrt.hr/media/af/d8/20230331-kronika-dana-33990639-20230331204020.mp3</link>
+    <description>U povodu obilježavanja godišnjice oslobađanja kijevskog predgrađa Buče, premijer Andrej Plenković i ministar hrvatskih branitelja Tomo Medved posjetili Ukrajini. Dvoje stranih državljan poginulo u padu malog zrakoplova odmah nakon polijetanja iz pulske zračne luke. Inflacija slabi četvrti mjesec zaredom, u ožujku je 10,6 posto. Najviše su poskupjeli hrana i piće - oko 15 posto. U Sjedinjenim Državama podignuta je povijesna optužnica - protiv bivšeg predsjednika Donalda Trumpa. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 31 Mar 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/af/d8/20230331-kronika-dana-33990639-20230331204020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.03. 2023-03-30</title>
     <link>https://api.hrt.hr/media/2c/5b/20230330-kronika-dana-33986973-20230330204019.mp3</link>
     <description>U Saboru se raspravljalo o Zakonu o osobnoj asistenciji. Na Vladi odlučeno o pomoći HEP-u od 900 milijuna eura.Washington pozvao građane SAD-a da napuste Rusiju, nakon što je u toj zemlji pritvoren američki novinar optužen za špijunažu. Urednica: Sanja Cota</description>
