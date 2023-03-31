@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 30 Mar 2023 21:06:21 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 20:41:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Kvalifikacije za europsko nogometno prvenstvo - Hrvatska na početku drugog poluvremena vodi protiv Turske 2: O. Liječnici idu u štrajk - najavilo večeras pet krovnih liječničkih udruga. Više od milijun Francuza na ulicama zbog mirovinske reforme. Urednica: Sanja Cota</description>
     <pubDate>Tue, 28 Mar 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/36/20230328-kronika-dana-33979858-20230328204059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.03. 2023-03-27</title>
-    <link>https://api.hrt.hr/media/fd/f4/20230327-kronika-dana-33976454-20230327204058.mp3</link>
-    <description>Ponovno skandal zbog curenja osobnih podataka. Iz još jedne agencije za naplatu potraživanja iscurili podatci tisuća građana, među kojima ima i maloljetnika. Izraelski premijer Benjamin Netanyahu odgodio pravosudnu reformu. Prosvjedi ne prestaju. Njemačka paralizirana štrajkom u javnom prometu. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 27 Mar 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/f4/20230327-kronika-dana-33976454-20230327204058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
