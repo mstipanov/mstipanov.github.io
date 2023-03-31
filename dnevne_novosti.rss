@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 31 Mar 2023 13:38:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 14:09:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 31.03. 2023-03-31</title>
+    <link>https://api.hrt.hr/media/72/63/20230331-dnevne-novosti-33989690-20230331134026.mp3</link>
+    <description>U pulskoj zračnoj luci srušio se mali zrakoplov, dvoje poginulih. Premijer Plenković u Ukrajini, godišnjica je pokolja u Buči. Protiv bivšeg američkog predsjednika Trumpa podignuta optužnica za podmićivanje, on tvrdi da je to politički progon. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 31 Mar 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/72/63/20230331-dnevne-novosti-33989690-20230331134026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 30.03. 2023-03-30</title>
     <link>https://api.hrt.hr/media/3c/e8/20230330-dnevne-novosti-33985804-20230330133559.mp3</link>
     <description>U Saboru rasprava o Zakonu o osobnoj asistenciji - počela uvredama. Vlada donijela odluke o dioničkom zajmu i dokapitalizaciji HEP-a vrijedne 900 milijuna eura. Tim riječkih liječnika prvi put u Hrvatskoj ugradio djetetu potkožni uređaj s elektrodom koji sprječava zastoj rada srca. Urednica: Mira Barić</description>
