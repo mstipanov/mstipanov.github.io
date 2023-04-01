@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 31 Mar 2023 14:09:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 14:14:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.04. 2023-04-01</title>
+    <link>https://api.hrt.hr/media/25/b2/20230401-dnevne-novosti-33992100-20230401134523.mp3</link>
+    <description>Đakovačko-osječki nadbiskup Đuro Hranić ispričao se žrtvama svećenika Zlatka Rajčevca - "Nisam vidio patnju žrtava i potrebu zaštite koju su od mene tražili". Veliki požar prošle noći u tvornici parketa u Mraclinu, jedna je osoba teže ozlijeđena. Na snagu stupio četvrti paket mjera Vlade za zaštitu kućanstava i gospodarstva od rasta cijena. Ne, nije prvotravanjska šala - Rusija je preuzela predsjedanje Vijećem sigurnosti UN-a. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 01 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/b2/20230401-dnevne-novosti-33992100-20230401134523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.03. 2023-03-31</title>
     <link>https://api.hrt.hr/media/72/63/20230331-dnevne-novosti-33989690-20230331134026.mp3</link>
     <description>U pulskoj zračnoj luci srušio se mali zrakoplov, dvoje poginulih. Premijer Plenković u Ukrajini, godišnjica je pokolja u Buči. Protiv bivšeg američkog predsjednika Trumpa podignuta optužnica za podmićivanje, on tvrdi da je to politički progon. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Vlada će dokapitalizirati HEP s 900 milijuna eura. Na sudu palo financijsko vještačenje na kojem se temelji optužnica za Agrokor. Tragedija u Vinkovcima, sumnja se da je sin ubio oca pa počinio samoubojstvo. Urednica: Sanja Cota</description>
     <pubDate>Wed, 29 Mar 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/f7/20230329-dnevne-novosti-33982447-20230329134101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.03. 2023-03-28</title>
-    <link>https://api.hrt.hr/media/ae/ed/20230328-dnevne-novosti-33978884-20230328134105.mp3</link>
-    <description>Premijer Plenković u radnom posjetu Sloveniji, u Brdu kod Kranja razgovarao s kolegom Robertom Golobom. U Ukrajinu stigli prvi britanski tenkovi, noćas raketiran Kijev. Samo 11 posto raka debelog crijeva otkrije se u ranom stadiju, zato Zavod za javno zdravstvo još jedanput poziva građane na preventivne preglede. Urednica: Mira Barić</description>
-    <pubDate>Tue, 28 Mar 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/ed/20230328-dnevne-novosti-33978884-20230328134105.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
