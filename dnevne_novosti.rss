@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Apr 2023 14:14:48 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 13:50:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.04. 2023-04-02</title>
+    <link>https://api.hrt.hr/media/a1/6a/20230402-dnevne-novosti-33994273-20230402134135.mp3</link>
+    <description>Još se čekaju rezultati očevida teške nesreće u Pragu u kojoj je pulski maturant pao s petog kata i poginuo. Njegovim će kolegama biti pružena psihološka pomoć. Sutra novi krug pregovora liječnika i mjerodavnog ministarstva o stanju u zdravstvu. Liječnici ne odustaju od štrajka. U Crnoj Gori drugi krug predsjedničkih izbora. Blagdan je Cvjetnice ili nedjelja muke Gospodnje. Papa Franjo pozvao na skrb za siromašne, migrante, zatvorenike, napuštene i odbačene. Urednik Grgo Mrvica</description>
+    <pubDate>Sun, 02 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/6a/20230402-dnevne-novosti-33994273-20230402134135.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.04. 2023-04-01</title>
     <link>https://api.hrt.hr/media/25/b2/20230401-dnevne-novosti-33992100-20230401134523.mp3</link>
     <description>Đakovačko-osječki nadbiskup Đuro Hranić ispričao se žrtvama svećenika Zlatka Rajčevca - "Nisam vidio patnju žrtava i potrebu zaštite koju su od mene tražili". Veliki požar prošle noći u tvornici parketa u Mraclinu, jedna je osoba teže ozlijeđena. Na snagu stupio četvrti paket mjera Vlade za zaštitu kućanstava i gospodarstva od rasta cijena. Ne, nije prvotravanjska šala - Rusija je preuzela predsjedanje Vijećem sigurnosti UN-a. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Saboru rasprava o Zakonu o osobnoj asistenciji - počela uvredama. Vlada donijela odluke o dioničkom zajmu i dokapitalizaciji HEP-a vrijedne 900 milijuna eura. Tim riječkih liječnika prvi put u Hrvatskoj ugradio djetetu potkožni uređaj s elektrodom koji sprječava zastoj rada srca. Urednica: Mira Barić</description>
     <pubDate>Thu, 30 Mar 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3c/e8/20230330-dnevne-novosti-33985804-20230330133559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.03. 2023-03-29</title>
-    <link>https://api.hrt.hr/media/33/f7/20230329-dnevne-novosti-33982447-20230329134101.mp3</link>
-    <description>Vlada će dokapitalizirati HEP s 900 milijuna eura. Na sudu palo financijsko vještačenje na kojem se temelji optužnica za Agrokor. Tragedija u Vinkovcima, sumnja se da je sin ubio oca pa počinio samoubojstvo. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 29 Mar 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/33/f7/20230329-dnevne-novosti-33982447-20230329134101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
