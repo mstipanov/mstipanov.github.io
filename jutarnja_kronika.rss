@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Apr 2023 06:13:05 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 05:46:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.04. 2023-04-02</title>
+    <link>https://api.hrt.hr/media/60/e7/20230402-jutarnja-kronika-33993416-20230402053105.mp3</link>
+    <description>Još nisu poznate okolnosti pod kojima je na maturalnom putovanju u Pragu poginuo učenik iz Poreča. Jučer je na snagu stupio četvrti paket Vladinih mjera za zaštitu kućanstava i gospodarstva od rasta cijena. U Crnoj Gori drugi krug predsjedničkih izbora. Blagdan je Cvjetnice, početak Velikog tjedna. Urednik Silvio Šop</description>
+    <pubDate>Sun, 02 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/60/e7/20230402-jutarnja-kronika-33993416-20230402053105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.04. 2023-04-01</title>
     <link>https://api.hrt.hr/media/4b/f2/20230401-jutarnja-kronika-33991198-20230401053543.mp3</link>
     <description>Počinje se primjenjivati najnoviji Vladin paket pomoći građanima i gospodarstvu - najveći dio odnosi se na ublažavanje rasta cijena energenata. U Zagrebu prosvjed udruge Franak. Papa Franjo izlazi iz bolnice. : Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Na sjednici Vlade bit će donesena odluka o dokapitalizaciji Hrvatske elektroprivrede. U Saboru prva rasprava o prijedlogu Zakona o osobnoj asistenciji. Financijsko vještačenje na kojem se temelji optužnica u slučaju "veliki Agrokor" proglašeno nezakonitim dokazom. Predsjednik Vladimir Putin prvi put priznao da bi zapadne sankcije mogle naštetiti ruskom gospodarstvu. Urednik: Silvio Šop</description>
     <pubDate>Thu, 30 Mar 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a8/40/20230330-jutarnja-kronika-33983823-20230330053558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.03. 2023-03-29</title>
-    <link>https://api.hrt.hr/media/10/f6/20230329-jutarnja-kronika-33980448-20230329053556.mp3</link>
-    <description>Pet krovnih liječničkih udruga sinoć najavilo da liječnici idu u štrajk. Premijeri Hrvatske i Slovenije, Andrej Plenković i Robert Golob, sastali su se jučer u Brdu kod Kranja. UN pokušava dogovoriti zaštićenu zonu oko ukrajinske nuklearne elektrane Zaporižja. U drugoj utakmici kvalifikacija za europsko prvenstvo Vatreni sinoć pobijedili Tursku rezultatom 2 : 0. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 29 Mar 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/10/f6/20230329-jutarnja-kronika-33980448-20230329053556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
