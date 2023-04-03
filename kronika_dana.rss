@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Apr 2023 20:51:13 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 20:54:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.04. 2023-04-03</title>
+    <link>https://api.hrt.hr/media/20/cb/20230403-kronika-dana-33998633-20230403204008.mp3</link>
+    <description>Porečki maturant u Pragu je poginuo nesretnim slučajem, njegovim kolegama u školu stiže tim za psihološku pomoć. Finska sutra ulazi u NATO savez. Analizira se hoće li Jakov Milatović voditi Crnu Goru proeuropskim putem. Zbog bure problemi u prometu. I sutra vjetrovito i još malo hladnije. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 03 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/20/cb/20230403-kronika-dana-33998633-20230403204008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.04. 2023-04-02</title>
     <link>https://api.hrt.hr/media/f6/db/20230402-kronika-dana-33994945-20230402203502.mp3</link>
     <description>36-godišnji Jakov Milatović novi je predsjednik Crne Gore. Poznati ruski vojni bloger ubijen u eksploziji bombe u kafiću u Sankt Peterburgu. Još se ne zna zbog čega je porečki maturant u Pragu pao s petog kata i poginuo. Hoće li liječnici odustati od štrajka - sutra sastanak s ministrom Berošem. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U povodu obilježavanja godišnjice oslobađanja kijevskog predgrađa Buče, premijer Andrej Plenković i ministar hrvatskih branitelja Tomo Medved posjetili Ukrajini. Dvoje stranih državljan poginulo u padu malog zrakoplova odmah nakon polijetanja iz pulske zračne luke. Inflacija slabi četvrti mjesec zaredom, u ožujku je 10,6 posto. Najviše su poskupjeli hrana i piće - oko 15 posto. U Sjedinjenim Državama podignuta je povijesna optužnica - protiv bivšeg predsjednika Donalda Trumpa. Urednik: Silvio Šop</description>
     <pubDate>Fri, 31 Mar 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/af/d8/20230331-kronika-dana-33990639-20230331204020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.03. 2023-03-30</title>
-    <link>https://api.hrt.hr/media/2c/5b/20230330-kronika-dana-33986973-20230330204019.mp3</link>
-    <description>U Saboru se raspravljalo o Zakonu o osobnoj asistenciji. Na Vladi odlučeno o pomoći HEP-u od 900 milijuna eura.Washington pozvao građane SAD-a da napuste Rusiju, nakon što je u toj zemlji pritvoren američki novinar optužen za špijunažu. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 30 Mar 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2c/5b/20230330-kronika-dana-33986973-20230330204019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
