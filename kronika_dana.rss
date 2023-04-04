@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Apr 2023 20:54:12 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 21:00:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.04. 2023-04-04</title>
+    <link>https://api.hrt.hr/media/19/21/20230404-kronika-dana-34002098-20230404204010.mp3</link>
+    <description>Donald Trump uhićen i izveden pred suca - izjavio da nije kriv. Optužen je da je 2016. platio pornozvijezdi Stormy Daniels da šuti o njihovu odnosu.Ured europskoga javnog tužitelja sutra će objaviti hoće li pokrenuti istragu i zatražiti zatvor za petero uhićenih koje se sumnjiči za pronevjeru novca iz europskih fondova. Sporna izgradnja riječke sortirnice otpada u Mihačevoj Dragi. Finska postala 31.-va članica NATO-a, iz Moskve najavljuju protumjere. Urednica: Mira Barić</description>
+    <pubDate>Tue, 04 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/19/21/20230404-kronika-dana-34002098-20230404204010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.04. 2023-04-03</title>
     <link>https://api.hrt.hr/media/20/cb/20230403-kronika-dana-33998633-20230403204008.mp3</link>
     <description>Porečki maturant u Pragu je poginuo nesretnim slučajem, njegovim kolegama u školu stiže tim za psihološku pomoć. Finska sutra ulazi u NATO savez. Analizira se hoće li Jakov Milatović voditi Crnu Goru proeuropskim putem. Zbog bure problemi u prometu. I sutra vjetrovito i još malo hladnije. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Tragedija u Pragu - na maturalnom putovanju poginuo učenik iz Poreča. Jedna osoba zadobila teže opekline u sinoćnjem požaru u tvornici parketa u Mraclinu. Šteta se još utvrđuje. U Zagrebu prosvjed udruge Franak.	Na snagu stupio Vladin četvrti paket mjera za zaštitu kućanstava i gospodarstva od rasta cijena. Đakovačko-osječki nadbiskup Đuro Hranić ispričao se žrtvama seksualnog zlostavljanja.</description>
     <pubDate>Sat, 01 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f2/07/20230401-kronika-dana-33992822-20230401204018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.03. 2023-03-31</title>
-    <link>https://api.hrt.hr/media/af/d8/20230331-kronika-dana-33990639-20230331204020.mp3</link>
-    <description>U povodu obilježavanja godišnjice oslobađanja kijevskog predgrađa Buče, premijer Andrej Plenković i ministar hrvatskih branitelja Tomo Medved posjetili Ukrajini. Dvoje stranih državljan poginulo u padu malog zrakoplova odmah nakon polijetanja iz pulske zračne luke. Inflacija slabi četvrti mjesec zaredom, u ožujku je 10,6 posto. Najviše su poskupjeli hrana i piće - oko 15 posto. U Sjedinjenim Državama podignuta je povijesna optužnica - protiv bivšeg predsjednika Donalda Trumpa. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 31 Mar 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/af/d8/20230331-kronika-dana-33990639-20230331204020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
