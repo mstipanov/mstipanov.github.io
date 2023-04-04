@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Apr 2023 05:52:03 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:57:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.04. 2023-04-04</title>
+    <link>https://api.hrt.hr/media/7f/30/20230404-jutarnja-kronika-33999154-20230404053504.mp3</link>
+    <description>Nakon neuspjelih pregovora o kolektivnom ugovoru djelatnici splitske Čistoće idu u štrajk. Donald Trump danas na sudu u New Yorku. Finska danas ulazi u NATO. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 04 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7f/30/20230404-jutarnja-kronika-33999154-20230404053504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.04. 2023-04-03</title>
     <link>https://api.hrt.hr/media/b5/f6/20230403-jutarnja-kronika-33995529-20230403054006.mp3</link>
     <description>Jakov Milatović novi je predsjednik Crne Gore. Milo Đukanović čestitao mu na pobjedi. U podne pregovori ministra Beroša i čelnika liječničkih udruga. Hoće li se izbjeći štrajk u zdravstvu? Glavna rasprava u "slučaju Mamić" trebala bi se održati na osječkome Županijskom sudu. U kafiću u Sankt-Peterburgu u eksploziji poginuo poznati ruski vojni bloger. Eksploziv je bio skriven u figuri koju mu je darovala nepoznata žena. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Počinje se primjenjivati najnoviji Vladin paket pomoći građanima i gospodarstvu - najveći dio odnosi se na ublažavanje rasta cijena energenata. U Zagrebu prosvjed udruge Franak. Papa Franjo izlazi iz bolnice. : Mario Krstanović</description>
     <pubDate>Sat, 01 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4b/f2/20230401-jutarnja-kronika-33991198-20230401053543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 31.03. 2023-03-31</title>
-    <link>https://api.hrt.hr/media/b5/33/20230331-jutarnja-kronika-33987637-20230331054019.mp3</link>
-    <description>Podignuta optužnica protiv Donalda Trumpa zbog plaćanja pornoglumici Stormy Daniels za medijsku šutnju. Vlada će financijski pomoći HEP-u s 900 milijuna eura. Svađa u Saboru zbog Zakona o osobnoj asistenciji. Danas je godišnjica Krvavog Uskrsa na Plitvičkim jezerima i pogibije prve žrtve srpske agresije na Hrvatsku Josipa Jovića. Urednik: Mislav Togonal</description>
-    <pubDate>Fri, 31 Mar 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/33/20230331-jutarnja-kronika-33987637-20230331054019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
