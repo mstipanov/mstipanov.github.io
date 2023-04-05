@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 04 Apr 2023 05:57:21 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 06:01:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.04. 2023-04-05</title>
+    <link>https://api.hrt.hr/media/ba/03/20230405-jutarnja-kronika-34002672-20230405053506.mp3</link>
+    <description>Radnici splitske Čistoće od jutros su u štrajku.Trump se obratio pristašama, optužnicu za krivotvorenje računovodstvenih dokumenata nazvao uvredom naciji. Danas odluka o istražnom zatvoru za petero uhićenih u aferi Sortirnica. Urednica: Marija Gerbec Njavro.</description>
+    <pubDate>Wed, 05 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ba/03/20230405-jutarnja-kronika-34002672-20230405053506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.04. 2023-04-04</title>
     <link>https://api.hrt.hr/media/7f/30/20230404-jutarnja-kronika-33999154-20230404053504.mp3</link>
     <description>Nakon neuspjelih pregovora o kolektivnom ugovoru djelatnici splitske Čistoće idu u štrajk. Donald Trump danas na sudu u New Yorku. Finska danas ulazi u NATO. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Još nisu poznate okolnosti pod kojima je na maturalnom putovanju u Pragu poginuo učenik iz Poreča. Jučer je na snagu stupio četvrti paket Vladinih mjera za zaštitu kućanstava i gospodarstva od rasta cijena. U Crnoj Gori drugi krug predsjedničkih izbora. Blagdan je Cvjetnice, početak Velikog tjedna. Urednik Silvio Šop</description>
     <pubDate>Sun, 02 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/60/e7/20230402-jutarnja-kronika-33993416-20230402053105.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.04. 2023-04-01</title>
-    <link>https://api.hrt.hr/media/4b/f2/20230401-jutarnja-kronika-33991198-20230401053543.mp3</link>
-    <description>Počinje se primjenjivati najnoviji Vladin paket pomoći građanima i gospodarstvu - najveći dio odnosi se na ublažavanje rasta cijena energenata. U Zagrebu prosvjed udruge Franak. Papa Franjo izlazi iz bolnice. : Mario Krstanović</description>
-    <pubDate>Sat, 01 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/f2/20230401-jutarnja-kronika-33991198-20230401053543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
