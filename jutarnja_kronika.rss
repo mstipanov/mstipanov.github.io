@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Apr 2023 05:35:01 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 06:05:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.04. 2023-04-06</title>
+    <link>https://api.hrt.hr/media/76/f0/20230406-jutarnja-kronika-34006453-20230406053531.mp3</link>
+    <description>Istražni zatvor za četvero uhićenih u aferi Sortirnica, samo Đuro Horvat, zbog godina, pušten da se brani sa slobode. Zbog skorog početka ukrajinske ofenzive, vlasti u Kijevu pozvale Ukrajince da napuste privremeno okupirana područja. Veliki je četvrtak - spomendan Isusove posljednje večere. Sport: pobjedom nad Dinamom nogometaši Šibenika izborili finale Hrvatskog kupa, Ante Čačić smijenjen s Dinamove klupe. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 06 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/76/f0/20230406-jutarnja-kronika-34006453-20230406053531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.04. 2023-04-05</title>
     <link>https://api.hrt.hr/media/ba/03/20230405-jutarnja-kronika-34002672-20230405053506.mp3</link>
     <description>Radnici splitske Čistoće od jutros su u štrajku.Trump se obratio pristašama, optužnicu za krivotvorenje računovodstvenih dokumenata nazvao uvredom naciji. Danas odluka o istražnom zatvoru za petero uhićenih u aferi Sortirnica. Urednica: Marija Gerbec Njavro.</description>
