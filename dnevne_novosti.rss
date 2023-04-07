@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Apr 2023 14:06:26 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 14:13:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.04. 2023-04-07</title>
+    <link>https://api.hrt.hr/media/e8/a3/20230407-dnevne-novosti-34012002-20230407134036.mp3</link>
+    <description>Veliki je petak, a uoči Uskrsa nikad skuplja hrana. Američko Ministarstvo obrane istražuje kako su iscurili povjerljivi dokumenti o planovima SAD-a i NATO-a za jačanje ukrajinske vojske. Visoki predstavnik za BiH Christian Schmidt neizravno najavio da će nametnuti rješenje ako se ne uspostavi Vlada Federacije BiH. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 07 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/a3/20230407-dnevne-novosti-34012002-20230407134036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.04. 2023-04-06</title>
     <link>https://api.hrt.hr/media/ef/17/20230406-dnevne-novosti-34008603-20230406134035.mp3</link>
     <description>Vlada dala suglasnost turskom Yildirimu za kupnju 54 i pol posto udjela u Petrokemiji koji imaju PPD i INA. Francuski predsjednik Macron u Pekingu pozvao Kinu da iskoristi svoj utjecaj na Rusiju. Veliki je četvrtak. S mise u bazilici svetog Petra Papa Franjo pozvao svećenike da ne žive dvostrukim životima. Još nema službene potvrde da je smijenjen Dinamov trener Ante Čačić. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ured europskog javnog tužitelja ponovno u akciji - uhićeno je pet osoba u Rijeci i Međimurju zbog malverzacija s novcem iz europskih fondova. Finska službeno postala 31. članica NATO-a. Ove godine uskrsna košarica znatno skuplja - najsiromašnija 100, a najskuplja 328 eura. Urednica: Sanja Cota</description>
     <pubDate>Tue, 04 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a5/fa/20230404-dnevne-novosti-34001155-20230404133505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.04. 2023-04-03</title>
-    <link>https://api.hrt.hr/media/9a/f9/20230403-dnevne-novosti-33997534-20230403134008.mp3</link>
-    <description>Češka policija utvrdila da je tragična smrt 17-godišnjeg porečkog maturanta bila nesretan slučaj. Hoće li i kada liječnici u štrajk trebalo bi se znati do kraja tjedna. Pobjeda Jakova Milatovića iz prosrpskog pokreta "Europa sada" na predsjedničkim izborima u Crnoj Gori označila kraj političke ere Mile Đukanovića. Urednica: Mira Barić</description>
-    <pubDate>Mon, 03 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/f9/20230403-dnevne-novosti-33997534-20230403134008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
