@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Apr 2023 05:41:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 06:12:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.04. 2023-04-07</title>
+    <link>https://api.hrt.hr/media/99/6a/20230407-jutarnja-kronika-34010240-20230407054037.mp3</link>
+    <description>Vlada dala suglasnost, turski Jildirim kupuje kutinsku Petrokemiju. Večeras, kao i proteklih 500 godina, na Hvaru počinje procesija Za križen. Igor Bišćan novi je trener Dinama, kao kandidat za preuzimanje mlade reprezentacije spominje se Ivica Olić. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 07 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/6a/20230407-jutarnja-kronika-34010240-20230407054037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.04. 2023-04-06</title>
     <link>https://api.hrt.hr/media/76/f0/20230406-jutarnja-kronika-34006453-20230406053531.mp3</link>
     <description>Istražni zatvor za četvero uhićenih u aferi Sortirnica, samo Đuro Horvat, zbog godina, pušten da se brani sa slobode. Zbog skorog početka ukrajinske ofenzive, vlasti u Kijevu pozvale Ukrajince da napuste privremeno okupirana područja. Veliki je četvrtak - spomendan Isusove posljednje večere. Sport: pobjedom nad Dinamom nogometaši Šibenika izborili finale Hrvatskog kupa, Ante Čačić smijenjen s Dinamove klupe. Urednik: Silvio Šop</description>
