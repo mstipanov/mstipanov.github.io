@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Apr 2023 20:45:18 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 21:15:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.04. 2023-04-07</title>
+    <link>https://api.hrt.hr/media/98/d0/20230407-kronika-dana-34012833-20230407204038.mp3</link>
+    <description>Kršćani obilježili Veliki petak, dan Isusove muke i smrti na križu. Mnogi gradovi na trgovima dijelili riblji ručak. Premijer Andrej Plenković potvrdio da će primiti liječnike u utorak. Uskrsna košarica najskuplja dosad, istodobno bacamo rekordne količine hrane - čak 70 kilograma po osobi na godinu. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 07 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/d0/20230407-kronika-dana-34012833-20230407204038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.04. 2023-04-06</title>
     <link>https://api.hrt.hr/media/36/8e/20230406-kronika-dana-34009647-20230406203532.mp3</link>
     <description>Vlada dala suglasnost, turski Jildirim kupuje kutinsku Petrokemiju. Večeras, kao i proteklih 500 godina, na Hvaru počinje procesija Za križen. Igor Bišćan novi je trener Dinama, kao kandidat za preuzimanje mlade reprezentacije spominje se Ivica Olić. Urednica: Sanja Cota</description>
