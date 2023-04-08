@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Apr 2023 14:13:35 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 14:19:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Na zagrebačkom Županijskom sudu odlučuje se o istražnom zatvoru za četvero uhićenih u aferi "sortirnica". Za Đuru Horvata istražni zatvor nije zatražen zbog njegova zdravstvenog stanja. Nakon samo sedam sati štrajka radnika Čistoće u Splitu, postignut dogovor. Vlasti u Kijevu pozvale Ukrajince da napuste privremeno okupirana područja zbog skore ukrajinske ofenzive. Urednica: Mira Barić</description>
     <pubDate>Wed, 05 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c4/be/20230405-dnevne-novosti-34004754-20230405134011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.04. 2023-04-04</title>
-    <link>https://api.hrt.hr/media/a5/fa/20230404-dnevne-novosti-34001155-20230404133505.mp3</link>
-    <description>Ured europskog javnog tužitelja ponovno u akciji - uhićeno je pet osoba u Rijeci i Međimurju zbog malverzacija s novcem iz europskih fondova. Finska službeno postala 31. članica NATO-a. Ove godine uskrsna košarica znatno skuplja - najsiromašnija 100, a najskuplja 328 eura. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 04 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a5/fa/20230404-dnevne-novosti-34001155-20230404133505.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
