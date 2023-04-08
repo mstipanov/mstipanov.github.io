@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Apr 2023 06:12:06 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 05:46:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.04. 2023-04-08</title>
+    <link>https://api.hrt.hr/media/5a/e8/20230408-jutarnja-kronika-34013392-20230408053534.mp3</link>
+    <description>Velika je subota - vjernici će na Vazmenom bdjenju dočekati najradosniji kršćanski blagdan Uskrs. Papa Franjo prvi put nije predvodio obrede Križnog puta u rimskom Koloseju. Premijer Plenković potvrdio da će u utorak razgovarati s liječnicima. Prvi ispit za novog trenera Dinama Igora Bišćana bit će dvoboj Modrih protiv Lokomotive. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 08 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5a/e8/20230408-jutarnja-kronika-34013392-20230408053534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.04. 2023-04-07</title>
     <link>https://api.hrt.hr/media/99/6a/20230407-jutarnja-kronika-34010240-20230407054037.mp3</link>
     <description>Vlada dala suglasnost, turski Jildirim kupuje kutinsku Petrokemiju. Večeras, kao i proteklih 500 godina, na Hvaru počinje procesija Za križen. Igor Bišćan novi je trener Dinama, kao kandidat za preuzimanje mlade reprezentacije spominje se Ivica Olić. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Radnici splitske Čistoće od jutros su u štrajku.Trump se obratio pristašama, optužnicu za krivotvorenje računovodstvenih dokumenata nazvao uvredom naciji. Danas odluka o istražnom zatvoru za petero uhićenih u aferi Sortirnica. Urednica: Marija Gerbec Njavro.</description>
     <pubDate>Wed, 05 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ba/03/20230405-jutarnja-kronika-34002672-20230405053506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.04. 2023-04-04</title>
-    <link>https://api.hrt.hr/media/7f/30/20230404-jutarnja-kronika-33999154-20230404053504.mp3</link>
-    <description>Nakon neuspjelih pregovora o kolektivnom ugovoru djelatnici splitske Čistoće idu u štrajk. Donald Trump danas na sudu u New Yorku. Finska danas ulazi u NATO. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 04 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7f/30/20230404-jutarnja-kronika-33999154-20230404053504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
