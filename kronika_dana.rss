@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Apr 2023 21:15:22 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 20:50:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.04. 2023-04-08</title>
+    <link>https://api.hrt.hr/media/3c/79/20230408-kronika-dana-34015088-20230408204007.mp3</link>
+    <description>Uoči Uskrsa u crkvama vazmena bdjenja. Penjujći se po vagonima od strujnog udara u Slavonskom Brodu stradao dječak. Red u međunarodne odnose vratit će se tek kada Krim i cijela Ukrajina budu oslobođeni, poručio predsjednik Zelenski. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 08 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/79/20230408-kronika-dana-34015088-20230408204007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.04. 2023-04-07</title>
     <link>https://api.hrt.hr/media/98/d0/20230407-kronika-dana-34012833-20230407204038.mp3</link>
     <description>Kršćani obilježili Veliki petak, dan Isusove muke i smrti na križu. Mnogi gradovi na trgovima dijelili riblji ručak. Premijer Andrej Plenković potvrdio da će primiti liječnike u utorak. Uskrsna košarica najskuplja dosad, istodobno bacamo rekordne količine hrane - čak 70 kilograma po osobi na godinu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U istražni zatvor ide četvero uhićenih u aferi Sortirnica, samo Đuro Horvat pušten da se brani sa slobode. Radnici Čistoće u Splitu vratili se na posao nakon dogovorenih 100 eura dodatka na plaću. Sport : Slavlje u Šibeniku, pobjedom nad Dinamom nogometaši Šibenika izborili finale SuperSport Hrvatskog kupa. Vrijeme sutra - djelomice sunčano, i dalje hladno. Urednica: Sanja Cota</description>
     <pubDate>Wed, 05 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fa/a8/20230405-kronika-dana-34005862-20230405204037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.04. 2023-04-04</title>
-    <link>https://api.hrt.hr/media/19/21/20230404-kronika-dana-34002098-20230404204010.mp3</link>
-    <description>Donald Trump uhićen i izveden pred suca - izjavio da nije kriv. Optužen je da je 2016. platio pornozvijezdi Stormy Daniels da šuti o njihovu odnosu.Ured europskoga javnog tužitelja sutra će objaviti hoće li pokrenuti istragu i zatražiti zatvor za petero uhićenih koje se sumnjiči za pronevjeru novca iz europskih fondova. Sporna izgradnja riječke sortirnice otpada u Mihačevoj Dragi. Finska postala 31.-va članica NATO-a, iz Moskve najavljuju protumjere. Urednica: Mira Barić</description>
-    <pubDate>Tue, 04 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/19/21/20230404-kronika-dana-34002098-20230404204010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
