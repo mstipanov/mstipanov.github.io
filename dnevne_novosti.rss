@@ -6,31 +6,31 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Apr 2023 14:19:58 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 18:46:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
-    <title>Dnevne novosti 07.04. 2023-04-07</title>
-    <link>https://api.hrt.hr/media/e8/a3/20230407-dnevne-novosti-34012002-20230407134036.mp3</link>
-    <description>Veliki je petak, a uoči Uskrsa nikad skuplja hrana. Američko Ministarstvo obrane istražuje kako su iscurili povjerljivi dokumenti o planovima SAD-a i NATO-a za jačanje ukrajinske vojske. Visoki predstavnik za BiH Christian Schmidt neizravno najavio da će nametnuti rješenje ako se ne uspostavi Vlada Federacije BiH. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 07 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/a3/20230407-dnevne-novosti-34012002-20230407134036.mp3" length="" type="audio/mpeg"/>
+    <title>Dnevne novosti 11.04. 2023-04-11</title>
+    <link>https://api.hrt.hr/media/83/41/20230411-dnevne-novosti-34021854-20230411133508.mp3</link>
+    <description>Gotovo četiri sata trajali pregovori premijera Plenkovića i liječničkih udruga koje prijete štrajkom. Postignuti su određeni pomaci. Zbog početka radova velike gužve i kolone na autocesti Bregana - Lipovac te na istočnoj zagrebačkoj obilaznici. Završio rok za prijavu ponuda za prodaju pulskog Uljanika. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 11 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/83/41/20230411-dnevne-novosti-34021854-20230411133508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 <item>
-    <title>Dnevne novosti 06.04. 2023-04-06</title>
-    <link>https://api.hrt.hr/media/ef/17/20230406-dnevne-novosti-34008603-20230406134035.mp3</link>
-    <description>Vlada dala suglasnost turskom Yildirimu za kupnju 54 i pol posto udjela u Petrokemiji koji imaju PPD i INA. Francuski predsjednik Macron u Pekingu pozvao Kinu da iskoristi svoj utjecaj na Rusiju. Veliki je četvrtak. S mise u bazilici svetog Petra Papa Franjo pozvao svećenike da ne žive dvostrukim životima. Još nema službene potvrde da je smijenjen Dinamov trener Ante Čačić. Urednica: Mira Barić</description>
-    <pubDate>Thu, 06 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ef/17/20230406-dnevne-novosti-34008603-20230406134035.mp3" length="" type="audio/mpeg"/>
+    <title>Dnevne novosti 10.04. 2023-04-10</title>
+    <link>https://api.hrt.hr/media/e7/ae/20230410-dnevne-novosti-34018796-20230410134009.mp3</link>
+    <description>Talačka kriza u baranjskom mjestu Kneževu završila mirno, policija objavila pojedinosti. Predstavnici pet krovnih liječničkih udruga sutra se sastaju s premijerom Andrejem Plenkovićem. Tajvan je u stanju visoke pripravnosti zbog višednevnih zračnih i pomorskih vježbi kineske vojske, koje simuliraju napade na taj otok. Uskrsni je ponedjeljak, u mnogim europskim zemljama, pa tako i u Hrvatskoj, neradni dan. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 10 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e7/ae/20230410-dnevne-novosti-34018796-20230410134009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 <item>
-    <title>Dnevne novosti 05.04. 2023-04-05</title>
-    <link>https://api.hrt.hr/media/c4/be/20230405-dnevne-novosti-34004754-20230405134011.mp3</link>
-    <description>Na zagrebačkom Županijskom sudu odlučuje se o istražnom zatvoru za četvero uhićenih u aferi "sortirnica". Za Đuru Horvata istražni zatvor nije zatražen zbog njegova zdravstvenog stanja. Nakon samo sedam sati štrajka radnika Čistoće u Splitu, postignut dogovor. Vlasti u Kijevu pozvale Ukrajince da napuste privremeno okupirana područja zbog skore ukrajinske ofenzive. Urednica: Mira Barić</description>
-    <pubDate>Wed, 05 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c4/be/20230405-dnevne-novosti-34004754-20230405134011.mp3" length="" type="audio/mpeg"/>
+    <title>Dnevne novosti 09.04. 2023-04-09</title>
+    <link>https://api.hrt.hr/media/fb/6b/20230409-dnevne-novosti-34016499-20230409134007.mp3</link>
+    <description>U uskrsnoj poruci Urbi et Orbi papa Franjo pozvao na završetak sukoba u cijelom svijetu. Ukrajini vraćeno tridesetero djece koje su oteli Rusi. Eksplozija u Marseilleu, urušile se stambene zgrade, ne zna se koliko je ljudi ispod ruševina. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 09 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fb/6b/20230409-dnevne-novosti-34016499-20230409134007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
