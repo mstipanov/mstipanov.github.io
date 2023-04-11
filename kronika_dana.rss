@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Apr 2023 18:46:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 20:46:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.04. 2023-04-11</title>
+    <link>https://api.hrt.hr/media/06/34/20230411-kronika-dana-34022895-20230411204013.mp3</link>
+    <description>Liječnici u razgovoru s premijerom Plenkovićem postigli dogovor o rješenjima problema koji ih muče. Nijedna ponuda nije stigla za kupnju Uljanik brodogradnje. U pucnjavi u Splitu ranjen muškarac. Tin Srbić izborio nastup u na finalu Europskog prvenstva u gimnastici u Antalyji Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 11 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/06/34/20230411-kronika-dana-34022895-20230411204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.04. 2023-04-10</title>
     <link>https://api.hrt.hr/media/84/5b/20230410-kronika-dana-34019676-20230410205010.mp3</link>
     <description>Predstavnici pet krovnih liječničkih udruga sutra s premijerom Andrejem Plenkovićem. Nova masovna pucnjava u SAD-u. U napadu u Luisevilleu, u saveznoj državi Kentucky, poginulo pet osoba, među njima i napadač. Dječaka koji je stradao od strujnog udara na kolodvoru u Slavonskom Brodu čeka dug oporavak. U 76-toj godini umro violončelist i glazbeni pedagog Valter Dešpalj, jedan od najistaknutijih hrvatskih glazbenika druge polovice 20. stoljeća. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Uoči Uskrsa u crkvama vazmena bdjenja. Penjujći se po vagonima od strujnog udara u Slavonskom Brodu stradao dječak. Red u međunarodne odnose vratit će se tek kada Krim i cijela Ukrajina budu oslobođeni, poručio predsjednik Zelenski. Urednica: Sanja Cota</description>
     <pubDate>Sat, 08 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3c/79/20230408-kronika-dana-34015088-20230408204007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.04. 2023-04-07</title>
-    <link>https://api.hrt.hr/media/98/d0/20230407-kronika-dana-34012833-20230407204038.mp3</link>
-    <description>Kršćani obilježili Veliki petak, dan Isusove muke i smrti na križu. Mnogi gradovi na trgovima dijelili riblji ručak. Premijer Andrej Plenković potvrdio da će primiti liječnike u utorak. Uskrsna košarica najskuplja dosad, istodobno bacamo rekordne količine hrane - čak 70 kilograma po osobi na godinu. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 07 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/d0/20230407-kronika-dana-34012833-20230407204038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
