@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Apr 2023 20:42:10 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 21:12:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.04. 2023-04-12</title>
+    <link>https://api.hrt.hr/media/e6/71/20230412-kronika-dana-34026340-20230412204015.mp3</link>
+    <description>Policija još traga za četvoricom muškaraca koji se dovode u vezu s jučerašnjom pucnjavom u Splitu. Uhićen muškarac za kojeg se pretpostavlja da povezan s paležom automobila sutkinje osječkoga Županijskog suda. Aktualcem gotovo bez povišenih tonova počela nova saborska sjednica. SPORT: U finalu Hrvatskog kupa igrat će Šibenik i Hajduk. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 12 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/71/20230412-kronika-dana-34026340-20230412204015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.04. 2023-04-11</title>
     <link>https://api.hrt.hr/media/06/34/20230411-kronika-dana-34022895-20230411204013.mp3</link>
     <description>Liječnici u razgovoru s premijerom Plenkovićem postigli dogovor o rješenjima problema koji ih muče. Nijedna ponuda nije stigla za kupnju Uljanik brodogradnje. U pucnjavi u Splitu ranjen muškarac. Tin Srbić izborio nastup u na finalu Europskog prvenstva u gimnastici u Antalyji Urednik: Grgo Mrvica</description>
