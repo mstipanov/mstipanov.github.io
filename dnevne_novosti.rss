@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Apr 2023 18:46:01 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 13:43:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.04. 2023-04-12</title>
+    <link>https://api.hrt.hr/media/19/67/20230412-dnevne-novosti-34025367-20230412134013.mp3</link>
+    <description>Splitska policija ponovno traži pomoć građana u potrazi za četvoricom bjegunaca koji se sumnjiče za pokušaj ubojstva. Na Cresu sinoć su gorjeli automobili policijskih službenika. Aktualnim prijepodnevom Sabor počeo novu sjednicu nakon uskrsnih blagdana. Američki predsjednik Biden počeo posjet Sjevernoj Irskoj i Irskoj. Uredio: Grgo Mrvica</description>
+    <pubDate>Wed, 12 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/19/67/20230412-dnevne-novosti-34025367-20230412134013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.04. 2023-04-11</title>
     <link>https://api.hrt.hr/media/83/41/20230411-dnevne-novosti-34021854-20230411133508.mp3</link>
     <description>Gotovo četiri sata trajali pregovori premijera Plenkovića i liječničkih udruga koje prijete štrajkom. Postignuti su određeni pomaci. Zbog početka radova velike gužve i kolone na autocesti Bregana - Lipovac te na istočnoj zagrebačkoj obilaznici. Završio rok za prijavu ponuda za prodaju pulskog Uljanika. Urednik: Mario Krstanović</description>
