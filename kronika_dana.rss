@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Apr 2023 17:11:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 20:42:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Najveći kršćanski blagdan Uskrs proslavljen uz želje za mir, ljubav i zajedništvo. U uskrsnoj poruci Gradu i svijetu papa Franjo pozvao na završetak sukoba u cijelom svijetu. Mira nema u Ukrajini - najmanje je dvoje civila poginulo u novom valu ruskih napada na južne regije Hersona i Zaporižje. Dvije zgrade urušile se Marseilleu, strahuje se da je pod ruševinama zarobljeno mnogo ljudi. Urednik: Silvio Šop</description>
     <pubDate>Sun, 09 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8e/0a/20230409-kronika-dana-34017328-20230409211506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.04. 2023-04-08</title>
-    <link>https://api.hrt.hr/media/3c/79/20230408-kronika-dana-34015088-20230408204007.mp3</link>
-    <description>Uoči Uskrsa u crkvama vazmena bdjenja. Penjujći se po vagonima od strujnog udara u Slavonskom Brodu stradao dječak. Red u međunarodne odnose vratit će se tek kada Krim i cijela Ukrajina budu oslobođeni, poručio predsjednik Zelenski. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 08 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3c/79/20230408-kronika-dana-34015088-20230408204007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
