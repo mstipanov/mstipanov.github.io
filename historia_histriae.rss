@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Apr 2023 17:11:40 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 16:17:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>TONE LIVI 2023-04-13</title>
+    <link>https://api.hrt.hr/media/10/8e/20230413-historia-histriae-7939264-20230413153511.mp3</link>
+    <description>U goste nam dolazi simbol Istre kakva je nekad bila - legendarni istarski pučki svirač Tone Livi </description>
+    <pubDate>Thu, 13 Apr 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/10/8e/20230413-historia-histriae-7939264-20230413153511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>MILENA JOKSIMOVIĆ 2023-04-06</title>
     <link>https://api.hrt.hr/media/b9/2a/20230406-historia-histriae-7937309-20230406152034.mp3</link>
     <description>U goste nam dolazi dr. Milena Joksimović, a pričamo o tome što je zatekao veronski biskup Valier u vizitaciji Istri u 16. stoljeću!</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi pokretač instagram profila "Stara Pula" Ivan Sergo. On nam donosi brojne povijesne zanimljivosti iz nevjerojatnog povijesnog mozaika našeg grada. Budite s nama!  </description>
     <pubDate>Thu, 09 Feb 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dd/2a/20230209-historia-histriae-7917635-20230209170536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>BRUNO LANGER (Nastavak) 2023-02-02</title>
-    <link>https://api.hrt.hr/media/bf/c4/20230202-historia-histriae-7916026-20230202170012.mp3</link>
-    <description>U goste nam se vraća legendarni Bruno Langer.....nastavljamo našu priču o Puli i njezinoj prošlosti. Budite s nama!</description>
-    <pubDate>Thu, 02 Feb 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/c4/20230202-historia-histriae-7916026-20230202170012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
