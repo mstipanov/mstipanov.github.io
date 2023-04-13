@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Apr 2023 17:11:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 13:43:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Talačka kriza u baranjskom mjestu Kneževu završila mirno, policija objavila pojedinosti. Predstavnici pet krovnih liječničkih udruga sutra se sastaju s premijerom Andrejem Plenkovićem. Tajvan je u stanju visoke pripravnosti zbog višednevnih zračnih i pomorskih vježbi kineske vojske, koje simuliraju napade na taj otok. Uskrsni je ponedjeljak, u mnogim europskim zemljama, pa tako i u Hrvatskoj, neradni dan. Urednik: Silvio Šop</description>
     <pubDate>Mon, 10 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e7/ae/20230410-dnevne-novosti-34018796-20230410134009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.04. 2023-04-09</title>
-    <link>https://api.hrt.hr/media/fb/6b/20230409-dnevne-novosti-34016499-20230409134007.mp3</link>
-    <description>U uskrsnoj poruci Urbi et Orbi papa Franjo pozvao na završetak sukoba u cijelom svijetu. Ukrajini vraćeno tridesetero djece koje su oteli Rusi. Eksplozija u Marseilleu, urušile se stambene zgrade, ne zna se koliko je ljudi ispod ruševina. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 09 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fb/6b/20230409-dnevne-novosti-34016499-20230409134007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
