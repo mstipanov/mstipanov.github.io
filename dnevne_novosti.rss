@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Apr 2023 13:43:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 14:16:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.04. 2023-04-13</title>
+    <link>https://api.hrt.hr/media/1b/a2/20230413-dnevne-novosti-34028785-20230413135020.mp3</link>
+    <description>Vlada prihvatila veće novčane kazne za prekršaje protiv javnog reda i mira. Premijer se osvrnuo i na rad policije te pritiske na pravosuđe. Danas još jedan krug pregovora liječnika s mjerodavnim ministarstvom. U Saboru se raspravljalo o novom zakonskom prijedlogu o mirnom rješavanju sporova. Otkriveno tko stoji iza curenja podataka iz Pentagona. Uzbuna u Japanu zbog sjevernokorejskog projektila. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 13 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/a2/20230413-dnevne-novosti-34028785-20230413135020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.04. 2023-04-12</title>
     <link>https://api.hrt.hr/media/19/67/20230412-dnevne-novosti-34025367-20230412134013.mp3</link>
     <description>Splitska policija ponovno traži pomoć građana u potrazi za četvoricom bjegunaca koji se sumnjiče za pokušaj ubojstva. Na Cresu sinoć su gorjeli automobili policijskih službenika. Aktualnim prijepodnevom Sabor počeo novu sjednicu nakon uskrsnih blagdana. Američki predsjednik Biden počeo posjet Sjevernoj Irskoj i Irskoj. Uredio: Grgo Mrvica</description>
