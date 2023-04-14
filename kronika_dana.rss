@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Apr 2023 21:18:35 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 20:51:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.04. 2023-04-14</title>
+    <link>https://api.hrt.hr/media/20/ce/20230414-kronika-dana-34033739-20230414204017.mp3</link>
+    <description>Sudac s otoka Krka zbog nezadovoljstva plaćom odgodio suđenje - traži se postupak protiv njega. Provećat će se kapacitet LNG terminala na Krku. Ustavno vijeće Francuske poduprlo mirovinsku reformu, Francuzi će i večeras prosvjedovati. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 14 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/20/ce/20230414-kronika-dana-34033739-20230414204017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.04. 2023-04-13</title>
     <link>https://api.hrt.hr/media/23/ca/20230413-kronika-dana-34030068-20230413204016.mp3</link>
     <description>Uoči Croatia Rallyja, na treningu poginuo irski vozač Craig Breen. Zbog učestalih paljenja automobila, Odbor za nacionalnu sigurnost zatražit će izvješće SOA-e. Umro poznati pravni stručnjak Smiljko Sokol. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Liječnici u razgovoru s premijerom Plenkovićem postigli dogovor o rješenjima problema koji ih muče. Nijedna ponuda nije stigla za kupnju Uljanik brodogradnje. U pucnjavi u Splitu ranjen muškarac. Tin Srbić izborio nastup u na finalu Europskog prvenstva u gimnastici u Antalyji Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 11 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/06/34/20230411-kronika-dana-34022895-20230411204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.04. 2023-04-10</title>
-    <link>https://api.hrt.hr/media/84/5b/20230410-kronika-dana-34019676-20230410205010.mp3</link>
-    <description>Predstavnici pet krovnih liječničkih udruga sutra s premijerom Andrejem Plenkovićem. Nova masovna pucnjava u SAD-u. U napadu u Luisevilleu, u saveznoj državi Kentucky, poginulo pet osoba, među njima i napadač. Dječaka koji je stradao od strujnog udara na kolodvoru u Slavonskom Brodu čeka dug oporavak. U 76-toj godini umro violončelist i glazbeni pedagog Valter Dešpalj, jedan od najistaknutijih hrvatskih glazbenika druge polovice 20. stoljeća. Urednica: Sanja Rabuzin</description>
-    <pubDate>Mon, 10 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/5b/20230410-kronika-dana-34019676-20230410205010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
