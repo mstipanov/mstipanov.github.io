@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Apr 2023 03:44:53 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 05:45:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.04. 2023-04-18</title>
+    <link>https://api.hrt.hr/media/79/db/20230418-jutarnja-kronika-34042335-20230418053520.mp3</link>
+    <description>Ako se, nakon liječnika, i ostalim zdravstvenim radnicima ne povećaju plaće, medicinske sestre i tehničari prijete štrajkom. Nakon Poljske i Mađarske, i Slovačka zabranila uvoz ukrajinskog žita.Židovski vjernici obilježavaju Jom hašoa - dan stradanja i junaštva u spomen na 6 milijuna Židova. Urednica: Mura Barić</description>
+    <pubDate>Tue, 18 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/79/db/20230418-jutarnja-kronika-34042335-20230418053520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.04. 2023-04-17</title>
     <link>https://api.hrt.hr/media/26/04/20230417-jutarnja-kronika-34038786-20230417055012.mp3</link>
     <description>Prebrojeni glasovi s prijevremenih izbora za gradska vijeća Varaždina i Čabra te općinska vijeća u Kalima i Kukljici. Mladiću, koji je nasmrt pretukao vojnika u Požegi, određen istražni zatvor. U općini Jakšić - dan žalosti. U Americi tragične posljedice nove masovne pucnjave. Tinu Srbiću zlatna medalja na Europskom prvenstvu u Turskoj! Radio Sljeme slavi 70-ti rođendan. Urednica: Snježana Kralj</description>
@@ -32,14 +40,6 @@
 Burne reakcije u javnosti zbog suca koji je odgodio ročište jer je nezadovoljan plaćom. Velika obljetnica u našoj kući. Radio Sljeme počinje proslavu 70.- te godišnjice emitiranja. Urednik Grgo Mrvica.</description>
     <pubDate>Sat, 15 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/66/e9/20230415-jutarnja-kronika-34034225-20230415053515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.04. 2023-04-14</title>
-    <link>https://api.hrt.hr/media/79/cf/20230414-jutarnja-kronika-34030670-20230414053512.mp3</link>
-    <description>Uhićen zaposlenik američke nacionalne garde koji je objavljivao tajne vojno-obavještajne dokumente. Vlada prihvatila prijedlog izmjena Zakona o prekršajima protiv javnog reda i mira, kazne se drastično povećavaju. U Washingtonu se održava proljetno zasjedanje Međunarodnog monetarnog fonda i Svjetske banke. Večeras u riječkom Exportdrvu premijera Enigmatskih varijacija, koprodukcije riječkog i zagrebačkog HNK. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 14 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/cf/20230414-jutarnja-kronika-34030670-20230414053512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
