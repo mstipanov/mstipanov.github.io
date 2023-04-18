@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Apr 2023 03:44:53 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 20:46:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.04. 2023-04-18</title>
+    <link>https://api.hrt.hr/media/0e/1f/20230418-kronika-dana-34045324-20230418204031.mp3</link>
+    <description>Ravnateljica USKOK-a Vanja Marušić dala je ostavku. Zataškala prometnu nesreću svog vozača s velikom štetom Oporba traži od premijera da i ona sudjeluje u pripremama novog Zakona o izbornim jedinicama. Dan je sjećanja na žrtve holokausta - Jom hašoa. Domaći su ratari zabrinuti da će ih uvoz ukrajinskih žitarica upropastiti. Putin jučer iznenada posjetio okupirane dijelove Ukrajine. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 18 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0e/1f/20230418-kronika-dana-34045324-20230418204031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.04. 2023-04-17</title>
     <link>https://api.hrt.hr/media/4a/5f/20230417-kronika-dana-34041776-20230417204013.mp3</link>
     <description>Inflacija u našoj zemlji oslabjela četvrti mjesec zaredom i sada je 10,7 posto. Pronađena osoba koja je ostavila mrtvo novorođenče u selu Hlevnici potkraj siječnja. Ako se, nakon liječnika, i ostalim zdravstvenim radnicima ne povećaju plaće, sindikati su spremni na štrajk. Slovačka se pridružila Poljskoj i Mađarskoj u zabrani uvoza ukrajinskih poljoprivrednih proizvoda, Europska komisija poručila da takve jednostrane odluke država članica nisu moguće. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon 25 godina kardinal Josip Bozanić odlazi u mirovinu, monsinjor Dražen Kutleša novi zagrebački nadbiskup. Agencija Fitch potvrdila rejting Hrvatske i stabilne izglede. U Ukrajini teške borbe u Bahmutu. Radio Sljeme slavi 70-ti rođendan. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 15 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/14/20230415-kronika-dana-34036006-20230415204017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.04. 2023-04-14</title>
-    <link>https://api.hrt.hr/media/20/ce/20230414-kronika-dana-34033739-20230414204017.mp3</link>
-    <description>Sudac s otoka Krka zbog nezadovoljstva plaćom odgodio suđenje - traži se postupak protiv njega. Provećat će se kapacitet LNG terminala na Krku. Ustavno vijeće Francuske poduprlo mirovinsku reformu, Francuzi će i večeras prosvjedovati. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 14 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/20/ce/20230414-kronika-dana-34033739-20230414204017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
