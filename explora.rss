@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Apr 2023 03:44:54 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 16:46:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 18.04.2023. 2023-04-18</title>
+    <link>https://api.hrt.hr/media/34/f2/20230418-explora-7940958-20230418162032.mp3</link>
+    <description>Space X Starship jučer ništa, ponovo preksutra. Ariane 5 VA260 uspješno u misiji JUICE prema Jupiteru. I kineska s 3D isprintanim motorom uspješno položila test. NASA otkrila kako je Sunce uništilo flotu Starlinkova. U Daruvaru prošlog vikenda počelo 10 dana astronomije, u Križevcima za dva dana otvaranje nove zvjezdarnice. Njemačka definitivno zatvorila svoje nuklearke. Geotermalna energija iz starih rudnika. CO2 iz gaziranih napitaka. Neutralizacija pesticida u hrani. Kako povećati doseg emisije.</description>
+    <pubDate>Tue, 18 Apr 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/34/f2/20230418-explora-7940958-20230418162032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 11.04.2023. 2023-04-11</title>
     <link>https://api.hrt.hr/media/d0/8d/20230411-explora-7938675-20230411162507.mp3</link>
     <description>Hubble - spajanje galaksija stvorilo super masivnu crnu rupu. James Webb - svi Uranovi prsteni. Potisak u svemiru i kretanje izvan kapsule. Jake solarne flare i izboji, ipak nema štete. Reakcije na agendu transhumanizma. Arktik i Antarktik se tope, antarktičke oceanske struje se usporavaju, utjecaj na klimu. Poroci i halucinogene tvari u brončanom dobu. Radnici Tesle se zabavljali gledajući vlasnike automobila. Kućni ljubimci poželjni u domovima mladih obitelji. Starbucks Oleato - svi trče na zahod.</description>
@@ -94,14 +102,6 @@ VIDEO - https://www.youtube.com/watch?v=H2bIH32yHbc</description>
     <description>Meteoroid eksplodirao 40 km iznad Francuske, Korado ga je prije toga iz Višnjana pratio pet i pol sati. Uništavanje svakojakih balona na nebu Sjeverne Amerike. Potres u Turskoj i teorije zavjere. Zagonetna zemlja Tartarija.</description>
     <pubDate>Tue, 14 Feb 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f5/48/20230214-explora-7920078-20230214171511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 2023-02-07</title>
-    <link>https://api.hrt.hr/media/c6/50/20230207-explora-7917706-20230207182520.mp3</link>
-    <description>Potres u Turskoj. USAF srušili kineski špijunski balon. Ulaganje u obnovljive izvore energije i državni porezi. Ugljen više nije konkurentan na energetskom tržištu. Neophodna gradnja novih velikih dalekovoda. Google ulaže u AI Antropic. Škola i školstvo, odgoj i poduzetništvo. Višnjan i mentori. </description>
-    <pubDate>Tue, 07 Feb 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/50/20230207-explora-7917706-20230207182520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
