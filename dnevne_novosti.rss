@@ -6,10 +6,26 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Apr 2023 13:52:37 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 03:44:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.04. 2023-04-17</title>
+    <link>https://api.hrt.hr/media/b2/07/20230417-dnevne-novosti-34040738-20230417134015.mp3</link>
+    <description>Inflacija u ožujku oslabjela četvrti mjesec zaredom. Gotovo stotinu civila poginulo, četiri stotine ranjeno u krvavim borbama za vlast u Sudanu, među ubijenima i troje humanitarnih djelatnika UN-a. Predstavljen Akcijski plan za provedbu nacionalnog strateškog okvira protiv raka. Preventivni programi proširuju se i na mlađe građane. Urednica: Mira Barić</description>
+    <pubDate>Mon, 17 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b2/07/20230417-dnevne-novosti-34040738-20230417134015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Dnevne novosti 16.04. 2023-04-16</title>
+    <link>https://api.hrt.hr/media/41/a8/20230416-dnevne-novosti-34037514-20230416134021.mp3</link>
+    <description>Jutros je umro 21-godišnji vojnik kojeg je u Požegi pretukao njegov prijatelj. U nemirima u Sudanu poginulo 56 civila. Na pravoslavni Uskrs ukrajinski predsjednik svojim sunarodnjacima poručio da i dalje vjeruju u pobjedu. Sport: gimnastičar Tin Srbić europski je prvak na preči. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 16 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/41/a8/20230416-dnevne-novosti-34037514-20230416134021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.04. 2023-04-15</title>
     <link>https://api.hrt.hr/media/38/b3/20230415-dnevne-novosti-34035195-20230415134019.mp3</link>
     <description>Papa Franjo prihvatio odreknuće kardinala Josipa Bozanića, zagrebačku nadbiskupiju preuzima Dražen Kutleša. Agencija Fitch potvrdila rejting Hrvatske i stabilne izglede. Vukovarci mirnim prosvjedom zatražili izgradnju gradske obilaznice. Urednica: Sanja Cota</description>
@@ -23,22 +39,6 @@
     <description>Hrvatska na putu energetske neovisnosti - LNG na Krku udvostručit će kapacitete. Novi verbalni sukob predsjednika i premijera. Mladić uhićen zbog curenja tajnih američkih podataka prvi put izlazi pred saveznog suca. Francuska iščekuje odluku o ustavnosti sporne mirovinske reforme. Najavljeni novi prosvjedi. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 14 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/24/20230414-dnevne-novosti-34032795-20230414134515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.04. 2023-04-13</title>
-    <link>https://api.hrt.hr/media/1b/a2/20230413-dnevne-novosti-34028785-20230413135020.mp3</link>
-    <description>Vlada prihvatila veće novčane kazne za prekršaje protiv javnog reda i mira. Premijer se osvrnuo i na rad policije te pritiske na pravosuđe. Danas još jedan krug pregovora liječnika s mjerodavnim ministarstvom. U Saboru se raspravljalo o novom zakonskom prijedlogu o mirnom rješavanju sporova. Otkriveno tko stoji iza curenja podataka iz Pentagona. Uzbuna u Japanu zbog sjevernokorejskog projektila. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 13 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1b/a2/20230413-dnevne-novosti-34028785-20230413135020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.04. 2023-04-12</title>
-    <link>https://api.hrt.hr/media/19/67/20230412-dnevne-novosti-34025367-20230412134013.mp3</link>
-    <description>Splitska policija ponovno traži pomoć građana u potrazi za četvoricom bjegunaca koji se sumnjiče za pokušaj ubojstva. Na Cresu sinoć su gorjeli automobili policijskih službenika. Aktualnim prijepodnevom Sabor počeo novu sjednicu nakon uskrsnih blagdana. Američki predsjednik Biden počeo posjet Sjevernoj Irskoj i Irskoj. Uredio: Grgo Mrvica</description>
-    <pubDate>Wed, 12 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/19/67/20230412-dnevne-novosti-34025367-20230412134013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
