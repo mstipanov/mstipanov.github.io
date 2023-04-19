@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Apr 2023 05:45:01 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 05:47:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.04. 2023-04-19</title>
+    <link>https://api.hrt.hr/media/cf/13/20230419-jutarnja-kronika-34045861-20230419053548.mp3</link>
+    <description>U promet se pušta Stonska obilaznica, posljednja dionica projekta "Cestovne povezanosti s južnom Dalmacijom". Ravnateljica USKOK-a Vanja Marušić jučer dala ostavku. Službeno - zbog osobnih razloga, neslužbeno - zbog zataškavanja prometne nesreće svojeg vozača. Sabor će raspravljati o izmjenama Zakona o prekršajima protiv javnog reda i mira, kojima se kazne drastično povećavaju. U zagrebačkom ITD-u večeras premijera drame Tarzan. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 19 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cf/13/20230419-jutarnja-kronika-34045861-20230419053548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.04. 2023-04-18</title>
     <link>https://api.hrt.hr/media/79/db/20230418-jutarnja-kronika-34042335-20230418053520.mp3</link>
     <description>Ako se, nakon liječnika, i ostalim zdravstvenim radnicima ne povećaju plaće, medicinske sestre i tehničari prijete štrajkom. Nakon Poljske i Mađarske, i Slovačka zabranila uvoz ukrajinskog žita.Židovski vjernici obilježavaju Jom hašoa - dan stradanja i junaštva u spomen na 6 milijuna Židova. Urednica: Mura Barić</description>
@@ -31,15 +39,6 @@
     <description>Sinoć potres jakosti 3 cijela 9 prema Richteru s epicentrom kod Dervente. Osjetio se i u Hrvatskoj. Agencija Fitch potvrdila rejting Hrvatske - 'BBB+' sa stabilnim izgledima. Dražen Kutleša novi je zagrebački nadbiskup. U Varaždinu i Čabru izvanredni izbori za gradsko vijeće, u Kalima i Kukljici na otoku Ugljanu biraju se općinski vijećnici. Urednik Grgo Mrvica</description>
     <pubDate>Sun, 16 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/ee/20230416-jutarnja-kronika-34036511-20230416053021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.04. 2023-04-15</title>
-    <link>https://api.hrt.hr/media/66/e9/20230415-jutarnja-kronika-34034225-20230415053515.mp3</link>
-    <description>Hrvatska će udvostručiti kapacitet LNG terminala na Krku. Potpisani prvi ugovori. Agencija Fitch potvrdila je rejting Hrvatske 'BBB+' i stabilne izglede.
-Burne reakcije u javnosti zbog suca koji je odgodio ročište jer je nezadovoljan plaćom. Velika obljetnica u našoj kući. Radio Sljeme počinje proslavu 70.- te godišnjice emitiranja. Urednik Grgo Mrvica.</description>
-    <pubDate>Sat, 15 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/66/e9/20230415-jutarnja-kronika-34034225-20230415053515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
