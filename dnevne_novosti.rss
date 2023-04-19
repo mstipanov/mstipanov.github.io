@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Apr 2023 13:45:54 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 13:49:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.04. 2023-04-19</title>
+    <link>https://api.hrt.hr/media/aa/00/20230419-dnevne-novosti-34048022-20230419134055.mp3</link>
+    <description>Svečano se otvara Stonska obilaznica i to je završetak projekta cestovnog spajanja juga Hrvatske. Saborski zastupnici traže pravi razlog ostavke ravnateljice USKOK-a. Burno se raspravljalo o Zakonu o prekršajima protiv javnog reda i mira koji je ipak uvršten u hitnu saborsku proceduru. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 19 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/aa/00/20230419-dnevne-novosti-34048022-20230419134055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.04. 2023-04-18</title>
     <link>https://api.hrt.hr/media/41/9a/20230418-dnevne-novosti-34044443-20230418133528.mp3</link>
     <description>Deset saborskih oporbenih klubova od Vlade traži da do kraja mjeseca imenuje radnu skupinu za izradu nacrta novog Zakona o izbornim jedinicama. Premijer Andrej Plenković odgovara oporbi: "Izbori su za godinu i dva, tri mjeseca, što se sekirate?" Ruski predsjednik Vladimir Putin jučer nenajavljeno posjetio okupirani dio Ukrajine. Dan je sjećanja na žrtve holokausta, Jom hašoa. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Jutros je umro 21-godišnji vojnik kojeg je u Požegi pretukao njegov prijatelj. U nemirima u Sudanu poginulo 56 civila. Na pravoslavni Uskrs ukrajinski predsjednik svojim sunarodnjacima poručio da i dalje vjeruju u pobjedu. Sport: gimnastičar Tin Srbić europski je prvak na preči. Urednica: Sanja Cota</description>
     <pubDate>Sun, 16 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/41/a8/20230416-dnevne-novosti-34037514-20230416134021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.04. 2023-04-15</title>
-    <link>https://api.hrt.hr/media/38/b3/20230415-dnevne-novosti-34035195-20230415134019.mp3</link>
-    <description>Papa Franjo prihvatio odreknuće kardinala Josipa Bozanića, zagrebačku nadbiskupiju preuzima Dražen Kutleša. Agencija Fitch potvrdila rejting Hrvatske i stabilne izglede. Vukovarci mirnim prosvjedom zatražili izgradnju gradske obilaznice. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 15 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/b3/20230415-dnevne-novosti-34035195-20230415134019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
