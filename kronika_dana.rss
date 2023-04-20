@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Apr 2023 20:56:16 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 20:59:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.04. 2023-04-20</title>
+    <link>https://api.hrt.hr/media/00/9c/20230420-kronika-dana-34053075-20230420204016.mp3</link>
+    <description>Vanja Marušić razriješena dužnosti ravnateljice USKOK-a zbog propusta u obavljanju poslova, izjavila glavna državna odvjetnica. Ukrajini je mjesto u NATO-u, rekao u Kijevu glavni tajnik NATO-a Jens Stoltenberg. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 20 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/00/9c/20230420-kronika-dana-34053075-20230420204016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.04. 2023-04-19</title>
     <link>https://api.hrt.hr/media/48/b9/20230419-kronika-dana-34049121-20230419204053.mp3</link>
     <description>Otvorena stonska obilaznica, čime je završen projekt cestovnog povezivanja juga Hrvatske s ostatkom zemlje. Reakcije na ostavku ravnateljice USKOK-a Vanje Marušić, oporba traži pravi razlog njezine ostavke. Zbog Zakona o prekršajima iznimno burno u Saboru - izbačeni Miro Bulj, Krešo Beljak i Željko Sačić. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Inflacija u našoj zemlji oslabjela četvrti mjesec zaredom i sada je 10,7 posto. Pronađena osoba koja je ostavila mrtvo novorođenče u selu Hlevnici potkraj siječnja. Ako se, nakon liječnika, i ostalim zdravstvenim radnicima ne povećaju plaće, sindikati su spremni na štrajk. Slovačka se pridružila Poljskoj i Mađarskoj u zabrani uvoza ukrajinskih poljoprivrednih proizvoda, Europska komisija poručila da takve jednostrane odluke država članica nisu moguće. Urednik: Silvio Šop</description>
     <pubDate>Mon, 17 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4a/5f/20230417-kronika-dana-34041776-20230417204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.04. 2023-04-16</title>
-    <link>https://api.hrt.hr/media/16/b4/20230416-kronika-dana-34038240-20230416204013.mp3</link>
-    <description>Mladić koji je nasmrt pretukao prijatelja u Požegi ide u zatvor. Priznao zločin. SDP slavi - osvojio većinu u Varaždinu. Prvo europsko zlato u karijeri za gimnastičara Tina Srbića. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 16 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/16/b4/20230416-kronika-dana-34038240-20230416204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
