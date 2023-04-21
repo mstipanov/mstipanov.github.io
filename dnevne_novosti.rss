@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Apr 2023 13:58:17 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 14:00:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.04. 2023-04-21</title>
+    <link>https://api.hrt.hr/media/59/ee/20230421-dnevne-novosti-34056131-20230421134008.mp3</link>
+    <description>Medicinske sestre nisu zadovoljne ponuđenim povećanjem plaća, traže koeficijent veći za 10 %, ponuđeno im između 3 i 5 posto. Čelnici zapadnih zemalja u američkoj vojnoj bazi Ramstein u Njemačkoj dogovaraju nastavak vojne pomoći Ukrajini. Ruski ratni zrakoplov pogreškom pucao na vlastiti grad, troje ozlijeđenih.
+Svjetska meteorološka organizacija predstavila izvješće o stanju svjetske klime za prošlu godinu - svi pokazatelji su se pogoršali. Urednica Mira Barić</description>
+    <pubDate>Fri, 21 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/59/ee/20230421-dnevne-novosti-34056131-20230421134008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.04. 2023-04-20</title>
     <link>https://api.hrt.hr/media/77/5d/20230420-dnevne-novosti-34051799-20230420134027.mp3</link>
     <description>Vanja Marušić i službeno je razriješena dužnosti ravnateljice USKOK-a. Željka Mostečak, dosadašnja zamjenica galvne državne odvjetnice , imenovana je vršiteljicom dužnosti.Novo zaoštravanje odnosa predsjednika Milanovića i ministra Banožića. Predsjednik optužuje da je izvješće o obrani upućeno u Sabor puno propusta i neistina.Banožić odgovara da predsjednik laže. Najmanje 79-ero ljudi poginulo, više od stotinu ozlijeđeno u stampedu u glavnom gradu Jemena. Glavni tajnik NATO-a Jens Stoltenberg u prvom posjetu Kijevu od početka ruske invazije na Ukrajinu.Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Deset saborskih oporbenih klubova od Vlade traži da do kraja mjeseca imenuje radnu skupinu za izradu nacrta novog Zakona o izbornim jedinicama. Premijer Andrej Plenković odgovara oporbi: "Izbori su za godinu i dva, tri mjeseca, što se sekirate?" Ruski predsjednik Vladimir Putin jučer nenajavljeno posjetio okupirani dio Ukrajine. Dan je sjećanja na žrtve holokausta, Jom hašoa. Urednik: Silvio Šop</description>
     <pubDate>Tue, 18 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/41/9a/20230418-dnevne-novosti-34044443-20230418133528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.04. 2023-04-17</title>
-    <link>https://api.hrt.hr/media/b2/07/20230417-dnevne-novosti-34040738-20230417134015.mp3</link>
-    <description>Inflacija u ožujku oslabjela četvrti mjesec zaredom. Gotovo stotinu civila poginulo, četiri stotine ranjeno u krvavim borbama za vlast u Sudanu, među ubijenima i troje humanitarnih djelatnika UN-a. Predstavljen Akcijski plan za provedbu nacionalnog strateškog okvira protiv raka. Preventivni programi proširuju se i na mlađe građane. Urednica: Mira Barić</description>
-    <pubDate>Mon, 17 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/07/20230417-dnevne-novosti-34040738-20230417134015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
