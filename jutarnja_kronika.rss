@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Apr 2023 05:57:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 05:59:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.04. 2023-04-21</title>
+    <link>https://api.hrt.hr/media/ec/1a/20230421-jutarnja-kronika-34053740-20230421054006.mp3</link>
+    <description>Medicinske sestre i tehničari na pregovorima u Ministarstvu zdravstva traže veće plaće. Udruga hrvatskih sudaca tvrdi da nije postignut nikakav dogovor o većim plaćama sudaca. Sabor će glasovati o izmjenama Zakona o prekršajima protiv javnog reda i mira. Ruski ratni zrakoplov slučajno ispalio streljivo na ruski grad Belgorod - ranjene dvije žene te oštećeno nekoliko zgrada. Počinje Noć knjige. Ovogodišnja tema - Sanjaju li roboti električne knjige? Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 21 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/1a/20230421-jutarnja-kronika-34053740-20230421054006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.04. 2023-04-20</title>
     <link>https://api.hrt.hr/media/1e/3a/20230420-jutarnja-kronika-34049678-20230420053021.mp3</link>
     <description>Otvorena stonska obilaznica - jug Hrvatske cestovno povezan s ostatkom zemlje. Kako ubrzati pregovore za ulazak Hrvatske u OECD? Veliki stampedo u glavnom gradu Jemena - poginulo više od 85, a ozlijeđeno više od 300 ljudi. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ako se, nakon liječnika, i ostalim zdravstvenim radnicima ne povećaju plaće, medicinske sestre i tehničari prijete štrajkom. Nakon Poljske i Mađarske, i Slovačka zabranila uvoz ukrajinskog žita.Židovski vjernici obilježavaju Jom hašoa - dan stradanja i junaštva u spomen na 6 milijuna Židova. Urednica: Mura Barić</description>
     <pubDate>Tue, 18 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/79/db/20230418-jutarnja-kronika-34042335-20230418053520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.04. 2023-04-17</title>
-    <link>https://api.hrt.hr/media/26/04/20230417-jutarnja-kronika-34038786-20230417055012.mp3</link>
-    <description>Prebrojeni glasovi s prijevremenih izbora za gradska vijeća Varaždina i Čabra te općinska vijeća u Kalima i Kukljici. Mladiću, koji je nasmrt pretukao vojnika u Požegi, određen istražni zatvor. U općini Jakšić - dan žalosti. U Americi tragične posljedice nove masovne pucnjave. Tinu Srbiću zlatna medalja na Europskom prvenstvu u Turskoj! Radio Sljeme slavi 70-ti rođendan. Urednica: Snježana Kralj</description>
-    <pubDate>Mon, 17 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/04/20230417-jutarnja-kronika-34038786-20230417055012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
