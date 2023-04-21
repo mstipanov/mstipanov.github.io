@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Apr 2023 20:59:01 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 20:50:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.04. 2023-04-21</title>
+    <link>https://api.hrt.hr/media/eb/3b/20230421-kronika-dana-34057048-20230421204009.mp3</link>
+    <description>Hajduk u finalu juniorske Lige prvaka. Medicinske sestre nezadovoljne ponuđenim povećanjem plaća. NATO želi Ukrajinu u članstvu, Rusija to smatra ugrožavanjem svoje sigurnosti. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 21 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/3b/20230421-kronika-dana-34057048-20230421204009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.04. 2023-04-20</title>
     <link>https://api.hrt.hr/media/00/9c/20230420-kronika-dana-34053075-20230420204016.mp3</link>
     <description>Vanja Marušić razriješena dužnosti ravnateljice USKOK-a zbog propusta u obavljanju poslova, izjavila glavna državna odvjetnica. Ukrajini je mjesto u NATO-u, rekao u Kijevu glavni tajnik NATO-a Jens Stoltenberg. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ravnateljica USKOK-a Vanja Marušić dala je ostavku. Zataškala prometnu nesreću svog vozača s velikom štetom Oporba traži od premijera da i ona sudjeluje u pripremama novog Zakona o izbornim jedinicama. Dan je sjećanja na žrtve holokausta - Jom hašoa. Domaći su ratari zabrinuti da će ih uvoz ukrajinskih žitarica upropastiti. Putin jučer iznenada posjetio okupirane dijelove Ukrajine. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 18 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0e/1f/20230418-kronika-dana-34045324-20230418204031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.04. 2023-04-17</title>
-    <link>https://api.hrt.hr/media/4a/5f/20230417-kronika-dana-34041776-20230417204013.mp3</link>
-    <description>Inflacija u našoj zemlji oslabjela četvrti mjesec zaredom i sada je 10,7 posto. Pronađena osoba koja je ostavila mrtvo novorođenče u selu Hlevnici potkraj siječnja. Ako se, nakon liječnika, i ostalim zdravstvenim radnicima ne povećaju plaće, sindikati su spremni na štrajk. Slovačka se pridružila Poljskoj i Mađarskoj u zabrani uvoza ukrajinskih poljoprivrednih proizvoda, Europska komisija poručila da takve jednostrane odluke država članica nisu moguće. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 17 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4a/5f/20230417-kronika-dana-34041776-20230417204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
