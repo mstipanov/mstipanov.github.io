@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Apr 2023 15:58:31 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 17:02:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>DARKO KOMSO 2023-04-27</title>
+    <link>https://api.hrt.hr/media/a6/67/20230427-historia-histriae-7943737-20230427155507.mp3</link>
+    <description>Dvije tisuće godina stara pozornica ponovo se vraća svojoj izvornoj funkciji.....priču o Malom rimskom kazalištu donosi nam ravnatelj Arheološkog muzeja Istre Darko Komšo. </description>
+    <pubDate>Thu, 27 Apr 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/67/20230427-historia-histriae-7943737-20230427155507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JOSIP VISNJIC 2023-04-20</title>
     <link>https://api.hrt.hr/media/1d/13/20230420-historia-histriae-7941595-20230420151019.mp3</link>
     <description>Priču o istarskim kaštelima priča nam arheolog Josip Višnjić. </description>
@@ -79,14 +87,6 @@
     <description>PCM	MODE:MONO	SAMPLE_RATE:48000	BITS_PER_SAMP:24	CARD:DeckLink 4K Extreme 12G &amp; 1394 Audio &amp; DirectSound Audio	PERIPHERAL:Blackmagic &amp; Avid OHCI	=MPEG1L2,F=48000,B=256,W=16,M=Stereo,T=N&amp;eacute;tia</description>
     <pubDate>Thu, 23 Feb 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/3d/20230223-historia-histriae-7922360-20230223162012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>MILAN RADOSEVIC 2023-02-16</title>
-    <link>https://api.hrt.hr/media/7c/5b/20230216-historia-histriae-7920821-20230216170057.mp3</link>
-    <description>U goste nam dolazi jedan od naših najistaknutijih povjesničara Milan Radošević, a pričamo o njegovoj knjizi "Geneza antifašizma u Istri". Budite s nama!</description>
-    <pubDate>Thu, 16 Feb 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7c/5b/20230216-historia-histriae-7920821-20230216170057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

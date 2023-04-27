@@ -6,10 +6,25 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Apr 2023 16:46:23 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 17:02:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 25.04.2023. 2023-04-25</title>
+    <link>https://api.hrt.hr/media/84/3d/20230425-explora-7943077-20230425160551.mp3</link>
+    <description>Space X – skoro totalka.  Unutrašnjost crne rupe. Kako se širi Svemir. Umjetna inteligencija, pedagogija, kraj demokracije ili uništenje civilizacije? Umjesto ruskog plina vjetroturbine na moru. U SAD – poticaji za fuziju bolji nego oni za fisiju. Dentalna medicina - presaditi ili posaditi zube?
+
+
+
+
+
+
+ </description>
+    <pubDate>Tue, 25 Apr 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/84/3d/20230425-explora-7943077-20230425160551.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 18.04.2023. 2023-04-18</title>
     <link>https://api.hrt.hr/media/34/f2/20230418-explora-7940958-20230418162032.mp3</link>
     <description>Space X Starship jučer ništa, ponovo preksutra. Ariane 5 VA260 uspješno u misiji JUICE prema Jupiteru. I kineska s 3D isprintanim motorom uspješno položila test. NASA otkrila kako je Sunce uništilo flotu Starlinkova. U Daruvaru prošlog vikenda počelo 10 dana astronomije, u Križevcima za dva dana otvaranje nove zvjezdarnice. Njemačka definitivno zatvorila svoje nuklearke. Geotermalna energija iz starih rudnika. CO2 iz gaziranih napitaka. Neutralizacija pesticida u hrani. Kako povećati doseg emisije.</description>
@@ -94,14 +109,6 @@ VIDEO - https://www.youtube.com/watch?v=l4MyJKWMYBQ
 VIDEO - https://www.youtube.com/watch?v=H2bIH32yHbc</description>
     <pubDate>Tue, 21 Feb 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/34/ca/20230221-explora-7922584-20230222072522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>EXPLORA 2023-02-14</title>
-    <link>https://api.hrt.hr/media/f5/48/20230214-explora-7920078-20230214171511.mp3</link>
-    <description>Meteoroid eksplodirao 40 km iznad Francuske, Korado ga je prije toga iz Višnjana pratio pet i pol sati. Uništavanje svakojakih balona na nebu Sjeverne Amerike. Potres u Turskoj i teorije zavjere. Zagonetna zemlja Tartarija.</description>
-    <pubDate>Tue, 14 Feb 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f5/48/20230214-explora-7920078-20230214171511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
