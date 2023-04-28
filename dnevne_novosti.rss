@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 27 Apr 2023 17:02:47 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 14:05:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.04. 2023-04-28</title>
+    <link>https://api.hrt.hr/media/15/84/20230428-dnevne-novosti-34079380-20230428134036.mp3</link>
+    <description>U javnosti objavljene šokantne snimke iz mrtvačnice zagrebačke bolnice Sveti Duh. Sve je više sindikalnih zahtjeva za povećanje plaća. Jutros u Ukrajini poginulo 18 ljudi u raketnim napadima na mnoge gradove. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 28 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/15/84/20230428-dnevne-novosti-34079380-20230428134036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.04. 2023-04-27</title>
     <link>https://api.hrt.hr/media/38/ad/20230427-dnevne-novosti-34075644-20230427133507.mp3</link>
     <description>Vlada u ovoj godini predviđa rast BDP-a od 2,2 posto i usporavanje inflacije na 6,6 posto. Povećane plaće liječnicima, medicinskim sestrama i tehničarima te nezdravstvenim djelatnicima. Istražili smo - koja je pozadina odluke o hitnoj prodaji Fortenova grupe. U posjetu Hrvatskoj albanski predsjednik Bajram Begaj. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Rijeci sastanak ministara vanjskih poslova Hrvatske, Austrije i Slovenije. Obišli su LNG terminal u Omišlju, energetika je i glavna tema razgovora. Vlada odbacila tvrdnje tjednika Nacionala da je smijenila ili utjecala na razrješenje šefice USKOK-a Vanje Marušić. 80-godišnji američki predsjednik Joe Biden objavio da će se kandidirati za novi mandat. Na splitskoj rivi sprema se doček juniorima Hajduka, viceprvacima Lige prvaka. Urednik: Silvio Šop</description>
     <pubDate>Tue, 25 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c1/d0/20230425-dnevne-novosti-34068008-20230425133551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.04. 2023-04-24</title>
-    <link>https://api.hrt.hr/media/06/63/20230424-dnevne-novosti-34064332-20230424134020.mp3</link>
-    <description>Vladi stiže sve više zahtjeva za veće plaće. Ruski napadi na istoku Ukrajine se pojačavaju, potvrdio glavni stožer ukrajinske vojske. Juniori Hajduka večeras u Ženevi igraju finale Lige prvaka mladih. Stiglo deset tisuća Hajdukovih navijača. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 24 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/06/63/20230424-dnevne-novosti-34064332-20230424134020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
