@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Apr 2023 05:34:11 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 06:07:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 29.04. 2023-04-29</title>
+    <link>https://api.hrt.hr/media/bb/62/20230429-jutarnja-kronika-34080937-20230429054046.mp3</link>
+    <description>Monsinjor Dražen Kutleša preuzima službu zagrebačkog nadbiskupa. Zbog snimke umrlih pacijenata poredanih na podu bolnice Sveti Duh uprava bolnice podnijela kaznenu prijavu. Ukrajina objavila da završava pripreme za veliku kopnenu ofenzivu. Dodijeljene nagrade Porin. Albumom godine proglašen "Dovoljno je reći Aki", a pjesmom godine "Trebaš li me". Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 29 Apr 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/62/20230429-jutarnja-kronika-34080937-20230429054046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.04. 2023-04-28</title>
     <link>https://api.hrt.hr/media/5e/87/20230428-jutarnja-kronika-34077210-20230428053039.mp3</link>
     <description>Vlada u ovoj godini predviđa rast BDP-a od 2,2 posto i usporavanje inflacije.Nova intervencija Kristijana Šmita kojom omogućuje sastavljanje vlade Federacije BiH.Prvi intervju novog zagrebačkog nadbiskupa KUtleše , govorio o svojem stajalištu prema Međugorju i hoće li se zauzeti za bržu kanonizaciju kardinala Stepinca. Urednik: Mislav Togonal.</description>
@@ -32,14 +40,6 @@
 Radna skupina Ministarstva pravosuđa odlučuje o zahtjevu sudaca za 20-postotnim povećanjem osnovice plaća te povećanju koeficijenata. Urednica: Marija Gerbec Njavro.</description>
     <pubDate>Wed, 26 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/19/89/20230426-jutarnja-kronika-34069495-20230426055052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.04. 2023-04-25</title>
-    <link>https://api.hrt.hr/media/20/6f/20230425-jutarnja-kronika-34066142-20230425075058.mp3</link>
-    <description>Sve je vjerojatniji takozvani "bijeli štrajk" sudaca zbog plaća. Od ponoći u Sudanu na snazi trodnevno primirje. Kasno poslije podne doček Hajdukovih juniora na splitskoj Rivi. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 25 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/20/6f/20230425-jutarnja-kronika-34066142-20230425075058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
