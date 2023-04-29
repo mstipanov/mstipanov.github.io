@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Apr 2023 21:09:04 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 21:39:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.04. 2023-04-29</title>
+    <link>https://api.hrt.hr/media/82/86/20230429-kronika-dana-34082837-20230429211547.mp3</link>
+    <description>Dražen Kutleša preuzeo na Kaptolu službu zagrebačkog nadbiskupa. Policija istražuje slučaj u bolnici Sv. Duh, kaznenu prijavu protiv nepoznatog počinitelja podnijela bolnica. Plaćenička skupina Wagner traži od Moskve više oružja, inače prijeti povlačenjem iz Bahmuta. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 29 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/82/86/20230429-kronika-dana-34082837-20230429211547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.04. 2023-04-28</title>
     <link>https://api.hrt.hr/media/fc/32/20230428-kronika-dana-34080382-20230428204040.mp3</link>
     <description>Šokantne snimke iz mrtvačnice zagrebačke bolnice Sveti Duh, tijela umrlih pacijenata na podu.	Petrokemija i službeno ima novog vlasnika - tursku kompaniju Yildirim, proizvodnja bi trebala početi za dva do tri mjeseca.Masovni ruski napadi na Ukrajinu, samo u gradu Umanu, u kojemu je pogođena stambena zgrada, 25-ero ljudi poginulo. Urednica: Mira Barić</description>
