@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Apr 2023 20:41:50 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 21:11:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.04. 2023-04-30</title>
+    <link>https://api.hrt.hr/media/61/8d/20230430-kronika-dana-34085082-20230430204025.mp3</link>
+    <description>Na skupštini Srpskog narodnog vijeća u Zagrebu sudjelovali srbijanska premijerka Ana Brnabić i premijer Andrej Plenković. Gradska ljekarna Zagreb povukla testove za COVID koji su pod istragom zbog sumnje na krivotvorenje. Dinamo remijem na Poljudu osigurao naslov prvaka Hrvatske. Urednica Sanja Rabuzin.</description>
+    <pubDate>Sun, 30 Apr 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/8d/20230430-kronika-dana-34085082-20230430204025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.04. 2023-04-29</title>
     <link>https://api.hrt.hr/media/82/86/20230429-kronika-dana-34082837-20230429211547.mp3</link>
     <description>Dražen Kutleša preuzeo na Kaptolu službu zagrebačkog nadbiskupa. Policija istražuje slučaj u bolnici Sv. Duh, kaznenu prijavu protiv nepoznatog počinitelja podnijela bolnica. Plaćenička skupina Wagner traži od Moskve više oružja, inače prijeti povlačenjem iz Bahmuta. Urednica: Sanja Cota</description>
