@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Apr 2023 14:08:16 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 14:11:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.04. 2023-04-30</title>
+    <link>https://api.hrt.hr/media/63/b8/20230430-dnevne-novosti-34084316-20230430134028.mp3</link>
+    <description>Premijerka Srbije Ana Brnabić u Zagrebu na skupštini Srpskog narodnog vijeća. U Banskim dvorima razgovarala s premijerom Plenkovićem.Zagrebačke ljekarne zaustavile prodaju kovid-testova koje je nabavljala tvrtka 24-godišnjeg Filipa Mihalića iz Varaždina.Ukrajinski predsjednik Zelenski najavio da će protuofenziva početi prije dolaska zapadnih bojnih zrakoplova.Na rasprodanom Poljudu derbi Hajduk - Dinamo. Urednica Mira Barić</description>
+    <pubDate>Sun, 30 Apr 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/63/b8/20230430-dnevne-novosti-34084316-20230430134028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.04. 2023-04-29</title>
     <link>https://api.hrt.hr/media/21/49/20230429-dnevne-novosti-34082068-20230429134054.mp3</link>
     <description>Svečanim liturgijskim slavljem - službu zagrebačkog nadbiskupa preuzeo je monsinjor Dražen Kutleša. Ne prestaju rekacije na snimke tijela umrlih pacijenata - na podu mrtvačnice zagrebačke bolnice Sveti Duh. Ministar Banožić kaže da čeka odgovor APN- a, a zatim će odlučiti hoće li prihvatiti subvencionirani kredit, te da svatko ima drukčije kriterije za moralnost.Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Vlada u ovoj godini predviđa rast BDP-a od 2,2 posto i usporavanje inflacije na 6,6 posto. Povećane plaće liječnicima, medicinskim sestrama i tehničarima te nezdravstvenim djelatnicima. Istražili smo - koja je pozadina odluke o hitnoj prodaji Fortenova grupe. U posjetu Hrvatskoj albanski predsjednik Bajram Begaj. Urednik: Silvio Šop</description>
     <pubDate>Thu, 27 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/ad/20230427-dnevne-novosti-34075644-20230427133507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.04. 2023-04-26</title>
-    <link>https://api.hrt.hr/media/f6/af/20230426-dnevne-novosti-34071736-20230426134053.mp3</link>
-    <description>Ministru obrane Banožiću odobren APN-ov kredit, oporbeni političari smatraju da je to moralno neprihvatljivo. Guverner HNB-a Boris Vujčić u Saboru ustvrdio da neće biti recesije, dio zastupnika tvrdi da je HNB katastrofalno upravljao monetarnim sustavom. Ukrajinske snage zauzimaju položaje na istočnoj obali Dnjepra. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 26 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/af/20230426-dnevne-novosti-34071736-20230426134053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
