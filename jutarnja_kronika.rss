@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Apr 2023 06:10:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 06:12:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vlada u ovoj godini predviđa rast BDP-a od 2,2 posto i usporavanje inflacije.Nova intervencija Kristijana Šmita kojom omogućuje sastavljanje vlade Federacije BiH.Prvi intervju novog zagrebačkog nadbiskupa KUtleše , govorio o svojem stajalištu prema Međugorju i hoće li se zauzeti za bržu kanonizaciju kardinala Stepinca. Urednik: Mislav Togonal.</description>
     <pubDate>Fri, 28 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5e/87/20230428-jutarnja-kronika-34077210-20230428053039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.04. 2023-04-27</title>
-    <link>https://api.hrt.hr/media/55/f9/20230427-jutarnja-kronika-34073270-20230427060050.mp3</link>
-    <description>Prodaje se Fortenova grupa, koliko je zanimanje za kupnju znat će se za šest tjedana. Ne prestaju reakcije na vijest da je ministru obrane Mariju Banožiću odobren subvencionirani kredit preko APN-a. Nakon trogodišnje stanke sinoć svečano otvoren Sajam knjiga u Leipzigu. :Mira Barić</description>
-    <pubDate>Thu, 27 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/55/f9/20230427-jutarnja-kronika-34073270-20230427060050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
