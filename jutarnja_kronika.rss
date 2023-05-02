@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 May 2023 06:12:54 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:45:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.05. 2023-05-02</title>
+    <link>https://api.hrt.hr/media/0f/88/20230502-jutarnja-kronika-34088209-20230502053531.mp3</link>
+    <description>Premijer Plenković najavio: od 1. siječnja svima dižemo plaće! U Borovu Selu prije 32 godine pokolj 12 hrvatskih redarstvenika. A prije 28 godina pobunjeni Srbi "zvončićima" zasuli Zagreb. Zbog mirovinske reforme, u Francuskoj snažni sukobi prosvjednika i policije - uhićeno 300 ljudi, 100-tinjak policajaca ozlijeđeno. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 02 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/88/20230502-jutarnja-kronika-34088209-20230502053531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.04. 2023-04-30</title>
     <link>https://api.hrt.hr/media/6a/4e/20230430-jutarnja-kronika-34083311-20230430053528.mp3</link>
     <description>Premijerka Srbije Ana Brnabić stiže u Zagreb na veliku skupštinu Srpskog narodnog vijeća. Sastat će se i s premijerom Plenkovićem. Zaštitar noćnog kluba osumnjičen za ubojstvo Tomislava Sablje zbog prijetnji je premješten iz Remetinca. Papa Franjo svečanim euharistijskim slavljem završava trodnevni posjet Mađarskoj. Nacionalni je dan hitne medicinske službe. To je sustav s više od 4 tisuće djelatnika, koji na godinu imaju do milijun i pol intervencija. Urednica: Marija Gerbec Njavro</description>
@@ -23,14 +31,6 @@
     <description>Monsinjor Dražen Kutleša preuzima službu zagrebačkog nadbiskupa. Zbog snimke umrlih pacijenata poredanih na podu bolnice Sveti Duh uprava bolnice podnijela kaznenu prijavu. Ukrajina objavila da završava pripreme za veliku kopnenu ofenzivu. Dodijeljene nagrade Porin. Albumom godine proglašen "Dovoljno je reći Aki", a pjesmom godine "Trebaš li me". Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 29 Apr 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bb/62/20230429-jutarnja-kronika-34080937-20230429054046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.04. 2023-04-28</title>
-    <link>https://api.hrt.hr/media/5e/87/20230428-jutarnja-kronika-34077210-20230428053039.mp3</link>
-    <description>Vlada u ovoj godini predviđa rast BDP-a od 2,2 posto i usporavanje inflacije.Nova intervencija Kristijana Šmita kojom omogućuje sastavljanje vlade Federacije BiH.Prvi intervju novog zagrebačkog nadbiskupa KUtleše , govorio o svojem stajalištu prema Međugorju i hoće li se zauzeti za bržu kanonizaciju kardinala Stepinca. Urednik: Mislav Togonal.</description>
-    <pubDate>Fri, 28 Apr 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5e/87/20230428-jutarnja-kronika-34077210-20230428053039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
