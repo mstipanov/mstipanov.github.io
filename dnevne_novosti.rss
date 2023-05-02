@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 May 2023 14:13:45 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 13:46:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.05. 2023-05-02</title>
+    <link>https://api.hrt.hr/media/d2/2e/20230502-dnevne-novosti-34090154-20230502134040.mp3</link>
+    <description>S Muzeja za umjetnost i obrt u središtu Zagreba pala skela, srećom nema ozlijeđenih. Inflacija u travnju 8,8 posto. 32. je obljetnica masakra u Borovu Selu, kada su pobunjeni Srbi ubili dvanaestoricu policajaca. Godišnjica je i raketiranja Zagreba. Umro slavni košarkaš Damir Šolman. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 02 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d2/2e/20230502-dnevne-novosti-34090154-20230502134040.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.05. 2023-05-01</title>
     <link>https://api.hrt.hr/media/50/6d/20230501-dnevne-novosti-34086917-20230501134031.mp3</link>
     <description>Međunarodni je praznik rada - simbol borbe za bolji položaj radnika. U našoj zemlji nije bilo sindikalnih prosvjednih povorki. Ipak, sindikati uputili oštre poruke poslodavcima i Vladi. U Okučanima obilježena 28-ma obljetnica vojno-redarstvene akcije Bljesak kojom je oslobođena zapadna Slavonija. Papa Franjo uključen u tajnu misiju za završetak rata u Ukrajini. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Svečanim liturgijskim slavljem - službu zagrebačkog nadbiskupa preuzeo je monsinjor Dražen Kutleša. Ne prestaju rekacije na snimke tijela umrlih pacijenata - na podu mrtvačnice zagrebačke bolnice Sveti Duh. Ministar Banožić kaže da čeka odgovor APN- a, a zatim će odlučiti hoće li prihvatiti subvencionirani kredit, te da svatko ima drukčije kriterije za moralnost.Urednica Mira Barić</description>
     <pubDate>Sat, 29 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/49/20230429-dnevne-novosti-34082068-20230429134054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.04. 2023-04-28</title>
-    <link>https://api.hrt.hr/media/15/84/20230428-dnevne-novosti-34079380-20230428134036.mp3</link>
-    <description>U javnosti objavljene šokantne snimke iz mrtvačnice zagrebačke bolnice Sveti Duh. Sve je više sindikalnih zahtjeva za povećanje plaća. Jutros u Ukrajini poginulo 18 ljudi u raketnim napadima na mnoge gradove. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 28 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/15/84/20230428-dnevne-novosti-34079380-20230428134036.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
