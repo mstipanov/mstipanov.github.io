@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 May 2023 20:44:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 20:47:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.05. 2023-05-02</title>
+    <link>https://api.hrt.hr/media/30/a4/20230502-kronika-dana-34090996-20230502204531.mp3</link>
+    <description>U središtu Zagreba urušila se skela i dio zgrade Muzeja za umjetnost i obrt. Srećom, nema ozlijeđenih, oštećeni automobili.
+Inflacija u travnju 8,8 posto - usporila peti mjesec zaredom. Vlada najavljuje porezno rasterećenje i rast neto plaća. Obilježene 32-ga godišnjica ubojstva dvanaest policajaca u Borovu Selu i 28-ma godišnjica raketiranja Zagreba. Urednica: Sanja Rabuzin.</description>
+    <pubDate>Tue, 02 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/30/a4/20230502-kronika-dana-34090996-20230502204531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.05. 2023-05-01</title>
     <link>https://api.hrt.hr/media/d4/13/20230501-kronika-dana-34087664-20230501203558.mp3</link>
     <description>Prije 28 godina vojno-redarstvenom operacijom Bljesak oslobođena zapadna Slavonija. Međunarodni praznik rada Hrvatska proslavila bez sindikalnih prosvjednih povorki. Zbog mirovinske reforme, u Francuskoj žestoki sukobi prosvjednika i policije. Urednica: Sanja Cota</description>
@@ -31,14 +40,6 @@
     <description>Dražen Kutleša preuzeo na Kaptolu službu zagrebačkog nadbiskupa. Policija istražuje slučaj u bolnici Sv. Duh, kaznenu prijavu protiv nepoznatog počinitelja podnijela bolnica. Plaćenička skupina Wagner traži od Moskve više oružja, inače prijeti povlačenjem iz Bahmuta. Urednica: Sanja Cota</description>
     <pubDate>Sat, 29 Apr 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/86/20230429-kronika-dana-34082837-20230429211547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.04. 2023-04-28</title>
-    <link>https://api.hrt.hr/media/fc/32/20230428-kronika-dana-34080382-20230428204040.mp3</link>
-    <description>Šokantne snimke iz mrtvačnice zagrebačke bolnice Sveti Duh, tijela umrlih pacijenata na podu.	Petrokemija i službeno ima novog vlasnika - tursku kompaniju Yildirim, proizvodnja bi trebala početi za dva do tri mjeseca.Masovni ruski napadi na Ukrajinu, samo u gradu Umanu, u kojemu je pogođena stambena zgrada, 25-ero ljudi poginulo. Urednica: Mira Barić</description>
-    <pubDate>Fri, 28 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fc/32/20230428-kronika-dana-34080382-20230428204040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
