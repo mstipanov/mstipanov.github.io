@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 27 Apr 2023 17:02:48 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 16:16:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 02.05.2023. 2023-05-02</title>
+    <link>https://api.hrt.hr/media/01/49/20230502-explora-7944959-20230502160531.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 02 May 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/01/49/20230502-explora-7944959-20230502160531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 25.04.2023. 2023-04-25</title>
     <link>https://api.hrt.hr/media/84/3d/20230425-explora-7943077-20230425160551.mp3</link>
     <description>Space X – skoro totalka.  Unutrašnjost crne rupe. Kako se širi Svemir. Umjetna inteligencija, pedagogija, kraj demokracije ili uništenje civilizacije? Umjesto ruskog plina vjetroturbine na moru. U SAD – poticaji za fuziju bolji nego oni za fisiju. Dentalna medicina - presaditi ili posaditi zube?
@@ -100,15 +108,6 @@ VIDEO - https://www.youtube.com/watch?v=l4MyJKWMYBQ
 </description>
     <pubDate>Tue, 28 Feb 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/95/3b/20230228-explora-7924870-20230228180017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 21.02.2023. 2023-02-21</title>
-    <link>https://api.hrt.hr/media/34/ca/20230221-explora-7922584-20230222072522.mp3</link>
-    <description>Utrka u gradnji super računala i umjetne inteligencije. Nizozemski proizvođač čipova optužio kineskog zaposlenika za krađu dokumenata. Čemu služi kartica vjernosti u trgovačkim lancima i supermarketima? Strani radnici u turizmu i graditeljstvu, a STEM? USAF oborili balon radio amatera. Posađena plantaža GMO stabala. Proizvodnja solarnih ćelija iz umjetnog regolita. Kako se riješiti krtica? Bolid viđen u Splitu pao Talijanu na terasu. Crne rupe pretvaraju tamnu tvar u tamnu energiju.
-VIDEO - https://www.youtube.com/watch?v=H2bIH32yHbc</description>
-    <pubDate>Tue, 21 Feb 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/ca/20230221-explora-7922584-20230222072522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
