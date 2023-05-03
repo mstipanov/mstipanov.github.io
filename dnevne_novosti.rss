@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 May 2023 13:46:32 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 13:49:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.05. 2023-05-03</title>
+    <link>https://api.hrt.hr/media/4c/cb/20230503-dnevne-novosti-34093695-20230503133549.mp3</link>
+    <description>Masovno ubojstvo u školi u Beogradu - učenik 7. razreda ubio osmero svojih kolega i zaštitara te još nekoliko ranio. Pokolj je planirao mjesec dana. Zasad bezuspješna potraga za dvojicom nestalih ribara u Istri. Počeli prosvjedi medicinskih sestara i tehničara, traže veće plaće. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 03 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4c/cb/20230503-dnevne-novosti-34093695-20230503133549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.05. 2023-05-02</title>
     <link>https://api.hrt.hr/media/d2/2e/20230502-dnevne-novosti-34090154-20230502134040.mp3</link>
     <description>S Muzeja za umjetnost i obrt u središtu Zagreba pala skela, srećom nema ozlijeđenih. Inflacija u travnju 8,8 posto. 32. je obljetnica masakra u Borovu Selu, kada su pobunjeni Srbi ubili dvanaestoricu policajaca. Godišnjica je i raketiranja Zagreba. Umro slavni košarkaš Damir Šolman. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Premijerka Srbije Ana Brnabić u Zagrebu na skupštini Srpskog narodnog vijeća. U Banskim dvorima razgovarala s premijerom Plenkovićem.Zagrebačke ljekarne zaustavile prodaju kovid-testova koje je nabavljala tvrtka 24-godišnjeg Filipa Mihalića iz Varaždina.Ukrajinski predsjednik Zelenski najavio da će protuofenziva početi prije dolaska zapadnih bojnih zrakoplova.Na rasprodanom Poljudu derbi Hajduk - Dinamo. Urednica Mira Barić</description>
     <pubDate>Sun, 30 Apr 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/63/b8/20230430-dnevne-novosti-34084316-20230430134028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.04. 2023-04-29</title>
-    <link>https://api.hrt.hr/media/21/49/20230429-dnevne-novosti-34082068-20230429134054.mp3</link>
-    <description>Svečanim liturgijskim slavljem - službu zagrebačkog nadbiskupa preuzeo je monsinjor Dražen Kutleša. Ne prestaju rekacije na snimke tijela umrlih pacijenata - na podu mrtvačnice zagrebačke bolnice Sveti Duh. Ministar Banožić kaže da čeka odgovor APN- a, a zatim će odlučiti hoće li prihvatiti subvencionirani kredit, te da svatko ima drukčije kriterije za moralnost.Urednica Mira Barić</description>
-    <pubDate>Sat, 29 Apr 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/49/20230429-dnevne-novosti-34082068-20230429134054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
