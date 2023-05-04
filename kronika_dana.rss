@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 May 2023 20:50:10 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 20:53:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.05. 2023-05-04</title>
+    <link>https://api.hrt.hr/media/3c/e9/20230504-kronika-dana-34098518-20230504204552.mp3</link>
+    <description>Dan poslije strašnog zločina u Beogradu dvoje učenika i dalje kritično, tisuće svijeća gori pred školom za 9 žrtava. Večeras dronovima napadnut Kijev. Devet godina od početka suđenja, svi optuženici u aferi Â´bankomatÂ´ nepravomoćno oslobođeni. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 04 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/e9/20230504-kronika-dana-34098518-20230504204552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.05. 2023-05-03</title>
     <link>https://api.hrt.hr/media/e8/02/20230503-kronika-dana-34094777-20230503204052.mp3</link>
     <description>U 73. godini umro bivši premijer Nikica Valentić. Nezapamćen zločin u Beogradu - učenik 7. razreda u školi ubio osmero djece i zaštitara. Počeli mirni prosvjedi medicinskih sestara i tehničara. Od ponedjeljka suci u bijelom štrajku. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Inflacija u travnju 8,8 posto - usporila peti mjesec zaredom. Vlada najavljuje p
     <description>Prije 28 godina vojno-redarstvenom operacijom Bljesak oslobođena zapadna Slavonija. Međunarodni praznik rada Hrvatska proslavila bez sindikalnih prosvjednih povorki. Zbog mirovinske reforme, u Francuskoj žestoki sukobi prosvjednika i policije. Urednica: Sanja Cota</description>
     <pubDate>Mon, 01 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d4/13/20230501-kronika-dana-34087664-20230501203558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.04. 2023-04-30</title>
-    <link>https://api.hrt.hr/media/61/8d/20230430-kronika-dana-34085082-20230430204025.mp3</link>
-    <description>Na skupštini Srpskog narodnog vijeća u Zagrebu sudjelovali srbijanska premijerka Ana Brnabić i premijer Andrej Plenković. Gradska ljekarna Zagreb povukla testove za COVID koji su pod istragom zbog sumnje na krivotvorenje. Dinamo remijem na Poljudu osigurao naslov prvaka Hrvatske. Urednica Sanja Rabuzin.</description>
-    <pubDate>Sun, 30 Apr 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/61/8d/20230430-kronika-dana-34085082-20230430204025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
