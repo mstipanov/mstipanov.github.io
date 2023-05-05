@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 May 2023 20:53:04 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 20:56:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.05. 2023-05-05</title>
+    <link>https://api.hrt.hr/media/77/b4/20230505-kronika-dana-34102276-20230505204053.mp3</link>
+    <description>Još jedan pokolj u Srbiji, 21-godišnji mladić nedaleko od Beograda ubio osmero ljudi, ranio 14-ero. Svjetska zdravstvena organizacija objavila: COVID-19 više nije izvanredna globalna opasnost! Epidemiolog Capak objasnio što se tom odlukom mijenja za Hrvatsku. U Londonu sve spremno za sutrašnju krunidbu kralja Charlesa Trećeg. Urednica Mira Barić</description>
+    <pubDate>Fri, 05 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/77/b4/20230505-kronika-dana-34102276-20230505204053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.05. 2023-05-04</title>
     <link>https://api.hrt.hr/media/3c/e9/20230504-kronika-dana-34098518-20230504204552.mp3</link>
     <description>Dan poslije strašnog zločina u Beogradu dvoje učenika i dalje kritično, tisuće svijeća gori pred školom za 9 žrtava. Večeras dronovima napadnut Kijev. Devet godina od početka suđenja, svi optuženici u aferi Â´bankomatÂ´ nepravomoćno oslobođeni. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Inflacija u travnju 8,8 posto - usporila peti mjesec zaredom. Vlada najavljuje porezno rasterećenje i rast neto plaća. Obilježene 32-ga godišnjica ubojstva dvanaest policajaca u Borovu Selu i 28-ma godišnjica raketiranja Zagreba. Urednica: Sanja Rabuzin.</description>
     <pubDate>Tue, 02 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/30/a4/20230502-kronika-dana-34090996-20230502204531.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.05. 2023-05-01</title>
-    <link>https://api.hrt.hr/media/d4/13/20230501-kronika-dana-34087664-20230501203558.mp3</link>
-    <description>Prije 28 godina vojno-redarstvenom operacijom Bljesak oslobođena zapadna Slavonija. Međunarodni praznik rada Hrvatska proslavila bez sindikalnih prosvjednih povorki. Zbog mirovinske reforme, u Francuskoj žestoki sukobi prosvjednika i policije. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 01 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d4/13/20230501-kronika-dana-34087664-20230501203558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
