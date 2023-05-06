@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 05 May 2023 20:56:03 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 21:00:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.05. 2023-05-06</title>
+    <link>https://api.hrt.hr/media/a3/7c/20230506-kronika-dana-34104480-20230506205012.mp3</link>
+    <description>U Londonu okrunjeni Charles III i njegova supruga Camilla. Masovni ubojica iz Mladenovca priznao krivnju. Sljedeći se tjedan očekuje i službeno proglašenje kraja epidemije koronavirusa. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 06 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a3/7c/20230506-kronika-dana-34104480-20230506205012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.05. 2023-05-05</title>
     <link>https://api.hrt.hr/media/77/b4/20230505-kronika-dana-34102276-20230505204053.mp3</link>
     <description>Još jedan pokolj u Srbiji, 21-godišnji mladić nedaleko od Beograda ubio osmero ljudi, ranio 14-ero. Svjetska zdravstvena organizacija objavila: COVID-19 više nije izvanredna globalna opasnost! Epidemiolog Capak objasnio što se tom odlukom mijenja za Hrvatsku. U Londonu sve spremno za sutrašnju krunidbu kralja Charlesa Trećeg. Urednica Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>U 73. godini umro bivši premijer Nikica Valentić. Nezapamćen zločin u Beogradu - učenik 7. razreda u školi ubio osmero djece i zaštitara. Počeli mirni prosvjedi medicinskih sestara i tehničara. Od ponedjeljka suci u bijelom štrajku. Urednica: Sanja Cota</description>
     <pubDate>Wed, 03 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/02/20230503-kronika-dana-34094777-20230503204052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.05. 2023-05-02</title>
-    <link>https://api.hrt.hr/media/30/a4/20230502-kronika-dana-34090996-20230502204531.mp3</link>
-    <description>U središtu Zagreba urušila se skela i dio zgrade Muzeja za umjetnost i obrt. Srećom, nema ozlijeđenih, oštećeni automobili.
-Inflacija u travnju 8,8 posto - usporila peti mjesec zaredom. Vlada najavljuje porezno rasterećenje i rast neto plaća. Obilježene 32-ga godišnjica ubojstva dvanaest policajaca u Borovu Selu i 28-ma godišnjica raketiranja Zagreba. Urednica: Sanja Rabuzin.</description>
-    <pubDate>Tue, 02 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/30/a4/20230502-kronika-dana-34090996-20230502204531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
