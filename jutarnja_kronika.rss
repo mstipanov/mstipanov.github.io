@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 05 May 2023 05:54:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 05:57:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.05. 2023-05-06</title>
+    <link>https://api.hrt.hr/media/ca/33/20230506-jutarnja-kronika-34102797-20230506053053.mp3</link>
+    <description>U Londonu će biti okrunjen kralj Charles III. Za britansku policiju to je jedna od najzahtjevnijih operacija u povijesti. Ocu dječaka koji je u školi u Beogradu ubio osmero djece i zaštitara određen jednomjesečni pritvor. U Istri se nastavlja potraga za dvojicom ribara. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 06 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/33/20230506-jutarnja-kronika-34102797-20230506053053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.05. 2023-05-05</title>
     <link>https://api.hrt.hr/media/e2/1f/20230505-jutarnja-kronika-34099123-20230505053058.mp3</link>
     <description>Novi pokolj u Srbiji. Osam je osoba ubijeno, a najmanje 13 ranjeno u sinoćnjoj pucnjavi kod Mladenovca. Policija još traga za ubojicom. Sinoć dronovima napadnut Kijev. Devet godina nakon početka suđenja, svi optuženici u aferi "Bankomat" nepravomoćno oslobođeni. Pula slavi svoj dan. Tim povodom bit će otvoreno Malo rimsko kazalište. Nakon 33 godine Napoli prvak Italije. Na zagrebačkom Jarunu počinje Svjetski veslački kup. Urednik Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Zbog niskih plaća i loših uvjeta rada ispred bolnica počinju prosvjedi medicinskih sestara i tehničara. Suci odlučuju kreću li u bijeli štrajk. U Zadru velika međunarodna izložba vojne opreme i oružja. Svjetski je dan slobode medija - u Hrvatskoj će biti obilježen gromoglasnom tišinom 5 minuta do 12. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 03 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8a/08/20230503-jutarnja-kronika-34091541-20230503053549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.05. 2023-05-02</title>
-    <link>https://api.hrt.hr/media/0f/88/20230502-jutarnja-kronika-34088209-20230502053531.mp3</link>
-    <description>Premijer Plenković najavio: od 1. siječnja svima dižemo plaće! U Borovu Selu prije 32 godine pokolj 12 hrvatskih redarstvenika. A prije 28 godina pobunjeni Srbi "zvončićima" zasuli Zagreb. Zbog mirovinske reforme, u Francuskoj snažni sukobi prosvjednika i policije - uhićeno 300 ljudi, 100-tinjak policajaca ozlijeđeno. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 02 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0f/88/20230502-jutarnja-kronika-34088209-20230502053531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
