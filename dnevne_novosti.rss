@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 06 May 2023 13:58:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 14:02:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.05. 2023-05-07</title>
+    <link>https://api.hrt.hr/media/a5/67/20230507-dnevne-novosti-34105837-20230507134048.mp3</link>
+    <description>Najmanje osmero ubijenih u trgovačkom centru u Teksasu. Napadača ubila policija. Pripadnici nacionalnih manjina biraju manjinska vijeća i predstavnike, do podneva slab odaziv. Split slavi Dan grada i blagdan svojega zaštitnika svetoga Dujma. Gost Dnevnih novosti bio gradonačelnik Ivica Puljak. Urednica: Mira Barić</description>
+    <pubDate>Sun, 07 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a5/67/20230507-dnevne-novosti-34105837-20230507134048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.05. 2023-05-06</title>
     <link>https://api.hrt.hr/media/4f/f4/20230506-dnevne-novosti-34103802-20230506135506.mp3</link>
     <description>Okrunjeni Charles III i njegova supruga Camilla u skladu s tisuću godina dugom tradicijom! Srbijanska policija u više gradova privela tinejdžere zbog ilegalnog posjedovanja oružja ili prijetnji nasiljem. Najvjerojatnije sljedeći tjedan u Hrvatskoj službeno proglašenje kraja epidemije koronavirusa. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>I treći dan potrage za dvojicom umaških ribara zasad bezuspješan. Dan poslije strašnog pokolja u Beogradu tisuće učenika i građana odaju počast ubijenima. Dvoje učenika i dalje kritično. Devet godina od početka suđenja, svi optuženici u aferi Â´bankomatÂ´ nepravomoćno oslobođeni optužbi. Rusija optužuje Washington da stoji iza napada na Kremlj. Urednica: Mira Barić</description>
     <pubDate>Thu, 04 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a7/bb/20230504-dnevne-novosti-34097432-20230504133552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.05. 2023-05-03</title>
-    <link>https://api.hrt.hr/media/4c/cb/20230503-dnevne-novosti-34093695-20230503133549.mp3</link>
-    <description>Masovno ubojstvo u školi u Beogradu - učenik 7. razreda ubio osmero svojih kolega i zaštitara te još nekoliko ranio. Pokolj je planirao mjesec dana. Zasad bezuspješna potraga za dvojicom nestalih ribara u Istri. Počeli prosvjedi medicinskih sestara i tehničara, traže veće plaće. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 03 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4c/cb/20230503-dnevne-novosti-34093695-20230503133549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
