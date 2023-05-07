@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 06 May 2023 21:00:14 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 21:02:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.05. 2023-05-07</title>
+    <link>https://api.hrt.hr/media/9b/e3/20230507-kronika-dana-34106461-20230507204048.mp3</link>
+    <description>Od sutra će škole u Srbiji, kao i trgovačke centre, čuvati policajci. Suci u Hrvatskoj prvi put u bijelom štrajku, dva tjedna bit će odgođena sva ročišta. Sutra u podne dražba za kupnju Uljanika. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 07 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9b/e3/20230507-kronika-dana-34106461-20230507204048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.05. 2023-05-06</title>
     <link>https://api.hrt.hr/media/a3/7c/20230506-kronika-dana-34104480-20230506205012.mp3</link>
     <description>U Londonu okrunjeni Charles III i njegova supruga Camilla. Masovni ubojica iz Mladenovca priznao krivnju. Sljedeći se tjedan očekuje i službeno proglašenje kraja epidemije koronavirusa. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Dan poslije strašnog zločina u Beogradu dvoje učenika i dalje kritično, tisuće svijeća gori pred školom za 9 žrtava. Večeras dronovima napadnut Kijev. Devet godina od početka suđenja, svi optuženici u aferi Â´bankomatÂ´ nepravomoćno oslobođeni. Urednica: Sanja Cota</description>
     <pubDate>Thu, 04 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3c/e9/20230504-kronika-dana-34098518-20230504204552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.05. 2023-05-03</title>
-    <link>https://api.hrt.hr/media/e8/02/20230503-kronika-dana-34094777-20230503204052.mp3</link>
-    <description>U 73. godini umro bivši premijer Nikica Valentić. Nezapamćen zločin u Beogradu - učenik 7. razreda u školi ubio osmero djece i zaštitara. Počeli mirni prosvjedi medicinskih sestara i tehničara. Od ponedjeljka suci u bijelom štrajku. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 03 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/02/20230503-kronika-dana-34094777-20230503204052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
