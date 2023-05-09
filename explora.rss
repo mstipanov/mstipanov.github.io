@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 May 2023 16:46:59 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 16:38:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 09.05.2023. 2023-05-09</title>
+    <link>https://api.hrt.hr/media/dc/7e/20230509-explora-7947518-20230509163031.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 09 May 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/7e/20230509-explora-7947518-20230509163031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 02.05.2023. 2023-05-02</title>
     <link>https://api.hrt.hr/media/01/49/20230502-explora-7944959-20230502160531.mp3</link>
     <description>Umjetna inteligencija i otpuštanje radnika u auto-industriji. Oleato je propao, ali dolazi sladoled s kanabisom. Logopedi imaju sve više posla. Ekolozi tužili SpaceX Starship zbog zagađivanja i uništavanja prirode. Japanski lander Hakuto-R nije uspio sletjeti na Mjesec. Al Amal – NADA – UAR sonda oko Marsa. Švedska raketa pala u Norvešku. Kako odvratiti mrave od napada na kućanstvo. Pacifički otok smeća sve veći, i mi imamo svoje male.
@@ -104,16 +112,6 @@ Hiperspekrtralna kamuflaža zamjenjuje privid fraktalne plohe.
 </description>
     <pubDate>Tue, 07 Mar 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/06/20230307-explora-7927352-20230307172534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 28.02.2023. 2023-02-28</title>
-    <link>https://api.hrt.hr/media/95/3b/20230228-explora-7924870-20230228180017.mp3</link>
-    <description>Topla voda iz bojlera. Zašto za Darwinovu teoriju evolucije i Einsteinovu teoriju relativnosti kažemo da su teorije a ne zakoni? Električne jegulje i strujni udar. Električna vozila u SAD-u mogla bi se ove godine po cijeni izjednačiti s automobilima na plin. Snježna mećava u Lici -  što bi se dogodilo s električnim automobilima. Plagiranje glasova i umjetna inteligencija. Dužnosnici EU zabranjuju Tik Tok s telefona zaposlenika. Kina podupire stvaranje AI nalik Chat GPT-u, ali sugerira da se Chat GPT ne koristi u Kini. Kombucha kulture mogu se pretvoriti u fleksibilne električne ploče. Roboti u kućanstvu – usisivači, perilice i sve ostalo. Starbucks nudi malo maslinovog ulja u svojoj kavi u Italiji. Što je s Rusima u svemiru?
-VIDEO - https://www.youtube.com/watch?v=l4MyJKWMYBQ
-</description>
-    <pubDate>Tue, 28 Feb 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/3b/20230228-explora-7924870-20230228180017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
