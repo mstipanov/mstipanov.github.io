@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 08 May 2023 14:05:03 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 13:37:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.05. 2023-05-09</title>
+    <link>https://api.hrt.hr/media/f6/41/20230509-dnevne-novosti-34112417-20230509133530.mp3</link>
+    <description>Glavna državna odvjetnica Zlata Hrvoj Šipek na saborskom Odboru za pravosuđe ustvrdila da nema pritisaka vladajućih na Državno odvjetništvo, oporba joj nije povjerovala. Medicinske sestre, tehničari i nezdravstveni radnici preksutra će održati veliki prosvjed na zagrebačkom Zrinjevcu. Dan je pobjede nad fašizmom u Drugome svjetskom ratu, ujedno i Dan Europe. U Liverpoolu prva večer Eurosonga, naš Let 3 će pjesmom "Mama ŠČ" pokušati izboriti ulazak u subotnju završnicu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 09 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f6/41/20230509-dnevne-novosti-34112417-20230509133530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.05. 2023-05-08</title>
     <link>https://api.hrt.hr/media/88/4b/20230508-dnevne-novosti-34109061-20230508134023.mp3</link>
     <description>Suci u Hrvatskoj prvi put u bijelom štrajku, odziv i veći od očekivanih 70 posto. Od sutra pojeftinjuje benzin i dizel za osam centi po litri. U Beogradu poslijepodne velik prosvjed protiv nasilja. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Okrunjeni Charles III i njegova supruga Camilla u skladu s tisuću godina dugom tradicijom! Srbijanska policija u više gradova privela tinejdžere zbog ilegalnog posjedovanja oružja ili prijetnji nasiljem. Najvjerojatnije sljedeći tjedan u Hrvatskoj službeno proglašenje kraja epidemije koronavirusa. Urednica: Mira Barić</description>
     <pubDate>Sat, 06 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4f/f4/20230506-dnevne-novosti-34103802-20230506135506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.05. 2023-05-05</title>
-    <link>https://api.hrt.hr/media/53/3e/20230505-dnevne-novosti-34101412-20230505134057.mp3</link>
-    <description>Srbiju šokiralo još jedno masovno ubojstvo. Mladić kod Mladenovca ubio osmero ljudi. Uhićen nakon osam sati bijega. Postignut dogovor Vlade i sindikata javnih i državnih službi o povećanju regresa. Ruski plaćenici Wagnera prijete da će za pet dana napusititi bojište u Bahmutu. Sve je spremno za krunidbu britanskog kralja Čarlsa trećeg. Zbog kvara na službenom zrakoplovu, predsjednik Milanović ne ide u London. Urednik Mario Krstanović</description>
-    <pubDate>Fri, 05 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/3e/20230505-dnevne-novosti-34101412-20230505134057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
