@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 May 2023 06:07:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:39:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.05. 2023-05-10</title>
+    <link>https://api.hrt.hr/media/55/ed/20230510-jutarnja-kronika-34113971-20230510053548.mp3</link>
+    <description>Nakon šest godina Hrvatska, zahvaljujući Letu 3 i pjesmi Mami ŠČ, u finalu Eurosonga! Medicinske sestre za sutra najavljuju velik prosvjed, nakon njega moguć je i štrajk. Glavna državna odvjetnica na saborskom Odboru za pravosuđe ustvrdila da radi bez političkih pritisaka, oporbu nije u to uvjerila. Na jučerašnji Dan Europe, Kijev je posjetila predsjednica Europske komisije Ursula von der Leyen i najavila nove sankcije Rusiji. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 10 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/55/ed/20230510-jutarnja-kronika-34113971-20230510053548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.05. 2023-05-09</title>
     <link>https://api.hrt.hr/media/10/2c/20230509-jutarnja-kronika-34110572-20230509053530.mp3</link>
     <description>Glavna državna odvjetnica Zlata Hrvoj Šipek dolazi u Sabor objasniti razloge ostavke šefice USKOK-a. Od ponoći gorivo jeftinije za 8 centi po litri. Danas je Dan Europe. Večeras od 21 sat u Liverpoolu nastup Leta 3 na Eurosongu. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U Londonu okrunjeni Čarls Treći i njegova supruga Kamila. Najmanje osmero poginulih u pucnjavi ispred trgovačkog centra u Dalasu. Masovni ubojica iz Mladenovca priznao krivnju. Splićani slave Dan grada i blagdan sveca zaštitnika svetoga Duje. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 07 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/13/20230507-jutarnja-kronika-34105044-20230507054047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.05. 2023-05-06</title>
-    <link>https://api.hrt.hr/media/ca/33/20230506-jutarnja-kronika-34102797-20230506053053.mp3</link>
-    <description>U Londonu će biti okrunjen kralj Charles III. Za britansku policiju to je jedna od najzahtjevnijih operacija u povijesti. Ocu dječaka koji je u školi u Beogradu ubio osmero djece i zaštitara određen jednomjesečni pritvor. U Istri se nastavlja potraga za dvojicom ribara. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 06 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/33/20230506-jutarnja-kronika-34102797-20230506053053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
