@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 May 2023 20:41:48 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 21:11:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.05. 2023-05-10</title>
+    <link>https://api.hrt.hr/media/2b/e7/20230510-kronika-dana-34117314-20230510204050.mp3</link>
+    <description>U Zagrebu sutra veliki prosvjed medicinskih sestara, tehničara i drugih zdravstvenih i nezdravstvenih djelatnika.U Istanbulu počeli pregovori o produljenju Sporazuma o izvozu žitarica iz crnomorskih luka.Interpol i policije Belgije, Njemačke i Nizozemske traže pomoć građana u rasvjetljavanju neriješenih ubojstava 22-iju žena.
+Urednica: Mira Barić</description>
+    <pubDate>Wed, 10 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2b/e7/20230510-kronika-dana-34117314-20230510204050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.05. 2023-05-09</title>
     <link>https://api.hrt.hr/media/17/33/20230509-kronika-dana-34113399-20230509203530.mp3</link>
     <description>Medicinske sestre za preksutra najavljuju velik prosvjed, a nakon toga moguć je i štrajk. Glavna državna odvjetnica tvrdi da radi bez političkih pritisaka, oporba na saborskom odboru predložila njezino razrješenje. Na Dan Europe snažna potpora Ukrajini, a u Moskvi na Dan pobjede Putinove optužbe Zapada. Urednica: Sanja Cota</description>
