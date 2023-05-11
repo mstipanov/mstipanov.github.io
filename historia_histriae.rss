@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 May 2023 21:23:12 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 16:44:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Glazba u vrijeme Austrougarske 2023-05-11</title>
+    <link>https://api.hrt.hr/media/29/0c/20230511-historia-histriae-7943074-20230511161521.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 11 May 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/29/0c/20230511-historia-histriae-7943074-20230511161521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Bratimljenje Pula - Sudan 2023-05-04</title>
     <link>https://api.hrt.hr/media/d4/cc/20230504-historia-histriae-7945750-20230504201055.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi naš povjesničar David Orlović, a nastavljamo ciklus priče o povijesti pulskih kvartova.....ovog puta na redu je, kako on kaže "nekad magični" Monte Zaro...</description>
     <pubDate>Thu, 09 Mar 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/bb/20230309-historia-histriae-7928025-20230309165542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>NINOSLAV MOGOROVIC 2023-03-02</title>
-    <link>https://api.hrt.hr/media/40/01/20230302-historia-histriae-7925624-20230302161038.mp3</link>
-    <description>Njegov je život film za holivudski scenarij....preživio je gulag, Jasenovac, bio je revolucionar, dizao ustanke, borio se protiv svih totalitarnih režima i ostavio neizbrisiv trag u europskoj povijesti....on je naš Istranin Ante Ciliga....o njegovom životu i djelu pričamo s našim gostom Ninoslavom Mogorovićem. </description>
-    <pubDate>Thu, 02 Mar 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/40/01/20230302-historia-histriae-7925624-20230302161038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
