@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 May 2023 05:39:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:42:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Suci u Hrvatskoj prvi put u bijelom štrajku, dva tjedna bit će odgođena sva ročišta. Pulski Uljanik u stečaju napokon bi trebao dobiti novog vlasnika. Fuchs preporučio da se u našim školama danas razgovara o tragičnom događaju u beogradskoj osnovnoj školi i njegovim posljedicama. U Srbiji škole i trgovačke centre danas čuva policija. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 08 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/bb/20230508-jutarnja-kronika-34106973-20230508053023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.05. 2023-05-07</title>
-    <link>https://api.hrt.hr/media/df/13/20230507-jutarnja-kronika-34105044-20230507054047.mp3</link>
-    <description>U Londonu okrunjeni Čarls Treći i njegova supruga Kamila. Najmanje osmero poginulih u pucnjavi ispred trgovačkog centra u Dalasu. Masovni ubojica iz Mladenovca priznao krivnju. Splićani slave Dan grada i blagdan sveca zaštitnika svetoga Duje. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 07 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/13/20230507-jutarnja-kronika-34105044-20230507054047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
