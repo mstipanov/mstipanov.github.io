@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 11 May 2023 20:44:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 20:49:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Medicinske sestre za preksutra najavljuju velik prosvjed, a nakon toga moguć je i štrajk. Glavna državna odvjetnica tvrdi da radi bez političkih pritisaka, oporba na saborskom odboru predložila njezino razrješenje. Na Dan Europe snažna potpora Ukrajini, a u Moskvi na Dan pobjede Putinove optužbe Zapada. Urednica: Sanja Cota</description>
     <pubDate>Tue, 09 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/17/33/20230509-kronika-dana-34113399-20230509203530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.05. 2023-05-08</title>
-    <link>https://api.hrt.hr/media/37/9b/20230508-kronika-dana-34110010-20230508204023.mp3</link>
-    <description>Suci u Hrvatskoj prvi put u takozvanome bijelom štrajku. Prvostupanjski predmeti odgođeni, hitni se rješavaju. U Beogradu i još nekoliko srbijanskih gradova nekoliko desetaka tisuća ljudi sudjelovalo na prosvjedu "Srbija protiv nasilja". Od ponoći litra i benzina i dizela jeftinija od nekadašnjih 10 kuna. U Zambiji održano ročište Hrvatima optuženima za pokušaj trgovanja djecom, postupak se nastavlja sljedeći tjedan. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 08 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/37/9b/20230508-kronika-dana-34110010-20230508204023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
