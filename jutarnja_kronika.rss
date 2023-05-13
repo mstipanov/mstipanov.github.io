@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 May 2023 05:47:55 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:50:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.05. 2023-05-13</title>
+    <link>https://api.hrt.hr/media/25/f0/20230513-jutarnja-kronika-34125040-20230513053521.mp3</link>
+    <description>U Čačincima zbrajaju štetu nakon jučerašnjeg snažnog nevremena. Ukrajinski predsjednik Zelenski stiže u Rim - trebao bi se sastati i s papom Franjom. Komemoracija i molitva za žrtve Bleiburga na Mirogoju i u Maclju. Finale Eurosonga: Let 3 nastupa predzadnji. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 13 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/f0/20230513-jutarnja-kronika-34125040-20230513053521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.05. 2023-05-12</title>
     <link>https://api.hrt.hr/media/5e/a7/20230512-jutarnja-kronika-34121361-20230512053555.mp3</link>
     <description>Suci, u bijelom štrajku zbog povišica, sastaju se s ministrom Malenicom. Medicinske sestre i tehničari jučer prosvjedovali zbog plaća, danas se okupljaju na obilježavanju svojeg dana. Nakon više od tri godine Vlada proglasila kraj epidemije koronavirusa.Ukrajinu stigle britanske rakete dugog dometa. To je i dalje nedovoljno za početak ukrajinske protuofenzive. Urednica: Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>Nakon šest godina Hrvatska, zahvaljujući Letu 3 i pjesmi Mami ŠČ, u finalu Eurosonga! Medicinske sestre za sutra najavljuju velik prosvjed, nakon njega moguć je i štrajk. Glavna državna odvjetnica na saborskom Odboru za pravosuđe ustvrdila da radi bez političkih pritisaka, oporbu nije u to uvjerila. Na jučerašnji Dan Europe, Kijev je posjetila predsjednica Europske komisije Ursula von der Leyen i najavila nove sankcije Rusiji. Urednik: Silvio Šop</description>
     <pubDate>Wed, 10 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/55/ed/20230510-jutarnja-kronika-34113971-20230510053548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.05. 2023-05-09</title>
-    <link>https://api.hrt.hr/media/10/2c/20230509-jutarnja-kronika-34110572-20230509053530.mp3</link>
-    <description>Glavna državna odvjetnica Zlata Hrvoj Šipek dolazi u Sabor objasniti razloge ostavke šefice USKOK-a. Od ponoći gorivo jeftinije za 8 centi po litri. Danas je Dan Europe. Večeras od 21 sat u Liverpoolu nastup Leta 3 na Eurosongu. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 09 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/10/2c/20230509-jutarnja-kronika-34110572-20230509053530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
