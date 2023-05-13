@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 May 2023 21:19:43 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 20:52:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.05. 2023-05-13</title>
+    <link>https://api.hrt.hr/media/33/52/20230513-kronika-dana-34126881-20230513204022.mp3</link>
+    <description>Obilježena 78. obljetnica blajburške tragedije i križnog puta. Izrael i Islamski džihad u Gazi dogovorili primirje. Ukrajinski predsjednik bio u Italiji i Vatikanu. Saniraju se posljedice snažnog nevremena koje je jučer zahvatilo Čačince. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 13 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/33/52/20230513-kronika-dana-34126881-20230513204022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.05. 2023-05-12</title>
     <link>https://api.hrt.hr/media/c4/de/20230512-kronika-dana-34124504-20230512204056.mp3</link>
     <description>Zbog prijetnji premijeru Plenkoviću i članovima Vlade interventna policija ispred Banskih dvora. Na prosvjedu u Beogradu ponovno deseci tisuća ljudi. Hrvatski piloti izveli u Francuskoj prve samostalne letove u Rafaleima. Jako nevrijeme zahvatilo Virovitičko-podravsku županiju. Urednik Mario Krstanović</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Wed, 10 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2b/e7/20230510-kronika-dana-34117314-20230510204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.05. 2023-05-09</title>
-    <link>https://api.hrt.hr/media/17/33/20230509-kronika-dana-34113399-20230509203530.mp3</link>
-    <description>Medicinske sestre za preksutra najavljuju velik prosvjed, a nakon toga moguć je i štrajk. Glavna državna odvjetnica tvrdi da radi bez političkih pritisaka, oporba na saborskom odboru predložila njezino razrješenje. Na Dan Europe snažna potpora Ukrajini, a u Moskvi na Dan pobjede Putinove optužbe Zapada. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 09 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/17/33/20230509-kronika-dana-34113399-20230509203530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
