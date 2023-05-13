@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 May 2023 13:48:50 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 13:51:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.05. 2023-05-13</title>
+    <link>https://api.hrt.hr/media/cf/39/20230513-dnevne-novosti-34126203-20230513133522.mp3</link>
+    <description>Saniraju se posljedice snažnog nevremena koje je jučer pogodilo Čačince. Znatno je oštećen vrtić, u koji je nedavno uloženo više od 6 milijuna kuna. Komemoracijom na zagrebačkom Mirogoju i misom u Maclju obilježena 78. obljetnica bleiburške tragedije i križnog puta. Premijer Andrej Plenković ponovno govorio o prijetnjama, predsjednik Zoran Milanović prozvao ga zbog uzbunjivanja javnosti. Večeras finale Eurosonga, Let 3 s Mamom ŠČ nastupa predzadnji. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 13 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cf/39/20230513-dnevne-novosti-34126203-20230513133522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.05. 2023-05-12</title>
     <link>https://api.hrt.hr/media/77/4d/20230512-dnevne-novosti-34123466-20230512133555.mp3</link>
     <description>Zbog prijetnji premijeru Plenkoviću i članovima Vlade interventna policija ispred Banskih dvora. Washington ukinuo granične mjere uvedene zbog kovida, što je izazvalo kaos s migrantima na američko-meksičkoj granici. U središtu Beograda poslijepodne novi prosvjed "Srbija protiv nasilja". Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Sutra veliki prosvjed medicinskih sestara, a spominju i mogući štrajk. Suci čekaju novu ponudu Vlade o povećanju plaća. Ukrajinci tvrde da su nanijeli velike gubitke ruskim snagama kod Bahmuta. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 10 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/09/ea/20230510-dnevne-novosti-34116199-20230510134050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.05. 2023-05-09</title>
-    <link>https://api.hrt.hr/media/f6/41/20230509-dnevne-novosti-34112417-20230509133530.mp3</link>
-    <description>Glavna državna odvjetnica Zlata Hrvoj Šipek na saborskom Odboru za pravosuđe ustvrdila da nema pritisaka vladajućih na Državno odvjetništvo, oporba joj nije povjerovala. Medicinske sestre, tehničari i nezdravstveni radnici preksutra će održati veliki prosvjed na zagrebačkom Zrinjevcu. Dan je pobjede nad fašizmom u Drugome svjetskom ratu, ujedno i Dan Europe. U Liverpoolu prva večer Eurosonga, naš Let 3 će pjesmom "Mama ŠČ" pokušati izboriti ulazak u subotnju završnicu. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 09 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/41/20230509-dnevne-novosti-34112417-20230509133530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
