@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 May 2023 13:51:31 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 13:54:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.05. 2023-05-14</title>
+    <link>https://api.hrt.hr/media/98/15/20230514-dnevne-novosti-34128229-20230514133523.mp3</link>
+    <description>Tragična smrt šesnaestogodišnjaka kod Križevaca, uhićen njegov 17-godišnji prijatelj. Izbori u Turskoj - hoće li predsjednik Ergodan zadržati vlast i nakon 20 godina? Srbijanski predsjednik Vučić poručuje oporbi da ga neće svrgnuti s vlasti. U Virovitičko-podravskoj županiji saniraju se posljedice snažnog nevremena. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 14 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/15/20230514-dnevne-novosti-34128229-20230514133523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.05. 2023-05-13</title>
     <link>https://api.hrt.hr/media/cf/39/20230513-dnevne-novosti-34126203-20230513133522.mp3</link>
     <description>Saniraju se posljedice snažnog nevremena koje je jučer pogodilo Čačince. Znatno je oštećen vrtić, u koji je nedavno uloženo više od 6 milijuna kuna. Komemoracijom na zagrebačkom Mirogoju i misom u Maclju obilježena 78. obljetnica bleiburške tragedije i križnog puta. Premijer Andrej Plenković ponovno govorio o prijetnjama, predsjednik Zoran Milanović prozvao ga zbog uzbunjivanja javnosti. Večeras finale Eurosonga, Let 3 s Mamom ŠČ nastupa predzadnji. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Na zagrebačkom Zrinjevcu velik prosvjed medicinskih sestara, tehničara i nezdravstvenog osoblja. Nakon više od tri godine Vlada proglasila kraj epidemije koronavirusa. Riječka rafinerija na Urinju ponovno radi, pokrenuta je proizvodnja goriva u punom kapacitetu. Ukrajinski predsjednik Zelenski kaže da su spremni za protuofenzivu, no da trebaju još vojne opreme i malo vremena. Urednica: Mira Barić</description>
     <pubDate>Thu, 11 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/26/3c/20230511-dnevne-novosti-34119869-20230511134521.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.05. 2023-05-10</title>
-    <link>https://api.hrt.hr/media/09/ea/20230510-dnevne-novosti-34116199-20230510134050.mp3</link>
-    <description>Sutra veliki prosvjed medicinskih sestara, a spominju i mogući štrajk. Suci čekaju novu ponudu Vlade o povećanju plaća. Ukrajinci tvrde da su nanijeli velike gubitke ruskim snagama kod Bahmuta. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 10 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/09/ea/20230510-dnevne-novosti-34116199-20230510134050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
