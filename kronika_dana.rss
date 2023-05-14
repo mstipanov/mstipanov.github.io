@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 May 2023 20:52:19 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 20:55:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.05. 2023-05-14</title>
+    <link>https://api.hrt.hr/media/03/2e/20230514-kronika-dana-34128964-20230514204524.mp3</link>
+    <description>Završeni izbori u Turskoj. Prebrojavaju se glasovi - tijesna borba za 13-og predsjednika Turske između Erdoana i Kiličdarolua. Zbog poplava evakuira se dio stanovništva u Gračacu. Tragična smrt šesnaestogodišnjaka kod Križevaca, uhićen njegov prijatelj. Ukrajinski predsjednik Zelenski posjetio Njemačku. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 14 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/03/2e/20230514-kronika-dana-34128964-20230514204524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.05. 2023-05-13</title>
     <link>https://api.hrt.hr/media/33/52/20230513-kronika-dana-34126881-20230513204022.mp3</link>
     <description>Obilježena 78. obljetnica blajburške tragedije i križnog puta. Izrael i Islamski džihad u Gazi dogovorili primirje. Ukrajinski predsjednik bio u Italiji i Vatikanu. Saniraju se posljedice snažnog nevremena koje je jučer zahvatilo Čačince. Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>Na zagrebačkom Zrinjevcu velik prosvjed medicinskih sestara, tehničara i nezdravstvenog osoblja. Traže veće plaće za najmanje 10 posto. Nakon više od tri godine Vlada proglasila kraj epidemije koronavirusa. U Ukrajinu stigle britanske rakete dugog dometa. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 11 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/94/20230511-kronika-dana-34120772-20230511204021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.05. 2023-05-10</title>
-    <link>https://api.hrt.hr/media/2b/e7/20230510-kronika-dana-34117314-20230510204050.mp3</link>
-    <description>U Zagrebu sutra veliki prosvjed medicinskih sestara, tehničara i drugih zdravstvenih i nezdravstvenih djelatnika.U Istanbulu počeli pregovori o produljenju Sporazuma o izvozu žitarica iz crnomorskih luka.Interpol i policije Belgije, Njemačke i Nizozemske traže pomoć građana u rasvjetljavanju neriješenih ubojstava 22-iju žena.
-Urednica: Mira Barić</description>
-    <pubDate>Wed, 10 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2b/e7/20230510-kronika-dana-34117314-20230510204050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
