@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 May 2023 05:53:33 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 05:56:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.05. 2023-05-15</title>
+    <link>https://api.hrt.hr/media/b3/10/20230515-jutarnja-kronika-34129569-20230515054527.mp3</link>
+    <description>Izlila se rijeka Zrmanja u Obrovcu i rijeka Otuča u Gračacu. Evakuirana najugroženija kućanstva. Dio Obrovca ostao bez struje.Mladić uhićen zbog smrti 16-godišnjaka u Kostanjevcu Riječkom kod Križevaca danas izlazi pred suca istrage. Na izborima u Turskoj Erdogan u vodstvu, ali nedovoljnom da pobijedi u prvome krugu. Dan je HRT-a. Hrvatski radio slavi 97., a Hrvatska televizija 67. rođendan. Urednik Mislav Togonal.</description>
+    <pubDate>Mon, 15 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b3/10/20230515-jutarnja-kronika-34129569-20230515054527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.05. 2023-05-14</title>
     <link>https://api.hrt.hr/media/6e/29/20230514-jutarnja-kronika-34127477-20230514053522.mp3</link>
     <description>Švedska pjevačica Loreen ispisala povijest kao druga dvostruka osvajačica Eurosonga, Let 3 i Mama ŠČ trinaesti. Saniraju se posljedice snažnog nevremena koje je prekjučer zahvatilo Čačince. Najviše stradao nedavno obnovljen vrtić. Izbori u Turskoj - odlazi li, nakon 20 godina, Ergodan s vlasti? U zagrebačkog kinu Tuškanac večeras počinje 16. Subversive filmski festival.
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Suci, u bijelom štrajku zbog povišica, sastaju se s ministrom Malenicom. Medicinske sestre i tehničari jučer prosvjedovali zbog plaća, danas se okupljaju na obilježavanju svojeg dana. Nakon više od tri godine Vlada proglasila kraj epidemije koronavirusa.Ukrajinu stigle britanske rakete dugog dometa. To je i dalje nedovoljno za početak ukrajinske protuofenzive. Urednica: Snježana Kralj</description>
     <pubDate>Fri, 12 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5e/a7/20230512-jutarnja-kronika-34121361-20230512053555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.05. 2023-05-11</title>
-    <link>https://api.hrt.hr/media/91/72/20230511-jutarnja-kronika-34117870-20230511054020.mp3</link>
-    <description>Na zagrebačkom Zrinjevcu održat će se veliki prosvjed medicinskih sestara, tehničara te drugih zdravstvenih i nezdravstvenih djelatnika. Očekuje se da će Vlada proglasiti kraj epidemije koronavirusa. Počeli su pregovori o produljenju Sporazuma o izvozu žitarica iz crnomorskih luka. U zagrebačkom HNK-u večeras premijera opere Borisa Papandopula "Amfitrion". Urednik: Silvio Šop</description>
-    <pubDate>Thu, 11 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/91/72/20230511-jutarnja-kronika-34117870-20230511054020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
