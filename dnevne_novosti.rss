@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 May 2023 13:54:32 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 13:57:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.05. 2023-05-15</title>
+    <link>https://api.hrt.hr/media/21/cc/20230515-dnevne-novosti-34131467-20230515133529.mp3</link>
+    <description>Izvanredno stanje u Obrovcu - rijeka Zrmanja na nikad zabilježena 302 centimetra, nadmašila prethodni rekord za 39 centimetara. Pod vodom kućanstva i poslovni prostori. Rastu Una, Sava i Korana. Europska komisija povećala procjenu rasta hrvatskoga BDP-a za ovu i iduću godinu. Turska će predsjednika izabrati u drugom krugu, za dva tjedna. Hrvatski radio obilježava 97., a Televizija 67. obljetnicu. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 15 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/21/cc/20230515-dnevne-novosti-34131467-20230515133529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.05. 2023-05-14</title>
     <link>https://api.hrt.hr/media/98/15/20230514-dnevne-novosti-34128229-20230514133523.mp3</link>
     <description>Tragična smrt šesnaestogodišnjaka kod Križevaca, uhićen njegov 17-godišnji prijatelj. Izbori u Turskoj - hoće li predsjednik Ergodan zadržati vlast i nakon 20 godina? Srbijanski predsjednik Vučić poručuje oporbi da ga neće svrgnuti s vlasti. U Virovitičko-podravskoj županiji saniraju se posljedice snažnog nevremena. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zbog prijetnji premijeru Plenkoviću i članovima Vlade interventna policija ispred Banskih dvora. Washington ukinuo granične mjere uvedene zbog kovida, što je izazvalo kaos s migrantima na američko-meksičkoj granici. U središtu Beograda poslijepodne novi prosvjed "Srbija protiv nasilja". Urednica: Mira Barić</description>
     <pubDate>Fri, 12 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/77/4d/20230512-dnevne-novosti-34123466-20230512133555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.05. 2023-05-11</title>
-    <link>https://api.hrt.hr/media/26/3c/20230511-dnevne-novosti-34119869-20230511134521.mp3</link>
-    <description>Na zagrebačkom Zrinjevcu velik prosvjed medicinskih sestara, tehničara i nezdravstvenog osoblja. Nakon više od tri godine Vlada proglasila kraj epidemije koronavirusa. Riječka rafinerija na Urinju ponovno radi, pokrenuta je proizvodnja goriva u punom kapacitetu. Ukrajinski predsjednik Zelenski kaže da su spremni za protuofenzivu, no da trebaju još vojne opreme i malo vremena. Urednica: Mira Barić</description>
-    <pubDate>Thu, 11 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/3c/20230511-dnevne-novosti-34119869-20230511134521.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
