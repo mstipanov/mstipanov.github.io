@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 May 2023 20:55:22 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 20:58:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.05. 2023-05-15</title>
+    <link>https://api.hrt.hr/media/84/46/20230515-kronika-dana-34132621-20230515204030.mp3</link>
+    <description>Obrovac je pod vodom, uz Zrmanju, prijete Una i Sava. Detalji porezne reforme sljedeći tjedan, premijer potvrdio ukidanje prireza. Ukrajinski ratnici i država jačaju, ocijenio predsjednik Zelenski nakon posjeta Francuskoj, Italiji, Njemačkoj i Velikoj Britaniji. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 15 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/84/46/20230515-kronika-dana-34132621-20230515204030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.05. 2023-05-14</title>
     <link>https://api.hrt.hr/media/03/2e/20230514-kronika-dana-34128964-20230514204524.mp3</link>
     <description>Završeni izbori u Turskoj. Prebrojavaju se glasovi - tijesna borba za 13-og predsjednika Turske između Erdoana i Kiličdarolua. Zbog poplava evakuira se dio stanovništva u Gračacu. Tragična smrt šesnaestogodišnjaka kod Križevaca, uhićen njegov prijatelj. Ukrajinski predsjednik Zelenski posjetio Njemačku. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Zbog prijetnji premijeru Plenkoviću i članovima Vlade interventna policija ispred Banskih dvora. Na prosvjedu u Beogradu ponovno deseci tisuća ljudi. Hrvatski piloti izveli u Francuskoj prve samostalne letove u Rafaleima. Jako nevrijeme zahvatilo Virovitičko-podravsku županiju. Urednik Mario Krstanović</description>
     <pubDate>Fri, 12 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c4/de/20230512-kronika-dana-34124504-20230512204056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.05. 2023-05-11</title>
-    <link>https://api.hrt.hr/media/93/94/20230511-kronika-dana-34120772-20230511204021.mp3</link>
-    <description>Na zagrebačkom Zrinjevcu velik prosvjed medicinskih sestara, tehničara i nezdravstvenog osoblja. Traže veće plaće za najmanje 10 posto. Nakon više od tri godine Vlada proglasila kraj epidemije koronavirusa. U Ukrajinu stigle britanske rakete dugog dometa. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 11 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/94/20230511-kronika-dana-34120772-20230511204021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
