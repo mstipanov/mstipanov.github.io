@@ -6,10 +6,21 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 May 2023 18:08:32 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 16:32:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 16.05.2023. 2023-05-16</title>
+    <link>https://api.hrt.hr/media/db/bc/20230516-explora-7949796-20230516160532.mp3</link>
+    <description>Space X – komercijalna svemirska stanica za dvije godine. Virusi umjesto antibiotika i CRISPR metoda. AI i rano otkrivanje bolesti. AI i seksualne usluge. AI i lektira. Kako spriječiti sušu? Tinitus – zujanje u ušima. Zašto je cvijeće lijepo ženama ( a ne npr. plodovi) ? Mučnina na zadnjem sjedištu moga auta. Otkriveni novi mjeseci oko Saturna. Kako su nastali Saturnovi prsteni? Evolucija i revolucija.
+
+
+</description>
+    <pubDate>Tue, 16 May 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/db/bc/20230516-explora-7949796-20230516160532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 09.05.2023. 2023-05-09</title>
     <link>https://api.hrt.hr/media/dc/7e/20230509-explora-7947518-20230509163031.mp3</link>
     <description>Novi britanski satelit za nadzor. Vede i heliocentrični sustav. Propast radio-teleskopa Arecibo. Carl Sagan. Kinez svjetski prvak u šahu. Solarni paneli i zagrijavanje okoline. Kako zaustaviti klijanje krumpira. Hidroponski uzgoj. Testiranje kozmetike na životinjama se nastavlja. Recikliranje – emitiranje mikroplastike u atmosferu. Marketing u prirodoslovlju – leptir Sauron ( noćni leptiri oprašivači).
@@ -107,16 +118,6 @@ Hiperspekrtralna kamuflaža zamjenjuje privid fraktalne plohe.
 </description>
     <pubDate>Tue, 14 Mar 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/18/48/20230314-explora-7929877-20230314161032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 07.03.2023. 2023-03-07</title>
-    <link>https://api.hrt.hr/media/dc/06/20230307-explora-7927352-20230307172534.mp3</link>
-    <description>Europska raketa Vega-C i kvar mlaznice. Kineski satelit špijunirao druge satelite, tehnološka špijunaža. Transhumanizam, kiborzi, poboljšani ljudi. U GB promjena zakona koji bi dopustio uređivanje genoma ljudskih embrija. Svjetlosno zagađenje i teleskopi prije električnih žarulja. Bijeli vodik - još nismo spremni. VIDEO - YouTube HRT Explora
-
-</description>
-    <pubDate>Tue, 07 Mar 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/06/20230307-explora-7927352-20230307172534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
