@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 May 2023 13:57:27 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 14:01:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.05. 2023-05-16</title>
+    <link>https://api.hrt.hr/media/62/c9/20230516-dnevne-novosti-34135226-20230516134032.mp3</link>
+    <description>Stanje u Obrovcu i Gračacu nešto bolje. U Karlovcu i Hrvatskoj Kostajnici na snazi izvanredne mjere obrane od poplave jer se očekuje veliki vodeni val iz Slovenije. Inflacija slabi i peti mjesec zaredom. U Reykjaviku sastanak čelnika 46 država članica Vijeća Europe, godinu dana nakon što su iz te organizacije isključili Rusiju. Zapadni dio Zagreba sutra bi trebao dobiti toplu vodu. Urednica: Mira Barić</description>
+    <pubDate>Tue, 16 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/62/c9/20230516-dnevne-novosti-34135226-20230516134032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.05. 2023-05-15</title>
     <link>https://api.hrt.hr/media/21/cc/20230515-dnevne-novosti-34131467-20230515133529.mp3</link>
     <description>Izvanredno stanje u Obrovcu - rijeka Zrmanja na nikad zabilježena 302 centimetra, nadmašila prethodni rekord za 39 centimetara. Pod vodom kućanstva i poslovni prostori. Rastu Una, Sava i Korana. Europska komisija povećala procjenu rasta hrvatskoga BDP-a za ovu i iduću godinu. Turska će predsjednika izabrati u drugom krugu, za dva tjedna. Hrvatski radio obilježava 97., a Televizija 67. obljetnicu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Saniraju se posljedice snažnog nevremena koje je jučer pogodilo Čačince. Znatno je oštećen vrtić, u koji je nedavno uloženo više od 6 milijuna kuna. Komemoracijom na zagrebačkom Mirogoju i misom u Maclju obilježena 78. obljetnica bleiburške tragedije i križnog puta. Premijer Andrej Plenković ponovno govorio o prijetnjama, predsjednik Zoran Milanović prozvao ga zbog uzbunjivanja javnosti. Večeras finale Eurosonga, Let 3 s Mamom ŠČ nastupa predzadnji. Urednik: Silvio Šop</description>
     <pubDate>Sat, 13 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cf/39/20230513-dnevne-novosti-34126203-20230513133522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.05. 2023-05-12</title>
-    <link>https://api.hrt.hr/media/77/4d/20230512-dnevne-novosti-34123466-20230512133555.mp3</link>
-    <description>Zbog prijetnji premijeru Plenkoviću i članovima Vlade interventna policija ispred Banskih dvora. Washington ukinuo granične mjere uvedene zbog kovida, što je izazvalo kaos s migrantima na američko-meksičkoj granici. U središtu Beograda poslijepodne novi prosvjed "Srbija protiv nasilja". Urednica: Mira Barić</description>
-    <pubDate>Fri, 12 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/77/4d/20230512-dnevne-novosti-34123466-20230512133555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
