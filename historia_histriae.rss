@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 11 May 2023 16:44:14 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 16:07:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Povijest Pule i nogometa uz braću Banana 2023-05-18</title>
+    <link>https://api.hrt.hr/media/b7/30/20230518-historia-histriae-7943075-20230518150544.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 18 May 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b7/30/20230518-historia-histriae-7943075-20230518150544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Glazba u vrijeme Austrougarske 2023-05-11</title>
     <link>https://api.hrt.hr/media/29/0c/20230511-historia-histriae-7943074-20230511161521.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>Priču o povijesti sporta u Istri donosi nam Dario Koraca, autor knjige "Sport u Istri: prvih 150 godina"</description>
     <pubDate>Thu, 16 Mar 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/71/b2/20230316-historia-histriae-7930486-20230316170051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>David Orlović o Monte Zaru 2023-03-09</title>
-    <link>https://api.hrt.hr/media/b8/bb/20230309-historia-histriae-7928025-20230309165542.mp3</link>
-    <description>U goste nam dolazi naš povjesničar David Orlović, a nastavljamo ciklus priče o povijesti pulskih kvartova.....ovog puta na redu je, kako on kaže "nekad magični" Monte Zaro...</description>
-    <pubDate>Thu, 09 Mar 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/bb/20230309-historia-histriae-7928025-20230309165542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
