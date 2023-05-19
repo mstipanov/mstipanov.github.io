@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 May 2023 20:40:43 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 21:10:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.05. 2023-05-19</title>
+    <link>https://api.hrt.hr/media/dc/8f/20230519-kronika-dana-34147401-20230519204012.mp3</link>
+    <description>Vodostaj Save stagnira, Une je u opadanju, a Kupa još prijeti. U poplavama u Italiji poginulo najmanje 14 ljudi. U Beogradu treći i najmasovniji prosvjed "Srbija protiv nasilja", okupilo se više desetaka tisuća ljudi. Vlada prihvatila rebalans proračuna, drugi je najavljen za jesen. Ministar i građevinari najavili da će se do kraja godine otvoriti više od 750 gradilišta u sklopu obnove nakon potresa. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 19 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/8f/20230519-kronika-dana-34147401-20230519204012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.05. 2023-05-18</title>
     <link>https://api.hrt.hr/media/b9/f9/20230518-kronika-dana-34143722-20230518204045.mp3</link>
     <description>Sve teža borba s poplavama. Vodeni val očekuje se u Sisku i Petrinji, popustio nasip u Sisku. Trinaest poginulih u poplavama u Italiji. Ruska vojska povlači se i sa sjevernog i s južnog krila oko grada Bahmuta - objavile i ukrajinska i ruska strana. Urednik: Grgo Mrvica</description>
