@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 May 2023 21:08:27 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 20:40:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Hrvatskoj Kostajnici izvanredno stanje, izlila se Mrežnica kod Duge Rese, poplavljeno je Vrgoračko polje, problemi i u Zagorju. poplava evakuacije u Italiji te u Bosni i Hercegovini. Ukrajina tvrdi da je srušila hipersonične projektile Kinžal kojima su Rusi gađali Kijev.Urednica: Sanja Cota.</description>
     <pubDate>Tue, 16 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/f1/20230516-kronika-dana-34136144-20230516203532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.05. 2023-05-15</title>
-    <link>https://api.hrt.hr/media/84/46/20230515-kronika-dana-34132621-20230515204030.mp3</link>
-    <description>Obrovac je pod vodom, uz Zrmanju, prijete Una i Sava. Detalji porezne reforme sljedeći tjedan, premijer potvrdio ukidanje prireza. Ukrajinski ratnici i država jačaju, ocijenio predsjednik Zelenski nakon posjeta Francuskoj, Italiji, Njemačkoj i Velikoj Britaniji. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 15 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/46/20230515-kronika-dana-34132621-20230515204030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
