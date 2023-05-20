@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 May 2023 06:09:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 05:42:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Diljem zemlje problemi s poplavama. Vodostaji rijeka dostižu povijesne maksimume. Izvanredno stanje proglašeno za Koranu kod Karlovca. S poplavama se bore u Bosni i Hercegovini i Italiji, gdje je evakuirano 900 stanovnika. Nastavljaju se pregovori za povećanje plaća sudaca te medicinskih sestara i tehničara. Članice Vijeća Europe u Reykjaviku potpisuju registar koji će dokumentirati dokaze o šteti i gubicima u Ukrajini nakon ruske invazije. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 17 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/ec/20230517-jutarnja-kronika-34136714-20230517054042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.05. 2023-05-16</title>
-    <link>https://api.hrt.hr/media/1a/3d/20230516-jutarnja-kronika-34133223-20230516053532.mp3</link>
-    <description>Nova kiša dodatno će pogoršati stanje na poplavljenim područjima - Obrovac je pod vodom, uz Zrmanju, prijete Una i Sava. Proljetne prognoze Europske komisije predviđaju veći rast hrvatskoga gospodarstva. U Reykjaviku počinje 4. sastanak na vrhu Vijeća Europe, sudjelovat će i premijer Andrej Plenković. Večeras u splitskom HNK-u praizvedba drame "Tiha noć", nastale na predlošku epizode "Borbena ponoćka" iz serije "Malo misto" Miljenka Smoje. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 16 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1a/3d/20230516-jutarnja-kronika-34133223-20230516053532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
