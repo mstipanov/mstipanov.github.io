@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 20 May 2023 14:13:27 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 13:46:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.05. 2023-05-21</title>
+    <link>https://api.hrt.hr/media/e4/94/20230521-dnevne-novosti-34151171-20230521133515.mp3</link>
+    <description>Pretpostavlja se da je u zrakoplovnoj nesreći na Maloj Kapeli poginulo troje Nizozemaca, no zrakoplov je izgorio pa će se njihov identitet utvrditi analizom DNK. Vodostaji rijeka padaju, ali su nasipi na petrinjskom i sisačkom području još uvijek pod velikim pritiskom. Nejasna je situacija s ukrajinskim gradom Bahmutom - Rusi tvrde da su ga zauzeli. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 21 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e4/94/20230521-dnevne-novosti-34151171-20230521133515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.05. 2023-05-20</title>
     <link>https://api.hrt.hr/media/b0/b1/20230520-dnevne-novosti-34148961-20230520134013.mp3</link>
     <description>S poplavljenih područja povoljne vijesti - vodostaji stagniraju ili su u laganom padu. Ukrajinski predsjednik Volodimir Zelenski u Hirošimi, gdje se održava summit G7, sastat će se, kako je najavio, s partnerima i prijateljima Ukrajine. Europska komisija INA-i i MOL-u odobrila preuzimanje OMV-a Slovenija. Inauguriran novi predsjednik Crne Gore Jakov Milatović. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nastavlja se sve teža borba s poplavama. Vodeni val prošao kroz Karlovac, popustio nasip u Sisku. Kako se voda povlači otkrivaju se razmjeri štete koju poplava ostavlja na poljoprivrednim zemljištima. Čak 44 tisuće djece ima određenih mentalnih poteškoća - rekla pravobraniteljica za djecu Helenca Pirnat Dragičević. Urednica: Mira Barić</description>
     <pubDate>Thu, 18 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d5/f2/20230518-dnevne-novosti-34142718-20230518134544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.05. 2023-05-17</title>
-    <link>https://api.hrt.hr/media/78/b8/20230517-dnevne-novosti-34138966-20230517134043.mp3</link>
-    <description>Hrvatska se bori s poplavama, najteže je u Hrvatskoj Kostajnici. U Italiji osmero poginulih u poplavljenim naseljima. Radnici Petrokemije zabrinuti, novi vlasnik turska Yildirim Grupa ukida smjenski rad, plaće se smanjuju 25 posto. U Zambiji nastavljeno suđenje Hrvatima osumnjičenima za pokušaj trgovanja djecom. Na Islandu potpisana deklaracija o osnivanju Registra štete u Ukrajini. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 17 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/78/b8/20230517-dnevne-novosti-34138966-20230517134043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
