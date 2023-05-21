@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 20 May 2023 20:44:06 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 20:47:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.05. 2023-05-21</title>
+    <link>https://api.hrt.hr/media/b0/4b/20230521-kronika-dana-34151847-20230521204015.mp3</link>
+    <description>Počela istraga o padu sportskog zrakoplova na Maloj Kapeli, identitet putnika bit će utvrđen analizom DNK-a. Smiruje se stanje na poplavljenim područjima. Petrinja je nadomak ukidanju izvanrednog stanja. I dalje nema potvrde je li Bahmut pao, ukrajinska strana opovrgava Kremlj da je grad potpuno pod ruskim nadzorom. Urednica: Mira Barić</description>
+    <pubDate>Sun, 21 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/4b/20230521-kronika-dana-34151847-20230521204015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.05. 2023-05-20</title>
     <link>https://api.hrt.hr/media/9e/44/20230520-kronika-dana-34149738-20230520204013.mp3</link>
     <description>Na planini Maloj Kapeli u šumi pronađeni ostaci sportskog zrakoplova, još nije poznata sudbina putnika. Stagniraju ili lagano opadaju vodostaji rijeka. Papa zadužio talijanskog kardinala za mirovnu misiju u Ukrajini, Vatikan još razrađuje pojedinosti misije. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sve teža borba s poplavama. Vodeni val očekuje se u Sisku i Petrinji, popustio nasip u Sisku. Trinaest poginulih u poplavama u Italiji. Ruska vojska povlači se i sa sjevernog i s južnog krila oko grada Bahmuta - objavile i ukrajinska i ruska strana. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 18 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b9/f9/20230518-kronika-dana-34143722-20230518204045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.05. 2023-05-17</title>
-    <link>https://api.hrt.hr/media/d6/ea/20230517-kronika-dana-34140098-20230517204044.mp3</link>
-    <description>Sve teža borba s poplavama, maksimalni vodostaji rijeka očekuju se noćas.Najteže je na području Hrvatske Kostajnice i Karlovca.U Zagorju se aktiviralo čak 57 novih klizišta, evakuirani ljudi iz nekoliko kućanstava. U Zambiji nastavljeno suđenje hrvatskim građanima optuženima za pokušaj trgovanja djecom. Za još dva mjeseca produljen je Crnomorski sporazum o izvozu ukrajinskih žitarica. Urednica: Mira Barić</description>
-    <pubDate>Wed, 17 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d6/ea/20230517-kronika-dana-34140098-20230517204044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
