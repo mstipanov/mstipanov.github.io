@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 May 2023 05:45:30 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:47:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.05. 2023-05-22</title>
+    <link>https://api.hrt.hr/media/cd/d4/20230522-jutarnja-kronika-34152421-20230522053517.mp3</link>
+    <description>Očekuje se izvlačenje izgorjelog zrakoplova u kojem je poginulo troje ljudi. U Petrinji uskoro ukidanje izvanrednog stanja obrane od poplava. Vladajuća stranka Nova demokracija pobjednica parlamentarnih izbora u Grčkoj. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 22 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cd/d4/20230522-jutarnja-kronika-34152421-20230522053517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.05. 2023-05-21</title>
     <link>https://api.hrt.hr/media/0e/5a/20230521-jutarnja-kronika-34150233-20230521053015.mp3</link>
     <description>Na planini Maloj Kapeli sinoć pronađeni ostaci sportskog zrakoplova koji je letio iz Maribora u Pulu, o sudbini putnika još nema službene informacije. Stagniraju ili lagano padaju vodostaji rijeka, najteže je iza nas, ali opasnost od poplava još nije prošla. Rusija sinoć objavila da je zauzela Bahmut, Ukrajina se još nije oglasila, za razliku od jučer, kada je istu informaciju objavio Wagner, a Kijev odmah opovrgnuo. SPORT - Gorica izborila ostanak u prvoj ligi, iz koje ispada Šibenik. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vodeni val stigao na Banovinu, iduća 24 sata kritična su za Sisak i Petrinju, vojska je cijelu noć pojačavala nasipe u Krnjicu. Ruska vojska svim silama pokušava privesti kraju bitku za Bahmut. 13 poginulih u poplavama u Italiji. Nakon izvanrednih otkaza u zagrebačkoj bolnici Sveti Duh oglasila se i ravnateljica - tvrdi da je o problemima u mrtvačnici bila obaviještena, no nije znala da pokojnike u nedostatku prostora smještaju na pod. Urednica: Mira Barić</description>
     <pubDate>Fri, 19 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/6c/20230519-jutarnja-kronika-34144356-20230519053556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.05. 2023-05-18</title>
-    <link>https://api.hrt.hr/media/1f/97/20230518-jutarnja-kronika-34140640-20230518053545.mp3</link>
-    <description>Grčevita borba s poplavama! Vodeni valovi oko ponoći prošli Karlovac i Hrvatsku Kostajnicu. Poplave i u susjedstvu. U Italiji - poginuli i tisuće evakuiranih. Za još dva mjeseca produljen je Crnomorski sporazum o izvozu ukrajinskih žitarica. U Zambiji nastavak ročišta protiv Hrvata optuženih za pokušaj trgovanja djecom. U Zagrebu počinje Floraart - četverodnevna međunarodna vrtna izložba. Urednica: Snježana Kralj</description>
-    <pubDate>Thu, 18 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1f/97/20230518-jutarnja-kronika-34140640-20230518053545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
