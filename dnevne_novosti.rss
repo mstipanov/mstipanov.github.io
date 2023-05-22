@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 May 2023 13:46:20 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 13:48:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.05. 2023-05-22</title>
+    <link>https://api.hrt.hr/media/af/d7/20230522-dnevne-novosti-34154485-20230522134018.mp3</link>
+    <description>Pojedinosti nove porezne reforme doznat ćemo u srijedu. Gotovo pet godina nakon smrti 9-godišnjega Gabrijela počelo je suđenje trima liječnicama i medicinskoj sestri. Istraga pada nizozemskog zrakoplova na Malu Kapelu otkrila da je bio letio u skupini od osam letjelica. Izvlačenje olupine odgođeno je za sutra. Osam osoba poginulo je u ruskom napadu na grad Dnjipro. Urednica: Mira Barić</description>
+    <pubDate>Mon, 22 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/af/d7/20230522-dnevne-novosti-34154485-20230522134018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.05. 2023-05-21</title>
     <link>https://api.hrt.hr/media/e4/94/20230521-dnevne-novosti-34151171-20230521133515.mp3</link>
     <description>Pretpostavlja se da je u zrakoplovnoj nesreći na Maloj Kapeli poginulo troje Nizozemaca, no zrakoplov je izgorio pa će se njihov identitet utvrditi analizom DNK. Vodostaji rijeka padaju, ali su nasipi na petrinjskom i sisačkom području još uvijek pod velikim pritiskom. Nejasna je situacija s ukrajinskim gradom Bahmutom - Rusi tvrde da su ga zauzeli. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sisak i Petrinja danas najugroženiji od poplave. U Italiji je najmanje 14-ero ljudi poginulo u poplavama. Vlada prihvatila rebalans proračuna, drugi je najavljen za jesen. Ukrajinski predsjednik Zelenski sudjeluje na sastanku Arapske lige, očekuje se i u Japanu na sastanku G7. Urednica: Sanja Cota</description>
     <pubDate>Fri, 19 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/60/20230519-dnevne-novosti-34146494-20230519134058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.05. 2023-05-18</title>
-    <link>https://api.hrt.hr/media/d5/f2/20230518-dnevne-novosti-34142718-20230518134544.mp3</link>
-    <description>Nastavlja se sve teža borba s poplavama. Vodeni val prošao kroz Karlovac, popustio nasip u Sisku. Kako se voda povlači otkrivaju se razmjeri štete koju poplava ostavlja na poljoprivrednim zemljištima. Čak 44 tisuće djece ima određenih mentalnih poteškoća - rekla pravobraniteljica za djecu Helenca Pirnat Dragičević. Urednica: Mira Barić</description>
-    <pubDate>Thu, 18 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/f2/20230518-dnevne-novosti-34142718-20230518134544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
