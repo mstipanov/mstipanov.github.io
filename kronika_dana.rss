@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 22 May 2023 20:49:32 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 20:52:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.05. 2023-05-23</title>
+    <link>https://api.hrt.hr/media/4b/28/20230523-kronika-dana-34159717-20230523204030.mp3</link>
+    <description>Sutra konačno predstavljanje porezne reforme. Članovi sindikata ne mogu imati veća materijalna prava od radnika koji nisu u sindikatu - odlučio Ustavni sud. Riječki nadbiskup Mate Uzinić za HTV govorio o svojem jučerašnjem neuobičajenom istupu.
+Urednica: Sanja Cota</description>
+    <pubDate>Tue, 23 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/28/20230523-kronika-dana-34159717-20230523204030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.05. 2023-05-22</title>
     <link>https://api.hrt.hr/media/0b/b7/20230522-kronika-dana-34155800-20230522204018.mp3</link>
     <description>Riječki nadbiskup Mate Uzinić emotivno se ispričao žrtvama i potanko iznio podatke o svećenicima zlostavljačima. Počelo suđenje trima liječnicama i medicinskoj sestri za nesavjesno liječenje dječaka iz Metkovića. Za dva dana doznat ćemo pojedinosti Vladine porezne reforme. Izbornik Dalić objavio popis igrača za završnicu Lige nacija.
@@ -32,14 +41,6 @@ Urednica: Sanja Cota</description>
     <description>Na planini Maloj Kapeli u šumi pronađeni ostaci sportskog zrakoplova, još nije poznata sudbina putnika. Stagniraju ili lagano opadaju vodostaji rijeka. Papa zadužio talijanskog kardinala za mirovnu misiju u Ukrajini, Vatikan još razrađuje pojedinosti misije. Urednica: Sanja Cota</description>
     <pubDate>Sat, 20 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/44/20230520-kronika-dana-34149738-20230520204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.05. 2023-05-19</title>
-    <link>https://api.hrt.hr/media/dc/8f/20230519-kronika-dana-34147401-20230519204012.mp3</link>
-    <description>Vodostaj Save stagnira, Une je u opadanju, a Kupa još prijeti. U poplavama u Italiji poginulo najmanje 14 ljudi. U Beogradu treći i najmasovniji prosvjed "Srbija protiv nasilja", okupilo se više desetaka tisuća ljudi. Vlada prihvatila rebalans proračuna, drugi je najavljen za jesen. Ministar i građevinari najavili da će se do kraja godine otvoriti više od 750 gradilišta u sklopu obnove nakon potresa. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 19 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/8f/20230519-kronika-dana-34147401-20230519204012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
