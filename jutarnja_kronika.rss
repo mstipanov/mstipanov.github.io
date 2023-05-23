@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 22 May 2023 05:47:55 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:50:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.05. 2023-05-23</title>
+    <link>https://api.hrt.hr/media/f0/d0/20230523-jutarnja-kronika-34156381-20230523053019.mp3</link>
+    <description>Pojedinosti Vladine porezne reforme doznat ćemo sutra, danas će biti predstavljena koalicijskim partnerima. Riječki nadbiskup Mate Uzinić emotivno se ispričao žrtvama i potanko iznio podatke o svećenicima zlostavljačima. Duž ruske granice s Ukrajinom počele su borbe nakon što su samoproglašene ruske partizanske snage pokrenule prekogranični napad. Dvjestota je obljetnica rođenja Oca domovine Ante Starčevića i Dan ličko-senjske županije - premijer Plenković u Gospiću će sudjelovati na sjednici županijske skupštine, u Zagrebu će biti prestavljena monografija "Ante Starčević - Ideali slobode i prava". Urednik: Silvio Šop</description>
+    <pubDate>Tue, 23 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f0/d0/20230523-jutarnja-kronika-34156381-20230523053019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.05. 2023-05-22</title>
     <link>https://api.hrt.hr/media/cd/d4/20230522-jutarnja-kronika-34152421-20230522053517.mp3</link>
     <description>Očekuje se izvlačenje izgorjelog zrakoplova u kojem je poginulo troje ljudi. U Petrinji uskoro ukidanje izvanrednog stanja obrane od poplava. Vladajuća stranka Nova demokracija pobjednica parlamentarnih izbora u Grčkoj. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Vodostaj rijeka uglavnom stagnira. Sve žurne službe i dalje su na terenu. Vlada prihvatila rebalans proračuna, drugi je najavljen za jesen. Predsjednik Milanović nazočit će svečanoj inauguraciji crnogorskog predsjednika Milatovića, a posjetit će i Hrvate u Boki kotorskoj. U Beogradu održan dosad najveći prosvjed protiv režima predsjednika Vučića. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 20 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/2f/20230520-jutarnja-kronika-34147916-20230520054513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.05. 2023-05-19</title>
-    <link>https://api.hrt.hr/media/f8/6c/20230519-jutarnja-kronika-34144356-20230519053556.mp3</link>
-    <description>Vodeni val stigao na Banovinu, iduća 24 sata kritična su za Sisak i Petrinju, vojska je cijelu noć pojačavala nasipe u Krnjicu. Ruska vojska svim silama pokušava privesti kraju bitku za Bahmut. 13 poginulih u poplavama u Italiji. Nakon izvanrednih otkaza u zagrebačkoj bolnici Sveti Duh oglasila se i ravnateljica - tvrdi da je o problemima u mrtvačnici bila obaviještena, no nije znala da pokojnike u nedostatku prostora smještaju na pod. Urednica: Mira Barić</description>
-    <pubDate>Fri, 19 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f8/6c/20230519-jutarnja-kronika-34144356-20230519053556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
