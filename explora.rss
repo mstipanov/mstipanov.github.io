@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 16 May 2023 16:32:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 16:21:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 23.05.2023. 2023-05-23</title>
+    <link>https://api.hrt.hr/media/da/1c/20230523-explora-7951697-20230523161530.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 23 May 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/da/1c/20230523-explora-7951697-20230523161530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 16.05.2023. 2023-05-16</title>
     <link>https://api.hrt.hr/media/db/bc/20230516-explora-7949796-20230516160532.mp3</link>
     <description>Space X – komercijalna svemirska stanica za dvije godine. Virusi umjesto antibiotika i CRISPR metoda. AI i rano otkrivanje bolesti. AI i seksualne usluge. AI i lektira. Kako spriječiti sušu? Tinitus – zujanje u ušima. Zašto je cvijeće lijepo ženama ( a ne npr. plodovi) ? Mučnina na zadnjem sjedištu moga auta. Otkriveni novi mjeseci oko Saturna. Kako su nastali Saturnovi prsteni? Evolucija i revolucija.
@@ -108,16 +116,6 @@ Hiperspekrtralna kamuflaža zamjenjuje privid fraktalne plohe.
 </description>
     <pubDate>Tue, 21 Mar 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/f0/20230321-explora-7932225-20230321160034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 14.03.2023. 2023-03-14</title>
-    <link>https://api.hrt.hr/media/18/48/20230314-explora-7929877-20230314161032.mp3</link>
-    <description>Neuspješno testiranje raketa Terran 1 i japanske H3. James Webb i prateća galaksija u ranom svemiru. Korisnost ili pomodarstvo ukrasnih led traka. Štetni toaletni papir. Friteze na vrući zrak, kuhanje na paru, ili bez ikakve tekućine. Radioaktivni vrh gromobrana, njegova vrijednost i štetnost. Izbaciti persiranje, neposredna komunikacija. Kada je čovjek počeo govoriti neistinu. Novo cjepivo za američke pčele. Zaštita Velikog koraljnog grebena u Australiji.
-
-</description>
-    <pubDate>Tue, 14 Mar 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/48/20230314-explora-7929877-20230314161032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
