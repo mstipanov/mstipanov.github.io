@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 May 2023 20:52:02 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 20:54:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.05. 2023-05-24</title>
+    <link>https://api.hrt.hr/media/9c/89/20230524-kronika-dana-34163280-20230524204019.mp3</link>
+    <description>U 83-ćoj godini umrla legendarna Tina Turner! Vlada predstavila poreznu reformu - ukida se prirez, povećava osobni odbitak, sufinanciraju se doprinosi. Velika međunarodna policijska akcija protiv krijumčara droge, uhićeno ukupno 20 osoba, u Hrvatskoj 10. Hajduk na Rujevici pobijedio Šibenik 2:0 i osvojio Hrvatski kup.
+Urednica: Mira Barić</description>
+    <pubDate>Wed, 24 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9c/89/20230524-kronika-dana-34163280-20230524204019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.05. 2023-05-23</title>
     <link>https://api.hrt.hr/media/4b/28/20230523-kronika-dana-34159717-20230523204030.mp3</link>
     <description>Sutra konačno predstavljanje porezne reforme. Članovi sindikata ne mogu imati veća materijalna prava od radnika koji nisu u sindikatu - odlučio Ustavni sud. Riječki nadbiskup Mate Uzinić za HTV govorio o svojem jučerašnjem neuobičajenom istupu.
@@ -33,14 +42,6 @@ Urednica: Sanja Cota</description>
     <description>Počela istraga o padu sportskog zrakoplova na Maloj Kapeli, identitet putnika bit će utvrđen analizom DNK-a. Smiruje se stanje na poplavljenim područjima. Petrinja je nadomak ukidanju izvanrednog stanja. I dalje nema potvrde je li Bahmut pao, ukrajinska strana opovrgava Kremlj da je grad potpuno pod ruskim nadzorom. Urednica: Mira Barić</description>
     <pubDate>Sun, 21 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b0/4b/20230521-kronika-dana-34151847-20230521204015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.05. 2023-05-20</title>
-    <link>https://api.hrt.hr/media/9e/44/20230520-kronika-dana-34149738-20230520204013.mp3</link>
-    <description>Na planini Maloj Kapeli u šumi pronađeni ostaci sportskog zrakoplova, još nije poznata sudbina putnika. Stagniraju ili lagano opadaju vodostaji rijeka. Papa zadužio talijanskog kardinala za mirovnu misiju u Ukrajini, Vatikan još razrađuje pojedinosti misije. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 20 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9e/44/20230520-kronika-dana-34149738-20230520204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
