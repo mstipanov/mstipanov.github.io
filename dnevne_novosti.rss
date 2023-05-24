@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 May 2023 13:51:14 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 13:54:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Pretpostavlja se da je u zrakoplovnoj nesreći na Maloj Kapeli poginulo troje Nizozemaca, no zrakoplov je izgorio pa će se njihov identitet utvrditi analizom DNK. Vodostaji rijeka padaju, ali su nasipi na petrinjskom i sisačkom području još uvijek pod velikim pritiskom. Nejasna je situacija s ukrajinskim gradom Bahmutom - Rusi tvrde da su ga zauzeli. Urednica: Sanja Cota</description>
     <pubDate>Sun, 21 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/94/20230521-dnevne-novosti-34151171-20230521133515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.05. 2023-05-20</title>
-    <link>https://api.hrt.hr/media/b0/b1/20230520-dnevne-novosti-34148961-20230520134013.mp3</link>
-    <description>S poplavljenih područja povoljne vijesti - vodostaji stagniraju ili su u laganom padu. Ukrajinski predsjednik Volodimir Zelenski u Hirošimi, gdje se održava summit G7, sastat će se, kako je najavio, s partnerima i prijateljima Ukrajine. Europska komisija INA-i i MOL-u odobrila preuzimanje OMV-a Slovenija. Inauguriran novi predsjednik Crne Gore Jakov Milatović. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 20 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b0/b1/20230520-dnevne-novosti-34148961-20230520134013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
