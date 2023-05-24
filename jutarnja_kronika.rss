@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 May 2023 05:50:26 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 05:52:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.05. 2023-05-24</title>
+    <link>https://api.hrt.hr/media/6f/30/20230524-jutarnja-kronika-34160235-20230524053531.mp3</link>
+    <description>Javnosti će biti predstavljena dugo iščekivana porezna reforma. Riječki nadbiskup Mate Uzinić o emotivnom istupu na konferenciji za novinare, kada je otkrio pojedinosti o zlostavljanju maloljetnika - vrijeme je da se Crkva i na taj način počne suočavati sa svojim problemima. Rusija tvrdi da se obračunala s dvjema diverzantskim skupinama partizana, protivnika Putinova režima. U Osijeku počinje prvi Panonski festival knjige. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 24 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6f/30/20230524-jutarnja-kronika-34160235-20230524053531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.05. 2023-05-23</title>
     <link>https://api.hrt.hr/media/f0/d0/20230523-jutarnja-kronika-34156381-20230523053019.mp3</link>
     <description>Pojedinosti Vladine porezne reforme doznat ćemo sutra, danas će biti predstavljena koalicijskim partnerima. Riječki nadbiskup Mate Uzinić emotivno se ispričao žrtvama i potanko iznio podatke o svećenicima zlostavljačima. Duž ruske granice s Ukrajinom počele su borbe nakon što su samoproglašene ruske partizanske snage pokrenule prekogranični napad. Dvjestota je obljetnica rođenja Oca domovine Ante Starčevića i Dan ličko-senjske županije - premijer Plenković u Gospiću će sudjelovati na sjednici županijske skupštine, u Zagrebu će biti prestavljena monografija "Ante Starčević - Ideali slobode i prava". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Na planini Maloj Kapeli sinoć pronađeni ostaci sportskog zrakoplova koji je letio iz Maribora u Pulu, o sudbini putnika još nema službene informacije. Stagniraju ili lagano padaju vodostaji rijeka, najteže je iza nas, ali opasnost od poplava još nije prošla. Rusija sinoć objavila da je zauzela Bahmut, Ukrajina se još nije oglasila, za razliku od jučer, kada je istu informaciju objavio Wagner, a Kijev odmah opovrgnuo. SPORT - Gorica izborila ostanak u prvoj ligi, iz koje ispada Šibenik. Urednik: Silvio Šop</description>
     <pubDate>Sun, 21 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0e/5a/20230521-jutarnja-kronika-34150233-20230521053015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.05. 2023-05-20</title>
-    <link>https://api.hrt.hr/media/94/2f/20230520-jutarnja-kronika-34147916-20230520054513.mp3</link>
-    <description>Vodostaj rijeka uglavnom stagnira. Sve žurne službe i dalje su na terenu. Vlada prihvatila rebalans proračuna, drugi je najavljen za jesen. Predsjednik Milanović nazočit će svečanoj inauguraciji crnogorskog predsjednika Milatovića, a posjetit će i Hrvate u Boki kotorskoj. U Beogradu održan dosad najveći prosvjed protiv režima predsjednika Vučića. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 20 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/2f/20230520-jutarnja-kronika-34147916-20230520054513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
