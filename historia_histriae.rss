@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 May 2023 16:07:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 16:26:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>TVRĐAVA PULA 2023-05-25</title>
+    <link>https://api.hrt.hr/media/d0/93/20230525-historia-histriae-7952927-20230525160023.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 25 May 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/93/20230525-historia-histriae-7952927-20230525160023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Povijest Pule i nogometa uz braću Banana 2023-05-18</title>
     <link>https://api.hrt.hr/media/b7/30/20230518-historia-histriae-7943075-20230518150544.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi jedna od posljednjih gradskih faca - general Bajić! Pričamo o Puli, o starinama, sajmu starih stvari i kolekcionarstvu </description>
     <pubDate>Thu, 23 Mar 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8e/bf/20230323-historia-histriae-7932820-20230323165051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>DARIO KORACA ZA HISTORIU 2023-03-16</title>
-    <link>https://api.hrt.hr/media/71/b2/20230316-historia-histriae-7930486-20230316170051.mp3</link>
-    <description>Priču o povijesti sporta u Istri donosi nam Dario Koraca, autor knjige "Sport u Istri: prvih 150 godina"</description>
-    <pubDate>Thu, 16 Mar 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/b2/20230316-historia-histriae-7930486-20230316170051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
