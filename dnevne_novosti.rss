@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 24 May 2023 14:24:05 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 13:56:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.05. 2023-05-25</title>
+    <link>https://api.hrt.hr/media/e1/f1/20230525-dnevne-novosti-34166417-20230525134021.mp3</link>
+    <description>U Vladi predstavljen novi Zakon o izbornim jedinicama. Najvažnije izmjene u Gradu Zagrebu, gotovo četvrtina birača promijenit će izbornu jedinicu. U eksploziji zaostalog zvončića na zagrebačkom Zrinjevcu ozlijeđen radnik. Svijet se oprašta od glazbene ikone Tine Turner. Urednica: Mira Barić</description>
+    <pubDate>Thu, 25 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/f1/20230525-dnevne-novosti-34166417-20230525134021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.05. 2023-05-24</title>
     <link>https://api.hrt.hr/media/92/9c/20230524-dnevne-novosti-34162165-20230524135519.mp3</link>
     <description>U novom krugu porezne reforme Vlada ukida prirez, povećava osobni odbitak, a doprinosi se sufinanciraju. Preporuka Europske komisije Vladi je da se do kraja godine postupno ukinu intervencije u cijene energenata. Sport: tisuće navijača stižu u Rijeku na finale Hrvatskog kupa između Šibenika i Hajduka. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Pojedinosti nove porezne reforme doznat ćemo u srijedu. Gotovo pet godina nakon smrti 9-godišnjega Gabrijela počelo je suđenje trima liječnicama i medicinskoj sestri. Istraga pada nizozemskog zrakoplova na Malu Kapelu otkrila da je bio letio u skupini od osam letjelica. Izvlačenje olupine odgođeno je za sutra. Osam osoba poginulo je u ruskom napadu na grad Dnjipro. Urednica: Mira Barić</description>
     <pubDate>Mon, 22 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/af/d7/20230522-dnevne-novosti-34154485-20230522134018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.05. 2023-05-21</title>
-    <link>https://api.hrt.hr/media/e4/94/20230521-dnevne-novosti-34151171-20230521133515.mp3</link>
-    <description>Pretpostavlja se da je u zrakoplovnoj nesreći na Maloj Kapeli poginulo troje Nizozemaca, no zrakoplov je izgorio pa će se njihov identitet utvrditi analizom DNK. Vodostaji rijeka padaju, ali su nasipi na petrinjskom i sisačkom području još uvijek pod velikim pritiskom. Nejasna je situacija s ukrajinskim gradom Bahmutom - Rusi tvrde da su ga zauzeli. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 21 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e4/94/20230521-dnevne-novosti-34151171-20230521133515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
