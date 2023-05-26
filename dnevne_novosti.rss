@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 May 2023 13:56:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 13:58:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.05. 2023-05-26</title>
+    <link>https://api.hrt.hr/media/75/c4/20230526-dnevne-novosti-34170410-20230526134546.mp3</link>
+    <description>Kod Labina se prevrnuo traktor s prikolicom punom maturanata, ozlijeđeno je njih 16. U Zambiji u tijeku ključno ročište Hrvatima optuženima za trgovanje djecom. MOST i Možemo u saborsku proceduru poslali izmjene Kaznenog zakona, traže da se ukine zastara za spolno zlostavljanje i iskorištavanje djece. Na Hvaru počeo 26. Međunarodni festival radiodrame Prix Marulić. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 26 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/75/c4/20230526-dnevne-novosti-34170410-20230526134546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.05. 2023-05-25</title>
     <link>https://api.hrt.hr/media/e1/f1/20230525-dnevne-novosti-34166417-20230525134021.mp3</link>
     <description>U Vladi predstavljen novi Zakon o izbornim jedinicama. Najvažnije izmjene u Gradu Zagrebu, gotovo četvrtina birača promijenit će izbornu jedinicu. U eksploziji zaostalog zvončića na zagrebačkom Zrinjevcu ozlijeđen radnik. Svijet se oprašta od glazbene ikone Tine Turner. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Pravosudni policajci najavljuju prosvjed za petak i mogući bijeli štrajk zbog malih plaća i uvjeta rada u kaznionicama. Vlada će sutra predstaviti pojedinosti dugo najavljivane porezne reforme. Ukrajinske obavještajne službe tvrde da Rusi iz regije Belgorod povlače nuklearne bojne glave. U 91. godini umrla legendarna Sanda Langerholz. Urednica: Mira Barić</description>
     <pubDate>Tue, 23 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/6c/20230523-dnevne-novosti-34158691-20230523134030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.05. 2023-05-22</title>
-    <link>https://api.hrt.hr/media/af/d7/20230522-dnevne-novosti-34154485-20230522134018.mp3</link>
-    <description>Pojedinosti nove porezne reforme doznat ćemo u srijedu. Gotovo pet godina nakon smrti 9-godišnjega Gabrijela počelo je suđenje trima liječnicama i medicinskoj sestri. Istraga pada nizozemskog zrakoplova na Malu Kapelu otkrila da je bio letio u skupini od osam letjelica. Izvlačenje olupine odgođeno je za sutra. Osam osoba poginulo je u ruskom napadu na grad Dnjipro. Urednica: Mira Barić</description>
-    <pubDate>Mon, 22 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/af/d7/20230522-dnevne-novosti-34154485-20230522134018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
