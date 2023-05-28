@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 27 May 2023 21:02:10 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 21:05:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.05. 2023-05-28</title>
+    <link>https://api.hrt.hr/media/c1/5a/20230528-kronika-dana-34175888-20230528204530.mp3</link>
+    <description>Hrvatska vojska proslavila 32. rođendan. U Rijeci uhićene dvije osobe povezane s nizom postavljenih eksplozivnih naprava. Erdogan proglasio pobjedu na predsjedničkim izborima u Turskoj. Braća Sinković ruše rekorde - osvojili sedmo europsko zlato! Urednica: Sanja Rabuzin.</description>
+    <pubDate>Sun, 28 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c1/5a/20230528-kronika-dana-34175888-20230528204530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.05. 2023-05-27</title>
     <link>https://api.hrt.hr/media/e1/e9/20230527-kronika-dana-34173525-20230527204503.mp3</link>
     <description>U Beogradu još jedan masovni prosvjed protiv nasilja. Građani traže odlazak Aleksandra Vučića, koji više nije predsjednik Srpske napredne stranke. Osmero labinskih maturanata, koji su traktorom sletjeli niz padinu, u bolnici su i dobro se oporavlja. Zbrajaju se štete od prošlotjednih poplava - nakon povlačenja vode prijeti najezda glodavaca i komaraca. Grad New York ozakonio zabranu diskriminacije na osnovi težine i visine. Urednica: Sanja Rabuzin.</description>
@@ -31,15 +39,6 @@
     <description>Predstavljen prijedlog Zakona o izbornim jedinicama, gotovo četvrtina birača promijenit će izbornu jedinicu. Oporba kritizira prijedlog zakona, izborne jedinice nazvala frankenštajnskim. U Saboru rasprava o rebalansu ovogodišnjeg državnog proračuna. Na gradilištu u središtu Zagreba ozlijeđen strani radnik, navodno eksplodirao zvončić iz napada na grad 1995. godine. Dodijeljene nagrade za arhitektonsko stvaralaštvo u prošloj godini. Urednik: Silvio Šop</description>
     <pubDate>Thu, 25 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/76/cc/20230525-kronika-dana-34167622-20230525204021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.05. 2023-05-24</title>
-    <link>https://api.hrt.hr/media/9c/89/20230524-kronika-dana-34163280-20230524204019.mp3</link>
-    <description>U 83-ćoj godini umrla legendarna Tina Turner! Vlada predstavila poreznu reformu - ukida se prirez, povećava osobni odbitak, sufinanciraju se doprinosi. Velika međunarodna policijska akcija protiv krijumčara droge, uhićeno ukupno 20 osoba, u Hrvatskoj 10. Hajduk na Rujevici pobijedio Šibenik 2:0 i osvojio Hrvatski kup.
-Urednica: Mira Barić</description>
-    <pubDate>Wed, 24 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/89/20230524-kronika-dana-34163280-20230524204019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
