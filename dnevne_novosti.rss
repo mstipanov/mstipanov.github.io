@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 28 May 2023 13:34:14 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 14:04:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.05. 2023-05-28</title>
+    <link>https://api.hrt.hr/media/9f/f5/20230528-dnevne-novosti-34175093-20230528133534.mp3</link>
+    <description>Braća Sinković ruše rekorde - osvojili sedmo europsko zlato! Dan je Hrvatske vojske, prije 32 godine predstavljene prve postrojbe Zbora narodne garde. U Rijeci uhićena dvojica bombaša. Turska odlučuje na predsjedničkim izborima - Erdogan ili Kilicdaroglu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 28 May 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9f/f5/20230528-dnevne-novosti-34175093-20230528133534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.05. 2023-05-27</title>
     <link>https://api.hrt.hr/media/42/11/20230527-dnevne-novosti-34172787-20230527134002.mp3</link>
     <description>Osmero maturanata, zadržanih u pulskoj bolnici nakon što su traktorom sletjeli niz padinu, dobro se oporavlja. Policija potvrdila da je traktor vozio maloljetnik. Nakon skupa potpore predsjedniku Vučiću, u Beogradu večeras ponovno građanski prosvjed protiv nasilja - četvrti u nešto više od dva tjedna. U Kragujevcu skupština Srpske narodnjačke stranke, bira se Vučićev nasljednik. U New Yorku će pretili ljudi biti zakonski zaštićeni od diskriminacije. Urednica: Mira Barić</description>
