@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 28 May 2023 06:03:04 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 05:35:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -33,14 +33,6 @@ Urednik: Mario Krstanović</description>
     <description>Štrajk najavljuje sindikat državnih i lokalnih službenika jer s Ministarstvom pravosuđa nisu uspjeli dogovoriti 400 eura veće plaće. Zbog malih plaća prosvjeduju pravosudni policajci. Nakon triju velikih prosvjeda oporbe, u Beogradu se očekuje prosvjed potpore sadašnjoj vlasti i predsjedniku Vučiću. Maturantima je zadnji dan nastave. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 26 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3e/e9/20230526-jutarnja-kronika-34168262-20230526054022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.05. 2023-05-25</title>
-    <link>https://api.hrt.hr/media/8d/ec/20230525-jutarnja-kronika-34163829-20230525054020.mp3</link>
-    <description>U 84-oj godini u svojem domu u Švicarskoj umrla legendarna Tina Turner! Nakon što je predstavila poreznu reformu, Vlada će danas predstaviti i novi zakonski prijedlog o izbornim jedinicama. Suci postigli dogovor o većim plaćama. Hajduk na Rujevici pobijedio Šibenik 2:0 i osvojio Hrvatski kup. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 25 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8d/ec/20230525-jutarnja-kronika-34163829-20230525054020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
