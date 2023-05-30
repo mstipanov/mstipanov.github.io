@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 29 May 2023 21:07:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 20:40:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Beogradu još jedan masovni prosvjed protiv nasilja. Građani traže odlazak Aleksandra Vučića, koji više nije predsjednik Srpske napredne stranke. Osmero labinskih maturanata, koji su traktorom sletjeli niz padinu, u bolnici su i dobro se oporavlja. Zbrajaju se štete od prošlotjednih poplava - nakon povlačenja vode prijeti najezda glodavaca i komaraca. Grad New York ozakonio zabranu diskriminacije na osnovi težine i visine. Urednica: Sanja Rabuzin.</description>
     <pubDate>Sat, 27 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e1/e9/20230527-kronika-dana-34173525-20230527204503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.05. 2023-05-26</title>
-    <link>https://api.hrt.hr/media/71/b0/20230526-kronika-dana-34171433-20230526204045.mp3</link>
-    <description>Kosovu su se sukobili policija i građani koji su pokušali spriječiti dolazak na posao novih čelnika općina na sjeveru zemlje. Vučić najavio sjednicu nacionalnog vijeća sigurnosti. U Beogradu prosvjed Vučićevih pristaša. Odgovor je to na oporbene prosvjede proteklih dana. U našoj zemlji počela proslava Dana hrvatske vojske. Pravosudni policajci prosvjedovali ispred Ministarstva pravosuđa. Traže veće plaće. Kod Labina u ponor sletio traktor s prikolicom punom maturanata. Ozlijeđeno je njih 16, nitko nije životno ugrožen. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 26 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/b0/20230526-kronika-dana-34171433-20230526204045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
