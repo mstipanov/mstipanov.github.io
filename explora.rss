@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 24 May 2023 08:23:19 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 16:10:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.jpg</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 30.05.2023. 2023-05-30</title>
+    <link>https://api.hrt.hr/media/f7/84/20230530-explora-7954309-20230530160550.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 30 May 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/84/20230530-explora-7954309-20230530160550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 23.05.2023. 2023-05-23</title>
     <link>https://api.hrt.hr/media/da/1c/20230523-explora-7951697-20230523161530.mp3</link>
     <description>I ja sam Explorijanac! Dobili smo pismo i majicu. Recenzije u znanosti. Ravnozemljaši moraju postojati! Lučne sekunde i minute. Space X Falcon. Natječaj za samoodrživi prehrambeni eko sustav. Zelena pupavka. I mi smo hrana - komarcima. Kako produžiti telomere? Beton - rimski, armirani, prenapregnuti i - s rabljenim pelenama!</description>
@@ -107,15 +115,6 @@ Hiperspekrtralna kamuflaža zamjenjuje privid fraktalne plohe.
 </description>
     <pubDate>Tue, 28 Mar 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cc/c4/20230328-explora-7934445-20230328161105.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 21.03.2023. 2023-03-21</title>
-    <link>https://api.hrt.hr/media/ca/f0/20230321-explora-7932225-20230321160034.mp3</link>
-    <description>Messier maraton u Višnjanu. Podzemne baze na Mjesecu. Vinske i voćne mušice – prva definirana struktura mozga. Borilački sportovi i oštećenje mozga. Izgradnja bio elektroda ubrizgavanjem gela – poništavanje razlike između biologije i elektronike.  Izgaranje borovine – paljenje tamjana i drugih eteričnih ulja. Prehrambena industrija, koji pasterizator. Djeca i monitori, ekrani – kada dopustiti i koliko? 
-</description>
-    <pubDate>Tue, 21 Mar 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/f0/20230321-explora-7932225-20230321160034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
