@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 May 2023 21:10:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 21:13:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.05. 2023-05-31</title>
+    <link>https://api.hrt.hr/media/d7/77/20230531-kronika-dana-34185978-20230531204048.mp3</link>
+    <description>Na Međunarodnome sigurnosnom forumu u Bratislavi predstavljena nova inicijativa za zapadni Balkan. Bivši čelnici srbijanske državne sigurnosti Stanišić i Simatović pravomoćno osuđeni na 15 godina zatvora. Ispitima iz materinskih jezika nacionalnih manjina počela državna matura. Zagreb proslavio Dan grada. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Wed, 31 May 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d7/77/20230531-kronika-dana-34185978-20230531204048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.05. 2023-05-30</title>
     <link>https://api.hrt.hr/media/99/6e/20230530-kronika-dana-34182325-20230530204050.mp3</link>
     <description>U povodu Dana državnosti, diljem zemlje počast Domovini i poginulim braniteljima. Službena proslava i ove godine bez predsjednika države Zorana Milanovića. On pak poručuje: danas nije Dan državnosti, nego praznik koji je HDZ izglasovao sebi. Moskva na udaru bespilotnih letjelica. Brisel pozvao Kremlj da se ne koristi svakim izgovorom za nove snažne napade na Ukrajinu. Jako nevrijeme poslijepodne zahvatilo Baranju. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska vojska proslavila 32. rođendan. U Rijeci uhićene dvije osobe povezane s nizom postavljenih eksplozivnih naprava. Erdogan proglasio pobjedu na predsjedničkim izborima u Turskoj. Braća Sinković ruše rekorde - osvojili sedmo europsko zlato! Urednica: Sanja Rabuzin.</description>
     <pubDate>Sun, 28 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c1/5a/20230528-kronika-dana-34175888-20230528204530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.05. 2023-05-27</title>
-    <link>https://api.hrt.hr/media/e1/e9/20230527-kronika-dana-34173525-20230527204503.mp3</link>
-    <description>U Beogradu još jedan masovni prosvjed protiv nasilja. Građani traže odlazak Aleksandra Vučića, koji više nije predsjednik Srpske napredne stranke. Osmero labinskih maturanata, koji su traktorom sletjeli niz padinu, u bolnici su i dobro se oporavlja. Zbrajaju se štete od prošlotjednih poplava - nakon povlačenja vode prijeti najezda glodavaca i komaraca. Grad New York ozakonio zabranu diskriminacije na osnovi težine i visine. Urednica: Sanja Rabuzin.</description>
-    <pubDate>Sat, 27 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/e9/20230527-kronika-dana-34173525-20230527204503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
