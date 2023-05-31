@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 May 2023 05:38:54 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 05:41:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 31.05. 2023-05-31</title>
+    <link>https://api.hrt.hr/media/ce/a2/20230531-jutarnja-kronika-34182852-20230531053546.mp3</link>
+    <description>Hrvatska jučer proslavila Dan državnosti, Zagreb danas slavi svoj dan i svetkovinu Majke Božje od Kamenitih vrata, zaštitnice grada. Dron uzrokovao požar u ruskoj rafineriji nafte na Crnome moru. Svjetski je dan nepušenja.Urednica: Mira Barić.</description>
+    <pubDate>Wed, 31 May 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ce/a2/20230531-jutarnja-kronika-34182852-20230531053546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.05. 2023-05-30</title>
     <link>https://api.hrt.hr/media/9a/3f/20230530-jutarnja-kronika-34179907-20230530053050.mp3</link>
     <description>Hrvatska slavi 33. rođendan, u spomen na dan kada je konstituiran prvi demokratski višestranački Sabor. BDP u prvom tromjesečju rastao 2,8 posto - brže od planiranog. Na Kosovu više od 90 ozlijeđenih u sukobima tamošnjih Srba, kosovske policije i KFOR-a. Rano jutros novi napadi bespilotnim letjelicama na Kijev. Urednik: Mislav Togonal</description>
@@ -32,15 +40,6 @@
 Urednica Mira Barić</description>
     <pubDate>Sun, 28 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/0f/20230528-jutarnja-kronika-34174063-20230528053532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.05. 2023-05-27</title>
-    <link>https://api.hrt.hr/media/93/a7/20230527-jutarnja-kronika-34172070-20230527054045.mp3</link>
-    <description>Opet zveckanje oružja i nove napetosti na sjeveru Kosova. U Beogradu sinoć prosvjed Vučićevih pristaša, a danas će opet narod na ulice, četvrti tjedan zaredom. 500-tinjak migranata koji su brodom pokušali prijeći Sredozemno more vraćeno u Libiju. Kod Labina u ponor sletio traktor s prikolicom punom maturanata. Ozlijeđeno ih je 16.
-Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 27 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/a7/20230527-jutarnja-kronika-34172070-20230527054045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
