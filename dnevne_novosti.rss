@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 31 May 2023 14:12:26 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 13:45:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.jpg</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.06. 2023-06-01</title>
+    <link>https://api.hrt.hr/media/f4/b3/20230601-dnevne-novosti-34188687-20230601133533.mp3</link>
+    <description>Završila višemjesečna agonija za osmero Hrvata u Zambiji. Nakon oslobađajuće sudske presude uskoro se s posvojenom djecom vraćaju u Hrvatsku. Na summit u Moldaviji došao i ukrajinski predsjednik Zelenski. Inflacija u Hrvatskoj usporila na 7,9 posto. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 01 Jun 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f4/b3/20230601-dnevne-novosti-34188687-20230601133533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.05. 2023-05-31</title>
     <link>https://api.hrt.hr/media/f7/c6/20230531-dnevne-novosti-34184966-20230531134046.mp3</link>
     <description>Stanišić i Simatović odgovorni i za zločine u Hrvatskoj, kazna im povećana na 15 godina. Zagreb slavi Dan Grada. Počela državna matura. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Hrvatsko gospodarstvo u prva tri mjeseca ove godine poraslo je 2 cijela 8 posto. To je već deveto tromjesečje zaredom da gospodarstvo raste. Hrvatska će za obnovu nakon potresa potpuno iskoristiti milijardu i 3 milijuna eura iz Fonda solidarnosti, rekao je na Vladinoj sjednici premijer Plenković. Nakon uhićenja dvojice bombaša u Rijeci, policija na izvanrednoj konferenciji za novinstvo objavila nove pojedinosti. Redžep Tajip Erdoan ponovno je izabran za turskog predsjednika. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 29 May 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6c/84/20230529-dnevne-novosti-34178375-20230529134016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.05. 2023-05-28</title>
-    <link>https://api.hrt.hr/media/9f/f5/20230528-dnevne-novosti-34175093-20230528133534.mp3</link>
-    <description>Braća Sinković ruše rekorde - osvojili sedmo europsko zlato! Dan je Hrvatske vojske, prije 32 godine predstavljene prve postrojbe Zbora narodne garde. U Rijeci uhićena dvojica bombaša. Turska odlučuje na predsjedničkim izborima - Erdogan ili Kilicdaroglu. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 28 May 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9f/f5/20230528-dnevne-novosti-34175093-20230528133534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
