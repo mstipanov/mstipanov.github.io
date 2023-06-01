@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 31 May 2023 05:41:31 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 05:44:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.jpg</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.06. 2023-06-01</title>
+    <link>https://api.hrt.hr/media/f7/b3/20230601-jutarnja-kronika-34186562-20230601053532.mp3</link>
+    <description>Za Hrvate u Zambiji presudno ročište - oslobađanje od optužbi za trgovinu djecom ili nastavak suđenja. U Saboru o dopuni zakonodavnog okvira za međudržavna posvajanja djece. Bivši čelnici srbijanske državne sigurnosti Stanišić i Simatović pravomoćno osuđeni na 15 godina zatvora. Radio Osijek slavi 80. rođendan.: Snježana Kralj</description>
+    <pubDate>Thu, 01 Jun 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/b3/20230601-jutarnja-kronika-34186562-20230601053532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 31.05. 2023-05-31</title>
     <link>https://api.hrt.hr/media/ce/a2/20230531-jutarnja-kronika-34182852-20230531053546.mp3</link>
     <description>Hrvatska jučer proslavila Dan državnosti, Zagreb danas slavi svoj dan i svetkovinu Majke Božje od Kamenitih vrata, zaštitnice grada. Dron uzrokovao požar u ruskoj rafineriji nafte na Crnome moru. Svjetski je dan nepušenja.Urednica: Mira Barić.</description>
@@ -31,15 +39,6 @@
     <description>Spašena žena koja je satima visjela sa stijene na Veležu. Erdogan slavi - i sljedećih pet godina bit će turski predsjednik. Vlada će održati posebnu sjednicu, tema je Fond za solidarnost za obnovu od potresa. Počinju prijave u sustav za upis u srednje škole. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 29 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/62/34/20230529-jutarnja-kronika-34176512-20230529053518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.05. 2023-05-28</title>
-    <link>https://api.hrt.hr/media/69/0f/20230528-jutarnja-kronika-34174063-20230528053532.mp3</link>
-    <description>U Turskoj drugi krug predsjedničkih izbora, ankete prednost daju sadašnjem predsjedniku Erdoanu pred oporbenim kandidatom Kilič-daroluom. Dan je Hrvatske vojske, spomen na 28. svibnja 91. i prvu smotru Zbora narodne garde.U Washingtonu postignut dogovor o dugu, američka vlada izbjegla bankrot..
-Urednica Mira Barić</description>
-    <pubDate>Sun, 28 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/0f/20230528-jutarnja-kronika-34174063-20230528053532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
