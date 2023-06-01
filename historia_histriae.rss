@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 May 2023 16:26:48 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 16:45:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.jpg</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>DAVID ORLOVIĆ O MONTE ZARU 2023-06-01</title>
+    <link>https://api.hrt.hr/media/42/5f/20230601-historia-histriae-7954877-20230601160033.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 01 Jun 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/5f/20230601-historia-histriae-7954877-20230601160033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>TVRĐAVA PULA 2023-05-25</title>
     <link>https://api.hrt.hr/media/d0/93/20230525-historia-histriae-7952927-20230525160023.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi predstavnik pulske alternativne scene na kojoj djeluje već gotovo pola stoljeća.....pričamo o povijesti koja je također dio našeg grada.....s nama je Branko Sušac!</description>
     <pubDate>Thu, 30 Mar 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/c3/20230330-historia-histriae-7935078-20230330155017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Vladimir Bajić 2023-03-23</title>
-    <link>https://api.hrt.hr/media/8e/bf/20230323-historia-histriae-7932820-20230323165051.mp3</link>
-    <description>U goste nam dolazi jedna od posljednjih gradskih faca - general Bajić! Pričamo o Puli, o starinama, sajmu starih stvari i kolekcionarstvu </description>
-    <pubDate>Thu, 23 Mar 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8e/bf/20230323-historia-histriae-7932820-20230323165051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
