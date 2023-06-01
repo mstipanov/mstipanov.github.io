@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Jun 2023 20:45:49 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 21:15:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.jpeg</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.06. 2023-06-01</title>
+    <link>https://api.hrt.hr/media/e6/6e/20230601-kronika-dana-34189734-20230601204033.mp3</link>
+    <description>Hrvati kojima se u Zambiji sudilo za trgovanje djecom oslobođeni svih optužbi. Čeka se njihov povratak u Hrvatsku. Prošireni sastanak na vrhu Europske unije u Moldaviji. Rusija bijesna. Kosovska predsjednica ne isključuje nove izbore na nemirnom sjeveru zemlje. Inflacija u Hrvatskoj usporila na 7 cijelih 9 posto. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 01 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/6e/20230601-kronika-dana-34189734-20230601204033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 31.05. 2023-05-31</title>
     <link>https://api.hrt.hr/media/d7/77/20230531-kronika-dana-34185978-20230531204048.mp3</link>
     <description>Na Međunarodnome sigurnosnom forumu u Bratislavi predstavljena nova inicijativa za zapadni Balkan. Bivši čelnici srbijanske državne sigurnosti Stanišić i Simatović pravomoćno osuđeni na 15 godina zatvora. Ispitima iz materinskih jezika nacionalnih manjina počela državna matura. Zagreb proslavio Dan grada. Urednica: Marija Gerbec Njavro</description>
