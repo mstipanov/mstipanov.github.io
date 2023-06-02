@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Jun 2023 21:45:57 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 20:48:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.06. 2023-06-02</title>
+    <link>https://api.hrt.hr/media/96/a4/20230602-kronika-dana-34193566-20230602204506.mp3</link>
+    <description>Osmero oslobođenih Hrvata u Zambiji preuzelo posvojenu djecu i krenulo na put u Hrvatsku. Počelo rušenje nezakonito sagrađenih objekata u simbolu bespravne gradnje - uvali Vruji u Pisku, između Omiša i Brela. Najmanje je 50 osoba poginulo, a više od 500 je ozlijeđenih u sudaru putničkih vlakova u Indiji. Sutra počinje testiranje novog sustava uzbunjivanja - SMS-ovima upozorenja. Urednica: Mira Barić</description>
+    <pubDate>Fri, 02 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/96/a4/20230602-kronika-dana-34193566-20230602204506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.06. 2023-06-01</title>
     <link>https://api.hrt.hr/media/e6/6e/20230601-kronika-dana-34189734-20230601204033.mp3</link>
     <description>Hrvati kojima se u Zambiji sudilo za trgovanje djecom oslobođeni svih optužbi. Čeka se njihov povratak u Hrvatsku. Prošireni sastanak na vrhu Europske unije u Moldaviji. Rusija bijesna. Kosovska predsjednica ne isključuje nove izbore na nemirnom sjeveru zemlje. Inflacija u Hrvatskoj usporila na 7 cijelih 9 posto. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>U povodu Dana državnosti, diljem zemlje počast Domovini i poginulim braniteljima. Službena proslava i ove godine bez predsjednika države Zorana Milanovića. On pak poručuje: danas nije Dan državnosti, nego praznik koji je HDZ izglasovao sebi. Moskva na udaru bespilotnih letjelica. Brisel pozvao Kremlj da se ne koristi svakim izgovorom za nove snažne napade na Ukrajinu. Jako nevrijeme poslijepodne zahvatilo Baranju. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 30 May 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/99/6e/20230530-kronika-dana-34182325-20230530204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.05. 2023-05-29</title>
-    <link>https://api.hrt.hr/media/a4/65/20230529-kronika-dana-34179371-20230529205016.mp3</link>
-    <description>Gotovo stotinu ozlijeđenih u sukobima snaga KFOR-a i etničkih Srba na sjeveru Kosova. Predsjednik Srbije Aleksandar Vučić u izvanrednom obraćanju za sve je optužio kosovskog premijera Albina Kurtija. Hrvatsko gospodarstvo poraslo deveto tromjesečje zaredom. Dvojica osumnjičenih za postavljanje eksplozivnih naprava na riječkom području u istražnom zatvoru. Motiv zločina bila je isključivo materijalna korist od iznude. Urednica: Mira Barić</description>
-    <pubDate>Mon, 29 May 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/65/20230529-kronika-dana-34179371-20230529205016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
