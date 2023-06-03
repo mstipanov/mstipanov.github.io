@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 Jun 2023 05:46:44 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 05:49:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.06. 2023-06-03</title>
+    <link>https://api.hrt.hr/media/e8/3a/20230603-jutarnja-kronika-34194343-20230603054100.mp3</link>
+    <description>Osmero oslobođenih Hrvata u Zambiji preuzelo posvojenu djecu i krenulo put Hrvatske, njihov dolazak u Zagreb očekuje se danas.Počinje testiranje novog sustava uzbunjivanja SMS-ovima upozorenja koji stižu na sve mobitele u Hrvatskoj.Gotovo tri stotine poginulih u sudaru putničkih vlakova u Indiji, više od 900 ozlijeđenih.Mjesec dana od tragedije u beogradskoj školi, danas novi veliki prosvjed protiv nasilja.Urednica: Ana-Bella Leikauff</description>
+    <pubDate>Sat, 03 Jun 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/3a/20230603-jutarnja-kronika-34194343-20230603054100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.06. 2023-06-02</title>
     <link>https://api.hrt.hr/media/3c/7e/20230602-jutarnja-kronika-34190344-20230602054005.mp3</link>
     <description>Vlada traži zabranu štrajka službenika i namještenika u pravosuđu, najavljenog za ponedjeljak. Sud o zabrani odlučuje u 13 sati. Oslobođeni Hrvati u Zambiji jutros bi trebali preuzeti posvojenu djecu, a zatim svi zajedno krenuti prema Hrvatskoj. Ukrajina pod uzbunom zbog ruskih raketnih napada - Kijev ponovno meta. Kosovska predsjednica ne isključuje nove izbore na nemirnom sjeveru zemlje. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska jučer proslavila Dan državnosti, Zagreb danas slavi svoj dan i svetkovinu Majke Božje od Kamenitih vrata, zaštitnice grada. Dron uzrokovao požar u ruskoj rafineriji nafte na Crnome moru. Svjetski je dan nepušenja.Urednica: Mira Barić.</description>
     <pubDate>Wed, 31 May 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/a2/20230531-jutarnja-kronika-34182852-20230531053546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.05. 2023-05-30</title>
-    <link>https://api.hrt.hr/media/9a/3f/20230530-jutarnja-kronika-34179907-20230530053050.mp3</link>
-    <description>Hrvatska slavi 33. rođendan, u spomen na dan kada je konstituiran prvi demokratski višestranački Sabor. BDP u prvom tromjesečju rastao 2,8 posto - brže od planiranog. Na Kosovu više od 90 ozlijeđenih u sukobima tamošnjih Srba, kosovske policije i KFOR-a. Rano jutros novi napadi bespilotnim letjelicama na Kijev. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 30 May 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/3f/20230530-jutarnja-kronika-34179907-20230530053050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
