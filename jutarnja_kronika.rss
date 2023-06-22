@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Jun 2023 05:38:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 06:08:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.06. 2023-06-22</title>
+    <link>https://api.hrt.hr/media/45/d7/20230622-jutarnja-kronika-34252116-20230622054533.mp3</link>
+    <description>Hrvatska slavi Dan antifašističke borbe. Još se traga za trećim članom posade mađarskoga vojnog helikoptera koji se jučer srušio kod Drniša. Snažno nevrijeme s tučom sinoć pogodilo dio Zagorja. Na zagrebačkom Bundeku vozilo hitne pomoći pregazilo tri maloljetnice. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 22 Jun 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/d7/20230622-jutarnja-kronika-34252116-20230622054533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.06. 2023-06-21</title>
     <link>https://api.hrt.hr/media/21/0c/20230621-jutarnja-kronika-34248810-20230621054017.mp3</link>
     <description>Zadnji je dan školske godine - za učenike počinju ljetni praznici. 41 osoba poginula u zatvoru u Hondurasu. U Londonu donatorska konferencija za obnovu Ukrajine. Svjetski je dan glazbe - diljem zemlje mnogi koncerti - Simply red ponovno u Pulskoj areni. Stigao nam je prvi toplinski val. Danas se očekuje temperatura do 34 stupnja. Urednica: Marija Gerbec Njavro</description>
