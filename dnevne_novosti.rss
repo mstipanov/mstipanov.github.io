@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Jun 2023 14:05:23 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 13:39:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.06. 2023-06-22</title>
+    <link>https://api.hrt.hr/media/2a/85/20230622-dnevne-novosti-34253420-20230622133532.mp3</link>
+    <description>I dalje traje potraga za trećim članom posade mađarskog vojnog helikoptera koji se jučer srušio kod Drniša. Vozilo hitne pomoći sinoć pregazilo troje 17-godišnjaka na zagrebačkom Bundeku, teško ozlijeđeni mladić kritično. Hrvatska obilježava Dan antifašističke borbe. Prema procjenama stručnjaka petero putnika u podmornici na sjeveru Atlantika ostalo bez kisika prije dva sata. Urednica: Mira Barić</description>
+    <pubDate>Thu, 22 Jun 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2a/85/20230622-dnevne-novosti-34253420-20230622133532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.06. 2023-06-21</title>
     <link>https://api.hrt.hr/media/2f/4e/20230621-dnevne-novosti-34250679-20230621134018.mp3</link>
     <description>Mađarski vojni helikopter pao kod Drniša - nađena dva tijela, za trećim se traga. Iz nestale podmornice u Atlantiku čuli se zvukovi, petero nestalih koji su htjeli vidjeti olupinu Titanika ima zraka još do petka. Učenici od danas na praznicima, završila nastavna godina. Zahvatio nas je toplinski val. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Povratak hrvatskih nogometnih reprezentativaca nakon briljantnog nastupa u Rotterdamu. Ipak, Španjolci su boljom izvedbom jedanaesteraca pobjednici Lige nacija. Predsjednica Europskog parlamenta Roberta Metsola u prvom službenom posjetu Zagrebu. Zaposleni u državnim službama štrajkaju već treći tjedan. Počela protupožarna sezona. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 19 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ee/bf/20230619-dnevne-novosti-34243891-20230619133515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.06. 2023-06-18</title>
-    <link>https://api.hrt.hr/media/e1/b9/20230618-dnevne-novosti-34240777-20230618134014.mp3</link>
-    <description>Finale Lige nacija Hrvatska-Španjolska. U Rotterdamu oko 30 tisuća hrvatskih navijača. Klinička bolnica Sveti Duh provodi unutarnji nadzor zbog smrti pacijentice gušenjem na Hitnom bolničkom odjelu. Američki državni tajnik Antony Blinken stigao u Peking. To je prvi posjet američkoga visokog dužnosnika Kini nakon pet godina. Urednica: Mira Barić</description>
-    <pubDate>Sun, 18 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/b9/20230618-dnevne-novosti-34240777-20230618134014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
