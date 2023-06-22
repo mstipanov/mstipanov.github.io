@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Jun 2023 21:06:59 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 20:41:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.06. 2023-06-22</title>
+    <link>https://api.hrt.hr/media/57/74/20230622-kronika-dana-34254337-20230622203526.mp3</link>
+    <description>Nakon pet dana potrage večeras objavljeno da su životi pet putnika izgubljeni, u podmornici koja se spuštala do olupine Titanika dogodila se katastrofalna implozija.đeno tijelo i trećeg člana posade srušenoga mađarskog vojnog helikoptera.
+Središnja svečanost Dana antifašističke borbe održana u spomen-parku u šumi Brezovici. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 22 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/74/20230622-kronika-dana-34254337-20230622203526.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.06. 2023-06-21</title>
     <link>https://api.hrt.hr/media/ff/97/20230621-kronika-dana-34251621-20230621205031.mp3</link>
     <description>Kod Drniša pao mađarski vojni helikopter. Pronađena su tijela dvojice članova posade, za trećim se još traga. U Atlanskom oceanu i dalje traje velika potraga za nestalom podmornicom s petero ljudi. Stručnjaci kažu da kisika imaju do sutra u podne. Najmanje je 30-ero ljudi ozlijeđeno u eksploziji u središtu Pariza. Sumnja se da je eksplodirao plin. Hrvatsku zahvatio prvi ovogodišnji toplinski val, sutra u unutrašnjosti ponegdje temperatura do 37 stupnjeva. Urednica: Mira Barić</description>
@@ -31,15 +40,6 @@
     <description>Nema dogovora s Ministarstvom, pravosudni službenici treći tjedan u štrajku. Uz desetu godišnjicu članstva u Europskoj uniji, Zagreb posjetila predsjednica Europskog parlamenta. U Atlantskom oceanu nestala podmornica s turistima koji se prevoze do olupine Titanika. Urednica: Sanja Cota</description>
     <pubDate>Mon, 19 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c3/2c/20230619-kronika-dana-34244897-20230619204021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.06. 2023-06-18</title>
-    <link>https://api.hrt.hr/media/18/67/20230618-kronika-dana-34241450-20230618205024.mp3</link>
-    <description>Hrvatska reprezentacija bori se za zlato u Ligi nacija protiv Španjolske! Vatrene - s tribina bodri 40-ak tisuća navijača! Crni vikend na cestama. 23-godišnjem vozaču koji je divljao na parkiralištu trgovačkog centra određen jednomjesečni istražni zatvor. Novi slučaj smrti u bolnici Sveti Duh! Pacijentica se na hitnom prijmu - ugušila pecivom! Američki državni tajnik u Pekingu! Prvi posjet Kini jednoga visokog dužnosnika Bijele kuće nakon pet godina!
-Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 18 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/67/20230618-kronika-dana-34241450-20230618205024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
