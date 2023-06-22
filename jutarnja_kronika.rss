@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Jun 2023 13:35:36 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 05:38:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Hrvatska izgubila finale Lige nacija. Španjolci u Rotterdamu bili bolji u izvođenju jedanaesteraca. Predsjednica Europskog parlamenta Roberta Metsola dolazi u dvodnevni posjet Hrvatskoj. Jednomjesečni istražni zatvor za mladića koji je divljao automobilom i zabio se u okupljeno mnoštvo ljudi u Buzinu. Urednik:Mislav Togonal</description>
     <pubDate>Mon, 19 Jun 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/41/8f/20230619-jutarnja-kronika-34242018-20230619054516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.06. 2023-06-18</title>
-    <link>https://api.hrt.hr/media/34/7e/20230618-jutarnja-kronika-34239880-20230618053016.mp3</link>
-    <description>Dan odluke, Hrvatska večeras sa Španjolcima u finalu Lige nacija. Ponovno prosvjedi oporbe u Beogradu, Novom Sadu, Nišu i Kragujevcu.
--godišnji vozač Mercedesa koji je divljao na parkiralištu trgovačkog centra jutros će izaći pred suca istrage. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 18 Jun 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/7e/20230618-jutarnja-kronika-34239880-20230618053016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
