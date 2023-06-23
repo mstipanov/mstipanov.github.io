@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Jun 2023 20:47:42 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 21:17:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.06. 2023-06-23</title>
+    <link>https://api.hrt.hr/media/25/14/20230623-kronika-dana-34257202-20230623204519.mp3</link>
+    <description>Olujno nevrijeme s tučom u više županija na sjeveru Hrvatske. U Subotici premijer Plenković otvorio Hrvatski dom i razgovarao sa srbijanskom premijerkom Brnabić. Ne zna se zašto se dogodila implozija podmornice koja se spuštala do Titanika, svi su putnici poginuli. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 23 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/14/20230623-kronika-dana-34257202-20230623204519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.06. 2023-06-22</title>
     <link>https://api.hrt.hr/media/57/74/20230622-kronika-dana-34254337-20230622203526.mp3</link>
     <description>Nakon pet dana potrage večeras objavljeno da su životi pet putnika izgubljeni, u podmornici koja se spuštala do olupine Titanika dogodila se katastrofalna implozija.đeno tijelo i trećeg člana posade srušenoga mađarskog vojnog helikoptera.
