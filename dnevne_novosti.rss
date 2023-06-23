@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Jun 2023 13:39:56 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 13:44:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.06. 2023-06-23</title>
+    <link>https://api.hrt.hr/media/5b/07/20230623-dnevne-novosti-34256403-20230623133519.mp3</link>
+    <description>Premijer Plenković u prvom posjetu Srbiji. Povod je otvorenje Hrvatskog doma u Subotici čiju je gradnju u cijelosti financirala Hrvatska. Još se ne zna uzrok pada mađarskoga vojnog helikoptera kod Drniša pri čemu su poginule tri osobe. Završena potraga - uz olupinu Titanika u Atlantskom oceanu pronađene krhotine nestale podmornice. Svi putnici poginuli. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 23 Jun 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5b/07/20230623-dnevne-novosti-34256403-20230623133519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.06. 2023-06-22</title>
     <link>https://api.hrt.hr/media/2a/85/20230622-dnevne-novosti-34253420-20230622133532.mp3</link>
     <description>I dalje traje potraga za trećim članom posade mađarskog vojnog helikoptera koji se jučer srušio kod Drniša. Vozilo hitne pomoći sinoć pregazilo troje 17-godišnjaka na zagrebačkom Bundeku, teško ozlijeđeni mladić kritično. Hrvatska obilježava Dan antifašističke borbe. Prema procjenama stručnjaka petero putnika u podmornici na sjeveru Atlantika ostalo bez kisika prije dva sata. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Zajedničku sjednicu u Zagrebu održali hrvatska Vlada i Vijeće ministara Bosne i Hercegovine. Vrhovni sud odlučio da je štrajk pravosudnih službenika i namještenika zakonit. U zagrebačkim vrtićima zasad ostalo neupisano više od tri tisuće djece. U Atlantiku se još traži podmornica s petero putnika, nestala na putu prema olupini Titanica. Urednica: Sanja Cota</description>
     <pubDate>Tue, 20 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/13/20/20230620-dnevne-novosti-34247227-20230620134025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.06. 2023-06-19</title>
-    <link>https://api.hrt.hr/media/ee/bf/20230619-dnevne-novosti-34243891-20230619133515.mp3</link>
-    <description>Povratak hrvatskih nogometnih reprezentativaca nakon briljantnog nastupa u Rotterdamu. Ipak, Španjolci su boljom izvedbom jedanaesteraca pobjednici Lige nacija. Predsjednica Europskog parlamenta Roberta Metsola u prvom službenom posjetu Zagrebu. Zaposleni u državnim službama štrajkaju već treći tjedan. Počela protupožarna sezona. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 19 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ee/bf/20230619-dnevne-novosti-34243891-20230619133515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
