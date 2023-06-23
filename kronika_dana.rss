@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Jun 2023 20:41:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 20:47:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Središnja svečanost Dana antifašističke borbe održana u spomen-parku u šum
     <description>U Zagrebu održana zajednička sjednica hrvatske Vlade i Vijeća ministara Bosne i Hercegovine. Premijer Plenković poručio da ta zemlja ne treba strahovati od odlagališta nuklearnog otpada na Trgovskoj gori. Najmanje šestero novorođenčadi u zagrebačkoj bolnici Sveti Duh zarazilo se enterovirusom koji izaziva meningitis. Vrhovni sud odlučio da je štrajk pravosudnih službenika i namještenika zakonit. Stigao nam je prvi toplinski val. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 20 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a9/1f/20230620-kronika-dana-34248279-20230620204026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.06. 2023-06-19</title>
-    <link>https://api.hrt.hr/media/c3/2c/20230619-kronika-dana-34244897-20230619204021.mp3</link>
-    <description>Nema dogovora s Ministarstvom, pravosudni službenici treći tjedan u štrajku. Uz desetu godišnjicu članstva u Europskoj uniji, Zagreb posjetila predsjednica Europskog parlamenta. U Atlantskom oceanu nestala podmornica s turistima koji se prevoze do olupine Titanika. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 19 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/2c/20230619-kronika-dana-34244897-20230619204021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
