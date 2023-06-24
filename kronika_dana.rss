@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Jun 2023 21:17:52 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 20:52:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.06. 2023-06-24</title>
+    <link>https://api.hrt.hr/media/6c/7d/20230624-kronika-dana-34259307-20230624204008.mp3</link>
+    <description>Plaćenička skupina Wagner zaustavila se 200 kilometara od Moskve. Jevgenij Prigožin naredio njezin povratak u bazu. Jučerašnje nevrijeme izazvalo golemu štetu na sjeveru zemlje. Ponovno se postavlja pitanje protugradne obrane. Vozaču Hitne pomoći, koji je na Bundeku pregazio maloljetnike, određen istražni zatvor. Kolege mu sirenama iskazali potporu. Splitska policija zaplijenila nevjerojatan arsenal oružja. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 24 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6c/7d/20230624-kronika-dana-34259307-20230624204008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.06. 2023-06-23</title>
     <link>https://api.hrt.hr/media/25/14/20230623-kronika-dana-34257202-20230623204519.mp3</link>
     <description>Olujno nevrijeme s tučom u više županija na sjeveru Hrvatske. U Subotici premijer Plenković otvorio Hrvatski dom i razgovarao sa srbijanskom premijerkom Brnabić. Ne zna se zašto se dogodila implozija podmornice koja se spuštala do Titanika, svi su putnici poginuli. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Središnja svečanost Dana antifašističke borbe održana u spomen-parku u šum
     <description>Kod Drniša pao mađarski vojni helikopter. Pronađena su tijela dvojice članova posade, za trećim se još traga. U Atlanskom oceanu i dalje traje velika potraga za nestalom podmornicom s petero ljudi. Stručnjaci kažu da kisika imaju do sutra u podne. Najmanje je 30-ero ljudi ozlijeđeno u eksploziji u središtu Pariza. Sumnja se da je eksplodirao plin. Hrvatsku zahvatio prvi ovogodišnji toplinski val, sutra u unutrašnjosti ponegdje temperatura do 37 stupnjeva. Urednica: Mira Barić</description>
     <pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/97/20230621-kronika-dana-34251621-20230621205031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.06. 2023-06-20</title>
-    <link>https://api.hrt.hr/media/a9/1f/20230620-kronika-dana-34248279-20230620204026.mp3</link>
-    <description>U Zagrebu održana zajednička sjednica hrvatske Vlade i Vijeća ministara Bosne i Hercegovine. Premijer Plenković poručio da ta zemlja ne treba strahovati od odlagališta nuklearnog otpada na Trgovskoj gori. Najmanje šestero novorođenčadi u zagrebačkoj bolnici Sveti Duh zarazilo se enterovirusom koji izaziva meningitis. Vrhovni sud odlučio da je štrajk pravosudnih službenika i namještenika zakonit. Stigao nam je prvi toplinski val. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 20 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/1f/20230620-kronika-dana-34248279-20230620204026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
