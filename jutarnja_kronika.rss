@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Jun 2023 05:43:01 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 05:49:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.06. 2023-06-24</title>
+    <link>https://api.hrt.hr/media/25/8d/20230624-jutarnja-kronika-34257718-20230624053508.mp3</link>
+    <description>Kaos u Rusiji! Putin naredio istragu protiv vođe plaćeničke skupine Wagner Jevgenija Prigožina. Prigožin tvrdi da su njegove snage ušle u Rostov na jugu Rusije. Olujno nevrijeme s tučom pogodilo sjeverozapadnu Hrvatsku. U Subotici premijer Plenković otvorio Hrvatski dom Maticu i razgovarao sa srbijanskom premijerkom Brnabić. Večeras u Šibeniku počinje Međunarodni dječiji festival. Urednik Grgo Mrvica</description>
+    <pubDate>Sat, 24 Jun 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/8d/20230624-jutarnja-kronika-34257718-20230624053508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.06. 2023-06-23</title>
     <link>https://api.hrt.hr/media/b6/2c/20230623-jutarnja-kronika-34254900-20230623053518.mp3</link>
     <description>Premijer Plenković u prvom posjetu Srbiji, otvorit će Hrvatski dom u Subotici i razgovarati sa srbijanskom kolegicom Anom Brnabić. Završena potraga - uz olupinu Titanika u Atlantskom oceanu pronađene krhotine nestale podmornice. Svi putnici poginuli. Iza nas je vrhunac prvog ovogodišnjeg toplinskog vala. I danas će biti sunčano, vruće i sparno, no potkraj dana jača naoblaka s pljuskovima i grmljavinom. Od sutra manje vruće. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Zadnji je dan školske godine - za učenike počinju ljetni praznici. 41 osoba poginula u zatvoru u Hondurasu. U Londonu donatorska konferencija za obnovu Ukrajine. Svjetski je dan glazbe - diljem zemlje mnogi koncerti - Simply red ponovno u Pulskoj areni. Stigao nam je prvi toplinski val. Danas se očekuje temperatura do 34 stupnja. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 21 Jun 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/0c/20230621-jutarnja-kronika-34248810-20230621054017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.06. 2023-06-20</title>
-    <link>https://api.hrt.hr/media/9d/f5/20230620-jutarnja-kronika-34245431-20230620053520.mp3</link>
-    <description>U Nacionalnoj i sveučilišnoj knjižnici zajednička sjednica Vlada Hrvatske i Bosne i Hercegovine. Nastavlja se štrajk pravosudnih službenika koji traže povećanje plaća za 400 eura. Traje potraga za nestalom podmornicom koja je zaronila do olupine Titanica. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 20 Jun 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/f5/20230620-jutarnja-kronika-34245431-20230620053520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
