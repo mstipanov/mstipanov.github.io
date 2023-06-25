@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 24 Jun 2023 13:51:35 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 13:56:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.06. 2023-06-25</title>
+    <link>https://api.hrt.hr/media/56/42/20230625-dnevne-novosti-34260737-20230625134011.mp3</link>
+    <description>Dan poslije pobune ne zna se gdje je Jevgenij Prigožin, a Vladimir Putin pojavio se na snimci državne televizije. Grci drugi put u dva mjeseca na biralištima. Još samo do kraja ovog mjeseca naše trgovine rade svake nedjelje. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 25 Jun 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/56/42/20230625-dnevne-novosti-34260737-20230625134011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.06. 2023-06-24</title>
     <link>https://api.hrt.hr/media/3b/a5/20230624-dnevne-novosti-34258588-20230624134008.mp3</link>
     <description>Obrat u Rusiji - Jevgenij Prigožin sa svojom plaćeničkom vojskom pokrenuo rat protiv Vladimira Putina. Jednomjesečni istražni zatvor određen vozaču Hitne pomoći koji je na Bundeku pregazio maloljetnike, u znak prosvjeda njegovi kolege u podne se oglasili sirenama. Nakon još jednog nevremena s tučom, ponovno se postavlja pitanje protugradne obrane. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>I dalje traje potraga za trećim članom posade mađarskog vojnog helikoptera koji se jučer srušio kod Drniša. Vozilo hitne pomoći sinoć pregazilo troje 17-godišnjaka na zagrebačkom Bundeku, teško ozlijeđeni mladić kritično. Hrvatska obilježava Dan antifašističke borbe. Prema procjenama stručnjaka petero putnika u podmornici na sjeveru Atlantika ostalo bez kisika prije dva sata. Urednica: Mira Barić</description>
     <pubDate>Thu, 22 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2a/85/20230622-dnevne-novosti-34253420-20230622133532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.06. 2023-06-21</title>
-    <link>https://api.hrt.hr/media/2f/4e/20230621-dnevne-novosti-34250679-20230621134018.mp3</link>
-    <description>Mađarski vojni helikopter pao kod Drniša - nađena dva tijela, za trećim se traga. Iz nestale podmornice u Atlantiku čuli se zvukovi, petero nestalih koji su htjeli vidjeti olupinu Titanika ima zraka još do petka. Učenici od danas na praznicima, završila nastavna godina. Zahvatio nas je toplinski val. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 21 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2f/4e/20230621-dnevne-novosti-34250679-20230621134018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
