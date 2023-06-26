@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Jun 2023 20:58:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 21:04:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.06. 2023-06-26</title>
+    <link>https://api.hrt.hr/media/4c/62/20230626-kronika-dana-34264074-20230626204031.mp3</link>
+    <description>Šef Wagnera Jevgenij Prigožin prvi put od neuspješne pobune oglasio se audioporukom, kaže da nisu htjeli svrgnuti vlast i priznao da je bilo žrtava, što rusko vodstvo službeno ne priznaje. U splitskom akvatoriju usidren ponos američke ratne mornarice, nosač zrakoplova na nuklearni pogon USS Gerald Ford. Pravosudni djelatnici, koji su u štrajku četiri tjedna, ovoga petka prosvjedovat će na zagrebačkom Trgu svetog Marka. Premijer Plenković poručio predsjedniku Vrhovnog suda Dobroniću da se stavio u ulogu sindikalnog povjerenika. U Hrvatskoj prvi put potvrđena afrička svinjska kuga. Za ljude nije opasna. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 26 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4c/62/20230626-kronika-dana-34264074-20230626204031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.06. 2023-06-25</title>
     <link>https://api.hrt.hr/media/8f/2c/20230625-kronika-dana-34261364-20230625203510.mp3</link>
     <description>Pobuna plaćeničke skupine Wagner pokazala ozbiljne probleme Putinove vlasti. Na ponovljenim izborima u Grčkoj - vode konzervativci. Posljednja je nedjelja u kojoj su mogle biti otvorene sve trgovine. Od sljedeće - vrijedi ograničenje rada nedjeljom.Urednica: Sanja Rabuzin.</description>
@@ -31,15 +39,6 @@
     <description>Olujno nevrijeme s tučom u više županija na sjeveru Hrvatske. U Subotici premijer Plenković otvorio Hrvatski dom i razgovarao sa srbijanskom premijerkom Brnabić. Ne zna se zašto se dogodila implozija podmornice koja se spuštala do Titanika, svi su putnici poginuli. Urednica: Sanja Cota</description>
     <pubDate>Fri, 23 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/14/20230623-kronika-dana-34257202-20230623204519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.06. 2023-06-22</title>
-    <link>https://api.hrt.hr/media/57/74/20230622-kronika-dana-34254337-20230622203526.mp3</link>
-    <description>Nakon pet dana potrage večeras objavljeno da su životi pet putnika izgubljeni, u podmornici koja se spuštala do olupine Titanika dogodila se katastrofalna implozija.đeno tijelo i trećeg člana posade srušenoga mađarskog vojnog helikoptera.
-Središnja svečanost Dana antifašističke borbe održana u spomen-parku u šumi Brezovici. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 22 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/74/20230622-kronika-dana-34254337-20230622203526.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
