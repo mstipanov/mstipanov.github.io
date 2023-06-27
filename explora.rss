@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Jun 2023 13:35:39 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 16:38:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 27.06.2023. 2023-06-27</title>
+    <link>https://api.hrt.hr/media/be/d7/20230627-explora-7962491-20230627161047.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 27 Jun 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/be/d7/20230627-explora-7962491-20230627161047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 20.06.2023. 2023-06-20</title>
     <link>https://api.hrt.hr/media/bf/b5/20230620-explora-7960645-20230620161025.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -100,14 +108,6 @@
  </description>
     <pubDate>Tue, 25 Apr 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/3d/20230425-explora-7943077-20230425160551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 18.04.2023. 2023-04-18</title>
-    <link>https://api.hrt.hr/media/34/f2/20230418-explora-7940958-20230418162032.mp3</link>
-    <description>Space X Starship jučer ništa, ponovo preksutra. Ariane 5 VA260 uspješno u misiji JUICE prema Jupiteru. I kineska s 3D isprintanim motorom uspješno položila test. NASA otkrila kako je Sunce uništilo flotu Starlinkova. U Daruvaru prošlog vikenda počelo 10 dana astronomije, u Križevcima za dva dana otvaranje nove zvjezdarnice. Njemačka definitivno zatvorila svoje nuklearke. Geotermalna energija iz starih rudnika. CO2 iz gaziranih napitaka. Neutralizacija pesticida u hrani. Kako povećati doseg emisije.</description>
-    <pubDate>Tue, 18 Apr 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/f2/20230418-explora-7940958-20230418162032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
