@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Jun 2023 14:02:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 14:07:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.06. 2023-06-27</title>
+    <link>https://api.hrt.hr/media/b1/d4/20230627-dnevne-novosti-34266274-20230627134047.mp3</link>
+    <description>Možemo! neće na sljedeće parlamentarne izbore ići u koaliciji sa SDP-om, toj su stranci ponudili tzv. točkastu koaliciju. Ruske novinske agencije javljaju da je FSB prekinuo kazneni postupak protiv Wagnera zbog pobune. U Crnoj Gori održava se sastanak na vrhu Procesa suradnje u jugoistočnoj Europi, sudjeluje i premijer Andrej Plenković. Večeras u pulskoj Areni prvi od dva rasprodana koncerta svjetske glazbene zvijezde Robbieja Williamsa. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 27 Jun 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b1/d4/20230627-dnevne-novosti-34266274-20230627134047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.06. 2023-06-26</title>
     <link>https://api.hrt.hr/media/9c/56/20230626-dnevne-novosti-34263262-20230626134517.mp3</link>
     <description>Nakon smirivanja pobune u Moskvi ukinuto izvanredno stanje, a ruski ministar obrane Šojgu posjetio svoje vojnike u Ukrajini. Strahuje li Prigožin od Putinove osvete ili je sve bio igrokaz? Na izvanrednim parlamentarnim izborima u Grčkoj uvjerljiva pobjeda dosadašnjeg premijera Kiriosa Mitsotakisa i njegove stranke Nova demokracija. Zbog izlijevanja nafte iz spremnika INA-ine rafinerije, na dvjema plažama kod Kostrene more nije za kupanje. Još traje istraga o padu mađarskoga vojnog helikoptera kod Drniša. Madridski Real produljit će ugovor s Lukom Modrićem. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Obrat u Rusiji - Jevgenij Prigožin sa svojom plaćeničkom vojskom pokrenuo rat protiv Vladimira Putina. Jednomjesečni istražni zatvor određen vozaču Hitne pomoći koji je na Bundeku pregazio maloljetnike, u znak prosvjeda njegovi kolege u podne se oglasili sirenama. Nakon još jednog nevremena s tučom, ponovno se postavlja pitanje protugradne obrane. Urednica: Sanja Cota</description>
     <pubDate>Sat, 24 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3b/a5/20230624-dnevne-novosti-34258588-20230624134008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.06. 2023-06-23</title>
-    <link>https://api.hrt.hr/media/5b/07/20230623-dnevne-novosti-34256403-20230623133519.mp3</link>
-    <description>Premijer Plenković u prvom posjetu Srbiji. Povod je otvorenje Hrvatskog doma u Subotici čiju je gradnju u cijelosti financirala Hrvatska. Još se ne zna uzrok pada mađarskoga vojnog helikoptera kod Drniša pri čemu su poginule tri osobe. Završena potraga - uz olupinu Titanika u Atlantskom oceanu pronađene krhotine nestale podmornice. Svi putnici poginuli. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 23 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5b/07/20230623-dnevne-novosti-34256403-20230623133519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
