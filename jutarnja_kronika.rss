@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Jun 2023 05:35:48 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 05:40:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Putin i Prigožin postigli dogovor. Prekida se istraga, Prigožin se seli u Bjelorusiju, a njegova plaćenička vojska vraća se u Ukrajinu. Vozaču Hitne pomoći, koji je na Bundeku pregazio maloljetnike, određen istražni zatvor. Kolege mu sirenama iskazali potporu. Otvoren Međunarodni dječiji festival u Šibeniku. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 25 Jun 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a8/25/20230625-jutarnja-kronika-34259830-20230625053509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.06. 2023-06-24</title>
-    <link>https://api.hrt.hr/media/25/8d/20230624-jutarnja-kronika-34257718-20230624053508.mp3</link>
-    <description>Kaos u Rusiji! Putin naredio istragu protiv vođe plaćeničke skupine Wagner Jevgenija Prigožina. Prigožin tvrdi da su njegove snage ušle u Rostov na jugu Rusije. Olujno nevrijeme s tučom pogodilo sjeverozapadnu Hrvatsku. U Subotici premijer Plenković otvorio Hrvatski dom Maticu i razgovarao sa srbijanskom premijerkom Brnabić. Večeras u Šibeniku počinje Međunarodni dječiji festival. Urednik Grgo Mrvica</description>
-    <pubDate>Sat, 24 Jun 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/8d/20230624-jutarnja-kronika-34257718-20230624053508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
