@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Jun 2023 21:09:21 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 21:14:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.06. 2023-06-28</title>
+    <link>https://api.hrt.hr/media/eb/8e/20230628-kronika-dana-34270402-20230628204050.mp3</link>
+    <description>Donesena naredba o mjerama kontrole za suzbijanje afričke svinjske kuge, određene i zone ograničenja. Građani će na izborima dati najbolju ocjenu o odluci Možemo da ne ide u koaliciju s SDP-om, poručio Peđa Grbin. Volodimir Zelenski od NATO-a traži jamstva da će Ukrajina postati članica saveza kad završi rat. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 28 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/8e/20230628-kronika-dana-34270402-20230628204050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.06. 2023-06-27</title>
     <link>https://api.hrt.hr/media/8b/50/20230627-kronika-dana-34267085-20230627204047.mp3</link>
     <description>Stranka Možemo na parlamentarne izbore ne izlazi u koaliciji sa SDP-om, nego samostalno!	Ruski predsjednik Vladimir Putin prvi put priznao da je država u potpunosti financirala plaćeničku skupinu Wagner. U Crnoj Gori održan sastanak na vrhu Procesa suradnje u jugoistočnoj Europi, sudjelovao i premijer Andrej Plenković. U Hrvatskoj je prvi put potvrđena afrička svinjska kuga, počele mjere sanacije. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Pobuna plaćeničke skupine Wagner pokazala ozbiljne probleme Putinove vlasti. Na ponovljenim izborima u Grčkoj - vode konzervativci. Posljednja je nedjelja u kojoj su mogle biti otvorene sve trgovine. Od sljedeće - vrijedi ograničenje rada nedjeljom.Urednica: Sanja Rabuzin.</description>
     <pubDate>Sun, 25 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/2c/20230625-kronika-dana-34261364-20230625203510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.06. 2023-06-24</title>
-    <link>https://api.hrt.hr/media/6c/7d/20230624-kronika-dana-34259307-20230624204008.mp3</link>
-    <description>Plaćenička skupina Wagner zaustavila se 200 kilometara od Moskve. Jevgenij Prigožin naredio njezin povratak u bazu. Jučerašnje nevrijeme izazvalo golemu štetu na sjeveru zemlje. Ponovno se postavlja pitanje protugradne obrane. Vozaču Hitne pomoći, koji je na Bundeku pregazio maloljetnike, određen istražni zatvor. Kolege mu sirenama iskazali potporu. Splitska policija zaplijenila nevjerojatan arsenal oružja. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 24 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/7d/20230624-kronika-dana-34259307-20230624204008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
