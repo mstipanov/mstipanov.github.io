@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Jun 2023 14:07:59 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 13:42:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.06. 2023-06-28</title>
+    <link>https://api.hrt.hr/media/3f/59/20230628-dnevne-novosti-34269409-20230628133549.mp3</link>
+    <description>Vlada u saborsku proceduru poslala paket poreznih zakona, uključuju i ukidanje prireza. Afrička svinjska kuga širi se Slavonijom, potvrđuje se sve više slučajeva. Sabor izglasovao Zakon o osobnoj asistenciji i izmjene Zakona o socijalnoj skrbi. Bjeloruski predsjednik Lukašenko izjavio kako je on uvjerio Putina da ne likvidira Prigožina, u Moskvu stiže papin izaslanik za mirovne pregovore. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 28 Jun 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/59/20230628-dnevne-novosti-34269409-20230628133549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.06. 2023-06-27</title>
     <link>https://api.hrt.hr/media/b1/d4/20230627-dnevne-novosti-34266274-20230627134047.mp3</link>
     <description>Možemo! neće na sljedeće parlamentarne izbore ići u koaliciji sa SDP-om, toj su stranci ponudili tzv. točkastu koaliciju. Ruske novinske agencije javljaju da je FSB prekinuo kazneni postupak protiv Wagnera zbog pobune. U Crnoj Gori održava se sastanak na vrhu Procesa suradnje u jugoistočnoj Europi, sudjeluje i premijer Andrej Plenković. Večeras u pulskoj Areni prvi od dva rasprodana koncerta svjetske glazbene zvijezde Robbieja Williamsa. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dan poslije pobune ne zna se gdje je Jevgenij Prigožin, a Vladimir Putin pojavio se na snimci državne televizije. Grci drugi put u dva mjeseca na biralištima. Još samo do kraja ovog mjeseca naše trgovine rade svake nedjelje. Urednica: Sanja Cota</description>
     <pubDate>Sun, 25 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/56/42/20230625-dnevne-novosti-34260737-20230625134011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.06. 2023-06-24</title>
-    <link>https://api.hrt.hr/media/3b/a5/20230624-dnevne-novosti-34258588-20230624134008.mp3</link>
-    <description>Obrat u Rusiji - Jevgenij Prigožin sa svojom plaćeničkom vojskom pokrenuo rat protiv Vladimira Putina. Jednomjesečni istražni zatvor određen vozaču Hitne pomoći koji je na Bundeku pregazio maloljetnike, u znak prosvjeda njegovi kolege u podne se oglasili sirenama. Nakon još jednog nevremena s tučom, ponovno se postavlja pitanje protugradne obrane. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 24 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3b/a5/20230624-dnevne-novosti-34258588-20230624134008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
