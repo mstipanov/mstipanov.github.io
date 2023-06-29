@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Jun 2023 21:14:13 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 20:48:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.06. 2023-06-29</title>
+    <link>https://api.hrt.hr/media/94/6b/20230629-kronika-dana-34273328-20230629203552.mp3</link>
+    <description>Još traje potraga za umirovljenim policajcem koji je u Trogiru vatrenim oružjem teško ranio 32-godišnjaka. Nema dogovora pravosudnih sindikata i ministra Malenice. Štrajk se nastavlja. Nema službene potvrde o uhićenju zamjenika zapovjednika ruskih snaga u Ukrajini. Ponovno prosvjedi u Francuskoj. Luka Modrić i Dejan Lovren morat će ponovno na sud zbog lažnog svjedočenja. Urednik Grgo Mrvica</description>
+    <pubDate>Thu, 29 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/6b/20230629-kronika-dana-34273328-20230629203552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.06. 2023-06-28</title>
     <link>https://api.hrt.hr/media/eb/8e/20230628-kronika-dana-34270402-20230628204050.mp3</link>
     <description>Donesena naredba o mjerama kontrole za suzbijanje afričke svinjske kuge, određene i zone ograničenja. Građani će na izborima dati najbolju ocjenu o odluci Možemo da ne ide u koaliciju s SDP-om, poručio Peđa Grbin. Volodimir Zelenski od NATO-a traži jamstva da će Ukrajina postati članica saveza kad završi rat. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Šef Wagnera Jevgenij Prigožin prvi put od neuspješne pobune oglasio se audioporukom, kaže da nisu htjeli svrgnuti vlast i priznao da je bilo žrtava, što rusko vodstvo službeno ne priznaje. U splitskom akvatoriju usidren ponos američke ratne mornarice, nosač zrakoplova na nuklearni pogon USS Gerald Ford. Pravosudni djelatnici, koji su u štrajku četiri tjedna, ovoga petka prosvjedovat će na zagrebačkom Trgu svetog Marka. Premijer Plenković poručio predsjedniku Vrhovnog suda Dobroniću da se stavio u ulogu sindikalnog povjerenika. U Hrvatskoj prvi put potvrđena afrička svinjska kuga. Za ljude nije opasna. Urednik: Silvio Šop</description>
     <pubDate>Mon, 26 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4c/62/20230626-kronika-dana-34264074-20230626204031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.06. 2023-06-25</title>
-    <link>https://api.hrt.hr/media/8f/2c/20230625-kronika-dana-34261364-20230625203510.mp3</link>
-    <description>Pobuna plaćeničke skupine Wagner pokazala ozbiljne probleme Putinove vlasti. Na ponovljenim izborima u Grčkoj - vode konzervativci. Posljednja je nedjelja u kojoj su mogle biti otvorene sve trgovine. Od sljedeće - vrijedi ograničenje rada nedjeljom.Urednica: Sanja Rabuzin.</description>
-    <pubDate>Sun, 25 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8f/2c/20230625-kronika-dana-34261364-20230625203510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
