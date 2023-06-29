@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Jun 2023 13:42:25 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 13:47:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nakon smirivanja pobune u Moskvi ukinuto izvanredno stanje, a ruski ministar obrane Šojgu posjetio svoje vojnike u Ukrajini. Strahuje li Prigožin od Putinove osvete ili je sve bio igrokaz? Na izvanrednim parlamentarnim izborima u Grčkoj uvjerljiva pobjeda dosadašnjeg premijera Kiriosa Mitsotakisa i njegove stranke Nova demokracija. Zbog izlijevanja nafte iz spremnika INA-ine rafinerije, na dvjema plažama kod Kostrene more nije za kupanje. Još traje istraga o padu mađarskoga vojnog helikoptera kod Drniša. Madridski Real produljit će ugovor s Lukom Modrićem. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 26 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9c/56/20230626-dnevne-novosti-34263262-20230626134517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.06. 2023-06-25</title>
-    <link>https://api.hrt.hr/media/56/42/20230625-dnevne-novosti-34260737-20230625134011.mp3</link>
-    <description>Dan poslije pobune ne zna se gdje je Jevgenij Prigožin, a Vladimir Putin pojavio se na snimci državne televizije. Grci drugi put u dva mjeseca na biralištima. Još samo do kraja ovog mjeseca naše trgovine rade svake nedjelje. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 25 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/42/20230625-dnevne-novosti-34260737-20230625134011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
