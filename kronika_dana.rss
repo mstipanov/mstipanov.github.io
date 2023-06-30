@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Jun 2023 20:48:46 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 20:53:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.06. 2023-06-30</title>
+    <link>https://api.hrt.hr/media/9b/52/20230630-kronika-dana-34276571-20230630204555.mp3</link>
+    <description>Oko dvije tisuće pravosudnih službenika i namještenika, koji su već četiri tjedna u štrajku, prosvjedovalo je ispred Vlade. Ne odustaju od zahtjeva za povećanje plaća.U ponoć se navršava 10 godina članstva Hrvatske u Europskoj uniji. Proslava na Europskom trgu u Zagrebu. Ne smiruju se nasilni nemiri u francuskim gradovima nakon policijskog ubojstva tinejdžera. Otkazana javna okupljanja, prekida se noćni javni prijevoz. Urednica: Sanja Rabuzin</description>
+    <pubDate>Fri, 30 Jun 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9b/52/20230630-kronika-dana-34276571-20230630204555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.06. 2023-06-29</title>
     <link>https://api.hrt.hr/media/94/6b/20230629-kronika-dana-34273328-20230629203552.mp3</link>
     <description>Još traje potraga za umirovljenim policajcem koji je u Trogiru vatrenim oružjem teško ranio 32-godišnjaka. Nema dogovora pravosudnih sindikata i ministra Malenice. Štrajk se nastavlja. Nema službene potvrde o uhićenju zamjenika zapovjednika ruskih snaga u Ukrajini. Ponovno prosvjedi u Francuskoj. Luka Modrić i Dejan Lovren morat će ponovno na sud zbog lažnog svjedočenja. Urednik Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Stranka Možemo na parlamentarne izbore ne izlazi u koaliciji sa SDP-om, nego samostalno!	Ruski predsjednik Vladimir Putin prvi put priznao da je država u potpunosti financirala plaćeničku skupinu Wagner. U Crnoj Gori održan sastanak na vrhu Procesa suradnje u jugoistočnoj Europi, sudjelovao i premijer Andrej Plenković. U Hrvatskoj je prvi put potvrđena afrička svinjska kuga, počele mjere sanacije. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 27 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/50/20230627-kronika-dana-34267085-20230627204047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.06. 2023-06-26</title>
-    <link>https://api.hrt.hr/media/4c/62/20230626-kronika-dana-34264074-20230626204031.mp3</link>
-    <description>Šef Wagnera Jevgenij Prigožin prvi put od neuspješne pobune oglasio se audioporukom, kaže da nisu htjeli svrgnuti vlast i priznao da je bilo žrtava, što rusko vodstvo službeno ne priznaje. U splitskom akvatoriju usidren ponos američke ratne mornarice, nosač zrakoplova na nuklearni pogon USS Gerald Ford. Pravosudni djelatnici, koji su u štrajku četiri tjedna, ovoga petka prosvjedovat će na zagrebačkom Trgu svetog Marka. Premijer Plenković poručio predsjedniku Vrhovnog suda Dobroniću da se stavio u ulogu sindikalnog povjerenika. U Hrvatskoj prvi put potvrđena afrička svinjska kuga. Za ljude nije opasna. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 26 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4c/62/20230626-kronika-dana-34264074-20230626204031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
