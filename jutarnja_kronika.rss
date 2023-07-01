@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 30 Jun 2023 05:50:21 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 05:54:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.07. 2023-07-01</title>
+    <link>https://api.hrt.hr/media/bf/c3/20230701-jutarnja-kronika-34277093-20230701053556.mp3</link>
+    <description>Hrvatska slavi 10-tu obljetnicu punopravnog članstva u Europskoj uniji. Oko dvije tisuće pravosudnih službenika i namještenika jučer je prosvjedovalo pred Vladom. Ne odustaju od zahtjeva za povećanje plaća. Sve je više nasilja na prosvjedima u Francuskoj. U Zagrebu počinju Večeri na Griču, a u Šibeniku Međunarodni dječiji festival ulazi u drugi tjedan. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 01 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bf/c3/20230701-jutarnja-kronika-34277093-20230701053556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.06. 2023-06-30</title>
     <link>https://api.hrt.hr/media/9f/62/20230630-jutarnja-kronika-34273865-20230630053054.mp3</link>
     <description>Nastavlja se potraga za napadačem koji je u Trogiru propucao 32-godišnjaka. Malo prije 6 sati potres od 4 prema Richteru s epicentrom 10 kilometara od Dubrovnika. Pravosudni službenici danas u prosvjedu na Trgu svetog Marka. MMF povećao ovogodišnju procjenu rasta hrvatskog gospodarstva na 2,4 %. U Francuskoj nastavljeni prosvjedi zbog ubojstva tinejdžera. Urednik: Mislav Togonal.</description>
@@ -31,14 +39,6 @@
     <description>Pred Vladom zakon o plaćama i izmjene poreznih zakona kojima je cilj povećati najniže plaće. Predsjedništvo SDP-a izjasnit će se o odluci Možemo da samostalno ide na parlamentarne izbore. U ruskim napadima na civilne ciljeve u Kramatorsku poginule najmanje četiri osobe, a više od 20 ih je ranjeno. Urednica Marija Gerbec Njavro.</description>
     <pubDate>Wed, 28 Jun 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/ce/20230628-jutarnja-kronika-34267653-20230628054048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.06. 2023-06-27</title>
-    <link>https://api.hrt.hr/media/44/64/20230627-jutarnja-kronika-34264674-20230627053045.mp3</link>
-    <description>Prvi put od završetka oružane pobune obratili se vođa Wagnera Jevgenij Prigožin i Vladimir Putin. Pravosudni djelatnici, koji su u štrajku četiri tjedna, ovoga petka prosvjedovat će na zagrebačkom Trgu svetog Marka. Premijer Plenković poručio predsjedniku Vrhovnog suda Dobroniću da se stavio u ulogu sindikalnog povjerenika. U Hrvatskoj prvi put potvrđena afrička svinjska kuga. Počinje Osječko kulturno ljeto, u pulsku Arenu stiže Robbie Williams. Urednica: Anabella Leikauff</description>
-    <pubDate>Tue, 27 Jun 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/64/20230627-jutarnja-kronika-34264674-20230627053045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
