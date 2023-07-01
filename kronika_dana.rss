@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 30 Jun 2023 20:53:06 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 20:57:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.07. 2023-07-01</title>
+    <link>https://api.hrt.hr/media/3a/48/20230701-kronika-dana-34278977-20230701204057.mp3</link>
+    <description>Hrvatska 10 godina u Europskoj uniji. Što nam je donijelo članstvo? Uhićen bjegunac koji je u Trogiru teško ranio muškarca. Nedaleko od Zeline muškarac bombom ubio ženu i sebe. U Francuskoj već petu noć policija nastoji obuzdati nasilje, palež i pljačke. Hoće li visoke cijene ugroziti turističku sezonu? Urednica Sanja Rabuzin</description>
+    <pubDate>Sat, 01 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3a/48/20230701-kronika-dana-34278977-20230701204057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.06. 2023-06-30</title>
     <link>https://api.hrt.hr/media/9b/52/20230630-kronika-dana-34276571-20230630204555.mp3</link>
     <description>Oko dvije tisuće pravosudnih službenika i namještenika, koji su već četiri tjedna u štrajku, prosvjedovalo je ispred Vlade. Ne odustaju od zahtjeva za povećanje plaća.U ponoć se navršava 10 godina članstva Hrvatske u Europskoj uniji. Proslava na Europskom trgu u Zagrebu. Ne smiruju se nasilni nemiri u francuskim gradovima nakon policijskog ubojstva tinejdžera. Otkazana javna okupljanja, prekida se noćni javni prijevoz. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Donesena naredba o mjerama kontrole za suzbijanje afričke svinjske kuge, određene i zone ograničenja. Građani će na izborima dati najbolju ocjenu o odluci Možemo da ne ide u koaliciju s SDP-om, poručio Peđa Grbin. Volodimir Zelenski od NATO-a traži jamstva da će Ukrajina postati članica saveza kad završi rat. Urednica: Sanja Cota</description>
     <pubDate>Wed, 28 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/eb/8e/20230628-kronika-dana-34270402-20230628204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.06. 2023-06-27</title>
-    <link>https://api.hrt.hr/media/8b/50/20230627-kronika-dana-34267085-20230627204047.mp3</link>
-    <description>Stranka Možemo na parlamentarne izbore ne izlazi u koaliciji sa SDP-om, nego samostalno!	Ruski predsjednik Vladimir Putin prvi put priznao da je država u potpunosti financirala plaćeničku skupinu Wagner. U Crnoj Gori održan sastanak na vrhu Procesa suradnje u jugoistočnoj Europi, sudjelovao i premijer Andrej Plenković. U Hrvatskoj je prvi put potvrđena afrička svinjska kuga, počele mjere sanacije. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 27 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8b/50/20230627-kronika-dana-34267085-20230627204047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
