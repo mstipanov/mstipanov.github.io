@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Jul 2023 05:54:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 05:58:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.07. 2023-07-02</title>
+    <link>https://api.hrt.hr/media/42/10/20230702-jutarnja-kronika-34279485-20230702053009.mp3</link>
+    <description>Tijekom noći uhićen ubojica iz Capraške Poljane; Visoki predstavnik u Bosni i Hercegovini Christian Schmidt poništio je odluke parlamenta Republike Srpske; U Marseilleu policija suzavcem pokušavala obuzdati skupine prosvjednika koji su pljačkali trgovine u središtu grada. Urednik MISLAV TOGONAL</description>
+    <pubDate>Sun, 02 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/10/20230702-jutarnja-kronika-34279485-20230702053009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.07. 2023-07-01</title>
     <link>https://api.hrt.hr/media/bf/c3/20230701-jutarnja-kronika-34277093-20230701053556.mp3</link>
     <description>Hrvatska slavi 10-tu obljetnicu punopravnog članstva u Europskoj uniji. Oko dvije tisuće pravosudnih službenika i namještenika jučer je prosvjedovalo pred Vladom. Ne odustaju od zahtjeva za povećanje plaća. Sve je više nasilja na prosvjedima u Francuskoj. U Zagrebu počinju Večeri na Griču, a u Šibeniku Međunarodni dječiji festival ulazi u drugi tjedan. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Zbog širenja bolesti donesena Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge, određene i zone ograničenja. Predsjednik SDP-a Peđa Grbin za prijedlog Platforme Možemo! o točkastoj koaliciji rekao da ona nije rješenje. U Briselu počinje dvodnevni sastanak Europskog vijeća. Glavna je tema nastavak potpore Ukrajini. Večeras počinje Fantastic Zagreb Film Festival. Urednik: Silvio Šop</description>
     <pubDate>Thu, 29 Jun 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e3/b1/20230629-jutarnja-kronika-34270923-20230629054051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.06. 2023-06-28</title>
-    <link>https://api.hrt.hr/media/b8/ce/20230628-jutarnja-kronika-34267653-20230628054048.mp3</link>
-    <description>Pred Vladom zakon o plaćama i izmjene poreznih zakona kojima je cilj povećati najniže plaće. Predsjedništvo SDP-a izjasnit će se o odluci Možemo da samostalno ide na parlamentarne izbore. U ruskim napadima na civilne ciljeve u Kramatorsku poginule najmanje četiri osobe, a više od 20 ih je ranjeno. Urednica Marija Gerbec Njavro.</description>
-    <pubDate>Wed, 28 Jun 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/ce/20230628-jutarnja-kronika-34267653-20230628054048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
