@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Jul 2023 13:56:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 14:00:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.07. 2023-07-02</title>
+    <link>https://api.hrt.hr/media/30/47/20230702-dnevne-novosti-34280420-20230702134010.mp3</link>
+    <description>Rano jutros uhićen ubojica iz Siska, ponašao se vrlo neobično, izvijestila policija. Prva nedjelja sa zatvorenim trgovinama, građani podijeljeni. Istekao moratorij na prodaju poljoprivrednog zemljišta strancima. Urednica Sanja Cota.</description>
+    <pubDate>Sun, 02 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/30/47/20230702-dnevne-novosti-34280420-20230702134010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.07. 2023-07-01</title>
     <link>https://api.hrt.hr/media/0a/06/20230701-dnevne-novosti-34278236-20230701134058.mp3</link>
     <description>Prije 10 godina Hrvatska postala članica Europske unije. Uhićen bivši policajac koji se tri danas skrivao nakon što je u Trogiru teško ranio muškarca. Amerikanci potvrdili da ukrajinska ofenziva ne napreduje očekivanom brzinom. Urednica Sanja Cota</description>
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Thu, 29 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/58/20230629-dnevne-novosti-34272467-20230629134552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.06. 2023-06-28</title>
-    <link>https://api.hrt.hr/media/3f/59/20230628-dnevne-novosti-34269409-20230628133549.mp3</link>
-    <description>Vlada u saborsku proceduru poslala paket poreznih zakona, uključuju i ukidanje prireza. Afrička svinjska kuga širi se Slavonijom, potvrđuje se sve više slučajeva. Sabor izglasovao Zakon o osobnoj asistenciji i izmjene Zakona o socijalnoj skrbi. Bjeloruski predsjednik Lukašenko izjavio kako je on uvjerio Putina da ne likvidira Prigožina, u Moskvu stiže papin izaslanik za mirovne pregovore. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 28 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/59/20230628-dnevne-novosti-34269409-20230628133549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
