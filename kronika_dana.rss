@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Jul 2023 20:57:10 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 21:01:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.07. 2023-07-02</title>
+    <link>https://api.hrt.hr/media/22/05/20230702-kronika-dana-34281077-20230702204102.mp3</link>
+    <description>Još se ne zna motiv krvavog pohoda u Sisku u kojem je muškarac ubio jednu, i teže ranio četiri osobe. Počinitelj uhićen, zločin počinjen ilegalnim oružjem. Prva je nedjelja u kojoj su, prema novom zakonu, trgovine uglavnom zatvorene. Mišljenja građana podijeljena.U francuskim gradovima raspoređene jake policijske snage kako bi spriječile nove nasilne prosvjede. Urednica: Sanja Rabuzin.</description>
+    <pubDate>Sun, 02 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/22/05/20230702-kronika-dana-34281077-20230702204102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.07. 2023-07-01</title>
     <link>https://api.hrt.hr/media/3a/48/20230701-kronika-dana-34278977-20230701204057.mp3</link>
     <description>Hrvatska 10 godina u Europskoj uniji. Što nam je donijelo članstvo? Uhićen bjegunac koji je u Trogiru teško ranio muškarca. Nedaleko od Zeline muškarac bombom ubio ženu i sebe. U Francuskoj već petu noć policija nastoji obuzdati nasilje, palež i pljačke. Hoće li visoke cijene ugroziti turističku sezonu? Urednica Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Još traje potraga za umirovljenim policajcem koji je u Trogiru vatrenim oružjem teško ranio 32-godišnjaka. Nema dogovora pravosudnih sindikata i ministra Malenice. Štrajk se nastavlja. Nema službene potvrde o uhićenju zamjenika zapovjednika ruskih snaga u Ukrajini. Ponovno prosvjedi u Francuskoj. Luka Modrić i Dejan Lovren morat će ponovno na sud zbog lažnog svjedočenja. Urednik Grgo Mrvica</description>
     <pubDate>Thu, 29 Jun 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/6b/20230629-kronika-dana-34273328-20230629203552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.06. 2023-06-28</title>
-    <link>https://api.hrt.hr/media/eb/8e/20230628-kronika-dana-34270402-20230628204050.mp3</link>
-    <description>Donesena naredba o mjerama kontrole za suzbijanje afričke svinjske kuge, određene i zone ograničenja. Građani će na izborima dati najbolju ocjenu o odluci Možemo da ne ide u koaliciju s SDP-om, poručio Peđa Grbin. Volodimir Zelenski od NATO-a traži jamstva da će Ukrajina postati članica saveza kad završi rat. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 28 Jun 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/eb/8e/20230628-kronika-dana-34270402-20230628204050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
