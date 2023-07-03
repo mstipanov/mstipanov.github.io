@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Jul 2023 05:58:40 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 05:33:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.07. 2023-07-03</title>
+    <link>https://api.hrt.hr/media/a9/a1/20230703-jutarnja-kronika-34281624-20230703053034.mp3</link>
+    <description>Još se ne zna motiv krvavog pohoda u Sisku u kojem je muškarac ubio jednu i teže ranio četiri osobe. Počinitelj je uhićen. Iza nas je prva nedjelja u kojoj su, prema novom zakonu, trgovine bile uglavnom zatvorene. Mišljenja građana su podijeljena. Sabor nastavlja zasjedanje raspravom o paketu izmjena poreznih zakona te o novom zakonu o plaćama u državnoj službi i javnim službama. Od ponoći poskupljuju i benzin i dizel. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 03 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/a1/20230703-jutarnja-kronika-34281624-20230703053034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.07. 2023-07-02</title>
     <link>https://api.hrt.hr/media/42/10/20230702-jutarnja-kronika-34279485-20230702053009.mp3</link>
     <description>Tijekom noći uhićen ubojica iz Capraške Poljane; Visoki predstavnik u Bosni i Hercegovini Christian Schmidt poništio je odluke parlamenta Republike Srpske; U Marseilleu policija suzavcem pokušavala obuzdati skupine prosvjednika koji su pljačkali trgovine u središtu grada. Urednik MISLAV TOGONAL</description>
@@ -31,14 +39,6 @@
     <description>Nastavlja se potraga za napadačem koji je u Trogiru propucao 32-godišnjaka. Malo prije 6 sati potres od 4 prema Richteru s epicentrom 10 kilometara od Dubrovnika. Pravosudni službenici danas u prosvjedu na Trgu svetog Marka. MMF povećao ovogodišnju procjenu rasta hrvatskog gospodarstva na 2,4 %. U Francuskoj nastavljeni prosvjedi zbog ubojstva tinejdžera. Urednik: Mislav Togonal.</description>
     <pubDate>Fri, 30 Jun 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9f/62/20230630-jutarnja-kronika-34273865-20230630053054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.06. 2023-06-29</title>
-    <link>https://api.hrt.hr/media/e3/b1/20230629-jutarnja-kronika-34270923-20230629054051.mp3</link>
-    <description>Zbog širenja bolesti donesena Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge, određene i zone ograničenja. Predsjednik SDP-a Peđa Grbin za prijedlog Platforme Možemo! o točkastoj koaliciji rekao da ona nije rješenje. U Briselu počinje dvodnevni sastanak Europskog vijeća. Glavna je tema nastavak potpore Ukrajini. Večeras počinje Fantastic Zagreb Film Festival. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 29 Jun 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e3/b1/20230629-jutarnja-kronika-34270923-20230629054051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
