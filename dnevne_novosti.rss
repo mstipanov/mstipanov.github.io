@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Jul 2023 14:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 14:05:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.07. 2023-07-03</title>
+    <link>https://api.hrt.hr/media/a9/b8/20230703-dnevne-novosti-34283477-20230703134034.mp3</link>
+    <description>Predsjednik Milanović i ministar Banožić bez dogovora o novom šefu Vojne sigurnosno-obavještajne agencije.Sisački ubojica saslušan pred županijskim državnim odvjetnikom, čeka se odluka o istražnom zatvoru.Rusi tvrde da su ponovno pokrenuli ofenzivu na istoku Ukrajine.Na proljeće počinje izgradnja nogometnog kampa Vatrenih u Velikoj Gorici.: Mario Krstanović</description>
+    <pubDate>Mon, 03 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/b8/20230703-dnevne-novosti-34283477-20230703134034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.07. 2023-07-02</title>
     <link>https://api.hrt.hr/media/30/47/20230702-dnevne-novosti-34280420-20230702134010.mp3</link>
     <description>Rano jutros uhićen ubojica iz Siska, ponašao se vrlo neobično, izvijestila policija. Prva nedjelja sa zatvorenim trgovinama, građani podijeljeni. Istekao moratorij na prodaju poljoprivrednog zemljišta strancima. Urednica Sanja Cota.</description>
@@ -32,14 +40,6 @@
 Urednik: Silvio Šop</description>
     <pubDate>Fri, 30 Jun 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/41/20230630-dnevne-novosti-34275555-20230630134054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.06. 2023-06-29</title>
-    <link>https://api.hrt.hr/media/b7/58/20230629-dnevne-novosti-34272467-20230629134552.mp3</link>
-    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
-    <pubDate>Thu, 29 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/58/20230629-dnevne-novosti-34272467-20230629134552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
