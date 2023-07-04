@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Jul 2023 14:05:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 14:09:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.07. 2023-07-04</title>
+    <link>https://api.hrt.hr/media/81/cc/20230704-dnevne-novosti-34286935-20230704133533.mp3</link>
+    <description>Na izvanrednoj konferenciji za novinare predsjednik Milanović rekao da je situacija o Vojno sigurnosno obavještajnoj agenciji ozbiljna te da se krše ustavna i zakonska pravila. HEP mjesečno ima desetke milijuna eura gubitaka na cijenama plina, odgovornost međusobno predbacju HEP, ministarstvo i regulatorna agencija. Ukrajinci tvrde da Rusi žele eksplozivom uništiti nuklearnu elektranu Zaporižja. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 04 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/81/cc/20230704-dnevne-novosti-34286935-20230704133533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.07. 2023-07-03</title>
     <link>https://api.hrt.hr/media/a9/b8/20230703-dnevne-novosti-34283477-20230703134034.mp3</link>
     <description>Predsjednik Milanović i ministar Banožić bez dogovora o novom šefu Vojne sigurnosno-obavještajne agencije.Sisački ubojica saslušan pred županijskim državnim odvjetnikom, čeka se odluka o istražnom zatvoru.Rusi tvrde da su ponovno pokrenuli ofenzivu na istoku Ukrajine.Na proljeće počinje izgradnja nogometnog kampa Vatrenih u Velikoj Gorici.: Mario Krstanović</description>
@@ -31,15 +39,6 @@
     <description>Prije 10 godina Hrvatska postala članica Europske unije. Uhićen bivši policajac koji se tri danas skrivao nakon što je u Trogiru teško ranio muškarca. Amerikanci potvrdili da ukrajinska ofenziva ne napreduje očekivanom brzinom. Urednica Sanja Cota</description>
     <pubDate>Sat, 01 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0a/06/20230701-dnevne-novosti-34278236-20230701134058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.06. 2023-06-30</title>
-    <link>https://api.hrt.hr/media/31/41/20230630-dnevne-novosti-34275555-20230630134054.mp3</link>
-    <description>Oko dvije tisuće pravosudnih službenika i namještenika, koji su već četiri tjedna u štrajku, prosvjedovalo je ispred Vlade. U Županji održan prvi sastanak Nacionalnog kriznog stožera za kontrolu i suzbijanje afričke svinjske kuge. Vozač hitne pomoći, koji je prošlog tjedna vozilom ozlijedio troje maloljetnika na zagrebačkom Bundeku, pušten iz istražnog zatvora. Diljem Francuske prošle noći nemiri zbog ubojstva tinejdžera u pariškom predgrađu - uhićeno čak 875 osoba, ozlijeđeno oko 250 policajaca.
-Urednik: Silvio Šop</description>
-    <pubDate>Fri, 30 Jun 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/41/20230630-dnevne-novosti-34275555-20230630134054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
