@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Jun 2023 12:12:10 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 17:40:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 04.07.2023. 2023-07-04</title>
+    <link>https://api.hrt.hr/media/ca/d2/20230704-explora-7964563-20230704171035.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 04 Jul 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/d2/20230704-explora-7964563-20230704171035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 27.06.2023. 2023-06-27</title>
     <link>https://api.hrt.hr/media/be/d7/20230627-explora-7962491-20230627161047.mp3</link>
     <description> Wagner je tek uvod. Titan je ostao pored Titanica. Zaštita od tuče - osiguranje. Ali osiguranje jednako za sve. Evolucija, doista? Razbijam čašu ... Crveni makovi. Najbolji položaj u snu. Što Korado čita i kako se informira? Čime ispeći meso na roštilju? Čime dimiti košnice? Preosjetljivost na buku i šefa. Zašto smo dlakavi? Kako doći u Višnjan? Zmije kao kućni ljubimci.</description>
@@ -93,21 +101,6 @@
 </description>
     <pubDate>Tue, 02 May 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/01/49/20230502-explora-7944959-20230502160531.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 25.04.2023. 2023-04-25</title>
-    <link>https://api.hrt.hr/media/84/3d/20230425-explora-7943077-20230425160551.mp3</link>
-    <description>Space X – skoro totalka.  Unutrašnjost crne rupe. Kako se širi Svemir. Umjetna inteligencija, pedagogija, kraj demokracije ili uništenje civilizacije? Umjesto ruskog plina vjetroturbine na moru. U SAD – poticaji za fuziju bolji nego oni za fisiju. Dentalna medicina - presaditi ili posaditi zube?
-
-
-
-
-
-
- </description>
-    <pubDate>Tue, 25 Apr 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/3d/20230425-explora-7943077-20230425160551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
