@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 04 Jul 2023 20:40:47 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 21:10:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.07. 2023-07-04</title>
+    <link>https://api.hrt.hr/media/77/8c/20230704-kronika-dana-34287894-20230704204535.mp3</link>
+    <description>Predsjednik Zoran Milanović ustvrdio da ga HDZ i premijer Andrej Plenković u vezi s imenovanjem ravnatelja Vojno sigurnosno-obavještajne agencije ucjenjuje poput kartela. HEP na mjesec gubi desetke milijuna eura na cijenama plina, Vlada najavila rješenje tog problema na sjednici u četvrtak. U Saboru rasprava o paketu od devet poreznih zakona, koji bi trebali zaposlenima osigurati veće plaće. Predstavljen Nacionalni plan razvoja kulture i medija od 2023. do 2027. godine. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 04 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/77/8c/20230704-kronika-dana-34287894-20230704204535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.07. 2023-07-03</title>
     <link>https://api.hrt.hr/media/6a/26/20230703-kronika-dana-34284502-20230703204036.mp3</link>
     <description>Predsjednik Vrhovnoga suda tvrdi da je pravosuđe, zbog manjka službenika, pred slomom, Ministarstvo ga opovrgava. Izrael tvrdi da su na Zapadnoj obali napali teroriste, dok Palestinci tvrde da je napadnut izbjeglički logor. Za pet godina hrvatska nogometna reprezentacija trebala bi imati izgrađen nacionalni kamp u Velikoj Gorici. Urednica: Sanja Cota</description>
