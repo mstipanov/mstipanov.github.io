@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 04 Jul 2023 06:08:01 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 05:42:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.07. 2023-07-05</title>
+    <link>https://api.hrt.hr/media/28/e3/20230705-jutarnja-kronika-34288424-20230705053535.mp3</link>
+    <description>Već mjesec dana štrajkaju pravosudni službenici. HEP mjesečno gubi desetke milijuna eura na cijenama plina, Vlada će sutra novom uredbom riješiti problem. Moskva i Kijev međusobno se optužuju da planiraju napad na nuklearnu elektranu Zaporižju na jugu Ukrajine. Francuski predsjednik Macron razmišlja o nadzoru društvenih mreža. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 05 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/28/e3/20230705-jutarnja-kronika-34288424-20230705053535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.07. 2023-07-04</title>
     <link>https://api.hrt.hr/media/09/a1/20230704-jutarnja-kronika-34285017-20230704053532.mp3</link>
     <description>Sisačkom ubojici određen jednomjesečni istražni zatvor. Danas u Saboru rasprava o poreznoj reformi. Predsjednik Vrhovnog suda Radovan Dobronić upozorava da je pravosuđe zbog štrajka sudskih službenika pred slomom. Ministarstvo tvrdi da netočnim podacima želi prikazati kaos u sustavu. U pucnjavi u Filadelfiji ubijene četiri osobe. Urednik Mislav Togonal.</description>
@@ -31,14 +39,6 @@
     <description>Tijekom noći uhićen ubojica iz Capraške Poljane; Visoki predstavnik u Bosni i Hercegovini Christian Schmidt poništio je odluke parlamenta Republike Srpske; U Marseilleu policija suzavcem pokušavala obuzdati skupine prosvjednika koji su pljačkali trgovine u središtu grada. Urednik MISLAV TOGONAL</description>
     <pubDate>Sun, 02 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/10/20230702-jutarnja-kronika-34279485-20230702053009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.07. 2023-07-01</title>
-    <link>https://api.hrt.hr/media/bf/c3/20230701-jutarnja-kronika-34277093-20230701053556.mp3</link>
-    <description>Hrvatska slavi 10-tu obljetnicu punopravnog članstva u Europskoj uniji. Oko dvije tisuće pravosudnih službenika i namještenika jučer je prosvjedovalo pred Vladom. Ne odustaju od zahtjeva za povećanje plaća. Sve je više nasilja na prosvjedima u Francuskoj. U Zagrebu počinju Večeri na Griču, a u Šibeniku Međunarodni dječiji festival ulazi u drugi tjedan. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 01 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/c3/20230701-jutarnja-kronika-34277093-20230701053556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
