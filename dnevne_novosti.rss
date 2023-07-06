@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 05 Jul 2023 23:12:49 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 14:17:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.07. 2023-07-06</title>
+    <link>https://api.hrt.hr/media/c2/fc/20230706-dnevne-novosti-34293932-20230706134540.mp3</link>
+    <description>Vlada ukinula obvezu HEP-a da kupuje domaći plin od INE, trenutačno ne zna tko je od HEP-a kupovao viškove plina po znatno nižim cijenama.Predsjednik Milanović pozvao premijera Plenkovića na hitan sastanak o kandidatu za čelnika VSOA-e, premijer prvo očekuje ispriku. U Saboru žestoko o izmjenama Zakona o pravima hrvatskih branitelja. Rusija raketirala Lavov - najmanje su četiri osobe poginule, više od 30 je ranjeno. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 06 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/fc/20230706-dnevne-novosti-34293932-20230706134540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.07. 2023-07-05</title>
     <link>https://api.hrt.hr/media/c6/95/20230705-dnevne-novosti-34290337-20230705134039.mp3</link>
     <description>Mostovac Nikola Grmoja objavio da je Prvo plinarsko društvo kupilo 60 posto viškova plina koje je HEP morao prodavati po znatno nižoj cijeni od one po kojoj je kupljen od INA-e. Pravosudni službenici nastavljaju štrajk. Ministar graditeljstva Branko Bačić u Saboru izjavio da će sva kontejnerska naselja biti ispražnjena do sredine rujna. Kijev i Moskva međusobno se optužuju za planiranje incidenta u nuklearnoj elektrani Zaporižji.
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Predsjednik Milanović i ministar Banožić bez dogovora o novom šefu Vojne sigurnosno-obavještajne agencije.Sisački ubojica saslušan pred županijskim državnim odvjetnikom, čeka se odluka o istražnom zatvoru.Rusi tvrde da su ponovno pokrenuli ofenzivu na istoku Ukrajine.Na proljeće počinje izgradnja nogometnog kampa Vatrenih u Velikoj Gorici.: Mario Krstanović</description>
     <pubDate>Mon, 03 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a9/b8/20230703-dnevne-novosti-34283477-20230703134034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.07. 2023-07-02</title>
-    <link>https://api.hrt.hr/media/30/47/20230702-dnevne-novosti-34280420-20230702134010.mp3</link>
-    <description>Rano jutros uhićen ubojica iz Siska, ponašao se vrlo neobično, izvijestila policija. Prva nedjelja sa zatvorenim trgovinama, građani podijeljeni. Istekao moratorij na prodaju poljoprivrednog zemljišta strancima. Urednica Sanja Cota.</description>
-    <pubDate>Sun, 02 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/30/47/20230702-dnevne-novosti-34280420-20230702134010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
