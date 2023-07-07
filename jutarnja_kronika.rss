@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Jul 2023 05:43:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 05:52:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sisačkom ubojici određen jednomjesečni istražni zatvor. Danas u Saboru rasprava o poreznoj reformi. Predsjednik Vrhovnog suda Radovan Dobronić upozorava da je pravosuđe zbog štrajka sudskih službenika pred slomom. Ministarstvo tvrdi da netočnim podacima želi prikazati kaos u sustavu. U pucnjavi u Filadelfiji ubijene četiri osobe. Urednik Mislav Togonal.</description>
     <pubDate>Tue, 04 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/09/a1/20230704-jutarnja-kronika-34285017-20230704053532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.07. 2023-07-03</title>
-    <link>https://api.hrt.hr/media/a9/a1/20230703-jutarnja-kronika-34281624-20230703053034.mp3</link>
-    <description>Još se ne zna motiv krvavog pohoda u Sisku u kojem je muškarac ubio jednu i teže ranio četiri osobe. Počinitelj je uhićen. Iza nas je prva nedjelja u kojoj su, prema novom zakonu, trgovine bile uglavnom zatvorene. Mišljenja građana su podijeljena. Sabor nastavlja zasjedanje raspravom o paketu izmjena poreznih zakona te o novom zakonu o plaćama u državnoj službi i javnim službama. Od ponoći poskupljuju i benzin i dizel. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 03 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/a1/20230703-jutarnja-kronika-34281624-20230703053034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
