@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Jul 2023 14:57:55 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 14:02:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.07. 2023-07-09</title>
+    <link>https://api.hrt.hr/media/5b/d2/20230709-dnevne-novosti-34301616-20230709135054.mp3</link>
+    <description>Turska razljutila Rusiju jer je dozvolila da se u Ukrajinu vrate petorica bivših zapovjednika. Stranka Možemo zadovoljna što je HDZ odustao od najopasnijih odredbi Zakona o pomorskom dobru. Pojačan promet na cestama prema moru i prema unutrašnjosti. Sljedeći tjedan drugi ovogodišnji toplinski val. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 09 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5b/d2/20230709-dnevne-novosti-34301616-20230709135054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.07. 2023-07-08</title>
     <link>https://api.hrt.hr/media/2f/9d/20230708-dnevne-novosti-34299751-20230708143053.mp3</link>
     <description>U zagrebačkoj Zaraznoj bolnici umrla beba koja se u lipnju u bjelovarskoj bolnici zarazila enterovirusom. Rat u Ukrajini i njegove posljedice glavna su tema Dubrovnik foruma. Sjedinjene Države isporučit će ukrajinskoj vojsci kasetno streljivo. Oporba traži izvanrednu sjednicu Sabora zbog slučaja kupoprodaje plina, predsjednik Sabora Jandroković za sada je nema namjeru sazvati. Urednik: Silvio Šop</description>
@@ -31,15 +39,6 @@
     <description>Vlada ukinula obvezu HEP-a da kupuje domaći plin od INE, trenutačno ne zna tko je od HEP-a kupovao viškove plina po znatno nižim cijenama.Predsjednik Milanović pozvao premijera Plenkovića na hitan sastanak o kandidatu za čelnika VSOA-e, premijer prvo očekuje ispriku. U Saboru žestoko o izmjenama Zakona o pravima hrvatskih branitelja. Rusija raketirala Lavov - najmanje su četiri osobe poginule, više od 30 je ranjeno. Urednik: Silvio Šop</description>
     <pubDate>Thu, 06 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/fc/20230706-dnevne-novosti-34293932-20230706134540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.07. 2023-07-05</title>
-    <link>https://api.hrt.hr/media/c6/95/20230705-dnevne-novosti-34290337-20230705134039.mp3</link>
-    <description>Mostovac Nikola Grmoja objavio da je Prvo plinarsko društvo kupilo 60 posto viškova plina koje je HEP morao prodavati po znatno nižoj cijeni od one po kojoj je kupljen od INA-e. Pravosudni službenici nastavljaju štrajk. Ministar graditeljstva Branko Bačić u Saboru izjavio da će sva kontejnerska naselja biti ispražnjena do sredine rujna. Kijev i Moskva međusobno se optužuju za planiranje incidenta u nuklearnoj elektrani Zaporižji.
-Urednik: Silvio Šop</description>
-    <pubDate>Wed, 05 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/95/20230705-dnevne-novosti-34290337-20230705134039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
