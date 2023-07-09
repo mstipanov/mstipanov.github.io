@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Jul 2023 05:56:28 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 06:00:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.07. 2023-07-09</title>
+    <link>https://api.hrt.hr/media/5c/31/20230709-jutarnja-kronika-34300839-20230709053054.mp3</link>
+    <description>Rat u Ukrajini i njegove posljedice u svijetu te europska perspektiva zemalja zapadnog Balkana bile su teme međunarodnog foruma u Dubrovniku. Više članica NATO-saveza protivi se odluci SAD-a da Ukrajini isporuči kasetno streljivo, Kijev se obvezao da se njime neće koristiti u Rusiji. MOST i Suverenisti zajedno će izaći na sljedeće izbore. Ulicama Đakova proći će svečana povorka 57. Đakovačkih vezova.
+Urednik: Silvio Šop</description>
+    <pubDate>Sun, 09 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/31/20230709-jutarnja-kronika-34300839-20230709053054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.07. 2023-07-08</title>
     <link>https://api.hrt.hr/media/b4/3c/20230708-jutarnja-kronika-34298762-20230708053548.mp3</link>
     <description>Prije točno 500 dana počela ruska agresija na Ukrajinu. Rat u Ukrajini bit će i jedna od tema Dubrovnik foruma. Pala nizozemska vlada. Pune ruke posla za splitsku policiju i hitnu prvog dana Ultra festivala. Urednik: Mario Krstanović</description>
@@ -31,14 +40,6 @@
     <description>Vlada bi trebala donijeti novu uredbu o plinu, a javnosti razjasniti pozadinu jeftine prodaje viška plina. Pravosudnim službenicima bit će isplaćena plaća za lipanj, bez obzira na dane provedene u štrajku. Ruska raketa pogodila stambenu zgradu u Lavovu na zapadu Ukrajine - ubijeno troje ljudi, a osmero ozlijeđeno. Još žrtava moglo bi biti pod ruševinama. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 06 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/56/07/20230706-jutarnja-kronika-34291853-20230706053041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.07. 2023-07-05</title>
-    <link>https://api.hrt.hr/media/28/e3/20230705-jutarnja-kronika-34288424-20230705053535.mp3</link>
-    <description>Već mjesec dana štrajkaju pravosudni službenici. HEP mjesečno gubi desetke milijuna eura na cijenama plina, Vlada će sutra novom uredbom riješiti problem. Moskva i Kijev međusobno se optužuju da planiraju napad na nuklearnu elektranu Zaporižju na jugu Ukrajine. Francuski predsjednik Macron razmišlja o nadzoru društvenih mreža. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 05 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/28/e3/20230705-jutarnja-kronika-34288424-20230705053535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
