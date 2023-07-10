@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Jul 2023 21:03:22 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 20:37:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Predsjednici države i Vlade priopćenjima nastavili sukob o imenovanju čelnog čovjeka Vojne sigurnosno-obavještajne agencije. Oporba traži izvanrednu sjednicu Sabora. Svijet osuđuje najavu Sjedinjenih Država da će Ukrajini slati kazetno streljivo. Urednica: Sanja Cota</description>
     <pubDate>Fri, 07 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/87/8e/20230707-kronika-dana-34298185-20230707204049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.07. 2023-07-06</title>
-    <link>https://api.hrt.hr/media/b0/fd/20230706-kronika-dana-34294751-20230706204048.mp3</link>
-    <description>Premijer Plenković želi VSOA-u staviti pod upravljanje Ministarstva obrane. To je politički udar, rekao je predsjednik Milanović u večerašnjem izravnom obraćanju naciji. Odlukom Vlade HEP više ne mora kupovati plin od INA-e, zasad se ne zna tko je višak plina kupovao po znatno nižim cijenama. Rusi raketama napali grad Lavov. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 06 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b0/fd/20230706-kronika-dana-34294751-20230706204048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
