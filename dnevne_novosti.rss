@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Jul 2023 07:59:59 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 14:01:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.07. 2023-07-13</title>
+    <link>https://api.hrt.hr/media/52/7b/20230713-dnevne-novosti-34314209-20230713135507.mp3</link>
+    <description>Veliki požar u Grebaštici kod Šibenika - gasi ga više od stotinu vatrogasaca, ugrožene kuće! Saborski odbor za gospodarstvo raspravlja o plinskoj aferi u HEP-u. Pravosudni službenici nastavljaju štrajkati, Vlada će im smanjiti plaću i dodatke za dane u štrajku. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 13 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/52/7b/20230713-dnevne-novosti-34314209-20230713135507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.07. 2023-07-12</title>
     <link>https://api.hrt.hr/media/b9/59/20230712-dnevne-novosti-34310819-20230712134100.mp3</link>
     <description>U Vilniusu prvi sastanak vijeća NATO saveza s ukrajinskim predsjednikom Volodimirom Zelenskim. Glavni tajnkik Saveza Stoltenberg izjavio da je Ukrajina nikad bliže članstvu, ali nakon što se ispune uvjeti. Sabor raspravlja o prijedlogu novog Zakona o izbornim jedinicama, oporba tvrdi da se on temelji na popisu birača u kojemu je njih gotovo pola milijuna - višak! U tijeku još jedan pokušaj da se završi najdulji štrajk u Hrvatskoj - ministar Malenica na sastanku s predstavnicima Sindikata državnih službenika i namještenika. Umro svjetski književni velikan, Čeh Milan Kundera. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Pantovčak i Banski dvori dogovorili privremeno rješenje za ravnatelja Vojne sigurnosno-obavještajne agencije. Sljedećih mjesec dana vodit će je Ante Kujundžić. 36-ti dan štrajkaju pravosudni službenici, a prijete da bi mogli prestati raditi i na hitnim slučajevima. Večeras se otvaraju Dubrovačke ljetne igre. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 10 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/56/c7/20230710-dnevne-novosti-34304270-20230710134555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.07. 2023-07-09</title>
-    <link>https://api.hrt.hr/media/5b/d2/20230709-dnevne-novosti-34301616-20230709135054.mp3</link>
-    <description>Turska razljutila Rusiju jer je dozvolila da se u Ukrajinu vrate petorica bivših zapovjednika. Stranka Možemo zadovoljna što je HDZ odustao od najopasnijih odredbi Zakona o pomorskom dobru. Pojačan promet na cestama prema moru i prema unutrašnjosti. Sljedeći tjedan drugi ovogodišnji toplinski val. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 09 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5b/d2/20230709-dnevne-novosti-34301616-20230709135054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
