@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Jul 2023 21:11:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 07:59:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.07. 2023-07-12</title>
+    <link>https://api.hrt.hr/media/b3/49/20230712-kronika-dana-34311953-20230712203557.mp3</link>
+    <description>Ukrajina bliža NATO-u nego ikad prije! - poručio glavni tajnik Saveza, no pozivnicu za članstvo još nije dobila. Zbog afere s prodajom jeftinog plina, sastala se vladajuća koalicija. Potpredsjednik Vlade Branko Bačić poručio da se ne radi se o namjernoj šteti ili pogodovanju. Nema dogovora - štrajk pravosudnih službenika se nastavlja. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 12 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b3/49/20230712-kronika-dana-34311953-20230712203557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.07. 2023-07-11</title>
     <link>https://api.hrt.hr/media/d0/b1/20230711-kronika-dana-34308574-20230711204058.mp3</link>
     <description>Zbog afere s plinom USKOK-ovi istražitelji u HEP-u. Ukrajina će biti pozvana da se pridruži NATO-u, Zelenski nezadovoljan jer nema rokova. U Europskoj uniji više umrlih nego rođenih, no stanovništvo raste zbog useljavanja. 28 godina od genocida u Srebrenici, danas pokopano još 30 žrtava. Urednica: Sanja Cota</description>
@@ -23,14 +31,6 @@
     <description>Posljednje pripreme za sastanak na vrhu NATO saveza u Vilniusu, četvrti od početka ruske agresije na Ukrajinu. Sutra istječe mandat ravnatelju Vojne sigurnosno-obavještajne agencije Ivici Kinderu. Hoće li se postići dogovor o njegovu nasljedniku? Uoči drugoga saborskog čitanja Zakona o pomorskom dobru, stranka Možemo zadovoljna što se odustalo od privatizacije plaža. Završeni 57. Đakovački vezovi. Sljedeći tjedan drugi ovogodišnji toplinski val. Urednica: Sanja Rabuzin.</description>
     <pubDate>Sun, 09 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/98/f0/20230709-kronika-dana-34302268-20230709204055.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.07. 2023-07-08</title>
-    <link>https://api.hrt.hr/media/81/73/20230708-kronika-dana-34300322-20230708204551.mp3</link>
-    <description>Ukrajina i zapadni Balkan bile su teme međunarodnog foruma u Dubrovniku. Više članica NATO-a protivi se odluci SAD-a da Ukrajini isporuči kasetno streljivo, zabranjeno u mnogim državama. MOST i Suverenisti zajedno će izaći na sljedeće izbore. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 08 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/81/73/20230708-kronika-dana-34300322-20230708204551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

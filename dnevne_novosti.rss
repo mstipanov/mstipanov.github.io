@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Jul 2023 14:10:34 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 07:59:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.07. 2023-07-12</title>
+    <link>https://api.hrt.hr/media/b9/59/20230712-dnevne-novosti-34310819-20230712134100.mp3</link>
+    <description>U Vilniusu prvi sastanak vijeća NATO saveza s ukrajinskim predsjednikom Volodimirom Zelenskim. Glavni tajnkik Saveza Stoltenberg izjavio da je Ukrajina nikad bliže članstvu, ali nakon što se ispune uvjeti. Sabor raspravlja o prijedlogu novog Zakona o izbornim jedinicama, oporba tvrdi da se on temelji na popisu birača u kojemu je njih gotovo pola milijuna - višak! U tijeku još jedan pokušaj da se završi najdulji štrajk u Hrvatskoj - ministar Malenica na sastanku s predstavnicima Sindikata državnih službenika i namještenika. Umro svjetski književni velikan, Čeh Milan Kundera. Urednik Silvio Šop</description>
+    <pubDate>Wed, 12 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b9/59/20230712-dnevne-novosti-34310819-20230712134100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.07. 2023-07-11</title>
     <link>https://api.hrt.hr/media/0b/3b/20230711-dnevne-novosti-34307582-20230711134058.mp3</link>
     <description>USKOK ušao u HEP zbog velike plinske afere. Premijer kaže da ne vidi svoju odgovornost. Zbog korupcije - uhićenja u Slavoniji. U Vilniusu počeo sastanak na vrhu NATO-a - Turska ipak dopustila ulazak Švedske u Savez. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Turska razljutila Rusiju jer je dozvolila da se u Ukrajinu vrate petorica bivših zapovjednika. Stranka Možemo zadovoljna što je HDZ odustao od najopasnijih odredbi Zakona o pomorskom dobru. Pojačan promet na cestama prema moru i prema unutrašnjosti. Sljedeći tjedan drugi ovogodišnji toplinski val. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 09 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5b/d2/20230709-dnevne-novosti-34301616-20230709135054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.07. 2023-07-08</title>
-    <link>https://api.hrt.hr/media/2f/9d/20230708-dnevne-novosti-34299751-20230708143053.mp3</link>
-    <description>U zagrebačkoj Zaraznoj bolnici umrla beba koja se u lipnju u bjelovarskoj bolnici zarazila enterovirusom. Rat u Ukrajini i njegove posljedice glavna su tema Dubrovnik foruma. Sjedinjene Države isporučit će ukrajinskoj vojsci kasetno streljivo. Oporba traži izvanrednu sjednicu Sabora zbog slučaja kupoprodaje plina, predsjednik Sabora Jandroković za sada je nema namjeru sazvati. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 08 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2f/9d/20230708-dnevne-novosti-34299751-20230708143053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
