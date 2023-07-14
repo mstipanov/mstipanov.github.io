@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Jul 2023 14:01:01 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 14:05:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.07. 2023-07-14</title>
+    <link>https://api.hrt.hr/media/8a/76/20230714-dnevne-novosti-34317394-20230714133546.mp3</link>
+    <description>Na području Grebaštice izgorjelo oko 600 hektara, u tijeku je očevid. Zbog plinske afere i štrajka u pravosuđu oporba tražila izvanrednu sjednicu Sabora, o raspravljenim Zakonima nisu željeli glasovati. Slovenski premijer Golob u prvome službenom posjetu Hrvatskoj. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 14 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8a/76/20230714-dnevne-novosti-34317394-20230714133546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.07. 2023-07-13</title>
     <link>https://api.hrt.hr/media/52/7b/20230713-dnevne-novosti-34314209-20230713135507.mp3</link>
     <description>Veliki požar u Grebaštici kod Šibenika - gasi ga više od stotinu vatrogasaca, ugrožene kuće! Saborski odbor za gospodarstvo raspravlja o plinskoj aferi u HEP-u. Pravosudni službenici nastavljaju štrajkati, Vlada će im smanjiti plaću i dodatke za dane u štrajku. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>USKOK ušao u HEP zbog velike plinske afere. Premijer kaže da ne vidi svoju odgovornost. Zbog korupcije - uhićenja u Slavoniji. U Vilniusu počeo sastanak na vrhu NATO-a - Turska ipak dopustila ulazak Švedske u Savez. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 11 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/3b/20230711-dnevne-novosti-34307582-20230711134058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.07. 2023-07-10</title>
-    <link>https://api.hrt.hr/media/56/c7/20230710-dnevne-novosti-34304270-20230710134555.mp3</link>
-    <description>Pantovčak i Banski dvori dogovorili privremeno rješenje za ravnatelja Vojne sigurnosno-obavještajne agencije. Sljedećih mjesec dana vodit će je Ante Kujundžić. 36-ti dan štrajkaju pravosudni službenici, a prijete da bi mogli prestati raditi i na hitnim slučajevima. Večeras se otvaraju Dubrovačke ljetne igre. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 10 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/c7/20230710-dnevne-novosti-34304270-20230710134555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
