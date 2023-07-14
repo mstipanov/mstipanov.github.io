@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Jul 2023 08:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 06:03:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.07. 2023-07-14</title>
+    <link>https://api.hrt.hr/media/b0/7c/20230714-jutarnja-kronika-34315824-20230714053546.mp3</link>
+    <description>Veliki požar kod Šibenika pod nadzorom, dijelove Hrvatske zahvatilo olujno nevrijeme. Na tematskoj sjednici saborskog Odbora za gospodarstvo o plinskoj aferi u HEP-u potvrđeno da je 63 posto jeftinog plina kupio PPD. Pravosudni službenici nastavljaju štrajk, Vlada će im za dane u štrajku smanjiti plaću i dodatke. Slovenski premijer Golob u prvome službenom posjetu Hrvatskoj. Urednica: Ana-Bella Leikauff.</description>
+    <pubDate>Fri, 14 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/7c/20230714-jutarnja-kronika-34315824-20230714053546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.07. 2023-07-13</title>
     <link>https://api.hrt.hr/media/e1/f3/20230713-jutarnja-kronika-34312507-20230713053011.mp3</link>
     <description>O plinskoj aferi u HEP-u raspravljat će saborski Odbor za gospodarstvo. Potpredsjednik Vlade Branko Bačić poručio da se ne radi se o namjernoj šteti ili pogodovanju. Nastavlja se štrajk pravosudnih djelatnika, sindikat i ministar razmijenili optužbe za ucjenu. Ukrajina na samitu NATO-saveza u Vilniusu nije dobila pozivnicu nego obećanje za članstvo te sigurnosna jamstva najrazvijenijih zemalja svijeta G7. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dogovorom Vlade i Ureda predsjednika - Ante Kujundžić privremeno na čelu Vojne sigurnosno-obavještajne agencije. U Saboru rasprava o konačnom prijedlogu zakona o pomorskom dobru i morskim lukama. Počinje sastanak na vrhu NATO-a u Litvi. U Srebrenici - Dan sjećanja na žrtve genocida. Otvorene su Dubrovačke ljetne igre. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 11 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/53/4c/20230711-jutarnja-kronika-34305801-20230711053057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.07. 2023-07-10</title>
-    <link>https://api.hrt.hr/media/73/7b/20230710-jutarnja-kronika-34302836-20230710053553.mp3</link>
-    <description>Danas istječe mandat Ivici Kinderu. Tko će voditi Vojnu sigurnosno-obavještajnu agenciju? Posljednje pripreme za sutrašnji sastanak na vrhu NATO saveza u Vilniusu. Večeras otvorenje Dubrovačkih ljetnih igara. Počinje tjedan u kojem nas očekuje toplinski val s vrućim zrakom iz Afrike. Ravnateljstvo civilne zaštite objavilo je upozorenje. Urednik je Mislav Togonal.</description>
-    <pubDate>Mon, 10 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/73/7b/20230710-jutarnja-kronika-34302836-20230710053553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
