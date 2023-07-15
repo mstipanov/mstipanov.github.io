@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Jul 2023 05:38:03 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 06:08:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.07. 2023-07-15</title>
+    <link>https://api.hrt.hr/media/da/87/20230715-jutarnja-kronika-34318722-20230715054549.mp3</link>
+    <description>HEP u jeku afere s plinom, u kojoj je izgubljeno 10 milijuna eura, povećava materijalna prava zaposlenicima. Južna Koreja bori se s poplavama, evakuirano više stotina ljudi. Počinje jubilarni 70 Pulski filmski festival. Dinamo i Hajduk utakmicom Superkupa otvaraju domaću nogometnu sezonu. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 15 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/da/87/20230715-jutarnja-kronika-34318722-20230715054549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.07. 2023-07-14</title>
     <link>https://api.hrt.hr/media/b0/7c/20230714-jutarnja-kronika-34315824-20230714053546.mp3</link>
     <description>Veliki požar kod Šibenika pod nadzorom, dijelove Hrvatske zahvatilo olujno nevrijeme. Na tematskoj sjednici saborskog Odbora za gospodarstvo o plinskoj aferi u HEP-u potvrđeno da je 63 posto jeftinog plina kupio PPD. Pravosudni službenici nastavljaju štrajk, Vlada će im za dane u štrajku smanjiti plaću i dodatke. Slovenski premijer Golob u prvome službenom posjetu Hrvatskoj. Urednica: Ana-Bella Leikauff.</description>
