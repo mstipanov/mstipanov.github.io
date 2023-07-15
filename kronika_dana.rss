@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Jul 2023 21:06:32 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 21:10:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.07. 2023-07-15</title>
+    <link>https://api.hrt.hr/media/c9/01/20230715-kronika-dana-34320218-20230715203550.mp3</link>
+    <description>Idućih dana temperature u Hrvatskoj i do 40 stupnjeva, u južnoj Europi i do 48! Ukrajinski zapovjednik Zalužni priznao napade na ruski teritorij te najavio i vraćanje Krima. U Puli otvorenje filmskog festivala. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 15 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c9/01/20230715-kronika-dana-34320218-20230715203550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.07. 2023-07-14</title>
     <link>https://api.hrt.hr/media/53/57/20230714-kronika-dana-34318078-20230714203547.mp3</link>
     <description>Oko 600 hektara površine izgorjelo u požaru na području Grebaštice, istraga o uzroku još traje. Tuča na istoku zemlje poharala poljoprivredne površine. Sabor završio proljetno zasjedanje, zastupnici otišli na ljetnu stanku. Izvanredne sjednice neće biti. Holivudska produkcija potpuno paralizirana - počeo štrajk više od 160 tisuća američkih glumaca. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Ukrajina bliža NATO-u nego ikad prije! - poručio glavni tajnik Saveza, no pozivnicu za članstvo još nije dobila. Zbog afere s prodajom jeftinog plina, sastala se vladajuća koalicija. Potpredsjednik Vlade Branko Bačić poručio da se ne radi se o namjernoj šteti ili pogodovanju. Nema dogovora - štrajk pravosudnih službenika se nastavlja. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 12 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b3/49/20230712-kronika-dana-34311953-20230712203557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.07. 2023-07-11</title>
-    <link>https://api.hrt.hr/media/d0/b1/20230711-kronika-dana-34308574-20230711204058.mp3</link>
-    <description>Zbog afere s plinom USKOK-ovi istražitelji u HEP-u. Ukrajina će biti pozvana da se pridruži NATO-u, Zelenski nezadovoljan jer nema rokova. U Europskoj uniji više umrlih nego rođenih, no stanovništvo raste zbog useljavanja. 28 godina od genocida u Srebrenici, danas pokopano još 30 žrtava. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 11 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/b1/20230711-kronika-dana-34308574-20230711204058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
