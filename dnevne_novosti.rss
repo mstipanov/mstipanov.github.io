@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Jul 2023 14:05:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 14:09:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.07. 2023-07-15</title>
+    <link>https://api.hrt.hr/media/48/0a/20230715-dnevne-novosti-34319583-20230715133550.mp3</link>
+    <description>Udarni je turistički vikend, gužve su na cestama i prema moru i prema unutrašnjosti. Višednevne oluje u Južnoj Koreji izazvale su poplave i klizišta. Poginule su najmanje 24 osobe. Večeras počinje jubilarni 70. Pulski filmski festival. SPORT: Dinamo i Hajduk utakmicom Superkupa otvaraju domaću nogometnu sezonu. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 15 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/48/0a/20230715-dnevne-novosti-34319583-20230715133550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.07. 2023-07-14</title>
     <link>https://api.hrt.hr/media/8a/76/20230714-dnevne-novosti-34317394-20230714133546.mp3</link>
     <description>Na području Grebaštice izgorjelo oko 600 hektara, u tijeku je očevid. Zbog plinske afere i štrajka u pravosuđu oporba tražila izvanrednu sjednicu Sabora, o raspravljenim Zakonima nisu željeli glasovati. Slovenski premijer Golob u prvome službenom posjetu Hrvatskoj. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Vilniusu prvi sastanak vijeća NATO saveza s ukrajinskim predsjednikom Volodimirom Zelenskim. Glavni tajnkik Saveza Stoltenberg izjavio da je Ukrajina nikad bliže članstvu, ali nakon što se ispune uvjeti. Sabor raspravlja o prijedlogu novog Zakona o izbornim jedinicama, oporba tvrdi da se on temelji na popisu birača u kojemu je njih gotovo pola milijuna - višak! U tijeku još jedan pokušaj da se završi najdulji štrajk u Hrvatskoj - ministar Malenica na sastanku s predstavnicima Sindikata državnih službenika i namještenika. Umro svjetski književni velikan, Čeh Milan Kundera. Urednik Silvio Šop</description>
     <pubDate>Wed, 12 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b9/59/20230712-dnevne-novosti-34310819-20230712134100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.07. 2023-07-11</title>
-    <link>https://api.hrt.hr/media/0b/3b/20230711-dnevne-novosti-34307582-20230711134058.mp3</link>
-    <description>USKOK ušao u HEP zbog velike plinske afere. Premijer kaže da ne vidi svoju odgovornost. Zbog korupcije - uhićenja u Slavoniji. U Vilniusu počeo sastanak na vrhu NATO-a - Turska ipak dopustila ulazak Švedske u Savez. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 11 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/3b/20230711-dnevne-novosti-34307582-20230711134058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
