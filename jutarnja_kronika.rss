@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Jul 2023 06:03:55 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 05:38:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Vilnijusu će se održati prvi sastanak Vijeća NATO-Ukrajina. Rusije upozorenja da NATO-ovo povećanje vojne pomoći Ukrajini sve bližim čini Treći svjetski rat. Pred Saborom Zakon o izbornim jedinicama. U Europi vrhunac toplinskog vala, na Sardiniji i Siciliji očekuju se temperature i do 48 stupnjeva. U Hrvatskoj do 37. Urednica je Marija Gerbec Njavro</description>
     <pubDate>Wed, 12 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/a7/20230712-jutarnja-kronika-34309105-20230712053556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.07. 2023-07-11</title>
-    <link>https://api.hrt.hr/media/53/4c/20230711-jutarnja-kronika-34305801-20230711053057.mp3</link>
-    <description>Dogovorom Vlade i Ureda predsjednika - Ante Kujundžić privremeno na čelu Vojne sigurnosno-obavještajne agencije. U Saboru rasprava o konačnom prijedlogu zakona o pomorskom dobru i morskim lukama. Počinje sastanak na vrhu NATO-a u Litvi. U Srebrenici - Dan sjećanja na žrtve genocida. Otvorene su Dubrovačke ljetne igre. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 11 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/4c/20230711-jutarnja-kronika-34305801-20230711053057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
