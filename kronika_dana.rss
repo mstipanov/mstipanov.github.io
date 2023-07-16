@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Jul 2023 21:10:49 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 20:45:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.07. 2023-07-16</title>
+    <link>https://api.hrt.hr/media/10/7e/20230716-kronika-dana-34322331-20230716204054.mp3</link>
+    <description>Udarni je turistički vikend. Prema broju vozila na hrvatskim autocestama premašen prošlogodišnji rekord. Istječe crnomorski sporazum o izvozu ukrajinskog žita koji Rusija zasad odbija produljiti. U Južnoj Koreji raste broj žrtava bujičnih poplava. Zasad je potvrđena smrt 37 osoba. Španjolac Karlos Alkaraz osvojio Wimbledon pobjedom protiv Novaka Đokovića.
+Zbog visokih temperatura Državni hidrometeorološki zavod za sutra izdao narančasto upozorenje. Temperatura i do 38 stupnjeva. Urednica: Marija Gerbec Njavro.</description>
+    <pubDate>Sun, 16 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/10/7e/20230716-kronika-dana-34322331-20230716204054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.07. 2023-07-15</title>
     <link>https://api.hrt.hr/media/c9/01/20230715-kronika-dana-34320218-20230715203550.mp3</link>
     <description>Idućih dana temperature u Hrvatskoj i do 40 stupnjeva, u južnoj Europi i do 48! Ukrajinski zapovjednik Zalužni priznao napade na ruski teritorij te najavio i vraćanje Krima. U Puli otvorenje filmskog festivala. Urednica: Sanja Cota</description>
@@ -31,14 +40,6 @@
     <description>Veliki požar u Grebaštici kod Šibenika, gasi ga više od 150 vatrogasaca uz zračne snage. odbor za gospodarstvo raspravlja o plinskoj aferi u HEP-u. Afera je bila tema i na predsjedništvu HDZ-a.Pravosudni službenici nastavljaju štrajk, Vlada će im smanjiti plaću i dodatke za dane u štrajku.Urednica: Sanja Rabuzin Pavić</description>
     <pubDate>Thu, 13 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/c6/20230713-kronika-dana-34315179-20230713204012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.07. 2023-07-12</title>
-    <link>https://api.hrt.hr/media/b3/49/20230712-kronika-dana-34311953-20230712203557.mp3</link>
-    <description>Ukrajina bliža NATO-u nego ikad prije! - poručio glavni tajnik Saveza, no pozivnicu za članstvo još nije dobila. Zbog afere s prodajom jeftinog plina, sastala se vladajuća koalicija. Potpredsjednik Vlade Branko Bačić poručio da se ne radi se o namjernoj šteti ili pogodovanju. Nema dogovora - štrajk pravosudnih službenika se nastavlja. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 12 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b3/49/20230712-kronika-dana-34311953-20230712203557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
