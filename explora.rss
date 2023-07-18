@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Jul 2023 09:44:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 16:23:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 18.07.2023. 2023-07-18</title>
+    <link>https://api.hrt.hr/media/87/e6/20230718-explora-7968234-20230718151058.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 18 Jul 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/87/e6/20230718-explora-7968234-20230718151058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 11.07.2023. 2023-07-11</title>
     <link>https://api.hrt.hr/media/25/0a/20230711-explora-7966542-20230711161557.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta. U ovoj emisiji - U zaostatku s odgovorima na pitanja. Svemirski brod u Tihom oceanu. Uran i uranij. Limski zaljev nije fjord. Između jave i priče. Tesla i ostali. Znanstvena metoda i revizionizam. Elektromagnetsko zagađenje. Kako nastaje stres? Bioritam. Istra - terra magica. Nema žohara. O Suncu i ljetnim vrućinama. Urbani vrtovi i proizvodnja vlastite hrane. Istra - terra magica dva. Kraj povijesti.</description>
@@ -82,19 +90,6 @@
 </description>
     <pubDate>Tue, 16 May 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/bc/20230516-explora-7949796-20230516160532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 09.05.2023. 2023-05-09</title>
-    <link>https://api.hrt.hr/media/dc/7e/20230509-explora-7947518-20230509163031.mp3</link>
-    <description>Novi britanski satelit za nadzor. Vede i heliocentrični sustav. Propast radio-teleskopa Arecibo. Carl Sagan. Kinez svjetski prvak u šahu. Solarni paneli i zagrijavanje okoline. Kako zaustaviti klijanje krumpira. Hidroponski uzgoj. Testiranje kozmetike na životinjama se nastavlja. Recikliranje – emitiranje mikroplastike u atmosferu. Marketing u prirodoslovlju – leptir Sauron ( noćni leptiri oprašivači).
-
-
-
-
-</description>
-    <pubDate>Tue, 09 May 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/7e/20230509-explora-7947518-20230509163031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
