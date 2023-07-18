@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 17 Jul 2023 20:49:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 20:54:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.07. 2023-07-18</title>
+    <link>https://api.hrt.hr/media/df/90/20230718-kronika-dana-34328391-20230718204058.mp3</link>
+    <description>Snažno nevrijeme na sjeveru Hrvatske; velika šteta u Sloveniji i Austriji. Još nema rješenja za štrajk pravosudnih službenika. Oporba i službeno pozvala predsjednika Milanovića da zatraži izvanrednu sjednicu Sabora. Kijeva da je Ukrajina uspješna u oslobađanju okupiranih područja potvrdila je američka vojska. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 18 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/90/20230718-kronika-dana-34328391-20230718204058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.07. 2023-07-17</title>
     <link>https://api.hrt.hr/media/8d/f8/20230717-kronika-dana-34325196-20230717204056.mp3</link>
     <description>Požari bjesne blizu Atene, stanovnicima zapovjeđeno da napuste domove, evakuacija djece iz ljetnih kampova.Na vrhuncu smo toplinskog vala, za sutra izdano crveno upozorenje za četiri regije, temperature bi mogle dosegnuti 40 stupnjeva.Ni sedmi tjedan pravosudni službenici ne prekidaju štrajk, predsjednik Vrhovnog suda drži odgovornom Vladu.Ponovno je napadnut Krimski most, Rusija najavila da se povlači iz sporazuma o izvozu žita iz crnomorskih luka.Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@ Zbog visokih temperatura Državni hidrometeorološki zavod za sutra izdao naran�
     <description>Idućih dana temperature u Hrvatskoj i do 40 stupnjeva, u južnoj Europi i do 48! Ukrajinski zapovjednik Zalužni priznao napade na ruski teritorij te najavio i vraćanje Krima. U Puli otvorenje filmskog festivala. Urednica: Sanja Cota</description>
     <pubDate>Sat, 15 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/01/20230715-kronika-dana-34320218-20230715203550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.07. 2023-07-14</title>
-    <link>https://api.hrt.hr/media/53/57/20230714-kronika-dana-34318078-20230714203547.mp3</link>
-    <description>Oko 600 hektara površine izgorjelo u požaru na području Grebaštice, istraga o uzroku još traje. Tuča na istoku zemlje poharala poljoprivredne površine. Sabor završio proljetno zasjedanje, zastupnici otišli na ljetnu stanku. Izvanredne sjednice neće biti. Holivudska produkcija potpuno paralizirana - počeo štrajk više od 160 tisuća američkih glumaca. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 14 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/57/20230714-kronika-dana-34318078-20230714203547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
