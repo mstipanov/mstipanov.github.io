@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Jul 2023 13:53:03 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 13:57:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.07. 2023-07-19</title>
+    <link>https://api.hrt.hr/media/38/e9/20230719-dnevne-novosti-34330392-20230719134001.mp3</link>
+    <description>Uz ekstremne vrućine, u Europi i svijetu haraju požari. Čak 3300 učenika žalilo se na rezultate državne mature. Na 112 gospodarstava utvrđena je afrička svinjska kuga, danas nema novih slučajeva. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 19 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/38/e9/20230719-dnevne-novosti-34330392-20230719134001.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.07. 2023-07-18</title>
     <link>https://api.hrt.hr/media/8b/26/20230718-dnevne-novosti-34327412-20230718134058.mp3</link>
     <description>Prave posljedice štrajka pravosudnih službenika, koji je ušao u sedmi tjedan, vidjet će se do kraja godine. Saborska oporba pozvala predsjednika Milanovića da sazove izvanrednu saborsku sjednicu. Jedna osoba poginula, nekoliko ozlijeđeno u sudaru ribarskog broda i jahte kod Murtera. Na vrhuncu smo toplinskog vala. Crveno upozorenje izdano za četiri regije. Unutrašnjost zemlje čeka promjena vremena. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Na brdovitom terenu kod Grebaštice ponovno se aktivirao požar. Gasila ga tri kanadera. Rusi tvrde da su Ukrajinci jutros bespilotnim letjelicama napali Krim. Putin prijeti korištenjem kasetnih bombi. Ekstremne vrućine u mnogim dijelovima svijeta. Urednica: Sanja Cota</description>
     <pubDate>Sun, 16 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/99/45/20230716-dnevne-novosti-34321646-20230716134053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.07. 2023-07-15</title>
-    <link>https://api.hrt.hr/media/48/0a/20230715-dnevne-novosti-34319583-20230715133550.mp3</link>
-    <description>Udarni je turistički vikend, gužve su na cestama i prema moru i prema unutrašnjosti. Višednevne oluje u Južnoj Koreji izazvale su poplave i klizišta. Poginule su najmanje 24 osobe. Večeras počinje jubilarni 70. Pulski filmski festival. SPORT: Dinamo i Hajduk utakmicom Superkupa otvaraju domaću nogometnu sezonu. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 15 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/48/0a/20230715-dnevne-novosti-34319583-20230715133550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
