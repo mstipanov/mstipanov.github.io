@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Jul 2023 20:54:21 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 20:58:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.07. 2023-07-19</title>
+    <link>https://api.hrt.hr/media/bb/5b/20230719-kronika-dana-34331276-20230719204002.mp3</link>
+    <description>Unutrašnjost Hrvatske zahvatila razorna oluja, u Zagrebu dvije osobe poginule, deseci ozlijeđenih! Jedna osoba poginula i u Slavoniji. Nakon što je predsjednik Milanović poslao zahtjev za izvanrednu sjednicu, predsjednik Sabora Jandroković sazvao ju je za petak. Afrička svinjska kuga dosad potvrđena na 112 gospodarstava u Vukovarsko-srijemskoj županiji, usmrćeno oko tri tisuće svinja. Urednica: Mira Barić</description>
+    <pubDate>Wed, 19 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/5b/20230719-kronika-dana-34331276-20230719204002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.07. 2023-07-18</title>
     <link>https://api.hrt.hr/media/df/90/20230718-kronika-dana-34328391-20230718204058.mp3</link>
     <description>Snažno nevrijeme na sjeveru Hrvatske; velika šteta u Sloveniji i Austriji. Još nema rješenja za štrajk pravosudnih službenika. Oporba i službeno pozvala predsjednika Milanovića da zatraži izvanrednu sjednicu Sabora. Kijeva da je Ukrajina uspješna u oslobađanju okupiranih područja potvrdila je američka vojska. Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@
 Zbog visokih temperatura Državni hidrometeorološki zavod za sutra izdao narančasto upozorenje. Temperatura i do 38 stupnjeva. Urednica: Marija Gerbec Njavro.</description>
     <pubDate>Sun, 16 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/10/7e/20230716-kronika-dana-34322331-20230716204054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.07. 2023-07-15</title>
-    <link>https://api.hrt.hr/media/c9/01/20230715-kronika-dana-34320218-20230715203550.mp3</link>
-    <description>Idućih dana temperature u Hrvatskoj i do 40 stupnjeva, u južnoj Europi i do 48! Ukrajinski zapovjednik Zalužni priznao napade na ruski teritorij te najavio i vraćanje Krima. U Puli otvorenje filmskog festivala. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 15 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/01/20230715-kronika-dana-34320218-20230715203550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
