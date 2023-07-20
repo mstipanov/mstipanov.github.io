@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Jul 2023 05:55:57 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 06:00:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.07. 2023-07-20</title>
+    <link>https://api.hrt.hr/media/5a/df/20230720-jutarnja-kronika-34331803-20230720054002.mp3</link>
+    <description>Posljedice jučerašnje razorne oluje u Zagrebu i Slavoniji - tri poginule osobe, više od stotinu ozlijeđenih, golema materijalna šteta. Najjači udar vjetra u Gradištu kod Županje - 180 kilometara na sat! Predsjednik Zoran Milanović poslao zahtjev za izvanrednu sjednicu, predsjednik Sabora Jandroković sazvao ju je za sutra i vikend. Vlada će danas donijeti odluku o odšteti gospodarstava na kojima su zbog afričke svinjske kuge usmrćene svinje. Do sada je bolest potvrđena na 112 gospodarstava u Vukovarsko-srijemskoj županiji. Na filmskom festivalu u Puli jučer dvije premijere: "Samo kad se smijem" Vanje Juranić i "Smrt djevojčice sa žigicama" Gorana Kulenovića. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 20 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5a/df/20230720-jutarnja-kronika-34331803-20230720054002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.07. 2023-07-19</title>
     <link>https://api.hrt.hr/media/5f/22/20230719-jutarnja-kronika-34328954-20230719054600.mp3</link>
     <description>Olujno nevrijeme sinoć poharalo središnju Hrvatsku. Oporba traži od predsjednika države sazivanje izvanredne sjednice Sabora zbog plinske afere i štrajka u pravosuđu. Nakon ostavke ravnateljice Kliničke bolnice Sveti Duh Upravno vijeće danas odlučuje o njezinome privremenom nasljedniku. U međuvremenu - novi skandal. Kirurg ostavio gazu u trbuhu ženi nakon hitnoga carskog reza. Rano jutros opet ruski zračni napadi na ukrajinsku luku Odesu. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Od danas se više ne plaćaju dani provedeni u štrajku pravosudnih službenika. Oni uzvraćaju kako više neće odrađivati niti hitne sudske predmete. Radovan Dobronić sazvao sastanak s predsjednicima sudova. Zbog ekplozija zatvoren Krimski most koji povezuje okupirani ukrajinski poluotok i Rusiju. Izdano narančasto upozorenje zbog toplinskog vala. Do sredine tjedna temperature mjestimice do 40 stupnjeva. Kolona na zagrebačkoj obilaznici iz smjera istoka, od Kosnice prema naplati Lučko, duga 11 kilometara. Urednik:Mislav Togonal</description>
     <pubDate>Mon, 17 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/51/2d/20230717-jutarnja-kronika-34322964-20230717053555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.07. 2023-07-16</title>
-    <link>https://api.hrt.hr/media/3c/c4/20230716-jutarnja-kronika-34320754-20230716053051.mp3</link>
-    <description>Ekstremne vrućine zahvatile su jug Europe. Idućih dana temperature u Hrvatskoj i do 40 stupnjeva, a u južnoj Europi čak i do 48! Jutros napadnuta krimska luka Sevastopolj. Glavni ukrajinski zapovjednik Valerij Zalužni izjavio da ga nitko neće zaustaviti u vraćanju Krima. U Puli sinoć počeo 70. filmski festival. Prvi prikazani film iz nacionalnog programa bio je Hotel Pula. SPORT: Pobjedom nad Hajdukom 1:0, Dinamo osmi put osvojio Superkup. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 16 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3c/c4/20230716-jutarnja-kronika-34320754-20230716053051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
