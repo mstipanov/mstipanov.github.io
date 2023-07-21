@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Jul 2023 06:00:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 05:35:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.07. 2023-07-21</title>
+    <link>https://api.hrt.hr/media/ff/51/20230721-jutarnja-kronika-34335069-20230721053504.mp3</link>
+    <description>Počinje izvanredna sjednica Sabora i trajat će tri dana. Meteorolozi upozoravaju na nestabilno vrijeme - danas i sutra moguća nova olujna nevremena, ali ne očekuje se da će biti toliko razorna kao prekjučer. Kod Atene se ponovno razbuktao požar, u pomoć stiže i hrvatski kanader. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 21 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/51/20230721-jutarnja-kronika-34335069-20230721053504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.07. 2023-07-20</title>
     <link>https://api.hrt.hr/media/5a/df/20230720-jutarnja-kronika-34331803-20230720054002.mp3</link>
     <description>Posljedice jučerašnje razorne oluje u Zagrebu i Slavoniji - tri poginule osobe, više od stotinu ozlijeđenih, golema materijalna šteta. Najjači udar vjetra u Gradištu kod Županje - 180 kilometara na sat! Predsjednik Zoran Milanović poslao zahtjev za izvanrednu sjednicu, predsjednik Sabora Jandroković sazvao ju je za sutra i vikend. Vlada će danas donijeti odluku o odšteti gospodarstava na kojima su zbog afričke svinjske kuge usmrćene svinje. Do sada je bolest potvrđena na 112 gospodarstava u Vukovarsko-srijemskoj županiji. Na filmskom festivalu u Puli jučer dvije premijere: "Samo kad se smijem" Vanje Juranić i "Smrt djevojčice sa žigicama" Gorana Kulenovića. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Zbog štrajka pravosudnih službenika predsjednica Sindikata sastaje se s predsjednikom Vrhovnoga suda, tema razgovora - organizacija rada. Sastanak oporbe o izvanrednoj saborskoj sjednici zbog štrajka i plinske afere. Od danas za 2 centa skuplje gorivo. Nakon napada na Krimski most Rusija pokrenula zračne napade na jugu i istoku Ukrajine. Urednica: Marija Gerbec Njavro.</description>
     <pubDate>Tue, 18 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/98/45/20230718-jutarnja-kronika-34325766-20230718053058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.07. 2023-07-17</title>
-    <link>https://api.hrt.hr/media/51/2d/20230717-jutarnja-kronika-34322964-20230717053555.mp3</link>
-    <description>Od danas se više ne plaćaju dani provedeni u štrajku pravosudnih službenika. Oni uzvraćaju kako više neće odrađivati niti hitne sudske predmete. Radovan Dobronić sazvao sastanak s predsjednicima sudova. Zbog ekplozija zatvoren Krimski most koji povezuje okupirani ukrajinski poluotok i Rusiju. Izdano narančasto upozorenje zbog toplinskog vala. Do sredine tjedna temperature mjestimice do 40 stupnjeva. Kolona na zagrebačkoj obilaznici iz smjera istoka, od Kosnice prema naplati Lučko, duga 11 kilometara. Urednik:Mislav Togonal</description>
-    <pubDate>Mon, 17 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/51/2d/20230717-jutarnja-kronika-34322964-20230717053555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
