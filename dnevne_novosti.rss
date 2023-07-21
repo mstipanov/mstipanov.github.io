@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Jul 2023 14:01:36 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 13:37:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Prave posljedice štrajka pravosudnih službenika, koji je ušao u sedmi tjedan, vidjet će se do kraja godine. Saborska oporba pozvala predsjednika Milanovića da sazove izvanrednu saborsku sjednicu. Jedna osoba poginula, nekoliko ozlijeđeno u sudaru ribarskog broda i jahte kod Murtera. Na vrhuncu smo toplinskog vala. Crveno upozorenje izdano za četiri regije. Unutrašnjost zemlje čeka promjena vremena. Urednica: Mira Barić</description>
     <pubDate>Tue, 18 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/26/20230718-dnevne-novosti-34327412-20230718134058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.07. 2023-07-17</title>
-    <link>https://api.hrt.hr/media/d5/8c/20230717-dnevne-novosti-34324376-20230717134556.mp3</link>
-    <description>Diljem Hrvatske iznimno visoke temperature, za Slavoniju i Baranju te jug zemlje vrijedi crveno upozorenje - vrućine izuzetno opasne za zdravlje! U 14 sati, s 37 stupnjeva, najtopliji su Knin, Imotski, Požega, Slunj i Vukovar. Na sjeveroistoku Sjedinjenih Država obilne kiše izazvale bujične poplave, poginulo je najmanje petero ljudi. Pravosudni službenici nastavljaju štrajk, od sada prekidaju i hitne poslove, radit će samo nužne. Ukrajina podvodnim bespilotnim letjelicama napala Krimski most, poginule su dvije osobe. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 17 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/8c/20230717-dnevne-novosti-34324376-20230717134556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
