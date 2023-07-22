@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Jul 2023 05:39:57 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 06:10:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.07. 2023-07-22</title>
+    <link>https://api.hrt.hr/media/94/6a/20230722-jutarnja-kronika-34338276-20230722054044.mp3</link>
+    <description>Snažno nevrijeme u Istri, na Kvarneru, istoku Hrvatske te ponovno u Zagrebu. Nekoliko vozila sudarilo se u Dugom ratu, ozlijeđeno 11 ljudi. Saborska rasprava o štrajku u pravosuđu na izvanrednoj sjednici trajala čak 16 sati. Zastupnici danas o prodaji jeftinog plina. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 22 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/6a/20230722-jutarnja-kronika-34338276-20230722054044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.07. 2023-07-21</title>
     <link>https://api.hrt.hr/media/ff/51/20230721-jutarnja-kronika-34335069-20230721053504.mp3</link>
     <description>Počinje izvanredna sjednica Sabora i trajat će tri dana. Meteorolozi upozoravaju na nestabilno vrijeme - danas i sutra moguća nova olujna nevremena, ali ne očekuje se da će biti toliko razorna kao prekjučer. Kod Atene se ponovno razbuktao požar, u pomoć stiže i hrvatski kanader. Urednik: Mario Krstanović</description>
