@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Jul 2023 13:45:38 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 14:15:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.07. 2023-07-23</title>
+    <link>https://api.hrt.hr/media/8f/08/20230723-dnevne-novosti-34341726-20230723134548.mp3</link>
+    <description>Završila izvanredna sjednica Sabora, vladajuća većina odbila zaključke predsjednika Republike i oporbe koja je pozvala premijera da svim građanima najesen omogući kupnju plina po cijeni od jednog centa. Osim s vrućinama, Mediteran se bori i s požarima. Najteže na grčkom otoku Rodosu s kojeg je evakuirano oko 19 tisuća ljudi. U Španjolskoj se održavaju prijevremeni izbori. Prema anketama, prvi put nakon 50 godina i Frankove diktature, dio vlasti mogla bi postati krajnje desna stranka. Urednica: Mira Barić</description>
+    <pubDate>Sun, 23 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8f/08/20230723-dnevne-novosti-34341726-20230723134548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.07. 2023-07-22</title>
     <link>https://api.hrt.hr/media/1f/09/20230722-dnevne-novosti-34339327-20230722135044.mp3</link>
     <description>Drugog dana izvanredne sjednice Sabora tema je plinska afera. Vladajući i oporba nastavili s oštrim tonovima. Nastavlja se sanacija štete od nevremena, stanje je posebno teško u Slavoniji. Narančasto upozorenje za nevrijeme vrijedi za osječku, karlovačku, gospićku i zagrebačku regiju, a za riječku crveno. U ukrajinskom napadu na Krim eksplodiralo skladište oružja. Večeras dodjela Zlatnih arena 70. Pulskog filmskog festivala. Urednik: Silvio Šop</description>
