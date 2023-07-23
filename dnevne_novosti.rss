@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Jul 2023 14:11:29 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 13:45:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Saniraju se posljedice nevremena u kojemu je četvero ljudi poginulo, oko 200 ozlijeđeno, te oštećeno više od dvije tisuće objekata. Predsjednik Milanović neće biti na izvanrednoj saborskoj sjednici koju je sazvao. Dvanaest umjetničkih slika zaplijenjenih bivšem premijeru Sanaderu poklonjeno hrvatskim muzejima. U Zagrebu u 86. godini umro Mirko Novosel, najtrofejniji hrvatski trener i član košarkaške Kuće slavnih. Meteorolozi upozoravaju da su sljedećih dana vrlo vjerojatna nova olujna nevremena. Urednica: Mira Barić</description>
     <pubDate>Thu, 20 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fe/37/20230720-dnevne-novosti-34333571-20230720134004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.07. 2023-07-19</title>
-    <link>https://api.hrt.hr/media/38/e9/20230719-dnevne-novosti-34330392-20230719134001.mp3</link>
-    <description>Uz ekstremne vrućine, u Europi i svijetu haraju požari. Čak 3300 učenika žalilo se na rezultate državne mature. Na 112 gospodarstava utvrđena je afrička svinjska kuga, danas nema novih slučajeva. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 19 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/e9/20230719-dnevne-novosti-34330392-20230719134001.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
