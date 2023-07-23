@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Jul 2023 06:10:03 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 05:44:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.07. 2023-07-23</title>
+    <link>https://api.hrt.hr/media/ec/12/20230723-jutarnja-kronika-34340731-20230723053547.mp3</link>
+    <description>U Slavoniji oko 12 i pol tisuća kućanstava bez struje nakon olujnog nevremena. Pronađeno tijelo Talijana koji je s jedrilice pao u more kod Novigrada. Pred nama je treći, ujedno i posljednji dan izvanredne saborske sjednice. Parlamentarna većina već jučer najavila da će odbiti predložene zaključke i izglasovati svoje. Španjolci izlaze na prijevremene parlamentarne izbore. Dokumentarni film â€žVeće od traume" pobjednik je 70. Pulskoga filmskog festivala. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 23 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/12/20230723-jutarnja-kronika-34340731-20230723053547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.07. 2023-07-22</title>
     <link>https://api.hrt.hr/media/94/6a/20230722-jutarnja-kronika-34338276-20230722054044.mp3</link>
     <description>Snažno nevrijeme u Istri, na Kvarneru, istoku Hrvatske te ponovno u Zagrebu. Nekoliko vozila sudarilo se u Dugom ratu, ozlijeđeno 11 ljudi. Saborska rasprava o štrajku u pravosuđu na izvanrednoj sjednici trajala čak 16 sati. Zastupnici danas o prodaji jeftinog plina. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Posljedice jučerašnje razorne oluje u Zagrebu i Slavoniji - tri poginule osobe, više od stotinu ozlijeđenih, golema materijalna šteta. Najjači udar vjetra u Gradištu kod Županje - 180 kilometara na sat! Predsjednik Zoran Milanović poslao zahtjev za izvanrednu sjednicu, predsjednik Sabora Jandroković sazvao ju je za sutra i vikend. Vlada će danas donijeti odluku o odšteti gospodarstava na kojima su zbog afričke svinjske kuge usmrćene svinje. Do sada je bolest potvrđena na 112 gospodarstava u Vukovarsko-srijemskoj županiji. Na filmskom festivalu u Puli jučer dvije premijere: "Samo kad se smijem" Vanje Juranić i "Smrt djevojčice sa žigicama" Gorana Kulenovića. Urednik: Silvio Šop</description>
     <pubDate>Thu, 20 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/df/20230720-jutarnja-kronika-34331803-20230720054002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.07. 2023-07-19</title>
-    <link>https://api.hrt.hr/media/5f/22/20230719-jutarnja-kronika-34328954-20230719054600.mp3</link>
-    <description>Olujno nevrijeme sinoć poharalo središnju Hrvatsku. Oporba traži od predsjednika države sazivanje izvanredne sjednice Sabora zbog plinske afere i štrajka u pravosuđu. Nakon ostavke ravnateljice Kliničke bolnice Sveti Duh Upravno vijeće danas odlučuje o njezinome privremenom nasljedniku. U međuvremenu - novi skandal. Kirurg ostavio gazu u trbuhu ženi nakon hitnoga carskog reza. Rano jutros opet ruski zračni napadi na ukrajinsku luku Odesu. Urednik: Mislav Togonal</description>
-    <pubDate>Wed, 19 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5f/22/20230719-jutarnja-kronika-34328954-20230719054600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
