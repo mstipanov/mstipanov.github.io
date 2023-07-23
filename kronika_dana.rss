@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Jul 2023 21:12:40 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 20:46:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.07. 2023-07-23</title>
+    <link>https://api.hrt.hr/media/9c/37/20230723-kronika-dana-34342561-20230723204048.mp3</link>
+    <description>Završila izvanredna sjednica Sabora, vladajući odbili zaključke predsjednika Republike i oporbe te prihvatili svoje. Osmi tjedan štrajka u pravosuđu. Sindikati upozorili da, ako potraje još koji tjedan, sustav neće izdržati. Neizvjesna izborna večer u Španjolskoj. Socijalisti i desnica zasad u mrtvoj utrci. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 23 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9c/37/20230723-kronika-dana-34342561-20230723204048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.07. 2023-07-22</title>
     <link>https://api.hrt.hr/media/1b/c9/20230722-kronika-dana-34340125-20230722204045.mp3</link>
     <description>Više od 12 sati u Saboru traje rasprava o plinskoj aferi. I drugi dan izvanredne sjednice obilježile su žestoke svađe i uvrede.Još je gotovo 12 i pol tisuća kućanstava bez struje nakon olujnog nevremena koje je poharalo Hrvatsku.Dokumentarni film â€žVeće od traume" redateljice Vedrane Pribačić pobjednik je 70. Pulskoga filmskog festivala. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Iz Slovenije i večeras stižu olujni oblaci, a u jučerašnjem nevremenu u Zagrebu i na istoku Hrvatske četvero je ljudi poginulo i oko 200 ozlijeđeno. Meteorolozi upozoravaju da su i sljedećih dana vrlo vjerojatna nova olujna nevremena, ali ne očekuje se da će biti toliko razorna. Sutra počinje trodnevno izvanredno zasjedanje Sabora. U 86-oj godini umro slavni košarkaški trener Mirko Novosel. Urednica: Sanja Cota</description>
     <pubDate>Thu, 20 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ac/2a/20230720-kronika-dana-34334461-20230720204004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.07. 2023-07-19</title>
-    <link>https://api.hrt.hr/media/bb/5b/20230719-kronika-dana-34331276-20230719204002.mp3</link>
-    <description>Unutrašnjost Hrvatske zahvatila razorna oluja, u Zagrebu dvije osobe poginule, deseci ozlijeđenih! Jedna osoba poginula i u Slavoniji. Nakon što je predsjednik Milanović poslao zahtjev za izvanrednu sjednicu, predsjednik Sabora Jandroković sazvao ju je za petak. Afrička svinjska kuga dosad potvrđena na 112 gospodarstava u Vukovarsko-srijemskoj županiji, usmrćeno oko tri tisuće svinja. Urednica: Mira Barić</description>
-    <pubDate>Wed, 19 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bb/5b/20230719-kronika-dana-34331276-20230719204002.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
