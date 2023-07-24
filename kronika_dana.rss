@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Jul 2023 20:46:54 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 20:51:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.07. 2023-07-24</title>
+    <link>https://api.hrt.hr/media/03/cb/20230724-kronika-dana-34345626-20230724204051.mp3</link>
+    <description>U Slavoniji još najmanje tisuću kućanstava nema struje, sve su mjerodavne službe na terenu. I za sutra izdano upozorenje zbog mogućega grmljavnskog nevremena na sjeverozapadu zemlje. Nevrijeme zahvatilo sjever Italije i dio Švicarske, a u Grčkoj zbog požara blokirane tisuće turista, osobito na Rodosu. Malenica najavio do kraja tjedna novu Vladinu ponudu pravosudnom sindikatu kako bi se prekinuo štrajk. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 24 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/03/cb/20230724-kronika-dana-34345626-20230724204051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.07. 2023-07-23</title>
     <link>https://api.hrt.hr/media/9c/37/20230723-kronika-dana-34342561-20230723204048.mp3</link>
     <description>Završila izvanredna sjednica Sabora, vladajući odbili zaključke predsjednika Republike i oporbe te prihvatili svoje. Osmi tjedan štrajka u pravosuđu. Sindikati upozorili da, ako potraje još koji tjedan, sustav neće izdržati. Neizvjesna izborna večer u Španjolskoj. Socijalisti i desnica zasad u mrtvoj utrci. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Snažna oluja poharala istarski Novigrad, šteta je golema, ozlijeđeno je najmanje petero ljudi, jedna je osoba nestala na moru. Nevrijeme i u Rijeci te ponovno u Zagrebu. Sabor zasjeda u prvom od tri dana izvanrednog zasjedanja. Na dnevnom je redu stanje u pravosuđu. U Otoku održana sjednica Savjeta za Slavoniju, Baranju i Srijem, premijera i ministricu poljoprivrede dočekali nezadovoljni svinjogojci. SPORT: U derbiju prvog kola SuperSport HNL-a Hajduk na Maksimiru pobijedio Dinamo 2:1. Urednik: Silvio Šop</description>
     <pubDate>Fri, 21 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/f3/20230721-kronika-dana-34337662-20230721204043.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.07. 2023-07-20</title>
-    <link>https://api.hrt.hr/media/ac/2a/20230720-kronika-dana-34334461-20230720204004.mp3</link>
-    <description>Iz Slovenije i večeras stižu olujni oblaci, a u jučerašnjem nevremenu u Zagrebu i na istoku Hrvatske četvero je ljudi poginulo i oko 200 ozlijeđeno. Meteorolozi upozoravaju da su i sljedećih dana vrlo vjerojatna nova olujna nevremena, ali ne očekuje se da će biti toliko razorna. Sutra počinje trodnevno izvanredno zasjedanje Sabora. U 86-oj godini umro slavni košarkaški trener Mirko Novosel. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 20 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ac/2a/20230720-kronika-dana-34334461-20230720204004.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
