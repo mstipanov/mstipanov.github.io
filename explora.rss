@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Jul 2023 11:01:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 16:25:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 25.07.2023. 2023-07-25</title>
+    <link>https://api.hrt.hr/media/1b/ea/20230725-explora-7970797-20230725160514.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 25 Jul 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/ea/20230725-explora-7970797-20230725160514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 18.07.2023. 2023-07-18</title>
     <link>https://api.hrt.hr/media/87/e6/20230718-explora-7968234-20230718151058.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.  Kraj povijesti. Antropocentrizam. Smilodon. Nafta, ovakva i onakva. Kloniranje čovjeka. Rudolf Steiner i kiropraktika. Indijci na Mjesecu. Korado o Zdravku Mamiću... Nas i Rusa... Koje zanimanje izabrati, za što se školovati?
@@ -80,17 +88,6 @@ Zašto žene pristaju biti ljubavnice?</description>
     <description>I ja sam Explorijanac! Dobili smo pismo i majicu. Recenzije u znanosti. Ravnozemljaši moraju postojati! Lučne sekunde i minute. Space X Falcon. Natječaj za samoodrživi prehrambeni eko sustav. Zelena pupavka. I mi smo hrana - komarcima. Kako produžiti telomere? Beton - rimski, armirani, prenapregnuti i - s rabljenim pelenama!</description>
     <pubDate>Tue, 23 May 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/1c/20230523-explora-7951697-20230523161530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 16.05.2023. 2023-05-16</title>
-    <link>https://api.hrt.hr/media/db/bc/20230516-explora-7949796-20230516160532.mp3</link>
-    <description>Space X – komercijalna svemirska stanica za dvije godine. Virusi umjesto antibiotika i CRISPR metoda. AI i rano otkrivanje bolesti. AI i seksualne usluge. AI i lektira. Kako spriječiti sušu? Tinitus – zujanje u ušima. Zašto je cvijeće lijepo ženama ( a ne npr. plodovi) ? Mučnina na zadnjem sjedištu moga auta. Otkriveni novi mjeseci oko Saturna. Kako su nastali Saturnovi prsteni? Evolucija i revolucija.
-
-
-</description>
-    <pubDate>Tue, 16 May 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/db/bc/20230516-explora-7949796-20230516160532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
