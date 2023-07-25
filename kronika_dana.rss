@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Jul 2023 20:51:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 20:55:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.07. 2023-07-25</title>
+    <link>https://api.hrt.hr/media/c2/12/20230725-kronika-dana-34348321-20230725205014.mp3</link>
+    <description>Jak vjetar ponovno rasplamsao požar u Župi dubrovačkoj. Na jugu Europe katastrofalni požari, u Grčkoj se tijekom gašenja srušio kanader, poginula dvojica pilota. Izrečene prve osuđujuće presude u suđenju za teroristički napad u Bruxellesu 2016-e. U 80-oj godini umro televizijski novinar i urednik Miroslav Lilić. Urednica: Mira Barić</description>
+    <pubDate>Tue, 25 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/12/20230725-kronika-dana-34348321-20230725205014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.07. 2023-07-24</title>
     <link>https://api.hrt.hr/media/03/cb/20230724-kronika-dana-34345626-20230724204051.mp3</link>
     <description>U Slavoniji još najmanje tisuću kućanstava nema struje, sve su mjerodavne službe na terenu. I za sutra izdano upozorenje zbog mogućega grmljavnskog nevremena na sjeverozapadu zemlje. Nevrijeme zahvatilo sjever Italije i dio Švicarske, a u Grčkoj zbog požara blokirane tisuće turista, osobito na Rodosu. Malenica najavio do kraja tjedna novu Vladinu ponudu pravosudnom sindikatu kako bi se prekinuo štrajk. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Više od 12 sati u Saboru traje rasprava o plinskoj aferi. I drugi dan izvanredne sjednice obilježile su žestoke svađe i uvrede.Još je gotovo 12 i pol tisuća kućanstava bez struje nakon olujnog nevremena koje je poharalo Hrvatsku.Dokumentarni film â€žVeće od traume" redateljice Vedrane Pribačić pobjednik je 70. Pulskoga filmskog festivala. Urednica: Mira Barić</description>
     <pubDate>Sat, 22 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/c9/20230722-kronika-dana-34340125-20230722204045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.07. 2023-07-21</title>
-    <link>https://api.hrt.hr/media/e5/f3/20230721-kronika-dana-34337662-20230721204043.mp3</link>
-    <description>Snažna oluja poharala istarski Novigrad, šteta je golema, ozlijeđeno je najmanje petero ljudi, jedna je osoba nestala na moru. Nevrijeme i u Rijeci te ponovno u Zagrebu. Sabor zasjeda u prvom od tri dana izvanrednog zasjedanja. Na dnevnom je redu stanje u pravosuđu. U Otoku održana sjednica Savjeta za Slavoniju, Baranju i Srijem, premijera i ministricu poljoprivrede dočekali nezadovoljni svinjogojci. SPORT: U derbiju prvog kola SuperSport HNL-a Hajduk na Maksimiru pobijedio Dinamo 2:1. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 21 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/f3/20230721-kronika-dana-34337662-20230721204043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
