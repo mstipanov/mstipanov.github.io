@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Jul 2023 05:48:22 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:52:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 25.07. 2023-07-25</title>
+    <link>https://api.hrt.hr/media/73/d4/20230725-jutarnja-kronika-34346178-20230725054552.mp3</link>
+    <description>Dva velika požara kod Dubrovnika. U Zagrebu kasno sinoć padala tuča. Novo upozorenje zbog mogućih grmljavinskih oluja u cijeloj zemlji. Ministar Malenica najavio uskoro novu Vladinu ponudu kako bi se prekinuo štrajk u pravosuđu. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 25 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/73/d4/20230725-jutarnja-kronika-34346178-20230725054552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 24.07. 2023-07-24</title>
     <link>https://api.hrt.hr/media/1d/ca/20230724-jutarnja-kronika-34343091-20230724053549.mp3</link>
     <description>Tri dana izvanredne sjednice Sabora završilo kako je bilo i očekivano - vladajući odbili zaključke predsjednika Republike i oporbe te prihvatili svoje. I dalje se saniraju posljedice nevremena, u Slavoniji je bez struje još 1760 kućanstava. Štrajk u pravosuđu se nastavlja. Sindikati upozorili da, ako potraje još koji tjedan, sustav neće izdržati. Konzervativna Narodna stranka osvojila je najviše glasova na jučerašnjima parlamentarnim izborima u Španjolskoj, no nedovoljno za formiranje vlade. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Snažno nevrijeme u Istri, na Kvarneru, istoku Hrvatske te ponovno u Zagrebu. Nekoliko vozila sudarilo se u Dugom ratu, ozlijeđeno 11 ljudi. Saborska rasprava o štrajku u pravosuđu na izvanrednoj sjednici trajala čak 16 sati. Zastupnici danas o prodaji jeftinog plina. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 22 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/6a/20230722-jutarnja-kronika-34338276-20230722054044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 21.07. 2023-07-21</title>
-    <link>https://api.hrt.hr/media/ff/51/20230721-jutarnja-kronika-34335069-20230721053504.mp3</link>
-    <description>Počinje izvanredna sjednica Sabora i trajat će tri dana. Meteorolozi upozoravaju na nestabilno vrijeme - danas i sutra moguća nova olujna nevremena, ali ne očekuje se da će biti toliko razorna kao prekjučer. Kod Atene se ponovno razbuktao požar, u pomoć stiže i hrvatski kanader. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 21 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/51/20230721-jutarnja-kronika-34335069-20230721053504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
