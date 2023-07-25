@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Jul 2023 14:19:55 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 13:54:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.07. 2023-07-25</title>
+    <link>https://api.hrt.hr/media/8d/2f/20230725-dnevne-novosti-34347497-20230725134014.mp3</link>
+    <description>Crveno upozorenje za zagrebačku regiju i istočnu Slavoniju. Jako jugo otežava gašenje požara u Župi dubrovačkoj. Kuće su obranjene. Tridesetčetvero mrtvih u požaru u Alžiru, a s grčkog otoka Rodosa pred vatrenom stihijom bježe i turisti i mještani. Na sjednici GSV-a predstavljen novi Zakon o plaćama u državnom i javnom sektoru koji bi iz temelja trebao promijeniti sustav plaća za više od 230 tisuća zaposlenika. U osamdesetoj godini umro poznati televizijski urednik i voditelj Miroslav Lilić. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 25 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/2f/20230725-dnevne-novosti-34347497-20230725134014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.07. 2023-07-24</title>
     <link>https://api.hrt.hr/media/4c/f5/20230724-dnevne-novosti-34344763-20230724140550.mp3</link>
     <description>Neki dijelovi Slavonije već danima nemaju struju, radnici HEP-a čine čuda. Osmi je tjedan štrajka u pravosuđu. Prosvjednici u Izraelu sukobili se s policijom ispred parlamenta u kojem je počelo glasovanje o prvom zakonu pravosudne reforme. Rusija optužila Ukrajinu da je rano jutros bespilotnim letjelicama napala Moskvu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Drugog dana izvanredne sjednice Sabora tema je plinska afera. Vladajući i oporba nastavili s oštrim tonovima. Nastavlja se sanacija štete od nevremena, stanje je posebno teško u Slavoniji. Narančasto upozorenje za nevrijeme vrijedi za osječku, karlovačku, gospićku i zagrebačku regiju, a za riječku crveno. U ukrajinskom napadu na Krim eksplodiralo skladište oružja. Večeras dodjela Zlatnih arena 70. Pulskog filmskog festivala. Urednik: Silvio Šop</description>
     <pubDate>Sat, 22 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/09/20230722-dnevne-novosti-34339327-20230722135044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.07. 2023-07-21</title>
-    <link>https://api.hrt.hr/media/94/d2/20230721-dnevne-novosti-34336682-20230721134042.mp3</link>
-    <description>Štrajk u pravosuđu i plinska afera - dvije su teme zbog kojih je počela trodnevna izvanredna sjednica Sabora. Premijera i ministricu poljoprivrede u Otoku kod Vinkovaca, gdje se održava sjednica Savjeta za Slavoniju, dočekali zabrinuti svinjogojci i zasuli ih pitanjima. Udruga Glas poduzetnika zatražila ocjenu ustavnosti Zakona o trgovini, koji je ograničio rad nedjeljom. Crveni meteoalarm danas izdan za Istarsku, Primorsko-goransku i Ličko-senjsku županiju te dijelove Zagrebačke, Karlovačke i Sisačko-moslavačke županije. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 21 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/d2/20230721-dnevne-novosti-34336682-20230721134042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
