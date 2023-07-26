@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 25 Jul 2023 05:52:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 05:57:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.07. 2023-07-26</title>
+    <link>https://api.hrt.hr/media/61/97/20230726-jutarnja-kronika-34348857-20230726053535.mp3</link>
+    <description>I dalje je aktivan požar kod Dubrovnika. Stanje je ipak bolje nego sinoć. Požari i u Grčkoj. Turisti i mještani bježe s Rodosa. Pravosudni djelatnici koji štrajkaju gotovo dva mjeseca, ne prihvaćaju povećanje plaće od 12 posto. Prije točno godinu dana otvoren je Pelješki most. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 26 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/97/20230726-jutarnja-kronika-34348857-20230726053535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.07. 2023-07-25</title>
     <link>https://api.hrt.hr/media/73/d4/20230725-jutarnja-kronika-34346178-20230725054552.mp3</link>
     <description>Dva velika požara kod Dubrovnika. U Zagrebu kasno sinoć padala tuča. Novo upozorenje zbog mogućih grmljavinskih oluja u cijeloj zemlji. Ministar Malenica najavio uskoro novu Vladinu ponudu kako bi se prekinuo štrajk u pravosuđu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U Slavoniji oko 12 i pol tisuća kućanstava bez struje nakon olujnog nevremena. Pronađeno tijelo Talijana koji je s jedrilice pao u more kod Novigrada. Pred nama je treći, ujedno i posljednji dan izvanredne saborske sjednice. Parlamentarna većina već jučer najavila da će odbiti predložene zaključke i izglasovati svoje. Španjolci izlaze na prijevremene parlamentarne izbore. Dokumentarni film â€žVeće od traume" pobjednik je 70. Pulskoga filmskog festivala. Urednik: Silvio Šop</description>
     <pubDate>Sun, 23 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ec/12/20230723-jutarnja-kronika-34340731-20230723053547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.07. 2023-07-22</title>
-    <link>https://api.hrt.hr/media/94/6a/20230722-jutarnja-kronika-34338276-20230722054044.mp3</link>
-    <description>Snažno nevrijeme u Istri, na Kvarneru, istoku Hrvatske te ponovno u Zagrebu. Nekoliko vozila sudarilo se u Dugom ratu, ozlijeđeno 11 ljudi. Saborska rasprava o štrajku u pravosuđu na izvanrednoj sjednici trajala čak 16 sati. Zastupnici danas o prodaji jeftinog plina. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 22 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/6a/20230722-jutarnja-kronika-34338276-20230722054044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
