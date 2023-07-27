@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Jul 2023 21:00:03 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 21:04:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.07. 2023-07-27</title>
+    <link>https://api.hrt.hr/media/7b/c6/20230727-kronika-dana-34354665-20230727204029.mp3</link>
+    <description>Požar koji je poslijepodne buknuo na Čiovu kod Trogira još nije pod nadzorom, ali više se ne širi.Nakon osam tjedana štrajka - sutra se na posao vraćaju zaposleni u pravosuđu. Unatoč velikom broju nezadovoljnih, Vlada i Sindikat državnih i lokalnih službenika i namještenika postigli su dogovor o 12-postotnom povećanju plaća.
+Svjetska meteorološka organizacija, UN i Služba za klimatske promjene ovaj su mjesec proglasili najtoplijim u povijesti iako još nije završio.Urednica: Mira Barić</description>
+    <pubDate>Thu, 27 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7b/c6/20230727-kronika-dana-34354665-20230727204029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.07. 2023-07-26</title>
     <link>https://api.hrt.hr/media/f0/8f/20230726-kronika-dana-34351394-20230726204528.mp3</link>
     <description>52. dana štrajka u pravosuđu, Sindikat prihvatio Vladinu ponudu! Pravosudnim službenicima plaće će se povećati 12 posto i bit će im plaćeni dani u štrajku! U Istri uhićeno 8 ljudi zbog sumnje na pogodovanje pri legalizaciji nezakonitih građevina. 30 vatrogasaca dežurat će cijelu noć kako se ne bi razbuktao požar u Župi dubrovačkoj. irska pjevačica Sinead O'Connor. Urednik: Mario Krstanović</description>
@@ -31,14 +40,6 @@
     <description>U Slavoniji još najmanje tisuću kućanstava nema struje, sve su mjerodavne službe na terenu. I za sutra izdano upozorenje zbog mogućega grmljavnskog nevremena na sjeverozapadu zemlje. Nevrijeme zahvatilo sjever Italije i dio Švicarske, a u Grčkoj zbog požara blokirane tisuće turista, osobito na Rodosu. Malenica najavio do kraja tjedna novu Vladinu ponudu pravosudnom sindikatu kako bi se prekinuo štrajk. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 24 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/cb/20230724-kronika-dana-34345626-20230724204051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.07. 2023-07-23</title>
-    <link>https://api.hrt.hr/media/9c/37/20230723-kronika-dana-34342561-20230723204048.mp3</link>
-    <description>Završila izvanredna sjednica Sabora, vladajući odbili zaključke predsjednika Republike i oporbe te prihvatili svoje. Osmi tjedan štrajka u pravosuđu. Sindikati upozorili da, ako potraje još koji tjedan, sustav neće izdržati. Neizvjesna izborna večer u Španjolskoj. Socijalisti i desnica zasad u mrtvoj utrci. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 23 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/37/20230723-kronika-dana-34342561-20230723204048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
