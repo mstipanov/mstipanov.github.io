@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Jul 2023 20:41:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 21:11:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.07. 2023-07-28</title>
+    <link>https://api.hrt.hr/media/75/3b/20230728-kronika-dana-34357443-20230728204032.mp3</link>
+    <description>Još traje istraga nesreće u kojoj je u Trogiru jedan radnik poginuo, a dvojica su ozlijeđena. Utvrđuje se je li riječ o nesreći na radu ili slučajnoj nesreći. Policija uhitila albanskog državljanina za kojeg sumnja da je jučer izazvao požar na otoku Čiovu. Nakon samo sedam mjeseci suradnje, splitski gradonačelnik Ivica Puljak suspendirao je pročelnicu za gradsku imovinu Maju Đerek, poznatu hrvatsku zviždačicu. Urednica: Mira Barić</description>
+    <pubDate>Fri, 28 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/75/3b/20230728-kronika-dana-34357443-20230728204032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.07. 2023-07-27</title>
     <link>https://api.hrt.hr/media/7b/c6/20230727-kronika-dana-34354665-20230727204029.mp3</link>
     <description>Požar koji je poslijepodne buknuo na Čiovu kod Trogira još nije pod nadzorom, ali više se ne širi.Nakon osam tjedana štrajka - sutra se na posao vraćaju zaposleni u pravosuđu. Unatoč velikom broju nezadovoljnih, Vlada i Sindikat državnih i lokalnih službenika i namještenika postigli su dogovor o 12-postotnom povećanju plaća.
