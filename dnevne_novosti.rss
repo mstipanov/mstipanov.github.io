@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Jul 2023 14:09:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 13:44:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Istri traje akcija USKOK-a, uhićeno je dvanaestero ljudi zbog sumnje u pogodovanje kod legalizacije nezakonitih građevina. Požar u Župi dubrovačkoj je pod nadzorom, vatrogasci saniraju rubna područja. Veliki požari bukte diljem Sredozemlja, poginulo je više od 40 ljudi, tisuće su evakuirane. Prije godinu dana u promet je pušten Pelješki most, do sada ga je prešlo oko dva milijuna i 300 tisuća vozila. Urednik: Silvio Šop</description>
     <pubDate>Wed, 26 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/63/9f/20230726-dnevne-novosti-34350422-20230726134027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.07. 2023-07-25</title>
-    <link>https://api.hrt.hr/media/8d/2f/20230725-dnevne-novosti-34347497-20230725134014.mp3</link>
-    <description>Crveno upozorenje za zagrebačku regiju i istočnu Slavoniju. Jako jugo otežava gašenje požara u Župi dubrovačkoj. Kuće su obranjene. Tridesetčetvero mrtvih u požaru u Alžiru, a s grčkog otoka Rodosa pred vatrenom stihijom bježe i turisti i mještani. Na sjednici GSV-a predstavljen novi Zakon o plaćama u državnom i javnom sektoru koji bi iz temelja trebao promijeniti sustav plaća za više od 230 tisuća zaposlenika. U osamdesetoj godini umro poznati televizijski urednik i voditelj Miroslav Lilić. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 25 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8d/2f/20230725-dnevne-novosti-34347497-20230725134014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
