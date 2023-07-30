@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Jul 2023 05:42:40 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 05:46:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.07. 2023-07-30</title>
+    <link>https://api.hrt.hr/media/94/60/20230730-jutarnja-kronika-34360345-20230730053038.mp3</link>
+    <description>Od ranoga jutra gužve i kolone u prometu. Na granici Hrvatske i Slovenije sinoć potres jakosti 4 cijela 2, uznemirio stanovnike na riječkom području. Poljski premijer Morawiecki izrazio zabrinutost zbog približavanja skupina Wagnerovih vojnika granici s Poljskom. Urednica: Mira Barić</description>
+    <pubDate>Sun, 30 Jul 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/60/20230730-jutarnja-kronika-34360345-20230730053038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.07. 2023-07-29</title>
     <link>https://api.hrt.hr/media/8d/50/20230729-jutarnja-kronika-34358075-20230729053533.mp3</link>
     <description>Posljednji srpanjski vikend bit će uobičajeno udarni zbog velike smjene gostiju. Ukrajinska vojska tvrdi da njihova protuofenziva dobro napreduje u tri smjera. Pet godina bez glazbene legende Olivera Dragojevića. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Prema najavi sindikata, sutra bi se službenici u pravosuđu mogli vratiti na posao. Prihvatili su Vladinu ponudu za povećanje plaća 12 posto i bit će im plaćeni dani u štrajku. Na dnevnom redu Vladine sjednice je izvješće o preliminarnoj procjeni šteta nastalih olujnim nevremenom i o trenutačnom stanju. Sanacija štete u Slavoniji se nastavlja. Prva polovica srpnja turistički podbacila, prema kraju mjeseca to se nadoknađuje. Britanski vojni analitičari tvrde da se ruska crnomorska flota priprema za blokadu ukrajinskih luka. Urednik: Silvio Šop</description>
     <pubDate>Thu, 27 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2c/72/20230727-jutarnja-kronika-34351944-20230727053527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.07. 2023-07-26</title>
-    <link>https://api.hrt.hr/media/61/97/20230726-jutarnja-kronika-34348857-20230726053535.mp3</link>
-    <description>I dalje je aktivan požar kod Dubrovnika. Stanje je ipak bolje nego sinoć. Požari i u Grčkoj. Turisti i mještani bježe s Rodosa. Pravosudni djelatnici koji štrajkaju gotovo dva mjeseca, ne prihvaćaju povećanje plaće od 12 posto. Prije točno godinu dana otvoren je Pelješki most. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 26 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/61/97/20230726-jutarnja-kronika-34348857-20230726053535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
