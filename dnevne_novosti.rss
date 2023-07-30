@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Jul 2023 14:14:10 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 13:48:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.07. 2023-07-30</title>
+    <link>https://api.hrt.hr/media/f8/a8/20230730-dnevne-novosti-34361196-20230730133537.mp3</link>
+    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
+    <pubDate>Sun, 30 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f8/a8/20230730-dnevne-novosti-34361196-20230730133537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.07. 2023-07-29</title>
     <link>https://api.hrt.hr/media/b4/34/20230729-dnevne-novosti-34358973-20230729134034.mp3</link>
     <description>Zadnji je srpanjski vikend - na gotovo svim cestama gužve.Prema moru se vozi u kolonoma uz povremene zastoje. Najveća gužva trenutačno je ispred tunela Sveti Rok. Vozila se povremeno zaustavljaju ispred tunela. Ukrajina objavila da bi uskoro njezine snage mogle ući na okupirani poluotok Krim. Koncertom "Trag u beskraju" Vela Luka večeras obilježava petu godišnjicu smrti Olivera Dragojevića.Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Prekinut najduži štrajk u Hrvatskoj, od sutra će sudovi raditi normalno. Vlada će s 20 milijuna eura pomoći županijama koje su pretrpjele štete zbog nevremena. Državni prevrat u Nigeru. Ruski predsjednik Putin obećao afričkim vođama besplatno žito. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 27 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5e/96/20230727-dnevne-novosti-34353597-20230727134530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.07. 2023-07-26</title>
-    <link>https://api.hrt.hr/media/63/9f/20230726-dnevne-novosti-34350422-20230726134027.mp3</link>
-    <description>U Istri traje akcija USKOK-a, uhićeno je dvanaestero ljudi zbog sumnje u pogodovanje kod legalizacije nezakonitih građevina. Požar u Župi dubrovačkoj je pod nadzorom, vatrogasci saniraju rubna područja. Veliki požari bukte diljem Sredozemlja, poginulo je više od 40 ljudi, tisuće su evakuirane. Prije godinu dana u promet je pušten Pelješki most, do sada ga je prešlo oko dva milijuna i 300 tisuća vozila. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 26 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/63/9f/20230726-dnevne-novosti-34350422-20230726134027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
