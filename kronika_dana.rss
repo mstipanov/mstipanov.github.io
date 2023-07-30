@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Jul 2023 21:15:22 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 20:49:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@
 Svjetska meteorološka organizacija, UN i Služba za klimatske promjene ovaj su mjesec proglasili najtoplijim u povijesti iako još nije završio.Urednica: Mira Barić</description>
     <pubDate>Thu, 27 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/c6/20230727-kronika-dana-34354665-20230727204029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.07. 2023-07-26</title>
-    <link>https://api.hrt.hr/media/f0/8f/20230726-kronika-dana-34351394-20230726204528.mp3</link>
-    <description>52. dana štrajka u pravosuđu, Sindikat prihvatio Vladinu ponudu! Pravosudnim službenicima plaće će se povećati 12 posto i bit će im plaćeni dani u štrajku! U Istri uhićeno 8 ljudi zbog sumnje na pogodovanje pri legalizaciji nezakonitih građevina. 30 vatrogasaca dežurat će cijelu noć kako se ne bi razbuktao požar u Župi dubrovačkoj. irska pjevačica Sinead O'Connor. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 26 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f0/8f/20230726-kronika-dana-34351394-20230726204528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
