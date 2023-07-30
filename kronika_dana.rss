@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Jul 2023 20:49:27 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 21:19:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.07. 2023-07-30</title>
+    <link>https://api.hrt.hr/media/d9/47/20230730-kronika-dana-34361896-20230730205042.mp3</link>
+    <description>Manji zrakoplov tipa Cessna pri slijetanju izletio s piste u sinjskoj zračnoj luci i udario u stablo - pilot i kopilot preživjeli! Počelo tegljenje teretnog broda s više od 3 i pol tisuće automobila, koji već danima gori uz nizozemsku obalu. Nakon napada bespilotnim letjelicama na Moskvu, ukrajinski predsjednik Zelenski poručio - "Rat stiže u Rusiju". Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 30 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d9/47/20230730-kronika-dana-34361896-20230730205042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.07. 2023-07-29</title>
     <link>https://api.hrt.hr/media/16/c4/20230729-kronika-dana-34359753-20230729204035.mp3</link>
     <description>Zadnja je srpanjska subota - gužve su na gotovo svim cestama. Potres magnitude 4.2 prema Richteru poslije 19 sati uznemirio Riječane. Epicentar kod Klane, na granici Hrvatske i Slovenije. Nema dojava o šteti. Veliki požar na Čiovu je pod nadzorom. Ukrajina objavila da bi njezine snage uskoro mogle ući na okupirani poluotok Krim. Urednik: Grgo Mrvica</description>
