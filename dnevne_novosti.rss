@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Jul 2023 13:48:14 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 13:52:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 31.07. 2023-07-31</title>
+    <link>https://api.hrt.hr/media/54/9e/20230731-dnevne-novosti-34363570-20230731133540.mp3</link>
+    <description>Inflacija se u srpnju usporila na 7,4 posto. Eurostat procjenjuje da Hrvatska, uz Slovačku, ima najsnažniji rast cijena, znatno veći od prosjeka. U ponoć poskupljuje i benzin i dizel - 5 centi po litri. Nakon 52 dana štrajka, počeo radni tjedan za pravosudne službenike. Urednik: Mario Krstanović</description>
+    <pubDate>Mon, 31 Jul 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/9e/20230731-dnevne-novosti-34363570-20230731133540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 30.07. 2023-07-30</title>
     <link>https://api.hrt.hr/media/f8/a8/20230730-dnevne-novosti-34361196-20230730133537.mp3</link>
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
@@ -31,14 +39,6 @@
     <description>Urušio se zid u trogirskom brodogradilištu - jedan radnik poginuo, a još dvojica ozlijeđena. Zbog sumnje da su izazvali veliki požar na Čiovu, uhićena dvojica stranih radnika. Iz Ureda predsjednika tvrde da su uredno obavijestili MUP o dolasku Milorada Dodika na Hvar, ministar Božinović kaže da nije imao tu informaciju. Splitski gradonačelnik suspendirao pročelnicu Maju Đerek jer je istupila u javnost bez njegova odobrenja. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 28 Jul 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/91/a8/20230728-dnevne-novosti-34356739-20230728134032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 27.07. 2023-07-27</title>
-    <link>https://api.hrt.hr/media/5e/96/20230727-dnevne-novosti-34353597-20230727134530.mp3</link>
-    <description>Prekinut najduži štrajk u Hrvatskoj, od sutra će sudovi raditi normalno. Vlada će s 20 milijuna eura pomoći županijama koje su pretrpjele štete zbog nevremena. Državni prevrat u Nigeru. Ruski predsjednik Putin obećao afričkim vođama besplatno žito. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 27 Jul 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5e/96/20230727-dnevne-novosti-34353597-20230727134530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
