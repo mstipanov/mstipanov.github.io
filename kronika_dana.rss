@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Jul 2023 21:19:33 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 20:54:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.07. 2023-07-31</title>
+    <link>https://api.hrt.hr/media/f6/50/20230731-kronika-dana-34364442-20230731205046.mp3</link>
+    <description>U ponoć po 5 centi poskupljuju i benzin i dizel. Inflacija u srpnju 7,4 posto. Nakon 52 dana štrajka pravosudnih službenika, sudovi počeli s radom. Nagomilani zaostali predmeti. U Babinoj Gredi poginuo muškarac dok je uklanjao stablo oštećeno u nevremenu.
+Urednica: Sanja Rabuzin.</description>
+    <pubDate>Mon, 31 Jul 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f6/50/20230731-kronika-dana-34364442-20230731205046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.07. 2023-07-30</title>
     <link>https://api.hrt.hr/media/d9/47/20230730-kronika-dana-34361896-20230730205042.mp3</link>
     <description>Manji zrakoplov tipa Cessna pri slijetanju izletio s piste u sinjskoj zračnoj luci i udario u stablo - pilot i kopilot preživjeli! Počelo tegljenje teretnog broda s više od 3 i pol tisuće automobila, koji već danima gori uz nizozemsku obalu. Nakon napada bespilotnim letjelicama na Moskvu, ukrajinski predsjednik Zelenski poručio - "Rat stiže u Rusiju". Urednik: Mario Krstanović</description>
@@ -31,15 +40,6 @@
     <description>Još traje istraga nesreće u kojoj je u Trogiru jedan radnik poginuo, a dvojica su ozlijeđena. Utvrđuje se je li riječ o nesreći na radu ili slučajnoj nesreći. Policija uhitila albanskog državljanina za kojeg sumnja da je jučer izazvao požar na otoku Čiovu. Nakon samo sedam mjeseci suradnje, splitski gradonačelnik Ivica Puljak suspendirao je pročelnicu za gradsku imovinu Maju Đerek, poznatu hrvatsku zviždačicu. Urednica: Mira Barić</description>
     <pubDate>Fri, 28 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/75/3b/20230728-kronika-dana-34357443-20230728204032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.07. 2023-07-27</title>
-    <link>https://api.hrt.hr/media/7b/c6/20230727-kronika-dana-34354665-20230727204029.mp3</link>
-    <description>Požar koji je poslijepodne buknuo na Čiovu kod Trogira još nije pod nadzorom, ali više se ne širi.Nakon osam tjedana štrajka - sutra se na posao vraćaju zaposleni u pravosuđu. Unatoč velikom broju nezadovoljnih, Vlada i Sindikat državnih i lokalnih službenika i namještenika postigli su dogovor o 12-postotnom povećanju plaća.
-Svjetska meteorološka organizacija, UN i Služba za klimatske promjene ovaj su mjesec proglasili najtoplijim u povijesti iako još nije završio.Urednica: Mira Barić</description>
-    <pubDate>Thu, 27 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7b/c6/20230727-kronika-dana-34354665-20230727204029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
