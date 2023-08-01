@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 31 Jul 2023 20:54:23 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 20:59:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.08. 2023-08-01</title>
+    <link>https://api.hrt.hr/media/ba/91/20230801-kronika-dana-34366864-20230801204100.mp3</link>
+    <description>Mjesec je dana primjene novog Zakona o trgovini. Umjesto nedjelje, povećala se prodaja subotom. Hrvatska bi najesen trebala dobiti Zakon o hrvatskom jeziku. Uoči javnog savjetovanja, danas je predstavljen njegov nacrt. Ukrajinske žitarice izvozit će se preko hrvatskih luka.
+Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 01 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ba/91/20230801-kronika-dana-34366864-20230801204100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 31.07. 2023-07-31</title>
     <link>https://api.hrt.hr/media/f6/50/20230731-kronika-dana-34364442-20230731205046.mp3</link>
     <description>U ponoć po 5 centi poskupljuju i benzin i dizel. Inflacija u srpnju 7,4 posto. Nakon 52 dana štrajka pravosudnih službenika, sudovi počeli s radom. Nagomilani zaostali predmeti. U Babinoj Gredi poginuo muškarac dok je uklanjao stablo oštećeno u nevremenu.
@@ -32,14 +41,6 @@ Urednica: Sanja Rabuzin.</description>
     <description>Zadnja je srpanjska subota - gužve su na gotovo svim cestama. Potres magnitude 4.2 prema Richteru poslije 19 sati uznemirio Riječane. Epicentar kod Klane, na granici Hrvatske i Slovenije. Nema dojava o šteti. Veliki požar na Čiovu je pod nadzorom. Ukrajina objavila da bi njezine snage uskoro mogle ući na okupirani poluotok Krim. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 29 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/16/c4/20230729-kronika-dana-34359753-20230729204035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.07. 2023-07-28</title>
-    <link>https://api.hrt.hr/media/75/3b/20230728-kronika-dana-34357443-20230728204032.mp3</link>
-    <description>Još traje istraga nesreće u kojoj je u Trogiru jedan radnik poginuo, a dvojica su ozlijeđena. Utvrđuje se je li riječ o nesreći na radu ili slučajnoj nesreći. Policija uhitila albanskog državljanina za kojeg sumnja da je jučer izazvao požar na otoku Čiovu. Nakon samo sedam mjeseci suradnje, splitski gradonačelnik Ivica Puljak suspendirao je pročelnicu za gradsku imovinu Maju Đerek, poznatu hrvatsku zviždačicu. Urednica: Mira Barić</description>
-    <pubDate>Fri, 28 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/75/3b/20230728-kronika-dana-34357443-20230728204032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
