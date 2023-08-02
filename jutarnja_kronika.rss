@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Aug 2023 05:56:03 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 06:00:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Od ranoga jutra gužve i kolone u prometu. Na granici Hrvatske i Slovenije sinoć potres jakosti 4 cijela 2, uznemirio stanovnike na riječkom području. Poljski premijer Morawiecki izrazio zabrinutost zbog približavanja skupina Wagnerovih vojnika granici s Poljskom. Urednica: Mira Barić</description>
     <pubDate>Sun, 30 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/60/20230730-jutarnja-kronika-34360345-20230730053038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.07. 2023-07-29</title>
-    <link>https://api.hrt.hr/media/8d/50/20230729-jutarnja-kronika-34358075-20230729053533.mp3</link>
-    <description>Posljednji srpanjski vikend bit će uobičajeno udarni zbog velike smjene gostiju. Ukrajinska vojska tvrdi da njihova protuofenziva dobro napreduje u tri smjera. Pet godina bez glazbene legende Olivera Dragojevića. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 29 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8d/50/20230729-jutarnja-kronika-34358075-20230729053533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
