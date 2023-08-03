@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Aug 2023 21:03:27 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 21:08:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.08. 2023-08-03</title>
+    <link>https://api.hrt.hr/media/2a/bc/20230803-kronika-dana-34372091-20230803204006.mp3</link>
+    <description>Premijer Plenković potpisao prijedlog kandidata za novog ravnatelja Vojno sigurnosno-obavještajne agencije - predsjednik Milanović i dalje inzistira na imenovanju svih nepopunjenih mjesta u vojsci. Posljednje pripreme za proslavu Oluje u Kninu - program prilagođen lošoj vremenskoj prognozi.Uoči najavljenog novog nevremena - od sutra u ponoć u punoj primjeni sustav za rano upozoravanje i upravljanje krizama. Donald Trump na sudu u Washingtonu - optužen za urotu protiv države i pokušaj mijenjanja izbornih rezultata. Urednica: Sanja Rabuzin.</description>
+    <pubDate>Thu, 03 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2a/bc/20230803-kronika-dana-34372091-20230803204006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.08. 2023-08-02</title>
     <link>https://api.hrt.hr/media/0a/2c/20230802-kronika-dana-34369366-20230802204003.mp3</link>
     <description>Iz Vlade i Ureda predsjednika oprečne informacije o tome je li postignut dogovor o imenovanju šefa Vojne sigurnosno-obavještajne agencije. Donald Trump, protiv kojega je podignuta treća optužnica, sutra se mora pojaviti na saveznom sudu u Washingtonu. Uz ostalo, optužen je za pokušaj mijenjanja rezultata izbora prije tri godine. Zbog nestašice krvi u splitskome KBC-u moguće otkazivanje operacija. Urednica: Mira Barić</description>
@@ -33,14 +41,6 @@ Urednik: Grgo Mrvica</description>
 Urednica: Sanja Rabuzin.</description>
     <pubDate>Mon, 31 Jul 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f6/50/20230731-kronika-dana-34364442-20230731205046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.07. 2023-07-30</title>
-    <link>https://api.hrt.hr/media/d9/47/20230730-kronika-dana-34361896-20230730205042.mp3</link>
-    <description>Manji zrakoplov tipa Cessna pri slijetanju izletio s piste u sinjskoj zračnoj luci i udario u stablo - pilot i kopilot preživjeli! Počelo tegljenje teretnog broda s više od 3 i pol tisuće automobila, koji već danima gori uz nizozemsku obalu. Nakon napada bespilotnim letjelicama na Moskvu, ukrajinski predsjednik Zelenski poručio - "Rat stiže u Rusiju". Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 30 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d9/47/20230730-kronika-dana-34361896-20230730205042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
