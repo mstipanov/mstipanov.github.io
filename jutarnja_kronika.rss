@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Aug 2023 06:00:46 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 06:04:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.08. 2023-08-03</title>
+    <link>https://api.hrt.hr/media/84/d6/20230803-jutarnja-kronika-34369940-20230803053504.mp3</link>
+    <description>Sinoć novi krug, prema svemu sudeći, neuspješnih pregovora Vlade i predsjednika države u vezi s imenovanjem čelnog čovjeka Vojne obavještajne službe.Trump, protiv kojega je podignuta dosad najteža optužnica za rušenje demokratskog sustava, trebao bi se pojaviti na saveznom sudu u Washingtonu. Ukrajinska protuzračna obrana sinoć je srušila novih 15 ruskih dronova koji i dalje gađaju civilne ciljeve. Papa Franjo pozvao je portugalsko svećenstvo "da prihvati i posluša bolan krik žrtava" spolnog zlostavljanja u Crkvi. Urednik Grgo Mrvica</description>
+    <pubDate>Thu, 03 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/84/d6/20230803-jutarnja-kronika-34369940-20230803053504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.08. 2023-08-01</title>
     <link>https://api.hrt.hr/media/2c/42/20230801-jutarnja-kronika-34364942-20230801054041.mp3</link>
     <description>Ukrajinci ponovno dronovima napali Moskvu - pogođen poslovni neboder. Skuplji benzin i dizel. U Rijeci poskupljuje voda. Prvih mjesec dana od uvođenja zabrane rada nedjeljom. Iznenada umro suvlasnik i predsjednik Uprave Grupe Pivac. Urednik: Mario Krstanović</description>
@@ -23,14 +31,6 @@
     <description>Na vrhuncu sezone ruše se turistički rekordi. Ministrica Brnjac poručuje, nisu nam cilj velike brojke nego održivi turizam. Nakon završetka najduljeg štrajka, onoga u pravosuđu, čeka se normalizacija stanja u tom sektoru. U Ernestinovu počinje jubilarna 50-ta kiparska kolonija. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 31 Jul 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/4a/20230731-jutarnja-kronika-34362415-20230731053539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.07. 2023-07-30</title>
-    <link>https://api.hrt.hr/media/94/60/20230730-jutarnja-kronika-34360345-20230730053038.mp3</link>
-    <description>Od ranoga jutra gužve i kolone u prometu. Na granici Hrvatske i Slovenije sinoć potres jakosti 4 cijela 2, uznemirio stanovnike na riječkom području. Poljski premijer Morawiecki izrazio zabrinutost zbog približavanja skupina Wagnerovih vojnika granici s Poljskom. Urednica: Mira Barić</description>
-    <pubDate>Sun, 30 Jul 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/60/20230730-jutarnja-kronika-34360345-20230730053038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
