@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Aug 2023 21:08:03 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 20:55:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.08. 2023-08-04</title>
+    <link>https://api.hrt.hr/media/f7/5c/20230804-kronika-dana-34374693-20230804204008.mp3</link>
+    <description>Nevrijeme iz Slovenije stiglo je u Hrvatsku. Crveni alarm oglašen za riječko i gospićko područje, očekuje se vodeni val. U nevremenu u Sloveniji troje mrtvih, tisuće evakuiranih, promet blokiran. U Kninu sve spremno za sutrašnju proslavu Dana pobjede, večeras održano svečano primanje predsjednika Republike za ratne zapovjednike. Urednica Mira Barić</description>
+    <pubDate>Fri, 04 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/5c/20230804-kronika-dana-34374693-20230804204008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.08. 2023-08-03</title>
     <link>https://api.hrt.hr/media/2a/bc/20230803-kronika-dana-34372091-20230803204006.mp3</link>
     <description>Premijer Plenković potpisao prijedlog kandidata za novog ravnatelja Vojno sigurnosno-obavještajne agencije - predsjednik Milanović i dalje inzistira na imenovanju svih nepopunjenih mjesta u vojsci. Posljednje pripreme za proslavu Oluje u Kninu - program prilagođen lošoj vremenskoj prognozi.Uoči najavljenog novog nevremena - od sutra u ponoć u punoj primjeni sustav za rano upozoravanje i upravljanje krizama. Donald Trump na sudu u Washingtonu - optužen za urotu protiv države i pokušaj mijenjanja izbornih rezultata. Urednica: Sanja Rabuzin.</description>
@@ -32,15 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 01 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ba/91/20230801-kronika-dana-34366864-20230801204100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.07. 2023-07-31</title>
-    <link>https://api.hrt.hr/media/f6/50/20230731-kronika-dana-34364442-20230731205046.mp3</link>
-    <description>U ponoć po 5 centi poskupljuju i benzin i dizel. Inflacija u srpnju 7,4 posto. Nakon 52 dana štrajka pravosudnih službenika, sudovi počeli s radom. Nagomilani zaostali predmeti. U Babinoj Gredi poginuo muškarac dok je uklanjao stablo oštećeno u nevremenu.
-Urednica: Sanja Rabuzin.</description>
-    <pubDate>Mon, 31 Jul 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/50/20230731-kronika-dana-34364442-20230731205046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
