@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 04 Aug 2023 15:35:59 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 13:58:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.08. 2023-08-05</title>
+    <link>https://api.hrt.hr/media/cf/67/20230805-dnevne-novosti-34376461-20230805134030.mp3</link>
+    <description>Hrvatska slavi Dan pobjede i domovinske zahvalnosti, hrvatskih branitelja i 28.-u obljetnicu Oluje . Državni vrh iz Knina poslao jasne poruke Srbiji. Zbog obilne kiše, rastu vodostaji rijeka .U općini Brdovec voda prodrla u kuće. Najviši vodostaj Save očekuje se oko 18 sati. U Sloveniji se stanje smiruje, no i dalje je potpuno odsječena regija Črne. UREDNICA MIRA BARIĆ</description>
+    <pubDate>Sat, 05 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cf/67/20230805-dnevne-novosti-34376461-20230805134030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.08. 2023-08-03</title>
     <link>https://api.hrt.hr/media/17/8a/20230803-dnevne-novosti-34371184-20230803134005.mp3</link>
     <description>Zbog požara na teretnom vozilu prijepodne kaos na autocesti A1, kilometarske kolone poslijepodne prema Dubrovniku. Donald Trump, protiv kojega je podignuta treća, dosad najteža optužnica, trebao bi se pojaviti na saveznom sudu u Washingtonu. Zbog loše vremenske prognoze glavna svečanost Dana pobjede i domovinske zahvalnosti u Kninu održat će se na Trgu dr. Ante Starčevića. Urednica: Mira Barić</description>
@@ -23,14 +31,6 @@
     <description>Donald Trump optužen je za pokušaj poništenja izbora 2020. godine i blokadu prijenosa vlasti. Dan je ekološkog duga - čovječanstvo je danas iscrpilo sve Zemljine prirodne resurse za ovu godinu. Naša najrazvijenija turistička regija Istra i u kolovozu očekuje dobre turističke rezultate. U Uštici održana komemoracija za Rome, žrtve genocida u Drugom svjetskom ratu. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 02 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/a3/20230802-dnevne-novosti-34368620-20230802134504.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.08. 2023-08-01</title>
-    <link>https://api.hrt.hr/media/4b/92/20230801-dnevne-novosti-34366182-20230801134100.mp3</link>
-    <description>Mjesec dana otkako je zakonom zabranjen rad nedjeljom i blagdanom, podaci pokazuju da je subotom povećana prodaja za 15 do 26 posto. Ukrajinsko ministarstvo vanjskih poslova objavilo je da će izvoziti žitarice preko hrvatskih luka na Jadranskom moru. Predstavljen nacrt Zakona o hrvatskom jeziku - kako je rečeno, neće biti jezična policija niti propisivati jezičnu normu, o jeziku će odlučivati Vijeće sastavljeno od 14 stručnjaka. Urednica: Mira Barić</description>
-    <pubDate>Tue, 01 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/92/20230801-dnevne-novosti-34366182-20230801134100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
