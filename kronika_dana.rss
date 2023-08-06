@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Aug 2023 20:59:28 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 21:03:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.08. 2023-08-06</title>
+    <link>https://api.hrt.hr/media/a6/1a/20230806-kronika-dana-34379372-20230806204022.mp3</link>
+    <description>I dalje borba s nabujalim rijekama. Izvanredno stanje na Muri, Savi i Dravi. U Sloveniji novo nevrijeme. Zemlja se bori s posljedicama povijesnih poplava, Hrvatska u pomoć šalje helikopter s osam pripadnika ratnog zrakoplovstva. Ivo Zorica slavodobitnik 308.-e Sinjske alke. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 06 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/1a/20230806-kronika-dana-34379372-20230806204022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.08. 2023-08-05</title>
     <link>https://api.hrt.hr/media/bf/7a/20230805-kronika-dana-34377194-20230805204025.mp3</link>
     <description>U Kninu svečano proslavljen Dan pobjede, domovinske zahvalnosti i 28-a obljetnica Oluje. Rastu vodostaji rijeka na sjeverozapadu Hrvatske. U općini Brdovcu ugrožene kuće, izvanredne mjere od večeras i na Muri. U Sloveniji je poplavama pogođeno dvije trećine zemlje - šteta će biti veća od 500 milijuna eura. Urednica Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković potpisao prijedlog kandidata za novog ravnatelja Vojno sigurnosno-obavještajne agencije - predsjednik Milanović i dalje inzistira na imenovanju svih nepopunjenih mjesta u vojsci. Posljednje pripreme za proslavu Oluje u Kninu - program prilagođen lošoj vremenskoj prognozi.Uoči najavljenog novog nevremena - od sutra u ponoć u punoj primjeni sustav za rano upozoravanje i upravljanje krizama. Donald Trump na sudu u Washingtonu - optužen za urotu protiv države i pokušaj mijenjanja izbornih rezultata. Urednica: Sanja Rabuzin.</description>
     <pubDate>Thu, 03 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2a/bc/20230803-kronika-dana-34372091-20230803204006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.08. 2023-08-02</title>
-    <link>https://api.hrt.hr/media/0a/2c/20230802-kronika-dana-34369366-20230802204003.mp3</link>
-    <description>Iz Vlade i Ureda predsjednika oprečne informacije o tome je li postignut dogovor o imenovanju šefa Vojne sigurnosno-obavještajne agencije. Donald Trump, protiv kojega je podignuta treća optužnica, sutra se mora pojaviti na saveznom sudu u Washingtonu. Uz ostalo, optužen je za pokušaj mijenjanja rezultata izbora prije tri godine. Zbog nestašice krvi u splitskome KBC-u moguće otkazivanje operacija. Urednica: Mira Barić</description>
-    <pubDate>Wed, 02 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0a/2c/20230802-kronika-dana-34369366-20230802204003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
