@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Aug 2023 05:56:45 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 06:00:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.08. 2023-08-06</title>
+    <link>https://api.hrt.hr/media/a5/0b/20230806-jutarnja-kronika-34377862-20230806054522.mp3</link>
+    <description>Iako se stanje smiruje na snazi izvanredne mjere obrane od poplava na Muri, Dravi te na Savi uzvodno i nizvodno od Zagreba.Hrvatska svečano proslavila Dan pobjede, domovinske zahvalnosti i 28-u obljetnicu Oluje. U potresu u Kini jakosti 5 i pol prema Rihteru ozlijeđeno 20-ak ljudi.Papa završava posjet Lisabonu. U Sinju će se održati 308. Sinjska alka. Urednica: Marija Gerbec Njavro.</description>
+    <pubDate>Sun, 06 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a5/0b/20230806-jutarnja-kronika-34377862-20230806054522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.08. 2023-08-05</title>
     <link>https://api.hrt.hr/media/e8/20/20230805-jutarnja-kronika-34375263-20230805054010.mp3</link>
     <description>Nevrijeme iz Slovenije stiglo u Hrvatsku. Vodostaje Save raste 5 do 10 centimetara na sat. U nevremenu u Sloveniji troje mrtvih, tisuće evakuiranih, promet blokiran. Hrvatska slavi Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 28. obljetnicu Oluje - glavna proslava u Kninu u znaku vremenskih neprilika. Urednica MARIJA GERBEC NJAVRO.</description>
