@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 07 Aug 2023 20:37:24 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 21:07:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.08. 2023-08-07</title>
+    <link>https://api.hrt.hr/media/8c/58/20230807-kronika-dana-34381877-20230807204048.mp3</link>
+    <description>Zbog nabujale Drave dramatično u Koprivničko-križevačkoj županiji, tijekom noći očekuje se vrhunac vodenog vala, u pomoć dolazi vojska. Dogovor Pantovčaka i Banskih dvora - brigadni general Ivan Turkalj kandidat za ravnatelja Vojne sigurnosno-obavještajne agencije. Vlada će sa 7 i pol milijuna eura svinjogojcima sanirati gubitke zbog svinjske kuge. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Mon, 07 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8c/58/20230807-kronika-dana-34381877-20230807204048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.08. 2023-08-06</title>
     <link>https://api.hrt.hr/media/a6/1a/20230806-kronika-dana-34379372-20230806204022.mp3</link>
     <description>I dalje borba s nabujalim rijekama. Izvanredno stanje na Muri, Savi i Dravi. U Sloveniji novo nevrijeme. Zemlja se bori s posljedicama povijesnih poplava, Hrvatska u pomoć šalje helikopter s osam pripadnika ratnog zrakoplovstva. Ivo Zorica slavodobitnik 308.-e Sinjske alke. Urednica: Sanja Rabuzin</description>
