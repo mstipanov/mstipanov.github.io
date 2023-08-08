@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 07 Aug 2023 21:07:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 20:41:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Kninu svečano proslavljen Dan pobjede, domovinske zahvalnosti i 28-a obljetnica Oluje. Rastu vodostaji rijeka na sjeverozapadu Hrvatske. U općini Brdovcu ugrožene kuće, izvanredne mjere od večeras i na Muri. U Sloveniji je poplavama pogođeno dvije trećine zemlje - šteta će biti veća od 500 milijuna eura. Urednica Sanja Rabuzin</description>
     <pubDate>Sat, 05 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bf/7a/20230805-kronika-dana-34377194-20230805204025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.08. 2023-08-04</title>
-    <link>https://api.hrt.hr/media/f7/5c/20230804-kronika-dana-34374693-20230804204008.mp3</link>
-    <description>Nevrijeme iz Slovenije stiglo je u Hrvatsku. Crveni alarm oglašen za riječko i gospićko područje, očekuje se vodeni val. U nevremenu u Sloveniji troje mrtvih, tisuće evakuiranih, promet blokiran. U Kninu sve spremno za sutrašnju proslavu Dana pobjede, večeras održano svečano primanje predsjednika Republike za ratne zapovjednike. Urednica Mira Barić</description>
-    <pubDate>Fri, 04 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f7/5c/20230804-kronika-dana-34374693-20230804204008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
