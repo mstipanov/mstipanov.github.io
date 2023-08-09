@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 08 Aug 2023 14:10:48 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 13:45:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.08. 2023-08-09</title>
+    <link>https://api.hrt.hr/media/14/06/20230809-dnevne-novosti-34386549-20230809133552.mp3</link>
+    <description>Dvojica radnika Hrvatskih autocesta poginula na autocesti A6 Rijeka - Zagreb kada je na ophodno vozilo naletio teretnjak. U Ateni od jutra traje ispitivanje uhićenih u sukobima huligana, AEK od UEFA-e traži da se Dinamo kazni. Virovitičko-podravskom županijom upravo prolazi vrhunac vodenog vala. Očekuje se da će do Osijeka stići u petak. Moskva najavila slanje dodatnih vojnih snaga na ruske zapadne granice. Urednica: Mira Barić</description>
+    <pubDate>Wed, 09 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/14/06/20230809-dnevne-novosti-34386549-20230809133552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.08. 2023-08-08</title>
     <link>https://api.hrt.hr/media/94/9f/20230808-dnevne-novosti-34383993-20230808135049.mp3</link>
     <description>Jedan grčki navijač ubijen, osmero ozlijeđenih - među kojima i trojica Hrvata - te oko stotinu uhićenih nakon sukoba navijača Dinama i AEK-a u Ateni. Zbog nabujale Drave dramatično uz jezero Šodericu. Glas poduzetnika predlaže lokalnim samoupravama da se na Veliku Gospu proglasi sajamski dan kako bi se moglo raditi i na blagdan. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Sun, 06 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/61/27/20230806-dnevne-novosti-34378629-20230806134021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.08. 2023-08-05</title>
-    <link>https://api.hrt.hr/media/cf/67/20230805-dnevne-novosti-34376461-20230805134030.mp3</link>
-    <description>Hrvatska slavi Dan pobjede i domovinske zahvalnosti, hrvatskih branitelja i 28.-u obljetnicu Oluje . Državni vrh iz Knina poslao jasne poruke Srbiji. Zbog obilne kiše, rastu vodostaji rijeka .U općini Brdovec voda prodrla u kuće. Najviši vodostaj Save očekuje se oko 18 sati. U Sloveniji se stanje smiruje, no i dalje je potpuno odsječena regija Črne. UREDNICA MIRA BARIĆ</description>
-    <pubDate>Sat, 05 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cf/67/20230805-dnevne-novosti-34376461-20230805134030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
