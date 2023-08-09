@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 08 Aug 2023 21:12:03 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 20:46:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>I dalje borba s nabujalim rijekama. Izvanredno stanje na Muri, Savi i Dravi. U Sloveniji novo nevrijeme. Zemlja se bori s posljedicama povijesnih poplava, Hrvatska u pomoć šalje helikopter s osam pripadnika ratnog zrakoplovstva. Ivo Zorica slavodobitnik 308.-e Sinjske alke. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 06 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a6/1a/20230806-kronika-dana-34379372-20230806204022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.08. 2023-08-05</title>
-    <link>https://api.hrt.hr/media/bf/7a/20230805-kronika-dana-34377194-20230805204025.mp3</link>
-    <description>U Kninu svečano proslavljen Dan pobjede, domovinske zahvalnosti i 28-a obljetnica Oluje. Rastu vodostaji rijeka na sjeverozapadu Hrvatske. U općini Brdovcu ugrožene kuće, izvanredne mjere od večeras i na Muri. U Sloveniji je poplavama pogođeno dvije trećine zemlje - šteta će biti veća od 500 milijuna eura. Urednica Sanja Rabuzin</description>
-    <pubDate>Sat, 05 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/7a/20230805-kronika-dana-34377194-20230805204025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
