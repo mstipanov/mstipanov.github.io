@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Aug 2023 13:45:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 13:48:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vodostaji ruše rekorde, no dobra je vijest da kiša sada ne pada. Vremenske prilike utječu i na turističku sezonu. Potvrđeno je da je predsjednik Milanović supotpisao odluku o čelnom čovjeku VSOA-e. Urednica: Sanja Cota</description>
     <pubDate>Mon, 07 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/85/8d/20230807-dnevne-novosti-34381221-20230807134024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.08. 2023-08-06</title>
-    <link>https://api.hrt.hr/media/61/27/20230806-dnevne-novosti-34378629-20230806134021.mp3</link>
-    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
-    <pubDate>Sun, 06 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/61/27/20230806-dnevne-novosti-34378629-20230806134021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
