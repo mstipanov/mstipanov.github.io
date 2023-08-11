@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Aug 2023 14:18:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 13:52:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.08. 2023-08-11</title>
+    <link>https://api.hrt.hr/media/77/70/20230811-dnevne-novosti-34392132-20230811134008.mp3</link>
+    <description>Na sudu u Ateni počela ispitivanja osumjičenih za nerede i ubojstvo grčkog mladića. Vrhunac vodenog vala u Osječko-baranjskoj županiji. U Bosni i Hercegovini bodibilder s kriminalnom prošlošću ubio suprugu i dvojicu muškaraca, na kraju počinio samoubojstvo. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 11 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/77/70/20230811-dnevne-novosti-34392132-20230811134008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.08. 2023-08-10</title>
     <link>https://api.hrt.hr/media/b8/6b/20230810-dnevne-novosti-34389196-20230810140008.mp3</link>
     <description>Sutra će početi ispitivanje više od stotinu sudionika nereda u kojima je u ponedjeljak u Ateni ubijen 29-togodišnji navijač AEK-a. Večeras u Splitu utakmica visokog rizika između Hajduka i grčkog PAOK-a. Policija poduzela mjere kako se ne bi ponovio grčki scenarij.Vodostaj Drave u gornjem toku pada. Kod Donjeg Miholjca njezin vodostaj raste, a vrhunac vodenog vala na tom se području očekuje noćas. Najmanje 36 poginulih u požaru na havajskom otoku Mauiju, a potpuno je uništeno turističko i gospodarsko središte grad Lahaine. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Jedan grčki navijač ubijen, osmero ozlijeđenih - među kojima i trojica Hrvata - te oko stotinu uhićenih nakon sukoba navijača Dinama i AEK-a u Ateni. Zbog nabujale Drave dramatično uz jezero Šodericu. Glas poduzetnika predlaže lokalnim samoupravama da se na Veliku Gospu proglasi sajamski dan kako bi se moglo raditi i na blagdan. Urednica: Sanja Cota</description>
     <pubDate>Tue, 08 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/94/9f/20230808-dnevne-novosti-34383993-20230808135049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.08. 2023-08-07</title>
-    <link>https://api.hrt.hr/media/85/8d/20230807-dnevne-novosti-34381221-20230807134024.mp3</link>
-    <description>Vodostaji ruše rekorde, no dobra je vijest da kiša sada ne pada. Vremenske prilike utječu i na turističku sezonu. Potvrđeno je da je predsjednik Milanović supotpisao odluku o čelnom čovjeku VSOA-e. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 07 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/8d/20230807-dnevne-novosti-34381221-20230807134024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
