@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Aug 2023 05:47:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:51:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Zbog nabujale Drave i dalje kritično u Koprivničko-križevačkoj županiji, no stanje je pod nadzorom. Brigadni general Ivan Turkalj sutra poslijepodne bit će na saborskom Odboru za unutarnju politiku nakon što je o njegovoj kandidaturi za čelno mjesto VSOA-e napokon postignuta suglasnost predsjednika i premijera. Osam je osoba poginulo, a tridesetak ranjeno u ruskome raketnom napadu na grad Pokrovsk u regiji Donecku. Izgred Dinamovih navijača u Ateni, ima i ozlijeđenih. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 08 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/fd/20230808-jutarnja-kronika-34382395-20230808053548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.08. 2023-08-07</title>
-    <link>https://api.hrt.hr/media/c1/64/20230807-jutarnja-kronika-34379995-20230807053523.mp3</link>
-    <description>Poplave se ne smiruju. Izvanredno stanje na Muri, Savi i Dravi. U Sloveniji novo nevrijeme. Zemlja se bori s posljedicama povijesnih poplava, Hrvatska u pomoć šalje helikopter s osam pripadnika ratnog zrakoplovstva. Predsjednik i Premijer na Sinjskoj alci. Jesu li se napokon dogovorili o čelnom čovjeku VSOA-e? Ivo Zorica slavodobitnik 308. Sinjske alke. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 07 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c1/64/20230807-jutarnja-kronika-34379995-20230807053523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
