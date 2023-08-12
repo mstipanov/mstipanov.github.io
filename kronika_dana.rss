@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 11 Aug 2023 20:54:08 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 20:57:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.08. 2023-08-12</title>
+    <link>https://api.hrt.hr/media/b2/49/20230812-kronika-dana-34395031-20230812204013.mp3</link>
+    <description>Na vrhuncu turističke sezone, produljeni vikend donio gužve na cestama. Zbog zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajamske dane. Ministarstvo poručuje - to nije rupa u zakonu, već zakonska mogućnost.U Ateni nastavljeno ispitivanje uhićenih navijača. Svima određen istražni zatvor. Udruga lađara Zagreb obranila naslov na 26. Maratonu lađa na Neretvi. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 12 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b2/49/20230812-kronika-dana-34395031-20230812204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.08. 2023-08-11</title>
     <link>https://api.hrt.hr/media/61/99/20230811-kronika-dana-34392863-20230811203509.mp3</link>
     <description>Počela ispitivanja uhićenih navijača u Ateni, broj osumnjičenih za ubojstvo 29-godišnjeg mladića smanjen na 5 osoba, među njima jedan Hrvat, Albanac i tri Grka. val na Dravi prolazi Osječko-baranjskom županijom, zasad bez većih problema. Projekcijom filma "Poljubite budućnost" počeo 29-ti sarajevski filmski festival. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Gotovo stotinu huligana na sudu u Ateni, sumnjiče se i za ubojstvo s namjerom te sudjelovanje u zločinačkoj organizaciji. Na autocesti Rijeka-Zagreb poginula dvojica radnika, na zaustavnom traku na njih naletio teretnjak. Vodeni val približava se istoku zemlje.Urednica: Sanja Cota</description>
     <pubDate>Wed, 09 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/53/14/20230809-kronika-dana-34387340-20230809204555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.08. 2023-08-08</title>
-    <link>https://api.hrt.hr/media/52/7b/20230808-kronika-dana-34384780-20230808204050.mp3</link>
-    <description>Grčka i svijet šokirani sukobom Bad Blue Boysa i navijača AEK-a, u kojem je ubijen 29-godišnji Grk. Policija navodno ima otiske ubojice.Nabujala Drava, s rekordnim vodostajem, i dalje prijeti u Podravini, gdje se užurbano postavljaju zečji nasipi.U brazilskom gradu Belemu počeo skup o spasu Amazonije. Urednica Barić</description>
-    <pubDate>Tue, 08 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/52/7b/20230808-kronika-dana-34384780-20230808204050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
