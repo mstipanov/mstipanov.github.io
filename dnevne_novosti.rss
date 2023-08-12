@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 11 Aug 2023 13:52:48 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 13:56:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.08. 2023-08-12</title>
+    <link>https://api.hrt.hr/media/f0/5d/20230812-dnevne-novosti-34394315-20230812134013.mp3</link>
+    <description>Vrhunac je sezone, promet je gust prema moru i prema unutrašnjosti. Vodeni val Drave očekuje se u Osijeku. Nastavlja se ispitivanje izgrednika u Ateni. Uoči blagdana Velike Gospe sve više gradova proglašava sajmeni dan kako bi izbjegli zabranu rada trgovina. Raste broj poginulih u velikom požaru na havajskom otoku Mauiju. Urednik Grgo Mrvica</description>
+    <pubDate>Sat, 12 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f0/5d/20230812-dnevne-novosti-34394315-20230812134013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.08. 2023-08-11</title>
     <link>https://api.hrt.hr/media/77/70/20230811-dnevne-novosti-34392132-20230811134008.mp3</link>
     <description>Na sudu u Ateni počela ispitivanja osumjičenih za nerede i ubojstvo grčkog mladića. Vrhunac vodenog vala u Osječko-baranjskoj županiji. U Bosni i Hercegovini bodibilder s kriminalnom prošlošću ubio suprugu i dvojicu muškaraca, na kraju počinio samoubojstvo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Dvojica radnika Hrvatskih autocesta poginula na autocesti A6 Rijeka - Zagreb kada je na ophodno vozilo naletio teretnjak. U Ateni od jutra traje ispitivanje uhićenih u sukobima huligana, AEK od UEFA-e traži da se Dinamo kazni. Virovitičko-podravskom županijom upravo prolazi vrhunac vodenog vala. Očekuje se da će do Osijeka stići u petak. Moskva najavila slanje dodatnih vojnih snaga na ruske zapadne granice. Urednica: Mira Barić</description>
     <pubDate>Wed, 09 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/14/06/20230809-dnevne-novosti-34386549-20230809133552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.08. 2023-08-08</title>
-    <link>https://api.hrt.hr/media/94/9f/20230808-dnevne-novosti-34383993-20230808135049.mp3</link>
-    <description>Jedan grčki navijač ubijen, osmero ozlijeđenih - među kojima i trojica Hrvata - te oko stotinu uhićenih nakon sukoba navijača Dinama i AEK-a u Ateni. Zbog nabujale Drave dramatično uz jezero Šodericu. Glas poduzetnika predlaže lokalnim samoupravama da se na Veliku Gospu proglasi sajamski dan kako bi se moglo raditi i na blagdan. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 08 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/9f/20230808-dnevne-novosti-34383993-20230808135049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
