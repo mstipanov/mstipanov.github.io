@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Aug 2023 05:55:33 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 05:59:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.08. 2023-08-13</title>
+    <link>https://api.hrt.hr/media/88/48/20230813-jutarnja-kronika-34395701-20230813054015.mp3</link>
+    <description>U Osijeku se očekuje vrhunac vodenog vala Drave, no grad je siguran. U Ateni se privodi kraju saslušanje uhićenih navijaća. Njihov odvjetnik traži pomoć države. Ministarstvo gospodarstva reagiralo nakon što su mnogi gradovi uveli sajamski dan. Isiču da je sve prema zakonu. Poljska šalje dodatnih deset tisuća vojnika na granicu s Bjelorusijom. Udruga lađara Zagreb obranila naslov na 26-ome Maratonu lađa na Neretvi. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 13 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/88/48/20230813-jutarnja-kronika-34395701-20230813054015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.08. 2023-08-12</title>
     <link>https://api.hrt.hr/media/31/2e/20230812-jutarnja-kronika-34393382-20230812053511.mp3</link>
     <description>Nastavljaju se ispitivanja uhićenih navijača u Ateni. Od jučer ispitanih 26 Hrvata, desetorici određen istražni zatvor. Vodeni val na Dravi bez većih problema protječe Osječko-baranjskom županijom. Prikazivanjem dokumentarnog filma "Poljubite budućnost" Nenada Čičin-Šaina, otvoren 29-ti sarajevski filmski festival. Zbog produljenog vikenda na cestama se očekuju gužve.: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Nakon što su izvedeni na sud, protiv huligana koji su izazvali nerede u Ateni, u kojima je ubijen navijač AEK-a, tužiteljstvo je podignulo kaznene prijave. Vrhunac vodenog vala noćas prošao Terezino polje i približava se ušću Dunava. U brodolomu kod talijanskog otoka Lampeduse poginuo 41 migrant. Urednica: Mira Barić</description>
     <pubDate>Thu, 10 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/90/c3/20230810-jutarnja-kronika-34387886-20230810053505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.08. 2023-08-09</title>
-    <link>https://api.hrt.hr/media/05/7a/20230809-jutarnja-kronika-34385352-20230809054051.mp3</link>
-    <description>Dinamo se vratio kući, grčka policija traga za ubojicom navijača AEK-a koji je stradao u huliganskom obračunu. Nabujala Drava i noćas ugrožavala Podravinu. Vodostaj rijeke pada. Potpuno povlačenje poplavnih voda trajat će još nekoliko dana. Saborski odbor za unutarnju politiku očituje se o imenovanju Ivana Turkalja za novoga čelnika Vojne sigurnosno-obavještajne agencije. Urednica: Snježana Kralj</description>
-    <pubDate>Wed, 09 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/7a/20230809-jutarnja-kronika-34385352-20230809054051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
