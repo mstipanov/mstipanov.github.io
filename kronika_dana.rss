@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Aug 2023 20:57:56 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 21:03:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.08. 2023-08-13</title>
+    <link>https://api.hrt.hr/media/c5/c7/20230813-kronika-dana-34397207-20230813204518.mp3</link>
+    <description>U Ateni ispitana i posljednja skupina hrvatskih navijača. Priznali krivnju za tučnjavu, ali negiraju upletenost u ubojstvo navijača AEK-a. Nakon zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajmene dane. Vodeni val na Dravi prošao kroz Osijek i kreće se prema ušću u Dunav. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 13 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/c7/20230813-kronika-dana-34397207-20230813204518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.08. 2023-08-12</title>
     <link>https://api.hrt.hr/media/b2/49/20230812-kronika-dana-34395031-20230812204013.mp3</link>
     <description>Na vrhuncu turističke sezone, produljeni vikend donio gužve na cestama. Zbog zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajamske dane. Ministarstvo poručuje - to nije rupa u zakonu, već zakonska mogućnost.U Ateni nastavljeno ispitivanje uhićenih navijača. Svima određen istražni zatvor. Udruga lađara Zagreb obranila naslov na 26. Maratonu lađa na Neretvi. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Devetorica Hrvata, trojica Grka i jedan Albanac sumnjiče se za ubojstvo u Ateni, javljaju grčki mediji. Vrhunac vodenog vala stigao u Osječko-baranjsku županiju. Dok gradovi proglašavaju sajmene dane kako bi se moglo raditi i blagdanom, premijer tvrdi da je Zakon o trgovini napravljen tako da prođe ocjenu ustavnosti. Urednica: Sanja Cota</description>
     <pubDate>Thu, 10 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/00/20230810-kronika-dana-34390224-20230810204007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.08. 2023-08-09</title>
-    <link>https://api.hrt.hr/media/53/14/20230809-kronika-dana-34387340-20230809204555.mp3</link>
-    <description>Gotovo stotinu huligana na sudu u Ateni, sumnjiče se i za ubojstvo s namjerom te sudjelovanje u zločinačkoj organizaciji. Na autocesti Rijeka-Zagreb poginula dvojica radnika, na zaustavnom traku na njih naletio teretnjak. Vodeni val približava se istoku zemlje.Urednica: Sanja Cota</description>
-    <pubDate>Wed, 09 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/14/20230809-kronika-dana-34387340-20230809204555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
