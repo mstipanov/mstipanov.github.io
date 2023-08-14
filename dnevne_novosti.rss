@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 13 Aug 2023 14:00:29 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 14:06:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.08. 2023-08-14</title>
+    <link>https://api.hrt.hr/media/b6/81/20230814-dnevne-novosti-34399079-20230814134018.mp3</link>
+    <description>Pod iznimno jakim policijskim osiguranjem nogometaši AEK-a, uoči sutrašnje utakmice na Maksimiru, stigli su u Zagreb. Obitelji Dinamovih navijača pritvorenih u Grčkoj prosvjedovale ispred Ministarstva vanjskih poslova, zabrinute za sigurnost i pravedno suđenje uhićenih. Vodeni val prošao Osijek, ne ugrožava područje do ušća Drave u Dunav. No velike površine pod vodom i visoke temperature idealne su za razvoj komaraca. Urednica: Mira Barić</description>
+    <pubDate>Mon, 14 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/81/20230814-dnevne-novosti-34399079-20230814134018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.08. 2023-08-13</title>
     <link>https://api.hrt.hr/media/54/74/20230813-dnevne-novosti-34396557-20230813133516.mp3</link>
     <description>U Ateni se i dalje ispituju uhićeni Bad Blue Boysi, još je puno nagađanja o tom slučaju, a odvjetnik u Hrvatskoj nema saznanja o novim dokazima. Broj poginulih u požarima na Havajima narastao na 93.U Osijeku se Drava izlila na šetnicu, no očekuje se da će vrh vodenog vala mirno oteći u Dunav.Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na sudu u Ateni počela ispitivanja osumjičenih za nerede i ubojstvo grčkog mladića. Vrhunac vodenog vala u Osječko-baranjskoj županiji. U Bosni i Hercegovini bodibilder s kriminalnom prošlošću ubio suprugu i dvojicu muškaraca, na kraju počinio samoubojstvo. Urednica: Sanja Cota</description>
     <pubDate>Fri, 11 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/77/70/20230811-dnevne-novosti-34392132-20230811134008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.08. 2023-08-10</title>
-    <link>https://api.hrt.hr/media/b8/6b/20230810-dnevne-novosti-34389196-20230810140008.mp3</link>
-    <description>Sutra će početi ispitivanje više od stotinu sudionika nereda u kojima je u ponedjeljak u Ateni ubijen 29-togodišnji navijač AEK-a. Večeras u Splitu utakmica visokog rizika između Hajduka i grčkog PAOK-a. Policija poduzela mjere kako se ne bi ponovio grčki scenarij.Vodostaj Drave u gornjem toku pada. Kod Donjeg Miholjca njezin vodostaj raste, a vrhunac vodenog vala na tom se području očekuje noćas. Najmanje 36 poginulih u požaru na havajskom otoku Mauiju, a potpuno je uništeno turističko i gospodarsko središte grad Lahaine. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 10 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/6b/20230810-dnevne-novosti-34389196-20230810140008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
