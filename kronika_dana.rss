@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Aug 2023 21:07:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 20:43:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.08. 2023-08-15</title>
+    <link>https://api.hrt.hr/media/1b/70/20230815-kronika-dana-34402270-20230815204022.mp3</link>
+    <description>Pod iznimnim policijskim osiguranjem odigrana utakmica u Maksimiru, AEK pobijedio Dinamo 2 : 1. Grci objavili snimke napada na ubijenog navijača, sutra se očekuju rezultati analize DNK-a. U Marijanskim svetištima proslavljen bladan Velike Gospe. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 15 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/70/20230815-kronika-dana-34402270-20230815204022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.08. 2023-08-14</title>
     <link>https://api.hrt.hr/media/c4/83/20230814-kronika-dana-34399910-20230814204019.mp3</link>
     <description>Bad Blue Boyse raspoređuju po grčkim zatvorima, njihovi roditelji traže pomoć države kako bi im se zaštitila ljudska prava. Sutra u Zagrebu utakmica visokog rizika između Dinama i AEK-a. U Bosni i Hercegovini prosvjedovalo se protiv nasilja nad ženama. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na vrhuncu turističke sezone, produljeni vikend donio gužve na cestama. Zbog zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajamske dane. Ministarstvo poručuje - to nije rupa u zakonu, već zakonska mogućnost.U Ateni nastavljeno ispitivanje uhićenih navijača. Svima određen istražni zatvor. Udruga lađara Zagreb obranila naslov na 26. Maratonu lađa na Neretvi. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 12 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b2/49/20230812-kronika-dana-34395031-20230812204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.08. 2023-08-11</title>
-    <link>https://api.hrt.hr/media/61/99/20230811-kronika-dana-34392863-20230811203509.mp3</link>
-    <description>Počela ispitivanja uhićenih navijača u Ateni, broj osumnjičenih za ubojstvo 29-godišnjeg mladića smanjen na 5 osoba, među njima jedan Hrvat, Albanac i tri Grka. val na Dravi prolazi Osječko-baranjskom županijom, zasad bez većih problema. Projekcijom filma "Poljubite budućnost" počeo 29-ti sarajevski filmski festival. Urednica: Mira Barić</description>
-    <pubDate>Fri, 11 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/61/99/20230811-kronika-dana-34392863-20230811203509.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
