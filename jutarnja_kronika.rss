@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Aug 2023 05:34:42 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 05:40:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednik: Grgo Mrvica</description>
     <description>Nastavljaju se ispitivanja uhićenih navijača u Ateni. Od jučer ispitanih 26 Hrvata, desetorici određen istražni zatvor. Vodeni val na Dravi bez većih problema protječe Osječko-baranjskom županijom. Prikazivanjem dokumentarnog filma "Poljubite budućnost" Nenada Čičin-Šaina, otvoren 29-ti sarajevski filmski festival. Zbog produljenog vikenda na cestama se očekuju gužve.: Marija Gerbec Njavro</description>
     <pubDate>Sat, 12 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/2e/20230812-jutarnja-kronika-34393382-20230812053511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.08. 2023-08-11</title>
-    <link>https://api.hrt.hr/media/e9/66/20230811-jutarnja-kronika-34390828-20230811055507.mp3</link>
-    <description>U Ateni u podne počinje saslušanje osumjičenih za ubojsvo grčkog mladića. Među njima su devetorica Hrvata, trojica Grka i jedan Albanac. vodenog vala stigao u Osječko-baranjsku županiju. Raste broj poginulih u požaru na havajskom otoku Mauiu. Predsjednik Biden odobrio proglašenje elementarne nepogode. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 11 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/66/20230811-jutarnja-kronika-34390828-20230811055507.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
