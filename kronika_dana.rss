@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 15 Aug 2023 20:43:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 20:47:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.08. 2023-08-16</title>
+    <link>https://api.hrt.hr/media/d8/9a/20230816-kronika-dana-34404736-20230816204011.mp3</link>
+    <description>Uhićeni Bad blue boysi premješteni u 21 zatvor diljem Grčke. Pretragom njihovih mobitela grčka policija došla do novih informacija. Općinski sud u Gradačcu odbacio odgovornost za propust u slučaju ubijene Nizame Hećimović te krivnju prebacio na policiju.U Italiju ove godine brodovima stiglo više od 100 tisuća migranata. što je dvostruko više nego lani. Urednica: Mira Barić</description>
+    <pubDate>Wed, 16 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d8/9a/20230816-kronika-dana-34404736-20230816204011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.08. 2023-08-15</title>
     <link>https://api.hrt.hr/media/1b/70/20230815-kronika-dana-34402270-20230815204022.mp3</link>
     <description>Pod iznimnim policijskim osiguranjem odigrana utakmica u Maksimiru, AEK pobijedio Dinamo 2 : 1. Grci objavili snimke napada na ubijenog navijača, sutra se očekuju rezultati analize DNK-a. U Marijanskim svetištima proslavljen bladan Velike Gospe. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Ateni ispitana i posljednja skupina hrvatskih navijača. Priznali krivnju za tučnjavu, ali negiraju upletenost u ubojstvo navijača AEK-a. Nakon zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajmene dane. Vodeni val na Dravi prošao kroz Osijek i kreće se prema ušću u Dunav. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 13 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c5/c7/20230813-kronika-dana-34397207-20230813204518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.08. 2023-08-12</title>
-    <link>https://api.hrt.hr/media/b2/49/20230812-kronika-dana-34395031-20230812204013.mp3</link>
-    <description>Na vrhuncu turističke sezone, produljeni vikend donio gužve na cestama. Zbog zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajamske dane. Ministarstvo poručuje - to nije rupa u zakonu, već zakonska mogućnost.U Ateni nastavljeno ispitivanje uhićenih navijača. Svima određen istražni zatvor. Udruga lađara Zagreb obranila naslov na 26. Maratonu lađa na Neretvi. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 12 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/49/20230812-kronika-dana-34395031-20230812204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
