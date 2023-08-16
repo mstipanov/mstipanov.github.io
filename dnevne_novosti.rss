@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 15 Aug 2023 13:41:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 13:45:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.08. 2023-08-16</title>
+    <link>https://api.hrt.hr/media/0f/6a/20230816-dnevne-novosti-34403992-20230816133511.mp3</link>
+    <description>Grčka policija još nije otkrila ubojicu navijača AEK-a, analiziraju se poruke iz mobitela uhićenih Bad Blue Boysa. Šumski požari haraju Španjolskom, Francuskom i Kanadom. Umro Đuro Perica, bivši saborski zastupnik koji je u komunističkim zatvorima robijao 14 godina. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 16 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/6a/20230816-dnevne-novosti-34403992-20230816133511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.08. 2023-08-15</title>
     <link>https://api.hrt.hr/media/e9/22/20230815-dnevne-novosti-34401637-20230815134021.mp3</link>
     <description>Blagdan je Velike Gospe, marijanska svetišta prepuna vjernika. Na maksimirskome stadionu večeras utakmica visokog rizika Dinamo : AEK-a; objavljena snimka napada grčkog navijača. Dosad pretražena samo četvrtina požarom opustošenoga havajskog otoka Mauija, a poginulih je već gotovo stotinu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Ateni se i dalje ispituju uhićeni Bad Blue Boysi, još je puno nagađanja o tom slučaju, a odvjetnik u Hrvatskoj nema saznanja o novim dokazima. Broj poginulih u požarima na Havajima narastao na 93.U Osijeku se Drava izlila na šetnicu, no očekuje se da će vrh vodenog vala mirno oteći u Dunav.Urednica: Sanja Cota</description>
     <pubDate>Sun, 13 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/74/20230813-dnevne-novosti-34396557-20230813133516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.08. 2023-08-12</title>
-    <link>https://api.hrt.hr/media/f0/5d/20230812-dnevne-novosti-34394315-20230812134013.mp3</link>
-    <description>Vrhunac je sezone, promet je gust prema moru i prema unutrašnjosti. Vodeni val Drave očekuje se u Osijeku. Nastavlja se ispitivanje izgrednika u Ateni. Uoči blagdana Velike Gospe sve više gradova proglašava sajmeni dan kako bi izbjegli zabranu rada trgovina. Raste broj poginulih u velikom požaru na havajskom otoku Mauiju. Urednik Grgo Mrvica</description>
-    <pubDate>Sat, 12 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f0/5d/20230812-dnevne-novosti-34394315-20230812134013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
