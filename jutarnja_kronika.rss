@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Aug 2023 05:44:29 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 05:48:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.08. 2023-08-17</title>
+    <link>https://api.hrt.hr/media/85/2b/20230817-jutarnja-kronika-34405276-20230817053513.mp3</link>
+    <description>Uhićeni Bad Blue Boysi premješteni u 21 zatvor diljem Grčke. Mladić koji se uspio javiti ocu kaže kako je u zatvoru izložen prijetnjama i strahuje da iz njega neće izaći živ. Kod Zelenortskih otoka pronađen brod s migrantima koji su više od mjesec dana plutali na Atlantskom oceanu. Više od 60 ljudi je umrlo, spašeno ih je 38. Večeras na zadarskom Forumu koncert u čast Tomislavu Ivčiću. Urednik: Mislav Togonal</description>
+    <pubDate>Thu, 17 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/85/2b/20230817-jutarnja-kronika-34405276-20230817053513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.08. 2023-08-16</title>
     <link>https://api.hrt.hr/media/a8/2a/20230816-jutarnja-kronika-34402863-20230816053011.mp3</link>
     <description>Danas se očekuju rezultati DNK-analize koji bi mogli pomoći u rasvjetljavanju ubojstva grčkog navijača. Dinamo na Maksimiru izgubio od grčkog AEK-a 1:2. Tragedija na sinoćnjem plivačkom maratonu Šilo-Crikvenica. Umrla natjecateljica iz Austrije. Snažni ruski zračni napadi na Ukrajinu. Velika skupina bespilotnih letjelica napala ukrajinske luke na Dunavu. Na sjeverozapadu Kanade proglašeno izvanredno stanje zbog velikih šumskih požara. Urednik: Mislav Togonal</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 14 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/94/20230814-jutarnja-kronika-34397773-20230814053019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.08. 2023-08-13</title>
-    <link>https://api.hrt.hr/media/88/48/20230813-jutarnja-kronika-34395701-20230813054015.mp3</link>
-    <description>U Osijeku se očekuje vrhunac vodenog vala Drave, no grad je siguran. U Ateni se privodi kraju saslušanje uhićenih navijaća. Njihov odvjetnik traži pomoć države. Ministarstvo gospodarstva reagiralo nakon što su mnogi gradovi uveli sajamski dan. Isiču da je sve prema zakonu. Poljska šalje dodatnih deset tisuća vojnika na granicu s Bjelorusijom. Udruga lađara Zagreb obranila naslov na 26-ome Maratonu lađa na Neretvi. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 13 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/88/48/20230813-jutarnja-kronika-34395701-20230813054015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
