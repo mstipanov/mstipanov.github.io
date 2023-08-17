@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Aug 2023 20:47:02 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 20:50:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.08. 2023-08-17</title>
+    <link>https://api.hrt.hr/media/a8/fe/20230817-kronika-dana-34407423-20230817204014.mp3</link>
+    <description>Još traje potraga za ubojicom AEK-ova navijača u Ateni, u ubojstvu navodno sudjelovao vođa hrvatskih huligana, podrijetlom iz Bosne, no on i još desetak osoba još nisu pronađeni. Strahuje se da je više od 60-ero ljudi poginulo kada se brodica koja je prevozila migrante prevrnula nedaleko od Zelenortskih Otoka, u zapadnoj Africi. Prva Vladina sjednica nakon ljetnog odmora. U Solunu težak poraz Hajduka od grčkog PAOK-a 3 : 0
+Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 17 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/fe/20230817-kronika-dana-34407423-20230817204014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.08. 2023-08-16</title>
     <link>https://api.hrt.hr/media/d8/9a/20230816-kronika-dana-34404736-20230816204011.mp3</link>
     <description>Uhićeni Bad blue boysi premješteni u 21 zatvor diljem Grčke. Pretragom njihovih mobitela grčka policija došla do novih informacija. Općinski sud u Gradačcu odbacio odgovornost za propust u slučaju ubijene Nizame Hećimović te krivnju prebacio na policiju.U Italiju ove godine brodovima stiglo više od 100 tisuća migranata. što je dvostruko više nego lani. Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Bad Blue Boyse raspoređuju po grčkim zatvorima, njihovi roditelji traže pomoć države kako bi im se zaštitila ljudska prava. Sutra u Zagrebu utakmica visokog rizika između Dinama i AEK-a. U Bosni i Hercegovini prosvjedovalo se protiv nasilja nad ženama. Urednica: Sanja Cota</description>
     <pubDate>Mon, 14 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c4/83/20230814-kronika-dana-34399910-20230814204019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.08. 2023-08-13</title>
-    <link>https://api.hrt.hr/media/c5/c7/20230813-kronika-dana-34397207-20230813204518.mp3</link>
-    <description>U Ateni ispitana i posljednja skupina hrvatskih navijača. Priznali krivnju za tučnjavu, ali negiraju upletenost u ubojstvo navijača AEK-a. Nakon zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajmene dane. Vodeni val na Dravi prošao kroz Osijek i kreće se prema ušću u Dunav. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 13 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/c7/20230813-kronika-dana-34397207-20230813204518.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
