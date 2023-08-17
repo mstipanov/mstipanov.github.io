@@ -6,10 +6,19 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Aug 2023 12:18:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 12:19:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.webp</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Otmice zrakoplova 2023-08-17</title>
+    <link>https://api.hrt.hr/media/b6/50/20230817-povijest-cetvrtkom-34349591-20230726110039.mp3</link>
+    <description>Ljeti se u Povijesti četvrtkom prisjećamo sugovornika koji više nisu s nama. Novinar i analitičar Fran Višnar preminuo je 2015. godine. Taj vrsni poznavatelj svijeta terorizma bio je sugovornik u emisiji koja je za temu imala otmice zrakoplova.
+</description>
+    <pubDate>Thu, 17 Aug 2023 11:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/50/20230817-povijest-cetvrtkom-34349591-20230726110039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Sukob Staljina i Tita, II. dio 2023-08-10</title>
     <link>https://api.hrt.hr/media/4f/06/20230810-povijest-cetvrtkom-34349586-20230726110040.mp3</link>
     <description>Ljeti se prisjećamo sugovornika koji više nisu s nama. U lipnju 2020. preminuo je profesor doktor Ivo Banac. Taj povjesničar, predavač na sveučilištu Yale, bio je sugovornik u emisiji o žestokom sukobu koji je izbio između socijalističke Jugoslavije i Staljinovog Sovjetskog Saveza.</description>
@@ -83,16 +92,6 @@
  </description>
     <pubDate>Thu, 15 Jun 2023 11:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/15/bf/20230615-povijest-cetvrtkom-34221432-20230612123025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Rat i mir u povijesti, III. dio 2023-06-08</title>
-    <link>https://api.hrt.hr/media/3b/92/20230608-povijest-cetvrtkom-34208134-20230607131053.mp3</link>
-    <description>Filozof Immanuel Kant svoje djelo ¸”Prema vječnom miru” započeo je ovim citatom: Prema vječnom miru, jedan filozofski nacrt. Ali, na početku tog kratkog djela u kojemu je raspravljao o mogućnosti mira u svijetu Kant je stavio citat koji se nalazio ispod slike u jednoj nizozemskoj gostionici. A na slici je bilo naslikano groblje. Može li dugi mir postojati samo na groblju? Je li rat ljudska stvarnost prekidana razdobljima mira? O tome razgovaramo u Povijesti četvrtkom: (3.dio) 
-
-</description>
-    <pubDate>Thu, 08 Jun 2023 11:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3b/92/20230608-povijest-cetvrtkom-34208134-20230607131053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
