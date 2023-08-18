@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Aug 2023 05:48:26 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 05:52:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.08. 2023-08-18</title>
+    <link>https://api.hrt.hr/media/ff/4f/20230818-jutarnja-kronika-34408027-20230818053515.mp3</link>
+    <description>Dan je uoči uzvratne utakmice Dinamo - AEK, koja se sutra navečer igra u Ateni. Policija još traga za ubojicom AEKova navijača. Švedska podignula razinu opasnosti od terorizma. Spriječen napad nakon paljenja Kurana. U Varaždinu počinje 25. Špancirfest. Urednica Mira Barić</description>
+    <pubDate>Fri, 18 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/4f/20230818-jutarnja-kronika-34408027-20230818053515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.08. 2023-08-17</title>
     <link>https://api.hrt.hr/media/85/2b/20230817-jutarnja-kronika-34405276-20230817053513.mp3</link>
     <description>Uhićeni Bad Blue Boysi premješteni u 21 zatvor diljem Grčke. Mladić koji se uspio javiti ocu kaže kako je u zatvoru izložen prijetnjama i strahuje da iz njega neće izaći živ. Kod Zelenortskih otoka pronađen brod s migrantima koji su više od mjesec dana plutali na Atlantskom oceanu. Više od 60 ljudi je umrlo, spašeno ih je 38. Večeras na zadarskom Forumu koncert u čast Tomislavu Ivčiću. Urednik: Mislav Togonal</description>
@@ -31,15 +39,6 @@
     <description>Bad Blue Boyse raspoređuju po grčkim zatvorima, njihovi roditelji traže pomoć države kako bi im se zaštitila ljudska prava. U Zagrebu večeras utakmica visokog rizika između Dinama i AEK-a. Nakon ubojstva Nizame Hećimović, u Bosni i Hercegovini prosvjedovalo se protiv nasilja nad ženama. Blagdan je Velike Gospe, u mnogim gradovima proglašen sajamski dan. Urednica: Ana-Bella Leikauff</description>
     <pubDate>Tue, 15 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/fa/20230815-jutarnja-kronika-34400505-20230815054020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.08. 2023-08-14</title>
-    <link>https://api.hrt.hr/media/11/94/20230814-jutarnja-kronika-34397773-20230814053019.mp3</link>
-    <description>U Ateni ispitana i posljednja skupina hrvatskih navijača. Priznali krivnju za tučnjavu, ali negiraju upletenost u ubojstvo navijača AEK-a. Nakon zabrane rada trgovina nedjeljom i blagdanima, sve više gradova proglašava sajmene dane. Vodeni val na Dravi prošao kroz Osijek i kreće se prema ušću u Dunav.
-Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 14 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/11/94/20230814-jutarnja-kronika-34397773-20230814053019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
