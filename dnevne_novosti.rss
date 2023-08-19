@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Aug 2023 13:53:42 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 13:59:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.08. 2023-08-19</title>
+    <link>https://api.hrt.hr/media/b3/84/20230819-dnevne-novosti-34411570-20230819134020.mp3</link>
+    <description>Večeras utakmica visokog rizika AEK-Dinamo. Istraga o navijačkim neredima još traje. Premijer Plenković u ponedjeljak će se u Ateni sastati s grčkim premijerom Mitsotakisom. Još jedna smjena gostiju i gužve na cestama te u trajektnim i zračnim lukama. Više od 15 tisuća ljudi evakuirano je zbog požara na sjeverozapadu Kanade. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 19 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b3/84/20230819-dnevne-novosti-34411570-20230819134020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.08. 2023-08-18</title>
     <link>https://api.hrt.hr/media/c3/c1/20230818-dnevne-novosti-34409310-20230818134518.mp3</link>
     <description>Nakon proširenja istrage grčka policija traga za jednim Grkom i još petoricom Bad blue boysa za koje vjeruju da se kriju u unutrašnjosti zemlje. U ponedjeljak premijer Plenković putuje u Grčku. Pogrom kršćana u Pakistanu. Rulja spalila kršćanske kuće i crkve zbog optužbi za oskvrnuće Kurana. Kineski građevinski div Evergrande pred bankrotom. Može li slom kineskog tržišta nekretnina izazvati novu globalnu ekonomsku krizu? U Varaždinu počinje Špancirfest. Večeras u 21 sat koncert TBF-a. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Grčka policija još nije otkrila ubojicu navijača AEK-a, analiziraju se poruke iz mobitela uhićenih Bad Blue Boysa. Šumski požari haraju Španjolskom, Francuskom i Kanadom. Umro Đuro Perica, bivši saborski zastupnik koji je u komunističkim zatvorima robijao 14 godina. Urednica: Sanja Cota</description>
     <pubDate>Wed, 16 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/6a/20230816-dnevne-novosti-34403992-20230816133511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.08. 2023-08-15</title>
-    <link>https://api.hrt.hr/media/e9/22/20230815-dnevne-novosti-34401637-20230815134021.mp3</link>
-    <description>Blagdan je Velike Gospe, marijanska svetišta prepuna vjernika. Na maksimirskome stadionu večeras utakmica visokog rizika Dinamo : AEK-a; objavljena snimka napada grčkog navijača. Dosad pretražena samo četvrtina požarom opustošenoga havajskog otoka Mauija, a poginulih je već gotovo stotinu. Urednica: Mira Barić</description>
-    <pubDate>Tue, 15 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/22/20230815-dnevne-novosti-34401637-20230815134021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
