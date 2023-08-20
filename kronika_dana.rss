@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 19 Aug 2023 21:00:49 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 20:34:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 17 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a8/fe/20230817-kronika-dana-34407423-20230817204014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.08. 2023-08-16</title>
-    <link>https://api.hrt.hr/media/d8/9a/20230816-kronika-dana-34404736-20230816204011.mp3</link>
-    <description>Uhićeni Bad blue boysi premješteni u 21 zatvor diljem Grčke. Pretragom njihovih mobitela grčka policija došla do novih informacija. Općinski sud u Gradačcu odbacio odgovornost za propust u slučaju ubijene Nizame Hećimović te krivnju prebacio na policiju.U Italiju ove godine brodovima stiglo više od 100 tisuća migranata. što je dvostruko više nego lani. Urednica: Mira Barić</description>
-    <pubDate>Wed, 16 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d8/9a/20230816-kronika-dana-34404736-20230816204011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
