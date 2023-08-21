@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 20 Aug 2023 21:04:31 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 20:38:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Potraga za ubojicom u Grčkoj još traje, uhićen grčki huligan s tjeralice, za desetak hrvatskih se traga. Premijer Plenković i ministri vanjskih poslova te pravosuđa u ponedjeljak putuju u Atenu.Procjenjuje se da je od početka invazije na Ukrajinu ubijeno ili ranjeno ukupno pola milijuna ruskih i ukrajinskih vojnika. Urednica: Sanja Cota</description>
     <pubDate>Fri, 18 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7a/f7/20230818-kronika-dana-34410035-20230818203517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.08. 2023-08-17</title>
-    <link>https://api.hrt.hr/media/a8/fe/20230817-kronika-dana-34407423-20230817204014.mp3</link>
-    <description>Još traje potraga za ubojicom AEK-ova navijača u Ateni, u ubojstvu navodno sudjelovao vođa hrvatskih huligana, podrijetlom iz Bosne, no on i još desetak osoba još nisu pronađeni. Strahuje se da je više od 60-ero ljudi poginulo kada se brodica koja je prevozila migrante prevrnula nedaleko od Zelenortskih Otoka, u zapadnoj Africi. Prva Vladina sjednica nakon ljetnog odmora. U Solunu težak poraz Hajduka od grčkog PAOK-a 3 : 0
-Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 17 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a8/fe/20230817-kronika-dana-34407423-20230817204014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
