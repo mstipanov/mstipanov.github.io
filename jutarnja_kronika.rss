@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 21 Aug 2023 06:05:57 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:39:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.08. 2023-08-22</title>
+    <link>https://api.hrt.hr/media/e5/62/20230822-jutarnja-kronika-34417519-20230822053528.mp3</link>
+    <description>Grčki i hrvatski premijer razgovarali o rješenju problema Dinamovih navijača u grčkim zatvorima. Danas u Ateni sastanak Zelenski-Plenković.Medijima se proširila nova snimka s nadzornih kamera koja pokazuje da je stradalog Grka navodno ozlijedio navijač AEK-a.Ukrajinci opet udarili dronovima po Moskvi. Zatvorene sve moskovske zračne luke.Na Špancirfestu večeras koncert škotskog sastava Franz Ferdinand. Urednik Mislav Togonal.</description>
+    <pubDate>Tue, 22 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/62/20230822-jutarnja-kronika-34417519-20230822053528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.08. 2023-08-21</title>
     <link>https://api.hrt.hr/media/ff/23/20230821-jutarnja-kronika-34414775-20230821053027.mp3</link>
     <description>U posjet Grčkoj dolazi premijer Andrej Plenković, u njegovoj su pratnji šef diplomacije Gordan Grlić Radman i ministar pravosuđa Ivan Malenica. Grčki odvjetnik, koji zastupa 96 uhićenih Hrvata, tvrdi kako istraga do sada ide u korist Bad Blue Boysa. Ukrajina će od Nizozemske i Danske dobiti borbene zrakoplove F-16. U 17 hrvatskih gradova održat će se javna akcija â€žSigurnost žena je odgovornost države". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Večeras utakmica visokog rizika AEK-Dinamo. Premijer Plenković u ponedjeljak će se u Ateni sastati s grčkim premijerom Mitsotakisom. Sjeverozapad Kanade u plamenu. U tijeku evakuacije stanovnika nekoliko gradova. Zemlje Zapadne Afrike dogovorile Dan D za moguću vojnu intervenciju u Nigeru. Urednik: Mislav Togonal</description>
     <pubDate>Sat, 19 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d6/1d/20230819-jutarnja-kronika-34410573-20230819053519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.08. 2023-08-18</title>
-    <link>https://api.hrt.hr/media/ff/4f/20230818-jutarnja-kronika-34408027-20230818053515.mp3</link>
-    <description>Dan je uoči uzvratne utakmice Dinamo - AEK, koja se sutra navečer igra u Ateni. Policija još traga za ubojicom AEKova navijača. Švedska podignula razinu opasnosti od terorizma. Spriječen napad nakon paljenja Kurana. U Varaždinu počinje 25. Špancirfest. Urednica Mira Barić</description>
-    <pubDate>Fri, 18 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/4f/20230818-jutarnja-kronika-34408027-20230818053515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
