@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Aug 2023 08:44:59 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 16:11:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 22.08.2023. 2023-08-22</title>
+    <link>https://api.hrt.hr/media/1a/c9/20230822-explora-7978825-20230822161030.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 22 Aug 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1a/c9/20230822-explora-7978825-20230822161030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 15.08.2023. 2023-08-15</title>
     <link>https://api.hrt.hr/media/5f/90/20230815-explora-7976952-20230815170025.mp3</link>
     <description>Zvjezdarnica na Tičanu treba novi teleskop. Sumamed. Korado i njegova ekipa. Supravodiči, ništa od toga. Indija i Rusija, tko će prvi na Mjesec? Virgin Galactic u suborbiti. Program Dart. Otkrivene promjene razine vode na Marsu. Sunce i D vitamin. Nervus vagus. Štucanje. O glazbi i hrani. Malo o geopolitici, Kini i Jugoslaviji. 
@@ -95,14 +103,6 @@ Zašto žene pristaju biti ljubavnice?</description>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
     <pubDate>Tue, 20 Jun 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bf/b5/20230620-explora-7960645-20230620161025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 13.06.2023. 2023-06-13</title>
-    <link>https://api.hrt.hr/media/b7/bb/20230613-explora-7958540-20230613161102.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 13 Jun 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/bb/20230613-explora-7958540-20230613161102.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
