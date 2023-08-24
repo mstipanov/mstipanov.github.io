@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Aug 2023 05:43:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:47:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.08. 2023-08-24</title>
+    <link>https://api.hrt.hr/media/a9/fa/20230824-jutarnja-kronika-34423312-20230824053037.mp3</link>
+    <description>Šef ruskih plaćenika Jevgenij Prigožin bio je na popisu putnika privatnog zrakoplova koji se srušio sjeverno od Moskve. Međutim, ne postoji nedvojbena potvrda da je poginuo. Na sjednici Vlade, među ostalim, bit će riječi o novom paketu vojne pomoći Ukrajini, vrijednom oko 30 milijuna eura. Mirovine rastu 8 cijelih 42 posto. Umirovljenici upozoravaju da će time profitirati oni s velikim mirovinama, dok će svi s malim mirovinama još više tonuti u siromaštvo. Večeras počinje 17. Vukovar Film Festival. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 24 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/fa/20230824-jutarnja-kronika-34423312-20230824053037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.08. 2023-08-23</title>
     <link>https://api.hrt.hr/media/01/4f/20230823-jutarnja-kronika-34420307-20230823053033.mp3</link>
     <description>Ravnatelj SOA-e Daniel Markić izjavio kako navijači uhićeni u Ateni nisu ni svjesni koliko su teške optužbe protiv njih. Požari u Grčkoj - na zgarištu pronađena tijela 18 osoba. Umro talijanski kantautor Toto Cutugno, pobjednik jedine Eurovizije održane u Zagrebu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>U posjet Grčkoj dolazi premijer Andrej Plenković, u njegovoj su pratnji šef diplomacije Gordan Grlić Radman i ministar pravosuđa Ivan Malenica. Grčki odvjetnik, koji zastupa 96 uhićenih Hrvata, tvrdi kako istraga do sada ide u korist Bad Blue Boysa. Ukrajina će od Nizozemske i Danske dobiti borbene zrakoplove F-16. U 17 hrvatskih gradova održat će se javna akcija â€žSigurnost žena je odgovornost države". Urednik: Silvio Šop</description>
     <pubDate>Mon, 21 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/23/20230821-jutarnja-kronika-34414775-20230821053027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.08. 2023-08-20</title>
-    <link>https://api.hrt.hr/media/d2/29/20230820-jutarnja-kronika-34412830-20230820054022.mp3</link>
-    <description>Dinamo u sučevoj nadoknadi rezultatom 2:2 s grčkim AEK-om propustio plasman u doigravanje Lige prvaka i tako ostao bez 11 milijuna eura. Rusi raketirali grad Černihiv, sedmero je poginulih, 129-ero ranjenih. U dijelu Kanade požar izmaknuo nadzoru, proglašeno izvanredno stanje. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 20 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d2/29/20230820-jutarnja-kronika-34412830-20230820054022.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
