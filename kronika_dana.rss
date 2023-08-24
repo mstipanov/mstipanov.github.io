@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Aug 2023 20:46:25 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 20:50:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.08. 2023-08-24</title>
+    <link>https://api.hrt.hr/media/e1/3c/20230824-kronika-dana-34425599-20230824204538.mp3</link>
+    <description>Ne prestaju nagađanja o pogibiji šefa ruskih plaćenika Jevgenija Prigožina. Vrućina ne popušta. Promjena vremena tek u ponedjeljak. Napokon će se sanirati odlagalište troske iz nekadašnjeg šibenskog TEF-a u Biljanima Donjim. Čelnik SDP-a Peđa Grbin posjet dvojice ministara navijačima u grčkim zatvorima smatra prekomjernim hodočašćem. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 24 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/3c/20230824-kronika-dana-34425599-20230824204538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.08. 2023-08-23</title>
     <link>https://api.hrt.hr/media/25/3f/20230823-kronika-dana-34422769-20230823204535.mp3</link>
     <description>Šef ruskih plaćenika Jevgenij Prigožin bio je na popisu putnika privatnog zrakoplova koji se srušio sjeverno od Moskve.Mirovine rastu 8 cijelih 42 posto. Umirovljenici upozoravaju da će time profitirati oni s velikim mirovinama, dok će svi s malim mirovinama još više tonuti u siromaštvo.Indija - prva zemlja čija se letjelica uspješno spustila na južnu stranu Mjeseca. Toplinski bi val mogao trajati do kraja tjedna, što znači da ćemo još nekoliko dana imati vrućine. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković u Ateni razgovarao s grčkim kolegom Micotakisom, ministri Malenica i Grlić Radman posjetili hrvatske navijače u zatvorima.Medijima se proširila nova snimka s nadzornih kamera koja navodno pokazuje trenutak kada je uboden 29-godišnji navijač. U 19 gradova u Hrvatskoj okupljanja ženskih udruga uz poruku "sigurnost žena odgovornost je države". Novi trener Dinama Sergej Jakirović, u riječkom klubu šokirani i razočarani. Urednica Mira Barić</description>
     <pubDate>Mon, 21 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/94/20230821-kronika-dana-34416905-20230821204027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.08. 2023-08-20</title>
-    <link>https://api.hrt.hr/media/af/c8/20230820-kronika-dana-34414208-20230820203524.mp3</link>
-    <description>Grčki odvjetnik, koji zastupa 96 uhićenih Hrvata, tvrdi kako istraga do sada ide u korist Bad Blue Boysa. Nizozemska i Danska isporučit će Ukrajini bojne zrakoplove F-16. SPORT - Hrvatska košarkaška reprezentacija pobijedila jaku Tursku i osigurala kvalifikacije za odlazak na Olimpijske igre u Parizu.: Sanja Cota</description>
-    <pubDate>Sun, 20 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/af/c8/20230820-kronika-dana-34414208-20230820203524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
