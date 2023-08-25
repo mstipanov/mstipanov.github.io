@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Aug 2023 05:47:55 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 05:52:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 25.08. 2023-08-25</title>
+    <link>https://api.hrt.hr/media/c6/26/20230825-jutarnja-kronika-34426166-20230825053037.mp3</link>
+    <description>29 tisuća državnih i javnih službenika od idućeg mjeseca dobit će dodatak na plaću. Donald Trump nakratko uhićen pa uz jamčevinu pušten iz zatvora u Atlanti. Dinamo je na Maksimiru pobijedio Spartu 3:1. Rijeka u Lillu izgubila 2:1. Vrhunac toplinskog vala tijekom vikenda, od ponedjeljka osvježenje. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 25 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c6/26/20230825-jutarnja-kronika-34426166-20230825053037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 24.08. 2023-08-24</title>
     <link>https://api.hrt.hr/media/a9/fa/20230824-jutarnja-kronika-34423312-20230824053037.mp3</link>
     <description>Šef ruskih plaćenika Jevgenij Prigožin bio je na popisu putnika privatnog zrakoplova koji se srušio sjeverno od Moskve. Međutim, ne postoji nedvojbena potvrda da je poginuo. Na sjednici Vlade, među ostalim, bit će riječi o novom paketu vojne pomoći Ukrajini, vrijednom oko 30 milijuna eura. Mirovine rastu 8 cijelih 42 posto. Umirovljenici upozoravaju da će time profitirati oni s velikim mirovinama, dok će svi s malim mirovinama još više tonuti u siromaštvo. Večeras počinje 17. Vukovar Film Festival. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Grčki i hrvatski premijer razgovarali o rješenju problema Dinamovih navijača u grčkim zatvorima. Danas u Ateni sastanak Zelenski-Plenković.Medijima se proširila nova snimka s nadzornih kamera koja pokazuje da je stradalog Grka navodno ozlijedio navijač AEK-a.Ukrajinci opet udarili dronovima po Moskvi. Zatvorene sve moskovske zračne luke.Na Špancirfestu večeras koncert škotskog sastava Franz Ferdinand. Urednik Mislav Togonal.</description>
     <pubDate>Tue, 22 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/62/20230822-jutarnja-kronika-34417519-20230822053528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 21.08. 2023-08-21</title>
-    <link>https://api.hrt.hr/media/ff/23/20230821-jutarnja-kronika-34414775-20230821053027.mp3</link>
-    <description>U posjet Grčkoj dolazi premijer Andrej Plenković, u njegovoj su pratnji šef diplomacije Gordan Grlić Radman i ministar pravosuđa Ivan Malenica. Grčki odvjetnik, koji zastupa 96 uhićenih Hrvata, tvrdi kako istraga do sada ide u korist Bad Blue Boysa. Ukrajina će od Nizozemske i Danske dobiti borbene zrakoplove F-16. U 17 hrvatskih gradova održat će se javna akcija â€žSigurnost žena je odgovornost države". Urednik: Silvio Šop</description>
-    <pubDate>Mon, 21 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/23/20230821-jutarnja-kronika-34414775-20230821053027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
