@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Aug 2023 20:50:29 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 20:55:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.08. 2023-08-25</title>
+    <link>https://api.hrt.hr/media/f6/c0/20230825-kronika-dana-34428287-20230825205039.mp3</link>
+    <description>Hrvatska je na vrhuncu toplinskog vala, danas je bio najtopliji Mljet s 38 stupnjeva! Sutra je vrijeme još opasnije za zdravlje Dijelovi zrakoplova u kojemu je bio Prigožin nađeni i tri kilometra od glavne olupine, što upućuje na mogućnost da se raspao visoko u zraku. Moskva odbacuje tvrdnje da je ubijen prema nalogu predsjednika Putina. Predsjednik Republike Zoran Milanović pozvao je premijera da nastave konzultacije i razgovore o imenovanju veleposlanika, generalnih konzula i konzula već idući tjedan. U Međimurju se održava piknik američkih automobila - više od stotinu skupilo ih se u Brezju. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 25 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f6/c0/20230825-kronika-dana-34428287-20230825205039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.08. 2023-08-24</title>
     <link>https://api.hrt.hr/media/e1/3c/20230824-kronika-dana-34425599-20230824204538.mp3</link>
     <description>Ne prestaju nagađanja o pogibiji šefa ruskih plaćenika Jevgenija Prigožina. Vrućina ne popušta. Promjena vremena tek u ponedjeljak. Napokon će se sanirati odlagalište troske iz nekadašnjeg šibenskog TEF-a u Biljanima Donjim. Čelnik SDP-a Peđa Grbin posjet dvojice ministara navijačima u grčkim zatvorima smatra prekomjernim hodočašćem. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Protiv naših navijača uhićenih u Ateni teške su optužbe, oni nisu ni svjesni njihove težine, izjavio ravnatelj Sigurnosno-obavještajne agencije Daniel Markić. Predsjednik Zoran Milanović ustvrdio da se u Grčkoj prema uhićenim navijačima ponaša kao prema ratnim zarobljenicima. Hrvatska nastavlja vojno pomagati Ukrajinu, sljedeći će paket biti vrijedan 30 milijuna eura. Umro talijanski kantautor Toto Cutugno, pobjednik jedine Eurovizije održane u Zagrebu. Urednik: Silvio Šop</description>
     <pubDate>Tue, 22 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/10/46/20230822-kronika-dana-34419774-20230822204030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.08. 2023-08-21</title>
-    <link>https://api.hrt.hr/media/45/94/20230821-kronika-dana-34416905-20230821204027.mp3</link>
-    <description>Premijer Plenković u Ateni razgovarao s grčkim kolegom Micotakisom, ministri Malenica i Grlić Radman posjetili hrvatske navijače u zatvorima.Medijima se proširila nova snimka s nadzornih kamera koja navodno pokazuje trenutak kada je uboden 29-godišnji navijač. U 19 gradova u Hrvatskoj okupljanja ženskih udruga uz poruku "sigurnost žena odgovornost je države". Novi trener Dinama Sergej Jakirović, u riječkom klubu šokirani i razočarani. Urednica Mira Barić</description>
-    <pubDate>Mon, 21 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/45/94/20230821-kronika-dana-34416905-20230821204027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
