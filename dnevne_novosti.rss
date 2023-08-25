@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Aug 2023 13:49:14 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 13:53:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.08. 2023-08-25</title>
+    <link>https://api.hrt.hr/media/0a/d0/20230825-dnevne-novosti-34427637-20230825134038.mp3</link>
+    <description>Vrućina će trajati do ponedjeljka, sutra i preksutra temperature idu do 38 stupnjeva, a u ponedjeljak moguće nevrijeme. Iako su Hrvatska i Ukrajina dogovorile dopremu žita kroz Hrvatsku, upitno može li naša zemlja osigurati nesmetan put. Uoči večerašnjeg zatvaranja 74. Dubrovačkih ljetnih igara, u palači Sponzi dodijeljene nagrade Orlando. Urednica: Mira Barić</description>
+    <pubDate>Fri, 25 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0a/d0/20230825-dnevne-novosti-34427637-20230825134038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.08. 2023-08-24</title>
     <link>https://api.hrt.hr/media/c5/6b/20230824-dnevne-novosti-34424847-20230824133535.mp3</link>
     <description>Ne prestaju reakcije na vijest da je u padu privatnog zrakoplova poginuo šef ruskih plaćenika Jevgenij Prigožin. Ogorčenje liječnika izazvali vremenski normativi - koji propisuju koliko bi vremena trebali izdvojiti za pacijenta. Sutra počinju isplate naknada proizvođačima svinja koji su pretrpjeli financijsku štetu zbog afričke svinjske kuge. Toplinski val završava u ponedjeljak. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ravnatelj Sigurnosno-obavještajne agencije Daniel Markić u Ateni je razmjenjivao informacije s grčkim kolegama u vezi s uhićenim navijačima. Hrvatska će poslati dodatnih 30 milijuna eura vojne pomoći Ukrajini, najavio premijer Plenković nakon razgovora s predsjednikom Zelenskim. Zbog krijumčarenja 700 kg kokaina u Španjolskoj uhićen hrvatski državljanin. Urednica: Sanja Cota</description>
     <pubDate>Tue, 22 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c0/7b/20230822-dnevne-novosti-34419028-20230822133529.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.08. 2023-08-21</title>
-    <link>https://api.hrt.hr/media/ab/3a/20230821-dnevne-novosti-34416122-20230821134026.mp3</link>
-    <description>U Ateni razgovor grčkog i hrvatskog premijera,za one oni koji nisu obuhvaćeni kaznenom nego prekršajnom odgovornošću, mogla bi se donijeti odluka o trenutnom progonu iz Grčke i povratku u Hrvatsku. Nakon zločina u Bosni i Hercegovini u 19 hrvatskih gradova javna akcija "Sigurnost žena je odgovornost države". Sport: Igor Bišćan više nije trener Dinama. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 21 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ab/3a/20230821-dnevne-novosti-34416122-20230821134026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
