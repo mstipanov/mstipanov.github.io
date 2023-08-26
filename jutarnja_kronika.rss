@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 05:52:15 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 05:56:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.08. 2023-08-26</title>
+    <link>https://api.hrt.hr/media/e6/65/20230826-jutarnja-kronika-34428802-20230826053050.mp3</link>
+    <description>Danas vrhunac toplinskog vala. Rano jutros Moskva napadnuta bespilotnim letjelicama, zatvorene tri zračne luke. Predsjednik pozvao premijera da nastave konzultacije o imenovanjima diplomata u hrvatskim predstavništvima diljem svijeta. 32.- ga je godišnjica pada Kijeva u Domovinskom ratu, mjesta u kojem su svoj ratni pohod počeli ratni zločinci Ratko Mladić i Mile Martić. Urednik Grgo Mrvica.</description>
+    <pubDate>Sat, 26 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/65/20230826-jutarnja-kronika-34428802-20230826053050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.08. 2023-08-25</title>
     <link>https://api.hrt.hr/media/c6/26/20230825-jutarnja-kronika-34426166-20230825053037.mp3</link>
     <description>29 tisuća državnih i javnih službenika od idućeg mjeseca dobit će dodatak na plaću. Donald Trump nakratko uhićen pa uz jamčevinu pušten iz zatvora u Atlanti. Dinamo je na Maksimiru pobijedio Spartu 3:1. Rijeka u Lillu izgubila 2:1. Vrhunac toplinskog vala tijekom vikenda, od ponedjeljka osvježenje. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Ravnatelj SOA-e Daniel Markić izjavio kako navijači uhićeni u Ateni nisu ni svjesni koliko su teške optužbe protiv njih. Požari u Grčkoj - na zgarištu pronađena tijela 18 osoba. Umro talijanski kantautor Toto Cutugno, pobjednik jedine Eurovizije održane u Zagrebu. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 23 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/01/4f/20230823-jutarnja-kronika-34420307-20230823053033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.08. 2023-08-22</title>
-    <link>https://api.hrt.hr/media/e5/62/20230822-jutarnja-kronika-34417519-20230822053528.mp3</link>
-    <description>Grčki i hrvatski premijer razgovarali o rješenju problema Dinamovih navijača u grčkim zatvorima. Danas u Ateni sastanak Zelenski-Plenković.Medijima se proširila nova snimka s nadzornih kamera koja pokazuje da je stradalog Grka navodno ozlijedio navijač AEK-a.Ukrajinci opet udarili dronovima po Moskvi. Zatvorene sve moskovske zračne luke.Na Špancirfestu večeras koncert škotskog sastava Franz Ferdinand. Urednik Mislav Togonal.</description>
-    <pubDate>Tue, 22 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/62/20230822-jutarnja-kronika-34417519-20230822053528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
