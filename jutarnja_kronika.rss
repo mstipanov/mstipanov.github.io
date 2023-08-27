@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 27 Aug 2023 06:00:35 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 06:30:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.08. 2023-08-27</title>
+    <link>https://api.hrt.hr/media/95/23/20230827-jutarnja-kronika-34430965-20230827060552.mp3</link>
+    <description>Još se danas Hrvatska prži na visokim temperaturama. Promjena vremena stiže sutra navečer. Ukrajinske snage tvrde da su probile glavne ruske obrambene crte na jugu zemlje te očekuju brži proboj prema Azovskome moru. Prema najavama, preksutra poskupljuju i benzin i dizel. U Brođancima završni dan 49. Olimpijade starih športova. Urednik Silvio Šop.</description>
+    <pubDate>Sun, 27 Aug 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/23/20230827-jutarnja-kronika-34430965-20230827060552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.08. 2023-08-26</title>
     <link>https://api.hrt.hr/media/e6/65/20230826-jutarnja-kronika-34428802-20230826053050.mp3</link>
     <description>Danas vrhunac toplinskog vala. Rano jutros Moskva napadnuta bespilotnim letjelicama, zatvorene tri zračne luke. Predsjednik pozvao premijera da nastave konzultacije o imenovanjima diplomata u hrvatskim predstavništvima diljem svijeta. 32.- ga je godišnjica pada Kijeva u Domovinskom ratu, mjesta u kojem su svoj ratni pohod počeli ratni zločinci Ratko Mladić i Mile Martić. Urednik Grgo Mrvica.</description>
