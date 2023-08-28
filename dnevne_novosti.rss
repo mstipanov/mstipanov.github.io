@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 28 Aug 2023 13:36:10 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 15:36:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.08. 2023-08-28</title>
+    <link>https://api.hrt.hr/media/41/85/20230828-dnevne-novosti-34434095-20230828150600.mp3</link>
+    <description>Nevrijeme zahvatilo Istru. Kod Rovinja pijavica na moru. Nevrijeme i u susjednoj Sloveniji te u Austriji. Vlada odredila nove cijene goriva. Ipak neznatno poskupljuje i plavi dizel. Za otprilike mjesec dana istječu Vladine mjere pomoći zbog energetske krize. Istražili smo hoće li i dalje nastaviti pomagati. Urednik: Mario Krstanović</description>
+    <pubDate>Mon, 28 Aug 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/41/85/20230828-dnevne-novosti-34434095-20230828150600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.08. 2023-08-27</title>
     <link>https://api.hrt.hr/media/ee/31/20230827-dnevne-novosti-34431679-20230827133553.mp3</link>
     <description>Još danas vrhunac toplinskog vala, jača promjena vremena stiže u naše krajeve već tijekom noći. I rano jutros Kijev i drugi dijelovi Ukrajine na udaru ruskih projektila. Tri osobe poginule su u padu američkog vojnog zrakoplova u Australiji. Od utorka skuplje gorivo. Urednik: Grgo Mrvica</description>
