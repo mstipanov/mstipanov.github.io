@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 27 Aug 2023 14:02:06 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 13:36:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vrućina će trajati do ponedjeljka, sutra i preksutra temperature idu do 38 stupnjeva, a u ponedjeljak moguće nevrijeme. Iako su Hrvatska i Ukrajina dogovorile dopremu žita kroz Hrvatsku, upitno može li naša zemlja osigurati nesmetan put. Uoči večerašnjeg zatvaranja 74. Dubrovačkih ljetnih igara, u palači Sponzi dodijeljene nagrade Orlando. Urednica: Mira Barić</description>
     <pubDate>Fri, 25 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0a/d0/20230825-dnevne-novosti-34427637-20230825134038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.08. 2023-08-24</title>
-    <link>https://api.hrt.hr/media/c5/6b/20230824-dnevne-novosti-34424847-20230824133535.mp3</link>
-    <description>Ne prestaju reakcije na vijest da je u padu privatnog zrakoplova poginuo šef ruskih plaćenika Jevgenij Prigožin. Ogorčenje liječnika izazvali vremenski normativi - koji propisuju koliko bi vremena trebali izdvojiti za pacijenta. Sutra počinju isplate naknada proizvođačima svinja koji su pretrpjeli financijsku štetu zbog afričke svinjske kuge. Toplinski val završava u ponedjeljak. Urednica: Mira Barić</description>
-    <pubDate>Thu, 24 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/6b/20230824-dnevne-novosti-34424847-20230824133535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
