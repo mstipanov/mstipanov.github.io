@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 27 Aug 2023 21:03:16 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 20:37:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Hrvatska je na vrhuncu toplinskog vala, danas je bio najtopliji Mljet s 38 stupnjeva! Sutra je vrijeme još opasnije za zdravlje Dijelovi zrakoplova u kojemu je bio Prigožin nađeni i tri kilometra od glavne olupine, što upućuje na mogućnost da se raspao visoko u zraku. Moskva odbacuje tvrdnje da je ubijen prema nalogu predsjednika Putina. Predsjednik Republike Zoran Milanović pozvao je premijera da nastave konzultacije i razgovore o imenovanju veleposlanika, generalnih konzula i konzula već idući tjedan. U Međimurju se održava piknik američkih automobila - više od stotinu skupilo ih se u Brezju. Urednik: Silvio Šop</description>
     <pubDate>Fri, 25 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f6/c0/20230825-kronika-dana-34428287-20230825205039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.08. 2023-08-24</title>
-    <link>https://api.hrt.hr/media/e1/3c/20230824-kronika-dana-34425599-20230824204538.mp3</link>
-    <description>Ne prestaju nagađanja o pogibiji šefa ruskih plaćenika Jevgenija Prigožina. Vrućina ne popušta. Promjena vremena tek u ponedjeljak. Napokon će se sanirati odlagalište troske iz nekadašnjeg šibenskog TEF-a u Biljanima Donjim. Čelnik SDP-a Peđa Grbin posjet dvojice ministara navijačima u grčkim zatvorima smatra prekomjernim hodočašćem. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 24 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/3c/20230824-kronika-dana-34425599-20230824204538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
