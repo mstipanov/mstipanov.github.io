@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 28 Aug 2023 20:37:39 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 20:42:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.08. 2023-08-29</title>
+    <link>https://api.hrt.hr/media/fe/dd/20230829-kronika-dana-34438024-20230829203558.mp3</link>
+    <description>BDP u drugom tromjesečju porastao 2,7 posto. Hrvatska ima treće najbrže rastuće gospodarstvo u Europskoj uniji.Nevrijeme u nekoliko županija i gradu Zagrebu oštetilo krovove kuća i jedne škole. Ženu kod Karlovca pogodio grom. Šumski požar u Grčkoj uništio područje veće od New Yorka.Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 29 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fe/dd/20230829-kronika-dana-34438024-20230829203558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.08. 2023-08-27</title>
     <link>https://api.hrt.hr/media/2a/6e/20230827-kronika-dana-34432301-20230827203553.mp3</link>
     <description>Dvije osobe poginule, jedna teško ozlijeđena u eksploziji u Domu za starije u Dugom Selu.	Analiza uzoraka DNK-a potvrdila da je u privatnom zrakoplovu koji se srušio u Rusiji u srijedu poginuo Jevgenij Prigožin. Snažna oluja pogodila španjolski otok Mallorcu.U Hrvatskoj završetak toplinskog vala, pred nama promjena vremena.
@@ -24,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Promjena vremena u Hrvatsku stiže u ponedjeljak navečer. Još sutra utjecaj toplinskog vala. Ruski predsjednik Vladimir Putin pozvao plaćenike Wagnera i drugih ruskih privatnih vojnih tvrtki da prisegnu na vjernost ruskoj državi. U Vrbniku na otoku Krku održani su 19. Dani vina. Urednica Mira Barić.</description>
     <pubDate>Sat, 26 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/77/20230826-kronika-dana-34430444-20230826204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.08. 2023-08-25</title>
-    <link>https://api.hrt.hr/media/f6/c0/20230825-kronika-dana-34428287-20230825205039.mp3</link>
-    <description>Hrvatska je na vrhuncu toplinskog vala, danas je bio najtopliji Mljet s 38 stupnjeva! Sutra je vrijeme još opasnije za zdravlje Dijelovi zrakoplova u kojemu je bio Prigožin nađeni i tri kilometra od glavne olupine, što upućuje na mogućnost da se raspao visoko u zraku. Moskva odbacuje tvrdnje da je ubijen prema nalogu predsjednika Putina. Predsjednik Republike Zoran Milanović pozvao je premijera da nastave konzultacije i razgovore o imenovanju veleposlanika, generalnih konzula i konzula već idući tjedan. U Međimurju se održava piknik američkih automobila - više od stotinu skupilo ih se u Brezju. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 25 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/c0/20230825-kronika-dana-34428287-20230825205039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
