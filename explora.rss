@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Aug 2023 13:15:12 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 16:11:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 29.08.2023. 2023-08-29</title>
+    <link>https://api.hrt.hr/media/41/16/20230829-explora-7980818-20230829160559.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 29 Aug 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/41/16/20230829-explora-7980818-20230829160559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 22.08.2023. 2023-08-22</title>
     <link>https://api.hrt.hr/media/1a/c9/20230822-explora-7978825-20230822161030.mp3</link>
     <description>Sve nas je više! Organsko i anorgansko, živo i neživo. Znanost nije dogma, treba preuzeti odgovornost. Koliko treba vremena za obnovu civilizacije? Ruski lunarni modul pretvrdo prizemljio. Kina - najveći gubitnik rata u Ukrajini. Korado Korlević ... astrolog :-)  Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -95,14 +103,6 @@ Zašto žene pristaju biti ljubavnice?</description>
     <description> Wagner je tek uvod. Titan je ostao pored Titanica. Zaštita od tuče - osiguranje. Ali osiguranje jednako za sve. Evolucija, doista? Razbijam čašu ... Crveni makovi. Najbolji položaj u snu. Što Korado čita i kako se informira? Čime ispeći meso na roštilju? Čime dimiti košnice? Preosjetljivost na buku i šefa. Zašto smo dlakavi? Kako doći u Višnjan? Zmije kao kućni ljubimci.</description>
     <pubDate>Tue, 27 Jun 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/be/d7/20230627-explora-7962491-20230627161047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 20.06.2023. 2023-06-20</title>
-    <link>https://api.hrt.hr/media/bf/b5/20230620-explora-7960645-20230620161025.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 20 Jun 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/b5/20230620-explora-7960645-20230620161025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
