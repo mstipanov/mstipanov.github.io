@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 30 Aug 2023 21:18:29 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 20:54:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.08. 2023-08-31</title>
+    <link>https://api.hrt.hr/media/01/50/20230831-kronika-dana-34444417-20230831204003.mp3</link>
+    <description>Nakon osam mjeseci pada, inflacija u Hrvatskoj porasla - cijene su ovoga kolovoza više za 7 cijelih 8 posto u odnosu prema istome mjesecu lani.u saborsku proceduru poslala prijedlog novog Zakona o izbornim jedinicama. U požaru višekatnice u Johannesburgu poginulo najmanje 70 osoba.
+. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 31 Aug 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/01/50/20230831-kronika-dana-34444417-20230831204003.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.08. 2023-08-30</title>
     <link>https://api.hrt.hr/media/64/b8/20230830-kronika-dana-34441251-20230830205604.mp3</link>
     <description>Kremlj je prvi put objavio kako je moguće da je čelnik Wagnera Jevgenij Prigožin, koji je poginuo u zrakoplovnoj nesreći - ubijen. Obilna kiša na području Labina i okolice - potopljene ulice, podrumi i plaža. Večeras obilna kiša i u Slavonskom Brodu. Uragan Idalia s vjetrovima jačim od 200 kilometara na sat pogodio zapadnu obalu Floride. Najmanje su dvije osobe poginule. Obilježena šesnaesta obljetnica kornatske tragedije i Međunarodni dan nestalih osoba. Urednik: Silvio Šop</description>
@@ -23,15 +32,6 @@
     <description>BDP u drugom tromjesečju porastao 2,7 posto. Hrvatska ima treće najbrže rastuće gospodarstvo u Europskoj uniji.Nevrijeme u nekoliko županija i gradu Zagrebu oštetilo krovove kuća i jedne škole. Ženu kod Karlovca pogodio grom. Šumski požar u Grčkoj uništio područje veće od New Yorka.Urednik: Mario Krstanović</description>
     <pubDate>Tue, 29 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fe/dd/20230829-kronika-dana-34438024-20230829203558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.08. 2023-08-27</title>
-    <link>https://api.hrt.hr/media/2a/6e/20230827-kronika-dana-34432301-20230827203553.mp3</link>
-    <description>Dvije osobe poginule, jedna teško ozlijeđena u eksploziji u Domu za starije u Dugom Selu.	Analiza uzoraka DNK-a potvrdila da je u privatnom zrakoplovu koji se srušio u Rusiji u srijedu poginuo Jevgenij Prigožin. Snažna oluja pogodila španjolski otok Mallorcu.U Hrvatskoj završetak toplinskog vala, pred nama promjena vremena.
-Urednica: Mira Barić</description>
-    <pubDate>Sun, 27 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/6e/20230827-kronika-dana-34432301-20230827203553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
