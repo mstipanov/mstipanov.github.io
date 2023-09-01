@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 31 Aug 2023 13:51:56 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 13:56:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.09. 2023-09-01</title>
+    <link>https://api.hrt.hr/media/a9/cb/20230901-dnevne-novosti-34446589-20230901134508.mp3</link>
+    <description>Parlamentarni izbori bit će u redovitom roku, poručio premijer Plenković. Oporba uvjerena da će si HDZ namjestiti datum izbora. Premijer najavio novi paket pomoći najugroženijim građanima. Utjecaj inflacije najbolje povrđuje podatak o fiskaliziranim računima u kolovozu. Ukrajinci tvrde da je napad dronovima na zračnu bazu u ruskom gradu Pskovu pokrenut iz Rusije! Dvije tone 700 kilograma kokaina zaplijenjeno na jedrilici u Atlantiku. Vođa kriminalne skupine 70-godišnjak iz Srbije. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 01 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/cb/20230901-dnevne-novosti-34446589-20230901134508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.08. 2023-08-31</title>
     <link>https://api.hrt.hr/media/ba/d2/20230831-dnevne-novosti-34443610-20230831134003.mp3</link>
     <description>Inflacija u Hrvatskoj, nakon osam mjeseci pada, porasla - cijene su ovoga kolovoza više za 7,8 posto u odnosu prema istome mjesecu lani. U požaru višekatnice u Johannesburgu poginule su najmanje 73 osobe. Potpisan ugovor za gradnju posljednje dionice autoceste koridora Pet Ce, od Belog Manastira do mađarske granice. Sport: Dinamo i Rijeka večeras igraju uzvratne europske utakmice. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Temperature u gotovo cijeloj zemlji desetak stupnjeva niže nego jučer. Zagrebačka gradska vlast najavila povećanje paušalnog poreza za iznajmljivače apartmana. Papa Franjo na udaru kritike jer je mlade Ruse pozvao da ne zaborave da su nasljednici careva poput Petra Velikog na kojeg se pozvao i Putin kada je opravdavao invaziju na Ukrajinu. Urednica: Mira Barić</description>
     <pubDate>Tue, 29 Aug 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/07/20230829-dnevne-novosti-34437018-20230829134606.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.08. 2023-08-28</title>
-    <link>https://api.hrt.hr/media/41/85/20230828-dnevne-novosti-34434095-20230828150600.mp3</link>
-    <description>Nevrijeme zahvatilo Istru. Kod Rovinja pijavica na moru. Nevrijeme i u susjednoj Sloveniji te u Austriji. Vlada odredila nove cijene goriva. Ipak neznatno poskupljuje i plavi dizel. Za otprilike mjesec dana istječu Vladine mjere pomoći zbog energetske krize. Istražili smo hoće li i dalje nastaviti pomagati. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 28 Aug 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/41/85/20230828-dnevne-novosti-34434095-20230828150600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
