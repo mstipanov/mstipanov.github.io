@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Sep 2023 20:58:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 21:03:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.09. 2023-09-02</title>
+    <link>https://api.hrt.hr/media/9f/07/20230902-kronika-dana-34449687-20230902204007.mp3</link>
+    <description>Sjedinjene Države poslat će Ukrajini kontroverzno streljivo s osiromašenim uranijem.čki rezultati dosadašnjeg dijela ove godine, bez obzira na inflaciju, bolji su od istog razdoblja lani. Papa je u posjetu Mongoliji, zemlji sa samo tisuću 450 katolika.: Silvio Šop</description>
+    <pubDate>Sat, 02 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9f/07/20230902-kronika-dana-34449687-20230902204007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.09. 2023-09-01</title>
     <link>https://api.hrt.hr/media/9d/98/20230901-kronika-dana-34447378-20230901205002.mp3</link>
     <description>Manji broj fiskaliziranih računa u kolovozu u usporedbi s istim mjesecom lani potvrđuje utjecaj inflacije na živote građana. Zbog preprodaje droge uhićeno 20 osoba na području triju jadranskih županija i u gradu Zagrebu. Moskva potvrdila da su međukontinentalne balističke rakete Sarmat, koje mogu nositi deset ili više nuklearnih bojnih glava, u borbenoj pripravnosti. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
     <description>Kremlj je prvi put objavio kako je moguće da je čelnik Wagnera Jevgenij Prigožin, koji je poginuo u zrakoplovnoj nesreći - ubijen. Obilna kiša na području Labina i okolice - potopljene ulice, podrumi i plaža. Večeras obilna kiša i u Slavonskom Brodu. Uragan Idalia s vjetrovima jačim od 200 kilometara na sat pogodio zapadnu obalu Floride. Najmanje su dvije osobe poginule. Obilježena šesnaesta obljetnica kornatske tragedije i Međunarodni dan nestalih osoba. Urednik: Silvio Šop</description>
     <pubDate>Wed, 30 Aug 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/64/b8/20230830-kronika-dana-34441251-20230830205604.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.08. 2023-08-29</title>
-    <link>https://api.hrt.hr/media/fe/dd/20230829-kronika-dana-34438024-20230829203558.mp3</link>
-    <description>BDP u drugom tromjesečju porastao 2,7 posto. Hrvatska ima treće najbrže rastuće gospodarstvo u Europskoj uniji.Nevrijeme u nekoliko županija i gradu Zagrebu oštetilo krovove kuća i jedne škole. Ženu kod Karlovca pogodio grom. Šumski požar u Grčkoj uništio područje veće od New Yorka.Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 29 Aug 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fe/dd/20230829-kronika-dana-34438024-20230829203558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
