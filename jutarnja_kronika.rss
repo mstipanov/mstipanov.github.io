@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Sep 2023 05:55:41 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 05:59:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.09. 2023-09-02</title>
+    <link>https://api.hrt.hr/media/98/82/20230902-jutarnja-kronika-34448005-20230902053007.mp3</link>
+    <description>Rusi tvrde da su uništili ukrajinski čamac u pokušaju napada na Krimski most. Premijer Plenković optimističan da će cijene nakon turističke sezone početi padati. Tenisač Borna Gojo u osmini finala US Opena. Večeras glazbeni spektakl - Matej Meštrović &amp; Friends. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 02 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/82/20230902-jutarnja-kronika-34448005-20230902053007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.09. 2023-09-01</title>
     <link>https://api.hrt.hr/media/2e/39/20230901-jutarnja-kronika-34444945-20230901053504.mp3</link>
     <description>Inflacija u Hrvatskoj, nakon osam mjeseci pada, u kolovozu porasla - jedan od mogućih uzroka je i divljanje cijena na obali u turističkoj sezoni. Dvojici policajaca iz Policijske uprave ličko-senjske, osumnjičenih za silovanje, određen jednomjesečni pritvor. Ujedinjeni narodi poslali Moskvi prijedlog za obnavljanje sporazuma o izvozu ukrajinskih žitarica. SPORT: Dinamo ispao iz Europske lige, Rijeka nije izborila Konferencijsku. Urednik: Silvio Šop</description>
