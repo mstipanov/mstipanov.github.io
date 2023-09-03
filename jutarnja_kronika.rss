@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Sep 2023 05:59:46 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 05:34:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.09. 2023-09-03</title>
+    <link>https://api.hrt.hr/media/c9/88/20230903-jutarnja-kronika-34450259-20230903053008.mp3</link>
+    <description>Broj napada bespilotnim letjelicama u Rusiji će se povećati, Ukrajina sada može vlastitim oružjem gađati mete udaljene tisuću i pol kilometara. Prema podacima e-Visitora, u prvih osam mjeseci ove godine Hrvatsku je posjetilo nešto više od 16 milijuna turista. U Zagrebu večeras počinje Festival svjetske književnosti, jedan od najvažnijih događaja na hrvatskoj kulturnoj sceni. Urednica: Mira Barić.</description>
+    <pubDate>Sun, 03 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c9/88/20230903-jutarnja-kronika-34450259-20230903053008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.09. 2023-09-02</title>
     <link>https://api.hrt.hr/media/98/82/20230902-jutarnja-kronika-34448005-20230902053007.mp3</link>
     <description>Rusi tvrde da su uništili ukrajinski čamac u pokušaju napada na Krimski most. Premijer Plenković optimističan da će cijene nakon turističke sezone početi padati. Tenisač Borna Gojo u osmini finala US Opena. Večeras glazbeni spektakl - Matej Meštrović &amp; Friends. Urednik: Mario Krstanović</description>
@@ -31,15 +39,6 @@
     <description>Vlada će osigurati još milijardu 200 milijuna eura za obnovu nakon potresa. Kod Bahmuta poginula šestorica ukrajinskih pilota. Nakon Floride, uragan Idalia pogodio Georgiju - 400 tisuća ljudi ostalo bez struje. Obilna kiša stvorila probleme na području Labina i Slavonskog Broda. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 31 Aug 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8d/fb/20230831-jutarnja-kronika-34441812-20230831053506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.08. 2023-08-30</title>
-    <link>https://api.hrt.hr/media/2a/88/20230830-jutarnja-kronika-34438557-20230830053602.mp3</link>
-    <description>Konačno promjena vremena - ne bez posljedica. Godišnjica je kornatske tragedije u kojoj je u gašenju požara poginulo 12 vatrogasaca. Hrvatska ima treće rastuće gopsodarstvo u Europskoj uniji. Istodobno, cijene hrane lete u nebo. Prikazivanjem filma Il Capitano počinje jubilarna 80-ta venecijanska Mostra.
-Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 30 Aug 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/88/20230830-jutarnja-kronika-34438557-20230830053602.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
