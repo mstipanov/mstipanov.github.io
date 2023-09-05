@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Sep 2023 14:10:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 13:44:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.09. 2023-09-05</title>
+    <link>https://api.hrt.hr/media/7e/0d/20230905-dnevne-novosti-34457542-20230905134013.mp3</link>
+    <description>O problemima s migrantima ministar Božinović razgovarao s načelnicima i gradonačelnicima iz Karlovačke županije. Ovogodišnji turistički rezultati za osam mjeseci izjednačeni su s 2019.-om. Umro bivši ministar financija Ivan Šuker. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 05 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7e/0d/20230905-dnevne-novosti-34457542-20230905134013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.09. 2023-09-04</title>
     <link>https://api.hrt.hr/media/12/5c/20230904-dnevne-novosti-34454040-20230904134512.mp3</link>
     <description>U Sočiju se sastali Putin i Erdoan. Mogu li dogovoriti nastavak sporazuma o izvozu žitarica? Povratak u školske klupe! Prvom danu nastave najviše se vesele prvašići. Bivši zagrebački pročelnik Šostar nepravomoćno osuđen na četiri godine zatvora za aferu Suhi led. Umro general Anton Tus. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Sjedinjene Države poslat će Ukrajini kontroverzno streljivo s osiromašenim uranijem. Promet normaliziran nakon nesreće u tuneli Debeli brijeg na spojnoj cesti Pelješkog mosta, dvije teže ozlijeđene osobe helikopterom prevezene u splitski KBC. Borna Gojo izborio četvrto kolo US Opena u kojem će igrati protiv Novaka Đokovića. Urednica: Mira Barić</description>
     <pubDate>Sat, 02 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a6/1a/20230902-dnevne-novosti-34449044-20230902134006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.09. 2023-09-01</title>
-    <link>https://api.hrt.hr/media/a9/cb/20230901-dnevne-novosti-34446589-20230901134508.mp3</link>
-    <description>Parlamentarni izbori bit će u redovitom roku, poručio premijer Plenković. Oporba uvjerena da će si HDZ namjestiti datum izbora. Premijer najavio novi paket pomoći najugroženijim građanima. Utjecaj inflacije najbolje povrđuje podatak o fiskaliziranim računima u kolovozu. Ukrajinci tvrde da je napad dronovima na zračnu bazu u ruskom gradu Pskovu pokrenut iz Rusije! Dvije tone 700 kilograma kokaina zaplijenjeno na jedrilici u Atlantiku. Vođa kriminalne skupine 70-godišnjak iz Srbije. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 01 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/cb/20230901-dnevne-novosti-34446589-20230901134508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
