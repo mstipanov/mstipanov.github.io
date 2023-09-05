@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Sep 2023 06:08:42 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:43:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.09. 2023-09-05</title>
+    <link>https://api.hrt.hr/media/a0/f9/20230905-jutarnja-kronika-34455698-20230905053513.mp3</link>
+    <description>Rusija srušila ukrajinske bespilotne letjelice koje su ciljale Moskvu. Hrvatska turistička zajednica objavljuje podatke za kolovoz. Vlada će sljedeći tjedan donijeti novi paket mjera pomoći građanima i poduzetnicima! U Ministarstvu zdravstva dodjela 190 specijalizacija iz primarne zdravstvene zaštite. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 05 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a0/f9/20230905-jutarnja-kronika-34455698-20230905053513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.09. 2023-09-04</title>
     <link>https://api.hrt.hr/media/60/91/20230904-jutarnja-kronika-34452256-20230904054010.mp3</link>
     <description>Nova nastavna godina pokazuje sve razmjere hrvatske demografske katastrofe. U odnosu prema pretpandemijskoj 2019. upisano 10 posto manje učenika u prve razrede. Ukrajinski predsjednik Zelenski zbog korupcijske afere smjenjuje ministra obrane Reznikova. Tajvan pogodio tajfun s vjetrovima od 190 kilometara na sat. Više od 200 tisuća kućanstava ostalo bez struje. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Rusi tvrde da su uništili ukrajinski čamac u pokušaju napada na Krimski most. Premijer Plenković optimističan da će cijene nakon turističke sezone početi padati. Tenisač Borna Gojo u osmini finala US Opena. Večeras glazbeni spektakl - Matej Meštrović &amp; Friends. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 02 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/98/82/20230902-jutarnja-kronika-34448005-20230902053007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.09. 2023-09-01</title>
-    <link>https://api.hrt.hr/media/2e/39/20230901-jutarnja-kronika-34444945-20230901053504.mp3</link>
-    <description>Inflacija u Hrvatskoj, nakon osam mjeseci pada, u kolovozu porasla - jedan od mogućih uzroka je i divljanje cijena na obali u turističkoj sezoni. Dvojici policajaca iz Policijske uprave ličko-senjske, osumnjičenih za silovanje, određen jednomjesečni pritvor. Ujedinjeni narodi poslali Moskvi prijedlog za obnavljanje sporazuma o izvozu ukrajinskih žitarica. SPORT: Dinamo ispao iz Europske lige, Rijeka nije izborila Konferencijsku. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 01 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2e/39/20230901-jutarnja-kronika-34444945-20230901053504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
