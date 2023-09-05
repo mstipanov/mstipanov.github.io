@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 30 Aug 2023 10:16:33 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 16:44:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 05.09.2023. 2023-09-05</title>
+    <link>https://api.hrt.hr/media/e3/01/20230905-explora-7982939-20230905163019.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 05 Sep 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e3/01/20230905-explora-7982939-20230905163019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 29.08.2023. 2023-08-29</title>
     <link>https://api.hrt.hr/media/41/16/20230829-explora-7980818-20230829160559.mp3</link>
     <description>Danas odgovaramo na pitanja. Charles Babbage. Kao pas i mačka. Masa i gravitacija. Perzija i Iran u astronomiji. Strojarstvo je za žene. Hladno zavarivanje. Voda Europe zarobljena u gravitaciji Venere. Projekt Universe 25 i ekonomska održivost. Pretjerano roditeljstvo. Klimatske promjene. Koliko su planine visoke? Kako ublažiti svoj miris?
@@ -96,14 +104,6 @@ Zašto žene pristaju biti ljubavnice?</description>
     <description>Sve je više Explorijanaca. Kinezi izgradili MSR ( molten salt reactor) nuklearku na torij. Sve je znanost. Kina kao Jugoslavija. Glupi smo i naivni. Program Euclid. Bijeli krovovi. Autofagija. Holobiomi, nova paradigma u biologiji. Oralni seks kao razmjena bakterija. Sterilizacija mačaka, amigdala i samosvijest. Explorijanci su drukčiji.</description>
     <pubDate>Tue, 04 Jul 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/d2/20230704-explora-7964563-20230704171035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 27.06.2023. 2023-06-27</title>
-    <link>https://api.hrt.hr/media/be/d7/20230627-explora-7962491-20230627161047.mp3</link>
-    <description> Wagner je tek uvod. Titan je ostao pored Titanica. Zaštita od tuče - osiguranje. Ali osiguranje jednako za sve. Evolucija, doista? Razbijam čašu ... Crveni makovi. Najbolji položaj u snu. Što Korado čita i kako se informira? Čime ispeći meso na roštilju? Čime dimiti košnice? Preosjetljivost na buku i šefa. Zašto smo dlakavi? Kako doći u Višnjan? Zmije kao kućni ljubimci.</description>
-    <pubDate>Tue, 27 Jun 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/be/d7/20230627-explora-7962491-20230627161047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
