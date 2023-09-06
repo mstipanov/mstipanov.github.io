@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 05 Sep 2023 05:43:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 06:16:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.09. 2023-09-06</title>
+    <link>https://api.hrt.hr/media/6b/b0/20230906-jutarnja-kronika-34458858-20230906055035.mp3</link>
+    <description>Planira se otvorenje Centra za registraciju migranata, vjerojatno će biti u Dugom Dolu kod Krnjaka. Kontejnersko naselje u Glini jučer je napustila i posljednja stanovnica. Zagreb je domaćin godišnje konferencije Europske skupine za javnu upravu, okupit će više od 600 znanstvenika i stručnjaka iz cijeloga svijeta. Hrvatsko društvo filmskih djelatnika objavit će hrvatskog kandidata za Oscara 2024. godine. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 06 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6b/b0/20230906-jutarnja-kronika-34458858-20230906055035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.09. 2023-09-05</title>
     <link>https://api.hrt.hr/media/a0/f9/20230905-jutarnja-kronika-34455698-20230905053513.mp3</link>
     <description>Rusija srušila ukrajinske bespilotne letjelice koje su ciljale Moskvu. Hrvatska turistička zajednica objavljuje podatke za kolovoz. Vlada će sljedeći tjedan donijeti novi paket mjera pomoći građanima i poduzetnicima! U Ministarstvu zdravstva dodjela 190 specijalizacija iz primarne zdravstvene zaštite. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Broj napada bespilotnim letjelicama u Rusiji će se povećati, Ukrajina sada može vlastitim oružjem gađati mete udaljene tisuću i pol kilometara. Prema podacima e-Visitora, u prvih osam mjeseci ove godine Hrvatsku je posjetilo nešto više od 16 milijuna turista. U Zagrebu večeras počinje Festival svjetske književnosti, jedan od najvažnijih događaja na hrvatskoj kulturnoj sceni. Urednica: Mira Barić.</description>
     <pubDate>Sun, 03 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/88/20230903-jutarnja-kronika-34450259-20230903053008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.09. 2023-09-02</title>
-    <link>https://api.hrt.hr/media/98/82/20230902-jutarnja-kronika-34448005-20230902053007.mp3</link>
-    <description>Rusi tvrde da su uništili ukrajinski čamac u pokušaju napada na Krimski most. Premijer Plenković optimističan da će cijene nakon turističke sezone početi padati. Tenisač Borna Gojo u osmini finala US Opena. Večeras glazbeni spektakl - Matej Meštrović &amp; Friends. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 02 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/82/20230902-jutarnja-kronika-34448005-20230902053007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
