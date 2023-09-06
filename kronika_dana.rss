@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 06 Sep 2023 20:50:06 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 21:20:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.09. 2023-09-06</title>
+    <link>https://api.hrt.hr/media/42/38/20230906-kronika-dana-34461668-20230906205036.mp3</link>
+    <description>Rusi gađali tržnicu u istočnom ukrajinskom gradu - najmanje 17 poginulih i 30 ranjenih. U Kijev stigao američki državni tajnik. Oluje i poplave u Grčkoj, Turskoj i Bugarskoj, 14 ljudi poginulo. Divlje svinje viđene u nekoliko zagrebačkih četvrti, lovci savjetuju - pustite ih da same odu. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 06 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/38/20230906-kronika-dana-34461668-20230906205036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.09. 2023-09-05</title>
     <link>https://api.hrt.hr/media/3a/46/20230905-kronika-dana-34458313-20230905210515.mp3</link>
     <description>Centar za registraciju migranata vjerojatno će biti u Dugom Dolu kod Krnjaka. Visoki upravni sud potvrdio da je ministar Banožić bio u sukobu interesa kada je sam sebi dodijelio državni stan. Operiran dječak kojeg je u Sesvetskom Brestju, u dvorištu obiteljske kuće, ugrizao pas. Urednica: Mira Barić</description>
