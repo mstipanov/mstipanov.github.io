@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 06 Sep 2023 06:16:56 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 05:51:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.09. 2023-09-07</title>
+    <link>https://api.hrt.hr/media/df/60/20230907-jutarnja-kronika-34462186-20230907054033.mp3</link>
+    <description>Vlada će u Sabor poslati na drugo čitanje paket poreznih zakona, koji bi trebali stupiti na snagu 1. siječnja sljedeće godine. Drugi je dan sastanka na vrhu Inicijative triju mora u Bukureštu. Premijer Andrej Plenković govorit će na poslovnom forumu. Meksiko dekriminalizirao pobačaj, Vrhovni sud naredio parlamentu uklanjanje kazni koje su bile na snazi od 1931. godine. U osječkome Muzeju likovnih umjetnosti otvara se izložba "Andrija Medulić Schiavone - grafički genij manirizma". Urednik: Silvio Šop</description>
+    <pubDate>Thu, 07 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/60/20230907-jutarnja-kronika-34462186-20230907054033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.09. 2023-09-06</title>
     <link>https://api.hrt.hr/media/6b/b0/20230906-jutarnja-kronika-34458858-20230906055035.mp3</link>
     <description>Planira se otvorenje Centra za registraciju migranata, vjerojatno će biti u Dugom Dolu kod Krnjaka. Kontejnersko naselje u Glini jučer je napustila i posljednja stanovnica. Zagreb je domaćin godišnje konferencije Europske skupine za javnu upravu, okupit će više od 600 znanstvenika i stručnjaka iz cijeloga svijeta. Hrvatsko društvo filmskih djelatnika objavit će hrvatskog kandidata za Oscara 2024. godine. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nova nastavna godina pokazuje sve razmjere hrvatske demografske katastrofe. U odnosu prema pretpandemijskoj 2019. upisano 10 posto manje učenika u prve razrede. Ukrajinski predsjednik Zelenski zbog korupcijske afere smjenjuje ministra obrane Reznikova. Tajvan pogodio tajfun s vjetrovima od 190 kilometara na sat. Više od 200 tisuća kućanstava ostalo bez struje. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 04 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/60/91/20230904-jutarnja-kronika-34452256-20230904054010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.09. 2023-09-03</title>
-    <link>https://api.hrt.hr/media/c9/88/20230903-jutarnja-kronika-34450259-20230903053008.mp3</link>
-    <description>Broj napada bespilotnim letjelicama u Rusiji će se povećati, Ukrajina sada može vlastitim oružjem gađati mete udaljene tisuću i pol kilometara. Prema podacima e-Visitora, u prvih osam mjeseci ove godine Hrvatsku je posjetilo nešto više od 16 milijuna turista. U Zagrebu večeras počinje Festival svjetske književnosti, jedan od najvažnijih događaja na hrvatskoj kulturnoj sceni. Urednica: Mira Barić.</description>
-    <pubDate>Sun, 03 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/88/20230903-jutarnja-kronika-34450259-20230903053008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
