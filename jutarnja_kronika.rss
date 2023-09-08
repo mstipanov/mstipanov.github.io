@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Sep 2023 05:51:47 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:58:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.09. 2023-09-08</title>
+    <link>https://api.hrt.hr/media/3e/2e/20230908-jutarnja-kronika-34465603-20230908053529.mp3</link>
+    <description>Vlada je u saborsku proceduru poslala paket poreznih zakona koji bi na snagu trebao stupiti početkom iduće godine. Namjera je povećati plaće za više od milijun zaposlenih. Prosječna cijena četvornoga metra stana u Hrvatskoj gotovo je 2 tisuće 330 eura, ali potražnja ne slabi. Počinju 58. Vinkovačke jeseni. SPORT: hrvatska nogometna reprezentacija večeras na rasprodanoj Rujevici igra susret u sklopu kvalifikacija za Europsko prvenstvo, protivnik je Latvija. Urednik Silvio Šop</description>
+    <pubDate>Fri, 08 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3e/2e/20230908-jutarnja-kronika-34465603-20230908053529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.09. 2023-09-07</title>
     <link>https://api.hrt.hr/media/df/60/20230907-jutarnja-kronika-34462186-20230907054033.mp3</link>
     <description>Vlada će u Sabor poslati na drugo čitanje paket poreznih zakona, koji bi trebali stupiti na snagu 1. siječnja sljedeće godine. Drugi je dan sastanka na vrhu Inicijative triju mora u Bukureštu. Premijer Andrej Plenković govorit će na poslovnom forumu. Meksiko dekriminalizirao pobačaj, Vrhovni sud naredio parlamentu uklanjanje kazni koje su bile na snazi od 1931. godine. U osječkome Muzeju likovnih umjetnosti otvara se izložba "Andrija Medulić Schiavone - grafički genij manirizma". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Rusija srušila ukrajinske bespilotne letjelice koje su ciljale Moskvu. Hrvatska turistička zajednica objavljuje podatke za kolovoz. Vlada će sljedeći tjedan donijeti novi paket mjera pomoći građanima i poduzetnicima! U Ministarstvu zdravstva dodjela 190 specijalizacija iz primarne zdravstvene zaštite. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 05 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/f9/20230905-jutarnja-kronika-34455698-20230905053513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.09. 2023-09-04</title>
-    <link>https://api.hrt.hr/media/60/91/20230904-jutarnja-kronika-34452256-20230904054010.mp3</link>
-    <description>Nova nastavna godina pokazuje sve razmjere hrvatske demografske katastrofe. U odnosu prema pretpandemijskoj 2019. upisano 10 posto manje učenika u prve razrede. Ukrajinski predsjednik Zelenski zbog korupcijske afere smjenjuje ministra obrane Reznikova. Tajvan pogodio tajfun s vjetrovima od 190 kilometara na sat. Više od 200 tisuća kućanstava ostalo bez struje. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 04 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/60/91/20230904-jutarnja-kronika-34452256-20230904054010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
