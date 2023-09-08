@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Sep 2023 13:53:25 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 14:00:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.09. 2023-09-08</title>
+    <link>https://api.hrt.hr/media/ea/df/20230908-dnevne-novosti-34467350-20230908134030.mp3</link>
+    <description>Nikola Grmoja tvrdi da premijer Plenković nije smijenio predsjednika Uprave HEP-a Franu Barbarića jer ga ucjenjuje. U Turskoj u tijeku jedna od najvećih speleoloških akcija spašavanja, sudjeluje i HGSS. Hrvatska večeras na Rujevici protiv Latvije u kvalifikacijama za EURO. Urednica: Mira Barić</description>
+    <pubDate>Fri, 08 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/df/20230908-dnevne-novosti-34467350-20230908134030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.09. 2023-09-07</title>
     <link>https://api.hrt.hr/media/9c/8c/20230907-dnevne-novosti-34464052-20230907133535.mp3</link>
     <description>Prihvaćenim paketom poreznih zakona Vlada namjerava rasteretiti plaće. Zagrebačka Gradska skupština raspravlja hoće li se Zagrepčanima smanjiti plaće nakon što gradska uprava poveća porez na dohodak. Samo protekle noći 600 migranata spriječeno je da ilegalno uđu u Hrvatsku. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>O problemima s migrantima ministar Božinović razgovarao s načelnicima i gradonačelnicima iz Karlovačke županije. Ovogodišnji turistički rezultati za osam mjeseci izjednačeni su s 2019.-om. Umro bivši ministar financija Ivan Šuker. Urednica: Sanja Cota</description>
     <pubDate>Tue, 05 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7e/0d/20230905-dnevne-novosti-34457542-20230905134013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.09. 2023-09-04</title>
-    <link>https://api.hrt.hr/media/12/5c/20230904-dnevne-novosti-34454040-20230904134512.mp3</link>
-    <description>U Sočiju se sastali Putin i Erdoan. Mogu li dogovoriti nastavak sporazuma o izvozu žitarica? Povratak u školske klupe! Prvom danu nastave najviše se vesele prvašići. Bivši zagrebački pročelnik Šostar nepravomoćno osuđen na četiri godine zatvora za aferu Suhi led. Umro general Anton Tus. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 04 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/12/5c/20230904-dnevne-novosti-34454040-20230904134512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
