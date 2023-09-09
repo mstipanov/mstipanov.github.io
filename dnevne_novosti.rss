@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Sep 2023 13:36:20 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 14:06:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.09. 2023-09-09</title>
+    <link>https://api.hrt.hr/media/fd/0c/20230909-dnevne-novosti-34469886-20230909134534.mp3</link>
+    <description>U Maroku više od 800 poginuli u razornom potresu od 6 cijelih 8 prema Richteru. U Zadru mirni prosvjed roditelja čija djeca nemaju svog pedijatra. Glavni odbor SDP-a - hoće li Peđa Grbin biti kandidat stranke za premijera. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 09 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/0c/20230909-dnevne-novosti-34469886-20230909134534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.09. 2023-09-08</title>
     <link>https://api.hrt.hr/media/ea/df/20230908-dnevne-novosti-34467350-20230908134030.mp3</link>
     <description>Nikola Grmoja tvrdi da premijer Plenković nije smijenio predsjednika Uprave HEP-a Franu Barbarića jer ga ucjenjuje. U Turskoj u tijeku jedna od najvećih speleoloških akcija spašavanja, sudjeluje i HGSS. Hrvatska večeras na Rujevici protiv Latvije u kvalifikacijama za EURO. Urednica: Mira Barić</description>
