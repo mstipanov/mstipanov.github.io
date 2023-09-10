@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Sep 2023 06:05:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 05:40:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.09. 2023-09-10</title>
+    <link>https://api.hrt.hr/media/2d/32/20230910-jutarnja-kronika-34471237-20230910053508.mp3</link>
+    <description>Više od 2 tisuće poginulih u potresu koji je u petak navečer pogodio Maroko. Oluja Danijel dosad odnijela najmanje 10 života u Grčkoj - stanje se još ne smiruje. Od utorka više cijene goriva - benzina za cent, a dizela za 3 centa. Svjetski je dan prevencije suicida. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 10 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2d/32/20230910-jutarnja-kronika-34471237-20230910053508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.09. 2023-09-09</title>
     <link>https://api.hrt.hr/media/2e/68/20230909-jutarnja-kronika-34468674-20230909053037.mp3</link>
     <description>Razoran potres od 6 cijelih 8 prema Richteru sinoć pogodio Maroko - najmanje 296 poginulih. U New Delhiju počinje sastanak G 20 - osim rata u Ukrajini, tema i borba protiv klimatskih promjena. U Zadru mirni prosvjed roditelja zbog nedostatka pedijatara. Rapsodija na Rujevici: hrvatska nogometna reprezentacija pobijedila Latviju 5:0. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Vlada će u Sabor poslati na drugo čitanje paket poreznih zakona, koji bi trebali stupiti na snagu 1. siječnja sljedeće godine. Drugi je dan sastanka na vrhu Inicijative triju mora u Bukureštu. Premijer Andrej Plenković govorit će na poslovnom forumu. Meksiko dekriminalizirao pobačaj, Vrhovni sud naredio parlamentu uklanjanje kazni koje su bile na snazi od 1931. godine. U osječkome Muzeju likovnih umjetnosti otvara se izložba "Andrija Medulić Schiavone - grafički genij manirizma". Urednik: Silvio Šop</description>
     <pubDate>Thu, 07 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/60/20230907-jutarnja-kronika-34462186-20230907054033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.09. 2023-09-06</title>
-    <link>https://api.hrt.hr/media/6b/b0/20230906-jutarnja-kronika-34458858-20230906055035.mp3</link>
-    <description>Planira se otvorenje Centra za registraciju migranata, vjerojatno će biti u Dugom Dolu kod Krnjaka. Kontejnersko naselje u Glini jučer je napustila i posljednja stanovnica. Zagreb je domaćin godišnje konferencije Europske skupine za javnu upravu, okupit će više od 600 znanstvenika i stručnjaka iz cijeloga svijeta. Hrvatsko društvo filmskih djelatnika objavit će hrvatskog kandidata za Oscara 2024. godine. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 06 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6b/b0/20230906-jutarnja-kronika-34458858-20230906055035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
