@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 10 Sep 2023 20:43:45 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 20:48:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.09. 2023-09-11</title>
+    <link>https://api.hrt.hr/media/c8/d6/20230911-kronika-dana-34476374-20230911203519.mp3</link>
+    <description>Uoči predstavljanja novih mjera pomoći građanima u četvrtak, Vlada će sutra održati sastanak s velikim trgovcima. Pokušat će dogovoriti vraćanje cijena na razinu s kraja prošle godine. Od 1. siječnja iduće godine sve bolnice u Hrvatskoj postaju državne. Prema posljednjim podacima, u potresu u Maroku poginulo je gotovo dvije tisuće 700 ljudi. Sport: u četvrtoj utakmici kvalifikacija za Europsko prvenstvo Hrvatska nogometna reprezentacija pobijedila je Armeniju rezultatom 1:0. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 11 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c8/d6/20230911-kronika-dana-34476374-20230911203519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.09. 2023-09-10</title>
     <link>https://api.hrt.hr/media/d3/c7/20230910-kronika-dana-34472849-20230910204010.mp3</link>
     <description>I dalje raste broj žrtava razornog potresa u Maroku.Utrka s vremenom u potrazi za preživjelima, stigle prve inozemne spasilačke ekipe. Još traje izvlačenje američkog speleologa iz špilje u Turskoj. Ukrajini ostalo samo 30 do 45 dana za protuofenzivu zbog dolaska zime - smatra zapovjednik američke vojske Mark Milley. Sport: Braća Sinković, srebrni na Svjetskom veslačkom prvenstvu u Beogradu, Sandra Perković zlatna na atletskom mitingu u Zagrebu. Urednica: Sanja Rabuzin.</description>
@@ -32,14 +40,6 @@ Urednica: Sanja Rabuzin.</description>
     <description>U Zagrebu kamion pregazio djevojčicu na povratku iz škole, stanovnici Žitnjaka upozoravali na obijesne vožnje. Traje akcija spašavanja američkog speleologa iz špilje u Turskoj, sudjeluje i HGSS. Zbog afričke svinjke kuge u Hrvatskoj i Europi nestaju farme svinja, očekuje se da će meso poskupjeti za 50 posto. Urednica: Sanja Cota</description>
     <pubDate>Fri, 08 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/62/91/20230908-kronika-dana-34468124-20230908203530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.09. 2023-09-07</title>
-    <link>https://api.hrt.hr/media/72/98/20230907-kronika-dana-34465028-20230907204035.mp3</link>
-    <description>Vlada je u saborsku proceduru poslala paket poreznih zakona koji bi na snagu trebao stupiti početkom iduće godine, a kojima se ukida prirez gradovima i općinama. Ukrajina je počela izvoziti žito preko hrvatskih luka. Unatoč rastu cijena, potražnja za stanovima ne slabi. Prosječna cijena četvornog metra u Hrvatskoj gotovo je 2 tisuće 330 eura. Urednica Mira Barić</description>
-    <pubDate>Thu, 07 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/72/98/20230907-kronika-dana-34465028-20230907204035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
