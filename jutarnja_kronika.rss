@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Sep 2023 05:45:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:52:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.09. 2023-09-12</title>
+    <link>https://api.hrt.hr/media/c2/5d/20230912-jutarnja-kronika-34476981-20230912053027.mp3</link>
+    <description>U Ministarstvu gospodarstva razgovori s velikim trgovcima o spuštanju cijena. U potresu u Maroku poginulo više od dvije tisuće 800 ljudi. Spašen američki speleolog zarobljen u špilji u Turskoj.
+Nova pobjeda Vatrenih na putu prema Euru. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 12 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/5d/20230912-jutarnja-kronika-34476981-20230912053027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.09. 2023-09-11</title>
     <link>https://api.hrt.hr/media/97/be/20230911-jutarnja-kronika-34473407-20230911053520.mp3</link>
     <description>Sinoć kod Križevaca u slijetanju automobila s ceste poginula trojica muškaraca. Iz sata u sat raste broj žrtava potresa u Maroku. Od sutra benzin skuplji za jedan, a eurodizel za tri eurocenta po litri. Počinju radovi na obnovi i dogradnji dijela KBC-a Zagreb. Večeras u kvalifikacijama za europsko nogometno prvenstvo Hrvatska igra s Armenijom. Urednik: Mislav Togonal</description>
@@ -31,14 +40,6 @@
     <description>Razoran potres od 6 cijelih 8 prema Richteru sinoć pogodio Maroko - najmanje 296 poginulih. U New Delhiju počinje sastanak G 20 - osim rata u Ukrajini, tema i borba protiv klimatskih promjena. U Zadru mirni prosvjed roditelja zbog nedostatka pedijatara. Rapsodija na Rujevici: hrvatska nogometna reprezentacija pobijedila Latviju 5:0. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 09 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2e/68/20230909-jutarnja-kronika-34468674-20230909053037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.09. 2023-09-08</title>
-    <link>https://api.hrt.hr/media/3e/2e/20230908-jutarnja-kronika-34465603-20230908053529.mp3</link>
-    <description>Vlada je u saborsku proceduru poslala paket poreznih zakona koji bi na snagu trebao stupiti početkom iduće godine. Namjera je povećati plaće za više od milijun zaposlenih. Prosječna cijena četvornoga metra stana u Hrvatskoj gotovo je 2 tisuće 330 eura, ali potražnja ne slabi. Počinju 58. Vinkovačke jeseni. SPORT: hrvatska nogometna reprezentacija večeras na rasprodanoj Rujevici igra susret u sklopu kvalifikacija za Europsko prvenstvo, protivnik je Latvija. Urednik Silvio Šop</description>
-    <pubDate>Fri, 08 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3e/2e/20230908-jutarnja-kronika-34465603-20230908053529.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
