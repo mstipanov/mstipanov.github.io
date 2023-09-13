@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 12 Sep 2023 20:55:28 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 20:59:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.09. 2023-09-13</title>
+    <link>https://api.hrt.hr/media/8a/50/20230913-kronika-dana-34483829-20230913203532.mp3</link>
+    <description>Nakon razgovora u Vladi neki trgovci u petak počinju snižavati cijene. Novim izmjenama zakona o suzbijanju nasilja nad ženama, udruge su iznimno zadovoljne. Povjerenstvo za odlučivanje o sukoba interesa bavit će se slučajem ministra Gordana Grlića Radmana. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 13 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8a/50/20230913-kronika-dana-34483829-20230913203532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.09. 2023-09-12</title>
     <link>https://api.hrt.hr/media/d8/24/20230912-kronika-dana-34480153-20230912204027.mp3</link>
     <description>Trgovci načelno poduprli Vladinu inicijativu o snižavanju cijena. Tisuće poginulih i nestalih u olujnom nevremenu i poplavama u Libiji, nestale cijele četvrti i naselja. Republikanci pokreću istragu radi opoziva predsjednika Joea Bidena. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>I dalje raste broj žrtava razornog potresa u Maroku.Utrka s vremenom u potrazi za preživjelima, stigle prve inozemne spasilačke ekipe. Još traje izvlačenje američkog speleologa iz špilje u Turskoj. Ukrajini ostalo samo 30 do 45 dana za protuofenzivu zbog dolaska zime - smatra zapovjednik američke vojske Mark Milley. Sport: Braća Sinković, srebrni na Svjetskom veslačkom prvenstvu u Beogradu, Sandra Perković zlatna na atletskom mitingu u Zagrebu. Urednica: Sanja Rabuzin.</description>
     <pubDate>Sun, 10 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/c7/20230910-kronika-dana-34472849-20230910204010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.09. 2023-09-09</title>
-    <link>https://api.hrt.hr/media/87/7a/20230909-kronika-dana-34470680-20230909204035.mp3</link>
-    <description>U razornom potresu u Maroku više od 1300 poginulih. Počelo izvlačenje američkog speleologa iz kilometar duboke jame u Turskoj. U spasilačkoj ekipi i Hrvati. Kamion koji je u Zagrebu usmrtio djevojčicu imao neispravne kočnice. Kaznena prijava protiv vozača. Glavni odbor SDP-a jednoglasno odlučio - predsjednik stranke Peđa Grbin kandidat je SDP-a za premijera.
-Urednica: Sanja Rabuzin.</description>
-    <pubDate>Sat, 09 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/87/7a/20230909-kronika-dana-34470680-20230909204035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
