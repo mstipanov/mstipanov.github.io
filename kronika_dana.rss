@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Sep 2023 20:59:59 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 21:04:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.09. 2023-09-14</title>
+    <link>https://api.hrt.hr/media/64/ac/20230914-kronika-dana-34487555-20230914204049.mp3</link>
+    <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Nakon što je sudjelovao u spašavanju američkog speleologa, tim Hrvatske gorske službe spašavanja vratio se večeras iz Turske. U poplavi koja je pogodila Libiju 11 tisuća poginulih, a nestalo 20 tisuća ljudi. Uredila: Sanja Cota</description>
+    <pubDate>Thu, 14 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/64/ac/20230914-kronika-dana-34487555-20230914204049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.09. 2023-09-13</title>
     <link>https://api.hrt.hr/media/8a/50/20230913-kronika-dana-34483829-20230913203532.mp3</link>
     <description>Nakon razgovora u Vladi neki trgovci u petak počinju snižavati cijene. Novim izmjenama zakona o suzbijanju nasilja nad ženama, udruge su iznimno zadovoljne. Povjerenstvo za odlučivanje o sukoba interesa bavit će se slučajem ministra Gordana Grlića Radmana. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Uoči predstavljanja novih mjera pomoći građanima u četvrtak, Vlada će sutra održati sastanak s velikim trgovcima. Pokušat će dogovoriti vraćanje cijena na razinu s kraja prošle godine. Od 1. siječnja iduće godine sve bolnice u Hrvatskoj postaju državne. Prema posljednjim podacima, u potresu u Maroku poginulo je gotovo dvije tisuće 700 ljudi. Sport: u četvrtoj utakmici kvalifikacija za Europsko prvenstvo Hrvatska nogometna reprezentacija pobijedila je Armeniju rezultatom 1:0. Urednik: Silvio Šop</description>
     <pubDate>Mon, 11 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/d6/20230911-kronika-dana-34476374-20230911203519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.09. 2023-09-10</title>
-    <link>https://api.hrt.hr/media/d3/c7/20230910-kronika-dana-34472849-20230910204010.mp3</link>
-    <description>I dalje raste broj žrtava razornog potresa u Maroku.Utrka s vremenom u potrazi za preživjelima, stigle prve inozemne spasilačke ekipe. Još traje izvlačenje američkog speleologa iz špilje u Turskoj. Ukrajini ostalo samo 30 do 45 dana za protuofenzivu zbog dolaska zime - smatra zapovjednik američke vojske Mark Milley. Sport: Braća Sinković, srebrni na Svjetskom veslačkom prvenstvu u Beogradu, Sandra Perković zlatna na atletskom mitingu u Zagrebu. Urednica: Sanja Rabuzin.</description>
-    <pubDate>Sun, 10 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/c7/20230910-kronika-dana-34472849-20230910204010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
