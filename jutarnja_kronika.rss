@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Sep 2023 05:57:30 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 06:01:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.09. 2023-09-14</title>
+    <link>https://api.hrt.hr/media/7b/90/20230914-jutarnja-kronika-34484399-20230914054048.mp3</link>
+    <description>Vlada će predstaviti peti paket mjera za zaštitu kućanstava i gospodarstva od rasta cijena. Nove mjere za suzbijanje nasilja nad ženama. Ukrajinska vojska napala rusku flotu na Krimu - uništila veliki ratni brod i podmornicu. Uspjeh mladih hrvatskih informatičara - na juniorskoj informatičkoj olimpijadi u Gruziji osvojili zlato i dvije bronce. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 14 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7b/90/20230914-jutarnja-kronika-34484399-20230914054048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.09. 2023-09-13</title>
     <link>https://api.hrt.hr/media/e3/ce/20230913-jutarnja-kronika-34480688-20230913053530.mp3</link>
     <description>Nakon jučerašnjih sastanaka o snižavanju cijena s trgovcima u Ministarstvu gospodarstva, danas se razgovori nastavljaju u Vladi. U olujnom nevremenu i poplavama u Libiji tisuće poginulih i nestalih, izbrisane cijele četvrti i naselja. Predsjednica Europske komisije Ursula von der Leyen u Europskom parlamentu održat će govor o stanju Unije. Počinje izgradnja lučkog terminala Rijeka Gateway, najsuvremenijeg u ovom dijelu Europe. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Nova pobjeda Vatrenih na putu prema Euru. Urednica: Snježana Kralj</description
     <description>Sinoć kod Križevaca u slijetanju automobila s ceste poginula trojica muškaraca. Iz sata u sat raste broj žrtava potresa u Maroku. Od sutra benzin skuplji za jedan, a eurodizel za tri eurocenta po litri. Počinju radovi na obnovi i dogradnji dijela KBC-a Zagreb. Večeras u kvalifikacijama za europsko nogometno prvenstvo Hrvatska igra s Armenijom. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 11 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/97/be/20230911-jutarnja-kronika-34473407-20230911053520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.09. 2023-09-10</title>
-    <link>https://api.hrt.hr/media/2d/32/20230910-jutarnja-kronika-34471237-20230910053508.mp3</link>
-    <description>Više od 2 tisuće poginulih u potresu koji je u petak navečer pogodio Maroko. Oluja Danijel dosad odnijela najmanje 10 života u Grčkoj - stanje se još ne smiruje. Od utorka više cijene goriva - benzina za cent, a dizela za 3 centa. Svjetski je dan prevencije suicida. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 10 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2d/32/20230910-jutarnja-kronika-34471237-20230910053508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
