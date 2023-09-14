@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Sep 2023 15:53:48 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 16:33:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Bertosa o Uskockom ratu 2023-09-14</title>
+    <link>https://api.hrt.hr/media/33/5c/20230914-historia-histriae-7984012-20230914160050.mp3</link>
+    <description>Prisjećamo se Miroslava Bertoše koji nam priča o Uskočkom ratu u Istri. </description>
+    <pubDate>Thu, 14 Sep 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/33/5c/20230914-historia-histriae-7984012-20230914160050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>BERTOŠA ZA 7.9. 2023-09-07</title>
     <link>https://api.hrt.hr/media/a1/70/20230907-historia-histriae-7982600-20230907152534.mp3</link>
     <description>Novu sezonu počinjemo prisjećanjem na emisije u kojima je gostovao Miroslav Bertoša. Pričamo o Istri u novom vjeku.....</description>
@@ -79,14 +87,6 @@
     <description>Dvije tisuće godina stara pozornica ponovo se vraća svojoj izvornoj funkciji.....priču o Malom rimskom kazalištu donosi nam ravnatelj Arheološkog muzeja Istre Darko Komšo. </description>
     <pubDate>Thu, 27 Apr 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a6/67/20230427-historia-histriae-7943737-20230427155507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JOSIP VISNJIC 2023-04-20</title>
-    <link>https://api.hrt.hr/media/1d/13/20230420-historia-histriae-7941595-20230420151019.mp3</link>
-    <description>Priču o istarskim kaštelima priča nam arheolog Josip Višnjić. </description>
-    <pubDate>Thu, 20 Apr 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1d/13/20230420-historia-histriae-7941595-20230420151019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
