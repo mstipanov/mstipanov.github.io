@@ -6,10 +6,18 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Sep 2023 12:22:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 12:32:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.webp</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Američki ustav, II. dio 2023-09-14</title>
+    <link>https://api.hrt.hr/media/3c/2f/20230914-povijest-cetvrtkom-34482412-20230913123531.mp3</link>
+    <description>Ta je mlada federacija prvi ustav ratificirala 1781. godine. Brzo je postalo jasno da država uređena prema tom ustavu neće dugo potrajati. Godine 1787. 55 delegata okupilo se kako bi napisalo novi ustav koji je trebao spasiti tek nastalu federaciju. Kakav su ustav ta pedesetpetorica napisala u četiri mjeseca zasjedanja poslušajte u Povijesti četvrtkom. /2.dio/</description>
+    <pubDate>Thu, 14 Sep 2023 11:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/2f/20230914-povijest-cetvrtkom-34482412-20230913123531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Američki ustav, I. dio 2023-09-07</title>
     <link>https://api.hrt.hr/media/4e/e3/20230907-povijest-cetvrtkom-34460614-20230906130039.mp3</link>
     <description>Ta je mlada federacija prvi ustav ratificirala 1781. godine. Brzo je postalo jasno da država uređena prema tom ustavu neće dugo potrajati. Godine 1787. 55 delegata okupilo se kako bi napisalo novi ustav koji je trebao spasiti tek nastalu federaciju. Kakav su ustav ta pedesetpetorica napisala u četiri mjeseca zasjedanja poslušajte u Povijesti četvrtkom. </description>
@@ -84,14 +92,6 @@
 </description>
     <pubDate>Thu, 13 Jul 2023 11:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/23/f3/20230713-povijest-cetvrtkom-34310004-20230713103508.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dioklecijan 2023-07-06</title>
-    <link>https://api.hrt.hr/media/31/9e/20230706-povijest-cetvrtkom-34289292-20230705103040.mp3</link>
-    <description>Ljeti se u Povijesti četvrtkom prisjećamo sugovornika koji više nisu s nama. U prosincu prošle godine preminuo je profesor doktor Marin Zaninović, doajen hrvatske arheologije. Taj vrsni profesor i popularizator znanosti bio je sugovornik u emisiji o jednom od najvećih rimskih careva, čovjeku koji se dobrovoljom odrekao vlasti i onda se posvetio uzgajanju kupusa. </description>
-    <pubDate>Thu, 06 Jul 2023 11:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/9e/20230706-povijest-cetvrtkom-34289292-20230705103040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
