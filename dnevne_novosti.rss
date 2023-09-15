@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Sep 2023 14:02:52 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 14:07:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.09. 2023-09-15</title>
+    <link>https://api.hrt.hr/media/7c/a9/20230915-dnevne-novosti-34489973-20230915134104.mp3</link>
+    <description>Reakcije na Vladin paket pomoći. Dio trgovaca, ali i proizvođača i dobavljača kritizira ograničenje cijena pojedinih proizvoda. Drama s migrantima na Lampedusi - u nekoliko dana stiglo oko 7 tisuća ljudi, prihvatni centar pretrpan. Sud u Rijeci novčano i zatvorom kaznio dvojicu okrivljenika koji su na utakmici Hrvatska-Latvija istaknuli zakonom zabranjenu zastavu.Urednica Mira Barić</description>
+    <pubDate>Fri, 15 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7c/a9/20230915-dnevne-novosti-34489973-20230915134104.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.09. 2023-09-14</title>
     <link>https://api.hrt.hr/media/b3/b0/20230914-dnevne-novosti-34486470-20230914133550.mp3</link>
     <description>Vlada objavila jesenski, peti paket pomoći građanima i gospodarstvu. Zamrzavaju se cijene 30 artikala. Mjere su dobrodošle, no plaće i mirovine trebale bi biti veće, poručuju iz sindikata. Broj poginulih u poplavama u Libiji mogao bi dosegnuti 20 tisuća. Raste i broj poginulih u potresu u Maroku. Predstavljen projekt digitalizacije kulturne baštine u čijoj provedbi sudjeluje i HRT. Blizu Rogoznice ribari ulovili metar i pol dugačkoga mladoga morskog psa, zaštićenu vrstu - Atlantsku psinu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>U Ministarstvu gospodarstva održani su sastanci s predstavnicima velikih trgovačkih lanaca o vraćanju cijena na razinu s kraja prošle godine - navodno je riječ o 365 proizvoda. U obilnim oborinama i poplavama u Libiji poginulo više od dvije tisuće ljudi, najmanje je deset tisuća nestalih. Jesensko zasjedanje Sabora počinje 19. ovog mjeseca, zastupnici će prvo raspraviti Zakon o izbornim jedinicama te paket poreznih zakona. Ministar Branko Bačić ponovno na Banovini - provodi se javna nabava za tisuću i sto novih gradilišta, čime će se ubrzati obnova. Urednik: Silvio Šop</description>
     <pubDate>Tue, 12 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/39/f1/20230912-dnevne-novosti-34478922-20230912133525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.09. 2023-09-11</title>
-    <link>https://api.hrt.hr/media/04/e6/20230911-dnevne-novosti-34475431-20230911134020.mp3</link>
-    <description>Crni vikend na hrvatskim cestama - poginulo osmero ljudi. Vladajuća koalicija o novim mjerama pomoći građanima i poduzetnicima. Više od dvije i pol tisuće ljudi poginulo u katastrofalnom potresu u Maroku. Vatreni večeras protiv Armenije. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 11 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/e6/20230911-dnevne-novosti-34475431-20230911134020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
