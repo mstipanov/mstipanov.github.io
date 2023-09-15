@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Sep 2023 21:04:02 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 21:08:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.09. 2023-09-15</title>
+    <link>https://api.hrt.hr/media/f5/b1/20230915-kronika-dana-34490874-20230915203559.mp3</link>
+    <description>Ponovno masovni dolazak migranata na talijanski otok Lampedusu, veliki je pritisak i na Hrvatsku. Nakon objave Vladinih mjera snižavaju se cijene nekih proizvoda, a komentari oporbe ne prestaju. Otvorene su Vinkovačke jeseni. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 15 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f5/b1/20230915-kronika-dana-34490874-20230915203559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.09. 2023-09-14</title>
     <link>https://api.hrt.hr/media/64/ac/20230914-kronika-dana-34487555-20230914204049.mp3</link>
     <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Nakon što je sudjelovao u spašavanju američkog speleologa, tim Hrvatske gorske službe spašavanja vratio se večeras iz Turske. U poplavi koja je pogodila Libiju 11 tisuća poginulih, a nestalo 20 tisuća ljudi. Uredila: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Trgovci načelno poduprli Vladinu inicijativu o snižavanju cijena. Tisuće poginulih i nestalih u olujnom nevremenu i poplavama u Libiji, nestale cijele četvrti i naselja. Republikanci pokreću istragu radi opoziva predsjednika Joea Bidena. Urednica: Mira Barić</description>
     <pubDate>Tue, 12 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d8/24/20230912-kronika-dana-34480153-20230912204027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.09. 2023-09-11</title>
-    <link>https://api.hrt.hr/media/c8/d6/20230911-kronika-dana-34476374-20230911203519.mp3</link>
-    <description>Uoči predstavljanja novih mjera pomoći građanima u četvrtak, Vlada će sutra održati sastanak s velikim trgovcima. Pokušat će dogovoriti vraćanje cijena na razinu s kraja prošle godine. Od 1. siječnja iduće godine sve bolnice u Hrvatskoj postaju državne. Prema posljednjim podacima, u potresu u Maroku poginulo je gotovo dvije tisuće 700 ljudi. Sport: u četvrtoj utakmici kvalifikacija za Europsko prvenstvo Hrvatska nogometna reprezentacija pobijedila je Armeniju rezultatom 1:0. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 11 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c8/d6/20230911-kronika-dana-34476374-20230911203519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
