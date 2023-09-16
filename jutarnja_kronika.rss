@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Sep 2023 06:05:40 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 05:39:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.09. 2023-09-16</title>
+    <link>https://api.hrt.hr/media/dc/b3/20230916-jutarnja-kronika-34491396-20230916053523.mp3</link>
+    <description>U Vukovaru se obilježava 32. obljetnica Bitke za Vukovar koja je trajala 87 dana i ostala sinonim za obranu u Domovinskom ratu. Agencija Standard &amp; Poor's potvrdila je rejting Hrvatske BBB+, te poboljšala izglede iz stabilnih u pozitivne. Predsjednik Milanović putuje u Kanadu i Sjedinjene Države.na udaru novog vala migranata. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 16 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/b3/20230916-jutarnja-kronika-34491396-20230916053523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.09. 2023-09-15</title>
     <link>https://api.hrt.hr/media/9d/22/20230915-jutarnja-kronika-34488111-20230915053544.mp3</link>
     <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Ministar Gordan Grlić Radman ispričao se zbog krivo popunjene imovinske kartice. Oporba traži ostavku. Nastavak ukrajinske ofenzive na istoku zemlje. Počinju Vinkovačke jeseni.</description>
@@ -31,15 +39,6 @@
     <description>Nakon jučerašnjih sastanaka o snižavanju cijena s trgovcima u Ministarstvu gospodarstva, danas se razgovori nastavljaju u Vladi. U olujnom nevremenu i poplavama u Libiji tisuće poginulih i nestalih, izbrisane cijele četvrti i naselja. Predsjednica Europske komisije Ursula von der Leyen u Europskom parlamentu održat će govor o stanju Unije. Počinje izgradnja lučkog terminala Rijeka Gateway, najsuvremenijeg u ovom dijelu Europe. Urednik: Silvio Šop</description>
     <pubDate>Wed, 13 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e3/ce/20230913-jutarnja-kronika-34480688-20230913053530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.09. 2023-09-12</title>
-    <link>https://api.hrt.hr/media/c2/5d/20230912-jutarnja-kronika-34476981-20230912053027.mp3</link>
-    <description>U Ministarstvu gospodarstva razgovori s velikim trgovcima o spuštanju cijena. U potresu u Maroku poginulo više od dvije tisuće 800 ljudi. Spašen američki speleolog zarobljen u špilji u Turskoj.
-Nova pobjeda Vatrenih na putu prema Euru. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 12 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/5d/20230912-jutarnja-kronika-34476981-20230912053027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
