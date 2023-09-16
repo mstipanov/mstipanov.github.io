@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Sep 2023 14:07:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 13:41:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Veliki trgovački lanci od petka bi trebali snižavati cijene nekih proizvoda - rezultat dogovora u Vladi. Predsjednica Europske komisije Ursula von der Leyen održala posljednji govor o stanju Unije prije europskih izbora. Na sastanku s Vladimirom Putinom, sjevernokorejski predsjednik Kim Jong Un dao potporu Rusiji u ratu s Ukrajinom. Pred nama pogoršanje vremena. Urednica: Mira Barić</description>
     <pubDate>Wed, 13 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/79/4a/20230913-dnevne-novosti-34482801-20230913134031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.09. 2023-09-12</title>
-    <link>https://api.hrt.hr/media/39/f1/20230912-dnevne-novosti-34478922-20230912133525.mp3</link>
-    <description>U Ministarstvu gospodarstva održani su sastanci s predstavnicima velikih trgovačkih lanaca o vraćanju cijena na razinu s kraja prošle godine - navodno je riječ o 365 proizvoda. U obilnim oborinama i poplavama u Libiji poginulo više od dvije tisuće ljudi, najmanje je deset tisuća nestalih. Jesensko zasjedanje Sabora počinje 19. ovog mjeseca, zastupnici će prvo raspraviti Zakon o izbornim jedinicama te paket poreznih zakona. Ministar Branko Bačić ponovno na Banovini - provodi se javna nabava za tisuću i sto novih gradilišta, čime će se ubrzati obnova. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 12 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/39/f1/20230912-dnevne-novosti-34478922-20230912133525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
