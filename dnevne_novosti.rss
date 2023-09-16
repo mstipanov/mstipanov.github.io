@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Sep 2023 13:41:22 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 14:11:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.09. 2023-09-16</title>
+    <link>https://api.hrt.hr/media/f7/f3/20230916-dnevne-novosti-34492452-20230916134025.mp3</link>
+    <description>Agencija Standard and Poor's potvrdila kreditni rejting Hrvatske BBB+, ali i poboljšala izglede iz stabilnih u pozitivne. Sandra Benčić iz stranke Možemo istaknula kandidaturu za premijerku. U gradu heroju obilježava se 32. obljetnica Bitke za Vukovar. Umro je dubrovački pjevač zabavne glazbe Milo Hrnić. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 16 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/f3/20230916-dnevne-novosti-34492452-20230916134025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.09. 2023-09-15</title>
     <link>https://api.hrt.hr/media/7c/a9/20230915-dnevne-novosti-34489973-20230915134104.mp3</link>
     <description>Reakcije na Vladin paket pomoći. Dio trgovaca, ali i proizvođača i dobavljača kritizira ograničenje cijena pojedinih proizvoda. Drama s migrantima na Lampedusi - u nekoliko dana stiglo oko 7 tisuća ljudi, prihvatni centar pretrpan. Sud u Rijeci novčano i zatvorom kaznio dvojicu okrivljenika koji su na utakmici Hrvatska-Latvija istaknuli zakonom zabranjenu zastavu.Urednica Mira Barić</description>
