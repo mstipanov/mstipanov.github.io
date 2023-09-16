@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Sep 2023 21:08:25 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 21:12:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.09. 2023-09-16</title>
+    <link>https://api.hrt.hr/media/66/b8/20230916-kronika-dana-34493140-20230916204023.mp3</link>
+    <description>Agencija Standard and Poor's potvrdila kreditni rejting i poboljšala izglede Hrvatske. Ministar Filipović najavio niže cijene za širu lepezu proizvoda u trgovinama. Sandra Benčić kandidatkinja stranke Možemo! za premijerku. Obilježena 32-ga obljetnica Bitke za Vukovar. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 16 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/66/b8/20230916-kronika-dana-34493140-20230916204023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.09. 2023-09-15</title>
     <link>https://api.hrt.hr/media/f5/b1/20230915-kronika-dana-34490874-20230915203559.mp3</link>
     <description>Ponovno masovni dolazak migranata na talijanski otok Lampedusu, veliki je pritisak i na Hrvatsku. Nakon objave Vladinih mjera snižavaju se cijene nekih proizvoda, a komentari oporbe ne prestaju. Otvorene su Vinkovačke jeseni. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nakon razgovora u Vladi neki trgovci u petak počinju snižavati cijene. Novim izmjenama zakona o suzbijanju nasilja nad ženama, udruge su iznimno zadovoljne. Povjerenstvo za odlučivanje o sukoba interesa bavit će se slučajem ministra Gordana Grlića Radmana. Urednica: Sanja Cota</description>
     <pubDate>Wed, 13 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8a/50/20230913-kronika-dana-34483829-20230913203532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.09. 2023-09-12</title>
-    <link>https://api.hrt.hr/media/d8/24/20230912-kronika-dana-34480153-20230912204027.mp3</link>
-    <description>Trgovci načelno poduprli Vladinu inicijativu o snižavanju cijena. Tisuće poginulih i nestalih u olujnom nevremenu i poplavama u Libiji, nestale cijele četvrti i naselja. Republikanci pokreću istragu radi opoziva predsjednika Joea Bidena. Urednica: Mira Barić</description>
-    <pubDate>Tue, 12 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d8/24/20230912-kronika-dana-34480153-20230912204027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
