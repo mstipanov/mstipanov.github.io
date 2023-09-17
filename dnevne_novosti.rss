@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Sep 2023 14:11:31 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 13:48:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.09. 2023-09-17</title>
+    <link>https://api.hrt.hr/media/86/c5/20230917-dnevne-novosti-34494554-20230917133556.mp3</link>
+    <description>Nakon dogovora Vlade i trgovačkih lanaca - od sutra niže cijene 30 proizvoda. Jača migrantska kriza - na talijanskom otoku Lampedusi dvostruko više migranata nego stanovnika. Sinoć veliki prosvjed, a danas je na otok stigla i predsjednica Europske komisije Ursula von der Layen. Večeras završavaju Vinkovačke jeseni. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 17 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/86/c5/20230917-dnevne-novosti-34494554-20230917133556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.09. 2023-09-16</title>
     <link>https://api.hrt.hr/media/f7/f3/20230916-dnevne-novosti-34492452-20230916134025.mp3</link>
     <description>Agencija Standard and Poor's potvrdila kreditni rejting Hrvatske BBB+, ali i poboljšala izglede iz stabilnih u pozitivne. Sandra Benčić iz stranke Možemo istaknula kandidaturu za premijerku. U gradu heroju obilježava se 32. obljetnica Bitke za Vukovar. Umro je dubrovački pjevač zabavne glazbe Milo Hrnić. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vlada objavila jesenski, peti paket pomoći građanima i gospodarstvu. Zamrzavaju se cijene 30 artikala. Mjere su dobrodošle, no plaće i mirovine trebale bi biti veće, poručuju iz sindikata. Broj poginulih u poplavama u Libiji mogao bi dosegnuti 20 tisuća. Raste i broj poginulih u potresu u Maroku. Predstavljen projekt digitalizacije kulturne baštine u čijoj provedbi sudjeluje i HRT. Blizu Rogoznice ribari ulovili metar i pol dugačkoga mladoga morskog psa, zaštićenu vrstu - Atlantsku psinu. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 14 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b3/b0/20230914-dnevne-novosti-34486470-20230914133550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.09. 2023-09-13</title>
-    <link>https://api.hrt.hr/media/79/4a/20230913-dnevne-novosti-34482801-20230913134031.mp3</link>
-    <description>Veliki trgovački lanci od petka bi trebali snižavati cijene nekih proizvoda - rezultat dogovora u Vladi. Predsjednica Europske komisije Ursula von der Leyen održala posljednji govor o stanju Unije prije europskih izbora. Na sastanku s Vladimirom Putinom, sjevernokorejski predsjednik Kim Jong Un dao potporu Rusiji u ratu s Ukrajinom. Pred nama pogoršanje vremena. Urednica: Mira Barić</description>
-    <pubDate>Wed, 13 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/4a/20230913-dnevne-novosti-34482801-20230913134031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
