@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Sep 2023 21:12:44 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 20:51:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.09. 2023-09-17</title>
+    <link>https://api.hrt.hr/media/77/9c/20230917-kronika-dana-34495217-20230917204054.mp3</link>
+    <description>Od ponoći na snazi Vladina odluka o ograničavanju cijena za 30 proizvoda. Stanje na Lampeduzi izmiče kontroli. U samo dva dana iskrcalo se više migranata nego što otok ima stanovnika. Ministrica poljoprivrede Marija Vučković reagirala na objavljene prizore usmrćenih svinja u Andrijaševcima. Urednica Mira Barić</description>
+    <pubDate>Sun, 17 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/77/9c/20230917-kronika-dana-34495217-20230917204054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.09. 2023-09-16</title>
     <link>https://api.hrt.hr/media/66/b8/20230916-kronika-dana-34493140-20230916204023.mp3</link>
     <description>Agencija Standard and Poor's potvrdila kreditni rejting i poboljšala izglede Hrvatske. Ministar Filipović najavio niže cijene za širu lepezu proizvoda u trgovinama. Sandra Benčić kandidatkinja stranke Možemo! za premijerku. Obilježena 32-ga obljetnica Bitke za Vukovar. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Nakon što je sudjelovao u spašavanju američkog speleologa, tim Hrvatske gorske službe spašavanja vratio se večeras iz Turske. U poplavi koja je pogodila Libiju 11 tisuća poginulih, a nestalo 20 tisuća ljudi. Uredila: Sanja Cota</description>
     <pubDate>Thu, 14 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/64/ac/20230914-kronika-dana-34487555-20230914204049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.09. 2023-09-13</title>
-    <link>https://api.hrt.hr/media/8a/50/20230913-kronika-dana-34483829-20230913203532.mp3</link>
-    <description>Nakon razgovora u Vladi neki trgovci u petak počinju snižavati cijene. Novim izmjenama zakona o suzbijanju nasilja nad ženama, udruge su iznimno zadovoljne. Povjerenstvo za odlučivanje o sukoba interesa bavit će se slučajem ministra Gordana Grlića Radmana. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 13 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8a/50/20230913-kronika-dana-34483829-20230913203532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
