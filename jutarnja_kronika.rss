@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Sep 2023 06:16:42 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 05:53:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.09. 2023-09-18</title>
+    <link>https://api.hrt.hr/media/bd/ab/20230918-jutarnja-kronika-34495789-20230918053552.mp3</link>
+    <description>Od jutros u svim trgovačkim lancima pojeftinjuje 30 proizvoda kojima je Vlada ograničila cijene. U 10 sati svečano će se obilježiti probijanje druge cijevi tunela Učka. Invazija migranata na talijanski otočić Lampedusu - talijanska premijerka traži pomorsku blokadu krijumčarskih ruta sa sjevernoafričke obale. Počelo okupljanje 170 šefova država ili vlada uoči sjednice Opće skupštine UN-a. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 18 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/ab/20230918-jutarnja-kronika-34495789-20230918053552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.09. 2023-09-17</title>
     <link>https://api.hrt.hr/media/0b/6e/20230917-jutarnja-kronika-34493657-20230917053052.mp3</link>
     <description>Agencija Standard and Poor's potvrdila kreditni rejting i poboljšala izglede Hrvatske, čije će gospodarstvo, smatraju, ove godine rasti snažnije nego u većini članica eurozone. Ministar gospodarstva Davor Filipović najavio niže cijene za širu lepezu proizvoda u trgovinama, od sadašnjih 30. Sandra Benčić kandidatkinja je stranke Možemo! za premijerku. Svečanim mimohodom završavaju 58. Vinkovačke jeseni. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Ministar Gordan Grlić Radman ispričao se zbog krivo popunjene imovinske kartice. Oporba traži ostavku. Nastavak ukrajinske ofenzive na istoku zemlje. Počinju Vinkovačke jeseni.</description>
     <pubDate>Fri, 15 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9d/22/20230915-jutarnja-kronika-34488111-20230915053544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.09. 2023-09-14</title>
-    <link>https://api.hrt.hr/media/7b/90/20230914-jutarnja-kronika-34484399-20230914054048.mp3</link>
-    <description>Vlada će predstaviti peti paket mjera za zaštitu kućanstava i gospodarstva od rasta cijena. Nove mjere za suzbijanje nasilja nad ženama. Ukrajinska vojska napala rusku flotu na Krimu - uništila veliki ratni brod i podmornicu. Uspjeh mladih hrvatskih informatičara - na juniorskoj informatičkoj olimpijadi u Gruziji osvojili zlato i dvije bronce. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 14 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7b/90/20230914-jutarnja-kronika-34484399-20230914054048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
