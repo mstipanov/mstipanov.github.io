@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Sep 2023 20:51:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 20:56:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.09. 2023-09-18</title>
+    <link>https://api.hrt.hr/media/47/35/20230918-kronika-dana-34498798-20230918204052.mp3</link>
+    <description>Na snagu stupila Vladina uredba o ograničavanju cijena 30 proizvoda. Građani sniženja uglavnom ne primjećuju. Probijena druga cijev tunela Učke. Idućeg ljeta trebala bi biti u prometu. Aktualnim prijepodnevom, nakon gotovo dvomjesečne ljetne stanke, sutra počinje saborska sjednica. Zadar je danas i sutra središte IT industrije - konferencija "Info-bip Shift " okupila informatičare iz cijelog svijeta. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 18 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/47/35/20230918-kronika-dana-34498798-20230918204052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.09. 2023-09-17</title>
     <link>https://api.hrt.hr/media/77/9c/20230917-kronika-dana-34495217-20230917204054.mp3</link>
     <description>Od ponoći na snazi Vladina odluka o ograničavanju cijena za 30 proizvoda. Stanje na Lampeduzi izmiče kontroli. U samo dva dana iskrcalo se više migranata nego što otok ima stanovnika. Ministrica poljoprivrede Marija Vučković reagirala na objavljene prizore usmrćenih svinja u Andrijaševcima. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ponovno masovni dolazak migranata na talijanski otok Lampedusu, veliki je pritisak i na Hrvatsku. Nakon objave Vladinih mjera snižavaju se cijene nekih proizvoda, a komentari oporbe ne prestaju. Otvorene su Vinkovačke jeseni. Urednica: Sanja Cota</description>
     <pubDate>Fri, 15 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f5/b1/20230915-kronika-dana-34490874-20230915203559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.09. 2023-09-14</title>
-    <link>https://api.hrt.hr/media/64/ac/20230914-kronika-dana-34487555-20230914204049.mp3</link>
-    <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Nakon što je sudjelovao u spašavanju američkog speleologa, tim Hrvatske gorske službe spašavanja vratio se večeras iz Turske. U poplavi koja je pogodila Libiju 11 tisuća poginulih, a nestalo 20 tisuća ljudi. Uredila: Sanja Cota</description>
-    <pubDate>Thu, 14 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/64/ac/20230914-kronika-dana-34487555-20230914204049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
