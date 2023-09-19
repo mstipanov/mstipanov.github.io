@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Sep 2023 20:56:59 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 21:01:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.09. 2023-09-19</title>
+    <link>https://api.hrt.hr/media/9c/55/20230919-kronika-dana-34502521-20230919203507.mp3</link>
+    <description>Na Aktualnom prijepodnevu u Saboru opširni premijerovi odgovori nisu zadovoljili oporbu koja ocjenjuje da je zaobišao sve bitno. Ministarstvo gospodarstva objavilo - potrošačka košarica, u odnosu prema kraju prošle godine, gotovo deset posto jeftinija. Azerbajdžan i Armenija ponovno u sukobu zbog Gorskog Karabaha. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 19 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9c/55/20230919-kronika-dana-34502521-20230919203507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.09. 2023-09-18</title>
     <link>https://api.hrt.hr/media/47/35/20230918-kronika-dana-34498798-20230918204052.mp3</link>
     <description>Na snagu stupila Vladina uredba o ograničavanju cijena 30 proizvoda. Građani sniženja uglavnom ne primjećuju. Probijena druga cijev tunela Učke. Idućeg ljeta trebala bi biti u prometu. Aktualnim prijepodnevom, nakon gotovo dvomjesečne ljetne stanke, sutra počinje saborska sjednica. Zadar je danas i sutra središte IT industrije - konferencija "Info-bip Shift " okupila informatičare iz cijelog svijeta. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Agencija Standard and Poor's potvrdila kreditni rejting i poboljšala izglede Hrvatske. Ministar Filipović najavio niže cijene za širu lepezu proizvoda u trgovinama. Sandra Benčić kandidatkinja stranke Možemo! za premijerku. Obilježena 32-ga obljetnica Bitke za Vukovar. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 16 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/66/b8/20230916-kronika-dana-34493140-20230916204023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.09. 2023-09-15</title>
-    <link>https://api.hrt.hr/media/f5/b1/20230915-kronika-dana-34490874-20230915203559.mp3</link>
-    <description>Ponovno masovni dolazak migranata na talijanski otok Lampedusu, veliki je pritisak i na Hrvatsku. Nakon objave Vladinih mjera snižavaju se cijene nekih proizvoda, a komentari oporbe ne prestaju. Otvorene su Vinkovačke jeseni. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 15 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f5/b1/20230915-kronika-dana-34490874-20230915203559.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
