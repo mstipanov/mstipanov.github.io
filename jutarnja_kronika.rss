@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Sep 2023 05:53:10 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 05:58:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.09. 2023-09-19</title>
+    <link>https://api.hrt.hr/media/89/16/20230919-jutarnja-kronika-34499387-20230919053005.mp3</link>
+    <description>Zastupnici ponovno u saborskim klupama - počinje jesensko zasjedanje Sabora. U New Yorku prvi dan Opće skupštine UN-a - za govornicom i ukrajinski predsjednik Zelenski. Rusi noćas iz zraka napali Lavov, građani u skloništima. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 19 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/89/16/20230919-jutarnja-kronika-34499387-20230919053005.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.09. 2023-09-18</title>
     <link>https://api.hrt.hr/media/bd/ab/20230918-jutarnja-kronika-34495789-20230918053552.mp3</link>
     <description>Od jutros u svim trgovačkim lancima pojeftinjuje 30 proizvoda kojima je Vlada ograničila cijene. U 10 sati svečano će se obilježiti probijanje druge cijevi tunela Učka. Invazija migranata na talijanski otočić Lampedusu - talijanska premijerka traži pomorsku blokadu krijumčarskih ruta sa sjevernoafričke obale. Počelo okupljanje 170 šefova država ili vlada uoči sjednice Opće skupštine UN-a. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U Vukovaru se obilježava 32. obljetnica Bitke za Vukovar koja je trajala 87 dana i ostala sinonim za obranu u Domovinskom ratu. Agencija Standard &amp; Poor's potvrdila je rejting Hrvatske BBB+, te poboljšala izglede iz stabilnih u pozitivne. Predsjednik Milanović putuje u Kanadu i Sjedinjene Države.na udaru novog vala migranata. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 16 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/b3/20230916-jutarnja-kronika-34491396-20230916053523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.09. 2023-09-15</title>
-    <link>https://api.hrt.hr/media/9d/22/20230915-jutarnja-kronika-34488111-20230915053544.mp3</link>
-    <description>Predstavljen peti Vladin paket pomoći. Ograničavaju se cijene 30 proizvoda, cijena struje ostaje ista. Ministar Gordan Grlić Radman ispričao se zbog krivo popunjene imovinske kartice. Oporba traži ostavku. Nastavak ukrajinske ofenzive na istoku zemlje. Počinju Vinkovačke jeseni.</description>
-    <pubDate>Fri, 15 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/22/20230915-jutarnja-kronika-34488111-20230915053544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
