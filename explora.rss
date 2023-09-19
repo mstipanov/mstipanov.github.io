@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 12 Sep 2023 16:24:29 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 16:30:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 19.09.2023. 2023-09-19</title>
+    <link>https://api.hrt.hr/media/2c/d5/20230919-explora-7987300-20230919161005.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 19 Sep 2023 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/d5/20230919-explora-7987300-20230919161005.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 12.09.2023. 2023-09-12</title>
     <link>https://api.hrt.hr/media/17/f7/20230912-explora-7985063-20230912161025.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -98,14 +106,6 @@ Evenki o Tunguskoj eksploziji. Korado putuje u Rusiju. Tunguska nije bila jedina
 Zašto žene pristaju biti ljubavnice?</description>
     <pubDate>Tue, 18 Jul 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/87/e6/20230718-explora-7968234-20230718151058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 11.07.2023. 2023-07-11</title>
-    <link>https://api.hrt.hr/media/25/0a/20230711-explora-7966542-20230711161557.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta. U ovoj emisiji - U zaostatku s odgovorima na pitanja. Svemirski brod u Tihom oceanu. Uran i uranij. Limski zaljev nije fjord. Između jave i priče. Tesla i ostali. Znanstvena metoda i revizionizam. Elektromagnetsko zagađenje. Kako nastaje stres? Bioritam. Istra - terra magica. Nema žohara. O Suncu i ljetnim vrućinama. Urbani vrtovi i proizvodnja vlastite hrane. Istra - terra magica dva. Kraj povijesti.</description>
-    <pubDate>Tue, 11 Jul 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/0a/20230711-explora-7966542-20230711161557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
