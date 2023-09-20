@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Sep 2023 20:36:18 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 21:06:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.09. 2023-09-20</title>
+    <link>https://api.hrt.hr/media/0c/09/20230920-kronika-dana-34506252-20230920204051.mp3</link>
+    <description>Cijeli dan u Saboru rasprava o Konačnom prijedlogu Zakona o izbornim jedinicama. Oporba i HDZ nimalo nisu približili stajališta. Ukrajinski predsjednik Zelenski na Vijeću sigurnosti kritizirao UN zbog neispunjavanja svoje uloge u rješavanju svjetskih sukoba te pozvao da se Moskvi oduzme pravo veta u Vijeću. Za SOS Dječje selo Lekenik odigrana nogometna utakmica humanih zvijezda. Urednica: Mira Barić</description>
+    <pubDate>Wed, 20 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0c/09/20230920-kronika-dana-34506252-20230920204051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.09. 2023-09-19</title>
     <link>https://api.hrt.hr/media/9c/55/20230919-kronika-dana-34502521-20230919203507.mp3</link>
     <description>Na Aktualnom prijepodnevu u Saboru opširni premijerovi odgovori nisu zadovoljili oporbu koja ocjenjuje da je zaobišao sve bitno. Ministarstvo gospodarstva objavilo - potrošačka košarica, u odnosu prema kraju prošle godine, gotovo deset posto jeftinija. Azerbajdžan i Armenija ponovno u sukobu zbog Gorskog Karabaha. Urednica: Sanja Cota</description>
