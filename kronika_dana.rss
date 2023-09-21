@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Sep 2023 21:06:24 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 21:13:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.09. 2023-09-21</title>
+    <link>https://api.hrt.hr/media/2a/7f/20230921-kronika-dana-34510133-20230921204041.mp3</link>
+    <description>Na granici s BiH pucalo se na policiju iz smjera migranata spriječenih da ilegalno uđu u Hrvatsku. Vlada predlaže novog direktora Hrvatskog operatora tržišta energije - umjesto Borisa Abramovića koji je prvi upozorio na viškove HEP-ova domaćeg plina koji se poslije prodavao i po jedan cent. Radnici riječke Čistoće i dalje u štrajku jer ne prihvaćaju povećanje plaće za 15 posto. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 21 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2a/7f/20230921-kronika-dana-34510133-20230921204041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.09. 2023-09-20</title>
     <link>https://api.hrt.hr/media/0c/09/20230920-kronika-dana-34506252-20230920204051.mp3</link>
     <description>Cijeli dan u Saboru rasprava o Konačnom prijedlogu Zakona o izbornim jedinicama. Oporba i HDZ nimalo nisu približili stajališta. Ukrajinski predsjednik Zelenski na Vijeću sigurnosti kritizirao UN zbog neispunjavanja svoje uloge u rješavanju svjetskih sukoba te pozvao da se Moskvi oduzme pravo veta u Vijeću. Za SOS Dječje selo Lekenik odigrana nogometna utakmica humanih zvijezda. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Na snagu stupila Vladina uredba o ograničavanju cijena 30 proizvoda. Građani sniženja uglavnom ne primjećuju. Probijena druga cijev tunela Učke. Idućeg ljeta trebala bi biti u prometu. Aktualnim prijepodnevom, nakon gotovo dvomjesečne ljetne stanke, sutra počinje saborska sjednica. Zadar je danas i sutra središte IT industrije - konferencija "Info-bip Shift " okupila informatičare iz cijelog svijeta. Urednik: Silvio Šop</description>
     <pubDate>Mon, 18 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/47/35/20230918-kronika-dana-34498798-20230918204052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.09. 2023-09-17</title>
-    <link>https://api.hrt.hr/media/77/9c/20230917-kronika-dana-34495217-20230917204054.mp3</link>
-    <description>Od ponoći na snazi Vladina odluka o ograničavanju cijena za 30 proizvoda. Stanje na Lampeduzi izmiče kontroli. U samo dva dana iskrcalo se više migranata nego što otok ima stanovnika. Ministrica poljoprivrede Marija Vučković reagirala na objavljene prizore usmrćenih svinja u Andrijaševcima. Urednica Mira Barić</description>
-    <pubDate>Sun, 17 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/77/9c/20230917-kronika-dana-34495217-20230917204054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
