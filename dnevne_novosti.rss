@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Sep 2023 14:04:46 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 14:10:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.09. 2023-09-21</title>
+    <link>https://api.hrt.hr/media/52/d8/20230921-dnevne-novosti-34509080-20230921134033.mp3</link>
+    <description>Na hrvatsku graničnu policiju na karlovačkom području ispaljeno nekoliko hitaca - još nije jasno tko je pucao. U Saboru rasprava o paketu poreznih zakona. Oporba smatra da je riječ o predizbornom kupovanju glasova preko leđa velikih gradova. Poljska najavila da više neće slati oružje Ukrajini. Drugi dan štrajka zaposlenika riječke Čistoće - prvi put u 30 godina štrajka svih 440 radnika. Urednica: Mira Barić</description>
+    <pubDate>Thu, 21 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/52/d8/20230921-dnevne-novosti-34509080-20230921134033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.09. 2023-09-20</title>
     <link>https://api.hrt.hr/media/7b/7a/20230920-dnevne-novosti-34505252-20230920133550.mp3</link>
     <description>Pred Saborom je Zakon o izbornim jedinicama, oporbi najsporniji registar birača kojih je više nego stanovnika. Pred Općom skupštinom UN-a danas će govoriti predsjednik Milanović, a na Vijeću sigurnosti moguć je ukrajinsko-ruski sastanak Zelenski-Lavrov. Armenci pristali na ruski prijedlog o prekidu vatre s Azerbajdžanom koji je jučer pokrenuo vojnu akciju u Gorskom Karabahu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U trgovinama ograničene cijene 30 prehrambenih i higijenskih proizvoda - svi su posebno označeni kako bi bili vidljiviji. Na Učki probijena druga cijev tunela Učke, koja će već sljedećeg ljeta ubrzati put od Zagreba do Pule. Skandal u Poljskoj zbog nezakonitog izdavanja šengenskih viza. Urednica: Mira Barić</description>
     <pubDate>Mon, 18 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/75/20230918-dnevne-novosti-34497763-20230918133552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.09. 2023-09-17</title>
-    <link>https://api.hrt.hr/media/86/c5/20230917-dnevne-novosti-34494554-20230917133556.mp3</link>
-    <description>Nakon dogovora Vlade i trgovačkih lanaca - od sutra niže cijene 30 proizvoda. Jača migrantska kriza - na talijanskom otoku Lampedusi dvostruko više migranata nego stanovnika. Sinoć veliki prosvjed, a danas je na otok stigla i predsjednica Europske komisije Ursula von der Layen. Večeras završavaju Vinkovačke jeseni. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 17 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/86/c5/20230917-dnevne-novosti-34494554-20230917133556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
