@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Sep 2023 16:33:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 16:11:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Bertoša o migracijama 2023-09-21</title>
+    <link>https://api.hrt.hr/media/d9/73/20230921-historia-histriae-7987071-20230921161036.mp3</link>
+    <description>Nastavljamo reprize emisija s Miroslavom Bertošom. Ovog puta govorimo o migracijama uslijed burnog 17. stoljeća u Istri. </description>
+    <pubDate>Thu, 21 Sep 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d9/73/20230921-historia-histriae-7987071-20230921161036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Bertosa o Uskockom ratu 2023-09-14</title>
     <link>https://api.hrt.hr/media/33/5c/20230914-historia-histriae-7984012-20230914160050.mp3</link>
     <description>Prisjećamo se Miroslava Bertoše koji nam priča o Uskočkom ratu u Istri. </description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 04 May 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d4/cc/20230504-historia-histriae-7945750-20230504201055.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>DARKO KOMSO 2023-04-27</title>
-    <link>https://api.hrt.hr/media/a6/67/20230427-historia-histriae-7943737-20230427155507.mp3</link>
-    <description>Dvije tisuće godina stara pozornica ponovo se vraća svojoj izvornoj funkciji.....priču o Malom rimskom kazalištu donosi nam ravnatelj Arheološkog muzeja Istre Darko Komšo. </description>
-    <pubDate>Thu, 27 Apr 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a6/67/20230427-historia-histriae-7943737-20230427155507.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
