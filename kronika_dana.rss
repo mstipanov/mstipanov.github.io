@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Sep 2023 21:13:32 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 20:47:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.09. 2023-09-22</title>
+    <link>https://api.hrt.hr/media/ce/d7/20230922-kronika-dana-34514086-20230922204100.mp3</link>
+    <description>Osječkom policajcu, kojeg DORH sumnjiči za ubojstvo djevojke, određen jednomjesečni istražni zatvor. Nacionalni je dan borbe protiv nasilja nad ženama. Radnici riječke Čistoće prekinuli štrajk. Plaće se povećavaju za 20 posto. Ukrajina preuzela odgovornost za napad na sjedište ruske Crnomorske flote na Krimu. Šibenčani obilježili godišnjicu Rujanskog rata i obranu grada u Domovinskom ratu. Otvorene 53-će Varaždinske barokne večeri. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 22 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ce/d7/20230922-kronika-dana-34514086-20230922204100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.09. 2023-09-21</title>
     <link>https://api.hrt.hr/media/2a/7f/20230921-kronika-dana-34510133-20230921204041.mp3</link>
     <description>Na granici s BiH pucalo se na policiju iz smjera migranata spriječenih da ilegalno uđu u Hrvatsku. Vlada predlaže novog direktora Hrvatskog operatora tržišta energije - umjesto Borisa Abramovića koji je prvi upozorio na viškove HEP-ova domaćeg plina koji se poslije prodavao i po jedan cent. Radnici riječke Čistoće i dalje u štrajku jer ne prihvaćaju povećanje plaće za 15 posto. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na Aktualnom prijepodnevu u Saboru opširni premijerovi odgovori nisu zadovoljili oporbu koja ocjenjuje da je zaobišao sve bitno. Ministarstvo gospodarstva objavilo - potrošačka košarica, u odnosu prema kraju prošle godine, gotovo deset posto jeftinija. Azerbajdžan i Armenija ponovno u sukobu zbog Gorskog Karabaha. Urednica: Sanja Cota</description>
     <pubDate>Tue, 19 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9c/55/20230919-kronika-dana-34502521-20230919203507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.09. 2023-09-18</title>
-    <link>https://api.hrt.hr/media/47/35/20230918-kronika-dana-34498798-20230918204052.mp3</link>
-    <description>Na snagu stupila Vladina uredba o ograničavanju cijena 30 proizvoda. Građani sniženja uglavnom ne primjećuju. Probijena druga cijev tunela Učke. Idućeg ljeta trebala bi biti u prometu. Aktualnim prijepodnevom, nakon gotovo dvomjesečne ljetne stanke, sutra počinje saborska sjednica. Zadar je danas i sutra središte IT industrije - konferencija "Info-bip Shift " okupila informatičare iz cijelog svijeta. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 18 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/47/35/20230918-kronika-dana-34498798-20230918204052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
