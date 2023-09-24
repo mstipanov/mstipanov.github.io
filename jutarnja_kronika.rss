@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 23 Sep 2023 05:49:19 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 05:55:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.09. 2023-09-24</title>
+    <link>https://api.hrt.hr/media/21/3e/20230924-jutarnja-kronika-34516903-20230924053544.mp3</link>
+    <description>Nakon europskog uhidbenog naloga iz Grčke, jednom od uhićenih Bad blue boysa određen istražni zatvor, a za jednim navijačem još se traga. Osječka policija tvrdi da nije zataškavala slučaj ubojstva 21-godišnje studentice za koje se sumnjiči njihov službenik. U govoru pred Općom skupštinom UN-a ruski ministar vanjskih poslova Sergej Lavrov obrušio se na Sjedinjene Države, a Zapad nazvao carstvom laži. Urednica: Mira Barić</description>
+    <pubDate>Sun, 24 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/21/3e/20230924-jutarnja-kronika-34516903-20230924053544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.09. 2023-09-23</title>
     <link>https://api.hrt.hr/media/5c/ec/20230923-jutarnja-kronika-34514657-20230923053550.mp3</link>
     <description>Od utorka novo poskupljenje goriva - cijene benzina i dizela mogle bi se izjednačiti. Grčke vlasti traže izručenje još desetak Dinamovih navijača. Predsjednik Milanović odgovorio Vučiću i Komšiću. Poljski premijer poručio ukrajinskom predsjedniku da ne vrijeđa Poljake. Prvi je dan jeseni! Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Sabor će raspravljati o poreznim zakonima koji su sastavni dio porezne reforme. Na vladinoj sjednici očekuju se mjere pomoći poljoprivrednicima čija su gospodarstva pogođena svinjskom kugom. Predsjednik Milanović u govoru na Općoj skupštini UN-a istaknuo važnost očuvanja te organizacije i rješavanja otvorenih pitanja sa susjedima u jugoistočnoj Europi. U Osijeku se otvara obnovljena zgrada željezničkog kolodvora. U Dubrovniku - izložba posvećena Andyju Warholu. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 21 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d5/3d/20230921-jutarnja-kronika-34506817-20230921053519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.09. 2023-09-20</title>
-    <link>https://api.hrt.hr/media/ac/75/20230920-jutarnja-kronika-34503066-20230920053050.mp3</link>
-    <description>U Saboru rasprava o konačnom prijedlogu Zakona o izbornim jedinicama. Na sjednici vijeća sigurnosti UN-a za trebali bi sudjelovati ukrajinski predsjednik Volodimir Zelenski i ruski ministar vanjskih poslova Sergej Lavrov. 25 osoba poginulo je u borbama u Gorskom Karabahu nakon što su Azerbajdžanske snage pokrenule protuterorističku akciju na tu regiju, uglavnom naseljenu Armencima. Policija će pojačanim nadzorom pokušati ostvariti da danas nema poginulih u prometu. Urednica: Marija Gerbec Njavro.</description>
-    <pubDate>Wed, 20 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ac/75/20230920-jutarnja-kronika-34503066-20230920053050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
