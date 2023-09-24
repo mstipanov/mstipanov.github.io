@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 23 Sep 2023 20:54:02 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 20:58:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.09. 2023-09-24</title>
+    <link>https://api.hrt.hr/media/58/dd/20230924-kronika-dana-34518343-20230924204511.mp3</link>
+    <description>Preispitat će se hoće li na temelju europskog uhidbenog naloga hrvatski građani biti izručeni Grčkoj, izjavio ministar pravosuđa o još desetorici Dinamovih navijača koje traži Grčka. Srbi na sjeveru Kosova ubili policajca pa upali u manastir, trojicu napadača ubila kosovska policija. Nikada nećemo priznati nezavisno Kosovo, izjavio srbijanski predsjednik Vučić. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 24 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/58/dd/20230924-kronika-dana-34518343-20230924204511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.09. 2023-09-23</title>
     <link>https://api.hrt.hr/media/37/00/20230923-kronika-dana-34516345-20230923204053.mp3</link>
     <description>Grčka zatražila uhićenje deset Bad Blue Boysa, hrvatska policija privela devetoricu. 27-godišnji policajac namjerno je pucao u osječku studenticu, objavilo Državno odvjetništvo, policija tvrdi da nisu zataškavali slučaj. Ruski ministar vanjskih poslova Lavrov za govornicom UN-a nazvao Zapad carstvom laži. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na granici s BiH pucalo se na policiju iz smjera migranata spriječenih da ilegalno uđu u Hrvatsku. Vlada predlaže novog direktora Hrvatskog operatora tržišta energije - umjesto Borisa Abramovića koji je prvi upozorio na viškove HEP-ova domaćeg plina koji se poslije prodavao i po jedan cent. Radnici riječke Čistoće i dalje u štrajku jer ne prihvaćaju povećanje plaće za 15 posto. Urednica: Sanja Cota</description>
     <pubDate>Thu, 21 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2a/7f/20230921-kronika-dana-34510133-20230921204041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.09. 2023-09-20</title>
-    <link>https://api.hrt.hr/media/0c/09/20230920-kronika-dana-34506252-20230920204051.mp3</link>
-    <description>Cijeli dan u Saboru rasprava o Konačnom prijedlogu Zakona o izbornim jedinicama. Oporba i HDZ nimalo nisu približili stajališta. Ukrajinski predsjednik Zelenski na Vijeću sigurnosti kritizirao UN zbog neispunjavanja svoje uloge u rješavanju svjetskih sukoba te pozvao da se Moskvi oduzme pravo veta u Vijeću. Za SOS Dječje selo Lekenik odigrana nogometna utakmica humanih zvijezda. Urednica: Mira Barić</description>
-    <pubDate>Wed, 20 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0c/09/20230920-kronika-dana-34506252-20230920204051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
