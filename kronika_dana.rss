@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 24 Sep 2023 20:58:04 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 21:02:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.09. 2023-09-25</title>
+    <link>https://api.hrt.hr/media/26/d1/20230925-kronika-dana-34521956-20230925204013.mp3</link>
+    <description>Kod Dubrovnika spašen još jedan kajakaš, traga se za dvojicom od njih 11 koji su zbog nepovoljnih vremenskih uvjeta nestali u kajacima.Od ponoći poskupljuje gorivo - cijena benzina i dizela bit će izjednačena - euro i 62 centa po litri.Dinamo održao dugoočekivanu skupštinu kluba, izabrani su novi Izvršni odbor i Nadzorni odbor čime je završila višemjesečna borba za prevlast u klubu.Urednica: Mira Barić</description>
+    <pubDate>Mon, 25 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/26/d1/20230925-kronika-dana-34521956-20230925204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.09. 2023-09-24</title>
     <link>https://api.hrt.hr/media/58/dd/20230924-kronika-dana-34518343-20230924204511.mp3</link>
     <description>Preispitat će se hoće li na temelju europskog uhidbenog naloga hrvatski građani biti izručeni Grčkoj, izjavio ministar pravosuđa o još desetorici Dinamovih navijača koje traži Grčka. Srbi na sjeveru Kosova ubili policajca pa upali u manastir, trojicu napadača ubila kosovska policija. Nikada nećemo priznati nezavisno Kosovo, izjavio srbijanski predsjednik Vučić. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Osječkom policajcu, kojeg DORH sumnjiči za ubojstvo djevojke, određen jednomjesečni istražni zatvor. Nacionalni je dan borbe protiv nasilja nad ženama. Radnici riječke Čistoće prekinuli štrajk. Plaće se povećavaju za 20 posto. Ukrajina preuzela odgovornost za napad na sjedište ruske Crnomorske flote na Krimu. Šibenčani obilježili godišnjicu Rujanskog rata i obranu grada u Domovinskom ratu. Otvorene 53-će Varaždinske barokne večeri. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 22 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/d7/20230922-kronika-dana-34514086-20230922204100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.09. 2023-09-21</title>
-    <link>https://api.hrt.hr/media/2a/7f/20230921-kronika-dana-34510133-20230921204041.mp3</link>
-    <description>Na granici s BiH pucalo se na policiju iz smjera migranata spriječenih da ilegalno uđu u Hrvatsku. Vlada predlaže novog direktora Hrvatskog operatora tržišta energije - umjesto Borisa Abramovića koji je prvi upozorio na viškove HEP-ova domaćeg plina koji se poslije prodavao i po jedan cent. Radnici riječke Čistoće i dalje u štrajku jer ne prihvaćaju povećanje plaće za 15 posto. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 21 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/7f/20230921-kronika-dana-34510133-20230921204041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
