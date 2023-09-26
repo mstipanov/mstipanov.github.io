@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Sep 2023 14:01:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 13:37:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Prema europskom uhidbenom nalogu koji je došao iz Atene, policija uhitila devet članova navijačke skupine Bad Blue Boys, a za desetim se traga. Istraga bi trebala otkriti u kakvim je okolnostima poginula 21-godišnja djevojka iz Osijeka, koju je hicem iz službenog pištolja ubio 27-godišnji policajac. Devetero ljudi, među kojima i dvojica generala, poginulo je u ukrajinskom zračnom napadu na crnomorski stožer ruske mornarice u Sevastopolju. Urednica: Mira Barić</description>
     <pubDate>Sat, 23 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/e4/20230923-dnevne-novosti-34515655-20230923134051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.09. 2023-09-22</title>
-    <link>https://api.hrt.hr/media/f6/4f/20230922-dnevne-novosti-34513129-20230922134103.mp3</link>
-    <description>Odlazak čovjeka koji je prvi upozorio na nepravilnosti u HEP-u. Za Vladu riječ je o isteku mandata, za oporbu - smjena. Nacionalni je dan borbe protiv nasilja nad ženama. Ukrajina napala Sevastopolj na Krimu, uništen stožer ruske Crnomorske flote. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 22 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/4f/20230922-dnevne-novosti-34513129-20230922134103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
