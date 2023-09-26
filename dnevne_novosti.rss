@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Sep 2023 13:37:22 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 14:07:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.09. 2023-09-26</title>
+    <link>https://api.hrt.hr/media/ab/63/20230926-dnevne-novosti-34524350-20230926134532.mp3</link>
+    <description>Policija nastavlja potragu za dvjema osobama koje smatraju nestalima u prevrtanju kajaka u dubrovačkom akvatoriju. Slučaj šestogodišnje djevojčice za koju čak 31-na ustanova nije pronašla smještaj svjedoči o gorućem problemu u Hrvatskoj. U Banskim dvorima sastanak premijera Plenkovića s koalicijskim partnerima. Jedna od tema - moguća smjena šefa HEP-a Frane Barbarića. Ako Sjedinjene Države prodaju borbene zrakoplove F-16 Turskoj, Ankara će dati potporu kandidaturi Švedske za primanje u NATO. Urednica: Mira Barić</description>
+    <pubDate>Tue, 26 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ab/63/20230926-dnevne-novosti-34524350-20230926134532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.09. 2023-09-25</title>
     <link>https://api.hrt.hr/media/b6/e6/20230925-dnevne-novosti-34521111-20230925134012.mp3</link>
     <description>Na Kosovu izrazito napeto nakon jučerašnjeg napada naoružane skupine Srba u kojem je poginuo jedan kosovski policajac. Rusi snažno raketirali ukrajinsku luku Odesu, Ukrajinci tvrde da su ubili zapovjednika ruske crnomorske flote. Od ponoći ponovno poskupljuju i dizel i benzin, cijena oba derivata bit će izjednačena. Partneri u vladajućoj koaliciji zbog afera "plin za cent" i nelegalne gradnje vile na Hvaru očekuju da premijer Andrej Plenković smijeni predsjednika Uprave HEP-a Franu Barbarića. Urednik: Silvio Šop</description>
