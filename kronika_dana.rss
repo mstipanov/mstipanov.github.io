@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Sep 2023 21:02:26 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 21:08:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.09. 2023-09-26</title>
+    <link>https://api.hrt.hr/media/40/84/20230926-kronika-dana-34525181-20230926203538.mp3</link>
+    <description>Lučka kapetanija završila, a policija nastavlja potragu za nestalim kajakašima u dubrovačkom akvatoriju. Šestogodišnja djevojčica s autizmom, za koju u 31-noj ustanovi nije pronađen smještaj, privremeno zbrinuta u Centru Slave Raškaj. Na današnjem sastanku vladajućih nije se razgovaralo o smjeni predsjednika Uprave HEP-a Frane Barbarića. Nastavlja se egzodus Armenaca iz Gorskog Karabaha. Na sjeveru Kosova i dalje napeto.
+Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 26 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/84/20230926-kronika-dana-34525181-20230926203538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.09. 2023-09-25</title>
     <link>https://api.hrt.hr/media/26/d1/20230925-kronika-dana-34521956-20230925204013.mp3</link>
     <description>Kod Dubrovnika spašen još jedan kajakaš, traga se za dvojicom od njih 11 koji su zbog nepovoljnih vremenskih uvjeta nestali u kajacima.Od ponoći poskupljuje gorivo - cijena benzina i dizela bit će izjednačena - euro i 62 centa po litri.Dinamo održao dugoočekivanu skupštinu kluba, izabrani su novi Izvršni odbor i Nadzorni odbor čime je završila višemjesečna borba za prevlast u klubu.Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Grčka zatražila uhićenje deset Bad Blue Boysa, hrvatska policija privela devetoricu. 27-godišnji policajac namjerno je pucao u osječku studenticu, objavilo Državno odvjetništvo, policija tvrdi da nisu zataškavali slučaj. Ruski ministar vanjskih poslova Lavrov za govornicom UN-a nazvao Zapad carstvom laži. Urednica: Sanja Cota</description>
     <pubDate>Sat, 23 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/37/00/20230923-kronika-dana-34516345-20230923204053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.09. 2023-09-22</title>
-    <link>https://api.hrt.hr/media/ce/d7/20230922-kronika-dana-34514086-20230922204100.mp3</link>
-    <description>Osječkom policajcu, kojeg DORH sumnjiči za ubojstvo djevojke, određen jednomjesečni istražni zatvor. Nacionalni je dan borbe protiv nasilja nad ženama. Radnici riječke Čistoće prekinuli štrajk. Plaće se povećavaju za 20 posto. Ukrajina preuzela odgovornost za napad na sjedište ruske Crnomorske flote na Krimu. Šibenčani obilježili godišnjicu Rujanskog rata i obranu grada u Domovinskom ratu. Otvorene 53-će Varaždinske barokne večeri. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 22 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ce/d7/20230922-kronika-dana-34514086-20230922204100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
