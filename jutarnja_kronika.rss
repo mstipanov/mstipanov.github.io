@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Sep 2023 06:06:04 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 05:40:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.09. 2023-09-27</title>
+    <link>https://api.hrt.hr/media/08/d9/20230927-jutarnja-kronika-34525707-20230927053509.mp3</link>
+    <description>Drugi put ove godine u Sabor dolazi glavna državna odvjetnica Zlata Hrvoj-Šipek. Šestogodišnja djevojčica s autizmom, za koju u 31-noj ustanovi nije pronađen smještaj, privremeno zbrinuta u Centru Slave Raškaj. Nastavlja se egzodus Armenaca iz Gorskog Karabaha. U Splitu počinje 6. Mediteranski festival knjige, u Zagrebu međunarodni festival eksperimentalnog filma. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 27 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/d9/20230927-jutarnja-kronika-34525707-20230927053509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.09. 2023-09-26</title>
     <link>https://api.hrt.hr/media/34/9a/20230926-jutarnja-kronika-34522551-20230926053531.mp3</link>
     <description>Kod Dubrovnika se nastavlja potraga za još dvojicom kajakaša od njih 11 koji su jučer nestali na moru. Od ponoći ponovno skuplje gorivo - cijena benzina i dizela je izjednačena, euro i 62 centa po litri. Raspravom o prijedlozima izmjena Kaznenog zakona i Zakona o odgovornosti pravnih osoba za kaznena djela Sabor nastavlja sjednicu. Na Zagrebačkom velesajmu počinju četiri sajma i festival. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon europskog uhidbenog naloga iz Grčke, jednom od uhićenih Bad blue boysa određen istražni zatvor, a za jednim navijačem još se traga. Osječka policija tvrdi da nije zataškavala slučaj ubojstva 21-godišnje studentice za koje se sumnjiči njihov službenik. U govoru pred Općom skupštinom UN-a ruski ministar vanjskih poslova Sergej Lavrov obrušio se na Sjedinjene Države, a Zapad nazvao carstvom laži. Urednica: Mira Barić</description>
     <pubDate>Sun, 24 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/3e/20230924-jutarnja-kronika-34516903-20230924053544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.09. 2023-09-23</title>
-    <link>https://api.hrt.hr/media/5c/ec/20230923-jutarnja-kronika-34514657-20230923053550.mp3</link>
-    <description>Od utorka novo poskupljenje goriva - cijene benzina i dizela mogle bi se izjednačiti. Grčke vlasti traže izručenje još desetak Dinamovih navijača. Predsjednik Milanović odgovorio Vučiću i Komšiću. Poljski premijer poručio ukrajinskom predsjedniku da ne vrijeđa Poljake. Prvi je dan jeseni! Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 23 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/ec/20230923-jutarnja-kronika-34514657-20230923053550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
