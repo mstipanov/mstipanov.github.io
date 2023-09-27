@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Sep 2023 14:07:28 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 14:11:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Dvojici privedenih navijača, čije izručenje traži Grčka, određen istražni zatvor. Dvojici samo mjere opreza. Nove napetosti između Kosova i Srbije nakon što je ubijen kosovski policajac. Agencija Standard &amp; Poors povećala kreditni rejting Grada Zagreba. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 24 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/53/20230924-dnevne-novosti-34517724-20230924133510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.09. 2023-09-23</title>
-    <link>https://api.hrt.hr/media/72/e4/20230923-dnevne-novosti-34515655-20230923134051.mp3</link>
-    <description>Prema europskom uhidbenom nalogu koji je došao iz Atene, policija uhitila devet članova navijačke skupine Bad Blue Boys, a za desetim se traga. Istraga bi trebala otkriti u kakvim je okolnostima poginula 21-godišnja djevojka iz Osijeka, koju je hicem iz službenog pištolja ubio 27-godišnji policajac. Devetero ljudi, među kojima i dvojica generala, poginulo je u ukrajinskom zračnom napadu na crnomorski stožer ruske mornarice u Sevastopolju. Urednica: Mira Barić</description>
-    <pubDate>Sat, 23 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/72/e4/20230923-dnevne-novosti-34515655-20230923134051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
