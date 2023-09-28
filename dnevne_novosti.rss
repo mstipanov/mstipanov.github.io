@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Sep 2023 14:11:45 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 14:18:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.09. 2023-09-28</title>
+    <link>https://api.hrt.hr/media/22/5e/20230928-dnevne-novosti-34531360-20230928135539.mp3</link>
+    <description>U Saboru donesen Zakon o izbornim jedinicama, no oporba će tražiti ocjenu njegove ustavnosti. Krijumčarenje ljudi najveći je problem ilegalnih migracija u Europsku uniju - u Bruxellesu rekao ministar Božinović. Domovinska i iseljena Hrvatska zajednički nastoje obnoviti gospodarstvo Banovine nakon potresa. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 28 Sep 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/22/5e/20230928-dnevne-novosti-34531360-20230928135539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.09. 2023-09-26</title>
     <link>https://api.hrt.hr/media/ab/63/20230926-dnevne-novosti-34524350-20230926134532.mp3</link>
     <description>Policija nastavlja potragu za dvjema osobama koje smatraju nestalima u prevrtanju kajaka u dubrovačkom akvatoriju. Slučaj šestogodišnje djevojčice za koju čak 31-na ustanova nije pronašla smještaj svjedoči o gorućem problemu u Hrvatskoj. U Banskim dvorima sastanak premijera Plenkovića s koalicijskim partnerima. Jedna od tema - moguća smjena šefa HEP-a Frane Barbarića. Ako Sjedinjene Države prodaju borbene zrakoplove F-16 Turskoj, Ankara će dati potporu kandidaturi Švedske za primanje u NATO. Urednica: Mira Barić</description>
@@ -23,14 +31,6 @@
     <description>Na Kosovu izrazito napeto nakon jučerašnjeg napada naoružane skupine Srba u kojem je poginuo jedan kosovski policajac. Rusi snažno raketirali ukrajinsku luku Odesu, Ukrajinci tvrde da su ubili zapovjednika ruske crnomorske flote. Od ponoći ponovno poskupljuju i dizel i benzin, cijena oba derivata bit će izjednačena. Partneri u vladajućoj koaliciji zbog afera "plin za cent" i nelegalne gradnje vile na Hvaru očekuju da premijer Andrej Plenković smijeni predsjednika Uprave HEP-a Franu Barbarića. Urednik: Silvio Šop</description>
     <pubDate>Mon, 25 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/e6/20230925-dnevne-novosti-34521111-20230925134012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.09. 2023-09-24</title>
-    <link>https://api.hrt.hr/media/69/53/20230924-dnevne-novosti-34517724-20230924133510.mp3</link>
-    <description>Dvojici privedenih navijača, čije izručenje traži Grčka, određen istražni zatvor. Dvojici samo mjere opreza. Nove napetosti između Kosova i Srbije nakon što je ubijen kosovski policajac. Agencija Standard &amp; Poors povećala kreditni rejting Grada Zagreba. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 24 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/53/20230924-dnevne-novosti-34517724-20230924133510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
