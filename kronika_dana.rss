@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 28 Sep 2023 20:49:25 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 20:53:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.09. 2023-09-29</title>
+    <link>https://api.hrt.hr/media/13/e3/20230929-kronika-dana-34535832-20230929204002.mp3</link>
+    <description>Inflacija se ovaj mjesec usporila, no Hrvatska ima znatno veći rast cijena od prosjeka eurozone. U Švedskoj golemi rast broja ubojstava, sukoba bandi i kriminala, premijer Kristersson u pomoć pozvao vojsku. Nakon što su pretražene njegove luksuzne vile - neformalni čelnik kosovskih Srba Milan Radoičić priznao da je organizirao napad na kosovsku policiju. Urednica: Mira Barić</description>
+    <pubDate>Fri, 29 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/e3/20230929-kronika-dana-34535832-20230929204002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.09. 2023-09-28</title>
     <link>https://api.hrt.hr/media/31/87/20230928-kronika-dana-34532283-20230928204039.mp3</link>
     <description>Na Malti sutra sastanak na vrhu sredozemnih zemalja članica Europske unije, glavna tema - borba protiv nezakonitih migracija. Glavni tajnik NATO-a Jens Stoltenberg stigao je u svoj drugi posjet Kijevu od početka ruske invazije na Ukrajinu i obećao nastavak vojne pomoći. Policija istražuje ljudske kosti koje su pronađene na ilegalnom odlagalištu građevinskog otpada u središtu Karlovca. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 26 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/84/20230926-kronika-dana-34525181-20230926203538.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.09. 2023-09-25</title>
-    <link>https://api.hrt.hr/media/26/d1/20230925-kronika-dana-34521956-20230925204013.mp3</link>
-    <description>Kod Dubrovnika spašen još jedan kajakaš, traga se za dvojicom od njih 11 koji su zbog nepovoljnih vremenskih uvjeta nestali u kajacima.Od ponoći poskupljuje gorivo - cijena benzina i dizela bit će izjednačena - euro i 62 centa po litri.Dinamo održao dugoočekivanu skupštinu kluba, izabrani su novi Izvršni odbor i Nadzorni odbor čime je završila višemjesečna borba za prevlast u klubu.Urednica: Mira Barić</description>
-    <pubDate>Mon, 25 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/d1/20230925-kronika-dana-34521956-20230925204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
