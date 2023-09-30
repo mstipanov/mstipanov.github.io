@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 29 Sep 2023 05:50:46 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 05:54:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.09. 2023-09-30</title>
+    <link>https://api.hrt.hr/media/81/af/20230930-jutarnja-kronika-34536331-20230930053511.mp3</link>
+    <description>Dobra vijest - inflacija se ovaj mjesec usporila, loša - Hrvatska ima znatno veći rast cijena od prosjeka eurozone. Neformalni čelnik kosovskih Srba Milan Radoičić priznao da je organizirao napad na kosovsku policiju. U Slovačkoj se održavaju prijevremeni parlamentarni izbori. "Operom bez riječi" počinje još jedan ciklus "Lisinski subotom".
+Urednik: Silvio Šop</description>
+    <pubDate>Sat, 30 Sep 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/81/af/20230930-jutarnja-kronika-34536331-20230930053511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.09. 2023-09-29</title>
     <link>https://api.hrt.hr/media/9e/f7/20230929-jutarnja-kronika-34532836-20230929053501.mp3</link>
     <description>Stariji muškarac, koji je sinoć aktivirao ekplozivnu napravu u Kloštar Ivaniću, od ozljeda umro u bolnici. Na Malti će se održati sastanak na vrhu sredozemnih zemalja članica Europske unije, glavna tema je borba protiv nezakonitih migracija. Policija obilježava svoj dan, blagdan svetog Mihovila. Večeras dvije premijere: u riječkom HNK-u opere "Anna Bolena", u zagrebačkoj Žar ptici "Šume Striborove". Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>Drugi put ove godine u Sabor dolazi glavna državna odvjetnica Zlata Hrvoj-Šipek. Šestogodišnja djevojčica s autizmom, za koju u 31-noj ustanovi nije pronađen smještaj, privremeno zbrinuta u Centru Slave Raškaj. Nastavlja se egzodus Armenaca iz Gorskog Karabaha. U Splitu počinje 6. Mediteranski festival knjige, u Zagrebu međunarodni festival eksperimentalnog filma. Urednik: Silvio Šop</description>
     <pubDate>Wed, 27 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/08/d9/20230927-jutarnja-kronika-34525707-20230927053509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.09. 2023-09-26</title>
-    <link>https://api.hrt.hr/media/34/9a/20230926-jutarnja-kronika-34522551-20230926053531.mp3</link>
-    <description>Kod Dubrovnika se nastavlja potraga za još dvojicom kajakaša od njih 11 koji su jučer nestali na moru. Od ponoći ponovno skuplje gorivo - cijena benzina i dizela je izjednačena, euro i 62 centa po litri. Raspravom o prijedlozima izmjena Kaznenog zakona i Zakona o odgovornosti pravnih osoba za kaznena djela Sabor nastavlja sjednicu. Na Zagrebačkom velesajmu počinju četiri sajma i festival. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 26 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/9a/20230926-jutarnja-kronika-34522551-20230926053531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
