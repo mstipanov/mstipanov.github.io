@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 29 Sep 2023 20:53:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 20:56:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.09. 2023-09-30</title>
+    <link>https://api.hrt.hr/media/bf/49/20230930-kronika-dana-34537969-20230930204011.mp3</link>
+    <description>Gospićki policajac osumnjičen za silovanje dobio još jednu kaznenu prijavu zbog dječje pornografije. U Slovačkoj u 22 sata zatvorena birališta, prema zadnjim anketama izjednačeni su bili proruski i prozapadni kandidat. Nakon oluje New York pod vodom, devetero ljudi poginulo. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 30 Sep 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bf/49/20230930-kronika-dana-34537969-20230930204011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.09. 2023-09-29</title>
     <link>https://api.hrt.hr/media/13/e3/20230929-kronika-dana-34535832-20230929204002.mp3</link>
     <description>Inflacija se ovaj mjesec usporila, no Hrvatska ima znatno veći rast cijena od prosjeka eurozone. U Švedskoj golemi rast broja ubojstava, sukoba bandi i kriminala, premijer Kristersson u pomoć pozvao vojsku. Nakon što su pretražene njegove luksuzne vile - neformalni čelnik kosovskih Srba Milan Radoičić priznao da je organizirao napad na kosovsku policiju. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>Zbog sve više migranata, Slovenija pojačala policijski nadzor uz hrvatsku granicu. Zlata Hrvoj-Šipek više se neće kandidirati za glavnu državnu odvjetnicu, a i u ovim trenutcima podnosi Saboru izvješće o radu Državnog odvjetništva. Američki speleolog došao u Zagreb zahvaliti našim gorskim spašavateljima koji su imali ključnu ulogu u njegovu izvlačenju iz špilje u Turskoj. Urednica: Sanja Cota</description>
     <pubDate>Wed, 27 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/72/20230927-kronika-dana-34529030-20230927204012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.09. 2023-09-26</title>
-    <link>https://api.hrt.hr/media/40/84/20230926-kronika-dana-34525181-20230926203538.mp3</link>
-    <description>Lučka kapetanija završila, a policija nastavlja potragu za nestalim kajakašima u dubrovačkom akvatoriju. Šestogodišnja djevojčica s autizmom, za koju u 31-noj ustanovi nije pronađen smještaj, privremeno zbrinuta u Centru Slave Raškaj. Na današnjem sastanku vladajućih nije se razgovaralo o smjeni predsjednika Uprave HEP-a Frane Barbarića. Nastavlja se egzodus Armenaca iz Gorskog Karabaha. Na sjeveru Kosova i dalje napeto.
-Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 26 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/40/84/20230926-kronika-dana-34525181-20230926203538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
