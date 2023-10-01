@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 30 Sep 2023 05:54:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 05:58:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.10. 2023-10-01</title>
+    <link>https://api.hrt.hr/media/ff/9e/20231001-jutarnja-kronika-34538532-20231001053013.mp3</link>
+    <description>Na izborima u Slovačkoj pobjeda proruskog bivšeg premijera Roberta Fica. Obećao je da će ukinuti vojnu pomoć Ukrajini. Nogometni derbi Hajduka i Dinama u Splitu - utakmica visokog rizika. Na Poljudu se očekuje 30 tisuća ljudi. Utrka Terry Fox na zagrebačkom Jarunu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 01 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/9e/20231001-jutarnja-kronika-34538532-20231001053013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.09. 2023-09-30</title>
     <link>https://api.hrt.hr/media/81/af/20230930-jutarnja-kronika-34536331-20230930053511.mp3</link>
     <description>Dobra vijest - inflacija se ovaj mjesec usporila, loša - Hrvatska ima znatno veći rast cijena od prosjeka eurozone. Neformalni čelnik kosovskih Srba Milan Radoičić priznao da je organizirao napad na kosovsku policiju. U Slovačkoj se održavaju prijevremeni parlamentarni izbori. "Operom bez riječi" počinje još jedan ciklus "Lisinski subotom".
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Gotovo do tri ujutro trajala je burna saborska rasprava o izvješću glavne državne odvjetnice Zlate Hrvoj-Šipek. U Ministarstvu rada počinju pregovori Vlade i 11 sindikata državnih i javnih službi o dodatku kolektivnim ugovorima. Politika prema migrantima bit će među glavnim temama sastanka ministara unutarnjih poslova Europske unije u Briselu. Predsjednica Europske komisije na sastanku Europskih pučana u Splitu. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 28 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3d/7f/20230928-jutarnja-kronika-34529545-20230928053038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.09. 2023-09-27</title>
-    <link>https://api.hrt.hr/media/08/d9/20230927-jutarnja-kronika-34525707-20230927053509.mp3</link>
-    <description>Drugi put ove godine u Sabor dolazi glavna državna odvjetnica Zlata Hrvoj-Šipek. Šestogodišnja djevojčica s autizmom, za koju u 31-noj ustanovi nije pronađen smještaj, privremeno zbrinuta u Centru Slave Raškaj. Nastavlja se egzodus Armenaca iz Gorskog Karabaha. U Splitu počinje 6. Mediteranski festival knjige, u Zagrebu međunarodni festival eksperimentalnog filma. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 27 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/08/d9/20230927-jutarnja-kronika-34525707-20230927053509.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
