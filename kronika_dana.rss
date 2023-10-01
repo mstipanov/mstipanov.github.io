@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 30 Sep 2023 20:56:59 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 21:01:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.10. 2023-10-01</title>
+    <link>https://api.hrt.hr/media/55/b2/20231001-kronika-dana-34540070-20231001204513.mp3</link>
+    <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 01 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/55/b2/20231001-kronika-dana-34540070-20231001204513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.09. 2023-09-30</title>
     <link>https://api.hrt.hr/media/bf/49/20230930-kronika-dana-34537969-20230930204011.mp3</link>
     <description>Gospićki policajac osumnjičen za silovanje dobio još jednu kaznenu prijavu zbog dječje pornografije. U Slovačkoj u 22 sata zatvorena birališta, prema zadnjim anketama izjednačeni su bili proruski i prozapadni kandidat. Nakon oluje New York pod vodom, devetero ljudi poginulo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na Malti sutra sastanak na vrhu sredozemnih zemalja članica Europske unije, glavna tema - borba protiv nezakonitih migracija. Glavni tajnik NATO-a Jens Stoltenberg stigao je u svoj drugi posjet Kijevu od početka ruske invazije na Ukrajinu i obećao nastavak vojne pomoći. Policija istražuje ljudske kosti koje su pronađene na ilegalnom odlagalištu građevinskog otpada u središtu Karlovca. Urednica: Mira Barić</description>
     <pubDate>Thu, 28 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/87/20230928-kronika-dana-34532283-20230928204039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.09. 2023-09-27</title>
-    <link>https://api.hrt.hr/media/0b/72/20230927-kronika-dana-34529030-20230927204012.mp3</link>
-    <description>Zbog sve više migranata, Slovenija pojačala policijski nadzor uz hrvatsku granicu. Zlata Hrvoj-Šipek više se neće kandidirati za glavnu državnu odvjetnicu, a i u ovim trenutcima podnosi Saboru izvješće o radu Državnog odvjetništva. Američki speleolog došao u Zagreb zahvaliti našim gorskim spašavateljima koji su imali ključnu ulogu u njegovu izvlačenju iz špilje u Turskoj. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 27 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/72/20230927-kronika-dana-34529030-20230927204012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
