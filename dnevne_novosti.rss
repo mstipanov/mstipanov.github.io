@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Oct 2023 14:00:34 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 14:06:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.10. 2023-10-02</title>
+    <link>https://api.hrt.hr/media/69/52/20231002-dnevne-novosti-34542480-20231002133517.mp3</link>
+    <description>Prvi hrvatski Rafale, koji preuzimamo od Francuske, nosi povijesni broj 170. Ministar Piletić opovrgava da je u Hrvatskoj trenutačno 300 nezbrinute djece bez smještaja. Sud u Ljubuškom ni iz drugog pokušaja nije odredio pritvor bivšem hrvatskom rukometašu Denisu Buntiću. Hrvatski nogometni savez dobio novčanu kaznu UEFA-e od 10 tisuća eura, ali utakmica protiv Turske u Osijeku igrat će se s gledateljima na tribinama. Urednik: Mario Krstanović</description>
+    <pubDate>Mon, 02 Oct 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/69/52/20231002-dnevne-novosti-34542480-20231002133517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.10. 2023-10-01</title>
     <link>https://api.hrt.hr/media/6b/ac/20231001-dnevne-novosti-34539313-20231001134013.mp3</link>
     <description>Hrvatska sutra u francuskoj bazi Mont-de-Marsan pravno zaprima prvi od 12 borbenih zrakoplova Rafala. Teroristički napad u središtu Ankare, jedan napadač poginuo, drugi neutraliziran. Stranka bivšeg premijera Roberta Fica relativni pobjednik prijevremenih parlamentarnih izbora u Slovačkoj. Sport: od 18 sati na Poljudu najveći derbi HNL-a Hajduk - Dinamo. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Inflacija usporava, ali Hrvatska ima znatno veći rast cijena od prosjeka eurozone. Kako zaustaviti ilegalne migracije - tema je skupa mediteranskih zemalja Europske unije u Malti. Švedska suočena s velikim porastom ubojstava, u pomoć pozvana vojska. UEFA odlučila da Hrvatska neće biti kažnjena zbog nereda na stadionu u Armeniji. Urednica: Sanja Cota</description>
     <pubDate>Fri, 29 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/93/20230929-dnevne-novosti-34534917-20230929134002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.09. 2023-09-28</title>
-    <link>https://api.hrt.hr/media/22/5e/20230928-dnevne-novosti-34531360-20230928135539.mp3</link>
-    <description>U Saboru donesen Zakon o izbornim jedinicama, no oporba će tražiti ocjenu njegove ustavnosti. Krijumčarenje ljudi najveći je problem ilegalnih migracija u Europsku uniju - u Bruxellesu rekao ministar Božinović. Domovinska i iseljena Hrvatska zajednički nastoje obnoviti gospodarstvo Banovine nakon potresa. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 28 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/22/5e/20230928-dnevne-novosti-34531360-20230928135539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
