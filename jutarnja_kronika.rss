@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Oct 2023 05:58:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 06:04:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.10. 2023-10-02</title>
+    <link>https://api.hrt.hr/media/f2/d2/20231002-jutarnja-kronika-34540594-20231002054016.mp3</link>
+    <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 02 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f2/d2/20231002-jutarnja-kronika-34540594-20231002054016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.10. 2023-10-01</title>
     <link>https://api.hrt.hr/media/ff/9e/20231001-jutarnja-kronika-34538532-20231001053013.mp3</link>
     <description>Na izborima u Slovačkoj pobjeda proruskog bivšeg premijera Roberta Fica. Obećao je da će ukinuti vojnu pomoć Ukrajini. Nogometni derbi Hajduka i Dinama u Splitu - utakmica visokog rizika. Na Poljudu se očekuje 30 tisuća ljudi. Utrka Terry Fox na zagrebačkom Jarunu. Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Stariji muškarac, koji je sinoć aktivirao ekplozivnu napravu u Kloštar Ivaniću, od ozljeda umro u bolnici. Na Malti će se održati sastanak na vrhu sredozemnih zemalja članica Europske unije, glavna tema je borba protiv nezakonitih migracija. Policija obilježava svoj dan, blagdan svetog Mihovila. Večeras dvije premijere: u riječkom HNK-u opere "Anna Bolena", u zagrebačkoj Žar ptici "Šume Striborove". Urednik: Silvio Šop</description>
     <pubDate>Fri, 29 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/f7/20230929-jutarnja-kronika-34532836-20230929053501.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.09. 2023-09-28</title>
-    <link>https://api.hrt.hr/media/3d/7f/20230928-jutarnja-kronika-34529545-20230928053038.mp3</link>
-    <description>Gotovo do tri ujutro trajala je burna saborska rasprava o izvješću glavne državne odvjetnice Zlate Hrvoj-Šipek. U Ministarstvu rada počinju pregovori Vlade i 11 sindikata državnih i javnih službi o dodatku kolektivnim ugovorima. Politika prema migrantima bit će među glavnim temama sastanka ministara unutarnjih poslova Europske unije u Briselu. Predsjednica Europske komisije na sastanku Europskih pučana u Splitu. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 28 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3d/7f/20230928-jutarnja-kronika-34529545-20230928053038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
