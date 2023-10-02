@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Oct 2023 21:01:56 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 20:37:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.10. 2023-10-02</title>
+    <link>https://api.hrt.hr/media/5b/76/20231002-kronika-dana-34543508-20231002203518.mp3</link>
+    <description>U Francuskoj službena primopredaja prvoga bojnog borbenog zrakoplova Rafalea Hrvatskoj. Albanski premijer Rama u službenom posjetu Zagrebu. U Kijevu iznenadni sastanak ministara vanjskih poslova Europske unije. Jak potres magnitude 4 cijela 4 prema Richteru s epicentrom kod Gruda u Hercegovini. Šteta uglavnom na starijim kućama i krovovima. Godinu dana novog načina prikupljanja otpada u Zagrebu. Vlast zadovoljna, građani negoduju. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 02 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5b/76/20231002-kronika-dana-34543508-20231002203518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.10. 2023-10-01</title>
     <link>https://api.hrt.hr/media/55/b2/20231001-kronika-dana-34540070-20231001204513.mp3</link>
     <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Inflacija se ovaj mjesec usporila, no Hrvatska ima znatno veći rast cijena od prosjeka eurozone. U Švedskoj golemi rast broja ubojstava, sukoba bandi i kriminala, premijer Kristersson u pomoć pozvao vojsku. Nakon što su pretražene njegove luksuzne vile - neformalni čelnik kosovskih Srba Milan Radoičić priznao da je organizirao napad na kosovsku policiju. Urednica: Mira Barić</description>
     <pubDate>Fri, 29 Sep 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/13/e3/20230929-kronika-dana-34535832-20230929204002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.09. 2023-09-28</title>
-    <link>https://api.hrt.hr/media/31/87/20230928-kronika-dana-34532283-20230928204039.mp3</link>
-    <description>Na Malti sutra sastanak na vrhu sredozemnih zemalja članica Europske unije, glavna tema - borba protiv nezakonitih migracija. Glavni tajnik NATO-a Jens Stoltenberg stigao je u svoj drugi posjet Kijevu od početka ruske invazije na Ukrajinu i obećao nastavak vojne pomoći. Policija istražuje ljudske kosti koje su pronađene na ilegalnom odlagalištu građevinskog otpada u središtu Karlovca. Urednica: Mira Barić</description>
-    <pubDate>Thu, 28 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/87/20230928-kronika-dana-34532283-20230928204039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
