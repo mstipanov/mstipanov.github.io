@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Oct 2023 06:04:42 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 05:39:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.10. 2023-10-03</title>
+    <link>https://api.hrt.hr/media/d3/4e/20231003-jutarnja-kronika-34543990-20231003042545.mp3</link>
+    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Tue, 03 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d3/4e/20231003-jutarnja-kronika-34543990-20231003042545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.10. 2023-10-02</title>
     <link>https://api.hrt.hr/media/f2/d2/20231002-jutarnja-kronika-34540594-20231002054016.mp3</link>
     <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednik: Mislav Togonal</description>
@@ -32,14 +40,6 @@
 Urednik: Silvio Šop</description>
     <pubDate>Sat, 30 Sep 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/af/20230930-jutarnja-kronika-34536331-20230930053511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.09. 2023-09-29</title>
-    <link>https://api.hrt.hr/media/9e/f7/20230929-jutarnja-kronika-34532836-20230929053501.mp3</link>
-    <description>Stariji muškarac, koji je sinoć aktivirao ekplozivnu napravu u Kloštar Ivaniću, od ozljeda umro u bolnici. Na Malti će se održati sastanak na vrhu sredozemnih zemalja članica Europske unije, glavna tema je borba protiv nezakonitih migracija. Policija obilježava svoj dan, blagdan svetog Mihovila. Večeras dvije premijere: u riječkom HNK-u opere "Anna Bolena", u zagrebačkoj Žar ptici "Šume Striborove". Urednik: Silvio Šop</description>
-    <pubDate>Fri, 29 Sep 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9e/f7/20230929-jutarnja-kronika-34532836-20230929053501.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
