@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Oct 2023 14:06:28 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 14:11:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.10. 2023-10-03</title>
+    <link>https://api.hrt.hr/media/66/de/20231003-dnevne-novosti-34545890-20231003134046.mp3</link>
+    <description>Na zadarskom području pronađena divlja svinja zaražena svinjskom kugom. Platforma Booking.com kasni s isplatama domaćim iznajmljivačima obiteljskog smještaja. Nezavisni sindikat znanosti i visokog obrazovanja traži od Vlade povećanje plaće za 15 posto. Postignut je prvi dogovor o izvozu ukrajinskog žita preko Poljske. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 03 Oct 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/66/de/20231003-dnevne-novosti-34545890-20231003134046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.10. 2023-10-02</title>
     <link>https://api.hrt.hr/media/69/52/20231002-dnevne-novosti-34542480-20231002133517.mp3</link>
     <description>Prvi hrvatski Rafale, koji preuzimamo od Francuske, nosi povijesni broj 170. Ministar Piletić opovrgava da je u Hrvatskoj trenutačno 300 nezbrinute djece bez smještaja. Sud u Ljubuškom ni iz drugog pokušaja nije odredio pritvor bivšem hrvatskom rukometašu Denisu Buntiću. Hrvatski nogometni savez dobio novčanu kaznu UEFA-e od 10 tisuća eura, ali utakmica protiv Turske u Osijeku igrat će se s gledateljima na tribinama. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Gospićki policajac osumnjičen za silovanje vraćen u pritvor, u mobitelu mu pronašli dječju pornografiju. Premijer Plenković očekuje nastavak pada inflacije. Slovaci na izvanrednim parlamentarnim izborima čiji je ishod potpuno neizvjestan. Bivši premijer Fico najavio prekid isporuke oružja Ukrajini ako pobijedi. Uzbuna u Švedskoj. Ta, do jučer mirna zemlja, postala poprište krvavih sukoba suparničkih bandi. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 30 Sep 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/c4/20230930-dnevne-novosti-34537311-20230930134011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.09. 2023-09-29</title>
-    <link>https://api.hrt.hr/media/81/93/20230929-dnevne-novosti-34534917-20230929134002.mp3</link>
-    <description>Inflacija usporava, ali Hrvatska ima znatno veći rast cijena od prosjeka eurozone. Kako zaustaviti ilegalne migracije - tema je skupa mediteranskih zemalja Europske unije u Malti. Švedska suočena s velikim porastom ubojstava, u pomoć pozvana vojska. UEFA odlučila da Hrvatska neće biti kažnjena zbog nereda na stadionu u Armeniji. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 29 Sep 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/81/93/20230929-dnevne-novosti-34534917-20230929134002.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
