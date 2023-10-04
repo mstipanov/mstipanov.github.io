@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 03 Oct 2023 20:43:20 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 20:47:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.10. 2023-10-04</title>
+    <link>https://api.hrt.hr/media/ed/9a/20231004-kronika-dana-34550701-20231004204511.mp3</link>
+    <description>Iako je lokaliziran golemi požar u osječkom pogonu za preradu plastike, vatra još gori. Večerašnja analiza u gradu i prigradskom naselju Brijestu pokazala da zrak nije onečišćen. U strašnoj prometnoj nesreći u Veneciji među 21-om poginulom osobom je i mlada Splićanka, njezin suprug teško je ozlijeđen. Od poslijepodne u Saboru traje rasprava o opozivu ministra vanjskih poslova. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 04 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ed/9a/20231004-kronika-dana-34550701-20231004204511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.10. 2023-10-03</title>
     <link>https://api.hrt.hr/media/17/70/20231003-kronika-dana-34546661-20231003203547.mp3</link>
     <description>Najmanje 20 poginulih u nesreći talijanskog autobusa u blizini Venecije.Na periferiji Zadra pronađena divlja svinja zaražena afričkom svinjskom kugom. Domaće svinje zasad se neće usmrćivati. Ministar Beroš tvrdi da će se dugovi veledrogerijama riješiti reformom za dvije do tri godine. Poljska i Češka od ponoći uvode kontrole na granici prema Slovačkoj kako bi zaustavile protuzakonite migracije i krijumčare. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednica: Sanja Cota</description>
     <pubDate>Sun, 01 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/55/b2/20231001-kronika-dana-34540070-20231001204513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.09. 2023-09-30</title>
-    <link>https://api.hrt.hr/media/bf/49/20230930-kronika-dana-34537969-20230930204011.mp3</link>
-    <description>Gospićki policajac osumnjičen za silovanje dobio još jednu kaznenu prijavu zbog dječje pornografije. U Slovačkoj u 22 sata zatvorena birališta, prema zadnjim anketama izjednačeni su bili proruski i prozapadni kandidat. Nakon oluje New York pod vodom, devetero ljudi poginulo. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 30 Sep 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/49/20230930-kronika-dana-34537969-20230930204011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
