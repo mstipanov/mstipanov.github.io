@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 04 Oct 2023 20:47:55 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 20:52:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.10. 2023-10-05</title>
+    <link>https://api.hrt.hr/media/37/96/20231005-kronika-dana-34554339-20231005203526.mp3</link>
+    <description>Nakon što je u Osijeku gorjela golema količina plastike istražuju se uzroci požara i posljedice na zdravlje ljudi. Zakon o izbornim jedinicama ponovno bi trebao u saborsku proceduru. Ruski projektil ubio više od 50 ljudi u selu na istoku Ukrajine. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 05 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/37/96/20231005-kronika-dana-34554339-20231005203526.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.10. 2023-10-04</title>
     <link>https://api.hrt.hr/media/ed/9a/20231004-kronika-dana-34550701-20231004204511.mp3</link>
     <description>Iako je lokaliziran golemi požar u osječkom pogonu za preradu plastike, vatra još gori. Večerašnja analiza u gradu i prigradskom naselju Brijestu pokazala da zrak nije onečišćen. U strašnoj prometnoj nesreći u Veneciji među 21-om poginulom osobom je i mlada Splićanka, njezin suprug teško je ozlijeđen. Od poslijepodne u Saboru traje rasprava o opozivu ministra vanjskih poslova. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Francuskoj službena primopredaja prvoga bojnog borbenog zrakoplova Rafalea Hrvatskoj. Albanski premijer Rama u službenom posjetu Zagrebu. U Kijevu iznenadni sastanak ministara vanjskih poslova Europske unije. Jak potres magnitude 4 cijela 4 prema Richteru s epicentrom kod Gruda u Hercegovini. Šteta uglavnom na starijim kućama i krovovima. Godinu dana novog načina prikupljanja otpada u Zagrebu. Vlast zadovoljna, građani negoduju. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 02 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5b/76/20231002-kronika-dana-34543508-20231002203518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.10. 2023-10-01</title>
-    <link>https://api.hrt.hr/media/55/b2/20231001-kronika-dana-34540070-20231001204513.mp3</link>
-    <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 01 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/55/b2/20231001-kronika-dana-34540070-20231001204513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
