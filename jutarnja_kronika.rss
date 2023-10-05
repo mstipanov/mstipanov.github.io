@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 04 Oct 2023 05:45:14 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:49:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.10. 2023-10-05</title>
+    <link>https://api.hrt.hr/media/da/e5/20231005-jutarnja-kronika-34551273-20231005054025.mp3</link>
+    <description>Golemi požar u osječkom pogonu za preradu plastike lokaliziran je, ali traje izdimljavanje i gasit će se još danima. Još se ne zna uzrok teške prometne nesreće autobusa kod Venecije. Među 21-om poginulom osobom je i mlada Splićanka, njezin suprug teško je ozlijeđen. Devet i pol sati Sabor je raspravljao o opozivu šefa diplomacije Gordana Grlića Radmana. U španjolskoj Granadi počinje dvodnevni skup europskih čelnika. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 05 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/da/e5/20231005-jutarnja-kronika-34551273-20231005054025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.10. 2023-10-04</title>
     <link>https://api.hrt.hr/media/65/60/20231004-jutarnja-kronika-34547237-20231004053509.mp3</link>
     <description>Golem požar uskladištene plastike na otvorenom prostoru osječke tvrtke "Drava international" još nije lokaliziran. Tragedija u Italiji - autobus sletio s nadvožnjaka blizu Venecije, najmanje je 21 osoba poginula, a dvadesetak je ozlijeđeno, među kojima i jedan Hrvat. Sabor nastavlja rad raspravom o opozivu šefa diplomacije Gordana Grlića Radmana. U Puli počinje Međunarodni festival izvaninstitucionalnih kazališta - PUF, u Zagrebu Revija malih književnosti. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 02 Oct 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f2/d2/20231002-jutarnja-kronika-34540594-20231002054016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.10. 2023-10-01</title>
-    <link>https://api.hrt.hr/media/ff/9e/20231001-jutarnja-kronika-34538532-20231001053013.mp3</link>
-    <description>Na izborima u Slovačkoj pobjeda proruskog bivšeg premijera Roberta Fica. Obećao je da će ukinuti vojnu pomoć Ukrajini. Nogometni derbi Hajduka i Dinama u Splitu - utakmica visokog rizika. Na Poljudu se očekuje 30 tisuća ljudi. Utrka Terry Fox na zagrebačkom Jarunu. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 01 Oct 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/9e/20231001-jutarnja-kronika-34538532-20231001053013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
