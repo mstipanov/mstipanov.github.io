@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 05 Oct 2023 05:49:41 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 05:54:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.10. 2023-10-06</title>
+    <link>https://api.hrt.hr/media/c7/d7/20231006-jutarnja-kronika-34554941-20231006054013.mp3</link>
+    <description>Nakon obuzdavanja golemog požara plastike u Osijeku najvažnije je pitanje kakve će biti posljedice za zdravlje ljudi. Još se ne zna zbog čega je autobus sletio s nadvožnjaka kod Venecije, pri čemu je poginula 21 osoba, među njima i mlada Solinjanka u šestom mjesecu trudnoće. Poginulo je i pet ukrajinskih državljana, smještenih kao izbjeglice u koreničkom kraju - Dan je žalosti u općini Plitvičkim jezerima. Ruska raketa ubila više od 50 ljudi u selu na istoku Ukrajine. U Granadi će se održati neslužbeni sastanak čelnika 27 država članica, razgovarat će se o gorućim pitanjima Europske unije. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 06 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/d7/20231006-jutarnja-kronika-34554941-20231006054013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.10. 2023-10-05</title>
     <link>https://api.hrt.hr/media/da/e5/20231005-jutarnja-kronika-34551273-20231005054025.mp3</link>
     <description>Golemi požar u osječkom pogonu za preradu plastike lokaliziran je, ali traje izdimljavanje i gasit će se još danima. Još se ne zna uzrok teške prometne nesreće autobusa kod Venecije. Među 21-om poginulom osobom je i mlada Splićanka, njezin suprug teško je ozlijeđen. Devet i pol sati Sabor je raspravljao o opozivu šefa diplomacije Gordana Grlića Radmana. U španjolskoj Granadi počinje dvodnevni skup europskih čelnika. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska preuzela prvi od dvanaest višenamjenskih borbenih zrakoplova Rafalea! U Kijevu sastanak ministara vanjskih poslova Europske unije, prvi u zemlji kandidatkinji zahvaćenoj ratom. U Zagrebu pronađen 19-godišnjak za kojim se tragalo od četvrtka. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 03 Oct 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/43/9a/20231003-jutarnja-kronika-34544082-20231003054050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.10. 2023-10-02</title>
-    <link>https://api.hrt.hr/media/f2/d2/20231002-jutarnja-kronika-34540594-20231002054016.mp3</link>
-    <description>Hrvatska sutra u Francuskoj preuzima prvi od 12 bojnih zrakoplova Rafalea. U Slovačkoj Robert Fico sutra dobiva mandat za sastavljanje nove vlade. I Poljaci uskoro izlaze na izbore, danas na prosvjedima protiv vlade gotovo milijun ljudi. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 02 Oct 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f2/d2/20231002-jutarnja-kronika-34540594-20231002054016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
