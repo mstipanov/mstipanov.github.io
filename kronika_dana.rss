@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Oct 2023 16:17:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 21:02:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.10. 2023-10-22</title>
+    <link>https://api.hrt.hr/media/42/83/20231022-kronika-dana-34606732-20231022204534.mp3</link>
+    <description>Novi konvoj humanitarne pomoći ušao u Gazu. Izraelski premijer, nakon Hamasa, i Hezbollahu zaprijetio potpunim uništenjem, ako se uključi u rat. Ponovno izgred navijača! Bad Blue Boysi na utakmici Dinama i Gorice pjevali ustaške pjesme. Policija pregledava snimke. U 40 godina od prve uspješne izvantjelesne oplodnje u Hrvatskoj, tom metodom rođeno 40 tisuća djece. Čak 18 posto parova u našoj zemlji je neplodno. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 22 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/83/20231022-kronika-dana-34606732-20231022204534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.10. 2023-10-21</title>
     <link>https://api.hrt.hr/media/96/7e/20231021-kronika-dana-34604511-20231021204031.mp3</link>
     <description>Slovenija uvela kontrole na granici, prvi dan nije bilo problema. U pojas Gaze ušli prvi kamioni s humanitarnom pomoći, granični prijelaz s Egiptom ponovno je zatvoren, na ulazak u Gazu čeka 200 kamiona. U Stuttgartu otkrivena spomen-ploča žrtvama UDBE, u 45 godina komunizma najviše Hrvata ubila u Njemačkoj. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zbog povećane opasnosti od terorizma - Slovenija ove subote uvodi privremene kontrole na granici s Hrvatskom. Izraelski ministar obrane svojim vojnicima rekao da će uskoro gledati Gazu iznutra. DNK-analiza potvrdila da na noževima nema tragova uhićenih Bad Blue Boysa. Urednica: Sanja Cota</description>
     <pubDate>Thu, 19 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/20/84/20231019-kronika-dana-34598655-20231019204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.10. 2023-10-18</title>
-    <link>https://api.hrt.hr/media/18/e3/20231018-kronika-dana-34595077-20231018203546.mp3</link>
-    <description>Izrael će dopustiti prolazak humanitarnih konvoja u Pojas Gaze iz Egipta. Sjedinjene Države, zbog nespominjanja prava Izraela na samoobranu, uložile veto na rezoluciju Vijeća sigurnosti UN-a kojom se tražio prekid sukoba Izraela i Hamasa. Slovenija uvodi kontrolu na granici s Hrvatskom i Mađarskom. Vlada će donijeti odluku kojom će se za blagdan Svih svetih iznimno dopustiti prodaja cvijeća i svijeća. Počeo najveći svjetski sajam knjiga u Frankfurtu, atmosferu na otvorenju užario slovenski filozof Slavoj Žižek. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 18 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/e3/20231018-kronika-dana-34595077-20231018203546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
