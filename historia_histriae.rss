@@ -6,10 +6,26 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 05 Oct 2023 16:51:49 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 16:17:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Miroslav Bertosa za 19.10. 2023-10-19</title>
+    <link>https://api.hrt.hr/media/aa/10/20231019-historia-histriae-7995370-20231019151049.mp3</link>
+    <description>Prisjećamo se Miroslava Bertoše i njegovog posljednjeg gostovanja u jeku pandemije koronavirusa. </description>
+    <pubDate>Thu, 19 Oct 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/aa/10/20231019-historia-histriae-7995370-20231019151049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Vlado Petelinec za Historiu 12.10. 2023-10-12</title>
+    <link>https://api.hrt.hr/media/99/3b/20231012-historia-histriae-7994271-20231012160024.mp3</link>
+    <description>U goste nam dolazi pilot helikoptera Vlado Petelinec!</description>
+    <pubDate>Thu, 12 Oct 2023 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/3b/20231012-historia-histriae-7994271-20231012160024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>MATE CURIC ZA HISTORIU 5.10. 2023-10-05</title>
     <link>https://api.hrt.hr/media/6b/14/20231005-historia-histriae-7992176-20231005164525.mp3</link>
     <description>Poznati novinar Mate Ćurić dolazi nam u goste i progovara o mnogim intrigantnim povijesnim temama koje su vezane za odluke o sjedinjenju Istre s maticom domovinom. O svemu tome piše u svojoj novoj knjizi "Istrajavanje: pogled iz mrtvog ugla". </description>
@@ -71,22 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 01 Jun 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/5f/20230601-historia-histriae-7954877-20230601160033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>TVRĐAVA PULA 2023-05-25</title>
-    <link>https://api.hrt.hr/media/d0/93/20230525-historia-histriae-7952927-20230525160023.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 25 May 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/93/20230525-historia-histriae-7952927-20230525160023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Povijest Pule i nogometa uz braću Banana 2023-05-18</title>
-    <link>https://api.hrt.hr/media/b7/30/20230518-historia-histriae-7943075-20230518150544.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 18 May 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/30/20230518-historia-histriae-7943075-20230518150544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
