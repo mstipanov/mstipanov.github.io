@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Oct 2023 14:05:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 13:38:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Slovenija od ponoći ponovno uvela kontrole na granici s našom zemljom. Iako se na nekim prijelazima čekalo, putnici uglavnom podupiru pojačane kontrole. U pojas Gaze ušli prvi kamioni koji dostavljaju humanitarnu pomoć. U Kairu mirovni sastanak na vrhu, ali bez predstavnika Izraela i Hamasa. Danska na udaru oluje za koju se procjenjuje da je najsnažnija u više od stotinu godina. Urednica: Mario Krstanović</description>
     <pubDate>Sat, 21 Oct 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/b4/20231021-dnevne-novosti-34603699-20231021134030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.10. 2023-10-20</title>
-    <link>https://api.hrt.hr/media/fc/9c/20231020-dnevne-novosti-34601324-20231020134051.mp3</link>
-    <description>Još se ne zna kad bi stanovništvu Gaze mogla stići humanitarna pomoć. U posljednjim napadima Izrael sa zemljom sravnio četvrt s 25 zgrada. Od ponoći će na snazi ponovno biti privremene kontrole na granici sa Slovenijom. Sindikati državnih i javnih službi zadovoljni novom Vladinom ponudom o petpostotnom povećanju plaća. Urednica: Mira Barić</description>
-    <pubDate>Fri, 20 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fc/9c/20231020-dnevne-novosti-34601324-20231020134051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
