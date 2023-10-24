@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Oct 2023 21:06:08 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 20:39:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Slovenija uvela kontrole na granici, prvi dan nije bilo problema. U pojas Gaze ušli prvi kamioni s humanitarnom pomoći, granični prijelaz s Egiptom ponovno je zatvoren, na ulazak u Gazu čeka 200 kamiona. U Stuttgartu otkrivena spomen-ploča žrtvama UDBE, u 45 godina komunizma najviše Hrvata ubila u Njemačkoj. Urednica: Sanja Cota</description>
     <pubDate>Sat, 21 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/96/7e/20231021-kronika-dana-34604511-20231021204031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.10. 2023-10-20</title>
-    <link>https://api.hrt.hr/media/38/ef/20231020-kronika-dana-34602199-20231020203551.mp3</link>
-    <description>Hamas oslobodio dvije američke taokinje, pojas Gaze i dalje pod izraelskim napadima. Od ponoći ponovno privremene kontrole na granici sa Slovenijom, trajat će najmanje deset dana. Djeca Milorada Dodika pod američkim sankcijama, State Department procjenjuje da su dio mreže koja potkopava Daytonski sporazum i autoritet visokog predstavnika šireći korupciju. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 20 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/ef/20231020-kronika-dana-34602199-20231020203551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
