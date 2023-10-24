@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Oct 2023 06:03:53 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 05:37:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.10. 2023-10-24</title>
+    <link>https://api.hrt.hr/media/d1/48/20231024-jutarnja-kronika-34610705-20231024053025.mp3</link>
+    <description>Nakon Amerikanki Hamas oslobodio još dvije Izraelke. Granicu s Egiptom prešao je i treći konvoj s humanitarnom pomoći. Premijer Plenković Saboru predaje godišnje izvješće o radu Vlade. Sindikati državnih i javnih službi trebaju se do 12 sati izjasniti prihvaćaju li posljednju Vladinu ponudu o povećanju osnovice plaće za 5 posto. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 24 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d1/48/20231024-jutarnja-kronika-34610705-20231024053025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.10. 2023-10-23</title>
     <link>https://api.hrt.hr/media/c2/0b/20231023-jutarnja-kronika-34607256-20231023053534.mp3</link>
     <description>Izraelsko zrakoplovstvo rano jutros bombardiralo područja oko triju bolnica u Gazi te dvije ćelije Hezbollaha u Libanonu. Slovenski ministar unutarnjih poslova Poklukar očekuje da će se kontrole na granici s Hrvatskom produljiti i nakon 10 dana. Na zagrebačkome Medicinskom fakultetu svečano obilježavanje 40-e godišnjice prve izvantjelesne oplodnje u Hrvatskoj. U zgrebačkoj galeriji Događanja u centru KNAP počinje 21. Festival prvih. Urednik: Silvio Šop</description>
@@ -23,14 +31,6 @@
     <description>Izrael prijeti da će pojačati napade na Gazu, UN upozorava na katastrofalnu situaciju na tom području te da djeca umiru alarmantnom brzinom. Prvog dana otkako je Slovenija uvela kontrole - nije se čekalo na prelazak granice. Urednica: Mira Barić</description>
     <pubDate>Sun, 22 Oct 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/d1/20231022-jutarnja-kronika-34605050-20231022053032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.10. 2023-10-20</title>
-    <link>https://api.hrt.hr/media/5f/65/20231020-jutarnja-kronika-34599269-20231020053551.mp3</link>
-    <description>Slovenija od sutra uvodi kontrole na granici s Hrvatskom. Trajat će najmanje 10 dana. Otvaranje graničnog prijelaza Rafaha, preko kojeg treba stići humanitarna pomoć u Gazu, odgođeno za sutra, javlja CNN. Američki predsjednik Joe Biden u obraćanju naciji zatražio potporu za novi paket pomoći Izraelu i Ukrajini, vrijedan 70 milijardi dolara. U splitskom HNK-u premijera Mozartove opere Čarobna frula. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 20 Oct 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5f/65/20231020-jutarnja-kronika-34599269-20231020053551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
