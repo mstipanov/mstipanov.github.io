@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 24 Oct 2023 13:38:45 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 14:08:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.10. 2023-10-24</title>
+    <link>https://api.hrt.hr/media/fd/51/20231024-dnevne-novosti-34613176-20231024135525.mp3</link>
+    <description>Izvješće premijera Plenkovića o stanju države i nacije oporba u Saboru ometala lupanjem po stolovima. Izrael i dalje gađa ciljeve u Gazi, Palestinci objavili da je ubijeno ukupno pet tisuća 800 ljudi. 40 godina zatvora dobio Filip Zavadlav na ponovljenom suđenju za trostruko ubojstvo. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 24 Oct 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/51/20231024-dnevne-novosti-34613176-20231024135525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.10. 2023-10-23</title>
     <link>https://api.hrt.hr/media/61/d4/20231023-dnevne-novosti-34609187-20231023134034.mp3</link>
     <description>Jedan od najsmrtonosnijih zračnih napada Izraela na pojas Gaze, u kojemu je poginulo više od 400 ljudi. Najveća policijska akcija u migrantskim kampovima na području Bosne i Hercegovine, dvije osobe uhićene, a 17 protjerano iz države. U Hrvatskoj prije 40 godina na današnji dan rođeno prvo dijete s pomoću umjetne oplodnje. Izbornik Dalić dobio jednoglasnu podršku HNS-a. Urednica: Mira Barić</description>
