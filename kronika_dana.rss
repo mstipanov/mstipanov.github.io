@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 24 Oct 2023 21:10:03 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 20:46:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.10. 2023-10-25</title>
+    <link>https://api.hrt.hr/media/3b/aa/20231025-kronika-dana-34618232-20231025204040.mp3</link>
+    <description>Izraelski premijer Benjamin Netanyahu u izvanrednom obraćanju javnosti najavio kopnenu invaziju na Gazu. Sjedinjene Države predlažu humanitarni prekid vatre. Vlada potpisala Dodatak Kolektivnom ugovoru s deset sindikata javnih i državnih službenika, plaće im rastu već od ovoga mjeseca, povećava se božićnica, a uvodi i uskrsnica. Ne prestaju reakcije na najavu sinjskoga gradonačelnika Mire Bulja da će zbog ilegalnih migranata u Cetinskoj krajini organizirati samozaštitu građana. Urednica: Mira Barić</description>
+    <pubDate>Wed, 25 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3b/aa/20231025-kronika-dana-34618232-20231025204040.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.10. 2023-10-24</title>
     <link>https://api.hrt.hr/media/81/60/20231024-kronika-dana-34614106-20231024204012.mp3</link>
     <description>Dok je premijer Andrej Plenković podnosio Izvješće o radu Vlade, oporbeni zastupnici lupali po klupama. Deset od jedanaest sindikata javnih službi i sindikati državnih službi prihvatili Vladinu ponudu za rast plaća. Velik broj raketa ispaljen iz Gaze na Izrael. Glavni tajnik UN-a Antonio Guterres izjavom o sukobu na Bliskom istoku naljutio Izrael. Vlada će platiti trošak zbrinjavanja varaždinskoga baliranog komunalnog otpada, koji se gomila već 18 godina. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Novi konvoj humanitarne pomoći ušao u Gazu. Izraelski premijer, nakon Hamasa, i Hezbollahu zaprijetio potpunim uništenjem, ako se uključi u rat. Ponovno izgred navijača! Bad Blue Boysi na utakmici Dinama i Gorice pjevali ustaške pjesme. Policija pregledava snimke. U 40 godina od prve uspješne izvantjelesne oplodnje u Hrvatskoj, tom metodom rođeno 40 tisuća djece. Čak 18 posto parova u našoj zemlji je neplodno. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 22 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/83/20231022-kronika-dana-34606732-20231022204534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.10. 2023-10-21</title>
-    <link>https://api.hrt.hr/media/96/7e/20231021-kronika-dana-34604511-20231021204031.mp3</link>
-    <description>Slovenija uvela kontrole na granici, prvi dan nije bilo problema. U pojas Gaze ušli prvi kamioni s humanitarnom pomoći, granični prijelaz s Egiptom ponovno je zatvoren, na ulazak u Gazu čeka 200 kamiona. U Stuttgartu otkrivena spomen-ploča žrtvama UDBE, u 45 godina komunizma najviše Hrvata ubila u Njemačkoj. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 21 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/96/7e/20231021-kronika-dana-34604511-20231021204031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
