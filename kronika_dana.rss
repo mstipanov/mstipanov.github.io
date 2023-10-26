@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 25 Oct 2023 20:46:12 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 20:43:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.10. 2023-10-26</title>
+    <link>https://api.hrt.hr/media/61/ea/20231026-kronika-dana-34621799-20231026204019.mp3</link>
+    <description>Provodi se vrlo opsežna istraga o nesreći u kojoj je kombi na autocesti kod Gospića usmrtio dva motociklista iz Nepala. Više od tristo policajaca traži u Americi masovnog ubojicu 18-ero ljudi. Izaslanstvo Hamasa u posjetu Moskvi. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 26 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/ea/20231026-kronika-dana-34621799-20231026204019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.10. 2023-10-25</title>
     <link>https://api.hrt.hr/media/3b/aa/20231025-kronika-dana-34618232-20231025204040.mp3</link>
     <description>Izraelski premijer Benjamin Netanyahu u izvanrednom obraćanju javnosti najavio kopnenu invaziju na Gazu. Sjedinjene Države predlažu humanitarni prekid vatre. Vlada potpisala Dodatak Kolektivnom ugovoru s deset sindikata javnih i državnih službenika, plaće im rastu već od ovoga mjeseca, povećava se božićnica, a uvodi i uskrsnica. Ne prestaju reakcije na najavu sinjskoga gradonačelnika Mire Bulja da će zbog ilegalnih migranata u Cetinskoj krajini organizirati samozaštitu građana. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Hamas oslobodio još dvije izraelske taokinje. Velika policijska akcija u migrantskom kampu u Sarajevu, uhićene dvije osobe, 17 ih je protjerano. Sport : Hajduk otpustio dosadašnjeg trenera Ivana Leku, novi trener je Mislav Karoglan. Urednica: Sanja Cota</description>
     <pubDate>Mon, 23 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/f6/20231023-kronika-dana-34610140-20231023204034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.10. 2023-10-22</title>
-    <link>https://api.hrt.hr/media/42/83/20231022-kronika-dana-34606732-20231022204534.mp3</link>
-    <description>Novi konvoj humanitarne pomoći ušao u Gazu. Izraelski premijer, nakon Hamasa, i Hezbollahu zaprijetio potpunim uništenjem, ako se uključi u rat. Ponovno izgred navijača! Bad Blue Boysi na utakmici Dinama i Gorice pjevali ustaške pjesme. Policija pregledava snimke. U 40 godina od prve uspješne izvantjelesne oplodnje u Hrvatskoj, tom metodom rođeno 40 tisuća djece. Čak 18 posto parova u našoj zemlji je neplodno. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 22 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/42/83/20231022-kronika-dana-34606732-20231022204534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
