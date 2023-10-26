@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 25 Oct 2023 14:14:28 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 13:42:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Jedan od najsmrtonosnijih zračnih napada Izraela na pojas Gaze, u kojemu je poginulo više od 400 ljudi. Najveća policijska akcija u migrantskim kampovima na području Bosne i Hercegovine, dvije osobe uhićene, a 17 protjerano iz države. U Hrvatskoj prije 40 godina na današnji dan rođeno prvo dijete s pomoću umjetne oplodnje. Izbornik Dalić dobio jednoglasnu podršku HNS-a. Urednica: Mira Barić</description>
     <pubDate>Mon, 23 Oct 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/61/d4/20231023-dnevne-novosti-34609187-20231023134034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.10. 2023-10-22</title>
-    <link>https://api.hrt.hr/media/37/01/20231022-dnevne-novosti-34606054-20231022134031.mp3</link>
-    <description>Još 17 kamiona s humanitarnom pomoći ušlo u pojas Gaze iz Egipta. Versailles ponovno evakuiran. U Sarajevu prosvjed potpore Palestincima. Slovenija bi, s predviđenih deset dana, mogla produljiti mjere pojačane kontrole na granici s Hrvatskom. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 22 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/37/01/20231022-dnevne-novosti-34606054-20231022134031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
