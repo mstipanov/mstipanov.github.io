@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Oct 2023 20:43:26 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 20:47:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.10. 2023-10-27</title>
+    <link>https://api.hrt.hr/media/9e/fe/20231027-kronika-dana-34625745-20231027203553.mp3</link>
+    <description>Večeras siloviti izraelski napadi na Gazu, Palestinci javljaju da je počela kopnena ofenziva. Vukovarski gradonačelnik Ivan Penava najavio da će na čelu Kolone sjećanja biti HOS i da 18. studenog u grad ne dolazi kome to smeta. Ministar branitelja Tomo Medved odgovara - nezamislivo je da se bilo kome ograničava odavanje počasti žrtvama. Uredila: Sanja Cota</description>
+    <pubDate>Fri, 27 Oct 2023 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9e/fe/20231027-kronika-dana-34625745-20231027203553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.10. 2023-10-26</title>
     <link>https://api.hrt.hr/media/61/ea/20231026-kronika-dana-34621799-20231026204019.mp3</link>
     <description>Provodi se vrlo opsežna istraga o nesreći u kojoj je kombi na autocesti kod Gospića usmrtio dva motociklista iz Nepala. Više od tristo policajaca traži u Americi masovnog ubojicu 18-ero ljudi. Izaslanstvo Hamasa u posjetu Moskvi. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Dok je premijer Andrej Plenković podnosio Izvješće o radu Vlade, oporbeni zastupnici lupali po klupama. Deset od jedanaest sindikata javnih službi i sindikati državnih službi prihvatili Vladinu ponudu za rast plaća. Velik broj raketa ispaljen iz Gaze na Izrael. Glavni tajnik UN-a Antonio Guterres izjavom o sukobu na Bliskom istoku naljutio Izrael. Vlada će platiti trošak zbrinjavanja varaždinskoga baliranog komunalnog otpada, koji se gomila već 18 godina. Urednik: Silvio Šop</description>
     <pubDate>Tue, 24 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/60/20231024-kronika-dana-34614106-20231024204012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.10. 2023-10-23</title>
-    <link>https://api.hrt.hr/media/93/f6/20231023-kronika-dana-34610140-20231023204034.mp3</link>
-    <description>Hamas oslobodio još dvije izraelske taokinje. Velika policijska akcija u migrantskom kampu u Sarajevu, uhićene dvije osobe, 17 ih je protjerano. Sport : Hajduk otpustio dosadašnjeg trenera Ivana Leku, novi trener je Mislav Karoglan. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 23 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/f6/20231023-kronika-dana-34610140-20231023204034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
