@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Oct 2023 05:40:44 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 05:44:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.10. 2023-10-27</title>
+    <link>https://api.hrt.hr/media/ff/e2/20231027-jutarnja-kronika-34622427-20231027053553.mp3</link>
+    <description>Sabor će glasovati o rebalansu proračuna. Ne stišavaju se reakcije na bučni prosvjed oporbe tijekom govora premijera Plenkovća o postignućima Vlade. Čelnici Europske unije raspravljat će o rebalansu sedmogodišnjeg proračuna. Prihvaćena je izjava o stanju na Bliskom istoku, u kojoj se poziva na otvaranje koridora za pomoć Gazi. Papa pozvao vjernike svih religija da zajedno s njim u 18 sati mole za mir na Bliskom istoku. Danas izricanje presude Branimiru Glavašu u ponovljenom suđenju za slučaj garaža i selotejp. Večeras premijera u zagrebačkome dramskom kazalištu Gavelli, i to u obnovljenoj zgradi u Frankopanskoj ulici. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 27 Oct 2023 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/e2/20231027-jutarnja-kronika-34622427-20231027053553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.10. 2023-10-26</title>
     <link>https://api.hrt.hr/media/8a/f3/20231026-jutarnja-kronika-34618822-20231026053516.mp3</link>
     <description>Napadač u gradu Lewistonu, u američkoj saveznoj državi Maineu, iz automatske puške ubio najmanje 22-oje ljudi, 50-ak ih je ranio. Identificiran je, za njim traje velika policijska potjera. Izraelski premijer Benjamin Netanyahu u izvanrednom obraćanju javnosti najavio kopnenu invaziju na Gazu. Nije precizirao kada bi trebala početi. Vlada povećala minimalnu plaću u idućoj godini te sa sindikatima javnih i državnih službi potpisala dodatak kolektivnom ugovoru, kojim se povećavaju materijalna prava. U 10 sati počinje prodaja ulaznica za najiščekivaniji koncert sljedeće godine, Eda Sheerana na zagrebačkom Hipodromu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon Amerikanki Hamas oslobodio još dvije Izraelke. Granicu s Egiptom prešao je i treći konvoj s humanitarnom pomoći. Premijer Plenković Saboru predaje godišnje izvješće o radu Vlade. Sindikati državnih i javnih službi trebaju se do 12 sati izjasniti prihvaćaju li posljednju Vladinu ponudu o povećanju osnovice plaće za 5 posto. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 24 Oct 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d1/48/20231024-jutarnja-kronika-34610705-20231024053025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.10. 2023-10-23</title>
-    <link>https://api.hrt.hr/media/c2/0b/20231023-jutarnja-kronika-34607256-20231023053534.mp3</link>
-    <description>Izraelsko zrakoplovstvo rano jutros bombardiralo područja oko triju bolnica u Gazi te dvije ćelije Hezbollaha u Libanonu. Slovenski ministar unutarnjih poslova Poklukar očekuje da će se kontrole na granici s Hrvatskom produljiti i nakon 10 dana. Na zagrebačkome Medicinskom fakultetu svečano obilježavanje 40-e godišnjice prve izvantjelesne oplodnje u Hrvatskoj. U zgrebačkoj galeriji Događanja u centru KNAP počinje 21. Festival prvih. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 23 Oct 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/0b/20231023-jutarnja-kronika-34607256-20231023053534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
