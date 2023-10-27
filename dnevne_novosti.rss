@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Oct 2023 14:12:19 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 13:46:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.10. 2023-10-27</title>
+    <link>https://api.hrt.hr/media/83/00/20231027-dnevne-novosti-34624610-20231027134053.mp3</link>
+    <description>Branimiru Glavašu sedam godina zatvora za ratni zločin u Osijeku 1991. Vukovarski gradonačelnik Ivan Penava uzburkao javnost najavom da će ovogodišnju Kolonu sjećanja predvoditi HOS. Novih deset kamiona humanitarne pomoći ušlo u Gazu. Na sjevernom Jadranu jedan od najvećih vodostaja mora u posljednjih gotovo sto godina. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 27 Oct 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/83/00/20231027-dnevne-novosti-34624610-20231027134053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.10. 2023-10-26</title>
     <link>https://api.hrt.hr/media/f8/6d/20231026-dnevne-novosti-34620911-20231026134019.mp3</link>
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
@@ -31,14 +39,6 @@
     <description>Izvješće premijera Plenkovića o stanju države i nacije oporba u Saboru ometala lupanjem po stolovima. Izrael i dalje gađa ciljeve u Gazi, Palestinci objavili da je ubijeno ukupno pet tisuća 800 ljudi. 40 godina zatvora dobio Filip Zavadlav na ponovljenom suđenju za trostruko ubojstvo. Urednica: Sanja Cota</description>
     <pubDate>Tue, 24 Oct 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/51/20231024-dnevne-novosti-34613176-20231024135525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.10. 2023-10-23</title>
-    <link>https://api.hrt.hr/media/61/d4/20231023-dnevne-novosti-34609187-20231023134034.mp3</link>
-    <description>Jedan od najsmrtonosnijih zračnih napada Izraela na pojas Gaze, u kojemu je poginulo više od 400 ljudi. Najveća policijska akcija u migrantskim kampovima na području Bosne i Hercegovine, dvije osobe uhićene, a 17 protjerano iz države. U Hrvatskoj prije 40 godina na današnji dan rođeno prvo dijete s pomoću umjetne oplodnje. Izbornik Dalić dobio jednoglasnu podršku HNS-a. Urednica: Mira Barić</description>
-    <pubDate>Mon, 23 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/61/d4/20231023-dnevne-novosti-34609187-20231023134034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
