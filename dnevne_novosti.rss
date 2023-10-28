@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 27 Oct 2023 13:46:07 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 13:51:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.10. 2023-10-28</title>
+    <link>https://api.hrt.hr/media/03/4b/20231028-dnevne-novosti-34627179-20231028133547.mp3</link>
+    <description>Šire se izraelski kopneni napadi u pojasu Gaze. Hrvatska glasovala protiv Rezolucije UN-a kojom se traži "trenutačno, trajno i održivo humanitarno primirje" u Gazi, ali se ne spominje Hamasov teroristički napad na Izrael. Ne stišavaju se reakcije na izjave vukovarskoga gradonačelnika Penave o Koloni sjećanja. Vrijeme je berbe maslina, no ovogodišnji je urod u Dalmaciji slab. Noćas počinje zimsko računanje vremena. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 28 Oct 2023 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/03/4b/20231028-dnevne-novosti-34627179-20231028133547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.10. 2023-10-27</title>
     <link>https://api.hrt.hr/media/83/00/20231027-dnevne-novosti-34624610-20231027134053.mp3</link>
     <description>Branimiru Glavašu sedam godina zatvora za ratni zločin u Osijeku 1991. Vukovarski gradonačelnik Ivan Penava uzburkao javnost najavom da će ovogodišnju Kolonu sjećanja predvoditi HOS. Novih deset kamiona humanitarne pomoći ušlo u Gazu. Na sjevernom Jadranu jedan od najvećih vodostaja mora u posljednjih gotovo sto godina. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Vlada uredbom utvrdila da je minimalna plaća iduće godine 840 eura bruto, što je povećanje za 140 eura. Potpisan Dodatak Kolektivnom ugovoru za javne i državne službenike - plaće rastu pet posto, povećava se božićnica i uvodi uskrsnica. Izjava MOST-ovca, gradonačelnika Sinja Mire Bulja da će organizirati građanske straže duž granice s BiH u borbi protiv nezakonitih ulazaka migranata podignula buru u javnosti. Američki obavještajci tvrde da je bolnicu u Gazi prošli tjedan pogodila palestinska raketa koja se raspala u zraku. Urednik: Silvio Šop</description>
     <pubDate>Wed, 25 Oct 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ea/4f/20231025-dnevne-novosti-34617075-20231025134030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.10. 2023-10-24</title>
-    <link>https://api.hrt.hr/media/fd/51/20231024-dnevne-novosti-34613176-20231024135525.mp3</link>
-    <description>Izvješće premijera Plenkovića o stanju države i nacije oporba u Saboru ometala lupanjem po stolovima. Izrael i dalje gađa ciljeve u Gazi, Palestinci objavili da je ubijeno ukupno pet tisuća 800 ljudi. 40 godina zatvora dobio Filip Zavadlav na ponovljenom suđenju za trostruko ubojstvo. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 24 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/51/20231024-dnevne-novosti-34613176-20231024135525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
