@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Oct 2023 13:51:53 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 14:55:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.10. 2023-10-29</title>
+    <link>https://api.hrt.hr/media/c7/31/20231029-dnevne-novosti-34629492-20231029144057.mp3</link>
+    <description>Izraelska vojska nastavlja snažno napadati pojas Gaze, Ujedinjeni narodi i humanitarne organizacije upozoravaju na nepodnošljivo humanitarno stanje i traže hitan prekid vatre. I dalje reakcije na izjavu gradonačelnika Ivana Penave da na Dan sjećanja u Vukovar ne dolaze oni kojima smeta što će Kolonu sjećanja predvoditi pripadnici HOS-a. Nezadovoljni reakcijom države na suzbijanje afričke svinjske kuge, svinjogojci najteže pogođene Vukovarsko-srijemske županije prosvjedovali. Umro je glumac Matthew Perry, najpoznatiji po ulozi Chandlera Binga u popularnoj seriji "Prijatelji". Urednik: Silvio Šop</description>
+    <pubDate>Sun, 29 Oct 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/31/20231029-dnevne-novosti-34629492-20231029144057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.10. 2023-10-28</title>
     <link>https://api.hrt.hr/media/03/4b/20231028-dnevne-novosti-34627179-20231028133547.mp3</link>
     <description>Šire se izraelski kopneni napadi u pojasu Gaze. Hrvatska glasovala protiv Rezolucije UN-a kojom se traži "trenutačno, trajno i održivo humanitarno primirje" u Gazi, ali se ne spominje Hamasov teroristički napad na Izrael. Ne stišavaju se reakcije na izjave vukovarskoga gradonačelnika Penave o Koloni sjećanja. Vrijeme je berbe maslina, no ovogodišnji je urod u Dalmaciji slab. Noćas počinje zimsko računanje vremena. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Thu, 26 Oct 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/6d/20231026-dnevne-novosti-34620911-20231026134019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.10. 2023-10-25</title>
-    <link>https://api.hrt.hr/media/ea/4f/20231025-dnevne-novosti-34617075-20231025134030.mp3</link>
-    <description>Vlada uredbom utvrdila da je minimalna plaća iduće godine 840 eura bruto, što je povećanje za 140 eura. Potpisan Dodatak Kolektivnom ugovoru za javne i državne službenike - plaće rastu pet posto, povećava se božićnica i uvodi uskrsnica. Izjava MOST-ovca, gradonačelnika Sinja Mire Bulja da će organizirati građanske straže duž granice s BiH u borbi protiv nezakonitih ulazaka migranata podignula buru u javnosti. Američki obavještajci tvrde da je bolnicu u Gazi prošli tjedan pogodila palestinska raketa koja se raspala u zraku. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 25 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ea/4f/20231025-dnevne-novosti-34617075-20231025134030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
