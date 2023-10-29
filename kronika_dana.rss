@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Oct 2023 20:53:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 21:56:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.10. 2023-10-29</title>
+    <link>https://api.hrt.hr/media/13/73/20231029-kronika-dana-34630126-20231029214054.mp3</link>
+    <description>Izraelske snage zatražile evakuaciju glavne bolnice u Gazi. Liječnici kažu da je evakuacija teško izvediva zbog nepokretnih bolesnika i ranjenika, ističu da je na području bolnice spas potražilo i oko 14.000 civila. Nezadovoljni borbom protiv afričke svinjske kuge prosvjedovali hrvatski poljoprivrednici na istoku zemlje. Holivud se oprašta od Matthewa Perryja, glumca napoznatijeg po ulozi Chandlera Binga u televizijskoj seriji Prijetelji. Urednica: Mira Barić</description>
+    <pubDate>Sun, 29 Oct 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/73/20231029-kronika-dana-34630126-20231029214054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.10. 2023-10-28</title>
     <link>https://api.hrt.hr/media/fd/e8/20231028-kronika-dana-34627830-20231028204027.mp3</link>
     <description>Šire se izraelski kopneni napadi u pojasu Gaze. Ujedinjeni narodi prihvatili rezoluciju kojom se traži primirje u Gazi, ali se ne spominje Hamasov napad na Izrael. Hrvatska među zemljama koje su glasale protiv. Ne smiruju se reakcije na poruku vukovarskoga gradonačelnika Penave da u Vukovar ne dolaze oni koji se ne slažu s tim da Kolonu sjećanja vode pripadnici HOS-a. Obitelj poginulog branitelja Jean-Michela Nicoliera od Penave traži da ukloni njegovu fotografiju sa službenog plakata. Noćas počinje zimsko računanje vremena. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Provodi se vrlo opsežna istraga o nesreći u kojoj je kombi na autocesti kod Gospića usmrtio dva motociklista iz Nepala. Više od tristo policajaca traži u Americi masovnog ubojicu 18-ero ljudi. Izaslanstvo Hamasa u posjetu Moskvi. Urednica: Sanja Cota</description>
     <pubDate>Thu, 26 Oct 2023 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/61/ea/20231026-kronika-dana-34621799-20231026204019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.10. 2023-10-25</title>
-    <link>https://api.hrt.hr/media/3b/aa/20231025-kronika-dana-34618232-20231025204040.mp3</link>
-    <description>Izraelski premijer Benjamin Netanyahu u izvanrednom obraćanju javnosti najavio kopnenu invaziju na Gazu. Sjedinjene Države predlažu humanitarni prekid vatre. Vlada potpisala Dodatak Kolektivnom ugovoru s deset sindikata javnih i državnih službenika, plaće im rastu već od ovoga mjeseca, povećava se božićnica, a uvodi i uskrsnica. Ne prestaju reakcije na najavu sinjskoga gradonačelnika Mire Bulja da će zbog ilegalnih migranata u Cetinskoj krajini organizirati samozaštitu građana. Urednica: Mira Barić</description>
-    <pubDate>Wed, 25 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3b/aa/20231025-kronika-dana-34618232-20231025204040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
