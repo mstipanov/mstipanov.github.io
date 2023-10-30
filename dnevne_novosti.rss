@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Oct 2023 14:55:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 14:59:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.10. 2023-10-30</title>
+    <link>https://api.hrt.hr/media/2e/64/20231030-dnevne-novosti-34632814-20231030144056.mp3</link>
+    <description>Izrael nastavlja snažne zračne i kopnene napade na pojas Gaze, prema izjavama palestinskih svjedoka, izraelski su tenkovi presjekli ključnu cestu od sjevera prema jugu. Premijer Plenković u Parizu, nakon sastanka s predsjednikom Macronom, na Vijeću OECD-a, međunarodne organizacije 38 najrazvijenijih država svijeta kojoj Hrvatska želi pristupiti do 2025. I službeno počelo cijepljenje protiv gripe, po ambulantama diljem zemlje raspodijeljeno je 500 tisuća doza cjepiva.
+Urednica: Mira Barić</description>
+    <pubDate>Mon, 30 Oct 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2e/64/20231030-dnevne-novosti-34632814-20231030144056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.10. 2023-10-29</title>
     <link>https://api.hrt.hr/media/c7/31/20231029-dnevne-novosti-34629492-20231029144057.mp3</link>
     <description>Izraelska vojska nastavlja snažno napadati pojas Gaze, Ujedinjeni narodi i humanitarne organizacije upozoravaju na nepodnošljivo humanitarno stanje i traže hitan prekid vatre. I dalje reakcije na izjavu gradonačelnika Ivana Penave da na Dan sjećanja u Vukovar ne dolaze oni kojima smeta što će Kolonu sjećanja predvoditi pripadnici HOS-a. Nezadovoljni reakcijom države na suzbijanje afričke svinjske kuge, svinjogojci najteže pogođene Vukovarsko-srijemske županije prosvjedovali. Umro je glumac Matthew Perry, najpoznatiji po ulozi Chandlera Binga u popularnoj seriji "Prijatelji". Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>Branimiru Glavašu sedam godina zatvora za ratni zločin u Osijeku 1991. Vukovarski gradonačelnik Ivan Penava uzburkao javnost najavom da će ovogodišnju Kolonu sjećanja predvoditi HOS. Novih deset kamiona humanitarne pomoći ušlo u Gazu. Na sjevernom Jadranu jedan od najvećih vodostaja mora u posljednjih gotovo sto godina. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 27 Oct 2023 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/83/00/20231027-dnevne-novosti-34624610-20231027134053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.10. 2023-10-26</title>
-    <link>https://api.hrt.hr/media/f8/6d/20231026-dnevne-novosti-34620911-20231026134019.mp3</link>
-    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
-    <pubDate>Thu, 26 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f8/6d/20231026-dnevne-novosti-34620911-20231026134019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
