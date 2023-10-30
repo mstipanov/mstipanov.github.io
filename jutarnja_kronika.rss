@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Oct 2023 06:54:35 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 06:58:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -23,14 +23,6 @@
     <description>Sabor će glasovati o rebalansu proračuna. Ne stišavaju se reakcije na bučni prosvjed oporbe tijekom govora premijera Plenkovća o postignućima Vlade. Čelnici Europske unije raspravljat će o rebalansu sedmogodišnjeg proračuna. Prihvaćena je izjava o stanju na Bliskom istoku, u kojoj se poziva na otvaranje koridora za pomoć Gazi. Papa pozvao vjernike svih religija da zajedno s njim u 18 sati mole za mir na Bliskom istoku. Danas izricanje presude Branimiru Glavašu u ponovljenom suđenju za slučaj garaža i selotejp. Večeras premijera u zagrebačkome dramskom kazalištu Gavelli, i to u obnovljenoj zgradi u Frankopanskoj ulici. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 27 Oct 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/e2/20231027-jutarnja-kronika-34622427-20231027053553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.10. 2023-10-26</title>
-    <link>https://api.hrt.hr/media/8a/f3/20231026-jutarnja-kronika-34618822-20231026053516.mp3</link>
-    <description>Napadač u gradu Lewistonu, u američkoj saveznoj državi Maineu, iz automatske puške ubio najmanje 22-oje ljudi, 50-ak ih je ranio. Identificiran je, za njim traje velika policijska potjera. Izraelski premijer Benjamin Netanyahu u izvanrednom obraćanju javnosti najavio kopnenu invaziju na Gazu. Nije precizirao kada bi trebala početi. Vlada povećala minimalnu plaću u idućoj godini te sa sindikatima javnih i državnih službi potpisala dodatak kolektivnom ugovoru, kojim se povećavaju materijalna prava. U 10 sati počinje prodaja ulaznica za najiščekivaniji koncert sljedeće godine, Eda Sheerana na zagrebačkom Hipodromu. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 26 Oct 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8a/f3/20231026-jutarnja-kronika-34618822-20231026053516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
