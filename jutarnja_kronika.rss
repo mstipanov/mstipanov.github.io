@@ -6,23 +6,23 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Oct 2023 06:58:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:02:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 31.10. 2023-10-31</title>
+    <link>https://api.hrt.hr/media/fd/c7/20231031-jutarnja-kronika-34634453-20231031063523.mp3</link>
+    <description>Izraelski premijer Netanyahu odbio poziv na prekid vatre i svjetskim čelnicima poručio da moraju odabrati stranu.Svjetski je dan štednje - inflacija čini svoje, ušteđeni novac gubi vrijednost, pa je štednja ipak nešto manja. Velika migrantska karavana krenula s juga Meksika prema SAD-u.Urednica Mira Barić</description>
+    <pubDate>Tue, 31 Oct 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/c7/20231031-jutarnja-kronika-34634453-20231031063523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.10. 2023-10-28</title>
     <link>https://api.hrt.hr/media/b5/ba/20231028-jutarnja-kronika-34626272-20231028053546.mp3</link>
     <description>Izrael pojačao napade na Gazu, ali nema potvrde da je počela kopnena ofenziva. Napadač, osumnjičen da je u američkoj državi Maine ubio 18-ero ljudi, pronađen mrtav. Vukovarski gradonačelnik Ivan Penava najavio da će na čelu Kolone sjećanja biti HOS i da 18. studenog u grad ne dolazi kome to smeta. Nitko nema pravo privatizirati Vukovar i Dan sjećanja, odgovorio mu premijer Plenković. Ovaj vikend Dani otvorenih vrata nacionalnog parka Brijuni - ulaznica 15 umjesto 40 eura. Uredio: Silvio Šop</description>
     <pubDate>Sat, 28 Oct 2023 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b5/ba/20231028-jutarnja-kronika-34626272-20231028053546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.10. 2023-10-27</title>
-    <link>https://api.hrt.hr/media/ff/e2/20231027-jutarnja-kronika-34622427-20231027053553.mp3</link>
-    <description>Sabor će glasovati o rebalansu proračuna. Ne stišavaju se reakcije na bučni prosvjed oporbe tijekom govora premijera Plenkovća o postignućima Vlade. Čelnici Europske unije raspravljat će o rebalansu sedmogodišnjeg proračuna. Prihvaćena je izjava o stanju na Bliskom istoku, u kojoj se poziva na otvaranje koridora za pomoć Gazi. Papa pozvao vjernike svih religija da zajedno s njim u 18 sati mole za mir na Bliskom istoku. Danas izricanje presude Branimiru Glavašu u ponovljenom suđenju za slučaj garaža i selotejp. Večeras premijera u zagrebačkome dramskom kazalištu Gavelli, i to u obnovljenoj zgradi u Frankopanskoj ulici. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 27 Oct 2023 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/e2/20231027-jutarnja-kronika-34622427-20231027053553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
