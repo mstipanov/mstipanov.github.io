@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 31 Oct 2023 14:49:24 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 14:53:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.11. 2023-11-01</title>
+    <link>https://api.hrt.hr/media/32/4c/20231101-dnevne-novosti-34639222-20231101144059.mp3</link>
+    <description>Blagdan je Svih svetih, na grobljima diljem zemlje - svijeće i cvijeće. Počela evakuacija iz opkoljene Gaze. Nitko od hrvatskih državljana nije u prvoj skupini puštenih. Imotska krajina zavijena u crno, u prometnoj nesreći u mjestu Kutleše poginula dvojica mladića, od 20 i 17 godina. Urednica: Mira Barić</description>
+    <pubDate>Wed, 01 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/32/4c/20231101-dnevne-novosti-34639222-20231101144059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.10. 2023-10-31</title>
     <link>https://api.hrt.hr/media/38/91/20231031-dnevne-novosti-34636473-20231031144041.mp3</link>
     <description>Izrael napao Hamas unutar goleme mreže tunela ispod Gaze, a Hamas tvrdi da je izraelski kopneni napad propao. Inflacija u listopadu iznosi 5 cijelih 8 posto.Raste vodostaj Kupe u Gorskom kotaru, tuča u Zagorju, veoma visoka razina mora izmjerena u Bakru. Urednica Sanja Cota.</description>
@@ -32,14 +40,6 @@ Urednica: Mira Barić</description>
     <description>Izraelska vojska nastavlja snažno napadati pojas Gaze, Ujedinjeni narodi i humanitarne organizacije upozoravaju na nepodnošljivo humanitarno stanje i traže hitan prekid vatre. I dalje reakcije na izjavu gradonačelnika Ivana Penave da na Dan sjećanja u Vukovar ne dolaze oni kojima smeta što će Kolonu sjećanja predvoditi pripadnici HOS-a. Nezadovoljni reakcijom države na suzbijanje afričke svinjske kuge, svinjogojci najteže pogođene Vukovarsko-srijemske županije prosvjedovali. Umro je glumac Matthew Perry, najpoznatiji po ulozi Chandlera Binga u popularnoj seriji "Prijatelji". Urednik: Silvio Šop</description>
     <pubDate>Sun, 29 Oct 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c7/31/20231029-dnevne-novosti-34629492-20231029144057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.10. 2023-10-28</title>
-    <link>https://api.hrt.hr/media/03/4b/20231028-dnevne-novosti-34627179-20231028133547.mp3</link>
-    <description>Šire se izraelski kopneni napadi u pojasu Gaze. Hrvatska glasovala protiv Rezolucije UN-a kojom se traži "trenutačno, trajno i održivo humanitarno primirje" u Gazi, ali se ne spominje Hamasov teroristički napad na Izrael. Ne stišavaju se reakcije na izjave vukovarskoga gradonačelnika Penave o Koloni sjećanja. Vrijeme je berbe maslina, no ovogodišnji je urod u Dalmaciji slab. Noćas počinje zimsko računanje vremena. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 28 Oct 2023 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/03/4b/20231028-dnevne-novosti-34627179-20231028133547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
