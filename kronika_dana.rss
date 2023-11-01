@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 31 Oct 2023 22:20:41 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 21:54:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.11. 2023-11-01</title>
+    <link>https://api.hrt.hr/media/5c/e8/20231101-kronika-dana-34639932-20231101214101.mp3</link>
+    <description>Počela evakuacija stanovnika iz opkoljene Gaze, sutra se očekuje izlazak 23-oje hrvatskih državljana. Kijev tvrdi da je Rusija izvela najveći napad na Ukrajinu od početka godine, bombardirano više od sto naselja. Na blagdan Svih svetih tisuće ljudi na grobljima. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 01 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/e8/20231101-kronika-dana-34639932-20231101214101.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 31.10. 2023-10-31</title>
     <link>https://api.hrt.hr/media/f1/ab/20231031-kronika-dana-34637317-20231031215046.mp3</link>
     <description>Izraelska vojska potvrdila je da je izvela napad na izbjeglički kamp Džabaliju u Gazi. Hamas je objavio da je poginulo najmanje 50 ljudi. Nevrijeme je pogodilo Zagorje i Bjelovarsko-bilogorsku županiju. Sutra moguće proglašenje pripremnog stanja obrane od poplave na dijelovima rijeke Drave. Inflacija usporava i u listopadu - sada je 5 cijelih 8 posto, što je znatno više od prosjeka europodručja. Svjetski je dan štednje, hrvatski građani na računima imaju oko polovice očekivanog hrvatskog BDP-a za ovu godinu. Urednik Silvio Šop.</description>
@@ -31,14 +39,6 @@
     <description>Izraelske snage zatražile evakuaciju glavne bolnice u Gazi. Liječnici kažu da je evakuacija teško izvediva zbog nepokretnih bolesnika i ranjenika, ističu da je na području bolnice spas potražilo i oko 14.000 civila. Nezadovoljni borbom protiv afričke svinjske kuge prosvjedovali hrvatski poljoprivrednici na istoku zemlje. Holivud se oprašta od Matthewa Perryja, glumca napoznatijeg po ulozi Chandlera Binga u televizijskoj seriji Prijetelji. Urednica: Mira Barić</description>
     <pubDate>Sun, 29 Oct 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/13/73/20231029-kronika-dana-34630126-20231029214054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.10. 2023-10-28</title>
-    <link>https://api.hrt.hr/media/fd/e8/20231028-kronika-dana-34627830-20231028204027.mp3</link>
-    <description>Šire se izraelski kopneni napadi u pojasu Gaze. Ujedinjeni narodi prihvatili rezoluciju kojom se traži primirje u Gazi, ali se ne spominje Hamasov napad na Izrael. Hrvatska među zemljama koje su glasale protiv. Ne smiruju se reakcije na poruku vukovarskoga gradonačelnika Penave da u Vukovar ne dolaze oni koji se ne slažu s tim da Kolonu sjećanja vode pripadnici HOS-a. Obitelj poginulog branitelja Jean-Michela Nicoliera od Penave traži da ukloni njegovu fotografiju sa službenog plakata. Noćas počinje zimsko računanje vremena. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 28 Oct 2023 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/e8/20231028-kronika-dana-34627830-20231028204027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
