@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Nov 2023 06:51:56 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 06:55:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.11. 2023-11-02</title>
+    <link>https://api.hrt.hr/media/8d/37/20231102-jutarnja-kronika-34640486-20231102063019.mp3</link>
+    <description>Počela evakuacija iz opkoljene Gaze, danas se očekuje izlazak 23-oje hrvatskih državljana. O graničnim kontrolama u Trstu će razgovarati ministri unutarnjih poslova Italije, Slovenije i Hrvatske. Zahvaljujući umjetnoj inteligenciji, legendarni Beatlesi objavljuju novu pjesmu. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/37/20231102-jutarnja-kronika-34640486-20231102063019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.11. 2023-11-01</title>
     <link>https://api.hrt.hr/media/94/57/20231101-jutarnja-kronika-34637798-20231101063100.mp3</link>
     <description>Egipat bi danas trebao otvoriti granični prijelaz Rafah za 81-og najtežeg ranjenika. Zagorje i Bjelovarsko-bilogorsku županiju jučer je pogodilo jako nevrijeme. Očekuje se proglašenje pripremnog stanja obrane od poplave na dijelovima rijeke Drave. Blagdan je Svih svetih, u Hrvatskoj neradni dan. Urednik: Grgo Mrvica</description>
