@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Nov 2023 21:54:14 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 21:57:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.11. 2023-11-02</title>
+    <link>https://api.hrt.hr/media/eb/65/20231102-kronika-dana-34643386-20231102214518.mp3</link>
+    <description>22-oje hrvatskih državljana evakuirano iz Gaze. Analiza nakon golemog požara plastike u Osijeku pokazala da hrana nije onečišćena opasnim tvarima. Šestero poginulih u oluji koja hara Europom. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 02 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/65/20231102-kronika-dana-34643386-20231102214518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.11. 2023-11-01</title>
     <link>https://api.hrt.hr/media/5c/e8/20231101-kronika-dana-34639932-20231101214101.mp3</link>
     <description>Počela evakuacija stanovnika iz opkoljene Gaze, sutra se očekuje izlazak 23-oje hrvatskih državljana. Kijev tvrdi da je Rusija izvela najveći napad na Ukrajinu od početka godine, bombardirano više od sto naselja. Na blagdan Svih svetih tisuće ljudi na grobljima. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sada je vrijeme za rat i neće biti prekida vatre u Pojasu Gaze, poručio izraelski premijer Netanyahu. Oporbeni prosvjed u Podgorici nakon što je četnički vojvoda Andrija Mandić izabran za predsjednika parlamenta. Prosvjedovali studenti zagrebačke Akademije dramske umjetnosti jer je na posao vraćen profesor suspendiran zbog optužbi za vrijeđanje i seksualno nasilje. Uredila: Sanja Cota</description>
     <pubDate>Mon, 30 Oct 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/67/95/20231030-kronika-dana-34633916-20231030213557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.10. 2023-10-29</title>
-    <link>https://api.hrt.hr/media/13/73/20231029-kronika-dana-34630126-20231029214054.mp3</link>
-    <description>Izraelske snage zatražile evakuaciju glavne bolnice u Gazi. Liječnici kažu da je evakuacija teško izvediva zbog nepokretnih bolesnika i ranjenika, ističu da je na području bolnice spas potražilo i oko 14.000 civila. Nezadovoljni borbom protiv afričke svinjske kuge prosvjedovali hrvatski poljoprivrednici na istoku zemlje. Holivud se oprašta od Matthewa Perryja, glumca napoznatijeg po ulozi Chandlera Binga u televizijskoj seriji Prijetelji. Urednica: Mira Barić</description>
-    <pubDate>Sun, 29 Oct 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/13/73/20231029-kronika-dana-34630126-20231029214054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
