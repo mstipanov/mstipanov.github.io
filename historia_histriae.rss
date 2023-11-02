@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Oct 2023 16:12:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 16:57:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>DARIO RUZIC 2023-11-02</title>
+    <link>https://api.hrt.hr/media/c1/50/20231102-historia-histriae-8002155-20231102160023.mp3</link>
+    <description>U goste nam dolazi legendarni golman NK Istre Dario Ružić </description>
+    <pubDate>Thu, 02 Nov 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c1/50/20231102-historia-histriae-8002155-20231102160023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Eko Bajrami za 26.10. 2023-10-26</title>
     <link>https://api.hrt.hr/media/3e/86/20231026-historia-histriae-7999733-20231026155518.mp3</link>
     <description>U goste nam dolazi Jetiš Eko Bajrami, a pričamo o povijesti Pule i boksa. </description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 22 Jun 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/97/20230622-historia-histriae-7960937-20230622160526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>DARIO KORACA ZA HISTORIU 2023-06-08</title>
-    <link>https://api.hrt.hr/media/60/f7/20230608-historia-histriae-7956939-20230608204012.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 08 Jun 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/60/f7/20230608-historia-histriae-7956939-20230608204012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
