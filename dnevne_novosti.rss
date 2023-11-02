@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Nov 2023 14:53:11 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 14:56:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.11. 2023-11-02</title>
+    <link>https://api.hrt.hr/media/cb/79/20231102-dnevne-novosti-34642348-20231102143516.mp3</link>
+    <description>Oko 7 tisuća stranih državljana čeka na graničnom prijelazu Rafahu kako bi napustilo pojas Gaze. Od 47 hrvatskih državljana u Gazi, 23-je je zatražilo evakuaciju, od kojih je 15-ero uspjelo prijeći u Egipat. U Trstu trostrani sastanak ministara unutarnjih poslova Hrvatske, Slovenije i Italije. Oluja Ciaran hara sjeverom Europe, dvije su osobe poginule. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 02 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cb/79/20231102-dnevne-novosti-34642348-20231102143516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.11. 2023-11-01</title>
     <link>https://api.hrt.hr/media/32/4c/20231101-dnevne-novosti-34639222-20231101144059.mp3</link>
     <description>Blagdan je Svih svetih, na grobljima diljem zemlje - svijeće i cvijeće. Počela evakuacija iz opkoljene Gaze. Nitko od hrvatskih državljana nije u prvoj skupini puštenih. Imotska krajina zavijena u crno, u prometnoj nesreći u mjestu Kutleše poginula dvojica mladića, od 20 i 17 godina. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Mon, 30 Oct 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2e/64/20231030-dnevne-novosti-34632814-20231030144056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.10. 2023-10-29</title>
-    <link>https://api.hrt.hr/media/c7/31/20231029-dnevne-novosti-34629492-20231029144057.mp3</link>
-    <description>Izraelska vojska nastavlja snažno napadati pojas Gaze, Ujedinjeni narodi i humanitarne organizacije upozoravaju na nepodnošljivo humanitarno stanje i traže hitan prekid vatre. I dalje reakcije na izjavu gradonačelnika Ivana Penave da na Dan sjećanja u Vukovar ne dolaze oni kojima smeta što će Kolonu sjećanja predvoditi pripadnici HOS-a. Nezadovoljni reakcijom države na suzbijanje afričke svinjske kuge, svinjogojci najteže pogođene Vukovarsko-srijemske županije prosvjedovali. Umro je glumac Matthew Perry, najpoznatiji po ulozi Chandlera Binga u popularnoj seriji "Prijatelji". Urednik: Silvio Šop</description>
-    <pubDate>Sun, 29 Oct 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/31/20231029-dnevne-novosti-34629492-20231029144057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
