@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Nov 2023 22:05:25 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 22:09:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.11. 2023-11-05</title>
+    <link>https://api.hrt.hr/media/f4/7d/20231105-kronika-dana-34651155-20231105214019.mp3</link>
+    <description>I večeras siloviti izraelski napadi na pojas Gaze, izraelska vojska tvrdi da je opkolila grad Gazu i podijelila regiju na dva dijela. U Hrvatsku stigla i posljednja skupina hrvatskih državljana evakuiranih iz pojasa Gaze. Vodostaji rijeka u opadanju, olujni vjetar i obilna kiša duž obale. Urednica Mira Barić</description>
+    <pubDate>Sun, 05 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f4/7d/20231105-kronika-dana-34651155-20231105214019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.11. 2023-11-04</title>
     <link>https://api.hrt.hr/media/69/64/20231104-kronika-dana-34649096-20231104214103.mp3</link>
     <description>Očekuje se novo pogoršanje vremena i rast vodostaja rijeka! Rat Izraela i Hamasa traje već četiri tjedna. U Zagreb stigla prva skupina evakuiranih hrvatskih državljana. Studeni - mjesec borbe protiv raka prostate od kojeg u Hrvatskoj svake godine umre 800 ljudi. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>22-oje hrvatskih državljana evakuirano iz Gaze. Analiza nakon golemog požara plastike u Osijeku pokazala da hrana nije onečišćena opasnim tvarima. Šestero poginulih u oluji koja hara Europom. Urednica: Sanja Cota</description>
     <pubDate>Thu, 02 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/eb/65/20231102-kronika-dana-34643386-20231102214518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.11. 2023-11-01</title>
-    <link>https://api.hrt.hr/media/5c/e8/20231101-kronika-dana-34639932-20231101214101.mp3</link>
-    <description>Počela evakuacija stanovnika iz opkoljene Gaze, sutra se očekuje izlazak 23-oje hrvatskih državljana. Kijev tvrdi da je Rusija izvela najveći napad na Ukrajinu od početka godine, bombardirano više od sto naselja. Na blagdan Svih svetih tisuće ljudi na grobljima. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 01 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/e8/20231101-kronika-dana-34639932-20231101214101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
