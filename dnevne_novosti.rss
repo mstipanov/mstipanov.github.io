@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Nov 2023 14:41:50 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 15:11:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.11. 2023-11-06</title>
+    <link>https://api.hrt.hr/media/61/4b/20231106-dnevne-novosti-34653666-20231106144518.mp3</link>
+    <description>Pao je ključni dokaz protiv Ivice Todorića. Visoki kazneni sud iz spisa u slučaju Agrokor - izbacio knjigovodstveno-financijsko vještačenje plaćeno više od milijun eura. Zbog sumnje na korupciju, u Zadru i Zagrebu uhićene dvije osobe, neslužbeno, bivša rektorica zadarskoga Sveučilišta Dijana Vican i direktor tvrtke Graditelj svratišta Ante Stanišić. Unatoč diplomatskim naporima, izraelski napadi na Pojas Gaze se pojačavaju. Izraelska vojska planira u sljedećih 48 sati ući u potpuno opkoljeni grad Gazu. Urednica: Mira Barić</description>
+    <pubDate>Mon, 06 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/4b/20231106-dnevne-novosti-34653666-20231106144518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.11. 2023-11-05</title>
     <link>https://api.hrt.hr/media/ea/a8/20231105-dnevne-novosti-34650512-20231105144034.mp3</link>
     <description>Američki državni tajnik Blinken nenajavljeno posjetio okupiranu Zapadnu obalu i sastao se s palestinskim predsjednikom Abasom. Svi evakuirani hrvatski državljani vratili se u Zagreb. Ukrajinska raketa uništila novi brod ruske mornarice u gradu Kerču na poluotoku Krimu. Olujni vjetar i obilna kiša poplavili rive i rušili drveće. Porasli i vodostaji rijeka, no bez većih posljedica. Urednik: Mario Krstanović</description>
