@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Nov 2023 21:46:15 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 21:50:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.11. 2023-11-07</title>
+    <link>https://api.hrt.hr/media/f4/a3/20231107-kronika-dana-34658314-20231107213510.mp3</link>
+    <description>Tri slučaja trovanja gaziranim bezalkoholnim pićima, jedan u Rijeci i dva u Zagrebu. Premijer Plenković očekuje da DORH objasni zašto je pao ključni dokaz u slučaju Agrokor. Veliko nezadovoljstvo seljaka metodama za suzbijanje afričke svinjske kuge, Stožer za obranu hrvatskog sela poziva premijera i ministricu poljoprivrede na sastanak u Slavoniju. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f4/a3/20231107-kronika-dana-34658314-20231107213510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.11. 2023-11-06</title>
     <link>https://api.hrt.hr/media/dc/c8/20231106-kronika-dana-34654602-20231106214026.mp3</link>
     <description>Sud nezakonitim proglasio ključni dokaz za slučaj Agrokor, Ivica Todorić uvjeren u konačnu pobjedu. U Gazi poginulo više od 4 tisuće djece, to je "groblje za djecu", rekao glavni tajnik UN-a. Italija će izgraditi prihvatne centre za migrante u Albaniji. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Očekuje se novo pogoršanje vremena i rast vodostaja rijeka! Rat Izraela i Hamasa traje već četiri tjedna. U Zagreb stigla prva skupina evakuiranih hrvatskih državljana. Studeni - mjesec borbe protiv raka prostate od kojeg u Hrvatskoj svake godine umre 800 ljudi. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 04 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/64/20231104-kronika-dana-34649096-20231104214103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.11. 2023-11-03</title>
-    <link>https://api.hrt.hr/media/83/da/20231103-kronika-dana-34646851-20231103213510.mp3</link>
-    <description>Šesnaestero poginulih u oluji Kiran koja je poharala Europu. Njezini rubni dijelovi zahvatili su i našu zemlju. Vijeće za domovinski pijetet prihvatilo programe obilježavanja Dana sjećanja na žrtvu Vukovara i Škabrnje, ali ne i plakat. Izraelska vojska napala konvoj vozila hitne pomoći, tvrdi da su u njemu bili pripadnici Hamasa. Američki državni tajnik Blinken od Izraela zatražio humanitarnu stanku. . Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 03 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/da/20231103-kronika-dana-34646851-20231103213510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
