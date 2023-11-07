@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Nov 2023 07:10:34 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 06:47:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.11. 2023-11-07</title>
+    <link>https://api.hrt.hr/media/77/30/20231107-jutarnja-kronika-34655151-20231107063039.mp3</link>
+    <description>Broj poginulih Palestinaca premašio je 10 tisuća, uključujući više od 4 tisuće djece, tvrde Hamasove palestinske vlasti.	nezakonitim proglasio ključni dokaz u slučaju Agrokor. Ivica Todorić uvjeren da će dobiti i arbitražu pred sudom u Washingtonu. Od ponoći jeftiniji dizel, cijena benzina nije se mijenjala. Na zagrebačkom Velesajmu otvara se 45. međunarodni sajam knjiga Interliber. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/77/30/20231107-jutarnja-kronika-34655151-20231107063039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.11. 2023-11-06</title>
     <link>https://api.hrt.hr/media/0c/64/20231106-jutarnja-kronika-34651706-20231106064517.mp3</link>
     <description>Izrael i dalje silovito napada Pojas Gaze, izraelska vojska tvrdi da je podijelila regiju na dva dijela. U Hrvatsku stigla i posljednja skupina hrvatskih državljana evakuiranih iz Pojasa Gaze. Premijer Andrej Plenković odlazi u posjet Azerbajdžanu. Počinje 21. Zagrebački filmski festival. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vrhunac vodenog vala prošao Zagrebom. Za Savu vrijede redovne mjere obrane od poplave. Očekuje se rast vodostaja Drave. U izraelskom bombardiranju konvoja vozila hitne pomoći 15 ubijenih, a 60 ranjenih. U potresu u Nepalu poginulo najmanje 129 osoba. Urednica Marija Gerbec Njavro</description>
     <pubDate>Sat, 04 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/88/ec/20231104-jutarnja-kronika-34647373-20231104063553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.11. 2023-11-03</title>
-    <link>https://api.hrt.hr/media/84/c2/20231103-jutarnja-kronika-34643910-20231103063546.mp3</link>
-    <description>Ministarstvo zdravstva u Gazi objavilo da je u napadima izraelske vojske poginulo više od 9 tisuća ljudi. 22-oje hrvatskih državljana jučer je evakuirano iz Gaze. Sastaje se Vijeće za domovinski pijetet, mir i razvoj. Gradonačelnik Vukovara Ivan Penava, prema najavama, neće sudjelovati. Oluja Ciaran, koja hara Europom, odnijela 7 života. U Hrvatskoj na snazi crveni meteoalarm za tri regije: riječku, splitsku i kninsku. U Zagrebu počinju Dani Orisa, međunarodni arhitektonski skup. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 03 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/c2/20231103-jutarnja-kronika-34643910-20231103063546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
