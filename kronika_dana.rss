@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Nov 2023 21:50:05 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 21:53:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.11. 2023-11-08</title>
+    <link>https://api.hrt.hr/media/3d/ce/20231108-kronika-dana-34662124-20231108214004.mp3</link>
+    <description>14 osoba prijavilo moguće trovanje gaziranim napitcima Coca-Cole, četiri imaju lezije probavne sluznice. Državni inspektorat privremeno zabranio prodaju spornih pića, mnogi trgovci više nemaju u ponudi ni jedan Coca-Colin napitak. 29 osoba uhićeno zbog pronevjere dva milijuna eura uglavnom europskog novca na projektima zagrebačkoga Geodetskog fakulteta. Ispitivanja trajala cijeli dan, nastavljaju se i sutra. Burnim aktualnim prijepodnevom, koje je trajalo gotovo šest sati, Sabor počeo posljednju ovogodišnju sjednicu. Izraelska vojska tvrdi da Hamas gubi nadzor nad sjeverom Gaze. Do sada je u sukobu poginulo oko 10 i pol tisuća ljudi. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 08 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3d/ce/20231108-kronika-dana-34662124-20231108214004.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.11. 2023-11-07</title>
     <link>https://api.hrt.hr/media/f4/a3/20231107-kronika-dana-34658314-20231107213510.mp3</link>
     <description>Tri slučaja trovanja gaziranim bezalkoholnim pićima, jedan u Rijeci i dva u Zagrebu. Premijer Plenković očekuje da DORH objasni zašto je pao ključni dokaz u slučaju Agrokor. Veliko nezadovoljstvo seljaka metodama za suzbijanje afričke svinjske kuge, Stožer za obranu hrvatskog sela poziva premijera i ministricu poljoprivrede na sastanak u Slavoniju. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>I večeras siloviti izraelski napadi na pojas Gaze, izraelska vojska tvrdi da je opkolila grad Gazu i podijelila regiju na dva dijela. U Hrvatsku stigla i posljednja skupina hrvatskih državljana evakuiranih iz pojasa Gaze. Vodostaji rijeka u opadanju, olujni vjetar i obilna kiša duž obale. Urednica Mira Barić</description>
     <pubDate>Sun, 05 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f4/7d/20231105-kronika-dana-34651155-20231105214019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.11. 2023-11-04</title>
-    <link>https://api.hrt.hr/media/69/64/20231104-kronika-dana-34649096-20231104214103.mp3</link>
-    <description>Očekuje se novo pogoršanje vremena i rast vodostaja rijeka! Rat Izraela i Hamasa traje već četiri tjedna. U Zagreb stigla prva skupina evakuiranih hrvatskih državljana. Studeni - mjesec borbe protiv raka prostate od kojeg u Hrvatskoj svake godine umre 800 ljudi. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 04 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/64/20231104-kronika-dana-34649096-20231104214103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
