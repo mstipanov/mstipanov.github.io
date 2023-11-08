@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Nov 2023 06:47:36 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 06:51:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.11. 2023-11-08</title>
+    <link>https://api.hrt.hr/media/71/26/20231108-jutarnja-kronika-34658920-20231108063542.mp3</link>
+    <description>Danas bismo trebali znati rezultat analize spornih gaziranih pića zbog kojih imamo čak četiri slučaja trovanja - jedan u Rijeci i tri u Zagrebu. Aktualnim prijepodnevom Sabor počinje 19. sjednicu koja će trajati do sredine prosinca. Američki predsjednik Joe Biden zatražio je od izraelskog premijera Netanyahua trodnevnu stanku u borbama u pojasu Gaze. Urednica: Mira Barić</description>
+    <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/26/20231108-jutarnja-kronika-34658920-20231108063542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.11. 2023-11-07</title>
     <link>https://api.hrt.hr/media/77/30/20231107-jutarnja-kronika-34655151-20231107063039.mp3</link>
     <description>Broj poginulih Palestinaca premašio je 10 tisuća, uključujući više od 4 tisuće djece, tvrde Hamasove palestinske vlasti.	nezakonitim proglasio ključni dokaz u slučaju Agrokor. Ivica Todorić uvjeren da će dobiti i arbitražu pred sudom u Washingtonu. Od ponoći jeftiniji dizel, cijena benzina nije se mijenjala. Na zagrebačkom Velesajmu otvara se 45. međunarodni sajam knjiga Interliber. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Europi i SAD-u veliki prosvjedi potpore za Palestinu. Izrael ponovno pozvao civile da napuste sjever Gaze. Očekuje se dolazak 16 hrvastkih državljana iz pojasa Gaze. Jučer stiglo prvih 6-ero. Talačka kriza u zračnoj luci u Hamburgu. U glavnom gradu trčat će se 12. Zagrebački noćni cener. Urednica je: Marija Gerbec Njavro</description>
     <pubDate>Sun, 05 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c1/6d/20231105-jutarnja-kronika-34649639-20231105063022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.11. 2023-11-04</title>
-    <link>https://api.hrt.hr/media/88/ec/20231104-jutarnja-kronika-34647373-20231104063553.mp3</link>
-    <description>Vrhunac vodenog vala prošao Zagrebom. Za Savu vrijede redovne mjere obrane od poplave. Očekuje se rast vodostaja Drave. U izraelskom bombardiranju konvoja vozila hitne pomoći 15 ubijenih, a 60 ranjenih. U potresu u Nepalu poginulo najmanje 129 osoba. Urednica Marija Gerbec Njavro</description>
-    <pubDate>Sat, 04 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/88/ec/20231104-jutarnja-kronika-34647373-20231104063553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
