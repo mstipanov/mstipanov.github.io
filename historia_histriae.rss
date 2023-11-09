@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Nov 2023 16:57:11 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 17:19:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Pero Tadić 2023-11-09</title>
+    <link>https://api.hrt.hr/media/ea/7b/20231109-historia-histriae-8004522-20231109165526.mp3</link>
+    <description>U goste nam dolazi boksačka legenda Pero Tadić!</description>
+    <pubDate>Thu, 09 Nov 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/7b/20231109-historia-histriae-8004522-20231109165526.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>DARIO RUZIC 2023-11-02</title>
     <link>https://api.hrt.hr/media/c1/50/20231102-historia-histriae-8002155-20231102160023.mp3</link>
     <description>U goste nam dolazi legendarni golman NK Istre Dario Ružić </description>
@@ -79,14 +87,6 @@
     <description>Novu sezonu počinjemo prisjećanjem na emisije u kojima je gostovao Miroslav Bertoša. Pričamo o Istri u novom vjeku.....</description>
     <pubDate>Thu, 07 Sep 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a1/70/20230907-historia-histriae-7982600-20230907152534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>HISTORIA ZA 22.6. 2023-06-22</title>
-    <link>https://api.hrt.hr/media/ce/97/20230622-historia-histriae-7960937-20230622160526.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 22 Jun 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ce/97/20230622-historia-histriae-7960937-20230622160526.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
