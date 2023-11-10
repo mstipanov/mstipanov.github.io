@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Nov 2023 21:50:40 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 21:54:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.11. 2023-11-10</title>
+    <link>https://api.hrt.hr/media/dc/45/20231110-kronika-dana-34669608-20231110214059.mp3</link>
+    <description>U nekoliko europskih zemalja uhićenja desničarskih terorista, u Hrvatskoj uhićena dva maloljetnika. Uskoro će ponovno biti ispitana 102 Dinamova navijača pritvorena u Grčkoj, moguć je nastavak suđenja u Hrvatskoj ili puštanje na slobodu. Nema novih slučajeva trovanja gaziranim pićima, istraga još traje. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 10 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/45/20231110-kronika-dana-34669608-20231110214059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.11. 2023-11-09</title>
     <link>https://api.hrt.hr/media/3f/64/20231109-kronika-dana-34665837-20231109214027.mp3</link>
     <description>Mladić u Rijeci otrovao se sredstvom za pranje ili odmašćivanje, potvrdilo je forenzično istraživanje. Bivšem dekanu zagrebačkog Geodetskog fakulteta Alminu Đapi te profesoru Bošku Pribičeviću određen jednomjesečni istražni zatvor. Uhićen Grk čiji je DNK pronađen na mjestu ubojstva Michalisa Kastoriusa u kolovozu, a zbog čega je stotinjak hrvatskih državljana već mjesecima u grčkim zatvorma. Vlada prihvatila prijedlog proračuna za iduću godinu. Na danima hrvatskog turizma u Rovinju, održivost je u središtu svih razgovora. ACY marine slave 40. obljetnicu. Izrael pristao na kratkotrajne stanke u borbenim operacijama na sjeveru Gaze. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Tri slučaja trovanja gaziranim bezalkoholnim pićima, jedan u Rijeci i dva u Zagrebu. Premijer Plenković očekuje da DORH objasni zašto je pao ključni dokaz u slučaju Agrokor. Veliko nezadovoljstvo seljaka metodama za suzbijanje afričke svinjske kuge, Stožer za obranu hrvatskog sela poziva premijera i ministricu poljoprivrede na sastanak u Slavoniju. Urednica: Sanja Cota</description>
     <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f4/a3/20231107-kronika-dana-34658314-20231107213510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.11. 2023-11-06</title>
-    <link>https://api.hrt.hr/media/dc/c8/20231106-kronika-dana-34654602-20231106214026.mp3</link>
-    <description>Sud nezakonitim proglasio ključni dokaz za slučaj Agrokor, Ivica Todorić uvjeren u konačnu pobjedu. U Gazi poginulo više od 4 tisuće djece, to je "groblje za djecu", rekao glavni tajnik UN-a. Italija će izgraditi prihvatne centre za migrante u Albaniji. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 06 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/c8/20231106-kronika-dana-34654602-20231106214026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
