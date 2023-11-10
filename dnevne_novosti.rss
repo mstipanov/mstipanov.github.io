@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Nov 2023 14:49:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 14:53:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.11. 2023-11-10</title>
+    <link>https://api.hrt.hr/media/6f/e3/20231110-dnevne-novosti-34668544-20231110143558.mp3</link>
+    <description>Nastavlja se kriminalistička istraga nakon što je utvrđeno da je mladić u Rijeci prošli tjedan iz boce gaziranog pića popio lužnatu tekućinu. Ponovno izraelski zračni napad na bolnicu u Gazi. Hamas ispalio rakete duboko na izraelski teritorij. Španjolska desnica već danima prosvjeduje protiv najavljene amnestije za organizatore katalonskog referenduma. Večeras će se na Danima hrvatskog turizma u Rovinju dodijeliti nagrade najboljim turističkim pojedincima, tvrtkama i odredištima. U veljači bi iz Kalifornije trebao biti lansiran prvi hrvatski satelit. Uoči i tijekom Martinja policija će pojačano nadzirati promet. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 10 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6f/e3/20231110-dnevne-novosti-34668544-20231110143558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.11. 2023-11-09</title>
     <link>https://api.hrt.hr/media/c2/8e/20231109-dnevne-novosti-34664812-20231109144026.mp3</link>
     <description>Potvrđena onečišćenost mineralne vode Romerquelle poslužene u riječkom kafiću - vjerojatno je riječ o nekom sredstvu za pranje ili odmašćivanje. Navodno je nekoliko jučer uhićenih osoba u aferi "Geodetski fakultet" priznalo krivnju i objasnilo kako se izvlačio europski novac. Sabor raspravlja o Vladinu izvješću o stanju ilegalnih migracija od ulaska naše zemlje u Schengen. Izraelske snage napredovale su do središta grada Gaze. U Parizu veliki sastanak o koordinaciji slanja pomoći pojasu Gaze. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Policija istražuje slučaj trovanja u Rijeci, nakon što je u bolnicu primljena jedna osoba zbog kemijske ozljede jednjaka. Na društvenim mrežama zastrašujuće poruke, iz Coca cole tvrde da se radi o izoliranom slučaju. Dan nakon što je Visoki kazneni sud srušio ključni dokaz u slučaju Agrokor, Todorićeva obrana očekuje da DORH povuče optužnice. Mjesec dana od Hamasova napada na Izrael, premijer Netanjahu kaže da će nakon završetka sukoba Gazom na neodređeno vrijeme upravljati Izrael. Počeo je Interliber, naša najveća književna manifestacija. Urednica: Mira Barić</description>
     <pubDate>Tue, 07 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9b/42/20231107-dnevne-novosti-34657279-20231107143548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.11. 2023-11-06</title>
-    <link>https://api.hrt.hr/media/61/4b/20231106-dnevne-novosti-34653666-20231106144518.mp3</link>
-    <description>Pao je ključni dokaz protiv Ivice Todorića. Visoki kazneni sud iz spisa u slučaju Agrokor - izbacio knjigovodstveno-financijsko vještačenje plaćeno više od milijun eura. Zbog sumnje na korupciju, u Zadru i Zagrebu uhićene dvije osobe, neslužbeno, bivša rektorica zadarskoga Sveučilišta Dijana Vican i direktor tvrtke Graditelj svratišta Ante Stanišić. Unatoč diplomatskim naporima, izraelski napadi na Pojas Gaze se pojačavaju. Izraelska vojska planira u sljedećih 48 sati ući u potpuno opkoljeni grad Gazu. Urednica: Mira Barić</description>
-    <pubDate>Mon, 06 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/61/4b/20231106-dnevne-novosti-34653666-20231106144518.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
