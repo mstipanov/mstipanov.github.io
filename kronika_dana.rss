@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 10 Nov 2023 21:54:30 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 21:58:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.11. 2023-11-11</title>
+    <link>https://api.hrt.hr/media/a3/03/20231111-kronika-dana-34671963-20231111214001.mp3</link>
+    <description>Premijer Plenković razriješio ministra obrane Marija Banožića nakon što je skrivio tešku prometnu nesreću. Međunarodne humanitarne organizacije javljaju da su bolnice u Gazi pod neprekidnim napadima. Na Islandu izvanredno stanje zbog bojazni od erupcije vulkana. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 11 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a3/03/20231111-kronika-dana-34671963-20231111214001.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.11. 2023-11-10</title>
     <link>https://api.hrt.hr/media/dc/45/20231110-kronika-dana-34669608-20231110214059.mp3</link>
     <description>U nekoliko europskih zemalja uhićenja desničarskih terorista, u Hrvatskoj uhićena dva maloljetnika. Uskoro će ponovno biti ispitana 102 Dinamova navijača pritvorena u Grčkoj, moguć je nastavak suđenja u Hrvatskoj ili puštanje na slobodu. Nema novih slučajeva trovanja gaziranim pićima, istraga još traje. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>14 osoba prijavilo moguće trovanje gaziranim napitcima Coca-Cole, četiri imaju lezije probavne sluznice. Državni inspektorat privremeno zabranio prodaju spornih pića, mnogi trgovci više nemaju u ponudi ni jedan Coca-Colin napitak. 29 osoba uhićeno zbog pronevjere dva milijuna eura uglavnom europskog novca na projektima zagrebačkoga Geodetskog fakulteta. Ispitivanja trajala cijeli dan, nastavljaju se i sutra. Burnim aktualnim prijepodnevom, koje je trajalo gotovo šest sati, Sabor počeo posljednju ovogodišnju sjednicu. Izraelska vojska tvrdi da Hamas gubi nadzor nad sjeverom Gaze. Do sada je u sukobu poginulo oko 10 i pol tisuća ljudi. Urednik: Silvio Šop</description>
     <pubDate>Wed, 08 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3d/ce/20231108-kronika-dana-34662124-20231108214004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.11. 2023-11-07</title>
-    <link>https://api.hrt.hr/media/f4/a3/20231107-kronika-dana-34658314-20231107213510.mp3</link>
-    <description>Tri slučaja trovanja gaziranim bezalkoholnim pićima, jedan u Rijeci i dva u Zagrebu. Premijer Plenković očekuje da DORH objasni zašto je pao ključni dokaz u slučaju Agrokor. Veliko nezadovoljstvo seljaka metodama za suzbijanje afričke svinjske kuge, Stožer za obranu hrvatskog sela poziva premijera i ministricu poljoprivrede na sastanak u Slavoniju. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f4/a3/20231107-kronika-dana-34658314-20231107213510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
