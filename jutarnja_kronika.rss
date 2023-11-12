@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Nov 2023 06:55:52 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 07:00:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.11. 2023-11-12</title>
+    <link>https://api.hrt.hr/media/a8/d5/20231112-jutarnja-kronika-34672482-20231112063532.mp3</link>
+    <description>Nakon teške prometne nesreće, premijer Andrej Plenković razriješio dužnosti ministra obrane Marija Banožića.Svjetska zdravstvena organizacija izgubila komunikaciju sa svojim kontaktima u bolnici Al Shifi u sjevernoj Gazi, zabrinuta za sigurnost svih koji su u njoj zarobljeni.U splitskom Hrvatskom narodnom kazalištu sinoć je premijerno izvedena "Crvena voda" prema nagrađenom romanu Jurice Pavičića. Urednica Mira Barić</description>
+    <pubDate>Sun, 12 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/d5/20231112-jutarnja-kronika-34672482-20231112063532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.11. 2023-11-11</title>
     <link>https://api.hrt.hr/media/25/68/20231111-jutarnja-kronika-34670157-20231111064059.mp3</link>
     <description>Agencija Moody's potvrdila kreditni rejting Hrvatske i izmijenila izglede iz 'stabilnih u 'pozitivne'. U nekoliko europskih zemalja uhićenja desničarskih terorista, u Hrvatskoj uhićena dvojica maloljetnika. Nema novih slučajeva trovanja gaziranim pićima, istraga još traje. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Dvije osobe, od četiri koje imaju oštećenja jednjaka, zadržane na liječenju. Zasad nema dokaza da se radi o trovanju gaziranim pićima. Više od stotinu Dinamovih navijača već tri mjeseca u grčkim zatvorima, roditelji očajni. U Saboru dugo očekivana raprava o ilegalnim migracijama. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/c5/20231109-jutarnja-kronika-34662715-20231109065058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.11. 2023-11-08</title>
-    <link>https://api.hrt.hr/media/71/26/20231108-jutarnja-kronika-34658920-20231108063542.mp3</link>
-    <description>Danas bismo trebali znati rezultat analize spornih gaziranih pića zbog kojih imamo čak četiri slučaja trovanja - jedan u Rijeci i tri u Zagrebu. Aktualnim prijepodnevom Sabor počinje 19. sjednicu koja će trajati do sredine prosinca. Američki predsjednik Joe Biden zatražio je od izraelskog premijera Netanyahua trodnevnu stanku u borbama u pojasu Gaze. Urednica: Mira Barić</description>
-    <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/26/20231108-jutarnja-kronika-34658920-20231108063542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
