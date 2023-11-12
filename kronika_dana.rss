@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 12 Nov 2023 21:32:22 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 22:02:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.11. 2023-11-12</title>
+    <link>https://api.hrt.hr/media/67/c2/20231112-kronika-dana-34674204-20231112214032.mp3</link>
+    <description>Zbog izazivanja prometne nesreće policija podnijela kaznenu prijavu protiv bivšeg ministra Marija Banožića, kvalifikaciju djela odredit će Državno odvjetništvo. Međunarodne organizacije traže od Izraela prekid napada na bolnice, Izrael ih okrivljuje za prešutno sudjelovanje u Hamasovoj taktici. Sport: Leona Popović druga u slalomu u Leviju! Urednica: Sanja Cota</description>
+    <pubDate>Sun, 12 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/67/c2/20231112-kronika-dana-34674204-20231112214032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.11. 2023-11-11</title>
     <link>https://api.hrt.hr/media/a3/03/20231111-kronika-dana-34671963-20231111214001.mp3</link>
     <description>Premijer Plenković razriješio ministra obrane Marija Banožića nakon što je skrivio tešku prometnu nesreću. Međunarodne humanitarne organizacije javljaju da su bolnice u Gazi pod neprekidnim napadima. Na Islandu izvanredno stanje zbog bojazni od erupcije vulkana. Urednica: Sanja Cota</description>
