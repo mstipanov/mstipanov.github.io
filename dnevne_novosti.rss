@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Nov 2023 14:57:03 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 15:01:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.11. 2023-11-12</title>
+    <link>https://api.hrt.hr/media/58/26/20231112-dnevne-novosti-34673501-20231112143532.mp3</link>
+    <description>Mario Banožić stabilno, no još nije doznao da je razriješen dužnosti ministra obrane. Konzultacije o njegovu nasljedniku Vlada počinje sutra. Svijet strahuje za sudbinu novorođenčadi u najvećoj bolnici u Gazi. Troje već umrlo jer inkubatori ne rade zbog nestanka struje. Građani od sutra mogu kupiti trezorske zapise. 120 tisuća ljudi posjetilo Interliber. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 12 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/58/26/20231112-dnevne-novosti-34673501-20231112143532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.11. 2023-11-11</title>
     <link>https://api.hrt.hr/media/f3/9f/20231111-dnevne-novosti-34671166-20231111144101.mp3</link>
     <description>Vozač kombija poginuo u prometnoj nesreći u kojoj je sudjelovao ministar Banožić. Ministar teško ozlijeđen, ali izvan životne opasnosti. Agencija Moody's potvrdila kreditni rejting Hrvatske - i poboljšala izglede iz stabilnih u pozitivne. Pojas Gaze i dalje na udaru izraelskih napada - većina bolnica u potpunom mraku i opkoljena. Na Islandu izvanredno stanje nakon intenzivnog vala potresa na jugozapadu zemlje, evakuirani stanovnici jednog obalnog grada. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Potvrđena onečišćenost mineralne vode Romerquelle poslužene u riječkom kafiću - vjerojatno je riječ o nekom sredstvu za pranje ili odmašćivanje. Navodno je nekoliko jučer uhićenih osoba u aferi "Geodetski fakultet" priznalo krivnju i objasnilo kako se izvlačio europski novac. Sabor raspravlja o Vladinu izvješću o stanju ilegalnih migracija od ulaska naše zemlje u Schengen. Izraelske snage napredovale su do središta grada Gaze. U Parizu veliki sastanak o koordinaciji slanja pomoći pojasu Gaze. Urednik: Silvio Šop</description>
     <pubDate>Thu, 09 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/8e/20231109-dnevne-novosti-34664812-20231109144026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.11. 2023-11-08</title>
-    <link>https://api.hrt.hr/media/86/a2/20231108-dnevne-novosti-34660940-20231108143541.mp3</link>
-    <description>Prijavljuju se novi sumnjivi slučajevi trovanja, Coca-Cola povukla tri linije pića, trgovine prazne police. 29 osoba uhićeno zbog subvencijskih prijevara na zagrebačkome Geodetskom fakultetu, istragu počeo Ured europskoga javnog tužitelja. Ministrica Obuljen Koržinek negira optužbe koje je povezuju sa spornim isplatama Geodetskom fakultetu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 08 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/86/a2/20231108-dnevne-novosti-34660940-20231108143541.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
