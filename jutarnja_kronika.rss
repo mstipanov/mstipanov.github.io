@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 12 Nov 2023 07:00:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 07:03:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.11. 2023-11-13</title>
+    <link>https://api.hrt.hr/media/53/7c/20231113-jutarnja-kronika-34674801-20231113063508.mp3</link>
+    <description>Banožić prijavljen za nesreću sa smrtnom posljedicom iz nehaja. Počinju konzultacije o izboru novog ministra obrane. Od danas se upisuju narodni trezorski zapisi na koje država jamči prinos od 3,75 posto. Kod Daruvarskih toplica otvara se najveći veteranski centar u državi. Na svjetskim tržištima treći tjedan zaredom pada cijena nafte. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/53/7c/20231113-jutarnja-kronika-34674801-20231113063508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.11. 2023-11-12</title>
     <link>https://api.hrt.hr/media/a8/d5/20231112-jutarnja-kronika-34672482-20231112063532.mp3</link>
     <description>Nakon teške prometne nesreće, premijer Andrej Plenković razriješio dužnosti ministra obrane Marija Banožića.Svjetska zdravstvena organizacija izgubila komunikaciju sa svojim kontaktima u bolnici Al Shifi u sjevernoj Gazi, zabrinuta za sigurnost svih koji su u njoj zarobljeni.U splitskom Hrvatskom narodnom kazalištu sinoć je premijerno izvedena "Crvena voda" prema nagrađenom romanu Jurice Pavičića. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Mladić u Rijeci u kafiću otrovao se sredstvom za pranje ili odmašćivanje, koje je bilo u bočici mineralne vode. Svi ostali uzorci na analizi bili su zdravstveno ispravni. Daljnja istraga bit će usmjerena prema Rijeci. Odvjetnici jučer uhićenog navijača u Grčkoj, kojeg se dovodilo u vezu s ubojstvom Michalisa Katsourisa, tvrde da njihov klijent nema nikakve veze s tim slučajem. Bivšem dekanu zagrebačkoga Geodetskog fakulteta Alminu Đapi te profesoru Bošku Pribičeviću određen jednomjesečni istražni zatvor zbog sumnje na zlouporabu europskog novca. Prvi od dvaju rasprodanih koncerata u zagrebačkoj Tvornici održat će slovenska indie-rock senzacija Joker Out. Urednik: Silvio Šop</description>
     <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e0/2d/20231110-jutarnja-kronika-34666402-20231110064058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.11. 2023-11-09</title>
-    <link>https://api.hrt.hr/media/31/c5/20231109-jutarnja-kronika-34662715-20231109065058.mp3</link>
-    <description>Dvije osobe, od četiri koje imaju oštećenja jednjaka, zadržane na liječenju. Zasad nema dokaza da se radi o trovanju gaziranim pićima. Više od stotinu Dinamovih navijača već tri mjeseca u grčkim zatvorima, roditelji očajni. U Saboru dugo očekivana raprava o ilegalnim migracijama. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/c5/20231109-jutarnja-kronika-34662715-20231109065058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
