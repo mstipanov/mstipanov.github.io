@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 12 Nov 2023 22:02:27 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 22:06:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.11. 2023-11-13</title>
+    <link>https://api.hrt.hr/media/cc/9b/20231113-kronika-dana-34677754-20231113214009.mp3</link>
+    <description>Ivan Anušić kandidat je za novoga potpredsjednika Vlade i ministra obrane.Hamas ponudio oslobađanje do 70 otetih žena i djece u zamjenu za petodnevno primirje, javljaju neki izraelski mediji.Promjene u britanskoj vladi. Smijenjena ministrica unutarnjih poslova nakon što je kritizirala propalestinske skupove. Na mjesto ministra vanjskih poslova dolazi bivši premijer David Cameron. Urednica: Mira Braić</description>
+    <pubDate>Mon, 13 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/9b/20231113-kronika-dana-34677754-20231113214009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.11. 2023-11-12</title>
     <link>https://api.hrt.hr/media/67/c2/20231112-kronika-dana-34674204-20231112214032.mp3</link>
     <description>Zbog izazivanja prometne nesreće policija podnijela kaznenu prijavu protiv bivšeg ministra Marija Banožića, kvalifikaciju djela odredit će Državno odvjetništvo. Međunarodne organizacije traže od Izraela prekid napada na bolnice, Izrael ih okrivljuje za prešutno sudjelovanje u Hamasovoj taktici. Sport: Leona Popović druga u slalomu u Leviju! Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U nekoliko europskih zemalja uhićenja desničarskih terorista, u Hrvatskoj uhićena dva maloljetnika. Uskoro će ponovno biti ispitana 102 Dinamova navijača pritvorena u Grčkoj, moguć je nastavak suđenja u Hrvatskoj ili puštanje na slobodu. Nema novih slučajeva trovanja gaziranim pićima, istraga još traje. Urednica: Sanja Cota</description>
     <pubDate>Fri, 10 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/45/20231110-kronika-dana-34669608-20231110214059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.11. 2023-11-09</title>
-    <link>https://api.hrt.hr/media/3f/64/20231109-kronika-dana-34665837-20231109214027.mp3</link>
-    <description>Mladić u Rijeci otrovao se sredstvom za pranje ili odmašćivanje, potvrdilo je forenzično istraživanje. Bivšem dekanu zagrebačkog Geodetskog fakulteta Alminu Đapi te profesoru Bošku Pribičeviću određen jednomjesečni istražni zatvor. Uhićen Grk čiji je DNK pronađen na mjestu ubojstva Michalisa Kastoriusa u kolovozu, a zbog čega je stotinjak hrvatskih državljana već mjesecima u grčkim zatvorma. Vlada prihvatila prijedlog proračuna za iduću godinu. Na danima hrvatskog turizma u Rovinju, održivost je u središtu svih razgovora. ACY marine slave 40. obljetnicu. Izrael pristao na kratkotrajne stanke u borbenim operacijama na sjeveru Gaze. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 09 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/64/20231109-kronika-dana-34665837-20231109214027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
