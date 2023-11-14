@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Nov 2023 07:03:50 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 07:07:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.11. 2023-11-14</title>
+    <link>https://api.hrt.hr/media/81/94/20231114-jutarnja-kronika-34678404-20231114063540.mp3</link>
+    <description>U četvrtak u Saboru glasovanje o novom potpredsjedniku Vlade i ministru obrane Ivanu Anušiću. U posljednjih nekoliko dana nisu zabilježeni novi slučajevi afričke svinjske kuge. Nastavi li se ta situacija uskoro bi mogle biti odobrene tradicijske svinjokolje u pogođenim županijama. Dug veledrogerijama za lijekove premašio 600 milijuna eura. Medika prijeti ovrhom. Kako javljaju neki izraelski mediji, Hamas ponudio oslobađanje 70 otetih žena i djece u zamjenu za petodnevno primirje. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/81/94/20231114-jutarnja-kronika-34678404-20231114063540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.11. 2023-11-13</title>
     <link>https://api.hrt.hr/media/53/7c/20231113-jutarnja-kronika-34674801-20231113063508.mp3</link>
     <description>Banožić prijavljen za nesreću sa smrtnom posljedicom iz nehaja. Počinju konzultacije o izboru novog ministra obrane. Od danas se upisuju narodni trezorski zapisi na koje država jamči prinos od 3,75 posto. Kod Daruvarskih toplica otvara se najveći veteranski centar u državi. Na svjetskim tržištima treći tjedan zaredom pada cijena nafte. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Agencija Moody's potvrdila kreditni rejting Hrvatske i izmijenila izglede iz 'stabilnih u 'pozitivne'. U nekoliko europskih zemalja uhićenja desničarskih terorista, u Hrvatskoj uhićena dvojica maloljetnika. Nema novih slučajeva trovanja gaziranim pićima, istraga još traje. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 11 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/68/20231111-jutarnja-kronika-34670157-20231111064059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.11. 2023-11-10</title>
-    <link>https://api.hrt.hr/media/e0/2d/20231110-jutarnja-kronika-34666402-20231110064058.mp3</link>
-    <description>Mladić u Rijeci u kafiću otrovao se sredstvom za pranje ili odmašćivanje, koje je bilo u bočici mineralne vode. Svi ostali uzorci na analizi bili su zdravstveno ispravni. Daljnja istraga bit će usmjerena prema Rijeci. Odvjetnici jučer uhićenog navijača u Grčkoj, kojeg se dovodilo u vezu s ubojstvom Michalisa Katsourisa, tvrde da njihov klijent nema nikakve veze s tim slučajem. Bivšem dekanu zagrebačkoga Geodetskog fakulteta Alminu Đapi te profesoru Bošku Pribičeviću određen jednomjesečni istražni zatvor zbog sumnje na zlouporabu europskog novca. Prvi od dvaju rasprodanih koncerata u zagrebačkoj Tvornici održat će slovenska indie-rock senzacija Joker Out. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e0/2d/20231110-jutarnja-kronika-34666402-20231110064058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
