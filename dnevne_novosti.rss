@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Nov 2023 15:05:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 14:39:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vozač kombija poginuo u prometnoj nesreći u kojoj je sudjelovao ministar Banožić. Ministar teško ozlijeđen, ali izvan životne opasnosti. Agencija Moody's potvrdila kreditni rejting Hrvatske - i poboljšala izglede iz stabilnih u pozitivne. Pojas Gaze i dalje na udaru izraelskih napada - većina bolnica u potpunom mraku i opkoljena. Na Islandu izvanredno stanje nakon intenzivnog vala potresa na jugozapadu zemlje, evakuirani stanovnici jednog obalnog grada. Urednica: Mira Barić</description>
     <pubDate>Sat, 11 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f3/9f/20231111-dnevne-novosti-34671166-20231111144101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.11. 2023-11-10</title>
-    <link>https://api.hrt.hr/media/6f/e3/20231110-dnevne-novosti-34668544-20231110143558.mp3</link>
-    <description>Nastavlja se kriminalistička istraga nakon što je utvrđeno da je mladić u Rijeci prošli tjedan iz boce gaziranog pića popio lužnatu tekućinu. Ponovno izraelski zračni napad na bolnicu u Gazi. Hamas ispalio rakete duboko na izraelski teritorij. Španjolska desnica već danima prosvjeduje protiv najavljene amnestije za organizatore katalonskog referenduma. Večeras će se na Danima hrvatskog turizma u Rovinju dodijeliti nagrade najboljim turističkim pojedincima, tvrtkama i odredištima. U veljači bi iz Kalifornije trebao biti lansiran prvi hrvatski satelit. Uoči i tijekom Martinja policija će pojačano nadzirati promet. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 10 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6f/e3/20231110-dnevne-novosti-34668544-20231110143558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
