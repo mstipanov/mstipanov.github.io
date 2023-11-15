@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Nov 2023 15:09:35 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 14:44:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.11. 2023-11-15</title>
+    <link>https://api.hrt.hr/media/08/38/20231115-dnevne-novosti-34683879-20231115144052.mp3</link>
+    <description>Kandidat za ministra obrane Ivan Anušić odgovara na pitanja saborskog Odbora za obranu. Po medijima kruži fotografija navodnog nalaza vinkovačke bolnice, prema kojem je Mario Banožić nakon nesreće imao 0 cijelih 21 promil alkohola u krvi. Europska komisija procjenjuje da će rast hrvatskog BDP-a biti drugi najviši u Europskoj uniji, bolja od nas samo je Malta. Izraelska vojska ušla je u najveću bolnicu u Gazi, ispituje pacijente i osoblje te poziva Hamas na predaju. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 15 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/38/20231115-dnevne-novosti-34683879-20231115144052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.11. 2023-11-14</title>
     <link>https://api.hrt.hr/media/22/3a/20231114-dnevne-novosti-34680356-20231114144041.mp3</link>
     <description>Vladajuća koalicija podržala Ivana Anušića za novog ministra obrane - analitičari se slažu da je izbor Anušića najbolja politička odluka Andreja Plenkovića. Građani iz zagrebačkog hostela Arena, čiji su domovi oštećeni u potresu, moraju ga napustiti do 1. prosinca, no dio njih ne zna kamo će jer im kuće nisu obnovljene. Svjetska zdravstvena organizacija upozorava da bolnica u Gazi sliči groblju te da se tijela mrtvih ne mogu pokopati. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Mario Banožić stabilno, no još nije doznao da je razriješen dužnosti ministra obrane. Konzultacije o njegovu nasljedniku Vlada počinje sutra. Svijet strahuje za sudbinu novorođenčadi u najvećoj bolnici u Gazi. Troje već umrlo jer inkubatori ne rade zbog nestanka struje. Građani od sutra mogu kupiti trezorske zapise. 120 tisuća ljudi posjetilo Interliber. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 12 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/58/26/20231112-dnevne-novosti-34673501-20231112143532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.11. 2023-11-11</title>
-    <link>https://api.hrt.hr/media/f3/9f/20231111-dnevne-novosti-34671166-20231111144101.mp3</link>
-    <description>Vozač kombija poginuo u prometnoj nesreći u kojoj je sudjelovao ministar Banožić. Ministar teško ozlijeđen, ali izvan životne opasnosti. Agencija Moody's potvrdila kreditni rejting Hrvatske - i poboljšala izglede iz stabilnih u pozitivne. Pojas Gaze i dalje na udaru izraelskih napada - većina bolnica u potpunom mraku i opkoljena. Na Islandu izvanredno stanje nakon intenzivnog vala potresa na jugozapadu zemlje, evakuirani stanovnici jednog obalnog grada. Urednica: Mira Barić</description>
-    <pubDate>Sat, 11 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f3/9f/20231111-dnevne-novosti-34671166-20231111144101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
