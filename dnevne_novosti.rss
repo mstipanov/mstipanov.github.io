@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Nov 2023 15:18:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 14:54:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.11. 2023-11-17</title>
+    <link>https://api.hrt.hr/media/3f/35/20231117-dnevne-novosti-34691530-20231117144034.mp3</link>
+    <description>SDSS odustao od uobičajenog bacanja vijenaca u Dunav, dan uoči Kolone sjećanja. Presedan za saborsko povjerenstvo - treba odlučiti o zahtjevu, podnesenom putem odvjetnika, da se bivšem ministru Banožiću istodobno aktivira i zamrzne saborski mandat. Talijanska premijerka Meloni u dvodnevnom posjetu Hrvatskoj. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 17 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/35/20231117-dnevne-novosti-34691530-20231117144034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.11. 2023-11-16</title>
     <link>https://api.hrt.hr/media/40/fc/20231116-dnevne-novosti-34687623-20231116144557.mp3</link>
     <description>Ivan Anušić i službeno preuzeo dužnost ministra obrane. Traje istraga o odronu na odlagalištu otpada na Jakuševcu, gradonačelnik Tomašević tvrdi da nije bilo opasnosti za građane. Premijer Plenković domaćin radne večere na kojoj će biti predsjednik Europskog vijeća, te premijeri Italije, Malte i Poljske. Izraelska vojska nastavlja pretragu najveće palestinske bolnice Al Šhife dok međunarodne humanitarne organizacije traže način za evakuaciju pacijenata. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Vladajuća koalicija podržala Ivana Anušića za novog ministra obrane - analitičari se slažu da je izbor Anušića najbolja politička odluka Andreja Plenkovića. Građani iz zagrebačkog hostela Arena, čiji su domovi oštećeni u potresu, moraju ga napustiti do 1. prosinca, no dio njih ne zna kamo će jer im kuće nisu obnovljene. Svjetska zdravstvena organizacija upozorava da bolnica u Gazi sliči groblju te da se tijela mrtvih ne mogu pokopati. Urednica: Mira Barić</description>
     <pubDate>Tue, 14 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/22/3a/20231114-dnevne-novosti-34680356-20231114144041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.11. 2023-11-13</title>
-    <link>https://api.hrt.hr/media/f2/61/20231113-dnevne-novosti-34676847-20231113143508.mp3</link>
-    <description>Za novog ministra obrane premijer Andrej Plenković predložio je osječko-baranjskog župana Ivana Anušića. Od danas upis narodnih trezorskih zapisa, zajamčeni godišnji prinos je 3 cijela 75 posto. Posljednjih dana nije bilo novih slučajeva afričke svinjske kuge. Najveća bolnica u pojasu Gaze više ne radi, ostala je bez vode i goriva. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 13 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f2/61/20231113-dnevne-novosti-34676847-20231113143508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
