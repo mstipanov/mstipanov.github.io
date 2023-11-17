@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Nov 2023 07:16:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 06:50:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.11. 2023-11-17</title>
+    <link>https://api.hrt.hr/media/10/8f/20231117-jutarnja-kronika-34689391-20231117063533.mp3</link>
+    <description>Uoči dana sjećanja na žrtvu Vukovara u memorijalnoj bolnici dr. Juraj Njavro održat će se središnja komemoracija. Talijanska premijerka Giorga Meloni u posjetu Zagrebu - sastat će se s premijerom Plenkovićem. Ivan Anušić i službeno postao novi ministar obrane. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/10/8f/20231117-jutarnja-kronika-34689391-20231117063533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.11. 2023-11-16</title>
     <link>https://api.hrt.hr/media/3c/b7/20231116-jutarnja-kronika-34685485-20231116063556.mp3</link>
     <description>Ne bude li iznenađenja u posljednji trenutak, Sabor će potvrditi Ivana Anušića novim ministrom obrane. Premijer Plenković domaćin je radne večere na kojoj će biti predsjednik Europskog vijeća te premijeri Italije, Malte i Poljske. Tema je novi strateški program Europske unije. Osigurati da suparništvo ne preraste u sukob - tom je rečenicom američki predsjednik Joe Biden opisao važnost sastanka s kineskim kolegom Xi Jinpingom. Vijeće sigurnosti UN-a prihvatilo je rezoluciju koja poziva na humanitarni prekid vatre u pojasu Gaze. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U četvrtak u Saboru glasovanje o novom potpredsjedniku Vlade i ministru obrane Ivanu Anušiću. U posljednjih nekoliko dana nisu zabilježeni novi slučajevi afričke svinjske kuge. Nastavi li se ta situacija uskoro bi mogle biti odobrene tradicijske svinjokolje u pogođenim županijama. Dug veledrogerijama za lijekove premašio 600 milijuna eura. Medika prijeti ovrhom. Kako javljaju neki izraelski mediji, Hamas ponudio oslobađanje 70 otetih žena i djece u zamjenu za petodnevno primirje. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/94/20231114-jutarnja-kronika-34678404-20231114063540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.11. 2023-11-13</title>
-    <link>https://api.hrt.hr/media/53/7c/20231113-jutarnja-kronika-34674801-20231113063508.mp3</link>
-    <description>Banožić prijavljen za nesreću sa smrtnom posljedicom iz nehaja. Počinju konzultacije o izboru novog ministra obrane. Od danas se upisuju narodni trezorski zapisi na koje država jamči prinos od 3,75 posto. Kod Daruvarskih toplica otvara se najveći veteranski centar u državi. Na svjetskim tržištima treći tjedan zaredom pada cijena nafte. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/7c/20231113-jutarnja-kronika-34674801-20231113063508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
