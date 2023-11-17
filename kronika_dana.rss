@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Nov 2023 21:49:12 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 21:55:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.11. 2023-11-17</title>
+    <link>https://api.hrt.hr/media/50/a9/20231117-kronika-dana-34692409-20231117214034.mp3</link>
+    <description>Diljem zemlje večeras zapaljene svijeće za heroje Vukovara i Škabrnje. Talijanska premijerka Meloni poručila iz Zagreba: "Ukinut ćemo kontrole na granicama čim se stanje smiri!" Isporuke humanitarne pomoći u Pojas Gaze od jutros uponovno prekinute.Zagrebački gradonačelnik Tomašević najavio sedam novih projekata uz 5,4 posto veći proračun od ovogodišnjeg. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 17 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/50/a9/20231117-kronika-dana-34692409-20231117214034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.11. 2023-11-16</title>
     <link>https://api.hrt.hr/media/58/6d/20231116-kronika-dana-34688673-20231116214058.mp3</link>
     <description>U Zagrebu večeras mini-summit o strateškom programu Europske unije. Ukrajinski predsjednik Zelenski tvrdi kako je ruski plan da rat bukne i na Balkanu. Ivan Anušić prisegnuo za ministra obrane. Bivši ministar Banožić aktivirat će i staviti u mirovanje saborski mandat te iskoristiti povlasticu 6+6. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Mario Banožić nije imao alkohola u krvi kada je izazvao prometnu nesreću. Ivana Anušića još dva koraka dijele od preuzimanja dužnosti ministra obrane - potpora saborskog Odbora za obranu i glasovanje u Saboru. Palestinci zatočeni u najvećoj bolnici u Gazi kopaju masovnu grobnicu kako bi pokopali pacijente koji su umrli pod izraelskom opsadom. Plana za evakuaciju novorođenčadi nema. Premijer Plenković o Stožeru za obranu hrvatskog sela - to je Domovinskom pokretu zadnja prilika da privuče pozornost. Ministar zdravstva Vili Beroš izjavio da je zakonsko rješenje zabrane konzumacije energetskih pića maloljetnicima blizu, još se traži način kako im zabraniti kupnju nikotinskih vrećica. Urednik: Silvio Šop</description>
     <pubDate>Tue, 14 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1c/0d/20231114-kronika-dana-34681203-20231114213541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.11. 2023-11-13</title>
-    <link>https://api.hrt.hr/media/cc/9b/20231113-kronika-dana-34677754-20231113214009.mp3</link>
-    <description>Ivan Anušić kandidat je za novoga potpredsjednika Vlade i ministra obrane.Hamas ponudio oslobađanje do 70 otetih žena i djece u zamjenu za petodnevno primirje, javljaju neki izraelski mediji.Promjene u britanskoj vladi. Smijenjena ministrica unutarnjih poslova nakon što je kritizirala propalestinske skupove. Na mjesto ministra vanjskih poslova dolazi bivši premijer David Cameron. Urednica: Mira Braić</description>
-    <pubDate>Mon, 13 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/9b/20231113-kronika-dana-34677754-20231113214009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
