@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 17 Nov 2023 06:50:35 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 06:56:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.11. 2023-11-18</title>
+    <link>https://api.hrt.hr/media/be/ab/20231118-jutarnja-kronika-34692945-20231118064039.mp3</link>
+    <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Banožićeva odvjetnica u njegovo ime predala zahtjev za aktivaciju saborskog mandata, mjerodavno tijelo razmatrat će ga u utorak. Isporuka humanitarne pomoći u Pojas Gaze ponovno je prekinuta. SPORT: hrvatska nogometna reprezentacija protiv Latvije u Rigi igra pretposljednju utakmicu kvalifikacija za EURO 2024. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 18 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/be/ab/20231118-jutarnja-kronika-34692945-20231118064039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.11. 2023-11-17</title>
     <link>https://api.hrt.hr/media/10/8f/20231117-jutarnja-kronika-34689391-20231117063533.mp3</link>
     <description>Uoči dana sjećanja na žrtvu Vukovara u memorijalnoj bolnici dr. Juraj Njavro održat će se središnja komemoracija. Talijanska premijerka Giorga Meloni u posjetu Zagrebu - sastat će se s premijerom Plenkovićem. Ivan Anušić i službeno postao novi ministar obrane. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Ivan Anušić bit će saslušan na sjednici Saborskog odbora za obranu. Izraelska vojska objavila da je ušla u kompleks Al Shife, najveće bolnice u Gazi, i pozvala militante Hamasa da se predaju. Ministar Beroš najavio zabranu konzumacije energetskih pića i prodaje nikotinskih vrećica maloljetnicima. U obnovljenome zagrebačkom kazalištu Gavelli večeras premijera - nova drama Mate Matišića "Moji tužni monstrumi". Urednica: Mira Barić</description>
     <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/86/bc/20231115-jutarnja-kronika-34681746-20231115064551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.11. 2023-11-14</title>
-    <link>https://api.hrt.hr/media/81/94/20231114-jutarnja-kronika-34678404-20231114063540.mp3</link>
-    <description>U četvrtak u Saboru glasovanje o novom potpredsjedniku Vlade i ministru obrane Ivanu Anušiću. U posljednjih nekoliko dana nisu zabilježeni novi slučajevi afričke svinjske kuge. Nastavi li se ta situacija uskoro bi mogle biti odobrene tradicijske svinjokolje u pogođenim županijama. Dug veledrogerijama za lijekove premašio 600 milijuna eura. Medika prijeti ovrhom. Kako javljaju neki izraelski mediji, Hamas ponudio oslobađanje 70 otetih žena i djece u zamjenu za petodnevno primirje. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/81/94/20231114-jutarnja-kronika-34678404-20231114063540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
