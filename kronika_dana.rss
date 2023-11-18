@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 17 Nov 2023 21:55:27 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 21:59:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.11. 2023-11-18</title>
+    <link>https://api.hrt.hr/media/a9/d2/20231118-kronika-dana-34694633-20231118214041.mp3</link>
+    <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Deseci tisuća ljudi u kolonama sjećanja. Humanitarno stanje u Gazi sve teže. U Madridu prosvjedi protiv premijera Sancheza, u Ukrajini prosvjedi protiv korupcije. Hrvatska nogometna reprezentacija pobjedom nad Latvijom s 2:0 na korak do Europskog prvenstva. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 18 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/d2/20231118-kronika-dana-34694633-20231118214041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.11. 2023-11-17</title>
     <link>https://api.hrt.hr/media/50/a9/20231117-kronika-dana-34692409-20231117214034.mp3</link>
     <description>Diljem zemlje večeras zapaljene svijeće za heroje Vukovara i Škabrnje. Talijanska premijerka Meloni poručila iz Zagreba: "Ukinut ćemo kontrole na granicama čim se stanje smiri!" Isporuke humanitarne pomoći u Pojas Gaze od jutros uponovno prekinute.Zagrebački gradonačelnik Tomašević najavio sedam novih projekata uz 5,4 posto veći proračun od ovogodišnjeg. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Ivan Anušić dobio potporu saborskog Odbora za obranu. Stožer za obranu hrvatskog sela 23. ovog mjeseca održat će prosvjed. Sabor raspravlja o opozivu ministrice poljoprivrede. Izraelska vojska ušla u najveću bolnicu u Gazi i tvrdi da je pronašla Hamasovo oružje i borbenu opremu. Urednica: Sanja Cota</description>
     <pubDate>Wed, 15 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/d2/20231115-kronika-dana-34684937-20231115214052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.11. 2023-11-14</title>
-    <link>https://api.hrt.hr/media/1c/0d/20231114-kronika-dana-34681203-20231114213541.mp3</link>
-    <description>Mario Banožić nije imao alkohola u krvi kada je izazvao prometnu nesreću. Ivana Anušića još dva koraka dijele od preuzimanja dužnosti ministra obrane - potpora saborskog Odbora za obranu i glasovanje u Saboru. Palestinci zatočeni u najvećoj bolnici u Gazi kopaju masovnu grobnicu kako bi pokopali pacijente koji su umrli pod izraelskom opsadom. Plana za evakuaciju novorođenčadi nema. Premijer Plenković o Stožeru za obranu hrvatskog sela - to je Domovinskom pokretu zadnja prilika da privuče pozornost. Ministar zdravstva Vili Beroš izjavio da je zakonsko rješenje zabrane konzumacije energetskih pića maloljetnicima blizu, još se traži način kako im zabraniti kupnju nikotinskih vrećica. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 14 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1c/0d/20231114-kronika-dana-34681203-20231114213541.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
