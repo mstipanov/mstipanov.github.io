@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 18 Nov 2023 06:56:59 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 07:00:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.11. 2023-11-19</title>
+    <link>https://api.hrt.hr/media/7c/a8/20231119-jutarnja-kronika-34695117-20231119063505.mp3</link>
+    <description>Danas se odaje počast na mjestu masovne grobnice u Borovokomercu te u Borovu naselju i farmi Lovas. Mještani Nadina odat će počast poginulim sumještanima i braniteljima. Jučer u Vukovaru jedinstvena kolona sjećanja u kojoj je sudjelovalo više od 150 tisuća ljudi. Zabrinjavajuće humanitarno stanje u pojasu Gaze, koja je pod stalnim izraelskim granatiranjem. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7c/a8/20231119-jutarnja-kronika-34695117-20231119063505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.11. 2023-11-18</title>
     <link>https://api.hrt.hr/media/be/ab/20231118-jutarnja-kronika-34692945-20231118064039.mp3</link>
     <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Banožićeva odvjetnica u njegovo ime predala zahtjev za aktivaciju saborskog mandata, mjerodavno tijelo razmatrat će ga u utorak. Isporuka humanitarne pomoći u Pojas Gaze ponovno je prekinuta. SPORT: hrvatska nogometna reprezentacija protiv Latvije u Rigi igra pretposljednju utakmicu kvalifikacija za EURO 2024. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Ne bude li iznenađenja u posljednji trenutak, Sabor će potvrditi Ivana Anušića novim ministrom obrane. Premijer Plenković domaćin je radne večere na kojoj će biti predsjednik Europskog vijeća te premijeri Italije, Malte i Poljske. Tema je novi strateški program Europske unije. Osigurati da suparništvo ne preraste u sukob - tom je rečenicom američki predsjednik Joe Biden opisao važnost sastanka s kineskim kolegom Xi Jinpingom. Vijeće sigurnosti UN-a prihvatilo je rezoluciju koja poziva na humanitarni prekid vatre u pojasu Gaze. Urednik: Silvio Šop</description>
     <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3c/b7/20231116-jutarnja-kronika-34685485-20231116063556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.11. 2023-11-15</title>
-    <link>https://api.hrt.hr/media/86/bc/20231115-jutarnja-kronika-34681746-20231115064551.mp3</link>
-    <description>Ivan Anušić bit će saslušan na sjednici Saborskog odbora za obranu. Izraelska vojska objavila da je ušla u kompleks Al Shife, najveće bolnice u Gazi, i pozvala militante Hamasa da se predaju. Ministar Beroš najavio zabranu konzumacije energetskih pića i prodaje nikotinskih vrećica maloljetnicima. U obnovljenome zagrebačkom kazalištu Gavelli večeras premijera - nova drama Mate Matišića "Moji tužni monstrumi". Urednica: Mira Barić</description>
-    <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/86/bc/20231115-jutarnja-kronika-34681746-20231115064551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
