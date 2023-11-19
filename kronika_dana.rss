@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 18 Nov 2023 21:59:20 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 22:02:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.11. 2023-11-19</title>
+    <link>https://api.hrt.hr/media/1d/7a/20231119-kronika-dana-34696705-20231119214006.mp3</link>
+    <description>Nakon Dana sjećanja na žrtvu Vukovara i Škabrnje, obilježena i tužna godišnjica agresorskih zločina u Borovu naselju i Nadinu. Izraelska vojska objavila snimku koja pokazuje navodni 55 metara dug Hamasov tunel ispod bolnice Al-Shife. Postupno ukidanje mjere roditelj odgojitelj u Zagrebu nije protuustavno - odlučio Ustavni sud. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 19 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/7a/20231119-kronika-dana-34696705-20231119214006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.11. 2023-11-18</title>
     <link>https://api.hrt.hr/media/a9/d2/20231118-kronika-dana-34694633-20231118214041.mp3</link>
     <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Deseci tisuća ljudi u kolonama sjećanja. Humanitarno stanje u Gazi sve teže. U Madridu prosvjedi protiv premijera Sancheza, u Ukrajini prosvjedi protiv korupcije. Hrvatska nogometna reprezentacija pobjedom nad Latvijom s 2:0 na korak do Europskog prvenstva. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>U Zagrebu večeras mini-summit o strateškom programu Europske unije. Ukrajinski predsjednik Zelenski tvrdi kako je ruski plan da rat bukne i na Balkanu. Ivan Anušić prisegnuo za ministra obrane. Bivši ministar Banožić aktivirat će i staviti u mirovanje saborski mandat te iskoristiti povlasticu 6+6. Urednica: Sanja Cota</description>
     <pubDate>Thu, 16 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/58/6d/20231116-kronika-dana-34688673-20231116214058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.11. 2023-11-15</title>
-    <link>https://api.hrt.hr/media/59/d2/20231115-kronika-dana-34684937-20231115214052.mp3</link>
-    <description>Ivan Anušić dobio potporu saborskog Odbora za obranu. Stožer za obranu hrvatskog sela 23. ovog mjeseca održat će prosvjed. Sabor raspravlja o opozivu ministrice poljoprivrede. Izraelska vojska ušla u najveću bolnicu u Gazi i tvrdi da je pronašla Hamasovo oružje i borbenu opremu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 15 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/d2/20231115-kronika-dana-34684937-20231115214052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
