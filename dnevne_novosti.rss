@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 19 Nov 2023 15:32:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 14:35:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>SDSS odustao od uobičajenog bacanja vijenaca u Dunav, dan uoči Kolone sjećanja. Presedan za saborsko povjerenstvo - treba odlučiti o zahtjevu, podnesenom putem odvjetnika, da se bivšem ministru Banožiću istodobno aktivira i zamrzne saborski mandat. Talijanska premijerka Meloni u dvodnevnom posjetu Hrvatskoj. Urednica: Sanja Cota</description>
     <pubDate>Fri, 17 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3f/35/20231117-dnevne-novosti-34691530-20231117144034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 16.11. 2023-11-16</title>
-    <link>https://api.hrt.hr/media/40/fc/20231116-dnevne-novosti-34687623-20231116144557.mp3</link>
-    <description>Ivan Anušić i službeno preuzeo dužnost ministra obrane. Traje istraga o odronu na odlagalištu otpada na Jakuševcu, gradonačelnik Tomašević tvrdi da nije bilo opasnosti za građane. Premijer Plenković domaćin radne večere na kojoj će biti predsjednik Europskog vijeća, te premijeri Italije, Malte i Poljske. Izraelska vojska nastavlja pretragu najveće palestinske bolnice Al Šhife dok međunarodne humanitarne organizacije traže način za evakuaciju pacijenata. Urednica: Mira Barić</description>
-    <pubDate>Thu, 16 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/40/fc/20231116-dnevne-novosti-34687623-20231116144557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
