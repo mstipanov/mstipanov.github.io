@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Nov 2023 22:06:51 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 21:40:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Deseci tisuća ljudi u kolonama sjećanja. Humanitarno stanje u Gazi sve teže. U Madridu prosvjedi protiv premijera Sancheza, u Ukrajini prosvjedi protiv korupcije. Hrvatska nogometna reprezentacija pobjedom nad Latvijom s 2:0 na korak do Europskog prvenstva. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 18 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a9/d2/20231118-kronika-dana-34694633-20231118214041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.11. 2023-11-17</title>
-    <link>https://api.hrt.hr/media/50/a9/20231117-kronika-dana-34692409-20231117214034.mp3</link>
-    <description>Diljem zemlje večeras zapaljene svijeće za heroje Vukovara i Škabrnje. Talijanska premijerka Meloni poručila iz Zagreba: "Ukinut ćemo kontrole na granicama čim se stanje smiri!" Isporuke humanitarne pomoći u Pojas Gaze od jutros uponovno prekinute.Zagrebački gradonačelnik Tomašević najavio sedam novih projekata uz 5,4 posto veći proračun od ovogodišnjeg. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 17 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/50/a9/20231117-kronika-dana-34692409-20231117214034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
