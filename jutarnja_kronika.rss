@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Nov 2023 07:04:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 06:38:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.11. 2023-11-21</title>
+    <link>https://api.hrt.hr/media/db/7f/20231121-jutarnja-kronika-34700633-20231121063038.mp3</link>
+    <description>Srbija protjerala hrvatskog diplomata zbog optužbi za špijunažu. Danas u Saboru rasprava o proračunu za iduću godinu. Hamas najavio da je blizu sporazumu o primirju s Izraelom. Večeras na Maksimiru utakmica odluke za odlazak na Europsko nogometno prvenstvo: Hrvatska-Armenija. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/db/7f/20231121-jutarnja-kronika-34700633-20231121063038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.11. 2023-11-20</title>
     <link>https://api.hrt.hr/media/60/f5/20231120-jutarnja-kronika-34697245-20231120064027.mp3</link>
     <description>Obilježavanje Dana sjećanja na žrtvu Vukovara nastavlja se odavanjem počasti ubijenima na Ovčari. Zadnji je dan da građani mogu upisati državne trezorske zapise. Oprez! - uplata za njih mora biti knjižena s današnjim datumom, iznimaka neće biti! Izraelska vojska objavila da su odobreni planovi za nastavak ofenzive u Pojasu Gaze. U zagrebačkoj Gavelli večeras premijera predstave "Što na podu spavaš?" Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Banožićeva odvjetnica u njegovo ime predala zahtjev za aktivaciju saborskog mandata, mjerodavno tijelo razmatrat će ga u utorak. Isporuka humanitarne pomoći u Pojas Gaze ponovno je prekinuta. SPORT: hrvatska nogometna reprezentacija protiv Latvije u Rigi igra pretposljednju utakmicu kvalifikacija za EURO 2024. Urednik: Silvio Šop</description>
     <pubDate>Sat, 18 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/be/ab/20231118-jutarnja-kronika-34692945-20231118064039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.11. 2023-11-17</title>
-    <link>https://api.hrt.hr/media/10/8f/20231117-jutarnja-kronika-34689391-20231117063533.mp3</link>
-    <description>Uoči dana sjećanja na žrtvu Vukovara u memorijalnoj bolnici dr. Juraj Njavro održat će se središnja komemoracija. Talijanska premijerka Giorga Meloni u posjetu Zagrebu - sastat će se s premijerom Plenkovićem. Ivan Anušić i službeno postao novi ministar obrane. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/10/8f/20231117-jutarnja-kronika-34689391-20231117063533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
