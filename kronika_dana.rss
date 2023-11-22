@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Nov 2023 22:10:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 21:44:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.11. 2023-11-22</title>
+    <link>https://api.hrt.hr/media/ae/09/20231122-kronika-dana-34707064-20231122214058.mp3</link>
+    <description>Nezadovoljni svinjogojci prosvjedovali na graničnim prijelazima i ispred Ministarstva poljoprivrede. Eksplozija na mostu između SAD-a i Kanade istražuje se kao pokušaj "terorističkog napada", poginule dvije osobe. Izrael i Hamas dogovorili četverodnevno primirje i puštanje talaca. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 22 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/09/20231122-kronika-dana-34707064-20231122214058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.11. 2023-11-21</title>
     <link>https://api.hrt.hr/media/30/3e/20231121-kronika-dana-34703363-20231121214040.mp3</link>
     <description>Nakon što je Srbija protjerala našeg diplomata iz Beograda, Hrvatska uzvratila protjerivanjem srbijanskog iz Zagreba. U Saboru cijeli dan rasprava o prijedlogu proračuna za iduću godinu. Hamas i Izrael korak do konačnog dogovora o razmjeni talaca i zarobljenika.Vatreni protiv Armenije na Maksimiru,manje od deset minuta do kraja utakmice rezultat 1:0 za naše. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nakon Dana sjećanja na žrtvu Vukovara i Škabrnje, obilježena i tužna godišnjica agresorskih zločina u Borovu naselju i Nadinu. Izraelska vojska objavila snimku koja pokazuje navodni 55 metara dug Hamasov tunel ispod bolnice Al-Shife. Postupno ukidanje mjere roditelj odgojitelj u Zagrebu nije protuustavno - odlučio Ustavni sud. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 19 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1d/7a/20231119-kronika-dana-34696705-20231119214006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.11. 2023-11-18</title>
-    <link>https://api.hrt.hr/media/a9/d2/20231118-kronika-dana-34694633-20231118214041.mp3</link>
-    <description>Dan je sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje. Deseci tisuća ljudi u kolonama sjećanja. Humanitarno stanje u Gazi sve teže. U Madridu prosvjedi protiv premijera Sancheza, u Ukrajini prosvjedi protiv korupcije. Hrvatska nogometna reprezentacija pobjedom nad Latvijom s 2:0 na korak do Europskog prvenstva. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 18 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/d2/20231118-kronika-dana-34694633-20231118214041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
