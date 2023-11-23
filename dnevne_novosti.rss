@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 23 Nov 2023 14:35:27 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 15:05:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.11. 2023-11-23</title>
+    <link>https://api.hrt.hr/media/32/60/20231123-dnevne-novosti-34709812-20231123143600.mp3</link>
+    <description>Zbog nelegalne gradnje na Murteru u USKOK-ovoj akciji uhićeno pet osoba, među njima je i Zoran Pripuz. Poljoprivrednici blokirali ceste koje vode prema graničnim prijelazima Županji i Tovarniku, najavili da svinjokolja počinje 1. prosinca. Ministar graditeljstva Branko Bačić predstavio zakon kojim bi se trebao riješiti problem zaštićenih najmoprimaca. Početak četverodnevnog primirja Hamasa i Izraela odgođen za sutra. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 23 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/32/60/20231123-dnevne-novosti-34709812-20231123143600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.11. 2023-11-22</title>
     <link>https://api.hrt.hr/media/78/c8/20231122-dnevne-novosti-34705974-20231122144040.mp3</link>
     <description>Poljoprivrednici u Slavoniji počeli prosvjede nezadovoljni Vladinim mjerama protiv afričke svinjske kuge. Na preventivne preglede odazvalo se samo deset posto pozvanih. Ministar Beroš kaže da zdravstveno stanje nacije nije dobro. Izrael i Hamas postigli dogovor o oslobađanju izraelskih talaca te palestinskih zatvorenika u izraelskim zatvorima. U Klovićevim dvorima večeras se otvara izložba za pamćenje posvećena Ivanu Meštroviću. Urednica: Mira Barić</description>
