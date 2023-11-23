@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Nov 2023 17:18:30 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 18:36:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Josip Banić 2023-11-23</title>
+    <link>https://api.hrt.hr/media/4d/af/20231123-historia-histriae-8009002-20231123181100.mp3</link>
+    <description>U goste nam dolazi povjesničar Josip Banić, a pričamo o Bujskom statutu iz 1427. godine </description>
+    <pubDate>Thu, 23 Nov 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/af/20231123-historia-histriae-8009002-20231123181100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Matija i Dragutin Prepust 2023-11-16</title>
     <link>https://api.hrt.hr/media/96/d2/20231116-historia-histriae-8005514-20231116161557.mp3</link>
     <description>Pričamo o povijesti zrakoplovstva uz Matiju i Dragu Prepušta. </description>
@@ -79,14 +87,6 @@
     <description>Nastavljamo reprize emisija s Miroslavom Bertošom. Ovog puta govorimo o migracijama uslijed burnog 17. stoljeća u Istri. </description>
     <pubDate>Thu, 21 Sep 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d9/73/20230921-historia-histriae-7987071-20230921161036.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Bertosa o Uskockom ratu 2023-09-14</title>
-    <link>https://api.hrt.hr/media/33/5c/20230914-historia-histriae-7984012-20230914160050.mp3</link>
-    <description>Prisjećamo se Miroslava Bertoše koji nam priča o Uskočkom ratu u Istri. </description>
-    <pubDate>Thu, 14 Sep 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/33/5c/20230914-historia-histriae-7984012-20230914160050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
