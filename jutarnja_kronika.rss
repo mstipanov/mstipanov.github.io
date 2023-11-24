@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 23 Nov 2023 07:04:10 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 07:08:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.11. 2023-11-24</title>
+    <link>https://api.hrt.hr/media/a5/9d/20231124-jutarnja-kronika-34711388-20231124063509.mp3</link>
+    <description>Očekuje se odluka o istražnom zatvoru za sudionike afere vezane za bespravnu gradnju na Murteru. Slavonski seljaci nastavljaju blokirati prometnice, za danas su najavili i blokadu pružnih prijelaza. Crni je petak - dan velikih sniženja cijena, mjerodavni pozivaju na oprez zbog mogućih prijevara.u pojasu Gaze. Tijekom dana očekuje se prva razmjena talaca i zatvorenika između Izraela i Hamasa. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 24 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a5/9d/20231124-jutarnja-kronika-34711388-20231124063509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.11. 2023-11-23</title>
     <link>https://api.hrt.hr/media/04/f7/20231123-jutarnja-kronika-34707607-20231123064059.mp3</link>
     <description>Bivše radnice šibenske Revije prosvjedovat će u Zagrebu. Traže svoje plaće. Prosvjed u Slavoniji nastavljaju nezadovoljni uzgajivači svinja. Moguće blokade graničnih prijelaza. Oslobađanje talaca i privremeno primirje između Izraela i Hamasa ipak odgođeni za sutra. Automobil eksplodirao kod Niagarinih slapova: nema naznaka terorističkog napada. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Srbija protjerala hrvatskog diplomata zbog optužbi za špijunažu. Danas u Saboru rasprava o proračunu za iduću godinu. Hamas najavio da je blizu sporazumu o primirju s Izraelom. Večeras na Maksimiru utakmica odluke za odlazak na Europsko nogometno prvenstvo: Hrvatska-Armenija. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/7f/20231121-jutarnja-kronika-34700633-20231121063038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.11. 2023-11-20</title>
-    <link>https://api.hrt.hr/media/60/f5/20231120-jutarnja-kronika-34697245-20231120064027.mp3</link>
-    <description>Obilježavanje Dana sjećanja na žrtvu Vukovara nastavlja se odavanjem počasti ubijenima na Ovčari. Zadnji je dan da građani mogu upisati državne trezorske zapise. Oprez! - uplata za njih mora biti knjižena s današnjim datumom, iznimaka neće biti! Izraelska vojska objavila da su odobreni planovi za nastavak ofenzive u Pojasu Gaze. U zagrebačkoj Gavelli večeras premijera predstave "Što na podu spavaš?" Urednik: Silvio Šop</description>
-    <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/60/f5/20231120-jutarnja-kronika-34697245-20231120064027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
