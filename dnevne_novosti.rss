@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 23 Nov 2023 15:05:33 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 15:09:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.11. 2023-11-24</title>
+    <link>https://api.hrt.hr/media/d5/c2/20231124-dnevne-novosti-34713371-20231124144009.mp3</link>
+    <description>Slavonski seljaci prijete blokadom autocesta, pruga i graničnih prijelaza. Premijer Plenković poručio da sigurno neće razgovarati s nekim tko ucjenjuje. Poštuje se primirje u Gazi. U ovim trenucima trebalo bi početi oslobađanje prvih talaca otetih iz Izraela. Gužve u trgovačkim centrima zbog Crnog petka, Hrvati bi samo danas mogli potrošiti 70 milijuna eura. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 24 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d5/c2/20231124-dnevne-novosti-34713371-20231124144009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.11. 2023-11-23</title>
     <link>https://api.hrt.hr/media/32/60/20231123-dnevne-novosti-34709812-20231123143600.mp3</link>
     <description>Zbog nelegalne gradnje na Murteru u USKOK-ovoj akciji uhićeno pet osoba, među njima je i Zoran Pripuz. Poljoprivrednici blokirali ceste koje vode prema graničnim prijelazima Županji i Tovarniku, najavili da svinjokolja počinje 1. prosinca. Ministar graditeljstva Branko Bačić predstavio zakon kojim bi se trebao riješiti problem zaštićenih najmoprimaca. Početak četverodnevnog primirja Hamasa i Izraela odgođen za sutra. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Saboru predstavljen prijedlog proračuna za sljedeću godinu, oporba veće rashode povezuje s izborima iduće godine. Srbija proglasila nepoželjnom osobom prvog tajnika hrvatskog veleposlanstva u Srbiji, Hrvatska uzvratila istom mjerom. Sport! Hrvatska večeras na Maksimiru igra s Armenijom za izravan plasman na EURO. Urednica: Sanja Cota</description>
     <pubDate>Tue, 21 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/98/20231121-dnevne-novosti-34702507-20231121145038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.11. 2023-11-20</title>
-    <link>https://api.hrt.hr/media/c2/0c/20231120-dnevne-novosti-34699124-20231120143527.mp3</link>
-    <description>Više od 37 tisuća građana upisalo trezorske zapise. Drugi krug upisa, namijenjen institucionalnim ulagačima, sutra. Obilježavanje "Dana sjećanja na žrtvu Vukovara " nastavljeno odavanjem počasti žrtvama koncentracijskih logora i ubijenima na Ovčari. U Egipat prevezena većina nedonoščadi iz najveće bolnice u Gazi, Al Shife. Glavni tajnik NATO-saveza Jens Stoltenberg u Sarajevu upozorio da težnje za odcjepljenje, koje dolaze iz Republike Srpske, prijete stabilnosti Bosne i Hercegovine. Urednica: Mira Barić</description>
-    <pubDate>Mon, 20 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/0c/20231120-dnevne-novosti-34699124-20231120143527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
