@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 24 Nov 2023 22:10:34 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 22:14:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.11. 2023-11-25</title>
+    <link>https://api.hrt.hr/media/33/43/20231125-kronika-dana-34716593-20231125213556.mp3</link>
+    <description>Poljoprivrednici ne odustaju od prosvjeda, četvrti su dan na cestama.Očekuje se da će noćas Hamas i Izrael ipak nastaviti razmjenu talaca i zarobljenika.Na Međunarodni dan borbe protiv nasilja nad ženama glavni tajnik UN-a poručio da je ono rašireno i da se pogoršava.Urednica: Sanja Cota</description>
+    <pubDate>Sat, 25 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/33/43/20231125-kronika-dana-34716593-20231125213556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.11. 2023-11-24</title>
     <link>https://api.hrt.hr/media/c8/99/20231124-kronika-dana-34714378-20231124214010.mp3</link>
     <description>Seljaci koji prosvjeduju na cestama najavljuju prometne blokade diljem Hrvatske, premijer Plenković im poručio da im to neće proći. Sudac istrage večers će donijeti odluku o pritvoru za troje osumnjičenih za bespravnu gradnju na Murteru. Na današnji takozvani Crni petak procjenjuje se da će hrvatski građani potrošiti čak 70 milijuna eura. Hamas oslobodio prvu skupinu od 24 talaca, Izrael iz zatvora pustio 39 Palestinki i maloljetnika. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nezadovoljni svinjogojci prosvjedovali na graničnim prijelazima i ispred Ministarstva poljoprivrede. Eksplozija na mostu između SAD-a i Kanade istražuje se kao pokušaj "terorističkog napada", poginule dvije osobe. Izrael i Hamas dogovorili četverodnevno primirje i puštanje talaca. Urednica: Sanja Cota</description>
     <pubDate>Wed, 22 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/09/20231122-kronika-dana-34707064-20231122214058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.11. 2023-11-21</title>
-    <link>https://api.hrt.hr/media/30/3e/20231121-kronika-dana-34703363-20231121214040.mp3</link>
-    <description>Nakon što je Srbija protjerala našeg diplomata iz Beograda, Hrvatska uzvratila protjerivanjem srbijanskog iz Zagreba. U Saboru cijeli dan rasprava o prijedlogu proračuna za iduću godinu. Hamas i Izrael korak do konačnog dogovora o razmjeni talaca i zarobljenika.Vatreni protiv Armenije na Maksimiru,manje od deset minuta do kraja utakmice rezultat 1:0 za naše. Urednica: Mira Barić</description>
-    <pubDate>Tue, 21 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/30/3e/20231121-kronika-dana-34703363-20231121214040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
