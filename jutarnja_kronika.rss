@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 25 Nov 2023 07:11:59 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 06:45:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.11. 2023-11-26</title>
+    <link>https://api.hrt.hr/media/ed/21/20231126-jutarnja-kronika-34717130-20231126063506.mp3</link>
+    <description>Poljoprivrednici ne odustaju od prosvjeda, danas će biti peti dan da su na cestama. Jučer bezuspješno pokušali probiti policijsku blokadu. O prosvjedima se oglasila i Hrvatska seljačka stranka, tvrdi da je jedina stranka koja se brinula i brinut će se za selo. Dvije ručne bombe sinoć eksplodirale u zagrebačkom naselju Rudešu, ozlijeđenih nema. Hamas i Izrael, nakon zastoja tijekom dana, sinoć ipak nastavili razmjenu talaca i zarobljenika. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ed/21/20231126-jutarnja-kronika-34717130-20231126063506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.11. 2023-11-25</title>
     <link>https://api.hrt.hr/media/c7/34/20231125-jutarnja-kronika-34714914-20231125065055.mp3</link>
     <description>Svinjogojci zaoštravaju prosvjede. Premijer uzvraća - nema razgovora s ucjenjivačima! Za troje osumnjičenih za bespravnu gradnju na Murteru određen istražni zatvor. Mario Banožić prvi put nakon nesreće - sućut obitelji poginulog i razumijevanje za vlastitu smjenu. U sklopu dogovora , Hamas i Izrael razmijenili taoce i zarobljenike. Urednica: Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>Bivše radnice šibenske Revije prosvjedovat će u Zagrebu. Traže svoje plaće. Prosvjed u Slavoniji nastavljaju nezadovoljni uzgajivači svinja. Moguće blokade graničnih prijelaza. Oslobađanje talaca i privremeno primirje između Izraela i Hamasa ipak odgođeni za sutra. Automobil eksplodirao kod Niagarinih slapova: nema naznaka terorističkog napada. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/f7/20231123-jutarnja-kronika-34707607-20231123064059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.11. 2023-11-22</title>
-    <link>https://api.hrt.hr/media/27/85/20231122-jutarnja-kronika-34704017-20231122064044.mp3</link>
-    <description>Postignut dogovor Hamasa i Izraela o primirju i puštanju talaca. U 10 počinju prosvjedi seljaka zbog nezadovoljstva državnim mjerama protiv afričke svinjske kuge. Saborski Odbor za pravosuđe raspravljat će o pravnim posljedicama slučaja Agrokor.izborila Euro, Budimir junak utakmice s Armenijom. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/85/20231122-jutarnja-kronika-34704017-20231122064044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
