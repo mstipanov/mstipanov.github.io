@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 25 Nov 2023 22:14:19 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 21:47:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.11. 2023-11-26</title>
+    <link>https://api.hrt.hr/media/3b/ec/20231126-kronika-dana-34718824-20231126214008.mp3</link>
+    <description>Iza nezadovoljnih svinjogojaca i peti dan prosvjeda. Najavljuju potpunu blokadu cesta. Trećeg dana primirja između Izraela i Hamasa, Hamas oslobodio treću skupinu izraelskih talaca. Zrinka Ljutić u slalomu u Killingtonu osvojila deseto mjesto. Najbolja skijašica svijeta Mikaela Shiffrin prva. To je njezina devedeseta pobjeda. Urednica: Mira Barić</description>
+    <pubDate>Sun, 26 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3b/ec/20231126-kronika-dana-34718824-20231126214008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.11. 2023-11-25</title>
     <link>https://api.hrt.hr/media/33/43/20231125-kronika-dana-34716593-20231125213556.mp3</link>
     <description>Poljoprivrednici ne odustaju od prosvjeda, četvrti su dan na cestama.Očekuje se da će noćas Hamas i Izrael ipak nastaviti razmjenu talaca i zarobljenika.Na Međunarodni dan borbe protiv nasilja nad ženama glavni tajnik UN-a poručio da je ono rašireno i da se pogoršava.Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>USKOK-ovi istražitelji još ispituju privedene u novoj protukorupcijskoj akciji Uhićen je zagrebački poduzetnik Zoran Pripuz te još četiri osobe, sumnjiče se za bespravnu gradnju na Murteru. Poljoprivrednici, nezadovoljni Vladinim mjerama protiv afričke svinjske kuge, nastavili prosvjed, blokirali ceste u trima županijama. Nakon odgode - primirje u Pojasu Gaze trebalo bi početi sutra ujutro, prvih 13-ero talaca bit će oslobođeno 9 sati poslije.Urednica: Mira Barić</description>
     <pubDate>Thu, 23 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/9f/20231123-kronika-dana-34710811-20231123214000.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.11. 2023-11-22</title>
-    <link>https://api.hrt.hr/media/ae/09/20231122-kronika-dana-34707064-20231122214058.mp3</link>
-    <description>Nezadovoljni svinjogojci prosvjedovali na graničnim prijelazima i ispred Ministarstva poljoprivrede. Eksplozija na mostu između SAD-a i Kanade istražuje se kao pokušaj "terorističkog napada", poginule dvije osobe. Izrael i Hamas dogovorili četverodnevno primirje i puštanje talaca. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 22 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/09/20231122-kronika-dana-34707064-20231122214058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
