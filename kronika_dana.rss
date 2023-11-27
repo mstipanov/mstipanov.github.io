@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 26 Nov 2023 21:47:54 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 21:52:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.11. 2023-11-27</title>
+    <link>https://api.hrt.hr/media/61/2f/20231127-kronika-dana-34722292-20231127214057.mp3</link>
+    <description>Svinjogojci sutra namjeravaju proširiti prosvjede. Za dva dana produljuje se primirje Izraela i Hamasa. . Za dva dana produljuje se primirje Izraela i Hamasa. Snijeg i ledena kiša u splitskom zaleđu, zbog olujnog vjetra i snijega problemi i na istoku Europe. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 27 Nov 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/2f/20231127-kronika-dana-34722292-20231127214057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.11. 2023-11-26</title>
     <link>https://api.hrt.hr/media/3b/ec/20231126-kronika-dana-34718824-20231126214008.mp3</link>
     <description>Iza nezadovoljnih svinjogojaca i peti dan prosvjeda. Najavljuju potpunu blokadu cesta. Trećeg dana primirja između Izraela i Hamasa, Hamas oslobodio treću skupinu izraelskih talaca. Zrinka Ljutić u slalomu u Killingtonu osvojila deseto mjesto. Najbolja skijašica svijeta Mikaela Shiffrin prva. To je njezina devedeseta pobjeda. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Seljaci koji prosvjeduju na cestama najavljuju prometne blokade diljem Hrvatske, premijer Plenković im poručio da im to neće proći. Sudac istrage večers će donijeti odluku o pritvoru za troje osumnjičenih za bespravnu gradnju na Murteru. Na današnji takozvani Crni petak procjenjuje se da će hrvatski građani potrošiti čak 70 milijuna eura. Hamas oslobodio prvu skupinu od 24 talaca, Izrael iz zatvora pustio 39 Palestinki i maloljetnika. Urednik: Silvio Šop</description>
     <pubDate>Fri, 24 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/99/20231124-kronika-dana-34714378-20231124214010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.11. 2023-11-23</title>
-    <link>https://api.hrt.hr/media/e5/9f/20231123-kronika-dana-34710811-20231123214000.mp3</link>
-    <description>USKOK-ovi istražitelji još ispituju privedene u novoj protukorupcijskoj akciji Uhićen je zagrebački poduzetnik Zoran Pripuz te još četiri osobe, sumnjiče se za bespravnu gradnju na Murteru. Poljoprivrednici, nezadovoljni Vladinim mjerama protiv afričke svinjske kuge, nastavili prosvjed, blokirali ceste u trima županijama. Nakon odgode - primirje u Pojasu Gaze trebalo bi početi sutra ujutro, prvih 13-ero talaca bit će oslobođeno 9 sati poslije.Urednica: Mira Barić</description>
-    <pubDate>Thu, 23 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/9f/20231123-kronika-dana-34710811-20231123214000.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
