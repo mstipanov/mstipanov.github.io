@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 22 Nov 2023 09:12:24 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 17:36:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>EXPLORA 28.11.2023 2023-11-28</title>
+    <link>https://api.hrt.hr/media/91/25/20231128-explora-8010763-20231128172103.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 28 Nov 2023 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/91/25/20231128-explora-8010763-20231128172103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 21.11.2023. 2023-11-21</title>
     <link>https://api.hrt.hr/media/7b/b5/20231121-explora-8008249-20231121170039.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta. TEME: Starship nestao nakon 148 km. Svemir kao buduće ratište. Elon Musk i James Bond. Regulacija AI. Zaštita djece. Magnetsko polje Zemlje. Nikola Tesla - samo za odrasle. U ovoj emisiji se ne mulja!
@@ -95,19 +103,6 @@ Korado Korlević odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimlj
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
     <pubDate>Tue, 26 Sep 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dd/28/20230926-explora-7989647-20230926160536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 19.09.2023. 2023-09-19</title>
-    <link>https://api.hrt.hr/media/2c/d5/20230919-explora-7987300-20230919161005.mp3</link>
-    <description>Pozdrav Explorijancima! U Meksiku izloženi "Izvanzemljani". AI i razne prevare. O medijima.  IG Nobel. Pozdrav speleolozima ma gdje bili. Degrowth. O Bosni i Hercegovini.
-  ...  Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.
-
-
-
-</description>
-    <pubDate>Tue, 19 Sep 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2c/d5/20230919-explora-7987300-20230919161005.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
