@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 27 Nov 2023 14:51:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 15:05:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.11. 2023-11-28</title>
+    <link>https://api.hrt.hr/media/11/32/20231128-dnevne-novosti-34725110-20231128144054.mp3</link>
+    <description>Nezadovoljni svinjogojci zasad odustali od blokada prometnica, očekuju sastanak s ministricom Vučković. U Saboru sve više kalkulacija o predizbornim koalicijama. Nastavlja se razmjena talaca i palestinskih zarobljenika, humanitarna pomoć stigla i na sjever pojasa Gaze. Urednica: Mira Barić</description>
+    <pubDate>Tue, 28 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/11/32/20231128-dnevne-novosti-34725110-20231128144054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.11. 2023-11-27</title>
     <link>https://api.hrt.hr/media/e0/16/20231127-dnevne-novosti-34721435-20231127143511.mp3</link>
     <description>Šesti je dan prosvjeda svinjogojaca nezadovoljnih Vladinim mjerama protiv afričke svinjske kuge. Ako se sutra nitko iz Vlade ne odazove pozivu na sastanak, potpuno će blokirati promet. Pregovara se o produljenju primirja između Izraela i Hamasa. Snijeg u Dalmatinskoj zagori i ledena kiša u Splitu i okolici jutros izazvali kaos u prometu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Poljoprivrednici nastavljaju prosvjed i blokadu prometa kod graničnog prijelaza Tovarnika i na državnoj cesti kod Županje. Tijekom dana očekuje se oslobađanje 14 talaca i 42 palestinskih zatvorenika. Rusija snažno dronovima napala Kijev. Međunarodni je dan borbe protiv nasilja nad ženama, predstavljena je kampanja "Štit". Urednik: Silvio Šop</description>
     <pubDate>Sat, 25 Nov 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/a5/20231125-dnevne-novosti-34715802-20231125144056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.11. 2023-11-24</title>
-    <link>https://api.hrt.hr/media/d5/c2/20231124-dnevne-novosti-34713371-20231124144009.mp3</link>
-    <description>Slavonski seljaci prijete blokadom autocesta, pruga i graničnih prijelaza. Premijer Plenković poručio da sigurno neće razgovarati s nekim tko ucjenjuje. Poštuje se primirje u Gazi. U ovim trenucima trebalo bi početi oslobađanje prvih talaca otetih iz Izraela. Gužve u trgovačkim centrima zbog Crnog petka, Hrvati bi samo danas mogli potrošiti 70 milijuna eura. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 24 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/c2/20231124-dnevne-novosti-34713371-20231124144009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
