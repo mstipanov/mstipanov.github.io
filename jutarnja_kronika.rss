@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 28 Nov 2023 07:04:16 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 06:38:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 29.11. 2023-11-29</title>
+    <link>https://api.hrt.hr/media/98/2c/20231129-jutarnja-kronika-34726413-20231129063549.mp3</link>
+    <description>Slavonski poljoprivrednici i dalje prosvjeduju blokadom cesta, najavili mogući sastanak s Vladinim pregovaračem. Brutodomaći proizvod u trećem se tromjesečju povećao 2,8 posto u odnosu prema istom razdoblju lani. Po tome je Hrvatska trenutačno prva u Europskoj uniji. Sabor će, uz ostalo, raspraviti prijedlog Zakona o inkluzivnom dodatku te izmjene Zakona o doplatku za djecu. Hamas oslobodio i petu skupinu izraelskih talaca. U Dohi se nastavljaju pregovori o produljenju primirja. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/2c/20231129-jutarnja-kronika-34726413-20231129063549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.11. 2023-11-28</title>
     <link>https://api.hrt.hr/media/01/73/20231128-jutarnja-kronika-34722901-20231128063532.mp3</link>
     <description>U podne odluka o širenju prosvjeda slavonskih svinjogojaca. 102 hrvatska državljana, koja su još u zatvorima u Grčkoj nakon nogometnih nereda, idući će mjesec dati iskaz. Sabor će raspravljati o amandmanima na prijedlog proračuna za iduću godinu. Za dva dana produljeno primirje u pojasu Gaze. Urednik: Grgo Mrvica.</description>
@@ -31,14 +39,6 @@
     <description>Poljoprivrednici ne odustaju od prosvjeda, danas će biti peti dan da su na cestama. Jučer bezuspješno pokušali probiti policijsku blokadu. O prosvjedima se oglasila i Hrvatska seljačka stranka, tvrdi da je jedina stranka koja se brinula i brinut će se za selo. Dvije ručne bombe sinoć eksplodirale u zagrebačkom naselju Rudešu, ozlijeđenih nema. Hamas i Izrael, nakon zastoja tijekom dana, sinoć ipak nastavili razmjenu talaca i zarobljenika. Urednik: Silvio Šop</description>
     <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/21/20231126-jutarnja-kronika-34717130-20231126063506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.11. 2023-11-25</title>
-    <link>https://api.hrt.hr/media/c7/34/20231125-jutarnja-kronika-34714914-20231125065055.mp3</link>
-    <description>Svinjogojci zaoštravaju prosvjede. Premijer uzvraća - nema razgovora s ucjenjivačima! Za troje osumnjičenih za bespravnu gradnju na Murteru određen istražni zatvor. Mario Banožić prvi put nakon nesreće - sućut obitelji poginulog i razumijevanje za vlastitu smjenu. U sklopu dogovora , Hamas i Izrael razmijenili taoce i zarobljenike. Urednica: Snježana Kralj</description>
-    <pubDate>Sat, 25 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/34/20231125-jutarnja-kronika-34714914-20231125065055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
