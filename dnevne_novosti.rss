@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 30 Nov 2023 14:43:49 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:13:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.11. 2023-11-30</title>
+    <link>https://api.hrt.hr/media/7f/32/20231130-dnevne-novosti-34732025-20231130145023.mp3</link>
+    <description>Stožer za obranu hrvatskoga sela ipak došao u Zagreb na sastanak s ministricom poljoprivrede. Je li Pavao Vujnovac novi, ali moćniji Ivica Todorić - komentira se nakon vijesti da će preuzeti Fortenovu. U stotoj godini umro najpoznatiji američki i svjetski diplomat Henry Kisinnger. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 30 Nov 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7f/32/20231130-dnevne-novosti-34732025-20231130145023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.11. 2023-11-29</title>
     <link>https://api.hrt.hr/media/50/7b/20231129-dnevne-novosti-34728774-20231129144053.mp3</link>
     <description>Zasad nema dogovora, prosvjednici pozivaju ministricu poljoprivrede u Slavoniju, a ona njih u Zagreb. Afrička svinjska kuga ne utječe na cijenu svinjetine jer je ionako uvozimo 50 posto. U Saboru rasprava o zakonu o inkluzivnom dodatku, prihodi osoba s invaliditetom rast će od 50 do 100 posto. Urednica: Sanja Cota</description>
