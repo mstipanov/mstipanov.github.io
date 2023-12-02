@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Dec 2023 21:49:58 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 21:53:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Fortenova se rješava ruskih vlasnika, Pavao Vujnovac spreman preuzeti cijelu kompaniju. Nezadovoljni svinjogojci još nisu odlučili hoće li se odazvati pozivu ministrice Vučković da dođu na sastanak u Zagreb. Stanovništvo Gaze je usred epske humanitarne katastrofe koja se događa pred očima cijelog svijeta, poručio glavni tajnik UN-a Antonio Gutereš. Urednica: Mira Barić</description>
     <pubDate>Wed, 29 Nov 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1e/56/20231129-kronika-dana-34729655-20231129214054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.11. 2023-11-28</title>
-    <link>https://api.hrt.hr/media/41/c5/20231128-kronika-dana-34725908-20231128213520.mp3</link>
-    <description>Slavonski poljoprivrednici i dalje prosvjeduju, najavili mogući sastanak s vladinim pregovaračem. Nakon 17 dana spašeni svi radnici iz urušenog tunela u Indiji. Hamas oslobodio i petu skupinu izraelskih talaca. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 28 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/41/c5/20231128-kronika-dana-34725908-20231128213520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
