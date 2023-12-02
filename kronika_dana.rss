@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Dec 2023 21:53:38 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 22:23:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.12. 2023-12-02</title>
+    <link>https://api.hrt.hr/media/bb/e3/20231202-kronika-dana-34738970-20231202215026.mp3</link>
+    <description>Prosvjed svinjogojaca širi se Slavonijom. U Drnišu prosvjedovali poljoprivrednici iz Dalmatinske zagore. Nekadašnji ravnatelj Fonda za obnovu Zagreba Damir Vanđelić osnovao stranku Republika. Globalno zagrijavanje najveća je prijetnja čovječanstvu i njegovoj budućnosti, poručili iz Dubaija s konferencije o klimi svjetski čelnici. SPORT: Hrvatska nogometna reprezentacija na Euru će u skupini igrati protiv Španjolske, Albanije i Italije. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 02 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/e3/20231202-kronika-dana-34738970-20231202215026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.12. 2023-12-01</title>
     <link>https://api.hrt.hr/media/2f/6d/20231201-kronika-dana-34736702-20231201214009.mp3</link>
     <description>Za sutra najavljeno širenje prosvjeda nezadovoljnih svinjogojaca, dok ih je dio odustao od blokada. Podignuta optužnica protiv predsjednika uprave HEP-a zbog bespravne gradnje na Hvaru. Nastavljeni napadi na pojas Gaze i prije isteka primirja. Urednica: Sanja Cota</description>
