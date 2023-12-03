@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Dec 2023 06:51:23 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 06:55:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.12. 2023-12-03</title>
+    <link>https://api.hrt.hr/media/a8/b9/20231203-jutarnja-kronika-34739531-20231203063525.mp3</link>
+    <description>Diljem zemlje kiša i snijeg. Ponegdje ima i poledice, a zbog olujnog vjetra za teretna vozila nema otvorene ceste prema Rijeci. Hrvatskoj na Europskom prvenstvu pripala najteža skupina. Prva utakmica sa Španjolcima u Berlinu bit će spektakl, poručio izbornik Dalić. Napad na turiste u središtu Pariza. Jedna osoba poginula, a dvije ozlijeđene. Prva je nedjelja došašća. Na zagrebačkome Gornjem gradu otvara se nakon potresa obnovljena crkva svetog Marka. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/b9/20231203-jutarnja-kronika-34739531-20231203063525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.12. 2023-12-02</title>
     <link>https://api.hrt.hr/media/73/9a/20231202-jutarnja-kronika-34737244-20231202063515.mp3</link>
     <description>Prosvjed nezadovoljnih svinjogojaca širi se i izvan Slavonije. Podignuta optužnica protiv predsjednika uprave HEP-a zbog bespravne gradnje na Hvaru. Počinje Advent u Zagrebu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Predstavnici Stožera za obranu hrvatskog sela odlučili da će ići na sastanak s ministricom poljoprivrede Marijom Vučković u Zagreb. Svinjska kuga stagnira i relativno je pod nadzorom - samo je 3 posto uzoraka pozitivno. Sabor će glasovati o proračunu za iduću godinu. Izrael i Hamas dogovorili još jedan dan primirja. Urednik: Silvio Šop</description>
     <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a7/ea/20231130-jutarnja-kronika-34730178-20231130063511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.11. 2023-11-29</title>
-    <link>https://api.hrt.hr/media/98/2c/20231129-jutarnja-kronika-34726413-20231129063549.mp3</link>
-    <description>Slavonski poljoprivrednici i dalje prosvjeduju blokadom cesta, najavili mogući sastanak s Vladinim pregovaračem. Brutodomaći proizvod u trećem se tromjesečju povećao 2,8 posto u odnosu prema istom razdoblju lani. Po tome je Hrvatska trenutačno prva u Europskoj uniji. Sabor će, uz ostalo, raspraviti prijedlog Zakona o inkluzivnom dodatku te izmjene Zakona o doplatku za djecu. Hamas oslobodio i petu skupinu izraelskih talaca. U Dohi se nastavljaju pregovori o produljenju primirja. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/2c/20231129-jutarnja-kronika-34726413-20231129063549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
