@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Dec 2023 14:56:12 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 15:00:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.12. 2023-12-04</title>
+    <link>https://api.hrt.hr/media/d0/3f/20231204-dnevne-novosti-34743811-20231204144101.mp3</link>
+    <description>Jutros novi odron smeća na zagrebačkom Jakuševcu, jedan radnik ostao bez ruke, glasovna poruka svjedoči o trenutku katastrofe. 102 Bad Blue Boysa ispituju se na sudu u Ateni nakon četiri mjeseca provedena u zatvorima. U Sjevernoj Makedoniji - otac naručio otmicu svoje četrnaestogodišnje kćeri, pronađena je mrtva. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 04 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/3f/20231204-dnevne-novosti-34743811-20231204144101.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.12. 2023-12-03</title>
     <link>https://api.hrt.hr/media/82/ff/20231203-dnevne-novosti-34740480-20231203144029.mp3</link>
     <description>Premijer Plenković najavio smjenu predsjednika Uprave HEP-a Frane Barbarića - zbog bespravne gradnje na Hvaru. Stotinjak Bad Blue Boysa, koji su već četiri mjeseca u grčkim zatvorima, sutra počinje iznositi svoju obranu. Nakon obnove od potresa, crkva svetog Marka otvorena za vjernike. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Dio svinjogojaca zadovoljan sastankom s resornom ministricom prekinuo prosvjede, a drugi dio nastavlja s blokadom i najavljuje širenje prosvjeda. Rat u pojasu Gaze nastavljen nakon što je isteklo jednotjedno primirje. 130 čelnika država i vlada, 97 tisuća znanstvenika i klimatskih aktivista u Dubaiu na svjetskom skupu o klimi. U Zagrebu otvoreno mjesto za testiranje na hripavac iz automobila. Urednica: Mira Barić</description>
     <pubDate>Fri, 01 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0a/ca/20231201-dnevne-novosti-34735750-20231201144009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.11. 2023-11-30</title>
-    <link>https://api.hrt.hr/media/7f/32/20231130-dnevne-novosti-34732025-20231130145023.mp3</link>
-    <description>Stožer za obranu hrvatskoga sela ipak došao u Zagreb na sastanak s ministricom poljoprivrede. Je li Pavao Vujnovac novi, ali moćniji Ivica Todorić - komentira se nakon vijesti da će preuzeti Fortenovu. U stotoj godini umro najpoznatiji američki i svjetski diplomat Henry Kisinnger. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 30 Nov 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7f/32/20231130-dnevne-novosti-34732025-20231130145023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
