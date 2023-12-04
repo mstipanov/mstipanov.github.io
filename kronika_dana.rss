@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Dec 2023 21:57:22 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 22:03:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Za sutra najavljeno širenje prosvjeda nezadovoljnih svinjogojaca, dok ih je dio odustao od blokada. Podignuta optužnica protiv predsjednika uprave HEP-a zbog bespravne gradnje na Hvaru. Nastavljeni napadi na pojas Gaze i prije isteka primirja. Urednica: Sanja Cota</description>
     <pubDate>Fri, 01 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/6d/20231201-kronika-dana-34736702-20231201214009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.11. 2023-11-30</title>
-    <link>https://api.hrt.hr/media/1b/8a/20231130-kronika-dana-34733127-20231130214016.mp3</link>
-    <description>Nema konačnog rješenja ni nakon sastanka ministrice poljoprivrede s nezadovoljnim svinjogojcima. Inflacija u Hrvatskoj ovaj je mjesec iznosila 4 cijela 7 posto. To je najniža stopa inflacije u posljednje dvije godine.U velikoj akciji Europola, u kojoj je sudjelovalo 26 zemalja, među kojima i Hrvatska, uhićeno više od 550 osoba.
-Urednica: Mira Barić</description>
-    <pubDate>Thu, 30 Nov 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1b/8a/20231130-kronika-dana-34733127-20231130214016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
