@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Dec 2023 06:58:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:04:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.12. 2023-12-05</title>
+    <link>https://api.hrt.hr/media/ea/17/20231205-jutarnja-kronika-34745542-20231205063504.mp3</link>
+    <description>Nakon jučerašnje nesreće na Jakuševcu u kojoj je radnik ostao bez ruke, odlagalište od danas ponovno prima otpad na dijelu koji nije zahvaćen odronom. Na sudu u Ateni jučer ispitana prva skupina Bad Blue Boysa. Ispitivanje se nastavlja danas i sutra. Sabor će raspraviti prijedlog zakona na osnovi kojeg će se, od iduće godine, na 150 eura podignuti iznos nacionalne naknade za starije osobe. Od početka rata u Pojasu Gaze poginulo je gotovo 16 tisuća Palestinaca, od kojih 70 posto žena i djece. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 05 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/17/20231205-jutarnja-kronika-34745542-20231205063504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.12. 2023-12-04</title>
     <link>https://api.hrt.hr/media/92/c9/20231204-jutarnja-kronika-34741817-20231204065557.mp3</link>
     <description>Bad Blue Boysi danas počinju iznositi obranu na sudu u Ateni. Smjena Frane Barbarića s čela Hrvatske elektroprivrede. U erupciji vulkana u Indoneziji najmanje 11 poginulih planinara. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Prosvjed nezadovoljnih svinjogojaca širi se i izvan Slavonije. Podignuta optužnica protiv predsjednika uprave HEP-a zbog bespravne gradnje na Hvaru. Počinje Advent u Zagrebu. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 02 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/73/9a/20231202-jutarnja-kronika-34737244-20231202063515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.12. 2023-12-01</title>
-    <link>https://api.hrt.hr/media/a9/91/20231201-jutarnja-kronika-34733735-20231201063506.mp3</link>
-    <description>Čeka se odluka slavonskih poljoprivrednika - hoće li nastaviti prosvjede. Propali su pregovori o produljenju primirja između Izraela i Hamasa, nastavljeni napadi. Dubai - domaćin klimatskog sastanka na vrhu. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/91/20231201-jutarnja-kronika-34733735-20231201063506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
