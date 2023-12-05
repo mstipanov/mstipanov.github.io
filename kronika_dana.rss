@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 05 Dec 2023 21:37:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 22:07:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.12. 2023-12-05</title>
+    <link>https://api.hrt.hr/media/fc/f3/20231205-kronika-dana-34748730-20231205214008.mp3</link>
+    <description>Na Jakuševec se ponovno dovozi otpad, mjerenja ne pokazuju onečišćenje zraka. U Europskoj uniji postoji golem rizik od terorističkih napada tijekom blagdana, povećava se sigurnost. Teška nesreća na izlazu iz tunela Učka, dvojica poginulih. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 05 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fc/f3/20231205-kronika-dana-34748730-20231205214008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.12. 2023-12-03</title>
     <link>https://api.hrt.hr/media/e4/d8/20231203-kronika-dana-34741268-20231203213526.mp3</link>
     <description>Zbog bespravne gradnje na Hvaru bit će smijenjen predsjednik Uprave HEP-a Frano Barbarić, potvrdio premijer Andrej Plenković. Dvanaesti je dan prosvjeda svinjogojaca na cestama, ne odustaju dok se ne ispuni njihov ključni zahtjev - dopuštanje svinjokolje. Stotinjak Bad Blue Boysa, koji su već četiri mjeseca u grčkim zatvorima, sutra počinje iznositi obranu. U Crvenom moru napadnuti američki razarač i dva teretna broda, odgovornost preuzeli jemenski pobunjenici Huti. Urednik: Silvio Šop</description>
