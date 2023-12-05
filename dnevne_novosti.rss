@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Dec 2023 15:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 14:36:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Prosvjed nezadovoljnih seljaka širi se i izvan Slavonije. Nakon prekida primirja nastavljaju se sukobi u pojsu Gaze. Na UN-ovu sastanku o klimi u Dubaiju govorio premijer Plenković. Papa Franjo pozvao međunarodnu zajednicu na radikalni zaokret u odnosu prema klimi. Počinje Advent u Zagrebu. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 02 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d9/89/20231202-dnevne-novosti-34738277-20231202144019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.12. 2023-12-01</title>
-    <link>https://api.hrt.hr/media/0a/ca/20231201-dnevne-novosti-34735750-20231201144009.mp3</link>
-    <description>Dio svinjogojaca zadovoljan sastankom s resornom ministricom prekinuo prosvjede, a drugi dio nastavlja s blokadom i najavljuje širenje prosvjeda. Rat u pojasu Gaze nastavljen nakon što je isteklo jednotjedno primirje. 130 čelnika država i vlada, 97 tisuća znanstvenika i klimatskih aktivista u Dubaiu na svjetskom skupu o klimi. U Zagrebu otvoreno mjesto za testiranje na hripavac iz automobila. Urednica: Mira Barić</description>
-    <pubDate>Fri, 01 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0a/ca/20231201-dnevne-novosti-34735750-20231201144009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
