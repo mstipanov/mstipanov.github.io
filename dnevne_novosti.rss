@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 05 Dec 2023 15:06:17 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 15:11:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.12. 2023-12-06</title>
+    <link>https://api.hrt.hr/media/71/ce/20231206-dnevne-novosti-34751930-20231206143516.mp3</link>
+    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
+    <pubDate>Wed, 06 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/ce/20231206-dnevne-novosti-34751930-20231206143516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.12. 2023-12-05</title>
     <link>https://api.hrt.hr/media/81/70/20231205-dnevne-novosti-34747853-20231205145503.mp3</link>
     <description>Na Jakuševec se ponovno dovozi otpad, kakvoća zraka u Zagrebu loša. UN i Crveni križ upozoravaju da se ionako teško humanitarno stanje u pojasu Gaze pogoršava iz sata u sat. 22 mrtvih u erupciji indonezijskog vulkana Marapi na Sumatri. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković najavio smjenu predsjednika Uprave HEP-a Frane Barbarića - zbog bespravne gradnje na Hvaru. Stotinjak Bad Blue Boysa, koji su već četiri mjeseca u grčkim zatvorima, sutra počinje iznositi svoju obranu. Nakon obnove od potresa, crkva svetog Marka otvorena za vjernike. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 03 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/ff/20231203-dnevne-novosti-34740480-20231203144029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.12. 2023-12-02</title>
-    <link>https://api.hrt.hr/media/d9/89/20231202-dnevne-novosti-34738277-20231202144019.mp3</link>
-    <description>Prosvjed nezadovoljnih seljaka širi se i izvan Slavonije. Nakon prekida primirja nastavljaju se sukobi u pojsu Gaze. Na UN-ovu sastanku o klimi u Dubaiju govorio premijer Plenković. Papa Franjo pozvao međunarodnu zajednicu na radikalni zaokret u odnosu prema klimi. Počinje Advent u Zagrebu. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 02 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d9/89/20231202-dnevne-novosti-34738277-20231202144019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
