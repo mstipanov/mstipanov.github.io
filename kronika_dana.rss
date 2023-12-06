@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 05 Dec 2023 22:07:21 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 21:42:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -23,14 +23,6 @@
     <description>Zbog bespravne gradnje na Hvaru bit će smijenjen predsjednik Uprave HEP-a Frano Barbarić, potvrdio premijer Andrej Plenković. Dvanaesti je dan prosvjeda svinjogojaca na cestama, ne odustaju dok se ne ispuni njihov ključni zahtjev - dopuštanje svinjokolje. Stotinjak Bad Blue Boysa, koji su već četiri mjeseca u grčkim zatvorima, sutra počinje iznositi obranu. U Crvenom moru napadnuti američki razarač i dva teretna broda, odgovornost preuzeli jemenski pobunjenici Huti. Urednik: Silvio Šop</description>
     <pubDate>Sun, 03 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/d8/20231203-kronika-dana-34741268-20231203213526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.12. 2023-12-02</title>
-    <link>https://api.hrt.hr/media/bb/e3/20231202-kronika-dana-34738970-20231202215026.mp3</link>
-    <description>Prosvjed svinjogojaca širi se Slavonijom. U Drnišu prosvjedovali poljoprivrednici iz Dalmatinske zagore. Nekadašnji ravnatelj Fonda za obnovu Zagreba Damir Vanđelić osnovao stranku Republika. Globalno zagrijavanje najveća je prijetnja čovječanstvu i njegovoj budućnosti, poručili iz Dubaija s konferencije o klimi svjetski čelnici. SPORT: Hrvatska nogometna reprezentacija na Euru će u skupini igrati protiv Španjolske, Albanije i Italije. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 02 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bb/e3/20231202-kronika-dana-34738970-20231202215026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
