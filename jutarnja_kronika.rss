@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Dec 2023 06:44:13 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 07:44:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.12. 2023-12-07</title>
+    <link>https://api.hrt.hr/media/d7/c6/20231207-jutarnja-kronika-34753617-20231207073021.mp3</link>
+    <description>Hoće li slavonski seljaci prekinuti prosvjed? Sabor će raspravljati o plaćama u državnoj i javnim službama. Prije točno 2 mjeseca Hamas iznenada napao Izrael. Američki Senat blokirao pomoć Ukrajini i Izraelu. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d7/c6/20231207-jutarnja-kronika-34753617-20231207073021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.12. 2023-12-06</title>
     <link>https://api.hrt.hr/media/37/5a/20231206-jutarnja-kronika-34749440-20231206063513.mp3</link>
     <description>Nakon tragedije na Jakuševcu zaoštrila se retorika između čelnika Zagreba i Zagrebačke županije o izgradnji centra za gospodarenje otpadom. U Grčkoj ispitivanje posljednje skupine navijača. U Saboru rasprava o Zakonu o turizmu. Blagdan je svetog Nikole, zaštitnika djece i pomoraca.: Marija Gerbec Njavro.</description>
