@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Dec 2023 15:15:30 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 14:49:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.12. 2023-12-08</title>
+    <link>https://api.hrt.hr/media/54/14/20231208-dnevne-novosti-34759139-20231208144024.mp3</link>
+    <description>Ukinut istražni zatvor za dio Bad Blue Boysa u Grčkoj. Europsko tužiteljstvo otvorilo novu istragu protiv bivše ministrice Gabrijele Žalac. Tereti je da je svoje račune u restoranima plaćala novcem Ministarstva. Vladimir Putin potvrdio da će se kandidirati na predsjedničkim izborima u ožujku sljedeće godine. Urednica: Mira Barić</description>
+    <pubDate>Fri, 08 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/14/20231208-dnevne-novosti-34759139-20231208144024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.12. 2023-12-07</title>
     <link>https://api.hrt.hr/media/a9/45/20231207-dnevne-novosti-34755667-20231207145029.mp3</link>
     <description>Svinjogojci nakon šesnaest dana prekinuli prosvjed. Za rješenje imovinsko-pravnih odnosa na zemljištu stadiona u Maksimiru, Vlada Crkvi daje deset zemljišta. Izraelski tenkovi u pojasu Gaze opkolili izbjeglički logor Džabaliju. Radnici ZET-a blokadom prometa prosvjedovali zbog sve češćih napada na vozače, kontrolore i drugo prometno osoblje. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Na Jakuševec se ponovno dovozi otpad, kakvoća zraka u Zagrebu loša. UN i Crveni križ upozoravaju da se ionako teško humanitarno stanje u pojasu Gaze pogoršava iz sata u sat. 22 mrtvih u erupciji indonezijskog vulkana Marapi na Sumatri. Urednica: Mira Barić</description>
     <pubDate>Tue, 05 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/70/20231205-dnevne-novosti-34747853-20231205145503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.12. 2023-12-04</title>
-    <link>https://api.hrt.hr/media/d0/3f/20231204-dnevne-novosti-34743811-20231204144101.mp3</link>
-    <description>Jutros novi odron smeća na zagrebačkom Jakuševcu, jedan radnik ostao bez ruke, glasovna poruka svjedoči o trenutku katastrofe. 102 Bad Blue Boysa ispituju se na sudu u Ateni nakon četiri mjeseca provedena u zatvorima. U Sjevernoj Makedoniji - otac naručio otmicu svoje četrnaestogodišnje kćeri, pronađena je mrtva. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 04 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/3f/20231204-dnevne-novosti-34743811-20231204144101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
