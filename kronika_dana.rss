@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Dec 2023 21:55:14 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 21:58:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.12. 2023-12-10</title>
+    <link>https://api.hrt.hr/media/de/b8/20231210-kronika-dana-34764781-20231210214053.mp3</link>
+    <description>U Zagreb se vratili prvi Dinamovi navijači pušteni iz grčkih zatvora! Konvoj s američkim Bradleyima večeras krenuo iz Rijeke prema slavonskobrodskom Đuri Đakoviću. Pojačavaju se sukobi na granici Izraela i Libanona. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 10 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/b8/20231210-kronika-dana-34764781-20231210214053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.12. 2023-12-09</title>
     <link>https://api.hrt.hr/media/c3/f5/20231209-kronika-dana-34762427-20231209214025.mp3</link>
     <description>Nakon četiri mjeseca u grčkim zatvorima prva skupina Bad Blue Boysa vraća se kući. Utopio se mladi ribar, a trojica su spašena s prevrnute brodice kod Paškoga mosta. Sutra prosvjed u Resniku protiv gradnje centra za gospodaranje otpadom. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Završen prosvjed svinjogojaca. Do sredine mjeseca trebalo bi se znati hoće li biti svinjokolje. Postignut dogovor Vlade, Grada i Crkve o novom Dinamovu stadionu. Vlada predložila Vicu Oršulića za obnašatelja dužnosti predsjednika Uprave HEP-a. Njemački istraživači bilježe nagli pad međunarodne vojne i financijske pomoći za Ukrajinu. Urednica: Mira Barić</description>
     <pubDate>Thu, 07 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9c/ac/20231207-kronika-dana-34756662-20231207214023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.12. 2023-12-06</title>
-    <link>https://api.hrt.hr/media/6f/09/20231206-kronika-dana-34752982-20231206214020.mp3</link>
-    <description>Predstavnici Stožera za obranu hrvatskog sela u Zagrebu održali sastanak s ministricom poljoprivrede Marijom Vučković i potpredsjednikom Vlade Ivanom Anušićem - sutra ili preksutra odluka o završetku prosvjeda. Nakon odrona smeća na odlagalištu Jakuševcu, u Zagrebu je koncentracija štetnih plinova u dopuštenim granicama. Još se ne zna što je uzrokovalo odron. Završena ispitivanja Bad Blue Boysa u Ateni. Hoće li biti pušteni iz istražnog zatvora, odlučit će se u idućim danima. Sutra će na Vladi biti predstavljen sporazum sa Zagrebačkom nadbiskupijom o rješenju problema Dinamova stadiona. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 06 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6f/09/20231206-kronika-dana-34752982-20231206214020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
