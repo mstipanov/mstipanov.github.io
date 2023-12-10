@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 10 Dec 2023 06:56:31 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 07:26:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.12. 2023-12-10</title>
+    <link>https://api.hrt.hr/media/6a/ca/20231210-jutarnja-kronika-34763090-20231210065548.mp3</link>
+    <description>Čeka li Zagreb napuljski scenarij? Nakon najava da će se otpad zbrinjavati u Resniku, mještani za danas najavili veliki prosvjed. Nakon četiri mjeseca u grčkim zatvorima, prva skupina Bad Blue Boysa vraća se kući. Nastavljaju se borbe u pojasu Gaze. Urednik: Grgo Mrvica.</description>
+    <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6a/ca/20231210-jutarnja-kronika-34763090-20231210065548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.12. 2023-12-09</title>
     <link>https://api.hrt.hr/media/59/d8/20231209-jutarnja-kronika-34760741-20231209063523.mp3</link>
     <description>30-ak Bad Blue Boysa mogli bi u ponedjeljak izaći iz grčkih zatvora nakon što im roditelji uplate jamčevinu. Amerika stavila veto na UN-ovu rezoluciju o trenutačnom humanitarnom prekidu vatre u Gazi. Večeras u Berlinu dodjela europskih Oskara. Hrvatski film - "Sigurno mjesto" Jurja Lerotića natječe se za Europsko otkriće godine. U 83.-oj godini u Los Angelesu umro poznati glumac Ryan O'Neal. Urednik: Grgo Mrvica</description>
