@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 10 Dec 2023 21:58:42 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 22:02:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.12. 2023-12-11</title>
+    <link>https://api.hrt.hr/media/36/dc/20231211-kronika-dana-34768109-20231211214056.mp3</link>
+    <description>Volodimir Zelenski u SAD-u pokušava osigurati nastavak američke pomoći Ukrajini. Donald Tusk novi je poljski premijer. Obećao da će popraviti odnose s Europskom unijom i deblokirati novac zamrznut zbog spora o demokratskim standardima. Za Bad Blue Boyse, koji su se vratili iz Grčke, tražit će se sudska zabrana odlaska na domaće utakmice. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 11 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/36/dc/20231211-kronika-dana-34768109-20231211214056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.12. 2023-12-10</title>
     <link>https://api.hrt.hr/media/de/b8/20231210-kronika-dana-34764781-20231210214053.mp3</link>
     <description>U Zagreb se vratili prvi Dinamovi navijači pušteni iz grčkih zatvora! Konvoj s američkim Bradleyima večeras krenuo iz Rijeke prema slavonskobrodskom Đuri Đakoviću. Pojačavaju se sukobi na granici Izraela i Libanona. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Za 30-ak Bad Blue Boysa ukinut istražni zatvor. Grčku će napustiti kad uplate jamčevinu. Nova istraga protiv bivše ministrice Gabrijele Žalac, Europsko tužiteljstvo tereti je da je račune u restoranima plaćala novcem Ministarstva i europskih fondova. Amerika stavila veto na UN-ovu rezoluciju o trenutačnom humanitarnom prekidu vatre u Gazi. Urednica: Sanja Cota</description>
     <pubDate>Fri, 08 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/df/20231208-kronika-dana-34760181-20231208214025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.12. 2023-12-07</title>
-    <link>https://api.hrt.hr/media/9c/ac/20231207-kronika-dana-34756662-20231207214023.mp3</link>
-    <description>Završen prosvjed svinjogojaca. Do sredine mjeseca trebalo bi se znati hoće li biti svinjokolje. Postignut dogovor Vlade, Grada i Crkve o novom Dinamovu stadionu. Vlada predložila Vicu Oršulića za obnašatelja dužnosti predsjednika Uprave HEP-a. Njemački istraživači bilježe nagli pad međunarodne vojne i financijske pomoći za Ukrajinu. Urednica: Mira Barić</description>
-    <pubDate>Thu, 07 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/ac/20231207-kronika-dana-34756662-20231207214023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
