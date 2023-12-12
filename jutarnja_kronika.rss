@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Dec 2023 07:00:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 06:34:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>30-ak Bad Blue Boysa mogli bi u ponedjeljak izaći iz grčkih zatvora nakon što im roditelji uplate jamčevinu. Amerika stavila veto na UN-ovu rezoluciju o trenutačnom humanitarnom prekidu vatre u Gazi. Večeras u Berlinu dodjela europskih Oskara. Hrvatski film - "Sigurno mjesto" Jurja Lerotića natječe se za Europsko otkriće godine. U 83.-oj godini u Los Angelesu umro poznati glumac Ryan O'Neal. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/d8/20231209-jutarnja-kronika-34760741-20231209063523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.12. 2023-12-08</title>
-    <link>https://api.hrt.hr/media/5b/27/20231208-jutarnja-kronika-34757267-20231208064024.mp3</link>
-    <description>Jučer je završen prosvjed svinjogojaca. Do sredine mjeseca trebalo bi se znati hoće li biti svinjokolje. Visoki kazneni sud ukinuo je odluku kojom je zagrebački Županijski sud zakonitima proglasio Uskokove dokaze protiv bivših ministara Horvata, Tolušića i Aladrovića te bivšeg potpredsjednika Vlade Miloševića. Stanje u pojasu Gaze bit će tema sjednice Vijeća sigurnosti UN-a. U Zagrebačkom kazalištu mladih večeras premijera predstave Euforija. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5b/27/20231208-jutarnja-kronika-34757267-20231208064024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
