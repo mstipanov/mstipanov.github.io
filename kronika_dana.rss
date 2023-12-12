@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Dec 2023 22:02:43 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 22:13:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.12. 2023-12-12</title>
+    <link>https://api.hrt.hr/media/e9/9c/20231212-kronika-dana-34771647-20231212214100.mp3</link>
+    <description>Premijer Andrej Plenković smijenio ministra gospodarstva Davora Filipovića. Razlog su sumnje na koruptivne radnje njegova savjetnika Jurice Lovrinčevića. Prozvani Lovrinčević u demantiju ističe da nikada u životu nije uzeo niti tražio proviziju ili mito. SDP sutra u saborsku proceduru šalje prijedlog za njegovo raspuštanje. Željeznički promet kod Rijeke, nakon jučerašnje nesreće, mogao bi biti prekinut i 10 dana. Ukrajinski predsjednik Volodimir Zelenski kod zastupnika američkog Senata i Zastupničkog doma lobirao da njegovoj zemlji odobre novi paket pomoći. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 12 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e9/9c/20231212-kronika-dana-34771647-20231212214100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.12. 2023-12-11</title>
     <link>https://api.hrt.hr/media/36/dc/20231211-kronika-dana-34768109-20231211214056.mp3</link>
     <description>Volodimir Zelenski u SAD-u pokušava osigurati nastavak američke pomoći Ukrajini. Donald Tusk novi je poljski premijer. Obećao da će popraviti odnose s Europskom unijom i deblokirati novac zamrznut zbog spora o demokratskim standardima. Za Bad Blue Boyse, koji su se vratili iz Grčke, tražit će se sudska zabrana odlaska na domaće utakmice. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nakon četiri mjeseca u grčkim zatvorima prva skupina Bad Blue Boysa vraća se kući. Utopio se mladi ribar, a trojica su spašena s prevrnute brodice kod Paškoga mosta. Sutra prosvjed u Resniku protiv gradnje centra za gospodaranje otpadom. Urednica: Sanja Cota</description>
     <pubDate>Sat, 09 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c3/f5/20231209-kronika-dana-34762427-20231209214025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.12. 2023-12-08</title>
-    <link>https://api.hrt.hr/media/b7/df/20231208-kronika-dana-34760181-20231208214025.mp3</link>
-    <description>Za 30-ak Bad Blue Boysa ukinut istražni zatvor. Grčku će napustiti kad uplate jamčevinu. Nova istraga protiv bivše ministrice Gabrijele Žalac, Europsko tužiteljstvo tereti je da je račune u restoranima plaćala novcem Ministarstva i europskih fondova. Amerika stavila veto na UN-ovu rezoluciju o trenutačnom humanitarnom prekidu vatre u Gazi. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 08 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/df/20231208-kronika-dana-34760181-20231208214025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
