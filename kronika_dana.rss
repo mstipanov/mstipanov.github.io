@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 12 Dec 2023 22:13:28 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 21:47:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.12. 2023-12-13</title>
+    <link>https://api.hrt.hr/media/9a/97/20231213-kronika-dana-34775113-20231213213510.mp3</link>
+    <description>Obnašatelj dužnosti ministra gospodarstva bit će državni tajnik Hrvoje Bujanović. Smijenjeni ministar Filipović kaže kako sumnja u istinitost optužbi protiv svojeg savjetnika. Tjednik Nacional objavio je nove snimke na kojima Jurica Lovrinčević dogovara podjelu novca od državnog oglašavanja.
+Počelo je raščišćavanje pruge nakon očevida nesreće između Meje i Škrljeva. Teret se prevozi preko Slovenije. Unatoč rezoluciji UN-a, kojom se zahtijeva trenutačni humanitarni prekid vatre, izraelske snage nastavljaju silovito bombardirati ciljeve u Gazi. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 13 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9a/97/20231213-kronika-dana-34775113-20231213213510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.12. 2023-12-12</title>
     <link>https://api.hrt.hr/media/e9/9c/20231212-kronika-dana-34771647-20231212214100.mp3</link>
     <description>Premijer Andrej Plenković smijenio ministra gospodarstva Davora Filipovića. Razlog su sumnje na koruptivne radnje njegova savjetnika Jurice Lovrinčevića. Prozvani Lovrinčević u demantiju ističe da nikada u životu nije uzeo niti tražio proviziju ili mito. SDP sutra u saborsku proceduru šalje prijedlog za njegovo raspuštanje. Željeznički promet kod Rijeke, nakon jučerašnje nesreće, mogao bi biti prekinut i 10 dana. Ukrajinski predsjednik Volodimir Zelenski kod zastupnika američkog Senata i Zastupničkog doma lobirao da njegovoj zemlji odobre novi paket pomoći. Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>U Zagreb se vratili prvi Dinamovi navijači pušteni iz grčkih zatvora! Konvoj s američkim Bradleyima večeras krenuo iz Rijeke prema slavonskobrodskom Đuri Đakoviću. Pojačavaju se sukobi na granici Izraela i Libanona. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 10 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/b8/20231210-kronika-dana-34764781-20231210214053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.12. 2023-12-09</title>
-    <link>https://api.hrt.hr/media/c3/f5/20231209-kronika-dana-34762427-20231209214025.mp3</link>
-    <description>Nakon četiri mjeseca u grčkim zatvorima prva skupina Bad Blue Boysa vraća se kući. Utopio se mladi ribar, a trojica su spašena s prevrnute brodice kod Paškoga mosta. Sutra prosvjed u Resniku protiv gradnje centra za gospodaranje otpadom. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 09 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/f5/20231209-kronika-dana-34762427-20231209214025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
