@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 12 Dec 2023 07:04:08 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:14:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.12. 2023-12-13</title>
+    <link>https://api.hrt.hr/media/76/73/20231213-jutarnja-kronika-34772185-20231213063508.mp3</link>
+    <description>Premijer Andrej Plenković smijenio Davora Flipovića - u tijeku konzultacije o novom ministru gospodarstva. Zbog nove afere u Vladi SDP će u saborsku proceduru uputiti prijedlog za raspuštanje Sabora. Opća skupština Ujedinjenih naroda prihvatila rezoluciju u kojoj se zahtijeva trenutačan prekid vatre u Pojasu Gaze. Kanadski pjevač Brayan Adams večeras nastupa u zagrebačkoj Areni. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/76/73/20231213-jutarnja-kronika-34772185-20231213063508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.12. 2023-12-12</title>
     <link>https://api.hrt.hr/media/1b/28/20231212-jutarnja-kronika-34768686-20231212063557.mp3</link>
     <description>I dalje prekinut promet na željezničkoj pruzi Rijeka - Zagreb zbog jučerašnjeg udara teretnog vlaka u pružno vozilo. Za Bad Blue Boyse koji su se vratili iz Grčke tražit će se sudska zabrana odlaska na domaće utakmice. Počinje sjednica Zagrebačke gradske skupštine na kojoj će se raspravljati o proračunu i zahtjevu za maksimalno povećanje stopa poreza na dohodak. Krstareći projektil pogodio norveški tanker kod Jemena.Urednik: Mislav Togonal.</description>
@@ -31,14 +39,6 @@
     <description>Čeka li Zagreb napuljski scenarij? Nakon najava da će se otpad zbrinjavati u Resniku, mještani za danas najavili veliki prosvjed. Nakon četiri mjeseca u grčkim zatvorima, prva skupina Bad Blue Boysa vraća se kući. Nastavljaju se borbe u pojasu Gaze. Urednik: Grgo Mrvica.</description>
     <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6a/ca/20231210-jutarnja-kronika-34763090-20231210065548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.12. 2023-12-09</title>
-    <link>https://api.hrt.hr/media/59/d8/20231209-jutarnja-kronika-34760741-20231209063523.mp3</link>
-    <description>30-ak Bad Blue Boysa mogli bi u ponedjeljak izaći iz grčkih zatvora nakon što im roditelji uplate jamčevinu. Amerika stavila veto na UN-ovu rezoluciju o trenutačnom humanitarnom prekidu vatre u Gazi. Večeras u Berlinu dodjela europskih Oskara. Hrvatski film - "Sigurno mjesto" Jurja Lerotića natječe se za Europsko otkriće godine. U 83.-oj godini u Los Angelesu umro poznati glumac Ryan O'Neal. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/d8/20231209-jutarnja-kronika-34760741-20231209063523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
