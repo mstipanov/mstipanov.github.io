@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Dec 2023 17:15:50 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 17:20:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>DIEGO HAN 2023-12-14</title>
+    <link>https://api.hrt.hr/media/48/da/20231214-historia-histriae-8016047-20231214171018.mp3</link>
+    <description>U goste nam dolazi povjesničar Diego Han, a pričamo o razbojništvu u Istri. </description>
+    <pubDate>Thu, 14 Dec 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/48/da/20231214-historia-histriae-8016047-20231214171018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>SLAVICA PORUBIC KUKAL 2023-12-07</title>
     <link>https://api.hrt.hr/media/80/6f/20231207-historia-histriae-8013929-20231207170519.mp3</link>
     <description>U goste nam dolazi braniteljica Slavica Porubić Kukal. </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi pilot helikoptera Vlado Petelinec!</description>
     <pubDate>Thu, 12 Oct 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/99/3b/20231012-historia-histriae-7994271-20231012160024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>MATE CURIC ZA HISTORIU 5.10. 2023-10-05</title>
-    <link>https://api.hrt.hr/media/6b/14/20231005-historia-histriae-7992176-20231005164525.mp3</link>
-    <description>Poznati novinar Mate Ćurić dolazi nam u goste i progovara o mnogim intrigantnim povijesnim temama koje su vezane za odluke o sjedinjenju Istre s maticom domovinom. O svemu tome piše u svojoj novoj knjizi "Istrajavanje: pogled iz mrtvog ugla". </description>
-    <pubDate>Thu, 05 Oct 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6b/14/20231005-historia-histriae-7992176-20231005164525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
