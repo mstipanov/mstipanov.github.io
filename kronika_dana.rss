@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Dec 2023 21:51:10 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 21:57:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.12. 2023-12-15</title>
+    <link>https://api.hrt.hr/media/31/18/20231215-kronika-dana-34782129-20231215214526.mp3</link>
+    <description>Za novog ministra gospodarstva premijer Plenković predložit će Damira Habijana, izvanredna sjednica Sabora u srijedu. Od idućeg tjedna bit će dopuštena svinjokolja za vlastite potrebe. Mađarska blokirala 50 milijardi eura pomoći Europske unije za Ukrajinu. Pregovori o pomoći nastavit će se početkom godine. Urednica: Mira Barić</description>
+    <pubDate>Fri, 15 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/31/18/20231215-kronika-dana-34782129-20231215214526.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.12. 2023-12-14</title>
     <link>https://api.hrt.hr/media/29/37/20231214-kronika-dana-34778540-20231214214016.mp3</link>
     <description>Brisel otvara pristupne pregovore s Ukrajinom. Viktor Orban izašao dok se glasovalo. Svi prozvani u aferi "Mreža"odbacuju da su sudjelovali u korupciji. Novi argentinski predsjednik predstavio radikalne gospodarske reforme. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Počelo je raščišćavanje pruge nakon očevida nesreće između Meje i Škrlj
     <description>Premijer Andrej Plenković smijenio ministra gospodarstva Davora Filipovića. Razlog su sumnje na koruptivne radnje njegova savjetnika Jurice Lovrinčevića. Prozvani Lovrinčević u demantiju ističe da nikada u životu nije uzeo niti tražio proviziju ili mito. SDP sutra u saborsku proceduru šalje prijedlog za njegovo raspuštanje. Željeznički promet kod Rijeke, nakon jučerašnje nesreće, mogao bi biti prekinut i 10 dana. Ukrajinski predsjednik Volodimir Zelenski kod zastupnika američkog Senata i Zastupničkog doma lobirao da njegovoj zemlji odobre novi paket pomoći. Urednik: Silvio Šop</description>
     <pubDate>Tue, 12 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/9c/20231212-kronika-dana-34771647-20231212214100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.12. 2023-12-11</title>
-    <link>https://api.hrt.hr/media/36/dc/20231211-kronika-dana-34768109-20231211214056.mp3</link>
-    <description>Volodimir Zelenski u SAD-u pokušava osigurati nastavak američke pomoći Ukrajini. Donald Tusk novi je poljski premijer. Obećao da će popraviti odnose s Europskom unijom i deblokirati novac zamrznut zbog spora o demokratskim standardima. Za Bad Blue Boyse, koji su se vratili iz Grčke, tražit će se sudska zabrana odlaska na domaće utakmice. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 11 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/36/dc/20231211-kronika-dana-34768109-20231211214056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
