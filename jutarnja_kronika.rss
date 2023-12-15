@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Dec 2023 06:48:47 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 06:52:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.12. 2023-12-15</title>
+    <link>https://api.hrt.hr/media/43/9c/20231215-jutarnja-kronika-34779195-20231215063523.mp3</link>
+    <description>Afera "Mreža" i dalje u središtu pozornosti javnosti - svi prozvani odbacuju da su sudjelovali u korupciji. Europska unija otvara pristupne pregovore s Ukrajinom. Mađarski premijer Viktor Orban izašao dok se glasovalo. Sabor će glasovanjem u podne završiti redovito jesensko zasjedanje. Idući tjedan očekuje se izvanredna sjednica na kojoj će biti potvrđen novi ministar ili ministrica gospodarstva. Klinički bolnički centar Zagreb obilježit će veliku i važnu obljetnicu - 50 godina transplantacijskog programa. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/43/9c/20231215-jutarnja-kronika-34779195-20231215063523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.12. 2023-12-14</title>
     <link>https://api.hrt.hr/media/a5/76/20231214-jutarnja-kronika-34775622-20231214063512.mp3</link>
     <description>Afera "mreža" - premijer inzistira da je to afera Mosta, oporba tvrdi da se ponavlja "Fimi Media". Obnašatelj dužnosti ministra gospodarstva bit će državni tajnik Hrvoje Bujanović. Novi će ministar biti potvrđen na izvanrednoj sjednici Sabora. U Briselu sastanak na vrhu čelnika država i Vlada zemalja Europske unije, teme su višegodišnji proračun Unije i nastavak procesa proširenja. Izrael objavio da će nastaviti napade u pojasu Gaze, s međunarodnom potporom ili bez nje. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>I dalje prekinut promet na željezničkoj pruzi Rijeka - Zagreb zbog jučerašnjeg udara teretnog vlaka u pružno vozilo. Za Bad Blue Boyse koji su se vratili iz Grčke tražit će se sudska zabrana odlaska na domaće utakmice. Počinje sjednica Zagrebačke gradske skupštine na kojoj će se raspravljati o proračunu i zahtjevu za maksimalno povećanje stopa poreza na dohodak. Krstareći projektil pogodio norveški tanker kod Jemena.Urednik: Mislav Togonal.</description>
     <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/28/20231212-jutarnja-kronika-34768686-20231212063557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.12. 2023-12-11</title>
-    <link>https://api.hrt.hr/media/f1/34/20231211-jutarnja-kronika-34765388-20231211063552.mp3</link>
-    <description>U zemlju se vraćaju Dinamovi navijači pušteni iz grčkih zatvora. Pred Saborom u posljednjem tjednu jesenskog zasjedanja paket mirovinskih zakona. U Zagrebu se održava Međunarodna konferencija o demografskim promjenama. Izraelski tenkovi na jugu Gaze, a sukobi se pojačavaju i na granici s Libanonom. Urednica: Snježana Kralj</description>
-    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f1/34/20231211-jutarnja-kronika-34765388-20231211063552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
