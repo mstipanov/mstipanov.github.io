@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Dec 2023 14:50:03 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 14:56:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.12. 2023-12-15</title>
+    <link>https://api.hrt.hr/media/18/53/20231215-dnevne-novosti-34781156-20231215144025.mp3</link>
+    <description>Europska komisija odobrila blaži režim, od idućeg tjedna počinje trgovina svježim mesom i svinjokolja za vlastite potrebe. Završen summit u Bruxellesu, tko je nagovorio Viktora Orbana da preskoči glasovanje o Ukrajini? U KBC-u Zagreb obilježena 50. obljetnica transplantacijskog programa. Hrvatska među vodećima u Europi i svijetu po broju darivatelja i transplantiranih bolesnika. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 15 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/18/53/20231215-dnevne-novosti-34781156-20231215144025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.12. 2023-12-14</title>
     <link>https://api.hrt.hr/media/74/56/20231214-dnevne-novosti-34777644-20231214144515.mp3</link>
     <description>Ne stišava se afera "mreža" - ministar Medved odbacio optužbe novinara Marina Vlahovića da mu je nudio suradnju. U Bruxellesu sastanak čelnika Europske unije, jedan od najneizvjesnijih dosad. Iako je Europska komisija Mađarskoj odobrila deset milijardi 200 milijuna eura, Viktor Orban ne popušta. Ruski predsjednik Vladimir Putin na konferenciji za novinare, prvoj nakon početka invazije na Ukrajinu, rekao da će se uspostaviti mir u Ukrajini nakon što se postignu početni ciljevi ruske invazije. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Premijer Andrej Plenković razriješio ministra gospodarstva Davora Filipovića, Jurica Lovrinčević prestaje biti posebni ministov savjetnik.Tjednik Nacional objavio da je Lovrinčević tražio novac od jedne lokalne televizije. Još se ne zna kad će biti normaliziran željeznički promet kod Rijeke, tek sutra bi trebao biti završen očevid jučerašnje nesreće u Škrljevu. U Crvenom moru pogođen tanker koji plovi pod norveškom zastavom, projektil ispaljen iz Jemena. Urednica: Mira Barić</description>
     <pubDate>Tue, 12 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c6/fe/20231212-dnevne-novosti-34770592-20231212143557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.12. 2023-12-11</title>
-    <link>https://api.hrt.hr/media/95/ba/20231211-dnevne-novosti-34767216-20231211144056.mp3</link>
-    <description>Željeznička nesreća na riječkom području. Između kolodvora Meja i Škrljevo sudarili su se teretni vlak i pružno vozilo. Nasreću, nema ozlijeđenih, materijalna šteta golema. Za pripadnike Bad Blue Boysa, koji su se vratili iz Grčke, policija će od suda zatražiti zabranu odlaska na nogometne utakmice u Hrvatskoj. U Saboru rasprava o mirovinskim zakonima, oporba smatra da će takozvani alternativni obvezni mirovinski fond služiti za financiranje Pavla Vujnovca i njegovo preuzimanje Fortenove. Urednica: Mira Barić</description>
-    <pubDate>Mon, 11 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/ba/20231211-dnevne-novosti-34767216-20231211144056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
