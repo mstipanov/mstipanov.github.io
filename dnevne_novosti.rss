@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Dec 2023 14:59:35 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:03:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.12. 2023-12-17</title>
+    <link>https://api.hrt.hr/media/8d/3b/20231217-dnevne-novosti-34785867-20231217143554.mp3</link>
+    <description>Raste broj oboljelih od Covida. Iz Hrvatskog zavoda za javno zdravstvo poručili kako nema razloga za zbrinutost, ali ima za oprez. Policija pronašla vozača koji je prošle noći u Tribunju na nogostupu usmrtio djevojku. U Srbiji izvanredni izbori. Najveća borba između Vučićeva SNS-a i ujedinjene oporbe vodi se za Beograd. Sport: Filip Zubčić srebrni u veleslalomu u Alti Badiji. Od 17 sati i 15 minuta derbi Dinamo - Hajduk. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 17 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/3b/20231217-dnevne-novosti-34785867-20231217143554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.12. 2023-12-16</title>
     <link>https://api.hrt.hr/media/af/2c/20231216-dnevne-novosti-34783666-20231216144541.mp3</link>
     <description>Dok oporba nakon afere mreža zaziva raspuštanje Sabora i izbore, premijer Plenković kaže da će se izbori održati sljedeće godine, ali još ne otkriva kada. Nakon samo dvadeset mjeseci, u Srbiji sutra još jedni izvanredni izbori. Stranka predsjednika Vučića suočava se s ujedinjenom oporbom. Olujna, ponegdje i orkanska bura puhala do 150 kilometara na sat. U središtu Sinja teško ozlijeđena devetogodišnja djevojčica kojoj je na glavu pao kamen koji je bura otpuhala sa stare kuće.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ne stišava se afera "mreža" - ministar Medved odbacio optužbe novinara Marina Vlahovića da mu je nudio suradnju. U Bruxellesu sastanak čelnika Europske unije, jedan od najneizvjesnijih dosad. Iako je Europska komisija Mađarskoj odobrila deset milijardi 200 milijuna eura, Viktor Orban ne popušta. Ruski predsjednik Vladimir Putin na konferenciji za novinare, prvoj nakon početka invazije na Ukrajinu, rekao da će se uspostaviti mir u Ukrajini nakon što se postignu početni ciljevi ruske invazije. Urednica: Mira Barić</description>
     <pubDate>Thu, 14 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/74/56/20231214-dnevne-novosti-34777644-20231214144515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.12. 2023-12-13</title>
-    <link>https://api.hrt.hr/media/e5/12/20231213-dnevne-novosti-34774153-20231213144012.mp3</link>
-    <description>Smijenjeni ministar gospodarstva Davor Filipović obratio se javnosti - "Nisam znao za poruke, ne vjerujem da se Lovrinčević upuštao u sitne pogodbe". Obnašatelj dužnosti ministra gospodarstva bit će Hrvoje Vujanović. I u Saboru žustra razmjena mišljenja oporbe i vladajućih o aferi "mreža". Na UN-ovoj konferenciji o klimi u Dubaiju postignut sporazum o smanjenju potrošnje fosilnih goriva. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 13 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/12/20231213-dnevne-novosti-34774153-20231213144012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
