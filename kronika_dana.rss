@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Dec 2023 22:00:37 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 21:34:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Brisel otvara pristupne pregovore s Ukrajinom. Viktor Orban izašao dok se glasovalo. Svi prozvani u aferi "Mreža"odbacuju da su sudjelovali u korupciji. Novi argentinski predsjednik predstavio radikalne gospodarske reforme. Urednica: Sanja Cota</description>
     <pubDate>Thu, 14 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/29/37/20231214-kronika-dana-34778540-20231214214016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.12. 2023-12-13</title>
-    <link>https://api.hrt.hr/media/9a/97/20231213-kronika-dana-34775113-20231213213510.mp3</link>
-    <description>Obnašatelj dužnosti ministra gospodarstva bit će državni tajnik Hrvoje Bujanović. Smijenjeni ministar Filipović kaže kako sumnja u istinitost optužbi protiv svojeg savjetnika. Tjednik Nacional objavio je nove snimke na kojima Jurica Lovrinčević dogovara podjelu novca od državnog oglašavanja.
-Počelo je raščišćavanje pruge nakon očevida nesreće između Meje i Škrljeva. Teret se prevozi preko Slovenije. Unatoč rezoluciji UN-a, kojom se zahtijeva trenutačni humanitarni prekid vatre, izraelske snage nastavljaju silovito bombardirati ciljeve u Gazi. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 13 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/97/20231213-kronika-dana-34775113-20231213213510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
