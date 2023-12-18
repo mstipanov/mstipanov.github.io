@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Dec 2023 15:03:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 14:37:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Europska komisija odobrila blaži režim, od idućeg tjedna počinje trgovina svježim mesom i svinjokolja za vlastite potrebe. Završen summit u Bruxellesu, tko je nagovorio Viktora Orbana da preskoči glasovanje o Ukrajini? U KBC-u Zagreb obilježena 50. obljetnica transplantacijskog programa. Hrvatska među vodećima u Europi i svijetu po broju darivatelja i transplantiranih bolesnika. Urednica: Sanja Cota</description>
     <pubDate>Fri, 15 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/18/53/20231215-dnevne-novosti-34781156-20231215144025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.12. 2023-12-14</title>
-    <link>https://api.hrt.hr/media/74/56/20231214-dnevne-novosti-34777644-20231214144515.mp3</link>
-    <description>Ne stišava se afera "mreža" - ministar Medved odbacio optužbe novinara Marina Vlahovića da mu je nudio suradnju. U Bruxellesu sastanak čelnika Europske unije, jedan od najneizvjesnijih dosad. Iako je Europska komisija Mađarskoj odobrila deset milijardi 200 milijuna eura, Viktor Orban ne popušta. Ruski predsjednik Vladimir Putin na konferenciji za novinare, prvoj nakon početka invazije na Ukrajinu, rekao da će se uspostaviti mir u Ukrajini nakon što se postignu početni ciljevi ruske invazije. Urednica: Mira Barić</description>
-    <pubDate>Thu, 14 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/74/56/20231214-dnevne-novosti-34777644-20231214144515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
