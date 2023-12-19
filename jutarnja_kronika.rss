@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Dec 2023 07:05:43 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 06:39:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.12. 2023-12-19</title>
+    <link>https://api.hrt.hr/media/5a/6e/20231219-jutarnja-kronika-34790858-20231219063506.mp3</link>
+    <description>U potresu u Kini poginulo više od 100 ljudi.Hrvati ostali bez mandata u Skupštini Srbije. Tamošnja oporba prosvjedovala zbog sumnje u regularnost izbora u Beogradu. Kandidat za novog ministra gospodarstva Damir Habijan predstavio se koalicijskim partnerima. Zbog koeficijenata Nezavisni sindikat znanosti i visokog obrazovanja održava prosvjed na Filozofskom fakultetu Zagrebu s porukom "Dosta 'filozofiranja' o plaćama". Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5a/6e/20231219-jutarnja-kronika-34790858-20231219063506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.12. 2023-12-18</title>
     <link>https://api.hrt.hr/media/e3/19/20231218-jutarnja-kronika-34787323-20231218064602.mp3</link>
     <description>Ministrica poljoprivrede najavila kako će svinjokolje u dijelovima zemlje pogođenima epidemijom afričke svinjske kuge možda biti odobrene već od sutra. Aleksandar Vučić proglasio apsolutnu pobjedu na srbijanskim izborima. Oporbeni vođa Miroslav Aleksić izjavio da je za beogradske izbore izdano novih 40 tisuća osobnih iskaznica. Policija uoči derbija na Maksimiru spriječila dogovorenu tučnjavu Torcide i Bad Blue Boysa. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Kandidat za novog ministra gospodarstva Damir Habijan trebao bi biti potvrđen na izvanrednoj saborskoj sjednici u srijedu. Od idućega tjedna bit će dopuštena svinjokolja u županijama pogođenima svinjskom kugom. Izraelska vojska slučajno ubila troje izraelskih talaca i televizijskog snimatelja Al Jazeere. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 16 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4c/28/20231216-jutarnja-kronika-34782651-20231216063537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.12. 2023-12-15</title>
-    <link>https://api.hrt.hr/media/43/9c/20231215-jutarnja-kronika-34779195-20231215063523.mp3</link>
-    <description>Afera "Mreža" i dalje u središtu pozornosti javnosti - svi prozvani odbacuju da su sudjelovali u korupciji. Europska unija otvara pristupne pregovore s Ukrajinom. Mađarski premijer Viktor Orban izašao dok se glasovalo. Sabor će glasovanjem u podne završiti redovito jesensko zasjedanje. Idući tjedan očekuje se izvanredna sjednica na kojoj će biti potvrđen novi ministar ili ministrica gospodarstva. Klinički bolnički centar Zagreb obilježit će veliku i važnu obljetnicu - 50 godina transplantacijskog programa. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/43/9c/20231215-jutarnja-kronika-34779195-20231215063523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
