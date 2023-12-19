@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Dec 2023 15:07:07 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 14:41:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Dok oporba nakon afere mreža zaziva raspuštanje Sabora i izbore, premijer Plenković kaže da će se izbori održati sljedeće godine, ali još ne otkriva kada. Nakon samo dvadeset mjeseci, u Srbiji sutra još jedni izvanredni izbori. Stranka predsjednika Vučića suočava se s ujedinjenom oporbom. Olujna, ponegdje i orkanska bura puhala do 150 kilometara na sat. U središtu Sinja teško ozlijeđena devetogodišnja djevojčica kojoj je na glavu pao kamen koji je bura otpuhala sa stare kuće.Urednica: Mira Barić</description>
     <pubDate>Sat, 16 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/af/2c/20231216-dnevne-novosti-34783666-20231216144541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.12. 2023-12-15</title>
-    <link>https://api.hrt.hr/media/18/53/20231215-dnevne-novosti-34781156-20231215144025.mp3</link>
-    <description>Europska komisija odobrila blaži režim, od idućeg tjedna počinje trgovina svježim mesom i svinjokolja za vlastite potrebe. Završen summit u Bruxellesu, tko je nagovorio Viktora Orbana da preskoči glasovanje o Ukrajini? U KBC-u Zagreb obilježena 50. obljetnica transplantacijskog programa. Hrvatska među vodećima u Europi i svijetu po broju darivatelja i transplantiranih bolesnika. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 15 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/53/20231215-dnevne-novosti-34781156-20231215144025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
