@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Dec 2023 21:42:13 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 21:45:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.12. 2023-12-20</title>
+    <link>https://api.hrt.hr/media/91/81/20231220-kronika-dana-34797909-20231220214015.mp3</link>
+    <description>Damir Habijan - novi ministar gospodarstva i održivog razvoja. Premijer Plenković najavio još jedan paket potpore umirovljenicima, ovaj put svima koji imaju mirovinu do 840 eura. U Bruxellesu postignut dogovor o novom sporazumu o migracijama i azilu u Europskoj uniji. Uz ostalo, uvode se stroži postupci za dobivanje azila. Od sutra u Slavoniji dopuštena svinjokolja.
+Urednica: Mira Barić</description>
+    <pubDate>Wed, 20 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/91/81/20231220-kronika-dana-34797909-20231220214015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.12. 2023-12-19</title>
     <link>https://api.hrt.hr/media/3a/13/20231219-kronika-dana-34793994-20231219214010.mp3</link>
     <description>Nesankcionirani dioničari odlučili da će Pavao Vujnovac, vlasnik ENNA Grupe, uskoro postati većinski vlasnik Fortenove. Inflacija bi u idućoj godini mogla usporiti na 4 posto, nova je procjena Hrvatske narodne banke. Prosvjedovao Sindikat znanosti i visokog obrazovanja jer nisu upoznati sa sustavom novih koeficijenata prije donošenja Zakona o plaćama. U snažnom potresu koji je pogodio Kinu poginulo najmanje 126 osoba, više od 700 ozlijeđeno. Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>Prvi neslužbeni rezultati izbora u Srbiji pokazuju da je Vučićeva Srpska napredna stranka dobila najviše glasova 46,6 posto. Oporbena Srbija protiv nasilja na drugom je mjestu s 23 posto glasova.Humanitarna pomoć u pojas Gaze prvi put ušla iz Izraela. Utakmica Dinamo-Hajduk završila rezultatom 0:0, policija privela 24 navijača. Urednica: Mira Barić</description>
     <pubDate>Sun, 17 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9f/d3/20231217-kronika-dana-34786689-20231217214557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.12. 2023-12-16</title>
-    <link>https://api.hrt.hr/media/84/3c/20231216-kronika-dana-34784530-20231216213539.mp3</link>
-    <description>Kandidata za novog ministra gospodarstva Damira Habijana premijer Andrej Plenković preksutra će prvo predstaviti na sastanku koalicijske većine, a zatim i na sjednici Predsjedništva HDZ-a. Nevjerojatna nesreća u Sinju; djevojčicu u glavu pogodio kamen koji je bura otpuhala sa stare kuće. Hitno je operirana u splitskom KBC-u, ne može se reći je li izvan životne opasnosti. Vojnici koji su greškom ubili trojicu talaca u pojasu Gaze neće odgovarati, objavila izraelska vojska. Nakon samo 20 mjeseci, u Srbiji sutra ponovno izvanredni izbori.Urednik: Silvio Šop</description>
-    <pubDate>Sat, 16 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/3c/20231216-kronika-dana-34784530-20231216213539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
