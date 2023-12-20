@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Dec 2023 06:39:41 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 06:43:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.12. 2023-12-20</title>
+    <link>https://api.hrt.hr/media/d6/5e/20231220-jutarnja-kronika-34794573-20231220063511.mp3</link>
+    <description>Sabor bi trebao iskazati povjerenje novom ministru gospodarstva Damiru Habijanu. Pavao Vujnovac uskoro će postati većinski vlasnik Fortenove. U Sisku se ponovno urušio dio zgrade koja se obnavlja nakon potresa - ozlijeđena dvojica radnika, jedan teže. Nezavisni hrvatski sindikati izračunali koliko će tročlana obitelj morati izdvojiti za blagdansku potrošačku košaricu. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d6/5e/20231220-jutarnja-kronika-34794573-20231220063511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.12. 2023-12-19</title>
     <link>https://api.hrt.hr/media/5a/6e/20231219-jutarnja-kronika-34790858-20231219063506.mp3</link>
     <description>U potresu u Kini poginulo više od 100 ljudi.Hrvati ostali bez mandata u Skupštini Srbije. Tamošnja oporba prosvjedovala zbog sumnje u regularnost izbora u Beogradu. Kandidat za novog ministra gospodarstva Damir Habijan predstavio se koalicijskim partnerima. Zbog koeficijenata Nezavisni sindikat znanosti i visokog obrazovanja održava prosvjed na Filozofskom fakultetu Zagrebu s porukom "Dosta 'filozofiranja' o plaćama". Urednica: Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>U Srbiji izvanredni izbori. Najveća borba između Vučićeva SNS-a i ujedinjene oporbe vodi se za Beograd. Jaka oluja zahvatila obalni grad u Argentini, najmanje 13 mrtvih. Večeras na maksimirskome stadionu derbi Dinamo - Hajduk. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 17 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b5/57/20231217-jutarnja-kronika-34785044-20231217063554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.12. 2023-12-16</title>
-    <link>https://api.hrt.hr/media/4c/28/20231216-jutarnja-kronika-34782651-20231216063537.mp3</link>
-    <description>Kandidat za novog ministra gospodarstva Damir Habijan trebao bi biti potvrđen na izvanrednoj saborskoj sjednici u srijedu. Od idućega tjedna bit će dopuštena svinjokolja u županijama pogođenima svinjskom kugom. Izraelska vojska slučajno ubila troje izraelskih talaca i televizijskog snimatelja Al Jazeere. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 16 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4c/28/20231216-jutarnja-kronika-34782651-20231216063537.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
