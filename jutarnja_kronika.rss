@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Dec 2023 06:50:56 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 06:54:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.12. 2023-12-23</title>
+    <link>https://api.hrt.hr/media/3f/b9/20231223-jutarnja-kronika-34806255-20231223064521.mp3</link>
+    <description>Građani se užurbano pripremaju za Božić - gužve u trgovinama i u prometu. U Češkoj je dan žalosti. Vijeće sigurnosti iz petog pokušaja prihvatilo rezoluciju kojom se poziva na povećanje humanitarne pomoći Pojasu Gaze, Sjedinjene Države bile suzdržane. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/b9/20231223-jutarnja-kronika-34806255-20231223064521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.12. 2023-12-22</title>
     <link>https://api.hrt.hr/media/18/d9/20231222-jutarnja-kronika-34802304-20231222063022.mp3</link>
     <description>Krvoproliće na praškom sveučilištu - student ubio 14-ero, ranio 25-ero ljudi. Sutra je u Češkoj Dan žalosti. Vlada umirovljenicima isplaćuje božićni dodatak, ovisno o visini mirovine iznosit će od 50 do 160 eura. Na sjednici Vijeća za demografsku revitalizaciju bit će predstavljena njezina strategija. Još se dogovara tekst rezolucije UN-a kojom se poziva na humanitarni prekid rata u Gazi. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Sabor bi trebao iskazati povjerenje novom ministru gospodarstva Damiru Habijanu. Pavao Vujnovac uskoro će postati većinski vlasnik Fortenove. U Sisku se ponovno urušio dio zgrade koja se obnavlja nakon potresa - ozlijeđena dvojica radnika, jedan teže. Nezavisni hrvatski sindikati izračunali koliko će tročlana obitelj morati izdvojiti za blagdansku potrošačku košaricu. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/64/fe/20231220-jutarnja-kronika-34794578-20231220064015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.12. 2023-12-19</title>
-    <link>https://api.hrt.hr/media/5a/6e/20231219-jutarnja-kronika-34790858-20231219063506.mp3</link>
-    <description>U potresu u Kini poginulo više od 100 ljudi.Hrvati ostali bez mandata u Skupštini Srbije. Tamošnja oporba prosvjedovala zbog sumnje u regularnost izbora u Beogradu. Kandidat za novog ministra gospodarstva Damir Habijan predstavio se koalicijskim partnerima. Zbog koeficijenata Nezavisni sindikat znanosti i visokog obrazovanja održava prosvjed na Filozofskom fakultetu Zagrebu s porukom "Dosta 'filozofiranja' o plaćama". Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/6e/20231219-jutarnja-kronika-34790858-20231219063506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
