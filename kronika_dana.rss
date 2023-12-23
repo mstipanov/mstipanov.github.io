@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Dec 2023 22:23:21 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 21:57:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.12. 2023-12-23</title>
+    <link>https://api.hrt.hr/media/98/04/20231223-kronika-dana-34807978-20231223213522.mp3</link>
+    <description>Subotu uoči sutrašnjeg Badnjaka diljem zemlje obilježile gužve i završne pripreme za blagdane. U prometu ponegdje kaos, i večeras se satima čeka na nekim graničnim prijelazima. Prema podacima HNB-a, više od 4 i pol milijarde kuna još nije zamijenjeno eurima, samo četiri radna dana ostala za zamjenu u bankama, pošti i Fini. U Češkoj dan žalosti, minutom šutnje u podne odana počast žrtvama pucnjave na Karlovu sveučilištu u Pragu. Urednica: Mira Barić</description>
+    <pubDate>Sat, 23 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/04/20231223-kronika-dana-34807978-20231223213522.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.12. 2023-12-22</title>
     <link>https://api.hrt.hr/media/1d/4e/20231222-kronika-dana-34805643-20231222214021.mp3</link>
     <description>Češka policija pojačala mjere sigurnosti u Pragu. U Češkoj sutra dan žalosti. Iz istražnog zatvora pušten srednjoškolski profesor iz Zagreba koji se potukao s učenikom. Vijeće sigurnosti Ujedinjenih naroda usvojilo ublaženu rezoluciju kojom se poziva na povećanje humanitarne pomoći Pojasu Gaze. Sjedinjene države bile suzdržane. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Wed, 20 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/91/81/20231220-kronika-dana-34797909-20231220214015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.12. 2023-12-19</title>
-    <link>https://api.hrt.hr/media/3a/13/20231219-kronika-dana-34793994-20231219214010.mp3</link>
-    <description>Nesankcionirani dioničari odlučili da će Pavao Vujnovac, vlasnik ENNA Grupe, uskoro postati većinski vlasnik Fortenove. Inflacija bi u idućoj godini mogla usporiti na 4 posto, nova je procjena Hrvatske narodne banke. Prosvjedovao Sindikat znanosti i visokog obrazovanja jer nisu upoznati sa sustavom novih koeficijenata prije donošenja Zakona o plaćama. U snažnom potresu koji je pogodio Kinu poginulo najmanje 126 osoba, više od 700 ozlijeđeno. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 19 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3a/13/20231219-kronika-dana-34793994-20231219214010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
