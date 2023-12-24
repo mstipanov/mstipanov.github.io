@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 23 Dec 2023 06:54:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 06:58:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vlada će isplatiti još jedan paket pomoći umirovljenicima, ovaj put svima s mirovinom do 840 eura. U Slavoniji dopuštena svinjokolja, ali uz određene uvjete. Izraelska vojska objavila nove snimke podzemnih tunela kojima se koristi Hamas te navela da je riječ o cijelom podzemnom terorističkom gradu. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/55/c4/20231221-jutarnja-kronika-34798474-20231221063514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.12. 2023-12-20</title>
-    <link>https://api.hrt.hr/media/64/fe/20231220-jutarnja-kronika-34794578-20231220064015.mp3</link>
-    <description>Sabor bi trebao iskazati povjerenje novom ministru gospodarstva Damiru Habijanu. Pavao Vujnovac uskoro će postati većinski vlasnik Fortenove. U Sisku se ponovno urušio dio zgrade koja se obnavlja nakon potresa - ozlijeđena dvojica radnika, jedan teže. Nezavisni hrvatski sindikati izračunali koliko će tročlana obitelj morati izdvojiti za blagdansku potrošačku košaricu. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/64/fe/20231220-jutarnja-kronika-34794578-20231220064015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
