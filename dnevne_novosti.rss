@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 23 Dec 2023 14:55:50 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 14:59:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.12. 2023-12-24</title>
+    <link>https://api.hrt.hr/media/a1/ca/20231224-dnevne-novosti-34809540-20231224143524.mp3</link>
+    <description>Diljem zemlje predbožićno raspoloženje, gužve s tržnica i iz trgovina preselile su se u gradska središta.Betlehem ovaj Božić potpuno prazan, Izrael pojačao vojne akcije na jugu Gaze.U nekoliko europskih zemalja podignuta razina opasnosti od terorizma. Urednica: Mira Barić</description>
+    <pubDate>Sun, 24 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/ca/20231224-dnevne-novosti-34809540-20231224143524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.12. 2023-12-23</title>
     <link>https://api.hrt.hr/media/08/95/20231223-dnevne-novosti-34807222-20231223144025.mp3</link>
     <description>Predblagdanska potrošnja na vrhuncu, otriježnjenje donosi nova godina kada cijene više neće biti iskazane u kunama. U Češkoj je dan žalosti za ubijene na Filozofskom fakultetu. Silovite borbe na sjeveru Gaze nakon što je UN pozvao na humanitarne stanke i veću humanitarnu pomoć enklavi. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U slavonskim županijama, koje je poharala afrička svinjska kuga, od danas ponovno dopuštena svinjokolja. Vlada odlučila da će 830 tisuća umirovljenika dobiti jednokratnu novčanu pomoć od 50 do 160 eura. Povjerenstvo za odlučivanje o sukobu interesa kaznilo šefa diplomacije Gordana Grlića Radmana s pet tisuća 300 eura jer nije u imovinskoj kartici naveo prihod od dobiti u iznosu višem od dva milijuna kuna. Vijeće sigurnosti Ujedinjenih naroda, nakon tri odgode, pokušat će glasovati o novom tekstu rezolucije kojim se poziva na humanitarnu stanku u borbama u Gazi. Urednik: Silvio Šop</description>
     <pubDate>Thu, 21 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/93/20231221-dnevne-novosti-34800581-20231221144017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.12. 2023-12-20</title>
-    <link>https://api.hrt.hr/media/01/9f/20231220-dnevne-novosti-34796793-20231220143512.mp3</link>
-    <description>U Saboru počela rasprava o prijedlogu imenovanja Damira Habijana novim ministrom gospodarstva. Nakon maratonskih pregovora postignut dogovor o novom Paktu o migracijama i azilu u Europskoj uniji. Saborski Odbor za medije raspravljao o oglašavanju javnih i državnih tijela u medijima, nezaobilazna tema bila je afera "mreža". Još je 16 Bad Blue Boysa pušteno iz grčkih zatvora. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 20 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/01/9f/20231220-dnevne-novosti-34796793-20231220143512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
