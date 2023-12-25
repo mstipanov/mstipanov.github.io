@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Dec 2023 14:34:06 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 15:04:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.12. 2023-12-25</title>
+    <link>https://api.hrt.hr/media/bb/36/20231225-dnevne-novosti-34811709-20231225143527.mp3</link>
+    <description>Papa Franjo molio za mir u zaraćenim područjima. Naši biskupi pozivaju da odbacimo površno slavlje Božića. Komentirala se jučerašnja netipična čestitka predsjednika Milanovića. Nastavljaju se prosvjedi u Beogradu, studenti blokiraju promet. Urednica: Sanja Cota.</description>
+    <pubDate>Mon, 25 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/36/20231225-dnevne-novosti-34811709-20231225143527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.12. 2023-12-24</title>
     <link>https://api.hrt.hr/media/a1/ca/20231224-dnevne-novosti-34809540-20231224143524.mp3</link>
     <description>Diljem zemlje predbožićno raspoloženje, gužve s tržnica i iz trgovina preselile su se u gradska središta.Betlehem ovaj Božić potpuno prazan, Izrael pojačao vojne akcije na jugu Gaze.U nekoliko europskih zemalja podignuta razina opasnosti od terorizma. Urednica: Mira Barić</description>
