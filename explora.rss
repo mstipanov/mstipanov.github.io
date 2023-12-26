@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Dec 2023 09:44:06 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 17:08:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 26.12.2023. 2023-12-26</title>
+    <link>https://api.hrt.hr/media/f0/86/20231226-explora-8019242-20231226160530.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 26 Dec 2023 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f0/86/20231226-explora-8019242-20231226160530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 19.12.2023. 2023-12-19</title>
     <link>https://api.hrt.hr/media/4c/f9/20231219-explora-8017682-20231219170506.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -92,16 +100,6 @@ Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zani
 Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
     <pubDate>Tue, 24 Oct 2023 15:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/f6/20231024-explora-7999084-20231024160525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 17.10.2023. 2023-10-17</title>
-    <link>https://api.hrt.hr/media/94/f4/20231017-explora-7996272-20231017161043.mp3</link>
-    <description>Otvoren OSIRIS-REx. Kako je život stigao na Zemlju? Prstenasta pomrčina Sunca i ESA projekti. Španjolci lansirali Miuru 1. Rusi u svemiru. Saturnovi prstenovi. Kinezi, ribolov i globalizacija. Vojne škole su najbolje.
-37:15 Australski student jeftino elektrificira automobile. Geotermalno polje u Hrvatskoj. Bakterije i virusi ponovo na slobodi. Katastar svemira.
-Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 17 Oct 2023 15:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/f4/20231017-explora-7996272-20231017161043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
