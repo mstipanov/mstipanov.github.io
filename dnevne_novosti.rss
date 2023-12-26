@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Dec 2023 15:04:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 14:37:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Predblagdanska potrošnja na vrhuncu, otriježnjenje donosi nova godina kada cijene više neće biti iskazane u kunama. U Češkoj je dan žalosti za ubijene na Filozofskom fakultetu. Silovite borbe na sjeveru Gaze nakon što je UN pozvao na humanitarne stanke i veću humanitarnu pomoć enklavi. Urednica: Sanja Cota</description>
     <pubDate>Sat, 23 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/08/95/20231223-dnevne-novosti-34807222-20231223144025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.12. 2023-12-22</title>
-    <link>https://api.hrt.hr/media/04/53/20231222-dnevne-novosti-34804410-20231222144021.mp3</link>
-    <description>Češka policija potvrdila da se napadač s praškog fakulteta ubio nakon što je ustrijelio 14 ljudi, a više od 20 ranio. Srednjoškolski profesor koji se potukao s učenikom pušten iz istražnog zatvora. Jedanaest dana nakon nesreće na pruzi Rijeka - Zagreb očekuje se ponovna uspostava teretnog prometa. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 22 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/53/20231222-dnevne-novosti-34804410-20231222144021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
