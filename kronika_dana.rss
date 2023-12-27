@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Dec 2023 21:41:14 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 21:45:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.12. 2023-12-27</title>
+    <link>https://api.hrt.hr/media/0a/f9/20231227-kronika-dana-34818216-20231227214039.mp3</link>
+    <description>Sutra isplata jednokratne pomoći umirovljenicima, za mirovinu do 300 eura pomoć od 160 eura. Nakon dviju transplantacija jetre u 24 sata, na zagrebačkom Merkuru noćas i treća. Ubojica s praškog sveučilišta u pismu priznao i prijašnje ubojstvo muškarca i dvomjesečnog djeteta. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 27 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0a/f9/20231227-kronika-dana-34818216-20231227214039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.12. 2023-12-25</title>
     <link>https://api.hrt.hr/media/7c/61/20231225-kronika-dana-34812513-20231225213527.mp3</link>
     <description>U božićnom blagoslovu "Urbi et Orbi" Papa Franjo pozvao na prekid vojnih operacija u Gazi. U Beogradu nastavljeni prosvjedi. Nakon studenata prosvjedovala oporba. Traže uvid u popise birača. Današnji Božić jedan od najtoplijih dosad. U Vinkovcima izmjereno 20 stupnjeva. Urednica: Mira Barić</description>
@@ -23,14 +31,6 @@
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
     <pubDate>Sun, 24 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/03/20231224-kronika-dana-34810132-20231224214028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.12. 2023-12-23</title>
-    <link>https://api.hrt.hr/media/98/04/20231223-kronika-dana-34807978-20231223213522.mp3</link>
-    <description>Subotu uoči sutrašnjeg Badnjaka diljem zemlje obilježile gužve i završne pripreme za blagdane. U prometu ponegdje kaos, i večeras se satima čeka na nekim graničnim prijelazima. Prema podacima HNB-a, više od 4 i pol milijarde kuna još nije zamijenjeno eurima, samo četiri radna dana ostala za zamjenu u bankama, pošti i Fini. U Češkoj dan žalosti, minutom šutnje u podne odana počast žrtvama pucnjave na Karlovu sveučilištu u Pragu. Urednica: Mira Barić</description>
-    <pubDate>Sat, 23 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/04/20231223-kronika-dana-34807978-20231223213522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
