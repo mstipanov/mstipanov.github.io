@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Dec 2023 17:18:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 17:20:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>FRANKO LUKEZ In memoriam 2023-12-28</title>
+    <link>https://api.hrt.hr/media/d8/4a/20231228-historia-histriae-8020072-20231228162044.mp3</link>
+    <description>Prisjećamo se božićnog specijala uz našeg legendarnog Franka Lukeža. </description>
+    <pubDate>Thu, 28 Dec 2023 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d8/4a/20231228-historia-histriae-8020072-20231228162044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>PINO IVANČIĆ za emitiranje 2023-12-21</title>
     <link>https://api.hrt.hr/media/ab/57/20231221-historia-histriae-8017974-20231221161019.mp3</link>
     <description>U goste nam dolazi legendarni performer Pino Ivančić</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi Jetiš Eko Bajrami, a pričamo o povijesti Pule i boksa. </description>
     <pubDate>Thu, 26 Oct 2023 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3e/86/20231026-historia-histriae-7999733-20231026155518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Miroslav Bertosa za 19.10. 2023-10-19</title>
-    <link>https://api.hrt.hr/media/aa/10/20231019-historia-histriae-7995370-20231019151049.mp3</link>
-    <description>Prisjećamo se Miroslava Bertoše i njegovog posljednjeg gostovanja u jeku pandemije koronavirusa. </description>
-    <pubDate>Thu, 19 Oct 2023 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/aa/10/20231019-historia-histriae-7995370-20231019151049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
