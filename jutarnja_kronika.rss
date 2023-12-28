@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Dec 2023 06:42:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 06:47:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.12. 2023-12-28</title>
+    <link>https://api.hrt.hr/media/57/45/20231228-jutarnja-kronika-34818728-20231228063534.mp3</link>
+    <description>Tri godine od prvog jakog potresa na Banovini. Počinje isplata jednokratne pomoći umirovljenicima, za mirovinu do 300 eura pomoć od 160 eura. 50. rođendan Koncertne dvorane Vatroslava Lisinskog. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 28 Dec 2023 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/45/20231228-jutarnja-kronika-34818728-20231228063534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.12. 2023-12-27</title>
     <link>https://api.hrt.hr/media/a5/3c/20231227-jutarnja-kronika-34815372-20231227063035.mp3</link>
     <description>Novi uspjesi transplantacijskog tima u bolnici Merkuru. Mladomu muškarcu sinoć presađena jetra. Za Jutarnju kroniku govorio doktor Stipislav Jadrijević. Ukrajina priznala gubitak strateški važnoga gradića Marjinke i najavila da bi Rusi uskoro mogli osvojiti i Avdiivku. Još samo do kraja tjedna dvojno iskazivanje cijena u kunama i u eurima. Urednica: Mira Barić</description>
