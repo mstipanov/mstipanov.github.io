@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Dec 2023 21:45:41 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 21:51:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.12. 2023-12-28</title>
+    <link>https://api.hrt.hr/media/bd/09/20231228-kronika-dana-34821723-20231228214038.mp3</link>
+    <description>Na današnji dan prije tri godine počela serija potresa na Banovini, onaj 29. prosinca bio je razoran. Od prvog siječnja besplatna vožnja vlakom za umirovljenike, a danas počeli dobivati jednokratnu novčanu pomoć. Milorad Dodik zaprijetio odcjepljenjem Republike Srpske i moćnim prijateljima koji će spriječiti međunarodnu vojnu intervenciju. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 28 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/09/20231228-kronika-dana-34821723-20231228214038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.12. 2023-12-27</title>
     <link>https://api.hrt.hr/media/0a/f9/20231227-kronika-dana-34818216-20231227214039.mp3</link>
     <description>Sutra isplata jednokratne pomoći umirovljenicima, za mirovinu do 300 eura pomoć od 160 eura. Nakon dviju transplantacija jetre u 24 sata, na zagrebačkom Merkuru noćas i treća. Ubojica s praškog sveučilišta u pismu priznao i prijašnje ubojstvo muškarca i dvomjesečnog djeteta. Urednica: Sanja Cota</description>
@@ -23,14 +31,6 @@
     <description>U božićnom blagoslovu "Urbi et Orbi" Papa Franjo pozvao na prekid vojnih operacija u Gazi. U Beogradu nastavljeni prosvjedi. Nakon studenata prosvjedovala oporba. Traže uvid u popise birača. Današnji Božić jedan od najtoplijih dosad. U Vinkovcima izmjereno 20 stupnjeva. Urednica: Mira Barić</description>
     <pubDate>Mon, 25 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7c/61/20231225-kronika-dana-34812513-20231225213527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.12. 2023-12-24</title>
-    <link>https://api.hrt.hr/media/5a/03/20231224-kronika-dana-34810132-20231224214028.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Sun, 24 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/03/20231224-kronika-dana-34810132-20231224214028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
