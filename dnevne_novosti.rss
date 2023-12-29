@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 28 Dec 2023 14:50:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 14:53:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.12. 2023-12-29</title>
+    <link>https://api.hrt.hr/media/ec/23/20231229-dnevne-novosti-34824323-20231229144040.mp3</link>
+    <description>Dvostruko ubojstvo i samoubojstvo u Velikoj Gorici. Tri godine od razornog potresa na Banovini. Premijer Plenković odgovorio kritičarima koji očekuju da obnova bude munjevita. Ukrajina pretrpjela jedan od najtežih raketnih napada od početka rata. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 29 Dec 2023 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/23/20231229-dnevne-novosti-34824323-20231229144040.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.12. 2023-12-28</title>
     <link>https://api.hrt.hr/media/48/5e/20231228-dnevne-novosti-34820777-20231228143534.mp3</link>
     <description>Tri godine nakon razornog potresa na Banovini Vlada nastavlja s mjerama pomoći, a čelnik SDP-a Grbin smatra da su za Banovinu protekle godine izgubljene. Milorad Dodik ponovno prijeti odcjepljenjem Republike Srpske i novim ratom. Zbrinjavanje otpada najveći je problem koji u Zagrebu treba riješiti, kaže gradonačelnik Tomašević i dodaje da o Resniku nema pregovora. Koncertna dvorana Vatroslava Lisinskog slavi pedesetu obljetnicu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Od Nove godine cijene samo u eurima. Mnogi bi to mogli iskoristiti za rast cijena u siječnju upozoravaju stručnjaci. U izraelskom zračnom napadu u Siriji ubijen visoki iranski general. Iran najavljuje osvetu. Iznimno zahtjevna obnova zagrebačke katedrale u punom jeku. Zbog mnogih iznenađenja radovi će trajati dulje od planiranog. Urednica: Mira Barić</description>
     <pubDate>Tue, 26 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f2/c7/20231226-dnevne-novosti-34814135-20231226144033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.12. 2023-12-25</title>
-    <link>https://api.hrt.hr/media/bb/36/20231225-dnevne-novosti-34811709-20231225143527.mp3</link>
-    <description>Papa Franjo molio za mir u zaraćenim područjima. Naši biskupi pozivaju da odbacimo površno slavlje Božića. Komentirala se jučerašnja netipična čestitka predsjednika Milanovića. Nastavljaju se prosvjedi u Beogradu, studenti blokiraju promet. Urednica: Sanja Cota.</description>
-    <pubDate>Mon, 25 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bb/36/20231225-dnevne-novosti-34811709-20231225143527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
