@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 29 Dec 2023 21:54:53 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 21:58:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.12. 2023-12-30</title>
+    <link>https://api.hrt.hr/media/4c/18/20231230-kronika-dana-34827290-20231230214043.mp3</link>
+    <description>Dva potresa u BiH, magnituda jačeg iznosila 4,7 prema Richteru, osjetio se i u Hrvatskoj. Požar u zgradi u središtu Daruvara, smrtno stradala jedna osoba. Nakon što su jučer ubijene dvije žene, Ženska mreža od Vlade traži hitno uvrštavanje femicida u Kazneni zakon. Ukrajina snažno napala ruski grad Belgorod, Rusi najavili osvetu. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 30 Dec 2023 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4c/18/20231230-kronika-dana-34827290-20231230214043.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.12. 2023-12-29</title>
     <link>https://api.hrt.hr/media/4f/62/20231229-kronika-dana-34825191-20231229213537.mp3</link>
     <description>Muškarac u Velikoj Gorici ubio majku i suprugu pa počinio samoubojstvo. Tri su godine prošle od razornog potresa na Banovini. Jedan od najtežih napada na Ukrajinu od početka ruske invazije, 30 je poginulih i 160 ranjenih. Urednica: Sanja Cota</description>
