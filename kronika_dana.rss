@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 31 Dec 2023 22:32:18 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 22:05:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.01. 2024-01-01</title>
+    <link>https://api.hrt.hr/media/04/32/20240101-kronika-dana-34831780-20240101214103.mp3</link>
+    <description>Na prepunim trgovima i rivama, uz valcer, pjenušac, vatromet ili svjetlosne efekte hrvatski građani dočekali novu godinu. Iznimno rijedak slučaj prošle noći u splitskom rodilištu - jedna blizanka rođena u staroj, a druga u novoj godini! Snažan potres pogodio središnji Japan i njegovu zapadnu obalu. Potvrđeno je da je poginulo četvero ljudi, ne zna se koliko je zatrpanih ispod ruševina. S današnjim danom prirez otišao u prošlost, više nema ni obveze iskazivanja cijena i u eurima i u kunama. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 01 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/04/32/20240101-kronika-dana-34831780-20240101214103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 31.12. 2023-12-31</title>
     <link>https://api.hrt.hr/media/68/a7/20231231-kronika-dana-34829433-20231231214100.mp3</link>
     <description>Kiribati u Tihom oceanu prvi ušao u novu godinu, u Sydneyu spektakularan vatromet. Nastavljaju se izraelski napadi diljem pojasa Gaze. Ukrajina na udaru ruskih bespilotnih letjelica. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Muškarac u Velikoj Gorici ubio majku i suprugu pa počinio samoubojstvo. Tri su godine prošle od razornog potresa na Banovini. Jedan od najtežih napada na Ukrajinu od početka ruske invazije, 30 je poginulih i 160 ranjenih. Urednica: Sanja Cota</description>
     <pubDate>Fri, 29 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4f/62/20231229-kronika-dana-34825191-20231229213537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.12. 2023-12-28</title>
-    <link>https://api.hrt.hr/media/bd/09/20231228-kronika-dana-34821723-20231228214038.mp3</link>
-    <description>Na današnji dan prije tri godine počela serija potresa na Banovini, onaj 29. prosinca bio je razoran. Od prvog siječnja besplatna vožnja vlakom za umirovljenike, a danas počeli dobivati jednokratnu novčanu pomoć. Milorad Dodik zaprijetio odcjepljenjem Republike Srpske i moćnim prijateljima koji će spriječiti međunarodnu vojnu intervenciju. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 28 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bd/09/20231228-kronika-dana-34821723-20231228214038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
