@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Jan 2024 15:08:27 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 14:42:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sinoć snažan potres magnitude 4 cijela 7 s eicentrom kod Zenice. Ima ozlijeđenih. Potres se osjetio i u našoj zemlji od Slavonije do Zagreba. Jedna žena poginula je u požaru stana u stambenoj zgradi u Daruvaru. Materijalna je šteta velika. Nastavljaju se izraelski napadi diljem pojasa Gaze. Diljem zemlje završne pripreme za najuđu noć. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 31 Dec 2023 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/e4/20231231-dnevne-novosti-34828754-20231231144558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.12. 2023-12-30</title>
-    <link>https://api.hrt.hr/media/2f/8d/20231230-dnevne-novosti-34826571-20231230144540.mp3</link>
-    <description>Ženska mreža od Vlade traži hitno uvrštavanje femicida u Kazneni zakon. U noći nakon najvećega zračnog napada na Ukrajinu od početka rata, ruska vojska srušila je 32-ije ukrajinske bespilotne letjelice. Jedna je raketa ušla i u poljski zračni prostor. Gradovi diljem zemlje obavljaju posljednje pripreme za novogodišnju noć. Urednica: Mira Barić</description>
-    <pubDate>Sat, 30 Dec 2023 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2f/8d/20231230-dnevne-novosti-34826571-20231230144540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
