@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Jan 2024 22:09:32 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 21:43:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.01. 2024-01-03</title>
+    <link>https://api.hrt.hr/media/13/0f/20240103-kronika-dana-34837410-20240103214007.mp3</link>
+    <description>Oko stotinu mrtvih, više od dvjesto ranjenih u terorističkim napadima u Iranu. Premijer Plenković rekao da se povećanja plaća očekuju u sljedeća tri mjeseca, no još ne otkriva datum parlamentarnih izbora. Sjeverozapadnu Europu zahvatile kiša, snijeg i ekstremne hladnoće. Urednica: Mira Barić</description>
+    <pubDate>Wed, 03 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/0f/20240103-kronika-dana-34837410-20240103214007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.01. 2024-01-02</title>
     <link>https://api.hrt.hr/media/64/30/20240102-kronika-dana-34834460-20240102214104.mp3</link>
     <description>Raste broj poginulih u jakom potresu u Japanu. Vlasti upozoravaju na moguće nove potrese. Ubijen drugi čovjek Hamasa Saleh al-Aruri. Nakon ruskih napada na Kijev i Harkiv Ukrajina ponovno granatirala Belgorod. Zaposlenik ministarstva vanjskih poslova u kući ilegalno držao migrante. Podignuta optužnica protiv zadarskog župana. Tereti ga se za trgovanje utjecajem. Od ponoći skuplje gorivo. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Kiribati u Tihom oceanu prvi ušao u novu godinu, u Sydneyu spektakularan vatromet. Nastavljaju se izraelski napadi diljem pojasa Gaze. Ukrajina na udaru ruskih bespilotnih letjelica. Urednica Mira Barić</description>
     <pubDate>Sun, 31 Dec 2023 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/68/a7/20231231-kronika-dana-34829433-20231231214100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.12. 2023-12-30</title>
-    <link>https://api.hrt.hr/media/4c/18/20231230-kronika-dana-34827290-20231230214043.mp3</link>
-    <description>Dva potresa u BiH, magnituda jačeg iznosila 4,7 prema Richteru, osjetio se i u Hrvatskoj. Požar u zgradi u središtu Daruvara, smrtno stradala jedna osoba. Nakon što su jučer ubijene dvije žene, Ženska mreža od Vlade traži hitno uvrštavanje femicida u Kazneni zakon. Ukrajina snažno napala ruski grad Belgorod, Rusi najavili osvetu. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 30 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4c/18/20231230-kronika-dana-34827290-20231230214043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
