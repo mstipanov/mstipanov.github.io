@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Jan 2024 06:40:54 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 06:45:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.01. 2024-01-04</title>
+    <link>https://api.hrt.hr/media/c2/a0/20240104-jutarnja-kronika-34837950-20240104063504.mp3</link>
+    <description>Sve teža situacija na Bliskom istoku. Brodovi koji su odlučili zaobići Suez produljuju putovanja za dva do pet tjedana.plaća suci su poslali pritužbu Europskoj komisiji i najavili ponovno moguće mjere upozorenja. Koeficijenti za plaće u državnim i javnim službama do kraja veljače. U Dubrovniku počinje Europsko vaterpolsko prvenstvo. Večeras utakmica: Hrvatska - Španjolska. Urednica: Snježana Kralj</description>
+    <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/a0/20240104-jutarnja-kronika-34837950-20240104063504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.01. 2024-01-03</title>
     <link>https://api.hrt.hr/media/72/36/20240103-jutarnja-kronika-34834970-20240103063107.mp3</link>
     <description>U Bejrutu u napadu bespilotnom letjelicom ubijen drugi čovjek Hamasa Saleh al-Aruri. Izrael opovrgava da stoji iza napada. Raste broj poginulih u jakom potresu u Japanu, prema novim podacima stradalo je 62-je ljudi. Potrošnja u prosincu prošle godine bila je za oko 13 posto viša od one godinu prije. Od ponoći cijena benzina i dizela jednaka - euro i 40 centi za litru. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Desetci tisuća ljudi diljem zemlje na trgovima svečano dočekalo novu godinu. Kuna otišla u povijest. Od danas se cijene iskazuju samo u eurima. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dd/55/20240101-jutarnja-kronika-34830023-20240101063558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 31.12. 2023-12-31</title>
-    <link>https://api.hrt.hr/media/0d/02/20231231-jutarnja-kronika-34827868-20231231063556.mp3</link>
-    <description>Zadnje pripreme za najluđu noć u kojoj ćemo dočekati novu 2024. godinu. Snažan potres kod Zenice, osjetio se i u Slavoniji. Nema dojava o šteti. U snažnom ukrajinskom napadu na ruski grad Belgorod poginulo više od 20 ljudi. Rusi uzvratili napadima na Kijev i Harkiv. Bugarskoj i Rumunjskoj odobren djelomičan pristup Šengenu. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 31 Dec 2023 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/02/20231231-jutarnja-kronika-34827868-20231231063556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
