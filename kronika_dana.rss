@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Jan 2024 21:43:38 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 21:47:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.01. 2024-01-04</title>
+    <link>https://api.hrt.hr/media/ac/26/20240104-kronika-dana-34840570-20240104214507.mp3</link>
+    <description>Počinju pregovori o povećanju plaća za zaposlene u državnoj i javnim službama.Odgovornost za terorističke napade u Iranu preuzela Islamska država.	Sjever Europe zahvatio val ekstremne hladnoće. Najniže temperature u skandinavskim zemljama, na Baltiku te u Rusiji - do minus 43 cijela 6 stupnjeva.Počelo Europsko prvenstvo u vaterpolu. U Dubrovniku - Hrvatska, nakon peteraca, pobijedila Španjolsku 14 :12. Urednica: Mira Barić</description>
+    <pubDate>Thu, 04 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ac/26/20240104-kronika-dana-34840570-20240104214507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.01. 2024-01-03</title>
     <link>https://api.hrt.hr/media/13/0f/20240103-kronika-dana-34837410-20240103214007.mp3</link>
     <description>Oko stotinu mrtvih, više od dvjesto ranjenih u terorističkim napadima u Iranu. Premijer Plenković rekao da se povećanja plaća očekuju u sljedeća tri mjeseca, no još ne otkriva datum parlamentarnih izbora. Sjeverozapadnu Europu zahvatile kiša, snijeg i ekstremne hladnoće. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Na prepunim trgovima i rivama, uz valcer, pjenušac, vatromet ili svjetlosne efekte hrvatski građani dočekali novu godinu. Iznimno rijedak slučaj prošle noći u splitskom rodilištu - jedna blizanka rođena u staroj, a druga u novoj godini! Snažan potres pogodio središnji Japan i njegovu zapadnu obalu. Potvrđeno je da je poginulo četvero ljudi, ne zna se koliko je zatrpanih ispod ruševina. S današnjim danom prirez otišao u prošlost, više nema ni obveze iskazivanja cijena i u eurima i u kunama. Urednik: Silvio Šop</description>
     <pubDate>Mon, 01 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/32/20240101-kronika-dana-34831780-20240101214103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.12. 2023-12-31</title>
-    <link>https://api.hrt.hr/media/68/a7/20231231-kronika-dana-34829433-20231231214100.mp3</link>
-    <description>Kiribati u Tihom oceanu prvi ušao u novu godinu, u Sydneyu spektakularan vatromet. Nastavljaju se izraelski napadi diljem pojasa Gaze. Ukrajina na udaru ruskih bespilotnih letjelica. Urednica Mira Barić</description>
-    <pubDate>Sun, 31 Dec 2023 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/68/a7/20231231-kronika-dana-34829433-20231231214100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
