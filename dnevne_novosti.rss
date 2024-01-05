@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 Jan 2024 15:16:27 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 15:21:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.01. 2024-01-05</title>
+    <link>https://api.hrt.hr/media/7b/c2/20240105-dnevne-novosti-34842903-20240105144012.mp3</link>
+    <description>I službeno potvrđeno - četiri kandidata za glavnog državnog odvjetnika. I predsjednik Milanović i oporba protiv Ivana Turudića, za kojega se nagađa da će biti imenovan na to mjesto. Stopa inflacije u Hrvatskoj u prosincu usporila na 4 cijela 5 posto, no izračuni Eurostata pokazuju da smo i dalje u skupini zemalja s najvećim rastom cijena. Njemački teretni brod udario u stup mosta na Dunavu između Iloka i Bačke Palanke, strahuje se od ekološke katastrofe, na tom graničnom prijelazu prekinut promet sa Srbijom. Urednica: Mira Barić</description>
+    <pubDate>Fri, 05 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7b/c2/20240105-dnevne-novosti-34842903-20240105144012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.01. 2024-01-04</title>
     <link>https://api.hrt.hr/media/8f/ae/20240104-dnevne-novosti-34839629-20240104144008.mp3</link>
     <description>Na prvoj ovogodišnjoj sjednici Vlada je odlučila početi pregovore o izmjenama kolektivnih ugovora zaposlenika javnih i državnih službi, prvi krug održat će se 11. ovog mjeseca. Stanje na Bliskom istoku pogoršava se - u Iranu dan žalosti za poginule u dvjema jučerašnjim eksplozijama, Libanon prijeti Izraelu. Sabor počinje zasjedanje 15. ovog mjeseca, završava 22. ožujka. Hoće li tada biti i raspušten - njegov predsjednik Gordan Jandroković nije želio odgovoriti. Sport: Dubrovnik i Zagreb domaćini su Europskog prvenstva u vaterpolu koje počinje večeras. Barakude brane europsko zlato iz Splita 2022. godine. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon slijetanja u zračnu luku u Tokiju, Airbus A350 sudario se s manjim zrakoplovom obalne straže i zapalio. Svih 379 putnika i članova posade Airbusa uspjelo je pobjeći, u zrakoplovu obalne straže poginulo pet osoba. Najmanje 48 ljudi poginulo je u jučerašnjem potresu u Japanu. Spasilačke ekipe teško dolaze do izoliranih područja gdje su srušene zgrade, uništene ceste i nema struje. Rusija snažno raketirala Kijev i Harkiv. Poljska podignula četiri lovca F-16 da nadziru njezinu granicu s Ukrajinom. Od ponoći litra i benzina i dizela - euro i 40 centi. Urednik: Silvio Šop</description>
     <pubDate>Tue, 02 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f3/d6/20240102-dnevne-novosti-34833696-20240102143601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.01. 2024-01-01</title>
-    <link>https://api.hrt.hr/media/ab/49/20240101-dnevne-novosti-34831168-20240101144102.mp3</link>
-    <description>Uz valcer, pjenušac i vatromet svijet dočekao 2024-tu godinu. U Hrvatskoj - na prepunim trgovima i rivama. Snažan potres i cunami pogodili središnji Japan i njegovu zapadnu obalu. Stanovnici pozvani na evakuaciju, nestalo struje u tisućama domova, prekinuti letovi i željeznički promet. I prvog dana nove godine nema mira na Bliskom istoku i u Ukrajini. Od danas se cijene iskazuju samo u eurima. Urednica: Mira Barić</description>
-    <pubDate>Mon, 01 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ab/49/20240101-dnevne-novosti-34831168-20240101144102.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
