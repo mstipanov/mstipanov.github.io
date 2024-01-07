@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 06 Jan 2024 15:25:30 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 14:59:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.01. 2024-01-07</title>
+    <link>https://api.hrt.hr/media/1d/73/20240107-dnevne-novosti-34847671-20240107144514.mp3</link>
+    <description>U Karlovcu, Rijeci i Zagrebu liječe se ozlijeđeni iz jučerašnje teške prometne nesreće. Nisu jasne okolnosti sinoćnjeg sukoba u Vukovaru pri čemu su dva maloljetnika teško ozlijeđena. U slovenskoj špilji ostalo zarobljeno petero ljudi, tročlana obitelj i vodiči. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 07 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/73/20240107-dnevne-novosti-34847671-20240107144514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.01. 2024-01-06</title>
     <link>https://api.hrt.hr/media/d5/ca/20240106-dnevne-novosti-34845296-20240106150016.mp3</link>
     <description>Tri su osobe poginule, dvanaest je ozlijeđeno u teškoj prometnoj nesreći na autocesti A1. Srpsko narodno vijeće održalo tradicionalno božićno primanje na pravoslavni Badnjak. Ukrajinska vojska objavila da je uništila ruski zapovjedni centar na Krimskom poluotoku. Filip Zubčić na pobjedničkom postolju veleslaloma u Adel Bodenu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Na prvoj ovogodišnjoj sjednici Vlada je odlučila početi pregovore o izmjenama kolektivnih ugovora zaposlenika javnih i državnih službi, prvi krug održat će se 11. ovog mjeseca. Stanje na Bliskom istoku pogoršava se - u Iranu dan žalosti za poginule u dvjema jučerašnjim eksplozijama, Libanon prijeti Izraelu. Sabor počinje zasjedanje 15. ovog mjeseca, završava 22. ožujka. Hoće li tada biti i raspušten - njegov predsjednik Gordan Jandroković nije želio odgovoriti. Sport: Dubrovnik i Zagreb domaćini su Europskog prvenstva u vaterpolu koje počinje večeras. Barakude brane europsko zlato iz Splita 2022. godine. Urednik: Silvio Šop</description>
     <pubDate>Thu, 04 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/ae/20240104-dnevne-novosti-34839629-20240104144008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.01. 2024-01-03</title>
-    <link>https://api.hrt.hr/media/6d/ca/20240103-dnevne-novosti-34836650-20240103144106.mp3</link>
-    <description>Premijer Plenković u našem programu bez konkretnog odgovora o datumu izbora. Nakon ubojstva drugog čovjeka Hamasa u Bejrutu, Libanon optužio Izrael za širenje rata na regiju. U Splitu predstavljena Nacionalna karta morskih staništa - dio jedinstvenog projekta zaštite Jadrana. Zbog sve više respiratornih infekcija, u osječkoj bolnici do daljnjega nema posjeta bolesnicima. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 03 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6d/ca/20240103-dnevne-novosti-34836650-20240103144106.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
