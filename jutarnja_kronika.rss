@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 07 Jan 2024 06:57:56 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 07:01:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.01. 2024-01-08</title>
+    <link>https://api.hrt.hr/media/56/ab/20240108-jutarnja-kronika-34848861-20240108063513.mp3</link>
+    <description>Zbog orkanske bure za sva vozila zatvorena autocesta između Svetog Roka i Posedarja i Jadranska magistrala između Senja i Svete Marije Magdalene. Policija sumnja da je Moldavac, koji je nakon nesreće u kojoj je poginulo troje ljudi izjavio da je bio na mjestu suvozača, zapravo vozio terenac koji je skrivio sudar na A1. Danas počinje drugo polugodište - novost je da će roditelji učenika osobno u e-dnevniku moći opravdati izostanke do tri dana. Milorad Dodik potvrdio je da će se pod njegovim pokroviteljstvom ponovno obilježiti sutrašnji 9. siječnja kao dan Republike Srpske, iako je Ustavni sud taj praznik proglasio neustavnim. Sjedinjene Države najavile su da će danas njihovi borbeni zrakoplovi iznad BiH izvesti vojnu vježbu. Ako voda u potopljenoj špilji dovoljno padne, danas se očekuje izvlačenje pet osobe iz Križne jame u Sloveniji. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/56/ab/20240108-jutarnja-kronika-34848861-20240108063513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.01. 2024-01-07</title>
     <link>https://api.hrt.hr/media/1c/b3/20240107-jutarnja-kronika-34846692-20240107063512.mp3</link>
     <description>Još traje istraga strašne prometne nesreće koja se dogodila u noći s petka na subotu na autocesti A1 kod tunela Sveti Marko, u kojoj su tri osobe poginule. Žena u 90-im godinama živa izvučena iz ruševina pet dana nakon razornog potresa u Japanu. Pravoslavni vjernici danas slave Božić. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Danas će biti objavljena imena kandidata za glavnoga državnog odvjetnika. U javnosti se nagađa da će na to mjesto doći poznati sudac Ivan Turudić. Pregovori o plaćama za zaposlene u državnoj i javnim službama počinju 11. ovoga mjeseca. Sjeverna Koreja ispalila više od 200 granata uz svoju zapadnu obalu, Južna Koreja naredila evakuaciju stanovnika s dvaju otoka. Prije točno 500 godina umro je otac hrvatske književnosti Marko Marulić. Vlada je 2024-tu proglasila njegovom godinom, obilježit će se mnogim programima. Urednik: Silvio Šop</description>
     <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4c/68/20240105-jutarnja-kronika-34841140-20240105063011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.01. 2024-01-04</title>
-    <link>https://api.hrt.hr/media/c2/a0/20240104-jutarnja-kronika-34837950-20240104063504.mp3</link>
-    <description>Sve teža situacija na Bliskom istoku. Brodovi koji su odlučili zaobići Suez produljuju putovanja za dva do pet tjedana.plaća suci su poslali pritužbu Europskoj komisiji i najavili ponovno moguće mjere upozorenja. Koeficijenti za plaće u državnim i javnim službama do kraja veljače. U Dubrovniku počinje Europsko vaterpolsko prvenstvo. Večeras utakmica: Hrvatska - Španjolska. Urednica: Snježana Kralj</description>
-    <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/a0/20240104-jutarnja-kronika-34837950-20240104063504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
