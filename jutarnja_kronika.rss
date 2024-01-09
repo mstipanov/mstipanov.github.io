@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 08 Jan 2024 07:01:57 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 07:05:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.01. 2024-01-09</title>
+    <link>https://api.hrt.hr/media/8f/ff/20240109-jutarnja-kronika-34852081-20240109063520.mp3</link>
+    <description>Državnoodvjetničko vijeće objavit će pravovaljane kandidature za glavnoga državnog odvjetnika. Zbog huliganskog napada na maloljetnike u Vukovaru, istražni zatvor određen 23-godišnjemu mladiću. Iako je izgubila od Crne Gore, hrvatska vaterpolska reprezentacija u četvrtfinalu Europskog prvenstva. Zbog olujnog vjetra, više od 24 sata zatvorena autocesta od Svetog Roka do Posedarja. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 09 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8f/ff/20240109-jutarnja-kronika-34852081-20240109063520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.01. 2024-01-08</title>
     <link>https://api.hrt.hr/media/56/ab/20240108-jutarnja-kronika-34848861-20240108063513.mp3</link>
     <description>Zbog orkanske bure za sva vozila zatvorena autocesta između Svetog Roka i Posedarja i Jadranska magistrala između Senja i Svete Marije Magdalene. Policija sumnja da je Moldavac, koji je nakon nesreće u kojoj je poginulo troje ljudi izjavio da je bio na mjestu suvozača, zapravo vozio terenac koji je skrivio sudar na A1. Danas počinje drugo polugodište - novost je da će roditelji učenika osobno u e-dnevniku moći opravdati izostanke do tri dana. Milorad Dodik potvrdio je da će se pod njegovim pokroviteljstvom ponovno obilježiti sutrašnji 9. siječnja kao dan Republike Srpske, iako je Ustavni sud taj praznik proglasio neustavnim. Sjedinjene Države najavile su da će danas njihovi borbeni zrakoplovi iznad BiH izvesti vojnu vježbu. Ako voda u potopljenoj špilji dovoljno padne, danas se očekuje izvlačenje pet osobe iz Križne jame u Sloveniji. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Počinje udarni hrvatski skijaški tjedan. Unatoč višim cijenama, interes i 20 posto veći nego lani. Blagdan je Sveta tri kralja. Srpsko narodno vijeće održat će tradicionalno primanje u povodu proslave Božića prema julijanskom kalendaru. Splitski gradonačelnik doskočio zabrani rada nedjeljom - sve nedjelje i blagdane u ovoj godini proglasio sajamskim danima. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/07/20240106-jutarnja-kronika-34844382-20240106064013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.01. 2024-01-05</title>
-    <link>https://api.hrt.hr/media/4c/68/20240105-jutarnja-kronika-34841140-20240105063011.mp3</link>
-    <description>Danas će biti objavljena imena kandidata za glavnoga državnog odvjetnika. U javnosti se nagađa da će na to mjesto doći poznati sudac Ivan Turudić. Pregovori o plaćama za zaposlene u državnoj i javnim službama počinju 11. ovoga mjeseca. Sjeverna Koreja ispalila više od 200 granata uz svoju zapadnu obalu, Južna Koreja naredila evakuaciju stanovnika s dvaju otoka. Prije točno 500 godina umro je otac hrvatske književnosti Marko Marulić. Vlada je 2024-tu proglasila njegovom godinom, obilježit će se mnogim programima. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4c/68/20240105-jutarnja-kronika-34841140-20240105063011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
