@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 08 Jan 2024 22:04:18 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 21:37:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Na autocesti kod Karlovca poginuo bračni par iz Rijeke i jedna osoba u terencu koji je prevozio migrante. Dvanaest osoba ozlijeđeno. U ruskom napadu na istoku Ukrajine poginulo jedanaestero ljudi, od kojih petero djece. Sport: Filip Zubčić treći u veleslalomu u Adelbodenu. Hrvatska pobjedila Francusku na Europskom prvenstvu u vaterpolu! Urednica: Sanja Cota</description>
     <pubDate>Sat, 06 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/d1/20240106-kronika-dana-34846097-20240106214015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.01. 2024-01-05</title>
-    <link>https://api.hrt.hr/media/e1/d4/20240105-kronika-dana-34843887-20240105220015.mp3</link>
-    <description>Četiri su kandidata za glavnoga državnog odvjetnika, na Ivana Turudića najviše komentara. Kod Iloka brod udario u most, potonulo tisuću tona gnojiva. Sutra je blagdan pa nedjelja, većina trgovina neće raditi dva dana. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 05 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/d4/20240105-kronika-dana-34843887-20240105220015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
