@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 Jan 2024 15:06:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 14:55:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.01. 2024-01-10</title>
+    <link>https://api.hrt.hr/media/89/ab/20240110-dnevne-novosti-34857215-20240110144042.mp3</link>
+    <description>Uhićen i peti napadač na maloljetnike u Vukovaru, neki od uhićenih bili u grčkim zatvorima. Liječnici ponovno prijete štrajkom. Vladi dali rok da do kraja mjeseca ispuni njihove zahtjeve. U Ekvadoru neviđeni val nasilja, predsjednik Noboa proglasio stanje oružanog sukoba. Urednica: Mira Barić</description>
+    <pubDate>Wed, 10 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/89/ab/20240110-dnevne-novosti-34857215-20240110144042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.01. 2024-01-09</title>
     <link>https://api.hrt.hr/media/d5/aa/20240109-dnevne-novosti-34853754-20240109143522.mp3</link>
     <description>Jedan napadač na maloljetnike u Vukovaru je u istražnom zatvoru, uhićena još trojica, roditelji pretučenih dječaka za subotu najavljuju prosvjed. Zbog velikog broja stranih radnika u Zagrebu Grad će im ponuditi besplatne tečajeve hrvatskog jezika. Francuska dobila najmlađeg premijera, 34-godišnjeg Gabriela Attala. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Karlovcu, Rijeci i Zagrebu liječe se ozlijeđeni iz jučerašnje teške prometne nesreće. Nisu jasne okolnosti sinoćnjeg sukoba u Vukovaru pri čemu su dva maloljetnika teško ozlijeđena. U slovenskoj špilji ostalo zarobljeno petero ljudi, tročlana obitelj i vodiči. Urednica: Sanja Cota</description>
     <pubDate>Sun, 07 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1d/73/20240107-dnevne-novosti-34847671-20240107144514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.01. 2024-01-06</title>
-    <link>https://api.hrt.hr/media/d5/ca/20240106-dnevne-novosti-34845296-20240106150016.mp3</link>
-    <description>Tri su osobe poginule, dvanaest je ozlijeđeno u teškoj prometnoj nesreći na autocesti A1. Srpsko narodno vijeće održalo tradicionalno božićno primanje na pravoslavni Badnjak. Ukrajinska vojska objavila da je uništila ruski zapovjedni centar na Krimskom poluotoku. Filip Zubčić na pobjedničkom postolju veleslaloma u Adel Bodenu. Urednica: Mira Barić</description>
-    <pubDate>Sat, 06 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/ca/20240106-dnevne-novosti-34845296-20240106150016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
