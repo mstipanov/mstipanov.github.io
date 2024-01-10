@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 Jan 2024 07:05:33 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 06:53:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.01. 2024-01-10</title>
+    <link>https://api.hrt.hr/media/e3/b3/20240110-jutarnja-kronika-34855185-20240110063537.mp3</link>
+    <description>Uhićeni huligani koji su napali maloljetnike u Vukovaru! Policija provjerava jesu li među njima i oni iz zatvora u Grčkoj. Sve četiri pravovaljane kandidature za glavnog državnog odvjetnika idu na mišljenje saborskom Odboru za pravosuđe. Suci Vladi dali još tjedan dana za ponudu o povećanju plaća. Zbog nezadovoljstva stanjem u zdravstvu, javnosti će se obratiti pet krovnih zdravstvenih udruga. Stanovništvo pojasa Gaze gotovo je potpuno raseljeno, upozorava UN-ova agencija za palestinske izbjeglice. Urednica: Snježana Kralj</description>
+    <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e3/b3/20240110-jutarnja-kronika-34855185-20240110063537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.01. 2024-01-09</title>
     <link>https://api.hrt.hr/media/8f/ff/20240109-jutarnja-kronika-34852081-20240109063520.mp3</link>
     <description>Državnoodvjetničko vijeće objavit će pravovaljane kandidature za glavnoga državnog odvjetnika. Zbog huliganskog napada na maloljetnike u Vukovaru, istražni zatvor određen 23-godišnjemu mladiću. Iako je izgubila od Crne Gore, hrvatska vaterpolska reprezentacija u četvrtfinalu Europskog prvenstva. Zbog olujnog vjetra, više od 24 sata zatvorena autocesta od Svetog Roka do Posedarja. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Još traje istraga strašne prometne nesreće koja se dogodila u noći s petka na subotu na autocesti A1 kod tunela Sveti Marko, u kojoj su tri osobe poginule. Žena u 90-im godinama živa izvučena iz ruševina pet dana nakon razornog potresa u Japanu. Pravoslavni vjernici danas slave Božić. Urednica: Mira Barić</description>
     <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1c/b3/20240107-jutarnja-kronika-34846692-20240107063512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.01. 2024-01-06</title>
-    <link>https://api.hrt.hr/media/c2/07/20240106-jutarnja-kronika-34844382-20240106064013.mp3</link>
-    <description>Počinje udarni hrvatski skijaški tjedan. Unatoč višim cijenama, interes i 20 posto veći nego lani. Blagdan je Sveta tri kralja. Srpsko narodno vijeće održat će tradicionalno primanje u povodu proslave Božića prema julijanskom kalendaru. Splitski gradonačelnik doskočio zabrani rada nedjeljom - sve nedjelje i blagdane u ovoj godini proglasio sajamskim danima. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/07/20240106-jutarnja-kronika-34844382-20240106064013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
