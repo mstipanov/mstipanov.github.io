@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 Jan 2024 14:55:31 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 14:59:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.01. 2024-01-11</title>
+    <link>https://api.hrt.hr/media/bc/77/20240111-dnevne-novosti-34860833-20240111143539.mp3</link>
+    <description>Održan prvi sastanak Vlade sa sindikatima javnih i državnih službi. Cjeloviti prijedlog Uredbe o koeficijentima sindikatima obećan za 22-gi ovog mjeseca. Izmjenom Kaznenog zakona uvodi se kazneno djelo teško ubojstvo žene - femicid, minimalna kazna deset godina zatvora. Nakon što su petorica osumnjičenika za napad na maloljetnike u Vukovaru u istražnom zatvoru, očekuje se još uhićenja. :	Na Međunarodnom sudu pravde UN-a u Haagu počeo postupak protiv Izraela za genocid u ratu u Gazi. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 11 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bc/77/20240111-dnevne-novosti-34860833-20240111143539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.01. 2024-01-10</title>
     <link>https://api.hrt.hr/media/89/ab/20240110-dnevne-novosti-34857215-20240110144042.mp3</link>
     <description>Uhićen i peti napadač na maloljetnike u Vukovaru, neki od uhićenih bili u grčkim zatvorima. Liječnici ponovno prijete štrajkom. Vladi dali rok da do kraja mjeseca ispuni njihove zahtjeve. U Ekvadoru neviđeni val nasilja, predsjednik Noboa proglasio stanje oružanog sukoba. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Hrvatsku pogodio hladni val, u nekim dijelovima zemlje pao je snijeg. Zbog orkanskih udara bure u trima regijama na snazi je crveni meteoalarm. Mostovac Nikola Grmoja optužio izvršnog direktora Fortenove Fabrisa Peruška da je, u korist Pavla Vujnovca, tvrtku oštetio za 66 milijuna eura. Zbog preksinoćnje tučnjave u Vukovaru, u kojoj je skupina starijih mladića pretukla nekoliko mlađih, uhićen 23-godišnjak. Apsolutni pobjednik dramskih kategorija 81. dodjele Zlatnih globusa je film Oppenheimer, najveći gubitnik Barbie. Urednik: Silvio Šop</description>
     <pubDate>Mon, 08 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/63/20240108-dnevne-novosti-34850549-20240108144018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.01. 2024-01-07</title>
-    <link>https://api.hrt.hr/media/1d/73/20240107-dnevne-novosti-34847671-20240107144514.mp3</link>
-    <description>U Karlovcu, Rijeci i Zagrebu liječe se ozlijeđeni iz jučerašnje teške prometne nesreće. Nisu jasne okolnosti sinoćnjeg sukoba u Vukovaru pri čemu su dva maloljetnika teško ozlijeđena. U slovenskoj špilji ostalo zarobljeno petero ljudi, tročlana obitelj i vodiči. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 07 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1d/73/20240107-dnevne-novosti-34847671-20240107144514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
