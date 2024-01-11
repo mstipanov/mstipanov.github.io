@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 Jan 2024 17:46:55 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 16:59:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Đino Matošić 2024-01-11</title>
+    <link>https://api.hrt.hr/media/08/27/20240111-historia-histriae-8025260-20240111165049.mp3</link>
+    <description>U noći 8. na 9. siječnja 1944. u Šajine su upali njemački vojnici i fašisti koji su kao odmazdu za antifašističko djelovanje spalili selo i ubili 54 mještana. Ukupno 120 djece ostalo je te noći bez roditelja, a jedan od njih je i tada petogodišnji Đino Matošić koji je preživio skriven ispod tijela svoje ubijene majke....on je gost ovog izdanja Historie. </description>
+    <pubDate>Thu, 11 Jan 2024 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/27/20240111-historia-histriae-8025260-20240111165049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>fra LJUDEVIT ANTON MARAČIĆ 2024-01-04</title>
     <link>https://api.hrt.hr/media/e4/7c/20240104-historia-histriae-8022192-20240104171013.mp3</link>
     <description>S Cresa nam se javlja jedan od najistaknutijih istarskih franjevaca konventualaca fra Ljudevit Anton Maračić koji je nedavno predstavio zbornik radova "Dani su čovjeka ko' oduljena sjena" povodom svoje 85. godine života i 60. godine svećeništva. </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi boksačka legenda Pero Tadić!</description>
     <pubDate>Thu, 09 Nov 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ea/7b/20231109-historia-histriae-8004522-20231109165526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>DARIO RUZIC 2023-11-02</title>
-    <link>https://api.hrt.hr/media/c1/50/20231102-historia-histriae-8002155-20231102160023.mp3</link>
-    <description>U goste nam dolazi legendarni golman NK Istre Dario Ružić </description>
-    <pubDate>Thu, 02 Nov 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c1/50/20231102-historia-histriae-8002155-20231102160023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
