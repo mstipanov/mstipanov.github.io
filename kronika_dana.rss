@@ -6,31 +6,31 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 11 Jan 2024 22:00:05 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 20:55:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.01. 2024-01-13</title>
+    <link>https://api.hrt.hr/media/c8/58/20240113-kronika-dana-34867650-20240113214052.mp3</link>
+    <description>U Vukovaru održan prosvjed protiv nasilja, organizirali ga roditelji pretučenih dječaka. Ministar Ivan Anušić otkazao sastanak s crnogorskim ministrom obrane jer se protivi spomen-ploči u zloglasnom logoru Morinju i povratku broda Jadran Hrvatskoj. Na Tajvanu izabran predsjednik koji odbacuje kineske teritorijalne zahtjeve, Kina poručila - izabrali ste rat! Urednica: Sanja Cota</description>
+    <pubDate>Sat, 13 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c8/58/20240113-kronika-dana-34867650-20240113214052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Kronika dana 12.01. 2024-01-12</title>
+    <link>https://api.hrt.hr/media/23/50/20240112-kronika-dana-34865574-20240112213550.mp3</link>
+    <description>U svijetu još jedan ratni sukob. Sjedinjene Države i Velika Britanija napale Hute u Jemenu. Na zahtjev Rusije održat će se sjednica Vijeća sigurnosti UN-a. Nakon blagdanske stanke predsjednik Milanović i premijer Plenković otvorili novu polemiku. Nesupjeh glavne državne odvjetnice: Vrhovni sud odbio DORH-ov zahtjev za zaštitu zakonitosti u slučaju "veliki Agrokor". Uoči sutrašnjeg prosvjeda protiv nasilja u Vukovaru oglasili se Bad Blu Boysi. Naši vaterpolisti ušli su u polufinale Europskog prvenstva nakon što su svladali Grčku s 13:8 Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 12 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/23/50/20240112-kronika-dana-34865574-20240112213550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.01. 2024-01-11</title>
     <link>https://api.hrt.hr/media/4d/fb/20240111-kronika-dana-34861900-20240111214038.mp3</link>
     <description>Izmjenama Kaznenog zakona koje je Vlada poslala u Sabor pooštravaju se kazne za nasilje i uvodi novo kazneno djelo - femicid. Južnoafrička Republika u tužbi protiv Izraela na Haškom sudu iznijela argumente za genocid nad Palestincima. Tisuće prosvjednika u Varšavi protiv reforme medija i uhićenja bivših ministara.Urednica: Mira Barić</description>
     <pubDate>Thu, 11 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/fb/20240111-kronika-dana-34861900-20240111214038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.01. 2024-01-09</title>
-    <link>https://api.hrt.hr/media/1a/b7/20240109-kronika-dana-34854569-20240109214025.mp3</link>
-    <description>Uhićena još trojica napadača na maloljetnike u Vukovaru, njihovi roditelji za subotu najavljuju prosvjed. Sve četiri kandidature za glavnog državnog odvjetnika su pravovaljane i proslijeđene Vladi. Vozač pokojnog zagrebačkog gradonačelnika Milana Bandića i takozvani "kralj Adventa" Denis Mohenski nagodili se s USKOK-om za kazne rada za opće dobro. UN-ova agencija za palestinske izbjeglice priopćila da je gotovo sve stanovništvo pojasa Gaze raseljeno. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 09 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1a/b7/20240109-kronika-dana-34854569-20240109214025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.01. 2024-01-08</title>
-    <link>https://api.hrt.hr/media/2a/24/20240108-kronika-dana-34851483-20240108214018.mp3</link>
-    <description>Zbog nasilja nad maloljetnicima u Vukovaru istražni zatvor određen 23-godišnjemu mladiću. Most iznio optužbe protiv izvršnog direktora Fortenove Fabrisa Peruška. Iako je izgubila od Crne Gore, hrvatska reprezentacija u četvrtfinalu Europskoga vaterpolskog prvenstva. U 78-oj godini umro Franz Beckenbauer. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 08 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/24/20240108-kronika-dana-34851483-20240108214018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
