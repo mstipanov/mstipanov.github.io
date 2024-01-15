@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Jan 2024 06:34:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 07:04:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.01. 2024-01-15</title>
+    <link>https://api.hrt.hr/media/a9/32/20240115-jutarnja-kronika-34870265-20240115063504.mp3</link>
+    <description>Filmska potjera za krijumčarima migranata na karlovačkom području. Jutros normalizacija opskrbe vodom za 20 tisuća stanovnika u Cetinskoj Krajini. Aktualnim prijepodnevnom počinje nova saborska sjednica.
+Naši vaterpolisti pobjedom nad Mađarskom osigurali finale Europskog prvenstva. Sutra borba za zlato protiv Španjolske. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/32/20240115-jutarnja-kronika-34870265-20240115063504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.01. 2024-01-14</title>
     <link>https://api.hrt.hr/media/9c/08/20240114-jutarnja-kronika-34868177-20240114063553.mp3</link>
     <description>Izrael tvrdi da je Hamas planirao terorističke napade diljem Europe. Sinoć u Zagrebu prosvjed za Palestinu. U Vukovaru održan prosvjed protiv nasilja u tom gradu. Abdikacija trenutačno najdugovječnije vladarice, danske kraljice Margarete. Diljem zemlje turistički vodiči organiziraju razgledavanje znamenitosti u povodu sutrašnjeg Dana međunarodnog priznanja Republike Hrvatske. Urednik: Grgo Mrvica</description>
