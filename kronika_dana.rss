@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 Jan 2024 22:03:05 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 22:09:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.01. 2024-01-15</title>
+    <link>https://api.hrt.hr/media/83/0e/20240115-kronika-dana-34873476-20240115214032.mp3</link>
+    <description>U srijedu će se znati hoće li suci ponovno u bijeli štrajk. Deset tisuća prosvjednika zakrčilo danas Berlin, na ulicama bilo i sedam tisuća traktora i kamiona. U Crvenome moru pogođen teretni brod američke tvrtke. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 15 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/83/0e/20240115-kronika-dana-34873476-20240115214032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.01. 2024-01-14</title>
     <link>https://api.hrt.hr/media/17/41/20240114-kronika-dana-34869711-20240114213555.mp3</link>
     <description>Hrvatski vaterpolisti pobjedom protiv Mađarske 11 : 8 plasirali se u finale Europskog prvenstva! Igra se preksutra, protivnik je Španjolska. Za nesreću kod Karlovca 6-og ovog mjeseca, u kojoj su poginule tri osobe, osumnjičen 30-godišnji Moldavac koji je prevozio ilegalne migrante, neke i u prtljažniku. Lava se izlila na islandski grad Grindavik, gore kuće. Ljudi evakuirani. Zbog kvara na magistralnom cjevovodu oko 20 tisuća stanovnika Dalmatinske zagore je bez vode. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U svijetu još jedan ratni sukob. Sjedinjene Države i Velika Britanija napale Hute u Jemenu. Na zahtjev Rusije održat će se sjednica Vijeća sigurnosti UN-a. Nakon blagdanske stanke predsjednik Milanović i premijer Plenković otvorili novu polemiku. Nesupjeh glavne državne odvjetnice: Vrhovni sud odbio DORH-ov zahtjev za zaštitu zakonitosti u slučaju "veliki Agrokor". Uoči sutrašnjeg prosvjeda protiv nasilja u Vukovaru oglasili se Bad Blu Boysi. Naši vaterpolisti ušli su u polufinale Europskog prvenstva nakon što su svladali Grčku s 13:8 Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 12 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/23/50/20240112-kronika-dana-34865574-20240112213550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.01. 2024-01-11</title>
-    <link>https://api.hrt.hr/media/4d/fb/20240111-kronika-dana-34861900-20240111214038.mp3</link>
-    <description>Izmjenama Kaznenog zakona koje je Vlada poslala u Sabor pooštravaju se kazne za nasilje i uvodi novo kazneno djelo - femicid. Južnoafrička Republika u tužbi protiv Izraela na Haškom sudu iznijela argumente za genocid nad Palestincima. Tisuće prosvjednika u Varšavi protiv reforme medija i uhićenja bivših ministara.Urednica: Mira Barić</description>
-    <pubDate>Thu, 11 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4d/fb/20240111-kronika-dana-34861900-20240111214038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
