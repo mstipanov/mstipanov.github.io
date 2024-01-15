@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 Jan 2024 20:55:27 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 06:34:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Zbog napada na brodove u Crvenom moru Amerika i Velika Britanija silovito napale ciljeve povezane s Hutima u Jemenu. Sindikati i Vlada pregovaraju o novim kolektivnim ugovorima, prijedlog koeficijenata dobit će 22-og ovog mjeseca. Izmjene Kaznenog zakona koje je Vlada poslala u Sabor donose strože kazne za nasilje i uvode novo kazneno djelo - femicid. Sport: u četvrtfinalu Europskog prvenstva u vaterpolu Barakude igraju protiv Grčke, a hrvatski rukometaši počinju nastup na Europskom prvenstvu susretom protiv Španjolske. Urednik: Silvio Šop</description>
     <pubDate>Fri, 12 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/71/20240112-jutarnja-kronika-34862465-20240112063547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.01. 2024-01-11</title>
-    <link>https://api.hrt.hr/media/2e/a7/20240111-jutarnja-kronika-34858867-20240111063538.mp3</link>
-    <description>Vlada i sindikati javnih i državnih službi počinju pregovore o novom kolektivnom ugovoru i većim plaćama! Nakon sudaca, i liječnici prijete štrajkom. Svim uhićenim napadačima na maloljetnike u Vukovaru mjesec dana istražnog zatvora! Izrael će prvi put od početka invazije na Pojas Gaze odgovarati na optužbe o genocidu. Proces pred Međunarodnim sudom pravde u Haagu pokrenula Južnoafrička Republika. Daruvar je jutros najhladniji grad u zemlji, -11 stupnjeva! U Osijeku -10, u Zagrebu -8. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2e/a7/20240111-jutarnja-kronika-34858867-20240111063538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
