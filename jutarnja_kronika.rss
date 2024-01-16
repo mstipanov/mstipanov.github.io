@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Jan 2024 07:04:54 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 06:40:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -32,14 +32,6 @@ Naši vaterpolisti pobjedom nad Mađarskom osigurali finale Europskog prvenstva.
     <description>I prošle su noći Amerikanci napali Hute u Jemenu. Predsjednik Joe Biden nazvao ih je terorističkom skupinom. U Vukovaru će se održati prosvjed protiv nasilja. Oglasili su se i tamošnji Bad Blue Boysi. Vrhovni sud odbio zahtjev za zaštitu zakonitosti u slučaju 'veliki Agrokor', presudio da nije bilo kršenja zakona. SPORT: Uvjerljivom pobjedom protiv Grčke naši vaterpolisti ušli u polufinale Europskog prvenstva. Rukometaši u svojoj prvoj utakmici Europskog prvenstva također uvjerljivo pobijedili Španjolce. Urednik: Silvio Šop</description>
     <pubDate>Sat, 13 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c3/d9/20240113-jutarnja-kronika-34866141-20240113063551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.01. 2024-01-12</title>
-    <link>https://api.hrt.hr/media/5a/71/20240112-jutarnja-kronika-34862465-20240112063547.mp3</link>
-    <description>Zbog napada na brodove u Crvenom moru Amerika i Velika Britanija silovito napale ciljeve povezane s Hutima u Jemenu. Sindikati i Vlada pregovaraju o novim kolektivnim ugovorima, prijedlog koeficijenata dobit će 22-og ovog mjeseca. Izmjene Kaznenog zakona koje je Vlada poslala u Sabor donose strože kazne za nasilje i uvode novo kazneno djelo - femicid. Sport: u četvrtfinalu Europskog prvenstva u vaterpolu Barakude igraju protiv Grčke, a hrvatski rukometaši počinju nastup na Europskom prvenstvu susretom protiv Španjolske. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 12 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/71/20240112-jutarnja-kronika-34862465-20240112063547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
