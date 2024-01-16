@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 16 Jan 2024 14:41:54 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 15:12:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.01. 2024-01-16</title>
+    <link>https://api.hrt.hr/media/88/42/20240116-dnevne-novosti-34876084-20240116144041.mp3</link>
+    <description>Hrvatska vaterpolska reprezentacija večeras se protiv Španjolske bori za europsko zlato. Suci jednoglasno odbili prijedlog resornog ministarstva o povećanju plaća, sutra odluka o daljnjim akcijama. Donald Trump uvjerljivo pobijedio za predsjedničkog kandidata u Iowi. Urednica: Mira Barić</description>
+    <pubDate>Tue, 16 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/88/42/20240116-dnevne-novosti-34876084-20240116144041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.01. 2024-01-15</title>
     <link>https://api.hrt.hr/media/94/82/20240115-dnevne-novosti-34872174-20240115144033.mp3</link>
     <description>Sjednica Sabora počela aktualnim prijepodnevom, još se ne zna je li posljednja u ovom sazivu. Povjerenstvo za sukob interesa istražit će druženje državnog tajnika u Ministarstvu gospodarstva Ive Milatića s investitorima kojima izdaje dozvole za projekte. U američkoj saveznoj državi Iowi počinje nova utrka za Bijelu kuću, republikanci održavaju predizbore. Urednica: Mira Barić</description>
