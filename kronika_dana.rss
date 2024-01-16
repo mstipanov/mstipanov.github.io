@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 16 Jan 2024 21:43:10 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 22:13:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.01. 2024-01-16</title>
+    <link>https://api.hrt.hr/media/93/32/20240116-kronika-dana-34877356-20240116214041.mp3</link>
+    <description>Hrvatska, sa samo golom razlike, izgubila od Španjolske u finalu europskog vaterpolskog prvenstva. Suci jednoglasno odbili prijedlog Ministarstva o povećanju plaća, sutra odlučuju o daljnjim akcijama. Na svjetskom gospodarskom forumu u Davosu Ukrajina traži ujedinjenje protiv ruske agresije, a Saudijska Arabija priznala bi Izrael ako se osigura državnost za Palestince. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 16 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/93/32/20240116-kronika-dana-34877356-20240116214041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.01. 2024-01-15</title>
     <link>https://api.hrt.hr/media/83/0e/20240115-kronika-dana-34873476-20240115214032.mp3</link>
     <description>U srijedu će se znati hoće li suci ponovno u bijeli štrajk. Deset tisuća prosvjednika zakrčilo danas Berlin, na ulicama bilo i sedam tisuća traktora i kamiona. U Crvenome moru pogođen teretni brod američke tvrtke. Urednica: Sanja Cota</description>
