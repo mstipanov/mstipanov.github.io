@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Jan 2024 22:09:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 21:43:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Vukovaru održan prosvjed protiv nasilja, organizirali ga roditelji pretučenih dječaka. Ministar Ivan Anušić otkazao sastanak s crnogorskim ministrom obrane jer se protivi spomen-ploči u zloglasnom logoru Morinju i povratku broda Jadran Hrvatskoj. Na Tajvanu izabran predsjednik koji odbacuje kineske teritorijalne zahtjeve, Kina poručila - izabrali ste rat! Urednica: Sanja Cota</description>
     <pubDate>Sat, 13 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/58/20240113-kronika-dana-34867650-20240113214052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.01. 2024-01-12</title>
-    <link>https://api.hrt.hr/media/23/50/20240112-kronika-dana-34865574-20240112213550.mp3</link>
-    <description>U svijetu još jedan ratni sukob. Sjedinjene Države i Velika Britanija napale Hute u Jemenu. Na zahtjev Rusije održat će se sjednica Vijeća sigurnosti UN-a. Nakon blagdanske stanke predsjednik Milanović i premijer Plenković otvorili novu polemiku. Nesupjeh glavne državne odvjetnice: Vrhovni sud odbio DORH-ov zahtjev za zaštitu zakonitosti u slučaju "veliki Agrokor". Uoči sutrašnjeg prosvjeda protiv nasilja u Vukovaru oglasili se Bad Blu Boysi. Naši vaterpolisti ušli su u polufinale Europskog prvenstva nakon što su svladali Grčku s 13:8 Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 12 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/23/50/20240112-kronika-dana-34865574-20240112213550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
