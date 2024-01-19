@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 Jan 2024 06:48:27 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:55:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.01. 2024-01-19</title>
+    <link>https://api.hrt.hr/media/6f/4e/20240119-jutarnja-kronika-34886290-20240119063501.mp3</link>
+    <description>U Saboru cjelodnevna burna rasprava o izmjenama Kaznenog zakona, oporba oštro kritizirala predloženo kažnjavanje curenja informacija iz istraga. Zbog požara u osječkoj tvrtki Drava Internacional njezin vlasnik osumnjičen za teško kazneno djelo ugrožavanja okoliša otpadom te dovođenje u opasnost života i imovine. Hutisti sinoć ispalili dvije protubrodske balističke rakete na tanker u vlasništvu SAD-a, pale su blizu broda. U zagrebačkom HNK-u premijera drame Tomislava Zajeca "Nestajanje". Urednik: Silvio Šop</description>
+    <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6f/4e/20240119-jutarnja-kronika-34886290-20240119063501.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.01. 2024-01-18</title>
     <link>https://api.hrt.hr/media/db/96/20240118-jutarnja-kronika-34882249-20240118063559.mp3</link>
     <description>Suci od ponedjeljka u bijelom štrajku! Trajat će dva tjedna. Hrvatski će sabor raspravljati o zakonskim izmjenama kojima se predlaže uvođenje kaznenih djela - femicida i neovlaštenog otkrivanja sadržaja izvidne ili dokazne radnje. Pakistan snažno uzvratio na napade Irana. Počela osveta, javlja CNN. Hrvatski rukometaši večeras protiv Francuske. Urednik: Mario Krstanović</description>
@@ -31,15 +39,6 @@
     <description>Hrvatski vaterpolisti večeras na Europskom prvenstvu u Zagrebu igraju finalnu utakmicu sa Španjolcima. Uvjerljiva pobjeda Donalda Trumpa na predizborima u Iowi. Policija privela jednu osobu koja se povezuje s premlaćivanjem mladića u Slavonskom Brodu. Nastavljaju se pregovori Vlade i Udruge sudaca o plaćama. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 16 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4b/f5/20240116-jutarnja-kronika-34874144-20240116063530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.01. 2024-01-15</title>
-    <link>https://api.hrt.hr/media/a9/32/20240115-jutarnja-kronika-34870265-20240115063504.mp3</link>
-    <description>Filmska potjera za krijumčarima migranata na karlovačkom području. Jutros normalizacija opskrbe vodom za 20 tisuća stanovnika u Cetinskoj Krajini. Aktualnim prijepodnevnom počinje nova saborska sjednica.
-Naši vaterpolisti pobjedom nad Mađarskom osigurali finale Europskog prvenstva. Sutra borba za zlato protiv Španjolske. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/32/20240115-jutarnja-kronika-34870265-20240115063504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
