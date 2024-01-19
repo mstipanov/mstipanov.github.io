@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 Jan 2024 21:50:50 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 21:58:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.01. 2024-01-19</title>
+    <link>https://api.hrt.hr/media/a1/45/20240119-kronika-dana-34889412-20240119214003.mp3</link>
+    <description>Zbog snijega, olujnog vjetra i orkanske bure crveni meteoalarm na snazi je za riječku i gospićku regiju, Kvarner i Kvarnerić te Velebitski kanal. U Zagrebu dramatična potjera za kombijem s migrantima. Uskok podignuo optužnicu protiv bivšeg direktora Janafa Dragana Kovačevića. Ivan Perišić vraća se u Hajduk. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 19 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/45/20240119-kronika-dana-34889412-20240119214003.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.01. 2024-01-18</title>
     <link>https://api.hrt.hr/media/1b/d3/20240118-kronika-dana-34885588-20240118213601.mp3</link>
     <description>Zbog požara u osječkoj tvrtki Drava Internacional njezin vlasnik osumnjičen za teško kazneno djelo ugrožavanja okoliša otpadom te za dovođenje u opasnost života i imovine. Policija objavila da su vozačicu ZET-a fizički napali maloljetnica i dijete mlađe od 14 godina. Izrael u budućnosti mora nadzirati cijeli teritorij zapadno od rijeke Jordan, izjavio premijer Netanjahu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska, sa samo golom razlike, izgubila od Španjolske u finalu europskog vaterpolskog prvenstva. Suci jednoglasno odbili prijedlog Ministarstva o povećanju plaća, sutra odlučuju o daljnjim akcijama. Na svjetskom gospodarskom forumu u Davosu Ukrajina traži ujedinjenje protiv ruske agresije, a Saudijska Arabija priznala bi Izrael ako se osigura državnost za Palestince. Urednica: Sanja Cota</description>
     <pubDate>Tue, 16 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/32/20240116-kronika-dana-34877356-20240116214041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.01. 2024-01-15</title>
-    <link>https://api.hrt.hr/media/83/0e/20240115-kronika-dana-34873476-20240115214032.mp3</link>
-    <description>U srijedu će se znati hoće li suci ponovno u bijeli štrajk. Deset tisuća prosvjednika zakrčilo danas Berlin, na ulicama bilo i sedam tisuća traktora i kamiona. U Crvenome moru pogođen teretni brod američke tvrtke. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 15 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/0e/20240115-kronika-dana-34873476-20240115214032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
