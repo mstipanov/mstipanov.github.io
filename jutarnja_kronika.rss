@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 Jan 2024 06:55:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 07:00:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.01. 2024-01-20</title>
+    <link>https://api.hrt.hr/media/43/08/20240120-jutarnja-kronika-34890001-20240120063505.mp3</link>
+    <description>Oprez zbog niskih temperatura - moguća poledica! Suci u ponedjeljak počinju bijeli štrajk. Premijer im poručio da budu razumni i da im neće proći nikakve ucjene. Ovaj vikend besplatna vožnja sljemenskom žičarom! Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 20 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/43/08/20240120-jutarnja-kronika-34890001-20240120063505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.01. 2024-01-19</title>
     <link>https://api.hrt.hr/media/6f/4e/20240119-jutarnja-kronika-34886290-20240119063501.mp3</link>
     <description>U Saboru cjelodnevna burna rasprava o izmjenama Kaznenog zakona, oporba oštro kritizirala predloženo kažnjavanje curenja informacija iz istraga. Zbog požara u osječkoj tvrtki Drava Internacional njezin vlasnik osumnjičen za teško kazneno djelo ugrožavanja okoliša otpadom te dovođenje u opasnost života i imovine. Hutisti sinoć ispalili dvije protubrodske balističke rakete na tanker u vlasništvu SAD-a, pale su blizu broda. U zagrebačkom HNK-u premijera drame Tomislava Zajeca "Nestajanje". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Saborski Odbor za pravosuđe saslušat će kandidate za glavnoga državnog odvjetnika. Na Svjetskome gospodarskom forumu u Davosu glavne su teme rat u Ukrajini i na Bliskom istoku te globalna trgovina. Rođendan je umjetnosti, u prijenosu Euroradija sudjeluje i naš Treći program od 20 do 22 sata. SPORT: Hrvatski vaterpolisti nisu uspjeli obraniti europsko zlato - sa samo golom razlike izgubili su od Španjolske. Urednik: Silvio Šop</description>
     <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ef/ad/20240117-jutarnja-kronika-34878066-20240117064026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.01. 2024-01-16</title>
-    <link>https://api.hrt.hr/media/4b/f5/20240116-jutarnja-kronika-34874144-20240116063530.mp3</link>
-    <description>Hrvatski vaterpolisti večeras na Europskom prvenstvu u Zagrebu igraju finalnu utakmicu sa Španjolcima. Uvjerljiva pobjeda Donalda Trumpa na predizborima u Iowi. Policija privela jednu osobu koja se povezuje s premlaćivanjem mladića u Slavonskom Brodu. Nastavljaju se pregovori Vlade i Udruge sudaca o plaćama. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 16 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/f5/20240116-jutarnja-kronika-34874144-20240116063530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
