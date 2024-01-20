@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 Jan 2024 21:58:45 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 22:02:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.01. 2024-01-20</title>
+    <link>https://api.hrt.hr/media/84/20/20240120-kronika-dana-34891761-20240120214506.mp3</link>
+    <description>Zbog snijega i leda, ali i jakog vjetra, i danas problemi u prometu u Lici i Gorskom kotaru. Stanje se postupno normalizira. Reakcije vladajućih i oporbe na najavljeni bijeli štrajk sudaca, ali i na izjave predsjednika Vrhovnoga suda Radovana Dobronića. Hrvatski rukometaši izgubili od Mađarske na Europskom prvenstvu.
+Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 20 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/84/20/20240120-kronika-dana-34891761-20240120214506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.01. 2024-01-19</title>
     <link>https://api.hrt.hr/media/a1/45/20240119-kronika-dana-34889412-20240119214003.mp3</link>
     <description>Zbog snijega, olujnog vjetra i orkanske bure crveni meteoalarm na snazi je za riječku i gospićku regiju, Kvarner i Kvarnerić te Velebitski kanal. U Zagrebu dramatična potjera za kombijem s migrantima. Uskok podignuo optužnicu protiv bivšeg direktora Janafa Dragana Kovačevića. Ivan Perišić vraća se u Hajduk. Urednik: Grgo Mrvica</description>
@@ -31,14 +40,6 @@
     <description>Uhićen vlasnik tvrtke Drava International zbog katastrofalnog požara prije tri mjeseca. Novi bijeli štrajk sudaca od ponedjeljka do 2. veljače. Sva četvorica kandidata za novoga glavnog državnog odvjetnika predstavili se na saborskom Oboru za pravosuđe. Premijer Plenković u Davosu govorio o ruskoj agresiji na Ukrajinu. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 17 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/9f/20240117-kronika-dana-34881561-20240117213601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.01. 2024-01-16</title>
-    <link>https://api.hrt.hr/media/93/32/20240116-kronika-dana-34877356-20240116214041.mp3</link>
-    <description>Hrvatska, sa samo golom razlike, izgubila od Španjolske u finalu europskog vaterpolskog prvenstva. Suci jednoglasno odbili prijedlog Ministarstva o povećanju plaća, sutra odlučuju o daljnjim akcijama. Na svjetskom gospodarskom forumu u Davosu Ukrajina traži ujedinjenje protiv ruske agresije, a Saudijska Arabija priznala bi Izrael ako se osigura državnost za Palestince. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 16 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/32/20240116-kronika-dana-34877356-20240116214041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
