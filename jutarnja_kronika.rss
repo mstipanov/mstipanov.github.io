@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 20 Jan 2024 07:00:04 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 06:34:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Suci od ponedjeljka u bijelom štrajku! Trajat će dva tjedna. Hrvatski će sabor raspravljati o zakonskim izmjenama kojima se predlaže uvođenje kaznenih djela - femicida i neovlaštenog otkrivanja sadržaja izvidne ili dokazne radnje. Pakistan snažno uzvratio na napade Irana. Počela osveta, javlja CNN. Hrvatski rukometaši večeras protiv Francuske. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 18 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/96/20240118-jutarnja-kronika-34882249-20240118063559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.01. 2024-01-17</title>
-    <link>https://api.hrt.hr/media/ef/ad/20240117-jutarnja-kronika-34878066-20240117064026.mp3</link>
-    <description>Saborski Odbor za pravosuđe saslušat će kandidate za glavnoga državnog odvjetnika. Na Svjetskome gospodarskom forumu u Davosu glavne su teme rat u Ukrajini i na Bliskom istoku te globalna trgovina. Rođendan je umjetnosti, u prijenosu Euroradija sudjeluje i naš Treći program od 20 do 22 sata. SPORT: Hrvatski vaterpolisti nisu uspjeli obraniti europsko zlato - sa samo golom razlike izgubili su od Španjolske. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ef/ad/20240117-jutarnja-kronika-34878066-20240117064026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
