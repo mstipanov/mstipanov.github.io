@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 22 Jan 2024 15:10:54 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 14:44:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.01. 2024-01-23</title>
+    <link>https://api.hrt.hr/media/21/9c/20240123-dnevne-novosti-34900124-20240123144027.mp3</link>
+    <description>Suci i državni odvjetnici drugi su dan u bijelom štrajku. Javne službe nezadovoljne su ponuđenim koeficijentima, zahtijevaju njihovu korekciju. Premijer Andrej Plenković s predsjednicom Europske komisije Ursulom von der Leyen i nizozemskim premijerom Markom Rutteom u Sarajevu se sastao s članovima Predsjedništva BiH. Rusija jutros izvela veliki raketni napad na Kijev i Harkiv.
+Urednik: Silvio Šop</description>
+    <pubDate>Tue, 23 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/21/9c/20240123-dnevne-novosti-34900124-20240123144027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.01. 2024-01-22</title>
     <link>https://api.hrt.hr/media/49/75/20240122-dnevne-novosti-34896531-20240122144025.mp3</link>
     <description>Počeo bijeli štrajk sudaca, odaziv veći od 80 posto, u nekim gradovima i stopostotan, tvrde iz Udruge hrvatskih sudaca. Rodbina talaca iz Gaze upala u izraelski parlament, od premijera Netanyahua traže da ih oslobodi. Ron DeSantis povukao se iz utrke za američkog predsjednika i podupro Donalda Trumpa kao republikanskog kandidata u utrci za Bijelu kuću. Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Zbog snijega i leda, ali i jakog vjetra, i danas problemi u prometu u Lici i Gorskom kotaru, no stanje se postupno normalizira. Predsjednik Vrhovnog suda Radovan Dobronić smatra da indeksacija sudačkih plaća nije sindikalno pitanje, nego pretpostavka za neovisnost sudaca. Zbog lijepog vremena, ali i besplatne žičare, Zagrepčani ovaj vikend pohrlili na Sljeme. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 20 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b5/3a/20240120-dnevne-novosti-34890899-20240120144005.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.01. 2024-01-19</title>
-    <link>https://api.hrt.hr/media/1a/f9/20240119-dnevne-novosti-34888312-20240119144003.mp3</link>
-    <description>U Zagrebu dramatična potjera za kombijem s migrantima. Snijeg zabijelio Hrvatsku i stvorio probleme vozačima. USKOK podignuo optužnicu protiv bivšeg direktora Janafa Dragana Kovačevića. Otvorena nova Podravkina tvornica tjestenine. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 19 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1a/f9/20240119-dnevne-novosti-34888312-20240119144003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
