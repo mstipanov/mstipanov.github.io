@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 22 Jan 2024 21:42:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 21:47:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.01. 2024-01-23</title>
+    <link>https://api.hrt.hr/media/d0/98/20240123-kronika-dana-34901036-20240123214028.mp3</link>
+    <description>Drugi dan bijeloga štrajka Udruga sudaca tvrdi da mu se odazvalo 90 posto sudaca. Turski parlament dao dugoočekivano odobrenje za članstvo Švedske u NATO-u. Lani u Europi trideset puta više slučajeva ospica nego godinu prije. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 23 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/98/20240123-kronika-dana-34901036-20240123214028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.01. 2024-01-22</title>
     <link>https://api.hrt.hr/media/f0/2d/20240122-kronika-dana-34897562-20240122214026.mp3</link>
     <description>Udruga sudaca tvrdi da se bijelom štrajku odazvalo više 80 posto sudaca. Sindikati javnih službi nezadovoljni Vladinom uredbom o koeficijentima. U jutrošnjoj potjeri za krijumčarem ilegalnih migranata kod Cetingrada ozlijeđene tri osobe. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 20 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/20/20240120-kronika-dana-34891761-20240120214506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.01. 2024-01-19</title>
-    <link>https://api.hrt.hr/media/a1/45/20240119-kronika-dana-34889412-20240119214003.mp3</link>
-    <description>Zbog snijega, olujnog vjetra i orkanske bure crveni meteoalarm na snazi je za riječku i gospićku regiju, Kvarner i Kvarnerić te Velebitski kanal. U Zagrebu dramatična potjera za kombijem s migrantima. Uskok podignuo optužnicu protiv bivšeg direktora Janafa Dragana Kovačevića. Ivan Perišić vraća se u Hajduk. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 19 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a1/45/20240119-kronika-dana-34889412-20240119214003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
