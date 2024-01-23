@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 17 Jan 2024 09:45:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 18:45:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 23.01.2024. 2024-01-23</title>
+    <link>https://api.hrt.hr/media/55/df/20240123-explora-8029529-20240123184027.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 23 Jan 2024 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/55/df/20240123-explora-8029529-20240123184027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 16.01.2023. 2024-01-16</title>
     <link>https://api.hrt.hr/media/15/d2/20240116-explora-8027097-20240116171040.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.
@@ -82,16 +90,6 @@ U ovoj emisiji - Kako ostati smiren? Simulacija kraja vremena i Davos.  Hrvati n
 </description>
     <pubDate>Tue, 21 Nov 2023 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/b5/20231121-explora-8008249-20231121170039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 14.11.2023. 2023-11-14</title>
-    <link>https://api.hrt.hr/media/7d/e4/20231114-explora-8005976-20231114171041.mp3</link>
-    <description>Nulti genom kvasca. Genetika i nove opojne droge. Presađeno lice i oko. Solarni paneli u akumulacijskom jezeru. Pronašli drevnu civilizaciju. Čvorovi, milje i kilometri - na moru. Brian Cox u Hrvatskoj. Izrael i Palestina.
-Hrvatski "The Cube". Kako izbjeći spam? 
-Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 14 Nov 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7d/e4/20231114-explora-8005976-20231114171041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
