@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 Jan 2024 14:44:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 14:50:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednik: Silvio Šop</description>
     <description>Zrinka Ljutić druga u slalomu! Ako se do kraja dana ne bude postigao dogovor s Vladom, sutra počinje štrajk sudaca - poručila za Hrvatski radio glasnogovornica Udruge sudaca. Provjerili smo što očekuju sindikati uoči predstavljanja Vladine uredbe o koeficijentima za plaće. U granatiranju ukrajinskoga grada Donecka, koji je pod ruskim nadzorom, poginulo najmanje 25 ljudi. Nastavljaju se masovnih prosvjedi protiv desnice u Njemačkoj. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 21 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5b/fa/20240121-dnevne-novosti-34893321-20240121144009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.01. 2024-01-20</title>
-    <link>https://api.hrt.hr/media/b5/3a/20240120-dnevne-novosti-34890899-20240120144005.mp3</link>
-    <description>Zbog snijega i leda, ali i jakog vjetra, i danas problemi u prometu u Lici i Gorskom kotaru, no stanje se postupno normalizira. Predsjednik Vrhovnog suda Radovan Dobronić smatra da indeksacija sudačkih plaća nije sindikalno pitanje, nego pretpostavka za neovisnost sudaca. Zbog lijepog vremena, ali i besplatne žičare, Zagrepčani ovaj vikend pohrlili na Sljeme. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 20 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/3a/20240120-dnevne-novosti-34890899-20240120144005.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
