@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 24 Jan 2024 21:51:46 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 21:55:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.01. 2024-01-25</title>
+    <link>https://api.hrt.hr/media/92/f1/20240125-kronika-dana-34908561-20240125214533.mp3</link>
+    <description>Vlada predložila Ivana Turudića za glavnoga državnog odvjetnika; iznimno oštra reakcija predsjednika Milanovića. Predstavljene uredbe o koeficijentima za državne i javne službe, sindikati se moraju izjasniti u roku od 15 dana. Zbog krijumčarenja najmanje 119 migranata, USKOK pokrenuo istragu protiv osam hrvatskih i srbijanskih državljana. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 25 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/92/f1/20240125-kronika-dana-34908561-20240125214533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.01. 2024-01-24</title>
     <link>https://api.hrt.hr/media/7b/10/20240124-kronika-dana-34904669-20240124214031.mp3</link>
     <description>Plaće u državnim i javnim službama rast će 13 i pol posto, najavio je ministar Marin Piletić. Sutra će biti predstavljena Uredba o koeficijentima. Četvorica kandidata za novoga glavnog državnog odvjetnika obavila razgovore u Vladi.Moskva optužila Ukrajinu da je srušila ruski zrakoplov u kojemu je bilo 65 ukrajinskih zarobljenika koji su trebali biti razmijenjeni. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Udruga sudaca tvrdi da se bijelom štrajku odazvalo više 80 posto sudaca. Sindikati javnih službi nezadovoljni Vladinom uredbom o koeficijentima. U jutrošnjoj potjeri za krijumčarem ilegalnih migranata kod Cetingrada ozlijeđene tri osobe. Urednica: Sanja Cota</description>
     <pubDate>Mon, 22 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f0/2d/20240122-kronika-dana-34897562-20240122214026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.01. 2024-01-21</title>
-    <link>https://api.hrt.hr/media/84/10/20240121-kronika-dana-34894118-20240121214009.mp3</link>
-    <description>Sutra počinje bijeli štrajk sudaca i državnih odvjetnika. Što će to značiti za građane? Vlada sutra predstavlja uredbe o koeficijentima za plaće. Kakva su očekivanja sindikata? Guverner Floride Ron DeSantis prekinuo je utrku za predsjedničkog kandidata republikanske stranke. Zrinka Ljutić ostvarila rezultat karijere - druga u slalomu u slovačkoj Jasni! Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 21 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/10/20240121-kronika-dana-34894118-20240121214009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
