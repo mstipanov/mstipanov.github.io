@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 Jan 2024 17:20:10 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 17:24:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Piramide za emitiranje 25.1. 2024-01-25</title>
+    <link>https://api.hrt.hr/media/09/63/20240125-historia-histriae-8030239-20240125162032.mp3</link>
+    <description>Pričamo o piramidalnim strukturama duž cijelog priobalja južne Istre. Čemu su služile, tko ih je izgradio i kada? Saznajte u novom izdanju emisije. </description>
+    <pubDate>Thu, 25 Jan 2024 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/09/63/20240125-historia-histriae-8030239-20240125162032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>MIRANDO MUZINA 2024-01-18</title>
     <link>https://api.hrt.hr/media/b8/0b/20240118-historia-histriae-8027675-20240118165600.mp3</link>
     <description>PCM	MODE:MONO	SAMPLE_RATE:48000	BITS_PER_SAMP:24	CARD:DeckLink 4K Extreme 12G &amp; 1394 Audio &amp; DirectSound Audio	PERIPHERAL:Blackmagic &amp; Avid OHCI	=MPEG1L2,F=48000,B=256,W=16,M=Stereo,T=N&amp;eacute;tia</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi povjesničar Josip Banić, a pričamo o Bujskom statutu iz 1427. godine </description>
     <pubDate>Thu, 23 Nov 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/af/20231123-historia-histriae-8009002-20231123181100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Matija i Dragutin Prepust 2023-11-16</title>
-    <link>https://api.hrt.hr/media/96/d2/20231116-historia-histriae-8005514-20231116161557.mp3</link>
-    <description>Pričamo o povijesti zrakoplovstva uz Matiju i Dragu Prepušta. </description>
-    <pubDate>Thu, 16 Nov 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/96/d2/20231116-historia-histriae-8005514-20231116161557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
