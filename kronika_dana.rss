@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 Jan 2024 21:55:27 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 21:31:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Drugi dan bijeloga štrajka Udruga sudaca tvrdi da mu se odazvalo 90 posto sudaca. Turski parlament dao dugoočekivano odobrenje za članstvo Švedske u NATO-u. Lani u Europi trideset puta više slučajeva ospica nego godinu prije. Urednica: Sanja Cota</description>
     <pubDate>Tue, 23 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d0/98/20240123-kronika-dana-34901036-20240123214028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.01. 2024-01-22</title>
-    <link>https://api.hrt.hr/media/f0/2d/20240122-kronika-dana-34897562-20240122214026.mp3</link>
-    <description>Udruga sudaca tvrdi da se bijelom štrajku odazvalo više 80 posto sudaca. Sindikati javnih službi nezadovoljni Vladinom uredbom o koeficijentima. U jutrošnjoj potjeri za krijumčarem ilegalnih migranata kod Cetingrada ozlijeđene tri osobe. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 22 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f0/2d/20240122-kronika-dana-34897562-20240122214026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
