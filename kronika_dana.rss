@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Jan 2024 21:31:34 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 22:01:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.01. 2024-01-26</title>
+    <link>https://api.hrt.hr/media/02/d3/20240126-kronika-dana-34912381-20240126214035.mp3</link>
+    <description>Predsjednik Milanović i danas objašnjava zašto sudac Turudić ne bi trebao biti glavni državni odvjetnik. U Saboru donesen Zakon o hrvatskom jeziku. Izrael ima pravo na samoobranu, rekao premijer Netanjahu nakon što mu Međunarodni sud u Hagu nije naredio da prekine ofenzivu u Gazi, ali je zatražio da nastoji spriječiti genocid. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 26 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/02/d3/20240126-kronika-dana-34912381-20240126214035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.01. 2024-01-25</title>
     <link>https://api.hrt.hr/media/92/f1/20240125-kronika-dana-34908561-20240125214533.mp3</link>
     <description>Vlada predložila Ivana Turudića za glavnoga državnog odvjetnika; iznimno oštra reakcija predsjednika Milanovića. Predstavljene uredbe o koeficijentima za državne i javne službe, sindikati se moraju izjasniti u roku od 15 dana. Zbog krijumčarenja najmanje 119 migranata, USKOK pokrenuo istragu protiv osam hrvatskih i srbijanskih državljana. Urednica: Sanja Cota</description>
