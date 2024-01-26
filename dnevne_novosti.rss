@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 Jan 2024 14:54:23 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 14:58:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.01. 2024-01-26</title>
+    <link>https://api.hrt.hr/media/9d/9e/20240126-dnevne-novosti-34911370-20240126144034.mp3</link>
+    <description>Sindikati javnih službi nezadovoljni Vladinim prijedlogom Uredbe o koeficijentima, kažu da je koeficijente za obračun plaća odredila samovoljno i štetno za sustav. Međunarodni sud u Hagu nije naredio Izraelu da prekine svoju ofenzivu u Gazi, tražio je da učini sve što je u njegovoj moći da spriječi genocid. Pred nama 19. Noć muzeja, u 134 grada nudi se oko 600 različitih programa. Urednica: Mira Barić</description>
+    <pubDate>Fri, 26 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9d/9e/20240126-dnevne-novosti-34911370-20240126144034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.01. 2024-01-25</title>
     <link>https://api.hrt.hr/media/03/fa/20240125-dnevne-novosti-34907267-20240125144032.mp3</link>
     <description>Za glavnog državnog odvjetnika Vlada će Saboru predložiti Ivana Turudića. Ministar Piletić predstavio uredbe o koeficijentima plaća za državne i javne službe - većina sindikata već ih ocijenila neprihvatljivima.Opća osuda izjave predsjednika Vrhovnog suda Radovana Dobronića vezane za slučaj Severine i skrbništva nad njezinim djetetom. Zvonimir Boban napustio UEFU - krovnu europsku nogometnu organizaciju. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednik: Silvio Šop</description>
     <pubDate>Tue, 23 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/9c/20240123-dnevne-novosti-34900124-20240123144027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.01. 2024-01-22</title>
-    <link>https://api.hrt.hr/media/49/75/20240122-dnevne-novosti-34896531-20240122144025.mp3</link>
-    <description>Počeo bijeli štrajk sudaca, odaziv veći od 80 posto, u nekim gradovima i stopostotan, tvrde iz Udruge hrvatskih sudaca. Rodbina talaca iz Gaze upala u izraelski parlament, od premijera Netanyahua traže da ih oslobodi. Ron DeSantis povukao se iz utrke za američkog predsjednika i podupro Donalda Trumpa kao republikanskog kandidata u utrci za Bijelu kuću. Urednica: Mira Barić</description>
-    <pubDate>Mon, 22 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/75/20240122-dnevne-novosti-34896531-20240122144025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
