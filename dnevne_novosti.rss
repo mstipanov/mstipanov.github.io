@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Jan 2024 14:58:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 15:04:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.01. 2024-01-27</title>
+    <link>https://api.hrt.hr/media/e1/96/20240127-dnevne-novosti-34913943-20240127144037.mp3</link>
+    <description>Sjedinjene Države i Velika Britanija, kao osvetu za napade hutista na brodove, raketirale glavni jemenski terminal za izvoz nafte. Međunarodni je dan sjećanja na žrtve holokausta. Ususret parlamentarnim izborima stranka Možemo! predstavila viziju Hrvatske i stranačke prioritete. Splitsko-dalmatinska županija prva u Hrvatskoj funkcionalno decentralizirana. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 27 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/96/20240127-dnevne-novosti-34913943-20240127144037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.01. 2024-01-26</title>
     <link>https://api.hrt.hr/media/9d/9e/20240126-dnevne-novosti-34911370-20240126144034.mp3</link>
     <description>Sindikati javnih službi nezadovoljni Vladinim prijedlogom Uredbe o koeficijentima, kažu da je koeficijente za obračun plaća odredila samovoljno i štetno za sustav. Međunarodni sud u Hagu nije naredio Izraelu da prekine svoju ofenzivu u Gazi, tražio je da učini sve što je u njegovoj moći da spriječi genocid. Pred nama 19. Noć muzeja, u 134 grada nudi se oko 600 različitih programa. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>Vladino povjerenstvo obavilo je razgovore s četvoricom kandidata za novog glavnog državnog odvjetnika, svoj prijedlog bi trebalo poslati u Sabor. Srušen je ruski zrakoplov u kojem je navodno bilo 65 ukrajinskih ratnih zarobljenika, tko ga je srušio - još se ne zna. U 72. godini umro legendarni zapovjednik bojne Frankopan general Bruno Zorica Zulu. Urednica: Sanja Cota</description>
     <pubDate>Wed, 24 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/c6/20240124-dnevne-novosti-34903825-20240124145530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.01. 2024-01-23</title>
-    <link>https://api.hrt.hr/media/21/9c/20240123-dnevne-novosti-34900124-20240123144027.mp3</link>
-    <description>Suci i državni odvjetnici drugi su dan u bijelom štrajku. Javne službe nezadovoljne su ponuđenim koeficijentima, zahtijevaju njihovu korekciju. Premijer Andrej Plenković s predsjednicom Europske komisije Ursulom von der Leyen i nizozemskim premijerom Markom Rutteom u Sarajevu se sastao s članovima Predsjedništva BiH. Rusija jutros izvela veliki raketni napad na Kijev i Harkiv.
-Urednik: Silvio Šop</description>
-    <pubDate>Tue, 23 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/9c/20240123-dnevne-novosti-34900124-20240123144027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
