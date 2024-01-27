@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Jan 2024 22:01:39 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 22:06:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.01. 2024-01-27</title>
+    <link>https://api.hrt.hr/media/f4/cc/20240127-kronika-dana-34914733-20240127214038.mp3</link>
+    <description>UN otvorio istragu nad nekoliko svojih djelatnika koji su navodno umiješani u napad na Izrael 7. listopada. Obilježen Međunarodni dan sjećanja na žrtve holokausta. Prije 79 godina oslobođen najstrašniji nacistički logor Auschwitz.Istraživanje HR rejting pokazuje da većih pomaka u popularnosti stranaka nema, no raste broj neodlučnih birača. Urednica: Mira Barić</description>
+    <pubDate>Sat, 27 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f4/cc/20240127-kronika-dana-34914733-20240127214038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.01. 2024-01-26</title>
     <link>https://api.hrt.hr/media/02/d3/20240126-kronika-dana-34912381-20240126214035.mp3</link>
     <description>Predsjednik Milanović i danas objašnjava zašto sudac Turudić ne bi trebao biti glavni državni odvjetnik. U Saboru donesen Zakon o hrvatskom jeziku. Izrael ima pravo na samoobranu, rekao premijer Netanjahu nakon što mu Međunarodni sud u Hagu nije naredio da prekine ofenzivu u Gazi, ali je zatražio da nastoji spriječiti genocid. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Plaće u državnim i javnim službama rast će 13 i pol posto, najavio je ministar Marin Piletić. Sutra će biti predstavljena Uredba o koeficijentima. Četvorica kandidata za novoga glavnog državnog odvjetnika obavila razgovore u Vladi.Moskva optužila Ukrajinu da je srušila ruski zrakoplov u kojemu je bilo 65 ukrajinskih zarobljenika koji su trebali biti razmijenjeni. Urednica: Mira Barić</description>
     <pubDate>Wed, 24 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/10/20240124-kronika-dana-34904669-20240124214031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.01. 2024-01-23</title>
-    <link>https://api.hrt.hr/media/d0/98/20240123-kronika-dana-34901036-20240123214028.mp3</link>
-    <description>Drugi dan bijeloga štrajka Udruga sudaca tvrdi da mu se odazvalo 90 posto sudaca. Turski parlament dao dugoočekivano odobrenje za članstvo Švedske u NATO-u. Lani u Europi trideset puta više slučajeva ospica nego godinu prije. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 23 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/98/20240123-kronika-dana-34901036-20240123214028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
