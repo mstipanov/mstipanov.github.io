@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Jan 2024 06:56:51 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 06:33:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Premijer Andrej Plenković i Vladino Povjerenstvo za utvrđivanje prijedloga kandidata za glavnoga državnog odvjetnika obavit će razgovore s kandidatima. Treći je dan bijeloga štrajka sudaca i državnih odvjetnika. Sabor sjednicu nastvalja raspravom o rješavanju problematike zaštićenih najmoprimaca. Donald Trump pobijedio je na republikanskim predizborima u New Hampshireu, ali njegova protukandidatkinja Nikki Haley objavila da ostaje u utrci. Urednik: Silvio Šop</description>
     <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/df/20240124-jutarnja-kronika-34901629-20240124063529.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.01. 2024-01-23</title>
-    <link>https://api.hrt.hr/media/82/12/20240123-jutarnja-kronika-34898194-20240123063027.mp3</link>
-    <description>Suci nastavljaju bijeli štrajk. Od Vlade traže donošenje zakona o plaćama pravosudnih dužnosnika. Obje strane kažu da su otvorene za pregovore, no zasad ni jedna ne popušta.U Sarajevo stigli predsjednica Europske komisije , te nizozemski i hrvatski premijer kako bi potaknuli napredak pristupanja Bosne i Hercegovine Europskoj uniji.U predgrađu Chicaga ubijeno osam osoba, traje potraga za osumnjičenim.Urednica: Mira Barić</description>
-    <pubDate>Tue, 23 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/82/12/20240123-jutarnja-kronika-34898194-20240123063027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
