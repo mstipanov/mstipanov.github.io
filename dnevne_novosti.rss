@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 27 Jan 2024 15:04:58 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 15:08:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.01. 2024-01-28</title>
+    <link>https://api.hrt.hr/media/a7/41/20240128-dnevne-novosti-34916394-20240128143550.mp3</link>
+    <description>Liječnici počeli pripreme za štrajk, još ne otkrivaju kada će biti. Korupcija i šverc oružja u ukrajinskom Ministarstvu obrane. Šteta se procjenjuje na 40 milijuna dolara. UN poziva zemlje donatore da nastave financirati Agenciju za palestinske izbjeglice, nakon izraelskih optužbi da je 12 zaposlenika Agencije sudjelovalo u Hamasovu napadu na Izrael. Talijan Jannik Sinner u Melbourneu osvojio svoj prvi teniski Grand Slam. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 28 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/41/20240128-dnevne-novosti-34916394-20240128143550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.01. 2024-01-27</title>
     <link>https://api.hrt.hr/media/e1/96/20240127-dnevne-novosti-34913943-20240127144037.mp3</link>
     <description>Sjedinjene Države i Velika Britanija, kao osvetu za napade hutista na brodove, raketirale glavni jemenski terminal za izvoz nafte. Međunarodni je dan sjećanja na žrtve holokausta. Ususret parlamentarnim izborima stranka Možemo! predstavila viziju Hrvatske i stranačke prioritete. Splitsko-dalmatinska županija prva u Hrvatskoj funkcionalno decentralizirana. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Za glavnog državnog odvjetnika Vlada će Saboru predložiti Ivana Turudića. Ministar Piletić predstavio uredbe o koeficijentima plaća za državne i javne službe - većina sindikata već ih ocijenila neprihvatljivima.Opća osuda izjave predsjednika Vrhovnog suda Radovana Dobronića vezane za slučaj Severine i skrbništva nad njezinim djetetom. Zvonimir Boban napustio UEFU - krovnu europsku nogometnu organizaciju. Urednica: Mira Barić</description>
     <pubDate>Thu, 25 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/fa/20240125-dnevne-novosti-34907267-20240125144032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.01. 2024-01-24</title>
-    <link>https://api.hrt.hr/media/ca/c6/20240124-dnevne-novosti-34903825-20240124145530.mp3</link>
-    <description>Vladino povjerenstvo obavilo je razgovore s četvoricom kandidata za novog glavnog državnog odvjetnika, svoj prijedlog bi trebalo poslati u Sabor. Srušen je ruski zrakoplov u kojem je navodno bilo 65 ukrajinskih ratnih zarobljenika, tko ga je srušio - još se ne zna. U 72. godini umro legendarni zapovjednik bojne Frankopan general Bruno Zorica Zulu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 24 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/c6/20240124-dnevne-novosti-34903825-20240124145530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
