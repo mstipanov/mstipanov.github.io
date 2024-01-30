@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 29 Jan 2024 15:14:23 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 14:48:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.01. 2024-01-30</title>
+    <link>https://api.hrt.hr/media/2a/80/20240130-dnevne-novosti-34923001-20240130144056.mp3</link>
+    <description>Jedna djevojka poginula, dvije ozlijeđene, od kojih jedna teško, u prometnoj nesreći u Lovranu. Sindikati prozivaju Vladu da je odgovorna za loš prijedlog uredbe o koeficijentima plaća za javne službe - resorno ministarstvo odgovara: do donošenja uredbe ima vremena za promjene. Dok Izrael nastavlja ofenzivu u pojasu Gaze, pojačavaju se diplomatski napori za prekid nasilja i oslobođenje više od 130 Hamasovih talaca. Urednica: Mira Barić</description>
+    <pubDate>Tue, 30 Jan 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2a/80/20240130-dnevne-novosti-34923001-20240130144056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.01. 2024-01-29</title>
     <link>https://api.hrt.hr/media/9d/d5/20240129-dnevne-novosti-34919647-20240129144053.mp3</link>
     <description>Ženske udruge upozorile da se nad ženama i djecom provodi institucionalno nasilje zbog dugotrajnih postupaka za skrbništvo. Proiranska skupina Islamski otpor preuzela odgovornost za napad u Jordanu u kojem su ubijeni i ranjeni američki vojnici. Nakon prosvjeda poljoprivrednika u mnogim europskim zemljama, i francuski seljaci zaprijetili opsadom Pariza. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sjedinjene Države i Velika Britanija, kao osvetu za napade hutista na brodove, raketirale glavni jemenski terminal za izvoz nafte. Međunarodni je dan sjećanja na žrtve holokausta. Ususret parlamentarnim izborima stranka Možemo! predstavila viziju Hrvatske i stranačke prioritete. Splitsko-dalmatinska županija prva u Hrvatskoj funkcionalno decentralizirana. Urednik: Silvio Šop</description>
     <pubDate>Sat, 27 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e1/96/20240127-dnevne-novosti-34913943-20240127144037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.01. 2024-01-26</title>
-    <link>https://api.hrt.hr/media/9d/9e/20240126-dnevne-novosti-34911370-20240126144034.mp3</link>
-    <description>Sindikati javnih službi nezadovoljni Vladinim prijedlogom Uredbe o koeficijentima, kažu da je koeficijente za obračun plaća odredila samovoljno i štetno za sustav. Međunarodni sud u Hagu nije naredio Izraelu da prekine svoju ofenzivu u Gazi, tražio je da učini sve što je u njegovoj moći da spriječi genocid. Pred nama 19. Noć muzeja, u 134 grada nudi se oko 600 različitih programa. Urednica: Mira Barić</description>
-    <pubDate>Fri, 26 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/9e/20240126-dnevne-novosti-34911370-20240126144034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
