@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 29 Jan 2024 22:15:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 21:50:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.01. 2024-01-30</title>
+    <link>https://api.hrt.hr/media/4b/e3/20240130-kronika-dana-34923860-20240130214057.mp3</link>
+    <description>Vlada u izmjene Kaznenog zakona dodaje odredbu da otkrivanje informacija iz istraga neće biti kazneno djelo ako je u javnom interesu. Sutra u Saboru rasprava o imenovanju Ivana Turudića za glavnoga državnog odvjetnika. Kaže da ga predsjednik Milanović kritizira otkako je odobrio izručenje Josipa Perkovića Njemačkoj. U teškoj prometnoj nesreći u Lovranu poginula jedna djevojka, a dvije su ozlijeđene. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 30 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/e3/20240130-kronika-dana-34923860-20240130214057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.01. 2024-01-29</title>
     <link>https://api.hrt.hr/media/5c/2a/20240129-kronika-dana-34920607-20240129214054.mp3</link>
     <description>Ministar pravosuđa pozvao suce, čiji je štrajk ušao u drugi tjedan, na razgovor. Premijer Plenković poručuje da ne pristaje na ucjene, te da u ovom mandatu neće biti indeksacije. Odgovornost za napad na američku bazu u Jordanu preuzela proiranska skupina Islamski otpor u Iraku, no vlasti u Teheranu tvrde da ne stoje iza napada.
@@ -32,14 +40,6 @@
     <description>UN otvorio istragu nad nekoliko svojih djelatnika koji su navodno umiješani u napad na Izrael 7. listopada. Obilježen Međunarodni dan sjećanja na žrtve holokausta. Prije 79 godina oslobođen najstrašniji nacistički logor Auschwitz.Istraživanje HR rejting pokazuje da većih pomaka u popularnosti stranaka nema, no raste broj neodlučnih birača. Urednica: Mira Barić</description>
     <pubDate>Sat, 27 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f4/cc/20240127-kronika-dana-34914733-20240127214038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.01. 2024-01-26</title>
-    <link>https://api.hrt.hr/media/02/d3/20240126-kronika-dana-34912381-20240126214035.mp3</link>
-    <description>Predsjednik Milanović i danas objašnjava zašto sudac Turudić ne bi trebao biti glavni državni odvjetnik. U Saboru donesen Zakon o hrvatskom jeziku. Izrael ima pravo na samoobranu, rekao premijer Netanjahu nakon što mu Međunarodni sud u Hagu nije naredio da prekine ofenzivu u Gazi, ali je zatražio da nastoji spriječiti genocid. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 26 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/02/d3/20240126-kronika-dana-34912381-20240126214035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
