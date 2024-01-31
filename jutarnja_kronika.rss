@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Jan 2024 06:46:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 06:51:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 31.01. 2024-01-31</title>
+    <link>https://api.hrt.hr/media/c5/fb/20240131-jutarnja-kronika-34924451-20240131063557.mp3</link>
+    <description>U Saboru rasprava o imenovanju Ivana Turudića za glavnoga državnog odvjetnika. Vlada u izmjene Kaznenog zakona dodaje odredbu da otkrivanje informacija iz istraga neće biti kazneno djelo ako je u javnom interesu. Hrvatsko novinarsko društvo ne odustaje od današnjeg prosvjeda. Dramatična akcija izraelskih specijalaca - prerušeni u medicinsko osoblje i muslimanke, ušli u bolnicu na Zapadnoj obali i ubili trojicu palestinskih militanata. U Zadru počinje 9. međunarodni festival gastronomije i turizma - Adriatic Gastro Show. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/fb/20240131-jutarnja-kronika-34924451-20240131063557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.01. 2024-01-30</title>
     <link>https://api.hrt.hr/media/d7/67/20240130-jutarnja-kronika-34921132-20240130063056.mp3</link>
     <description>Ministar pravosuđa pozvao suce, koji su drugi tjedan u bijelom štrajku, na razgovor preksutra. Premijer Andrej Plenković poručio da ne pristaje na ucjene i da u ovome mandatu njegove Vlade neće biti indeksacije. Od ponoći su skuplji i benzin i dizel. Odgovornost za napad na američku bazu u Jordanu preuzela proiranska skupina Islamski otpor u Iraku. S ciljem smirivanja napetosti, u Oman dolazi britanski ministar vanjskih poslova David Cameron. Dodjelom nagrada završit će 58. Zagrebački salon primijenjene umjetnosti i dizajna. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Istraživanje HR rejting - većih pomaka u popularnosti stranaka nema, no raste broj neodlučnih birača. Od preksutra skuplje gorivo. Ujedinjeni narodi otvorili istragu nad nekoliko svojih djelatnika koji su navodno umiješani u napad na Izrael 7. listopada prošle godine. Kazališta diljem svijeta ovaj vikend obilježavaju Small Size Days - predstave posvećene najmlađim gledateljima, onima koji još ni ne hodaju. Urednik: Silvio Šop</description>
     <pubDate>Sun, 28 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/23/a7/20240128-jutarnja-kronika-34915437-20240128063050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.01. 2024-01-27</title>
-    <link>https://api.hrt.hr/media/c1/c3/20240127-jutarnja-kronika-34912921-20240127063536.mp3</link>
-    <description>Međunarodni je dan sjećanja na žrtve holokausta. Njemački kancelar Scholz zabrinut zbog porasta ekstremne desnice u njegovoj zemlji. Naftni tanker u plamenu nakon napada hutista. Još jedna uspješna Noć muzeja. Muzeje posjetilo više od 125 tisuća ljudi. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 27 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c1/c3/20240127-jutarnja-kronika-34912921-20240127063536.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
