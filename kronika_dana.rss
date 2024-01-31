@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Jan 2024 21:50:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 21:53:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.01. 2024-01-31</title>
+    <link>https://api.hrt.hr/media/fd/67/20240131-kronika-dana-34927523-20240131214058.mp3</link>
+    <description>U Saboru cijeli dan burna rasprava o Vladinu prijedlogu da se za glavnoga državnog odvjetnika imenuje Ivan Turudić.Vlasniku psa koji je u Zadru nasmrt izgrizao 82-godišnju ženu prijeti do 8 godina zatvora.Prosvjedi poljoprivrednika iz Francuske proširili se od Njemačke do Grčke. Dio njih stigao u Brisel kako bi napravili pritisak na čelnike Europske unije.Urednica: Mira Barić</description>
+    <pubDate>Wed, 31 Jan 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/67/20240131-kronika-dana-34927523-20240131214058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.01. 2024-01-30</title>
     <link>https://api.hrt.hr/media/4b/e3/20240130-kronika-dana-34923860-20240130214057.mp3</link>
     <description>Vlada u izmjene Kaznenog zakona dodaje odredbu da otkrivanje informacija iz istraga neće biti kazneno djelo ako je u javnom interesu. Sutra u Saboru rasprava o imenovanju Ivana Turudića za glavnoga državnog odvjetnika. Kaže da ga predsjednik Milanović kritizira otkako je odobrio izručenje Josipa Perkovića Njemačkoj. U teškoj prometnoj nesreći u Lovranu poginula jedna djevojka, a dvije su ozlijeđene. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
     <description>Pojačavaju se sukobi na Bliskom istoku - tri američka vojnika ubijena, više od 30 ranjeno u napadu bespilotnom letjelicom na američku bazu u Jordanu. Predsjednik Biden za napad optužio proiranske skupine. Štrajk u pravosuđu ulazi u drugi tjedan. Prema HRejtingu, 65 % ispitanika ga ne podupire. Na prepunom Poljudu Rijeka pobijedila Hajduk 2 : 1 i preuzela vrh ljestvice. Urednica: Mira Barić</description>
     <pubDate>Sun, 28 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6f/d5/20240128-kronika-dana-34917152-20240128214051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.01. 2024-01-27</title>
-    <link>https://api.hrt.hr/media/f4/cc/20240127-kronika-dana-34914733-20240127214038.mp3</link>
-    <description>UN otvorio istragu nad nekoliko svojih djelatnika koji su navodno umiješani u napad na Izrael 7. listopada. Obilježen Međunarodni dan sjećanja na žrtve holokausta. Prije 79 godina oslobođen najstrašniji nacistički logor Auschwitz.Istraživanje HR rejting pokazuje da većih pomaka u popularnosti stranaka nema, no raste broj neodlučnih birača. Urednica: Mira Barić</description>
-    <pubDate>Sat, 27 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f4/cc/20240127-kronika-dana-34914733-20240127214038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
