@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 31 Jan 2024 15:22:38 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 14:56:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.02. 2024-02-01</title>
+    <link>https://api.hrt.hr/media/b1/5e/20240201-dnevne-novosti-34930111-20240201143601.mp3</link>
+    <description>Postignut dogovor svih 27 članica Europske unije o paketu pomoći Ukrajini od 50 milijardi eura. Ministar pravosuđa Malenica održao sastanak s predstavnicima Udruge hrvatskih sudaca; oni će se obratiti javnosti u 17 sati. Prema prvoj procjeni Državnog zavoda za statistiku, inflacija u siječnju bila je na godišnjoj razini 4,1 posto, a u odnosu prema prosincu 2023. cijene su niže za pola posto. U Hrvatskoj prošle godine rođeno najmanje djece otkako se vodi statistika. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 01 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b1/5e/20240201-dnevne-novosti-34930111-20240201143601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.01. 2024-01-31</title>
     <link>https://api.hrt.hr/media/6c/38/20240131-dnevne-novosti-34926471-20240131144058.mp3</link>
     <description>Sabor raspravlja o imenovanju Ivana Turudića glavnim državnim odvjetnikom. Nagađa se da bi poljoprivredne tvrtke iz sastava Fortenove mogle kupiti Podravka ili srbijanski Delta Holding. Tragičan slučaj u Zadru - 82-godišnju ženu nasmrt izgrizao pas. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ženske udruge upozorile da se nad ženama i djecom provodi institucionalno nasilje zbog dugotrajnih postupaka za skrbništvo. Proiranska skupina Islamski otpor preuzela odgovornost za napad u Jordanu u kojem su ubijeni i ranjeni američki vojnici. Nakon prosvjeda poljoprivrednika u mnogim europskim zemljama, i francuski seljaci zaprijetili opsadom Pariza. Urednica: Sanja Cota</description>
     <pubDate>Mon, 29 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9d/d5/20240129-dnevne-novosti-34919647-20240129144053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.01. 2024-01-28</title>
-    <link>https://api.hrt.hr/media/a7/41/20240128-dnevne-novosti-34916394-20240128143550.mp3</link>
-    <description>Liječnici počeli pripreme za štrajk, još ne otkrivaju kada će biti. Korupcija i šverc oružja u ukrajinskom Ministarstvu obrane. Šteta se procjenjuje na 40 milijuna dolara. UN poziva zemlje donatore da nastave financirati Agenciju za palestinske izbjeglice, nakon izraelskih optužbi da je 12 zaposlenika Agencije sudjelovalo u Hamasovu napadu na Izrael. Talijan Jannik Sinner u Melbourneu osvojio svoj prvi teniski Grand Slam. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 28 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a7/41/20240128-dnevne-novosti-34916394-20240128143550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
