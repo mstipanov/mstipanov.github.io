@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 Jan 2024 17:24:50 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 16:56:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>BUNKERMAN ZA EMITIRANJE 2024-02-01</title>
+    <link>https://api.hrt.hr/media/1c/df/20240201-historia-histriae-8032438-20240201160104.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 01 Feb 2024 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/df/20240201-historia-histriae-8032438-20240201160104.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Piramide za emitiranje 25.1. 2024-01-25</title>
     <link>https://api.hrt.hr/media/09/63/20240125-historia-histriae-8030239-20240125162032.mp3</link>
     <description>Pričamo o piramidalnim strukturama duž cijelog priobalja južne Istre. Čemu su služile, tko ih je izgradio i kada? Saznajte u novom izdanju emisije. </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi prof.dr.sc. Klara Buršić Matijašić, a pričamo o srednjovjekovnom groblju na pulskom brdu Sv. Mihovila. </description>
     <pubDate>Thu, 30 Nov 2023 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c6/8f/20231130-historia-histriae-8011465-20231130162022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Josip Banić 2023-11-23</title>
-    <link>https://api.hrt.hr/media/4d/af/20231123-historia-histriae-8009002-20231123181100.mp3</link>
-    <description>U goste nam dolazi povjesničar Josip Banić, a pričamo o Bujskom statutu iz 1427. godine </description>
-    <pubDate>Thu, 23 Nov 2023 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4d/af/20231123-historia-histriae-8009002-20231123181100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
