@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Feb 2024 06:55:08 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:02:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.02. 2024-02-02</title>
+    <link>https://api.hrt.hr/media/16/56/20240202-jutarnja-kronika-34931686-20240202063503.mp3</link>
+    <description>Suci danas prekidaju bijeli štrajk, državni odvjetnici još nisu objavili svoju odluku o tome. Razgovori se nastavljaju. Europska unija postigla dogovor o novom paketu pomoći Ukrajini. Ukrajinski predsjednik Zelenski ustvrdio kako je to "jasan signal" i Rusiji i SAD-u, gdje je paket pomoći toj zemlji zakočen u Kongresu. Na riječkom Sušaku otvara se bolnica za ženu i dijete, najveća investicija hrvatskog zdravstva vrijedna 158 milijuna eura. U Dubrovniku počinje 1052. Festa svetoga Vlaha. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 02 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/56/20240202-jutarnja-kronika-34931686-20240202063503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.02. 2024-02-01</title>
     <link>https://api.hrt.hr/media/00/f1/20240201-jutarnja-kronika-34928062-20240201064600.mp3</link>
     <description>U Ministarstvu pravosuđa sastanak sa sucima. Hoće li završiti bijeli štrajk? Sastanak na vrhu Europske unije - želi se potvrditi odlučnost u pomaganju Ukrajini. U Briselu se očekuju i prosvjedi poljoprivrednika. Čak 190 djelatnika UN-ove agencije za palestinske izbjeglice služilo u redovima Hamasa. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ministar pravosuđa pozvao suce, koji su drugi tjedan u bijelom štrajku, na razgovor preksutra. Premijer Andrej Plenković poručio da ne pristaje na ucjene i da u ovome mandatu njegove Vlade neće biti indeksacije. Od ponoći su skuplji i benzin i dizel. Odgovornost za napad na američku bazu u Jordanu preuzela proiranska skupina Islamski otpor u Iraku. S ciljem smirivanja napetosti, u Oman dolazi britanski ministar vanjskih poslova David Cameron. Dodjelom nagrada završit će 58. Zagrebački salon primijenjene umjetnosti i dizajna. Urednik: Silvio Šop</description>
     <pubDate>Tue, 30 Jan 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/67/20240130-jutarnja-kronika-34921132-20240130063056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.01. 2024-01-29</title>
-    <link>https://api.hrt.hr/media/09/15/20240129-jutarnja-kronika-34917813-20240129064053.mp3</link>
-    <description>Bijeli štrajk sudaca ulazi u drugi tjedan. I liječnici najavljuju štrajk i optužuju Vladu da ih objavom netočnih podataka o plaćama u javnosti prikazuje pohlepnima. Danas u Ministarstvu zdravstva potpisivanje ugovora o nabavi 21 linearnog akceleratora. Nakon Njemačke, i u Francuskoj poljoprivrednici prijete traktorskim kolonama i paralizom prometa. Očekuje se vojni odgovor nakon što su tri američka vojnika ubijena, a više od 30 ih je ranjeno u napadu bespilotnom letjelicom na bazu u Jordanu. Urednik: MISLAV TOGONAL</description>
-    <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/09/15/20240129-jutarnja-kronika-34917813-20240129064053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
