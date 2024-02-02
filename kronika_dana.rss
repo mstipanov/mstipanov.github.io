@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Feb 2024 21:58:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 22:05:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.02. 2024-02-02</title>
+    <link>https://api.hrt.hr/media/de/70/20240202-kronika-dana-34935030-20240202214004.mp3</link>
+    <description>Predsjednik Milanović tvrdi da ima dokaze o sigurnosnim zaprekama zbog kojih Ivan Turudić ne smije biti na čelu DORH-a. Ništa nije sporno - odgovara premijer Plenković. Nezadovoljni prijedlogom Uredbe o koeficijentima, dva sindikata iz znanosti i obrazovanja najavila prosvjed sljedeći petak. Izrael planira pojačati napade na jug pojasa Gaze, dosad poginulo više od 27 tisuća ljudi. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 02 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/70/20240202-kronika-dana-34935030-20240202214004.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.02. 2024-02-01</title>
     <link>https://api.hrt.hr/media/34/9d/20240201-kronika-dana-34931153-20240201214601.mp3</link>
     <description>Suci prekidaju bijeli štrajk. Razgovori se nastavljaju. Europska unije postigla dogovor o novom paketu pomoći Ukrajini. Inflacija u blagom padu, no uz Estoniju Hrvatska bilježi najveći rast potrošačkih cijena. Urednik: Grgo Mrvica</description>
@@ -31,15 +39,6 @@
     <description>Vlada u izmjene Kaznenog zakona dodaje odredbu da otkrivanje informacija iz istraga neće biti kazneno djelo ako je u javnom interesu. Sutra u Saboru rasprava o imenovanju Ivana Turudića za glavnoga državnog odvjetnika. Kaže da ga predsjednik Milanović kritizira otkako je odobrio izručenje Josipa Perkovića Njemačkoj. U teškoj prometnoj nesreći u Lovranu poginula jedna djevojka, a dvije su ozlijeđene. Urednica: Sanja Cota</description>
     <pubDate>Tue, 30 Jan 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4b/e3/20240130-kronika-dana-34923860-20240130214057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.01. 2024-01-29</title>
-    <link>https://api.hrt.hr/media/5c/2a/20240129-kronika-dana-34920607-20240129214054.mp3</link>
-    <description>Ministar pravosuđa pozvao suce, čiji je štrajk ušao u drugi tjedan, na razgovor. Premijer Plenković poručuje da ne pristaje na ucjene, te da u ovom mandatu neće biti indeksacije. Odgovornost za napad na američku bazu u Jordanu preuzela proiranska skupina Islamski otpor u Iraku, no vlasti u Teheranu tvrde da ne stoje iza napada.
-Čak 75 i pol posto ispitanih podržava uvođenje vojne obuke u Hrvatskoj - pokazuje HRejting. Urednica: Mira Barić</description>
-    <pubDate>Mon, 29 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/2a/20240129-kronika-dana-34920607-20240129214054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
