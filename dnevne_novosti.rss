@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 Feb 2024 15:03:32 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 14:37:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sabor raspravlja o imenovanju Ivana Turudića glavnim državnim odvjetnikom. Nagađa se da bi poljoprivredne tvrtke iz sastava Fortenove mogle kupiti Podravka ili srbijanski Delta Holding. Tragičan slučaj u Zadru - 82-godišnju ženu nasmrt izgrizao pas. Urednica: Sanja Cota</description>
     <pubDate>Wed, 31 Jan 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6c/38/20240131-dnevne-novosti-34926471-20240131144058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.01. 2024-01-30</title>
-    <link>https://api.hrt.hr/media/2a/80/20240130-dnevne-novosti-34923001-20240130144056.mp3</link>
-    <description>Jedna djevojka poginula, dvije ozlijeđene, od kojih jedna teško, u prometnoj nesreći u Lovranu. Sindikati prozivaju Vladu da je odgovorna za loš prijedlog uredbe o koeficijentima plaća za javne službe - resorno ministarstvo odgovara: do donošenja uredbe ima vremena za promjene. Dok Izrael nastavlja ofenzivu u pojasu Gaze, pojačavaju se diplomatski napori za prekid nasilja i oslobođenje više od 130 Hamasovih talaca. Urednica: Mira Barić</description>
-    <pubDate>Tue, 30 Jan 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/80/20240130-dnevne-novosti-34923001-20240130144056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
