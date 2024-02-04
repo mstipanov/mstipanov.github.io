@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 03 Feb 2024 06:36:27 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 06:40:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -23,14 +23,6 @@
     <description>U Ministarstvu pravosuđa sastanak sa sucima. Hoće li završiti bijeli štrajk? Sastanak na vrhu Europske unije - želi se potvrditi odlučnost u pomaganju Ukrajini. U Briselu se očekuju i prosvjedi poljoprivrednika. Čak 190 djelatnika UN-ove agencije za palestinske izbjeglice služilo u redovima Hamasa. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/00/f1/20240201-jutarnja-kronika-34928062-20240201064600.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 31.01. 2024-01-31</title>
-    <link>https://api.hrt.hr/media/c5/fb/20240131-jutarnja-kronika-34924451-20240131063557.mp3</link>
-    <description>U Saboru rasprava o imenovanju Ivana Turudića za glavnoga državnog odvjetnika. Vlada u izmjene Kaznenog zakona dodaje odredbu da otkrivanje informacija iz istraga neće biti kazneno djelo ako je u javnom interesu. Hrvatsko novinarsko društvo ne odustaje od današnjeg prosvjeda. Dramatična akcija izraelskih specijalaca - prerušeni u medicinsko osoblje i muslimanke, ušli u bolnicu na Zapadnoj obali i ubili trojicu palestinskih militanata. U Zadru počinje 9. međunarodni festival gastronomije i turizma - Adriatic Gastro Show. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/fb/20240131-jutarnja-kronika-34924451-20240131063557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
