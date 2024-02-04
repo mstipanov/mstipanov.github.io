@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 03 Feb 2024 22:08:47 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 21:42:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.02. 2024-02-04</title>
+    <link>https://api.hrt.hr/media/9a/61/20240204-kronika-dana-34939503-20240204214012.mp3</link>
+    <description>Ne prestaju reakcije na poruke koje je Ivan Turudić razmjenjivao s bivšom državnom tajnicom Josipom Rimac. On večeras kaže da je i dalje kandidat za glavnog državnog odvjetnika. Novi napadi SAD-a i Velike Britanije na ciljeve hutista u Jemenu. Prvi put napadnut je dio glavnoga grada, Sane. U šumskim požarima u središnjem i južnom Čileu najmanje 64 osobe poginule, a više od 200 smatra se nestalima. Urednica Mira Barić</description>
+    <pubDate>Sun, 04 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9a/61/20240204-kronika-dana-34939503-20240204214012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.02. 2024-02-03</title>
     <link>https://api.hrt.hr/media/7b/db/20240203-kronika-dana-34937305-20240203214007.mp3</link>
     <description>Ivan Turudić se kao sudac sastajao sa Zdravkom Mamićem koji je bio pod istragom, tvrdi predsjednik Milanović koji je uoči imenovanja glavnoga državnog odvjetnika sazvao izvanrednu konferenciju za novinare. Zbog ubojstva američkih vojnika u Jordanu Amerika uzvratila napadom na ciljeve u Iraku i Siriji. Gotovo 200 tisuća ljudi diljem Njemačke prosvjedovalo protiv stranke Alternativa za Njemačku. Urednica: SANJA COTA</description>
@@ -31,14 +39,6 @@
     <description>Suci prekidaju bijeli štrajk. Razgovori se nastavljaju. Europska unije postigla dogovor o novom paketu pomoći Ukrajini. Inflacija u blagom padu, no uz Estoniju Hrvatska bilježi najveći rast potrošačkih cijena. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 01 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/34/9d/20240201-kronika-dana-34931153-20240201214601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.01. 2024-01-31</title>
-    <link>https://api.hrt.hr/media/fd/67/20240131-kronika-dana-34927523-20240131214058.mp3</link>
-    <description>U Saboru cijeli dan burna rasprava o Vladinu prijedlogu da se za glavnoga državnog odvjetnika imenuje Ivan Turudić.Vlasniku psa koji je u Zadru nasmrt izgrizao 82-godišnju ženu prijeti do 8 godina zatvora.Prosvjedi poljoprivrednika iz Francuske proširili se od Njemačke do Grčke. Dio njih stigao u Brisel kako bi napravili pritisak na čelnike Europske unije.Urednica: Mira Barić</description>
-    <pubDate>Wed, 31 Jan 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fd/67/20240131-kronika-dana-34927523-20240131214058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
