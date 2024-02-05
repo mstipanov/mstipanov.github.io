@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 04 Feb 2024 15:11:18 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 14:44:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.02. 2024-02-05</title>
+    <link>https://api.hrt.hr/media/0c/75/20240205-dnevne-novosti-34941879-20240205143514.mp3</link>
+    <description>Predsjednik Milanović predložio je premijeru Plenkoviću da se sazove sjednica Vijeća za nacionalnu sigurnost. Umjesto glasovanja o glavnom državnom odvjetniku, oporba traži raspuštanje Sabora i rapisivanje izbora. Poslijepodne sjednica Predsjedništva HDZ-a na kojoj bi se mogla doznati sudbina Ivana Turudića. Raste broj poginulih u šumskim požarima u središnjem Čileu. Dosad najmanje 130 mrtvih te stotine nestalih. : Mira Barić</description>
+    <pubDate>Mon, 05 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0c/75/20240205-dnevne-novosti-34941879-20240205143514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.02. 2024-02-04</title>
     <link>https://api.hrt.hr/media/8a/69/20240204-dnevne-novosti-34938807-20240204144012.mp3</link>
     <description>Nakon što su objavljene SMS-poruke Josipe Rimac i Ivana Turudića, oporba ustraje da on ne može biti glavni državni odvjetnik. Turudić uzvraća da nije očekivao toliko snažnu mržnju i negativne reakcije. Britanske i američke zračne snage napale ciljeve hutista u Jemenu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nezadovoljni prijedlogom Uredbe o koeficijentima školski sindikati najavili prosvjed idući petak. Suci od ponedjeljka normalno rade. Predsjednik Milanoviću o Turudiću kao kandidatu za glavnoga državnog odvjetnika kaže: Znam neke stvari. U Rijeci otvorena nova bolnica za ženu i dijete na Sušaku, najveća investicija u hrvatskom zdravstvu. U Dubrovniku počinje 1052-a Festa svetoga Vlaha. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 02 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/92/54/20240202-dnevne-novosti-34933958-20240202144003.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.02. 2024-02-01</title>
-    <link>https://api.hrt.hr/media/b1/5e/20240201-dnevne-novosti-34930111-20240201143601.mp3</link>
-    <description>Postignut dogovor svih 27 članica Europske unije o paketu pomoći Ukrajini od 50 milijardi eura. Ministar pravosuđa Malenica održao sastanak s predstavnicima Udruge hrvatskih sudaca; oni će se obratiti javnosti u 17 sati. Prema prvoj procjeni Državnog zavoda za statistiku, inflacija u siječnju bila je na godišnjoj razini 4,1 posto, a u odnosu prema prosincu 2023. cijene su niže za pola posto. U Hrvatskoj prošle godine rođeno najmanje djece otkako se vodi statistika. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 01 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b1/5e/20240201-dnevne-novosti-34930111-20240201143601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
