@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 Feb 2024 21:46:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 21:50:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.02. 2024-02-06</title>
+    <link>https://api.hrt.hr/media/9f/03/20240206-kronika-dana-34946306-20240206214018.mp3</link>
+    <description>Parlamentarna većina sutra će potvrditi Ivana Turudića za glavnog državnog odvjetnika. Upozorenje premijera Plenkovića DORH-u da se ne petlja u rad Vlade, u oporbi shvaćeno kao prijetnja. Ustavni sud odlučio da su zakoni vezani za rad nedjeljom i izborne jedinice u skladu s Ustavom. Donald Trump nema predsjednički imunitet i može ga se kazneno goniti zbog uloge u napadu na Kongres, odluka je suda u Washingtonu. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 06 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9f/03/20240206-kronika-dana-34946306-20240206214018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.02. 2024-02-05</title>
     <link>https://api.hrt.hr/media/df/c5/20240205-kronika-dana-34942809-20240205213515.mp3</link>
     <description>Bez obzira na sve, Ivan Turudić ostaje kandidat HDZ-a za glavnoga državnog odvjetnika, potvrdio premijer i predsjednik stranke Andrej Plenković. Predsjednik Zoran Milanović predložio premijeru sazivanje sjednice Vijeća za nacionalnu sigurnost, Plenković odgovorio da za to nema razloga. Ustavni sud sutra bi trebao odlučiti o ustavnosti Zakona o trgovini, koji određuje da trgovine mogu raditi 16 nedjelja u godini, a praznicima i blagdanima su zatvorene. Britanskom kralju Charlesu III. dijagnosticiran rak. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Ivan Turudić se kao sudac sastajao sa Zdravkom Mamićem koji je bio pod istragom, tvrdi predsjednik Milanović koji je uoči imenovanja glavnoga državnog odvjetnika sazvao izvanrednu konferenciju za novinare. Zbog ubojstva američkih vojnika u Jordanu Amerika uzvratila napadom na ciljeve u Iraku i Siriji. Gotovo 200 tisuća ljudi diljem Njemačke prosvjedovalo protiv stranke Alternativa za Njemačku. Urednica: SANJA COTA</description>
     <pubDate>Sat, 03 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/db/20240203-kronika-dana-34937305-20240203214007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.02. 2024-02-02</title>
-    <link>https://api.hrt.hr/media/de/70/20240202-kronika-dana-34935030-20240202214004.mp3</link>
-    <description>Predsjednik Milanović tvrdi da ima dokaze o sigurnosnim zaprekama zbog kojih Ivan Turudić ne smije biti na čelu DORH-a. Ništa nije sporno - odgovara premijer Plenković. Nezadovoljni prijedlogom Uredbe o koeficijentima, dva sindikata iz znanosti i obrazovanja najavila prosvjed sljedeći petak. Izrael planira pojačati napade na jug pojasa Gaze, dosad poginulo više od 27 tisuća ljudi. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 02 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/70/20240202-kronika-dana-34935030-20240202214004.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
