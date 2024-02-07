@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Feb 2024 06:47:23 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 06:51:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.02. 2024-02-07</title>
+    <link>https://api.hrt.hr/media/b6/50/20240207-jutarnja-kronika-34946840-20240207063519.mp3</link>
+    <description>Posve je jasno da će na današnjem glasovanju u Saboru parlamentarna većina potvrditi Ivana Turudića za glavnog državnog odvjetnika. Ustavni sud neće razmatrati ustavnost zakona o radu nedjeljom, što znači da on ostaje na snazi. Vijeće sigurnosti UN-a, na zahtjev Srbije, sutra će održati sjednicu o stanju na Kosovu.	U Zagrebu sinoć premijerno prikazan film Igora Mirkovića "Slatka Simona". Urednik: Silvio Šop</description>
+    <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/50/20240207-jutarnja-kronika-34946840-20240207063519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.02. 2024-02-06</title>
     <link>https://api.hrt.hr/media/f1/b2/20240206-jutarnja-kronika-34943439-20240206063516.mp3</link>
     <description>Premijer Plenković nije odustao od Turudića kao kandidata za glavnog državnog odvjetnika. Sutra glasovanje u Saboru. Ustavni sud danas odlučuje o ustavnosti Zakona o trgovini i Zakonu o izbornim jedinicama. Britanskom kralju Charlesu III. dijagnosticiran rak.	Godina dana od katastrofalnog potresa koji je pogodio Tursku i Siriju. Urednica: Mira Barić</description>
