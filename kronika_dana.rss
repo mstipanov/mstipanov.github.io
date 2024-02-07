@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Feb 2024 21:50:21 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 21:55:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.02. 2024-02-07</title>
+    <link>https://api.hrt.hr/media/c5/e9/20240207-kronika-dana-34949650-20240207213520.mp3</link>
+    <description>Ivan Turudić novi je glavni državni odvjetnik. U Saboru dobio 78 glasova. Izraelski premijer Benjamin Netanyahu odbio prijedlog o prekidu vatre, kaže da su blizu pobjede. Španjolski poljoprivrednici i dalje blokiraju autoceste i prilaze lukama. Iz Hrvatske poljoprivredne komore najavljuju da će se pridružiti europskim kolegama. Urednica: Mira Barić</description>
+    <pubDate>Wed, 07 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/e9/20240207-kronika-dana-34949650-20240207213520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.02. 2024-02-06</title>
     <link>https://api.hrt.hr/media/9f/03/20240206-kronika-dana-34946306-20240206214018.mp3</link>
     <description>Parlamentarna većina sutra će potvrditi Ivana Turudića za glavnog državnog odvjetnika. Upozorenje premijera Plenkovića DORH-u da se ne petlja u rad Vlade, u oporbi shvaćeno kao prijetnja. Ustavni sud odlučio da su zakoni vezani za rad nedjeljom i izborne jedinice u skladu s Ustavom. Donald Trump nema predsjednički imunitet i može ga se kazneno goniti zbog uloge u napadu na Kongres, odluka je suda u Washingtonu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ne prestaju reakcije na poruke koje je Ivan Turudić razmjenjivao s bivšom državnom tajnicom Josipom Rimac. On večeras kaže da je i dalje kandidat za glavnog državnog odvjetnika. Novi napadi SAD-a i Velike Britanije na ciljeve hutista u Jemenu. Prvi put napadnut je dio glavnoga grada, Sane. U šumskim požarima u središnjem i južnom Čileu najmanje 64 osobe poginule, a više od 200 smatra se nestalima. Urednica Mira Barić</description>
     <pubDate>Sun, 04 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9a/61/20240204-kronika-dana-34939503-20240204214012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.02. 2024-02-03</title>
-    <link>https://api.hrt.hr/media/7b/db/20240203-kronika-dana-34937305-20240203214007.mp3</link>
-    <description>Ivan Turudić se kao sudac sastajao sa Zdravkom Mamićem koji je bio pod istragom, tvrdi predsjednik Milanović koji je uoči imenovanja glavnoga državnog odvjetnika sazvao izvanrednu konferenciju za novinare. Zbog ubojstva američkih vojnika u Jordanu Amerika uzvratila napadom na ciljeve u Iraku i Siriji. Gotovo 200 tisuća ljudi diljem Njemačke prosvjedovalo protiv stranke Alternativa za Njemačku. Urednica: SANJA COTA</description>
-    <pubDate>Sat, 03 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7b/db/20240203-kronika-dana-34937305-20240203214007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
