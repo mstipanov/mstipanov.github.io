@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Feb 2024 15:19:18 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 14:53:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.02. 2024-02-07</title>
+    <link>https://api.hrt.hr/media/a4/04/20240207-dnevne-novosti-34948662-20240207144020.mp3</link>
+    <description>Hrvatski sabor izabrao je Ivana Turudića za glavnog državnog odvjetnika. Predsjednik Milanović Turudića nazvao `probisvijetom`. Kamion u Mirkovcima probio zid obiteljske kuće i u dječjoj sobi, srećom, lakše ozlijedio djevojčicu koja je spavala. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 07 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/04/20240207-dnevne-novosti-34948662-20240207144020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.02. 2024-02-06</title>
     <link>https://api.hrt.hr/media/33/e4/20240206-dnevne-novosti-34945363-20240206144017.mp3</link>
     <description>Nakon što je tri puta rušio zakon koji se odnosi na neradnu nedjelju, Ustavni je sud, četvrti put, odbio ocjenu ustavnosti, što znači da zakon ostaje na snazi. Vladajuća koalicija održala sastanak o odluci HDZ-a da podupre kandidaturu Ivana Turudića za glavnoga državnog odvjetnika. Oporba se i dalje snažno protivi Turudićevoj kandidaturi, stranka Možemo najavila cjelonoćno bdjenje na Trgu svetoga Marka. Godinu je dana od razornog potresa u Turskoj i Siriji, gotovo 90 posto stanovništva napustilo je razoreno područje. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon što su objavljene SMS-poruke Josipe Rimac i Ivana Turudića, oporba ustraje da on ne može biti glavni državni odvjetnik. Turudić uzvraća da nije očekivao toliko snažnu mržnju i negativne reakcije. Britanske i američke zračne snage napale ciljeve hutista u Jemenu. Urednica: Sanja Cota</description>
     <pubDate>Sun, 04 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8a/69/20240204-dnevne-novosti-34938807-20240204144012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.02. 2024-02-03</title>
-    <link>https://api.hrt.hr/media/e3/34/20240203-dnevne-novosti-34936492-20240203145006.mp3</link>
-    <description>Predsjednik Milanović optužio Turudića da se, dok je bio predsjednik Županijskog suda, sastajao sa Zdravkom Mamićem. Šesnaest ljudi poginulo u američkom osvetničkom napadu na Irak i Siriju zbog ubojstva američkih vojnika. Dubrovčani slave 1052. Festu svetoga Vlaha. Urednica: Mira Barić</description>
-    <pubDate>Sat, 03 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e3/34/20240203-dnevne-novosti-34936492-20240203145006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
