@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 07 Feb 2024 21:55:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 22:00:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.02. 2024-02-08</title>
+    <link>https://api.hrt.hr/media/1e/8e/20240208-kronika-dana-34953282-20240208214022.mp3</link>
+    <description>Ured predsjednika Milanovića tvrdi da premijer uopće nije zatražio sigurnosnu provjeru Ivana Turudića kao kandidata za glavnog državnog odvjetnika. Vlada uzvraća da ju nije niti mogla tražiti. Oporbena ljevica zbog Turudića najavljuje prosvjed. Ukrajinski predsjednik smijenio Valerija Zalužnog, vrhovnog zapovjednika ukrajinske vojske. U Ligi nacija Hrvatska u skupini s Portugalom, Poljskom i Škotskom. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 08 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1e/8e/20240208-kronika-dana-34953282-20240208214022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.02. 2024-02-07</title>
     <link>https://api.hrt.hr/media/c5/e9/20240207-kronika-dana-34949650-20240207213520.mp3</link>
     <description>Ivan Turudić novi je glavni državni odvjetnik. U Saboru dobio 78 glasova. Izraelski premijer Benjamin Netanyahu odbio prijedlog o prekidu vatre, kaže da su blizu pobjede. Španjolski poljoprivrednici i dalje blokiraju autoceste i prilaze lukama. Iz Hrvatske poljoprivredne komore najavljuju da će se pridružiti europskim kolegama. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Bez obzira na sve, Ivan Turudić ostaje kandidat HDZ-a za glavnoga državnog odvjetnika, potvrdio premijer i predsjednik stranke Andrej Plenković. Predsjednik Zoran Milanović predložio premijeru sazivanje sjednice Vijeća za nacionalnu sigurnost, Plenković odgovorio da za to nema razloga. Ustavni sud sutra bi trebao odlučiti o ustavnosti Zakona o trgovini, koji određuje da trgovine mogu raditi 16 nedjelja u godini, a praznicima i blagdanima su zatvorene. Britanskom kralju Charlesu III. dijagnosticiran rak. Urednik: Silvio Šop</description>
     <pubDate>Mon, 05 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/c5/20240205-kronika-dana-34942809-20240205213515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.02. 2024-02-04</title>
-    <link>https://api.hrt.hr/media/9a/61/20240204-kronika-dana-34939503-20240204214012.mp3</link>
-    <description>Ne prestaju reakcije na poruke koje je Ivan Turudić razmjenjivao s bivšom državnom tajnicom Josipom Rimac. On večeras kaže da je i dalje kandidat za glavnog državnog odvjetnika. Novi napadi SAD-a i Velike Britanije na ciljeve hutista u Jemenu. Prvi put napadnut je dio glavnoga grada, Sane. U šumskim požarima u središnjem i južnom Čileu najmanje 64 osobe poginule, a više od 200 smatra se nestalima. Urednica Mira Barić</description>
-    <pubDate>Sun, 04 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/61/20240204-kronika-dana-34939503-20240204214012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
