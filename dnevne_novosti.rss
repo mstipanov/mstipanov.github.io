@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 07 Feb 2024 14:53:06 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 14:59:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.02. 2024-02-08</title>
+    <link>https://api.hrt.hr/media/42/ed/20240208-dnevne-novosti-34952080-20240208143523.mp3</link>
+    <description>Ne smiruju se reakcije na izbor Ivana Turudića za glavnoga državnog odvjetnika. Oporbene stranke ljevice najavljuju prosvjed, počele razgovore o mogućemu zajedničkom izlasku na izbore. Posljednji je dan za dostavu sindikalnih primjedbi na Vladin prijedlog koeficijenata za zaposlene u državnim i javnim službama. Ruske snage iz svih smjerova snažno napadaju grad Avdiivku, stanje sve teže za ukrajinsku vojsku. Urednica: Mira Barić</description>
+    <pubDate>Thu, 08 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/ed/20240208-dnevne-novosti-34952080-20240208143523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.02. 2024-02-07</title>
     <link>https://api.hrt.hr/media/a4/04/20240207-dnevne-novosti-34948662-20240207144020.mp3</link>
     <description>Hrvatski sabor izabrao je Ivana Turudića za glavnog državnog odvjetnika. Predsjednik Milanović Turudića nazvao `probisvijetom`. Kamion u Mirkovcima probio zid obiteljske kuće i u dječjoj sobi, srećom, lakše ozlijedio djevojčicu koja je spavala. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Milanović predložio je premijeru Plenkoviću da se sazove sjednica Vijeća za nacionalnu sigurnost. Umjesto glasovanja o glavnom državnom odvjetniku, oporba traži raspuštanje Sabora i rapisivanje izbora. Poslijepodne sjednica Predsjedništva HDZ-a na kojoj bi se mogla doznati sudbina Ivana Turudića. Raste broj poginulih u šumskim požarima u središnjem Čileu. Dosad najmanje 130 mrtvih te stotine nestalih. : Mira Barić</description>
     <pubDate>Mon, 05 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0c/75/20240205-dnevne-novosti-34941879-20240205143514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.02. 2024-02-04</title>
-    <link>https://api.hrt.hr/media/8a/69/20240204-dnevne-novosti-34938807-20240204144012.mp3</link>
-    <description>Nakon što su objavljene SMS-poruke Josipe Rimac i Ivana Turudića, oporba ustraje da on ne može biti glavni državni odvjetnik. Turudić uzvraća da nije očekivao toliko snažnu mržnju i negativne reakcije. Britanske i američke zračne snage napale ciljeve hutista u Jemenu. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 04 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8a/69/20240204-dnevne-novosti-34938807-20240204144012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
