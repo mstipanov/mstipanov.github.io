@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 Feb 2024 06:57:29 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 07:01:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.02. 2024-02-09</title>
+    <link>https://api.hrt.hr/media/43/58/20240209-jutarnja-kronika-34954034-20240209063524.mp3</link>
+    <description>Nezadovoljni Vladinim prijedlogom koeficijenata, na zagrebačkome Markovu trgu prosvjedovat će Sindikat znanosti i visokog obrazovanja i Školski sindikat Preporod. Zbog izbora Ivana Turudića za glavnoga državnog odvjetnika lijeva oporba organizira prosvjed na Markovu trgu u subotu, 17-og ovog mjeseca. Zelenski smijenio vrhovnog zapovjednika oružanih snaga. Biden prozvao Izrael zbog pretjerane uporabe sile u pojasu Gaze. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 09 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/43/58/20240209-jutarnja-kronika-34954034-20240209063524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.02. 2024-02-08</title>
     <link>https://api.hrt.hr/media/a8/5b/20240208-jutarnja-kronika-34950171-20240208063521.mp3</link>
     <description>Sa 78 saborskih glasova "za" Ivan Turudić novi je glavni državni odvjetnik. Posljednji je dan za dostavu sindikalnih primjedbi na Vladin prijedlog Uredbi o koeficijentima za zaposlene u državnim i javnim službama. Izraelski premijer Benjamin Netanyahu odbio prijedlog o prekidu vatre u pojasu Gaze, kaže da su blizu pobjede. Prije točno 40 godina otvorene su Zimske olimpijske igre u Sarajevu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković nije odustao od Turudića kao kandidata za glavnog državnog odvjetnika. Sutra glasovanje u Saboru. Ustavni sud danas odlučuje o ustavnosti Zakona o trgovini i Zakonu o izbornim jedinicama. Britanskom kralju Charlesu III. dijagnosticiran rak.	Godina dana od katastrofalnog potresa koji je pogodio Tursku i Siriju. Urednica: Mira Barić</description>
     <pubDate>Tue, 06 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f1/b2/20240206-jutarnja-kronika-34943439-20240206063516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.02. 2024-02-05</title>
-    <link>https://api.hrt.hr/media/21/cf/20240205-jutarnja-kronika-34940013-20240205063513.mp3</link>
-    <description>Danas sastanak Predsjedništva HDZ-a na kojem će se razgovarati o sudbini Turudićeve kandidature za glavnoga državnog odvjetnika. Katastrofa u Čileu. Najmanje stotinu mrtvih i više stotina nestalih u velikim šumskim požarima. Cijene nafte na svjetskim burzama potonule više od 7 posto. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/cf/20240205-jutarnja-kronika-34940013-20240205063513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
