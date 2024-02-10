@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 09 Feb 2024 22:04:15 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 21:38:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Ivan Turudić novi je glavni državni odvjetnik. U Saboru dobio 78 glasova. Izraelski premijer Benjamin Netanyahu odbio prijedlog o prekidu vatre, kaže da su blizu pobjede. Španjolski poljoprivrednici i dalje blokiraju autoceste i prilaze lukama. Iz Hrvatske poljoprivredne komore najavljuju da će se pridružiti europskim kolegama. Urednica: Mira Barić</description>
     <pubDate>Wed, 07 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c5/e9/20240207-kronika-dana-34949650-20240207213520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.02. 2024-02-06</title>
-    <link>https://api.hrt.hr/media/9f/03/20240206-kronika-dana-34946306-20240206214018.mp3</link>
-    <description>Parlamentarna većina sutra će potvrditi Ivana Turudića za glavnog državnog odvjetnika. Upozorenje premijera Plenkovića DORH-u da se ne petlja u rad Vlade, u oporbi shvaćeno kao prijetnja. Ustavni sud odlučio da su zakoni vezani za rad nedjeljom i izborne jedinice u skladu s Ustavom. Donald Trump nema predsjednički imunitet i može ga se kazneno goniti zbog uloge u napadu na Kongres, odluka je suda u Washingtonu. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 06 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9f/03/20240206-kronika-dana-34946306-20240206214018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
