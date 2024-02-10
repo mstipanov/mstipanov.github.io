@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 09 Feb 2024 15:03:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 15:07:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.02. 2024-02-10</title>
+    <link>https://api.hrt.hr/media/4d/72/20240210-dnevne-novosti-34958901-20240210144028.mp3</link>
+    <description>Još se čekaju rezultati istrage o uzrocima pada skele u središtu Zagreba. Hamas upozorava da bi izraelska ofenziva na Rafah mogla imati desetke tisuća žrtava. Hrvatska slavi Stepinčevo, blagdan blaženog Alojzija Stepinca. Narančasto upozorenje za Dalmaciju zbog jakog juga, vjetar bi mogao dosegnuti 100 km na sat. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 10 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/72/20240210-dnevne-novosti-34958901-20240210144028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.02. 2024-02-09</title>
     <link>https://api.hrt.hr/media/5b/34/20240209-dnevne-novosti-34956329-20240209145025.mp3</link>
     <description>Pala građevinska skela u središtu Zagreba, a u Splitu zbog klora evakuirani gosti hotela. Na Markovu trgu veliki prosvjed prosvjetara iz cijele zemlje. Izraelska vojska izvela nove zračne napade na Gazu nakon oštrih kritika američkog predsjednika. Novi uspjeh hrvatske plivačke maratonke Dine Levačić, 19-ta je osoba u svijetu koja je preplivala False Bay u Južnoj Africi. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Hrvatski sabor izabrao je Ivana Turudića za glavnog državnog odvjetnika. Predsjednik Milanović Turudića nazvao `probisvijetom`. Kamion u Mirkovcima probio zid obiteljske kuće i u dječjoj sobi, srećom, lakše ozlijedio djevojčicu koja je spavala. Urednica: Sanja Cota</description>
     <pubDate>Wed, 07 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a4/04/20240207-dnevne-novosti-34948662-20240207144020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.02. 2024-02-06</title>
-    <link>https://api.hrt.hr/media/33/e4/20240206-dnevne-novosti-34945363-20240206144017.mp3</link>
-    <description>Nakon što je tri puta rušio zakon koji se odnosi na neradnu nedjelju, Ustavni je sud, četvrti put, odbio ocjenu ustavnosti, što znači da zakon ostaje na snazi. Vladajuća koalicija održala sastanak o odluci HDZ-a da podupre kandidaturu Ivana Turudića za glavnoga državnog odvjetnika. Oporba se i dalje snažno protivi Turudićevoj kandidaturi, stranka Možemo najavila cjelonoćno bdjenje na Trgu svetoga Marka. Godinu je dana od razornog potresa u Turskoj i Siriji, gotovo 90 posto stanovništva napustilo je razoreno područje. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 06 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/33/e4/20240206-dnevne-novosti-34945363-20240206144017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
