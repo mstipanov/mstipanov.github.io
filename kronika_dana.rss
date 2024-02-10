@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 10 Feb 2024 21:38:38 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 22:08:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.02. 2024-02-10</title>
+    <link>https://api.hrt.hr/media/a3/02/20240210-kronika-dana-34959675-20240210214030.mp3</link>
+    <description>Za iduću subotu oporbene stranke ljevice najavile prosvjed na Trgu svetog Marka. Tražit će raspisivanje parlamentarnih izbora odmah. Još se ne znaju rezultati istrage o uzrocima pada skele u središtu Zagreba. Izraelska vojska tvrdi da je ispod sjedišta UN-ove Agencije za palestinske izbjeglice Hamas imao obavještajni centar. Obilježeno Stepinčevo, blagdan blaženog Alojzija Stepinca. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 10 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a3/02/20240210-kronika-dana-34959675-20240210214030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.02. 2024-02-09</title>
     <link>https://api.hrt.hr/media/99/b6/20240209-kronika-dana-34957446-20240209214026.mp3</link>
     <description>Prosvjedovali prosvjetari nezadovoljni ponuđenim koeficijentima plaća. Nova priopćenja predsjednika Republike i predsjednika Vlade o sigurnosnim provjerama Ivana Turudića. Radio Sljeme dobio Zlatni studio za najbolju radijsku postaju. Urednica: Sanja Cota</description>
