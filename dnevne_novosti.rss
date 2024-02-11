@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 10 Feb 2024 15:07:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 15:11:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.02. 2024-02-11</title>
+    <link>https://api.hrt.hr/media/6d/fa/20240211-dnevne-novosti-34961108-20240211143532.mp3</link>
+    <description>Predsjednik Zoran Milanović u intervjuu za N1 - Ivan Turudić može biti zaustavljen, još nije položio prisegu za glavnog državnog odvjetnika. Predsjednik stranke Centar, splitski gradonačelnik Ivica Puljak, pozvao sugrađane na prosvjed protiv Plenkovića sljedeće subote na Markovu trgu, osiguran je besplatan prijevoz. Egipat je navodno upozorio Hamas da ima dva tjedna za sporazum, a onda Izraelci ulaze u Rafah. Uz Svjetski dan bolesnika Ministarstvo zdravstva najavilo početak novog programa ranog otkrivanja raka prostate. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 11 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6d/fa/20240211-dnevne-novosti-34961108-20240211143532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.02. 2024-02-10</title>
     <link>https://api.hrt.hr/media/4d/72/20240210-dnevne-novosti-34958901-20240210144028.mp3</link>
     <description>Još se čekaju rezultati istrage o uzrocima pada skele u središtu Zagreba. Hamas upozorava da bi izraelska ofenziva na Rafah mogla imati desetke tisuća žrtava. Hrvatska slavi Stepinčevo, blagdan blaženog Alojzija Stepinca. Narančasto upozorenje za Dalmaciju zbog jakog juga, vjetar bi mogao dosegnuti 100 km na sat. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ne smiruju se reakcije na izbor Ivana Turudića za glavnoga državnog odvjetnika. Oporbene stranke ljevice najavljuju prosvjed, počele razgovore o mogućemu zajedničkom izlasku na izbore. Posljednji je dan za dostavu sindikalnih primjedbi na Vladin prijedlog koeficijenata za zaposlene u državnim i javnim službama. Ruske snage iz svih smjerova snažno napadaju grad Avdiivku, stanje sve teže za ukrajinsku vojsku. Urednica: Mira Barić</description>
     <pubDate>Thu, 08 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/ed/20240208-dnevne-novosti-34952080-20240208143523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.02. 2024-02-07</title>
-    <link>https://api.hrt.hr/media/a4/04/20240207-dnevne-novosti-34948662-20240207144020.mp3</link>
-    <description>Hrvatski sabor izabrao je Ivana Turudića za glavnog državnog odvjetnika. Predsjednik Milanović Turudića nazvao `probisvijetom`. Kamion u Mirkovcima probio zid obiteljske kuće i u dječjoj sobi, srećom, lakše ozlijedio djevojčicu koja je spavala. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 07 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/04/20240207-dnevne-novosti-34948662-20240207144020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
