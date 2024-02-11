@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 10 Feb 2024 07:06:04 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 07:10:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.02. 2024-02-11</title>
+    <link>https://api.hrt.hr/media/92/98/20240211-jutarnja-kronika-34960251-20240211063530.mp3</link>
+    <description>Napad Izraela na grad Rafah - 25 mrtvih. Rusija predstavila kandidate za predsjedničke izbore. Na popisu Vladimir Putin i još tri političara od kojih svi podupiru "specijalnu vojnu operaciju" u Ukrajini. Finska u drugom krugu bira predsjednika. Vrhunac Riječkog karnevala - Međunarodna karnevalska povorka krenut će točno u podne. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 11 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/92/98/20240211-jutarnja-kronika-34960251-20240211063530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.02. 2024-02-10</title>
     <link>https://api.hrt.hr/media/ed/59/20240210-jutarnja-kronika-34957939-20240210063528.mp3</link>
     <description>Uoči konačnog razgovora s Vladom o koeficijentima - dva obrazovna sinidkata održala prosvjed upozorenja. Predsjednik i premijer u ratu priopćenjima o sigurnosnim provjerama Ivana Turudića. Radio Sljeme dobilo Zlatni studio za najbolju radijsku postaju. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Sa 78 saborskih glasova "za" Ivan Turudić novi je glavni državni odvjetnik. Posljednji je dan za dostavu sindikalnih primjedbi na Vladin prijedlog Uredbi o koeficijentima za zaposlene u državnim i javnim službama. Izraelski premijer Benjamin Netanyahu odbio prijedlog o prekidu vatre u pojasu Gaze, kaže da su blizu pobjede. Prije točno 40 godina otvorene su Zimske olimpijske igre u Sarajevu. Urednik: Silvio Šop</description>
     <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a8/5b/20240208-jutarnja-kronika-34950171-20240208063521.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.02. 2024-02-07</title>
-    <link>https://api.hrt.hr/media/b6/50/20240207-jutarnja-kronika-34946840-20240207063519.mp3</link>
-    <description>Posve je jasno da će na današnjem glasovanju u Saboru parlamentarna većina potvrditi Ivana Turudića za glavnog državnog odvjetnika. Ustavni sud neće razmatrati ustavnost zakona o radu nedjeljom, što znači da on ostaje na snazi. Vijeće sigurnosti UN-a, na zahtjev Srbije, sutra će održati sjednicu o stanju na Kosovu.	U Zagrebu sinoć premijerno prikazan film Igora Mirkovića "Slatka Simona". Urednik: Silvio Šop</description>
-    <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b6/50/20240207-jutarnja-kronika-34946840-20240207063519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
