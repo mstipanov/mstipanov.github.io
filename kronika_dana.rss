@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 11 Feb 2024 21:42:32 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 21:46:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.02. 2024-02-12</title>
+    <link>https://api.hrt.hr/media/34/ce/20240212-kronika-dana-34965166-20240212214036.mp3</link>
+    <description>Izrael traži od UN-a da pomogne evakuirati civile prije kopnene ofenzive na Rafah, UN odgovara da neće pomagati u prisilnom raseljavanju. Neće više biti sigurnosnih provjera Ivana Turudića prije nego što stupi na dužnost glavnog državnog odvjetnika, poručio premijer Plenković. Više od 20 godina radnice šibenske Revije čekaju isplatu plaća i otpremnina, sada predlažu zakon lex Revija. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 12 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/34/ce/20240212-kronika-dana-34965166-20240212214036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.02. 2024-02-11</title>
     <link>https://api.hrt.hr/media/8b/18/20240211-kronika-dana-34961755-20240211213532.mp3</link>
     <description>Tko god kupi Belje, Vupik i PIK Vinkovce, ostat će strateški partner Fortenove, poručio njezin čelnik Fabris Peruško. U utorak ponovno poskupljuje gorivo. Hamas prijeti - bude li napada na Rafah - zaustavljaju se svi pregovori s Izraelom. Zrinka Ljutić doskijala je do drugog mjesta u slalomu Svjetskog kupa u Soldeu. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Prosvjedovali prosvjetari nezadovoljni ponuđenim koeficijentima plaća. Nova priopćenja predsjednika Republike i predsjednika Vlade o sigurnosnim provjerama Ivana Turudića. Radio Sljeme dobio Zlatni studio za najbolju radijsku postaju. Urednica: Sanja Cota</description>
     <pubDate>Fri, 09 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/99/b6/20240209-kronika-dana-34957446-20240209214026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.02. 2024-02-08</title>
-    <link>https://api.hrt.hr/media/1e/8e/20240208-kronika-dana-34953282-20240208214022.mp3</link>
-    <description>Ured predsjednika Milanovića tvrdi da premijer uopće nije zatražio sigurnosnu provjeru Ivana Turudića kao kandidata za glavnog državnog odvjetnika. Vlada uzvraća da ju nije niti mogla tražiti. Oporbena ljevica zbog Turudića najavljuje prosvjed. Ukrajinski predsjednik smijenio Valerija Zalužnog, vrhovnog zapovjednika ukrajinske vojske. U Ligi nacija Hrvatska u skupini s Portugalom, Poljskom i Škotskom. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 08 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1e/8e/20240208-kronika-dana-34953282-20240208214022.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
