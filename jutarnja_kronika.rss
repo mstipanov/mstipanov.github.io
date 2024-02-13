@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 12 Feb 2024 06:43:58 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 06:49:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.02. 2024-02-13</title>
+    <link>https://api.hrt.hr/media/df/db/20240213-jutarnja-kronika-34965783-20240213064037.mp3</link>
+    <description>Premijer poručio predsjedniku države - priča o izboru Turudića je završena i neće biti novih sigurnosnih provjera. Od ponoći nove, neznatno više cijene goriva. Izrael od UN-a zatražio pomoć u evakuaciji civila prije kopnene ofenzive na Rafah. UN poručio da neće pomagati u prisilnom raseljavanju. U Dohi - Hrvatska i Srbija u četvrtfinalu Svjetskog prvenstva vaterpolista.
+Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 13 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/db/20240213-jutarnja-kronika-34965783-20240213064037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.02. 2024-02-12</title>
     <link>https://api.hrt.hr/media/de/dc/20240212-jutarnja-kronika-34962284-20240212063035.mp3</link>
     <description>Izraelci u specijalnoj akciji oslobodili dvoje Hamasovih talaca i počeli granatiranje Rafaha koji je pun izbjeglica. Do sada 60 poginulih. Od ponoći dizel će poskupjeti 5 centa, a benzin 3 centa po litri. Predsjednik Milanović tvrdi da se dolazak Ivana Turudića na čelo DORH-a može spriječiti jer još nije prisegnuo. Traži njegovu sigurnosnu provjeru. Mađarski ministar vanjskih poslova na otvorenju osnovne škola u Petrinji koju je financirala mađarska vlada. Urednik: Mislav Togonal</description>
@@ -31,14 +40,6 @@
     <description>Uoči konačnog razgovora s Vladom o koeficijentima - dva obrazovna sinidkata održala prosvjed upozorenja. Predsjednik i premijer u ratu priopćenjima o sigurnosnim provjerama Ivana Turudića. Radio Sljeme dobilo Zlatni studio za najbolju radijsku postaju. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 10 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/59/20240210-jutarnja-kronika-34957939-20240210063528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.02. 2024-02-09</title>
-    <link>https://api.hrt.hr/media/43/58/20240209-jutarnja-kronika-34954034-20240209063524.mp3</link>
-    <description>Nezadovoljni Vladinim prijedlogom koeficijenata, na zagrebačkome Markovu trgu prosvjedovat će Sindikat znanosti i visokog obrazovanja i Školski sindikat Preporod. Zbog izbora Ivana Turudića za glavnoga državnog odvjetnika lijeva oporba organizira prosvjed na Markovu trgu u subotu, 17-og ovog mjeseca. Zelenski smijenio vrhovnog zapovjednika oružanih snaga. Biden prozvao Izrael zbog pretjerane uporabe sile u pojasu Gaze. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 09 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/43/58/20240209-jutarnja-kronika-34954034-20240209063524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
