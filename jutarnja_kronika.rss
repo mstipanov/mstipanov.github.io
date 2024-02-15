@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 14 Feb 2024 06:48:03 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 06:52:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.02. 2024-02-15</title>
+    <link>https://api.hrt.hr/media/92/db/20240215-jutarnja-kronika-34972576-20240215064044.mp3</link>
+    <description>Dva sindikata u obrazovanju najavljuju nove prosvjede protiv Vlade.Jedna osoba ubijena, a 21 ranjena u pucnjavi u Kansas Cityju na kraju mimohoda za pobjednike Super Bowla. Projekcijom irskog filma "Male stvari kao ove", počinje 74. Berlinski filmski festival. Urednica Mira Barić</description>
+    <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/92/db/20240215-jutarnja-kronika-34972576-20240215064044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.02. 2024-02-14</title>
     <link>https://api.hrt.hr/media/76/6a/20240214-jutarnja-kronika-34969191-20240214063541.mp3</link>
     <description>Ne prestaju razmjene oštrih riječi Pantovčaka i Banskih dvora o izboru Ivana Turudića za novoga državnog odvjetnika. Čak 89 posto članova Liječničkog sindikata spremno na štrajk, ministar Vili Beroš ipak uvjeren da ga neće biti. Zastupnički dom američkog Kongresa izglasao je opoziv ministra domovinske sigurnosti. To je tek drugi slučaj u američkoj povijesti da je taj dom izglasao opoziv člana predsjednikova kabineta. Čistom srijedom ili Pepelnicom kršćanima počinje 40 dana korizme. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednica: Snježana Kralj</description>
     <description>Izraelci u specijalnoj akciji oslobodili dvoje Hamasovih talaca i počeli granatiranje Rafaha koji je pun izbjeglica. Do sada 60 poginulih. Od ponoći dizel će poskupjeti 5 centa, a benzin 3 centa po litri. Predsjednik Milanović tvrdi da se dolazak Ivana Turudića na čelo DORH-a može spriječiti jer još nije prisegnuo. Traži njegovu sigurnosnu provjeru. Mađarski ministar vanjskih poslova na otvorenju osnovne škola u Petrinji koju je financirala mađarska vlada. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/dc/20240212-jutarnja-kronika-34962284-20240212063035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.02. 2024-02-11</title>
-    <link>https://api.hrt.hr/media/92/98/20240211-jutarnja-kronika-34960251-20240211063530.mp3</link>
-    <description>Napad Izraela na grad Rafah - 25 mrtvih. Rusija predstavila kandidate za predsjedničke izbore. Na popisu Vladimir Putin i još tri političara od kojih svi podupiru "specijalnu vojnu operaciju" u Ukrajini. Finska u drugom krugu bira predsjednika. Vrhunac Riječkog karnevala - Međunarodna karnevalska povorka krenut će točno u podne. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 11 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/92/98/20240211-jutarnja-kronika-34960251-20240211063530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
