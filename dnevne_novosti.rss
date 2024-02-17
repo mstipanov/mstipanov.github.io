@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Feb 2024 14:58:16 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 15:01:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hrvatski sabor seli se s Markova trga na Vojno učilište na Črnomercu. Čak 18 članica NATO-a ove će godine potrošiti dva posto BDP-a na obranu, što je novi rekord. Počela evakuacija izbjeglih Palestinaca iz bolnice Naser zbog straha od izraelske invazije. U Zagrebu sinoć velika potjera za odbjeglim vozačem, dvojica policajaca lakše ozlijeđena. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 14 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/21/20240214-dnevne-novosti-34971044-20240214143541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.02. 2024-02-13</title>
-    <link>https://api.hrt.hr/media/30/26/20240213-dnevne-novosti-34967733-20240213144039.mp3</link>
-    <description>Premijer Plenković nazvao gnjusnim lažima pisanje Nacionala da je činio pritisak na predsjednicu Državnoodvjetničkog vijeća u vezi sa sigurnosnom provjerom Ivana Turudića. Prema anketi Hrvatskoga liječničkog sindikata, čak 89 posto njihovih članova spremno na štrajk. Američki Senat nakon višemjesečnog natezanja odobrio paket pomoći vrijedan 95 milijardi dolara za Ukrajinu, Izrael i Tajvan. No, upitno hoće li ga Zastupnički dom potvrditi. Urednica: Mira Barić</description>
-    <pubDate>Tue, 13 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/30/26/20240213-dnevne-novosti-34967733-20240213144039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
