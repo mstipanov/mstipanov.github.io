@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Feb 2024 06:57:02 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 07:00:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.02. 2024-02-17</title>
+    <link>https://api.hrt.hr/media/cd/91/20240217-jutarnja-kronika-34980046-20240217063554.mp3</link>
+    <description>U organizaciji 11 oporbenih stranaka na Markovu trgu u 11 sati održat će se prosvjedni skup. Demokratski svijet jednoglasan u osudi ruskog predsjednika Putina za smrt oporbenog vođe Alekseja Navaljnog. U riječkom Trećem maju u podne porinuće najdužeg dosad izgrađenog broda u tom brodogradilištu, i građani su dobro došli. SPORT: Hrvatska vaterpolska reprezentacija igra protiv Italije u finalu Svjetskog prvenstva u Dohi. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 17 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cd/91/20240217-jutarnja-kronika-34980046-20240217063554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.02. 2024-02-16</title>
     <link>https://api.hrt.hr/media/f3/d0/20240216-jutarnja-kronika-34976576-20240216063550.mp3</link>
     <description>Vaterpolisti sutra s Italijom u finalu Svjetskog prvenstva. Dinamo slavio u Sevilji protiv Betisa. Organizatori sutrašnjeg prosvjeda na Markovu trgu održat će konferenciju za novinstvo. Američki predsjednik Biden upozorio izraelskog premijera Netanjahua da ne bi trebao nastaviti vojnu akciju u Rafahu. Urednik: Grgo Mrvica</description>
@@ -31,15 +39,6 @@
     <description>Ne prestaju razmjene oštrih riječi Pantovčaka i Banskih dvora o izboru Ivana Turudića za novoga državnog odvjetnika. Čak 89 posto članova Liječničkog sindikata spremno na štrajk, ministar Vili Beroš ipak uvjeren da ga neće biti. Zastupnički dom američkog Kongresa izglasao je opoziv ministra domovinske sigurnosti. To je tek drugi slučaj u američkoj povijesti da je taj dom izglasao opoziv člana predsjednikova kabineta. Čistom srijedom ili Pepelnicom kršćanima počinje 40 dana korizme. Urednik: Silvio Šop</description>
     <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/76/6a/20240214-jutarnja-kronika-34969191-20240214063541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.02. 2024-02-13</title>
-    <link>https://api.hrt.hr/media/df/db/20240213-jutarnja-kronika-34965783-20240213064037.mp3</link>
-    <description>Premijer poručio predsjedniku države - priča o izboru Turudića je završena i neće biti novih sigurnosnih provjera. Od ponoći nove, neznatno više cijene goriva. Izrael od UN-a zatražio pomoć u evakuaciji civila prije kopnene ofenzive na Rafah. UN poručio da neće pomagati u prisilnom raseljavanju. U Dohi - Hrvatska i Srbija u četvrtfinalu Svjetskog prvenstva vaterpolista.
-Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 13 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/db/20240213-jutarnja-kronika-34965783-20240213064037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
