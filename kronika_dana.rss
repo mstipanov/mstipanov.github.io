@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 16 Feb 2024 22:29:24 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 22:03:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.02. 2024-02-17</title>
+    <link>https://api.hrt.hr/media/4a/52/20240217-kronika-dana-34981970-20240217214057.mp3</link>
+    <description>Hrvatska je svjetski prvak u vaterpolu , na peterce pobijedila Italiju! Naši se vaterpolisti sutra iz Dohe vraćaju u Zagreb. Pod nazivom "Dosta je! Odmah na izbore" 11 parlamentarnih stranaka lijevo-liberalne oporbe održalo je prosvjed na Markovu trgu u Zagrebu. Diljem Rusije masovna uhićenja na skupovima u spomen na oporbenog čelnika Alekseja Navaljnog. Njegovi suradnici tvrde da Vlasti ne žele predati tijelo obitelji kako bi se prikrili tragovi da je ubijen. Urednica: Mira Barić</description>
+    <pubDate>Sat, 17 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4a/52/20240217-kronika-dana-34981970-20240217214057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.02. 2024-02-16</title>
     <link>https://api.hrt.hr/media/73/26/20240216-kronika-dana-34979554-20240216214052.mp3</link>
     <description>Policija ušla u Ministarstvo kulture, prema nalogu europskog javnog tužitelja, istražuje trošenje novca iz europskih fondova na zagrebačkom Geodetskom fakultetu. Joe Biden izravno optužio Vladimira Putina za smrt ruskog oporbenog vođe Alekseja Navaljnog. Splitska policija priznala propuste u postupanju u slučaju divljanja nasilnika prošle subote. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Izbor Ivana Turudića za glavnoga državnog odvjetnika i dalje glavna politička tema. Sabor će tijekom obnove zgrade na Trgu svetog Marka zasjedati u vojarni na Črnomercu. Nezadovoljni Uredbom o koeficijentima, dva obrazovna sindikata najavljuju nove pritiske na Vladu. Na Pepelnicu - početak korizme - obilježen Dan bez duhanskog dima. Urednica: Sanja Rabuzin</description>
     <pubDate>Wed, 14 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c5/2e/20240214-kronika-dana-34971987-20240214214543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.02. 2024-02-13</title>
-    <link>https://api.hrt.hr/media/ec/3f/20240213-kronika-dana-34968634-20240213214039.mp3</link>
-    <description>Državno-odvjetničko vijeće, predsjednik, premijer, političke stranke - i danas nove izjave o sigurnosnim provjerama Ivana Turudića. Čak 89 posto članova Liječničkog sindikata spremno na štrajk. Spriječen bijeg dvojice zatvorenika koji su se namjeravali izgubiti među riječkim maškarama. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 13 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/3f/20240213-kronika-dana-34968634-20240213214039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
