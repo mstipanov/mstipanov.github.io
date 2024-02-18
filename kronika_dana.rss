@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 17 Feb 2024 22:03:02 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 22:06:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.02. 2024-02-18</title>
+    <link>https://api.hrt.hr/media/68/54/20240218-kronika-dana-34984460-20240218214100.mp3</link>
+    <description>Zlatni vaterpolisti vratili se u Hrvatsku. Dan nakon velikog prosvjeda oporbe na Markovu trgu, najviše se nagađa hoće li biti zajedničkog nastupa lijevo-liberalnih stranaka na izborima. Brazilski predsjednik Lula usporedio rat u Gazi s holokaustom, Netanyahu mu poručio da se može sramiti. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 18 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/68/54/20240218-kronika-dana-34984460-20240218214100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.02. 2024-02-17</title>
     <link>https://api.hrt.hr/media/4a/52/20240217-kronika-dana-34981970-20240217214057.mp3</link>
     <description>Hrvatska je svjetski prvak u vaterpolu , na peterce pobijedila Italiju! Naši se vaterpolisti sutra iz Dohe vraćaju u Zagreb. Pod nazivom "Dosta je! Odmah na izbore" 11 parlamentarnih stranaka lijevo-liberalne oporbe održalo je prosvjed na Markovu trgu u Zagrebu. Diljem Rusije masovna uhićenja na skupovima u spomen na oporbenog čelnika Alekseja Navaljnog. Njegovi suradnici tvrde da Vlasti ne žele predati tijelo obitelji kako bi se prikrili tragovi da je ubijen. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Visokoga kaznenog suda prijavio Ivana Turudića zbog kršenja Kodeksa sudačke etike. Građani će od ponedjeljka moći upisivati trezorske zapise, i to u dva roka. Europska komisija u zimskim gospodarskim prognozama blago je povećala procjene rasta hrvatskog BDP-a za ovu godinu na 2 cijela 6 posto. SPORT: Hrvatski vaterpolisti u dramatičnoj završnici nakon peteraca slavili protiv Francuske 17:16 i izborili finale Svjetskog prvenstva. Urednik: Silvio Šop</description>
     <pubDate>Thu, 15 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6d/3f/20240215-kronika-dana-34975945-20240215214049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.02. 2024-02-14</title>
-    <link>https://api.hrt.hr/media/c5/2e/20240214-kronika-dana-34971987-20240214214543.mp3</link>
-    <description>Izbor Ivana Turudića za glavnoga državnog odvjetnika i dalje glavna politička tema. Sabor će tijekom obnove zgrade na Trgu svetog Marka zasjedati u vojarni na Črnomercu. Nezadovoljni Uredbom o koeficijentima, dva obrazovna sindikata najavljuju nove pritiske na Vladu. Na Pepelnicu - početak korizme - obilježen Dan bez duhanskog dima. Urednica: Sanja Rabuzin</description>
-    <pubDate>Wed, 14 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/2e/20240214-kronika-dana-34971987-20240214214543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
