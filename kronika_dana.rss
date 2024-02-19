@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 18 Feb 2024 22:06:35 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 21:43:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Policija ušla u Ministarstvo kulture, prema nalogu europskog javnog tužitelja, istražuje trošenje novca iz europskih fondova na zagrebačkom Geodetskom fakultetu. Joe Biden izravno optužio Vladimira Putina za smrt ruskog oporbenog vođe Alekseja Navaljnog. Splitska policija priznala propuste u postupanju u slučaju divljanja nasilnika prošle subote. Urednica: Mira Barić</description>
     <pubDate>Fri, 16 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/73/26/20240216-kronika-dana-34979554-20240216214052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.02. 2024-02-15</title>
-    <link>https://api.hrt.hr/media/6d/3f/20240215-kronika-dana-34975945-20240215214049.mp3</link>
-    <description>Predsjednik Visokoga kaznenog suda prijavio Ivana Turudića zbog kršenja Kodeksa sudačke etike. Građani će od ponedjeljka moći upisivati trezorske zapise, i to u dva roka. Europska komisija u zimskim gospodarskim prognozama blago je povećala procjene rasta hrvatskog BDP-a za ovu godinu na 2 cijela 6 posto. SPORT: Hrvatski vaterpolisti u dramatičnoj završnici nakon peteraca slavili protiv Francuske 17:16 i izborili finale Svjetskog prvenstva. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 15 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6d/3f/20240215-kronika-dana-34975945-20240215214049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
