@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 18 Feb 2024 06:34:20 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 07:07:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.02. 2024-02-19</title>
+    <link>https://api.hrt.hr/media/ae/cc/20240219-jutarnja-kronika-34985164-20240219065002.mp3</link>
+    <description>Danas prosvjed poljoprivrednika u Slavoniji i Međimurju. Traktorske kolone proći će središtem Đakova i Čakovca. Počinju radovi na tunelu Kozjak i novom ulazu u Split. Cijene nafte na svjetskim burzama nastavljaju blago rasti. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/cc/20240219-jutarnja-kronika-34985164-20240219065002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.02. 2024-02-17</title>
     <link>https://api.hrt.hr/media/cd/91/20240217-jutarnja-kronika-34980046-20240217063554.mp3</link>
     <description>U organizaciji 11 oporbenih stranaka na Markovu trgu u 11 sati održat će se prosvjedni skup. Demokratski svijet jednoglasan u osudi ruskog predsjednika Putina za smrt oporbenog vođe Alekseja Navaljnog. U riječkom Trećem maju u podne porinuće najdužeg dosad izgrađenog broda u tom brodogradilištu, i građani su dobro došli. SPORT: Hrvatska vaterpolska reprezentacija igra protiv Italije u finalu Svjetskog prvenstva u Dohi. Urednik: Silvio Šop</description>
@@ -23,14 +31,6 @@
     <description>Vaterpolisti sutra s Italijom u finalu Svjetskog prvenstva. Dinamo slavio u Sevilji protiv Betisa. Organizatori sutrašnjeg prosvjeda na Markovu trgu održat će konferenciju za novinstvo. Američki predsjednik Biden upozorio izraelskog premijera Netanjahua da ne bi trebao nastaviti vojnu akciju u Rafahu. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 16 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f3/d0/20240216-jutarnja-kronika-34976576-20240216063550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.02. 2024-02-15</title>
-    <link>https://api.hrt.hr/media/92/db/20240215-jutarnja-kronika-34972576-20240215064044.mp3</link>
-    <description>Dva sindikata u obrazovanju najavljuju nove prosvjede protiv Vlade.Jedna osoba ubijena, a 21 ranjena u pucnjavi u Kansas Cityju na kraju mimohoda za pobjednike Super Bowla. Projekcijom irskog filma "Male stvari kao ove", počinje 74. Berlinski filmski festival. Urednica Mira Barić</description>
-    <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/92/db/20240215-jutarnja-kronika-34972576-20240215064044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
