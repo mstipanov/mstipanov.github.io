@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 19 Feb 2024 22:15:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 21:49:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.02. 2024-02-20</title>
+    <link>https://api.hrt.hr/media/1e/45/20240220-kronika-dana-34991054-20240220214023.mp3</link>
+    <description>Predsjednik države i Vlade u priopćenjima razmijenili uvrede, od lažljivca i jedinice za podvale do primitivca i štetočine. Prema HRejtingu, SDP-u najviše porasla potpora, Možemo pao iza Mosta i Domovinskog pokreta. HDZ prvi. Majka Alekseja Navaljnog želi pokopati sina, od Vladimira Putina traži da joj preda njegovo tijelo. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 20 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1e/45/20240220-kronika-dana-34991054-20240220214023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.02. 2024-02-19</title>
     <link>https://api.hrt.hr/media/11/d4/20240219-kronika-dana-34988015-20240219214004.mp3</link>
     <description>Tisuće navijača u Dubrovniku i Splitu dočekale svjetske vaterpolske prvake. U Đakovu i Čakovcu prosvjedovali poljoprvirednici. U 91. godini umro pjesnik Danijel Dragojević. Urednica: SANJA COTA</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska je svjetski prvak u vaterpolu , na peterce pobijedila Italiju! Naši se vaterpolisti sutra iz Dohe vraćaju u Zagreb. Pod nazivom "Dosta je! Odmah na izbore" 11 parlamentarnih stranaka lijevo-liberalne oporbe održalo je prosvjed na Markovu trgu u Zagrebu. Diljem Rusije masovna uhićenja na skupovima u spomen na oporbenog čelnika Alekseja Navaljnog. Njegovi suradnici tvrde da Vlasti ne žele predati tijelo obitelji kako bi se prikrili tragovi da je ubijen. Urednica: Mira Barić</description>
     <pubDate>Sat, 17 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4a/52/20240217-kronika-dana-34981970-20240217214057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.02. 2024-02-16</title>
-    <link>https://api.hrt.hr/media/73/26/20240216-kronika-dana-34979554-20240216214052.mp3</link>
-    <description>Policija ušla u Ministarstvo kulture, prema nalogu europskog javnog tužitelja, istražuje trošenje novca iz europskih fondova na zagrebačkom Geodetskom fakultetu. Joe Biden izravno optužio Vladimira Putina za smrt ruskog oporbenog vođe Alekseja Navaljnog. Splitska policija priznala propuste u postupanju u slučaju divljanja nasilnika prošle subote. Urednica: Mira Barić</description>
-    <pubDate>Fri, 16 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/73/26/20240216-kronika-dana-34979554-20240216214052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
