@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 20 Feb 2024 15:18:25 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 14:46:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.02. 2024-02-21</title>
+    <link>https://api.hrt.hr/media/6a/56/20240221-dnevne-novosti-34993444-20240221144026.mp3</link>
+    <description>U Saboru rasprava o oporbenom prijedlogu za raspuštanje Sabora i raspisivanje izbora. Premijer Plenković, nadbiskup Kutleša i gradonačelnik Tomašević potpisali Sporazum u vezi s obnovom stadiona Maksimir i gradnjom objekata Katoličke Crkve na deset lokacija u Zagrebu. Oštećuju im automobile i zalijevaju ih nepoznatim tekućinama - zadarski političari sve češće na meti napadača. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 21 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6a/56/20240221-dnevne-novosti-34993444-20240221144026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.02. 2024-02-20</title>
     <link>https://api.hrt.hr/media/e7/4c/20240220-dnevne-novosti-34990161-20240220144522.mp3</link>
     <description>Liberalno-lijeva koalicija dogovorila pojedinosti sutrašnje saborske rasprave o oporbenom zahtjevu za raspuštanje Sabora. Predsjednik Zoran Milanović u priopćenju za medije, ne birajući riječi, ponovno prozvao premijera Andreja Plenkovića zbog izbora novoga državnog odvjetnika. Tri sindikata pozvala Ministarstvo znanosti i obrazovanja na ozbiljne iskorake u vezi s koeficijentima, u suprotnom će, kako su upozorili - agresivno reagirati. Najpoznatiji svjetski zviždač Julian Assange na londonskom sudu pokušava osporiti odluku o izručenju Sjedinjenim Državama. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednik: Mislav Togonal</description>
     <description>Zlatni vaterpolisti vratili se u Hrvatsku. Komentira se mogu li se najjače stranke lijevice ujediniti nakon jučerašnjeg prosvjeda. Europa ima oružja i treba ga poslati Ukrajini, izjavila danska premijerka u Minhenu i najavila da njezina zemlja šalje sve svoje topništvo. Urednica: Sanja Cota</description>
     <pubDate>Sun, 18 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/96/41/20240218-dnevne-novosti-34983543-20240218144100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.02. 2024-02-17</title>
-    <link>https://api.hrt.hr/media/5a/9b/20240217-dnevne-novosti-34981154-20240217151056.mp3</link>
-    <description>Dosta je! Odmah na izbore - pod tim nazivom na Markovu trgu održan prosvjed 11 stranaka lijevo-liberalne oporbe. Ukrajinska vojska povukla se iz Avdivke. Iz Muenchena predsjednik Zelenski poručio "Ne pitajte Ukrajinu kada će rat završiti. Zapitajte sebe - zašto ga je Putin u stanju nastaviti. SPORT: Finale Svjetskog vaterpolskog prvenstva, Hrvatska igra protiv Italije.Urednica: Sanja Cota.</description>
-    <pubDate>Sat, 17 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/9b/20240217-dnevne-novosti-34981154-20240217151056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
