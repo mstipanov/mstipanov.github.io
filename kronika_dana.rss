@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 20 Feb 2024 21:49:27 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 21:47:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.02. 2024-02-21</title>
+    <link>https://api.hrt.hr/media/ca/31/20240221-kronika-dana-34994530-20240221214026.mp3</link>
+    <description>Rasprava o oporbenom prijedlogu za raspuštanje Sabora mogla bi trajati do dugo u noć. Riješen 27 godina star spor o zemljištu na kojem je sadašnji stadion i gdje bi se trebao graditi novi. Vlada, Grad Zagreb i Zagrebačka nadbiskupija potpisali sporazum. Izraelski parlament Knesset velikom većinom glasova prihvatio deklaraciju premijera Netanyahua kojom se protivi jednostranom stvaranju palestinske države. Urednica: Mira Barić</description>
+    <pubDate>Wed, 21 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/31/20240221-kronika-dana-34994530-20240221214026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.02. 2024-02-20</title>
     <link>https://api.hrt.hr/media/1e/45/20240220-kronika-dana-34991054-20240220214023.mp3</link>
     <description>Predsjednik države i Vlade u priopćenjima razmijenili uvrede, od lažljivca i jedinice za podvale do primitivca i štetočine. Prema HRejtingu, SDP-u najviše porasla potpora, Možemo pao iza Mosta i Domovinskog pokreta. HDZ prvi. Majka Alekseja Navaljnog želi pokopati sina, od Vladimira Putina traži da joj preda njegovo tijelo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zlatni vaterpolisti vratili se u Hrvatsku. Dan nakon velikog prosvjeda oporbe na Markovu trgu, najviše se nagađa hoće li biti zajedničkog nastupa lijevo-liberalnih stranaka na izborima. Brazilski predsjednik Lula usporedio rat u Gazi s holokaustom, Netanyahu mu poručio da se može sramiti. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 18 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/68/54/20240218-kronika-dana-34984460-20240218214100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.02. 2024-02-17</title>
-    <link>https://api.hrt.hr/media/4a/52/20240217-kronika-dana-34981970-20240217214057.mp3</link>
-    <description>Hrvatska je svjetski prvak u vaterpolu , na peterce pobijedila Italiju! Naši se vaterpolisti sutra iz Dohe vraćaju u Zagreb. Pod nazivom "Dosta je! Odmah na izbore" 11 parlamentarnih stranaka lijevo-liberalne oporbe održalo je prosvjed na Markovu trgu u Zagrebu. Diljem Rusije masovna uhićenja na skupovima u spomen na oporbenog čelnika Alekseja Navaljnog. Njegovi suradnici tvrde da Vlasti ne žele predati tijelo obitelji kako bi se prikrili tragovi da je ubijen. Urednica: Mira Barić</description>
-    <pubDate>Sat, 17 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4a/52/20240217-kronika-dana-34981970-20240217214057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
