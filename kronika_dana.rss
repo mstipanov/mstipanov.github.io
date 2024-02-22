@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Feb 2024 21:51:13 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 22:21:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.02. 2024-02-22</title>
+    <link>https://api.hrt.hr/media/14/b7/20240222-kronika-dana-34998151-20240222214529.mp3</link>
+    <description>Vladine uredbe o koeficijentima u državnim i javnim službama za dio sindikata dobre, ali i dalje ima nezadovoljnih. Premijer Plenković oštro protiv izjava europske tužiteljice Laure Koveši. Majka Alekseja Navaljnog optužuje - ucjenjuju me i postavljaju uvjete gdje, kada i kako Aleksej treba biti pokopan. SPORT: Dinamo na Maksimiru odigrao 1:1 s Betisom i ušao u osminu finala Konferencijske lige. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 22 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/14/b7/20240222-kronika-dana-34998151-20240222214529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.02. 2024-02-21</title>
     <link>https://api.hrt.hr/media/ca/31/20240221-kronika-dana-34994530-20240221214026.mp3</link>
     <description>Rasprava o oporbenom prijedlogu za raspuštanje Sabora mogla bi trajati do dugo u noć. Riješen 27 godina star spor o zemljištu na kojem je sadašnji stadion i gdje bi se trebao graditi novi. Vlada, Grad Zagreb i Zagrebačka nadbiskupija potpisali sporazum. Izraelski parlament Knesset velikom većinom glasova prihvatio deklaraciju premijera Netanyahua kojom se protivi jednostranom stvaranju palestinske države. Urednica: Mira Barić</description>
