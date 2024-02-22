@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Feb 2024 14:46:13 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 14:50:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.02. 2024-02-22</title>
+    <link>https://api.hrt.hr/media/99/7c/20240222-dnevne-novosti-34996981-20240222143529.mp3</link>
+    <description>Vlada prihvatila uredbe kojima se reguliraju radna mjesta i koeficijenti u državnim i javnim službama. Dio sindikata nije zadovoljan, dok dio njih smatra da je to korak u pravom smjeru. Nakon 14 sati jutros je završila burna rasprava o oporbenom prijedlogu za raspuštanje Sabora. Iako se datum izbora još ne zna, pregovori o koalicijama u punom jeku. Ruske snage pojačale napade na prvoj crti bojišta. Ukrajinska vojska suočena s nedostatkom streljiva, ali i vojnika. Iran Rusiji šalje snažne balističke projektile. Urednica: Mira Barić</description>
+    <pubDate>Thu, 22 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/7c/20240222-dnevne-novosti-34996981-20240222143529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.02. 2024-02-21</title>
     <link>https://api.hrt.hr/media/6a/56/20240221-dnevne-novosti-34993444-20240221144026.mp3</link>
     <description>U Saboru rasprava o oporbenom prijedlogu za raspuštanje Sabora i raspisivanje izbora. Premijer Plenković, nadbiskup Kutleša i gradonačelnik Tomašević potpisali Sporazum u vezi s obnovom stadiona Maksimir i gradnjom objekata Katoličke Crkve na deset lokacija u Zagrebu. Oštećuju im automobile i zalijevaju ih nepoznatim tekućinama - zadarski političari sve češće na meti napadača. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Urednik: Mislav Togonal</description>
     <pubDate>Mon, 19 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/dd/20240219-dnevne-novosti-34986998-20240219143503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.02. 2024-02-18</title>
-    <link>https://api.hrt.hr/media/96/41/20240218-dnevne-novosti-34983543-20240218144100.mp3</link>
-    <description>Zlatni vaterpolisti vratili se u Hrvatsku. Komentira se mogu li se najjače stranke lijevice ujediniti nakon jučerašnjeg prosvjeda. Europa ima oružja i treba ga poslati Ukrajini, izjavila danska premijerka u Minhenu i najavila da njezina zemlja šalje sve svoje topništvo. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 18 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/96/41/20240218-dnevne-novosti-34983543-20240218144100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
