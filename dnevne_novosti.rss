@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Feb 2024 14:53:48 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 14:58:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.02. 2024-02-24</title>
+    <link>https://api.hrt.hr/media/60/c6/20240224-dnevne-novosti-35002779-20240224143537.mp3</link>
+    <description>Druga je godišnjica ruske invazije na Ukrajinu. Policija u Splitu privela dvojicu mladića zbog ubojstva 22-godišnjaka. Europsko tužiteljstvo tvrdi da je mjerodavno za aferu Geodezija. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 24 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/60/c6/20240224-dnevne-novosti-35002779-20240224143537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.02. 2024-02-23</title>
     <link>https://api.hrt.hr/media/d7/80/20240223-dnevne-novosti-35000417-20240223143533.mp3</link>
     <description>Polemika premijera i predsjednika države o Ivanu Turudiću proširila se i na ured europskog javnog tužitelja. Vatra progutala zgradu u Valenciji, poginule četiri osobe, za 15 se još traga. SPORT: Dinamo na ždrijebu Konferencijske lige izvukao grčki PAOK! Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Saboru rasprava o oporbenom prijedlogu za raspuštanje Sabora i raspisivanje izbora. Premijer Plenković, nadbiskup Kutleša i gradonačelnik Tomašević potpisali Sporazum u vezi s obnovom stadiona Maksimir i gradnjom objekata Katoličke Crkve na deset lokacija u Zagrebu. Oštećuju im automobile i zalijevaju ih nepoznatim tekućinama - zadarski političari sve češće na meti napadača. Urednica: Sanja Cota</description>
     <pubDate>Wed, 21 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6a/56/20240221-dnevne-novosti-34993444-20240221144026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.02. 2024-02-20</title>
-    <link>https://api.hrt.hr/media/e7/4c/20240220-dnevne-novosti-34990161-20240220144522.mp3</link>
-    <description>Liberalno-lijeva koalicija dogovorila pojedinosti sutrašnje saborske rasprave o oporbenom zahtjevu za raspuštanje Sabora. Predsjednik Zoran Milanović u priopćenju za medije, ne birajući riječi, ponovno prozvao premijera Andreja Plenkovića zbog izbora novoga državnog odvjetnika. Tri sindikata pozvala Ministarstvo znanosti i obrazovanja na ozbiljne iskorake u vezi s koeficijentima, u suprotnom će, kako su upozorili - agresivno reagirati. Najpoznatiji svjetski zviždač Julian Assange na londonskom sudu pokušava osporiti odluku o izručenju Sjedinjenim Državama. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 20 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e7/4c/20240220-dnevne-novosti-34990161-20240220144522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
