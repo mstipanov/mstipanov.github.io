@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Feb 2024 06:52:33 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 06:56:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.02. 2024-02-24</title>
+    <link>https://api.hrt.hr/media/45/62/20240224-jutarnja-kronika-35001810-20240224063536.mp3</link>
+    <description>Rat u Ukrajini ulazi u treću godinu. Ruski napadi ne prestaju. Ubojstvo u Splitu - mladić izboden nožem, privedena trojica muškaraca. Znaju se svi finalisti Dore. Sutra biramo predstavnika na Eurosongu. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 24 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/62/20240224-jutarnja-kronika-35001810-20240224063536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.02. 2024-02-23</title>
     <link>https://api.hrt.hr/media/db/be/20240223-jutarnja-kronika-34998757-20240223063532.mp3</link>
     <description>Vladine uredbe o koeficijentima u državnim i javnim službama za dio sindikata dobre, ali i dalje ima nezadovoljnih. Izrael šalje izaslanike u Pariz na pregovore o prekidu vatre s Hamasom u pojasu Gaze. Sinoć održana prva polufinalna večer Dore, večeras je druga. SPORT: Dinamo na Maksimiru sinoć remizirao 1:1 sa španjolskim Betisom, što je bilo dovoljno za prolazak u osminu finala Konferencijske lige. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Saboru rasprava o oporbenom prijedlogu za njegovo raspuštanje i raspisivanje izbora. Predsjednik države i Vlade u priopćenjima razmijenili žestoke uvrede, od lažljivca i jedinice za podvale do primitivca i štetočine. Prema HRejtingu, HDZ i dalje uvjerljivo prvi, SDP-u najviše porasla potpora, Možemo pao iza Mosta i Domovinskog pokreta. Na sudu u Londonu završava postupak kojim osnivač WikiLeaksa Julian Assange želi osporiti odluku o izručenju Sjedinjenim Državama. Urednik: Silvio Šop</description>
     <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/08/62/20240221-jutarnja-kronika-34991578-20240221063525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.02. 2024-02-20</title>
-    <link>https://api.hrt.hr/media/09/63/20240220-jutarnja-kronika-34988583-20240220063521.mp3</link>
-    <description>Tisuće navijača u Dubrovniku i Splitu dočekale zlatne vaterpoliste. Izraelska vlada Hamasu dala rok do 10. ožujka da se preda i oslobodi taoce. U 91. godini umro pjesnik Danijel Dragojević. Urednica: Mira Barić</description>
-    <pubDate>Tue, 20 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/09/63/20240220-jutarnja-kronika-34988583-20240220063521.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
