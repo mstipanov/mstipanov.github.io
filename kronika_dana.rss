@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 24 Feb 2024 21:59:15 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 22:03:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.02. 2024-02-25</title>
+    <link>https://api.hrt.hr/media/b4/72/20240225-kronika-dana-35005577-20240225214041.mp3</link>
+    <description>Rusi planiraju novu ofenzivu krajem svibnja ili na ljeto, ali Ukrajina je spremna za protuofenzivu, rekao ukrajinski predsjednik Zelenski. Dogovor Pantovčaka i Banskih dvora o novom načelniku Glavnog stožera Oružanih snaga. U dolini Neretve i južnoj Hercegovini veliki problemi zbog obilne kiše. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 25 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b4/72/20240225-kronika-dana-35005577-20240225214041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.02. 2024-02-24</title>
     <link>https://api.hrt.hr/media/46/d7/20240224-kronika-dana-35003624-20240224213538.mp3</link>
     <description>Dvije godine od početka ruske invazije na Ukrajinu kraj rata se ne nazire.Tijelo oporbenog čelnika Alekseja Navaljnog ruske vlasti predale njegovoj majci.Splitska policija istražuje ubojstvo 22-godišnjeg mladića koji je umro nakon napada nožem, napadači navodno ovisnici otprije poznati policiji. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Vladine uredbe o koeficijentima u državnim i javnim službama za dio sindikata dobre, ali i dalje ima nezadovoljnih. Premijer Plenković oštro protiv izjava europske tužiteljice Laure Koveši. Majka Alekseja Navaljnog optužuje - ucjenjuju me i postavljaju uvjete gdje, kada i kako Aleksej treba biti pokopan. SPORT: Dinamo na Maksimiru odigrao 1:1 s Betisom i ušao u osminu finala Konferencijske lige. Urednica: Sanja Cota</description>
     <pubDate>Thu, 22 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/14/b7/20240222-kronika-dana-34998151-20240222214529.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.02. 2024-02-21</title>
-    <link>https://api.hrt.hr/media/ca/31/20240221-kronika-dana-34994530-20240221214026.mp3</link>
-    <description>Rasprava o oporbenom prijedlogu za raspuštanje Sabora mogla bi trajati do dugo u noć. Riješen 27 godina star spor o zemljištu na kojem je sadašnji stadion i gdje bi se trebao graditi novi. Vlada, Grad Zagreb i Zagrebačka nadbiskupija potpisali sporazum. Izraelski parlament Knesset velikom većinom glasova prihvatio deklaraciju premijera Netanyahua kojom se protivi jednostranom stvaranju palestinske države. Urednica: Mira Barić</description>
-    <pubDate>Wed, 21 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/31/20240221-kronika-dana-34994530-20240221214026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
