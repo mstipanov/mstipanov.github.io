@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Feb 2024 22:03:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 21:37:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Premijer i predsjednik države otvorili novu polemiku, o uredu europskog javnog tužitelja. Desetak osoba poginulo u požaru stambene zgrade u Valenciji. Za mnogima se još traga. Od majke Alekseja Navaljnog ruske vlasti traže da ga pokopa bez javnog ispraćaja i to što prije. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 23 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/d0/20240223-kronika-dana-35001237-20240223213533.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.02. 2024-02-22</title>
-    <link>https://api.hrt.hr/media/14/b7/20240222-kronika-dana-34998151-20240222214529.mp3</link>
-    <description>Vladine uredbe o koeficijentima u državnim i javnim službama za dio sindikata dobre, ali i dalje ima nezadovoljnih. Premijer Plenković oštro protiv izjava europske tužiteljice Laure Koveši. Majka Alekseja Navaljnog optužuje - ucjenjuju me i postavljaju uvjete gdje, kada i kako Aleksej treba biti pokopan. SPORT: Dinamo na Maksimiru odigrao 1:1 s Betisom i ušao u osminu finala Konferencijske lige. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 22 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/14/b7/20240222-kronika-dana-34998151-20240222214529.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
