@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Feb 2024 07:00:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 07:04:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.02. 2024-02-26</title>
+    <link>https://api.hrt.hr/media/13/7c/20240226-jutarnja-kronika-35006157-20240226065543.mp3</link>
+    <description>Još samo do 11 sati građani mogu upisati trezorske zapise. U Parizu sastanak dvadesetak europskih čelnika kako bi dali potporu Ukrajini i poslali poruku Vladimiru Putinu. Od ponoći novo poskupljenje goriva - i benzina i dizela. Urednica: Mira Barić</description>
+    <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/7c/20240226-jutarnja-kronika-35006157-20240226065543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.02. 2024-02-25</title>
     <link>https://api.hrt.hr/media/67/8a/20240225-jutarnja-kronika-35004152-20240225063540.mp3</link>
     <description>Sljedeći tjedan novo poskupljenje goriva. Donald Trump osvojio republikanske predizbore i u Južnoj Karolini - sve je bliže trećoj uzastopnoj predsjedničkoj nominaciji i dvoboju s demokratskim predsjednikom Joeom Bidenom. Hrvatska će večeras u završnici Dore izabrati predstavnika na ovogodišnjem Eurosongu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Vladine uredbe o koeficijentima u državnim i javnim službama za dio sindikata dobre, ali i dalje ima nezadovoljnih. Izrael šalje izaslanike u Pariz na pregovore o prekidu vatre s Hamasom u pojasu Gaze. Sinoć održana prva polufinalna večer Dore, večeras je druga. SPORT: Dinamo na Maksimiru sinoć remizirao 1:1 sa španjolskim Betisom, što je bilo dovoljno za prolazak u osminu finala Konferencijske lige. Urednik: Silvio Šop</description>
     <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/db/be/20240223-jutarnja-kronika-34998757-20240223063532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.02. 2024-02-22</title>
-    <link>https://api.hrt.hr/media/90/f6/20240222-jutarnja-kronika-34995102-20240222063528.mp3</link>
-    <description>Rasprava o oporbenom prijedlogu za raspuštanje Sabora trajala jutros do 5 sati i 8 minuta. Vlada će na sjednici donijeti osam uredbi kojima se reguliraju radna mjesta i koeficijenti za izračun plaća u državnoj i javnim službama. Večeras počinje Dora - izbor hrvatske pjesme za pjesmu Eurovizije. SPORT: Dinamo će na Maksimiru u uzvratnom susretu protiv španjolskog Betisa pokušati izboriti osminu finala Konferencijske lige. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 22 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/90/f6/20240222-jutarnja-kronika-34995102-20240222063528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
