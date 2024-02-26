@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Feb 2024 15:02:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 15:05:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.02. 2024-02-26</title>
+    <link>https://api.hrt.hr/media/e5/1b/20240226-dnevne-novosti-35008050-20240226144045.mp3</link>
+    <description>Istekao je rok za kupnju trezorskih zapisa za građane, u trezorce uložio i premijer Andrej Plenković. Od ponoći skuplji i benzin i dizel. Kaos u Briselu - poljoprivrednici prosvjednici probili barikade, policija uporabila vodene topove. Kako bi omogućio postizanje širokog konsenzusa među Palestincima nakon završetka rata u Pojasu Gaze, palestinski premijer Mohamed Štajeh dao ostavku. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 26 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/1b/20240226-dnevne-novosti-35008050-20240226144045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.02. 2024-02-25</title>
     <link>https://api.hrt.hr/media/89/b3/20240225-dnevne-novosti-35004908-20240225144041.mp3</link>
     <description>Srbija uputila prosvjednu notu Hrvatskoj zbog izjava ministra Grlića Radmana. Donald Trump sve je bliže službenoj republikanskoj predsjedničkoj nominaciji. Na predizborima u Južnoj Karolini uvjerljivo pobijedio suparnicu Nikki Haley. Večeras veliko finale Dore, doznat ćemo tko će našu zemlju predstavljati na ovogodišnjem Eurosongu u Švedskoj.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Polemika premijera i predsjednika države o Ivanu Turudiću proširila se i na ured europskog javnog tužitelja. Vatra progutala zgradu u Valenciji, poginule četiri osobe, za 15 se još traga. SPORT: Dinamo na ždrijebu Konferencijske lige izvukao grčki PAOK! Urednica: Sanja Cota</description>
     <pubDate>Fri, 23 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/80/20240223-dnevne-novosti-35000417-20240223143533.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.02. 2024-02-22</title>
-    <link>https://api.hrt.hr/media/99/7c/20240222-dnevne-novosti-34996981-20240222143529.mp3</link>
-    <description>Vlada prihvatila uredbe kojima se reguliraju radna mjesta i koeficijenti u državnim i javnim službama. Dio sindikata nije zadovoljan, dok dio njih smatra da je to korak u pravom smjeru. Nakon 14 sati jutros je završila burna rasprava o oporbenom prijedlogu za raspuštanje Sabora. Iako se datum izbora još ne zna, pregovori o koalicijama u punom jeku. Ruske snage pojačale napade na prvoj crti bojišta. Ukrajinska vojska suočena s nedostatkom streljiva, ali i vojnika. Iran Rusiji šalje snažne balističke projektile. Urednica: Mira Barić</description>
-    <pubDate>Thu, 22 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/99/7c/20240222-dnevne-novosti-34996981-20240222143529.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
