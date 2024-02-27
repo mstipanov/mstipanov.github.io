@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Feb 2024 07:04:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 06:38:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.02. 2024-02-27</title>
+    <link>https://api.hrt.hr/media/11/79/20240227-jutarnja-kronika-35009704-20240227063008.mp3</link>
+    <description>Nakon što je jučer završio rok za kupnju trezorskih zapisa za građane, danas ih mogu upisati i institucionalni ulagači. Od ponoći su ponovno skuplji i benzin i dizel, litra obiju vrsta goriva sada stoji euro i 49 centi. Europski čelnici okupili su se u Parizu kako bi još snažnije dali potporu Ukrajini. U riječkom Muzeju moderne i suvremene umjetnosti otvara se izložba "Gdje je ženi mjesto?" Urednik: Silvio Šop</description>
+    <pubDate>Tue, 27 Feb 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/11/79/20240227-jutarnja-kronika-35009704-20240227063008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.02. 2024-02-26</title>
     <link>https://api.hrt.hr/media/13/7c/20240226-jutarnja-kronika-35006157-20240226065543.mp3</link>
     <description>Još samo do 11 sati građani mogu upisati trezorske zapise. U Parizu sastanak dvadesetak europskih čelnika kako bi dali potporu Ukrajini i poslali poruku Vladimiru Putinu. Od ponoći novo poskupljenje goriva - i benzina i dizela. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Rat u Ukrajini ulazi u treću godinu. Ruski napadi ne prestaju. Ubojstvo u Splitu - mladić izboden nožem, privedena trojica muškaraca. Znaju se svi finalisti Dore. Sutra biramo predstavnika na Eurosongu. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 24 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/62/20240224-jutarnja-kronika-35001810-20240224063536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.02. 2024-02-23</title>
-    <link>https://api.hrt.hr/media/db/be/20240223-jutarnja-kronika-34998757-20240223063532.mp3</link>
-    <description>Vladine uredbe o koeficijentima u državnim i javnim službama za dio sindikata dobre, ali i dalje ima nezadovoljnih. Izrael šalje izaslanike u Pariz na pregovore o prekidu vatre s Hamasom u pojasu Gaze. Sinoć održana prva polufinalna večer Dore, večeras je druga. SPORT: Dinamo na Maksimiru sinoć remizirao 1:1 sa španjolskim Betisom, što je bilo dovoljno za prolazak u osminu finala Konferencijske lige. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/db/be/20240223-jutarnja-kronika-34998757-20240223063532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
