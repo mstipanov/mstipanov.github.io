@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Feb 2024 22:12:10 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 21:48:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.02. 2024-02-28</title>
+    <link>https://api.hrt.hr/media/70/65/20240228-kronika-dana-35016675-20240228214050.mp3</link>
+    <description>Predstavljene izmjene Zakona o strancima, uvest će se radne dozvole koje će dulje vrijediti, programi učenja hrvatskog jezika i stroža kontrola poslodavaca.Zbog ubojstva mladog 22-godišnjeg Luke Bančića, u Splitu održan prosvjed "Danas Luka, sutra JA!" Europska bi unija trebala razmotriti da zaradu od zamrznute ruske imovine iskoristi za vojnu pomoć Ukrajini, rekla Ursula fon der Lajen pred Europskim parlamentom. Urednica: Mira Barić</description>
+    <pubDate>Wed, 28 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/70/65/20240228-kronika-dana-35016675-20240228214050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.02. 2024-02-27</title>
     <link>https://api.hrt.hr/media/10/94/20240227-kronika-dana-35013018-20240227214024.mp3</link>
     <description>BDP u posljednjem tromjesečju porastao za 4,3 posto. To je rast bruto društvenog proizvoda dvanaesti kvartal zaredom. Saveznici NATO-a isključuju slanje vojnika u Ukrajinu. Komentirajući reakciju predsjednika Milanovića, premijer Plenković rekao da nitko od Hrvatske nije tražio slanje njezinih vojnika. Smanjio se pritisak na hrvatsku granicu, no porastao broj krijumčara migranata. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Rusi planiraju novu ofenzivu krajem svibnja ili na ljeto, ali Ukrajina je spremna za protuofenzivu, rekao ukrajinski predsjednik Zelenski. Dogovor Pantovčaka i Banskih dvora o novom načelniku Glavnog stožera Oružanih snaga. U dolini Neretve i južnoj Hercegovini veliki problemi zbog obilne kiše. Urednica: Sanja Cota</description>
     <pubDate>Sun, 25 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b4/72/20240225-kronika-dana-35005577-20240225214041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.02. 2024-02-24</title>
-    <link>https://api.hrt.hr/media/46/d7/20240224-kronika-dana-35003624-20240224213538.mp3</link>
-    <description>Dvije godine od početka ruske invazije na Ukrajinu kraj rata se ne nazire.Tijelo oporbenog čelnika Alekseja Navaljnog ruske vlasti predale njegovoj majci.Splitska policija istražuje ubojstvo 22-godišnjeg mladića koji je umro nakon napada nožem, napadači navodno ovisnici otprije poznati policiji. Urednica: Mira Barić</description>
-    <pubDate>Sat, 24 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/d7/20240224-kronika-dana-35003624-20240224213538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
