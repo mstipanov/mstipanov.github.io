@@ -6,10 +6,18 @@
         <description>Andromeda je emisija  koja  više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i  astronautike.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Feb 2024 08:15:10 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 08:13:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/a9/8a/image00003-20211204200408.webp</url><title>Andromeda</title><link>https://radio.hrt.hr/slusaonica/andromeda</link></image>
         <item>
+    <title>Andromeda 27.02.2024. 2024-02-27</title>
+    <link>https://api.hrt.hr/media/7d/ef/20240227-andromeda-35013654-20240228074549.mp3</link>
+    <description>Andromeda je emisija  koja  više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i  astronautike.</description>
+    <pubDate>Tue, 27 Feb 2024 19:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7d/ef/20240227-andromeda-35013654-20240228074549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Andromeda 20.02.2024. 2024-02-20</title>
     <link>https://api.hrt.hr/media/cf/a4/20240220-andromeda-34991666-20240221074525.mp3</link>
     <description>Andromeda je emisija  koja  više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i  astronautike.</description>
@@ -79,14 +87,6 @@
     <description>Andromeda je emisija  koja  više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i  astronautike.</description>
     <pubDate>Tue, 12 Dec 2023 19:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/62/93/20231212-andromeda-34772283-20231213073508.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Andromeda 05.12.2023. 2023-12-05</title>
-    <link>https://api.hrt.hr/media/b4/27/20231205-andromeda-34749646-20231206074019.mp3</link>
-    <description>Andromeda je emisija  koja  više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i  astronautike.</description>
-    <pubDate>Tue, 05 Dec 2023 19:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b4/27/20231205-andromeda-34749646-20231206074019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
