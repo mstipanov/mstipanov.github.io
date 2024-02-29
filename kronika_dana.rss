@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Feb 2024 21:48:27 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 21:52:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.02. 2024-02-29</title>
+    <link>https://api.hrt.hr/media/6b/0f/20240229-kronika-dana-35020506-20240229214101.mp3</link>
+    <description>Večeras je na ispitivanje u Ured europskoga javnog tužitelja doveden uhićeni bivši ministar gospodarstva Hrvoje Vojković, sumnjiči se za subvencijske prijevare u poljoprivredi. Premijer i predsjednik dogovorili imenovanje načelnika Glavnog stožera, no predsjednik Milanović tvrdi - još nema dogovora o čelnom čovjeku SOA-e. Više od stotinu ljudi poginulo u Gazi dok su čekali humanitarnu pomoć, kontradiktorne verzije o tome što se dogodilo. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 29 Feb 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6b/0f/20240229-kronika-dana-35020506-20240229214101.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.02. 2024-02-28</title>
     <link>https://api.hrt.hr/media/70/65/20240228-kronika-dana-35016675-20240228214050.mp3</link>
     <description>Predstavljene izmjene Zakona o strancima, uvest će se radne dozvole koje će dulje vrijediti, programi učenja hrvatskog jezika i stroža kontrola poslodavaca.Zbog ubojstva mladog 22-godišnjeg Luke Bančića, u Splitu održan prosvjed "Danas Luka, sutra JA!" Europska bi unija trebala razmotriti da zaradu od zamrznute ruske imovine iskoristi za vojnu pomoć Ukrajini, rekla Ursula fon der Lajen pred Europskim parlamentom. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Parizu se okupili europski čelnici kako bi još snažnije dali potporu Ukrajini. Švedska ulazi u NATO kao 32. članica, mađarski parlament konačno odobrio njezino pristupanje. Europski poljoprivrednici već mjesecima prosvjeduju, danas su se u Briselu sukobili s policijom. Više od 38 tisuća građana upisalo je trezorske zapise. Urednica: Sanja Cota</description>
     <pubDate>Mon, 26 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/af/20240226-kronika-dana-35009162-20240226214007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.02. 2024-02-25</title>
-    <link>https://api.hrt.hr/media/b4/72/20240225-kronika-dana-35005577-20240225214041.mp3</link>
-    <description>Rusi planiraju novu ofenzivu krajem svibnja ili na ljeto, ali Ukrajina je spremna za protuofenzivu, rekao ukrajinski predsjednik Zelenski. Dogovor Pantovčaka i Banskih dvora o novom načelniku Glavnog stožera Oružanih snaga. U dolini Neretve i južnoj Hercegovini veliki problemi zbog obilne kiše. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 25 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b4/72/20240225-kronika-dana-35005577-20240225214041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
