@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Feb 2024 15:16:59 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 14:51:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.02. 2024-02-29</title>
+    <link>https://api.hrt.hr/media/de/f6/20240229-dnevne-novosti-35019191-20240229144100.mp3</link>
+    <description>Radi sigurnosti, Ante Rušić, osumnjičen za ubojstvo 22-godišnjeg mladića u Splitu, premješten u šibenski zatvor. Ured europskog javnog tužitelja uhitio dvije osobe, jedna od njih Hrvoje Vojković, bivši čelnik Croatia osiguranja i bivši ministar gospodarstva. Ruski predsjednik Vladimir Putin u godišnjem govoru o stanju nacije ponovio da će Moskva odgovoriti na svaku prijetnju, što uključuje i primjenu nuklearnog oružja. Urednica: Mira Barić</description>
+    <pubDate>Thu, 29 Feb 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/f6/20240229-dnevne-novosti-35019191-20240229144100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.02. 2024-02-28</title>
     <link>https://api.hrt.hr/media/69/68/20240228-dnevne-novosti-35015728-20240228143549.mp3</link>
     <description>Vlada predstavila izmjene Zakona o strancima, prema nekim procjenama za sedam godina u našoj će ih zemlji biti pola milijuna. Udovica Alekseja Navaljnog u Europskom parlamentu rekla: "Želite pobijediti Putina? Prestanite biti dosadni." U Tirani održan sastanak Ukrajina - jugoistočna Europa. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Istekao je rok za kupnju trezorskih zapisa za građane, u trezorce uložio i premijer Andrej Plenković. Od ponoći skuplji i benzin i dizel. Kaos u Briselu - poljoprivrednici prosvjednici probili barikade, policija uporabila vodene topove. Kako bi omogućio postizanje širokog konsenzusa među Palestincima nakon završetka rata u Pojasu Gaze, palestinski premijer Mohamed Štajeh dao ostavku. Urednik: Silvio Šop</description>
     <pubDate>Mon, 26 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/1b/20240226-dnevne-novosti-35008050-20240226144045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.02. 2024-02-25</title>
-    <link>https://api.hrt.hr/media/89/b3/20240225-dnevne-novosti-35004908-20240225144041.mp3</link>
-    <description>Srbija uputila prosvjednu notu Hrvatskoj zbog izjava ministra Grlića Radmana. Donald Trump sve je bliže službenoj republikanskoj predsjedničkoj nominaciji. Na predizborima u Južnoj Karolini uvjerljivo pobijedio suparnicu Nikki Haley. Večeras veliko finale Dore, doznat ćemo tko će našu zemlju predstavljati na ovogodišnjem Eurosongu u Švedskoj.Urednica: Mira Barić</description>
-    <pubDate>Sun, 25 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/89/b3/20240225-dnevne-novosti-35004908-20240225144041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
