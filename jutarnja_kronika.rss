@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Feb 2024 06:50:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 06:54:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.03. 2024-03-01</title>
+    <link>https://api.hrt.hr/media/37/44/20240301-jutarnja-kronika-35021101-20240301063503.mp3</link>
+    <description>Hrvoje Vojković pušten da se brani sa slobode. Dogovor Banskih dvora i Pantovčaka o načelniku Glavnog stožera Oružanih snaga, ali ne i o ravnatelju SOA-e. U Moskvi će biti pokopan Aleksej Navaljni, ruski oporbeni političar i najoštriji kritičar Vladimira Putina. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/37/44/20240301-jutarnja-kronika-35021101-20240301063503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.02. 2024-02-29</title>
     <link>https://api.hrt.hr/media/ac/be/20240229-jutarnja-kronika-35017196-20240229063606.mp3</link>
     <description>Predstavljene izmjene Zakona o strancima, uvest će se radne dozvole koje će dulje vrijediti, programi učenja hrvatskog jezika i stroža kontrola poslodavaca. Sabor, očekivano, odbio oporbeni prijedlog za raspuštanje, Peđa Grbin najavio prosvjede ljevice diljem Hrvatske. Zbog bezrazložnog ubojstva 22-godišnjeg Luke Bančića, u Splitu jučer održan veliki prosvjed "Danas Luka, sutra JA!". Nakon čak 54 godine, drama "Kraljevo" Miroslava Krleže od večeras ponovno u zagrebačkoj Gaveli. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon što je jučer završio rok za kupnju trezorskih zapisa za građane, danas ih mogu upisati i institucionalni ulagači. Od ponoći su ponovno skuplji i benzin i dizel, litra obiju vrsta goriva sada stoji euro i 49 centi. Europski čelnici okupili su se u Parizu kako bi još snažnije dali potporu Ukrajini. U riječkom Muzeju moderne i suvremene umjetnosti otvara se izložba "Gdje je ženi mjesto?" Urednik: Silvio Šop</description>
     <pubDate>Tue, 27 Feb 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/79/20240227-jutarnja-kronika-35009704-20240227063008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.02. 2024-02-26</title>
-    <link>https://api.hrt.hr/media/13/7c/20240226-jutarnja-kronika-35006157-20240226065543.mp3</link>
-    <description>Još samo do 11 sati građani mogu upisati trezorske zapise. U Parizu sastanak dvadesetak europskih čelnika kako bi dali potporu Ukrajini i poslali poruku Vladimiru Putinu. Od ponoći novo poskupljenje goriva - i benzina i dizela. Urednica: Mira Barić</description>
-    <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/13/7c/20240226-jutarnja-kronika-35006157-20240226065543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
