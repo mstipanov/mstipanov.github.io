@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Feb 2024 14:51:29 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 14:55:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.03. 2024-03-01</title>
+    <link>https://api.hrt.hr/media/97/d7/20240301-dnevne-novosti-35023150-20240301144004.mp3</link>
+    <description>Potpisani temeljni kolektivni ugovori za državnu i javne službe. Inflacija u Hrvatskoj u veljači - 4 cijela 1 posto, što je porast za nula cijelih dva posto u odnosu prema siječnju. U Moskvi posljednji ispraćaj Alekseja Navaljnog, masa uzvikivala "Putin, ubojica!". Sto je dana do europskih izbora. Hrvatski radio u Rijeci održao tribinu "Glas mladih" kojoj je svrha motivirati mlade da izađu na izbore. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 01 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/97/d7/20240301-dnevne-novosti-35023150-20240301144004.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.02. 2024-02-29</title>
     <link>https://api.hrt.hr/media/de/f6/20240229-dnevne-novosti-35019191-20240229144100.mp3</link>
     <description>Radi sigurnosti, Ante Rušić, osumnjičen za ubojstvo 22-godišnjeg mladića u Splitu, premješten u šibenski zatvor. Ured europskog javnog tužitelja uhitio dvije osobe, jedna od njih Hrvoje Vojković, bivši čelnik Croatia osiguranja i bivši ministar gospodarstva. Ruski predsjednik Vladimir Putin u godišnjem govoru o stanju nacije ponovio da će Moskva odgovoriti na svaku prijetnju, što uključuje i primjenu nuklearnog oružja. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U cijeloj prošloj godini gospodarstvo ojačalo 2,8 posto, BDP u zadnjem tomjesečju porastao 4,3 posto. Medicinske sestre, radiolozi, njegovatelji i vozači sanitetskih vozila traže promjenu uredbe o koeficijentima, inače je moguć štrajk. Francuski predsjednik otvorio mogućnost slanja vojnika u Ukrajinu, a Kremlj upozorava da će tada sukob između Rusije i NATO-a biti neizbježan. Urednica: Sanja Cota</description>
     <pubDate>Tue, 27 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/17/20240227-dnevne-novosti-35012032-20240227144023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.02. 2024-02-26</title>
-    <link>https://api.hrt.hr/media/e5/1b/20240226-dnevne-novosti-35008050-20240226144045.mp3</link>
-    <description>Istekao je rok za kupnju trezorskih zapisa za građane, u trezorce uložio i premijer Andrej Plenković. Od ponoći skuplji i benzin i dizel. Kaos u Briselu - poljoprivrednici prosvjednici probili barikade, policija uporabila vodene topove. Kako bi omogućio postizanje širokog konsenzusa među Palestincima nakon završetka rata u Pojasu Gaze, palestinski premijer Mohamed Štajeh dao ostavku. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 26 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/1b/20240226-dnevne-novosti-35008050-20240226144045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
