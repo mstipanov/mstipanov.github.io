@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Mar 2024 14:55:21 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 15:29:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.03. 2024-03-02</title>
+    <link>https://api.hrt.hr/media/a8/88/20240302-dnevne-novosti-35025745-20240302144009.mp3</link>
+    <description>Školski sindikat Preporod i nastavničke grupe iz cijele Hrvatske prosvjedovali na Europskom trgu u Zagrebu. Tvrde da postojeći koeficijenti ne jamče jednaku plaću za jednak rad. Zaređen novi banjolučki biskup Željko Majić. Hrvatska će nastaviti snažno podupirati Bosnu i Hercegovinu na njezinu europskom putu, izjavio u Banjoj Luci premijer Plenković. U Odesi dvoje ljudi poginulo, a osam ranjeno nakon što se ruski dron srušio na stambeni blok. Ruske vlasti tvrde da nitko nije stradao u eksplozijama koje su odjeknule u Sankt Peterburgu. U Maksimiru izborna skupština Dinama. Prvi put biraju i navijači, članovi kluba. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 02 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/88/20240302-dnevne-novosti-35025745-20240302144009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.03. 2024-03-01</title>
     <link>https://api.hrt.hr/media/97/d7/20240301-dnevne-novosti-35023150-20240301144004.mp3</link>
     <description>Potpisani temeljni kolektivni ugovori za državnu i javne službe. Inflacija u Hrvatskoj u veljači - 4 cijela 1 posto, što je porast za nula cijelih dva posto u odnosu prema siječnju. U Moskvi posljednji ispraćaj Alekseja Navaljnog, masa uzvikivala "Putin, ubojica!". Sto je dana do europskih izbora. Hrvatski radio u Rijeci održao tribinu "Glas mladih" kojoj je svrha motivirati mlade da izađu na izbore. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vlada predstavila izmjene Zakona o strancima, prema nekim procjenama za sedam godina u našoj će ih zemlji biti pola milijuna. Udovica Alekseja Navaljnog u Europskom parlamentu rekla: "Želite pobijediti Putina? Prestanite biti dosadni." U Tirani održan sastanak Ukrajina - jugoistočna Europa. Urednica: Sanja Cota</description>
     <pubDate>Wed, 28 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/68/20240228-dnevne-novosti-35015728-20240228143549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 27.02. 2024-02-27</title>
-    <link>https://api.hrt.hr/media/54/17/20240227-dnevne-novosti-35012032-20240227144023.mp3</link>
-    <description>U cijeloj prošloj godini gospodarstvo ojačalo 2,8 posto, BDP u zadnjem tomjesečju porastao 4,3 posto. Medicinske sestre, radiolozi, njegovatelji i vozači sanitetskih vozila traže promjenu uredbe o koeficijentima, inače je moguć štrajk. Francuski predsjednik otvorio mogućnost slanja vojnika u Ukrajinu, a Kremlj upozorava da će tada sukob između Rusije i NATO-a biti neizbježan. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 27 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/54/17/20240227-dnevne-novosti-35012032-20240227144023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
