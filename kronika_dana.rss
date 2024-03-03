@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Mar 2024 22:00:47 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 22:04:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.03. 2024-03-03</title>
+    <link>https://api.hrt.hr/media/c0/8b/20240303-kronika-dana-35028740-20240303214013.mp3</link>
+    <description>U Solinu teško ozlijeđeno dijete - opečeno odbačenom zapaljivom tekućinom. Izraelci nisu došli na pregovore s Hamasom o privremenom prekidu vatre u pojasu Gaze. Švicarci na referendumu glasovali za uvođenje trinaeste mirovine. Sutra počinju nacionalni ispiti za učenike četvrtih razreda osnovnih škola. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 03 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c0/8b/20240303-kronika-dana-35028740-20240303214013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.03. 2024-03-02</title>
     <link>https://api.hrt.hr/media/a2/79/20240302-kronika-dana-35026489-20240302214510.mp3</link>
     <description>Pod geslom "Mijenjajte koeficijente" u središtu Zagreba ponovno prosvjedovali nastavnici. Izrael, prema riječima neimenovanog američkog dužnosnika, navodno pristao na šestotjedni prekid vatre.
@@ -32,14 +40,6 @@ U Banjoj Luci zaređen novi biskup, don Željko Majić. Zajecova lista "Dinamovo
     <description>Večeras je na ispitivanje u Ured europskoga javnog tužitelja doveden uhićeni bivši ministar gospodarstva Hrvoje Vojković, sumnjiči se za subvencijske prijevare u poljoprivredi. Premijer i predsjednik dogovorili imenovanje načelnika Glavnog stožera, no predsjednik Milanović tvrdi - još nema dogovora o čelnom čovjeku SOA-e. Više od stotinu ljudi poginulo u Gazi dok su čekali humanitarnu pomoć, kontradiktorne verzije o tome što se dogodilo. Urednica: Sanja Cota</description>
     <pubDate>Thu, 29 Feb 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6b/0f/20240229-kronika-dana-35020506-20240229214101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.02. 2024-02-28</title>
-    <link>https://api.hrt.hr/media/70/65/20240228-kronika-dana-35016675-20240228214050.mp3</link>
-    <description>Predstavljene izmjene Zakona o strancima, uvest će se radne dozvole koje će dulje vrijediti, programi učenja hrvatskog jezika i stroža kontrola poslodavaca.Zbog ubojstva mladog 22-godišnjeg Luke Bančića, u Splitu održan prosvjed "Danas Luka, sutra JA!" Europska bi unija trebala razmotriti da zaradu od zamrznute ruske imovine iskoristi za vojnu pomoć Ukrajini, rekla Ursula fon der Lajen pred Europskim parlamentom. Urednica: Mira Barić</description>
-    <pubDate>Wed, 28 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/65/20240228-kronika-dana-35016675-20240228214050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
