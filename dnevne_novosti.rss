@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Mar 2024 15:29:41 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 15:03:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.03. 2024-03-03</title>
+    <link>https://api.hrt.hr/media/18/96/20240303-dnevne-novosti-35027867-20240303144012.mp3</link>
+    <description>Je li na pomolu privremeni prekid vatre u Gazi? Ruska protuzračna obrana iznad Krimskog poluotoka uništila 38 ukrajinskih dronova. Mećava u Kaliforniji i Nevadi. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 03 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/18/96/20240303-dnevne-novosti-35027867-20240303144012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.03. 2024-03-02</title>
     <link>https://api.hrt.hr/media/a8/88/20240302-dnevne-novosti-35025745-20240302144009.mp3</link>
     <description>Školski sindikat Preporod i nastavničke grupe iz cijele Hrvatske prosvjedovali na Europskom trgu u Zagrebu. Tvrde da postojeći koeficijenti ne jamče jednaku plaću za jednak rad. Zaređen novi banjolučki biskup Željko Majić. Hrvatska će nastaviti snažno podupirati Bosnu i Hercegovinu na njezinu europskom putu, izjavio u Banjoj Luci premijer Plenković. U Odesi dvoje ljudi poginulo, a osam ranjeno nakon što se ruski dron srušio na stambeni blok. Ruske vlasti tvrde da nitko nije stradao u eksplozijama koje su odjeknule u Sankt Peterburgu. U Maksimiru izborna skupština Dinama. Prvi put biraju i navijači, članovi kluba. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Radi sigurnosti, Ante Rušić, osumnjičen za ubojstvo 22-godišnjeg mladića u Splitu, premješten u šibenski zatvor. Ured europskog javnog tužitelja uhitio dvije osobe, jedna od njih Hrvoje Vojković, bivši čelnik Croatia osiguranja i bivši ministar gospodarstva. Ruski predsjednik Vladimir Putin u godišnjem govoru o stanju nacije ponovio da će Moskva odgovoriti na svaku prijetnju, što uključuje i primjenu nuklearnog oružja. Urednica: Mira Barić</description>
     <pubDate>Thu, 29 Feb 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/f6/20240229-dnevne-novosti-35019191-20240229144100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.02. 2024-02-28</title>
-    <link>https://api.hrt.hr/media/69/68/20240228-dnevne-novosti-35015728-20240228143549.mp3</link>
-    <description>Vlada predstavila izmjene Zakona o strancima, prema nekim procjenama za sedam godina u našoj će ih zemlji biti pola milijuna. Udovica Alekseja Navaljnog u Europskom parlamentu rekla: "Želite pobijediti Putina? Prestanite biti dosadni." U Tirani održan sastanak Ukrajina - jugoistočna Europa. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 28 Feb 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/68/20240228-dnevne-novosti-35015728-20240228143549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
