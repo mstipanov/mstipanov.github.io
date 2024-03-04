@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Mar 2024 22:04:37 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 21:39:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.03. 2024-03-04</title>
+    <link>https://api.hrt.hr/media/8d/cc/20240304-kronika-dana-35032099-20240304213515.mp3</link>
+    <description>Na parlamentarne izbore izlazimo potkraj travnja ili u svibnju. "Ukrajina je neopozivo Rusija", izjavio Dmitrij Medvedev ispred zemljovida na kojemu je prikazana malena Ukrajina. Francuska prva zemlja na svijetu koja je pravo na pobačaj uvrstila u ustav. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 04 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/cc/20240304-kronika-dana-35032099-20240304213515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.03. 2024-03-03</title>
     <link>https://api.hrt.hr/media/c0/8b/20240303-kronika-dana-35028740-20240303214013.mp3</link>
     <description>U Solinu teško ozlijeđeno dijete - opečeno odbačenom zapaljivom tekućinom. Izraelci nisu došli na pregovore s Hamasom o privremenom prekidu vatre u pojasu Gaze. Švicarci na referendumu glasovali za uvođenje trinaeste mirovine. Sutra počinju nacionalni ispiti za učenike četvrtih razreda osnovnih škola. Urednica: Sanja Rabuzin</description>
@@ -32,14 +40,6 @@ U Banjoj Luci zaređen novi biskup, don Željko Majić. Zajecova lista "Dinamovo
     <description>Od danas se primjenjuju nove Uredbe o koeficijentima za obračun plaća u državnoj i javnim službama, a potpisani su i novi kolektivni ugovori. General-pukovnik Tihomir Kundid imenovan za načelnika Glavnog stožera Oružanih snaga. U Moskvi ispraćen Aleksej Navaljni, mnoštvo uzvikivalo "Putin, ubojica!". Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 01 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/7c/20240301-kronika-dana-35024132-20240301214005.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.02. 2024-02-29</title>
-    <link>https://api.hrt.hr/media/6b/0f/20240229-kronika-dana-35020506-20240229214101.mp3</link>
-    <description>Večeras je na ispitivanje u Ured europskoga javnog tužitelja doveden uhićeni bivši ministar gospodarstva Hrvoje Vojković, sumnjiči se za subvencijske prijevare u poljoprivredi. Premijer i predsjednik dogovorili imenovanje načelnika Glavnog stožera, no predsjednik Milanović tvrdi - još nema dogovora o čelnom čovjeku SOA-e. Više od stotinu ljudi poginulo u Gazi dok su čekali humanitarnu pomoć, kontradiktorne verzije o tome što se dogodilo. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 29 Feb 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6b/0f/20240229-kronika-dana-35020506-20240229214101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
