@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Mar 2024 21:39:40 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 21:44:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.03. 2024-03-05</title>
+    <link>https://api.hrt.hr/media/d3/46/20240305-kronika-dana-35035489-20240305214028.mp3</link>
+    <description>SDP i još 9 stranaka dogovorili zajednički izlazak na izbore. Premijer Plenković nazvao ih kobasičastom koalicijom.Mađarska ne želi poduprijeti kandidaturu nizozemskog premijera Marka Ruttea za glavnog tajnika NATO saveza. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 05 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d3/46/20240305-kronika-dana-35035489-20240305214028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.03. 2024-03-04</title>
     <link>https://api.hrt.hr/media/8d/cc/20240304-kronika-dana-35032099-20240304213515.mp3</link>
     <description>Na parlamentarne izbore izlazimo potkraj travnja ili u svibnju. "Ukrajina je neopozivo Rusija", izjavio Dmitrij Medvedev ispred zemljovida na kojemu je prikazana malena Ukrajina. Francuska prva zemlja na svijetu koja je pravo na pobačaj uvrstila u ustav. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 U Banjoj Luci zaređen novi biskup, don Željko Majić. Zajecova lista "Dinamovo proljeće" pobjednik povijesnih izbora u Dinamu. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 02 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a2/79/20240302-kronika-dana-35026489-20240302214510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.03. 2024-03-01</title>
-    <link>https://api.hrt.hr/media/1b/7c/20240301-kronika-dana-35024132-20240301214005.mp3</link>
-    <description>Od danas se primjenjuju nove Uredbe o koeficijentima za obračun plaća u državnoj i javnim službama, a potpisani su i novi kolektivni ugovori. General-pukovnik Tihomir Kundid imenovan za načelnika Glavnog stožera Oružanih snaga. U Moskvi ispraćen Aleksej Navaljni, mnoštvo uzvikivalo "Putin, ubojica!". Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 01 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1b/7c/20240301-kronika-dana-35024132-20240301214005.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
