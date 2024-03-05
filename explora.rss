@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Feb 2024 11:14:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 17:12:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 05.03.2024. 2024-03-05</title>
+    <link>https://api.hrt.hr/media/6a/f0/20240305-explora-8043323-20240305170523.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 05 Mar 2024 16:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6a/f0/20240305-explora-8043323-20240305170523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 27.02.2024. 2024-02-27</title>
     <link>https://api.hrt.hr/media/e4/4f/20240227-explora-8041023-20240227175524.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -82,14 +90,6 @@ U ovoj emisiji - Kako ostati smiren? Simulacija kraja vremena i Davos.  Hrvati n
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
     <pubDate>Tue, 02 Jan 2024 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/ed/20240102-explora-8021620-20240102170106.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 26.12.2023. 2023-12-26</title>
-    <link>https://api.hrt.hr/media/f0/86/20231226-explora-8019242-20231226160530.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 26 Dec 2023 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f0/86/20231226-explora-8019242-20231226160530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
