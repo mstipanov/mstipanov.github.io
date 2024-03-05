@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Mar 2024 07:05:58 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 06:41:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.03. 2024-03-05</title>
+    <link>https://api.hrt.hr/media/0d/e9/20240305-jutarnja-kronika-35032618-20240305063517.mp3</link>
+    <description>Nema više neizvjesnosti - na parlamentarne ćemo izbore ovog proljeća, točnije potkraj travnja ili u svibnju. Sabor će raspraviti konačni tekst zakona kojim se rješava problem zaštićenih najmoprimaca. U Sjedinjenim Državama super-utorak - dan kada se u najvećem broju saveznih država održavaju stranački predizbori za kandidate na predsjedničkim izborima. Hrvatska turistička ponuda predstavlja se na najvećoj svjetskoj turističkoj burzi u Berlinu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 05 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/e9/20240305-jutarnja-kronika-35032618-20240305063517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.03. 2024-03-04</title>
     <link>https://api.hrt.hr/media/98/38/20240304-jutarnja-kronika-35029289-20240304063515.mp3</link>
     <description>U osnovnim školama počinju nacionalni ispiti. Prvi ih pišu učenici četvrtih razreda. U Solinu odbačenom zapaljivom tekućinom teško opečena djevojčica. Novi skok cijena nafte na svjetskim burzama. Napokon počinju radovi na obnovi zagrebačkog Jadranskog mosta. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Zbog nezadovoljstva koeficijentima plaća, u Zagrebu novi prosvjed školskog sindikata Preporod. U Banjoj Luci bit će zaređen novi biskup Željko Majić, Franjo Komarica odlazi u mirovinu. Američki predsjednik Biden nada se dogovoru o prekidu vatre u Gazi do početka ramazana. Bira se Skupština nogometnog kluba Dinama. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 02 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/83/20240302-jutarnja-kronika-35024661-20240302063009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.03. 2024-03-01</title>
-    <link>https://api.hrt.hr/media/37/44/20240301-jutarnja-kronika-35021101-20240301063503.mp3</link>
-    <description>Hrvoje Vojković pušten da se brani sa slobode. Dogovor Banskih dvora i Pantovčaka o načelniku Glavnog stožera Oružanih snaga, ali ne i o ravnatelju SOA-e. U Moskvi će biti pokopan Aleksej Navaljni, ruski oporbeni političar i najoštriji kritičar Vladimira Putina. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/37/44/20240301-jutarnja-kronika-35021101-20240301063503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
