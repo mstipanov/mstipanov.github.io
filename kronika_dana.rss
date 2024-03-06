@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 05 Mar 2024 21:44:14 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 21:48:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>U Solinu teško ozlijeđeno dijete - opečeno odbačenom zapaljivom tekućinom. Izraelci nisu došli na pregovore s Hamasom o privremenom prekidu vatre u pojasu Gaze. Švicarci na referendumu glasovali za uvođenje trinaeste mirovine. Sutra počinju nacionalni ispiti za učenike četvrtih razreda osnovnih škola. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 03 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c0/8b/20240303-kronika-dana-35028740-20240303214013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.03. 2024-03-02</title>
-    <link>https://api.hrt.hr/media/a2/79/20240302-kronika-dana-35026489-20240302214510.mp3</link>
-    <description>Pod geslom "Mijenjajte koeficijente" u središtu Zagreba ponovno prosvjedovali nastavnici. Izrael, prema riječima neimenovanog američkog dužnosnika, navodno pristao na šestotjedni prekid vatre.
-U Banjoj Luci zaređen novi biskup, don Željko Majić. Zajecova lista "Dinamovo proljeće" pobjednik povijesnih izbora u Dinamu. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 02 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/79/20240302-kronika-dana-35026489-20240302214510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
