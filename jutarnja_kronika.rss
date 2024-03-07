@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 06 Mar 2024 06:45:35 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 06:49:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.03. 2024-03-07</title>
+    <link>https://api.hrt.hr/media/76/87/20240307-jutarnja-kronika-35039404-20240307064053.mp3</link>
+    <description>Mnogobrojne reakcije na predizbornu koaliciju SDP-a i lijevih stranaka. Europska pučka stranka trebala bi potvrditi kandidaturu Ursule von der Leyen za predsjednicu Europske komisije. Danas će im se obratiti i premijer Plenković. Očekuje se odluka o štrajku pomoćnog medicinskog osoblja. Prve žrtve u Crvenome moru. U raketnom napadu hutista poginula tri pomorca. Dinamo na Maksimiru ugošćuje grčki PAOK u prvoj utakmici osmine finala Konferencijske lige. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/76/87/20240307-jutarnja-kronika-35039404-20240307064053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.03. 2024-03-06</title>
     <link>https://api.hrt.hr/media/7e/cb/20240306-jutarnja-kronika-35036096-20240306063531.mp3</link>
     <description>Dogovoren zajednički izlazak na izbore SDP-a i devet stranaka lijevo liberalnog spektra. Premijer Plenković nazvao ih kobasičastom koalicijom.Superutorak potvrdio da su Donald Trump i Joe Biden nadomak predsjedničkim kandidaturama svojih stranaka.Svjetska zdravstvena organizacija upozorava - pojasom Gaze vlada glad.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U osnovnim školama počinju nacionalni ispiti. Prvi ih pišu učenici četvrtih razreda. U Solinu odbačenom zapaljivom tekućinom teško opečena djevojčica. Novi skok cijena nafte na svjetskim burzama. Napokon počinju radovi na obnovi zagrebačkog Jadranskog mosta. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/98/38/20240304-jutarnja-kronika-35029289-20240304063515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.03. 2024-03-03</title>
-    <link>https://api.hrt.hr/media/02/88/20240303-jutarnja-kronika-35027023-20240303064011.mp3</link>
-    <description>Rusi tvrde da su iznad Krima srušili 38 ukrajinskih bespilotnih letjelica. Izrael navodno pristao na šestotjedni prekid vatre. Sindikat Preporod ne popušta s pritiscima na Vladu zbog koeficijenata plaća. Na jučerašnjem prosvjedu u Zagrebu izvikivalo se "Uredba - Uvreda!" Zajecova lista "Dinamovo proljeće" pobjednik povijesnih izbora u Dinamu. U Zagrebu se održava tradicionalna utrka Holjevka, na kojoj se očekuje više od petsto sudionika. Provodi se posebna regulacija prometa. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 03 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/02/88/20240303-jutarnja-kronika-35027023-20240303064011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
