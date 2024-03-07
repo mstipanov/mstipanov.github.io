@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 06 Mar 2024 21:48:11 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 21:51:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.03. 2024-03-07</title>
+    <link>https://api.hrt.hr/media/07/eb/20240307-kronika-dana-35042534-20240307214055.mp3</link>
+    <description>Uoči izbora lijevo - liberalne stranke nastoje učvrstiti dogovorenu koaliciju, HDZ siguran u pobjedu. Amerika će napraviti privremenu luku na obali Pojasa Gaze kako bi morem dostavljali humanitarnu pomoć. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 07 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/eb/20240307-kronika-dana-35042534-20240307214055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.03. 2024-03-05</title>
     <link>https://api.hrt.hr/media/d3/46/20240305-kronika-dana-35035489-20240305214028.mp3</link>
     <description>SDP i još 9 stranaka dogovorili zajednički izlazak na izbore. Premijer Plenković nazvao ih kobasičastom koalicijom.Mađarska ne želi poduprijeti kandidaturu nizozemskog premijera Marka Ruttea za glavnog tajnika NATO saveza. Urednica: Sanja Cota</description>
@@ -23,14 +31,6 @@
     <description>Na parlamentarne izbore izlazimo potkraj travnja ili u svibnju. "Ukrajina je neopozivo Rusija", izjavio Dmitrij Medvedev ispred zemljovida na kojemu je prikazana malena Ukrajina. Francuska prva zemlja na svijetu koja je pravo na pobačaj uvrstila u ustav. Urednica: Sanja Cota</description>
     <pubDate>Mon, 04 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8d/cc/20240304-kronika-dana-35032099-20240304213515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.03. 2024-03-03</title>
-    <link>https://api.hrt.hr/media/c0/8b/20240303-kronika-dana-35028740-20240303214013.mp3</link>
-    <description>U Solinu teško ozlijeđeno dijete - opečeno odbačenom zapaljivom tekućinom. Izraelci nisu došli na pregovore s Hamasom o privremenom prekidu vatre u pojasu Gaze. Švicarci na referendumu glasovali za uvođenje trinaeste mirovine. Sutra počinju nacionalni ispiti za učenike četvrtih razreda osnovnih škola. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 03 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c0/8b/20240303-kronika-dana-35028740-20240303214013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
