@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Mar 2024 15:20:51 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 14:55:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.03. 2024-03-08</title>
+    <link>https://api.hrt.hr/media/7f/f0/20240308-dnevne-novosti-35045138-20240308144100.mp3</link>
+    <description>Idućeg četvrtka, 14. ovog mjeseca, raspušta se Hrvatski sabor, objavio na Vladinoj sjednici premijer Plenković. Vlada priprema paket mjera za subvenciju energenata, ali i paket mjera pomoći umirovljenicima. General pukovnik Tihomir Kundid preuzeo je dužnost načelnika Glavnog stožera Oružanih snaga. Međunarodni je dan žena. Mnogim se akcijama upozorava na slučajeve zlostavljanja i neravnopravnosti. Večeras će u gradovima diljem zemlje žene održati noćni marš. Američki predsjednik Biden u govoru o stanju nacije upozorio na ugroženost demokracije u zemlji i svijetu. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 08 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7f/f0/20240308-dnevne-novosti-35045138-20240308144100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.03. 2024-03-07</title>
     <link>https://api.hrt.hr/media/8c/83/20240307-dnevne-novosti-35041462-20240307144053.mp3</link>
     <description>U središtu zanimanja domaće politike mogući datum raspuštanja Sabora i koalicije za predstojeće parlamentarne izbore. Ursula von der Leyen kandidatkinja je Europske pučke stranke za novi mandat na mjestu predsjednice Europske komisije. Prosječna cijena četvornog metra novog stana u Hrvatskoj prošle godine bila je dvije tisuće 246 eura, gotovo tri posto više u odnosu prema 2022.-goj godini. Teške prometne nesreće na autocestama Bregana-Bajakovo i Rijeka-Zagreb, dvoje poginulih. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Mogući datumi parlamentarnih izbora i pripreme za njih - glavna tema u Saboru, sve stranke poručuju - spremne su, bili u travnju ili u svibnju". Dokazi Ureda europskog javnog tužitelja protiv Gabrijele Žalac - zakoniti, odlučio Visoki kazneni sud. Superutorak - američki birači glasuju za stranačku nominaciju za predsjedničke izbore. Pet i pol godina nakon smrti legendarnog Olivera Dragojevića, Jadrolinijin trajekt "Vela Luka" preimenovan u "Oliver". Urednica: Mira Barić</description>
     <pubDate>Tue, 05 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/2e/20240305-dnevne-novosti-35034547-20240305144018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.03. 2024-03-04</title>
-    <link>https://api.hrt.hr/media/04/fd/20240304-dnevne-novosti-35031127-20240304144015.mp3</link>
-    <description>Na pregovorima u Kairu nema izraelskog izaslanstva. Diplomati SAD-a, Katara i Egipta i dalje pokušavaju dogovoriti privremeni prekid vatre u Pojasu Gaze. Počela provedba nacionalnih ispita u osnovnim školama. Novost da ih uz osmaše pišu i učenici četvrtih razreda. Francuska će postati prva zemlja koja će pravo na pobačaj unijeti u Ustav; o Vladinu prijedlogu u Versaillesu poslijepodne odlučuju zastupnici donjeg i gornjeg doma parlamenta. Urednica: Mira Barić</description>
-    <pubDate>Mon, 04 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/fd/20240304-dnevne-novosti-35031127-20240304144015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
