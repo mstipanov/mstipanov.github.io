@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Mar 2024 06:49:32 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 06:53:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.03. 2024-03-08</title>
+    <link>https://api.hrt.hr/media/ef/df/20240308-jutarnja-kronika-35043170-20240308064057.mp3</link>
+    <description>Uoči izbora lijevo-liberalne stranke nastoje učvrstiti dogovorenu koaliciju, HDZ siguran u pobjedu. Mnogobrojnim događajima obilježit će se Međunarodni dan žena. Američki predsjednik Joe Biden održao govor o stanju nacije. U osječkom HNK-u premijera predstave "Maratonci trče počasni krug". Urednik: Silvio Šop</description>
+    <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ef/df/20240308-jutarnja-kronika-35043170-20240308064057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.03. 2024-03-07</title>
     <link>https://api.hrt.hr/media/76/87/20240307-jutarnja-kronika-35039404-20240307064053.mp3</link>
     <description>Mnogobrojne reakcije na predizbornu koaliciju SDP-a i lijevih stranaka. Europska pučka stranka trebala bi potvrditi kandidaturu Ursule von der Leyen za predsjednicu Europske komisije. Danas će im se obratiti i premijer Plenković. Očekuje se odluka o štrajku pomoćnog medicinskog osoblja. Prve žrtve u Crvenome moru. U raketnom napadu hutista poginula tri pomorca. Dinamo na Maksimiru ugošćuje grčki PAOK u prvoj utakmici osmine finala Konferencijske lige. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Nema više neizvjesnosti - na parlamentarne ćemo izbore ovog proljeća, točnije potkraj travnja ili u svibnju. Sabor će raspraviti konačni tekst zakona kojim se rješava problem zaštićenih najmoprimaca. U Sjedinjenim Državama super-utorak - dan kada se u najvećem broju saveznih država održavaju stranački predizbori za kandidate na predsjedničkim izborima. Hrvatska turistička ponuda predstavlja se na najvećoj svjetskoj turističkoj burzi u Berlinu. Urednik: Silvio Šop</description>
     <pubDate>Tue, 05 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0d/e9/20240305-jutarnja-kronika-35032618-20240305063517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.03. 2024-03-04</title>
-    <link>https://api.hrt.hr/media/98/38/20240304-jutarnja-kronika-35029289-20240304063515.mp3</link>
-    <description>U osnovnim školama počinju nacionalni ispiti. Prvi ih pišu učenici četvrtih razreda. U Solinu odbačenom zapaljivom tekućinom teško opečena djevojčica. Novi skok cijena nafte na svjetskim burzama. Napokon počinju radovi na obnovi zagrebačkog Jadranskog mosta. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/38/20240304-jutarnja-kronika-35029289-20240304063515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
