@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Mar 2024 07:28:17 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 06:33:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.03. 2024-03-10</title>
+    <link>https://api.hrt.hr/media/e8/ad/20240310-jutarnja-kronika-35049189-20240310063019.mp3</link>
+    <description>Na stadionu u Maksimiru izborna skupština Dinama. Novog predsjednika birat će između dosadašnjeg Mirka Barišića i Velimira Zajeca.Dok se čeka datum parlamentarnih izbora, zahuktava se neslužbena kampanja.Pred nama je 96. noć Oskara. Najveći favorit Oppenheimer Christophera Nolana. Urednica: Mira Barić</description>
+    <pubDate>Sun, 10 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/ad/20240310-jutarnja-kronika-35049189-20240310063019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.03. 2024-03-09</title>
     <link>https://api.hrt.hr/media/c5/e5/20240309-jutarnja-kronika-35046620-20240309071102.mp3</link>
     <description>Sabor će biti raspušten sljedećeg četvrtka, 14-og ovog mjeseca. Nakon toga predsjednik Zoran Milanović ima od 30 do 60 dana za raspisivanje parlamentarnih izbora. Vlada najavila novi paket mjera kojim se građanstvu i gospodarstvu osigurava daljnje subvencioniranje cijena energenata, a sljedećeg će tjedna donijeti i osmi paket pomoći umirovljenicima. Najkasnije preksutra trebao bi biti otvoren pomorski koridor između Cipra i Gaze za dostavu pomoći Palestincima, najavila je predsjednica Europske komisije Ursula von der Leyen. Od utorka litra benzina i dizela trebala bi stajati isto - euro i 45 centi.
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Mnogobrojne reakcije na predizbornu koaliciju SDP-a i lijevih stranaka. Europska pučka stranka trebala bi potvrditi kandidaturu Ursule von der Leyen za predsjednicu Europske komisije. Danas će im se obratiti i premijer Plenković. Očekuje se odluka o štrajku pomoćnog medicinskog osoblja. Prve žrtve u Crvenome moru. U raketnom napadu hutista poginula tri pomorca. Dinamo na Maksimiru ugošćuje grčki PAOK u prvoj utakmici osmine finala Konferencijske lige. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/76/87/20240307-jutarnja-kronika-35039404-20240307064053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.03. 2024-03-06</title>
-    <link>https://api.hrt.hr/media/7e/cb/20240306-jutarnja-kronika-35036096-20240306063531.mp3</link>
-    <description>Dogovoren zajednički izlazak na izbore SDP-a i devet stranaka lijevo liberalnog spektra. Premijer Plenković nazvao ih kobasičastom koalicijom.Superutorak potvrdio da su Donald Trump i Joe Biden nadomak predsjedničkim kandidaturama svojih stranaka.Svjetska zdravstvena organizacija upozorava - pojasom Gaze vlada glad.Urednica: Mira Barić</description>
-    <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7e/cb/20240306-jutarnja-kronika-35036096-20240306063531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
