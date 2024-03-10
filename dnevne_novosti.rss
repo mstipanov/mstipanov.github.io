@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Mar 2024 14:59:51 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 15:05:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.03. 2024-03-10</title>
+    <link>https://api.hrt.hr/media/ca/23/20240310-dnevne-novosti-35050177-20240310144020.mp3</link>
+    <description>Glavna europska tužiteljica Laura Kovesi o navodima premijera Plenkovića da je u slučaju Geodetski fakultet prekoračila ovlasti - to je dimna zavjesa, taj sam film već gledala, nećemo se zaustaviti. Obilježen Dan hrvatskih branitelja Vukovara. Legenda Dinama Velimir Zajec postao je novi predsjednik kluba, što su na Maksimiru proslavile tisuće navijača. Pred nama je 96. noć Oskara. Najveći favorit je "Oppenheimer" Christophera Nolana.: Silvio Šop</description>
+    <pubDate>Sun, 10 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/23/20240310-dnevne-novosti-35050177-20240310144020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.03. 2024-03-09</title>
     <link>https://api.hrt.hr/media/f5/44/20240309-dnevne-novosti-35047678-20240309144103.mp3</link>
     <description>Iako je datum izbora još nepoznat, političari uglavnom na terenu.U Zagrebu sinoć i četvrti potres u samo dva dana. Seizmolozi kažu - svjedoci smo pojačane seizmičke aktivnosti, no ti manji potresi nisu nužno predznaci nekog većeg.Gotovo je sigurno da se sporazum o prekidu vatre u Gazi neće postići prije svetoga muslimanskog mjeseca ramazana koji počinje u ponedjeljak.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U središtu zanimanja domaće politike mogući datum raspuštanja Sabora i koalicije za predstojeće parlamentarne izbore. Ursula von der Leyen kandidatkinja je Europske pučke stranke za novi mandat na mjestu predsjednice Europske komisije. Prosječna cijena četvornog metra novog stana u Hrvatskoj prošle godine bila je dvije tisuće 246 eura, gotovo tri posto više u odnosu prema 2022.-goj godini. Teške prometne nesreće na autocestama Bregana-Bajakovo i Rijeka-Zagreb, dvoje poginulih. Urednik: Silvio Šop</description>
     <pubDate>Thu, 07 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8c/83/20240307-dnevne-novosti-35041462-20240307144053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.03. 2024-03-06</title>
-    <link>https://api.hrt.hr/media/1d/9b/20240306-dnevne-novosti-35037930-20240306144034.mp3</link>
-    <description>Zakon prozvan "lex AP" ponovno oštro kritiziran u Saboru. Kutinska Petrokemija ide u dokapitalizaciju - odlučeno na Skupštini društva. U Rusiji 15. ovog mjeseca predsjednički izbori, Julia Navaljna pozvala na prosvjede pred biralištima. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 06 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1d/9b/20240306-dnevne-novosti-35037930-20240306144034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
