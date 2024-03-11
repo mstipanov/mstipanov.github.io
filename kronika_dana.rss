@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 10 Mar 2024 22:06:42 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 21:40:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Legenda Dinama Velimir Zajec novi je predsjednik kluba. Navijači slave. Noćas 
     <description>Hrvatski sabor bit će raspušten sljedeći četvrtak, 14-og ovog mjeseca. Nakon toga predsjednik Milanović ima 30 do 60 dana za raspisivanje izbora.Od nedjelje bi trebao biti otvoren pomorski koridor između Cipra i Gaze za dostavu pomoći Palestincima, najavila je predsjednica Europske komisije Ursula von der Leyen.	Prosvjedima diljem Hrvatske i svijeta obilježen Međunarodni dan žena. Urednica: Mira Barić</description>
     <pubDate>Fri, 08 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bd/9d/20240308-kronika-dana-35046032-20240308213556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.03. 2024-03-07</title>
-    <link>https://api.hrt.hr/media/07/eb/20240307-kronika-dana-35042534-20240307214055.mp3</link>
-    <description>Uoči izbora lijevo - liberalne stranke nastoje učvrstiti dogovorenu koaliciju, HDZ siguran u pobjedu. Amerika će napraviti privremenu luku na obali Pojasa Gaze kako bi morem dostavljali humanitarnu pomoć. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 07 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/07/eb/20240307-kronika-dana-35042534-20240307214055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
