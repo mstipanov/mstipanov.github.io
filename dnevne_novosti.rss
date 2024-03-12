@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Mar 2024 15:09:32 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 14:43:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Iako je datum izbora još nepoznat, političari uglavnom na terenu.U Zagrebu sinoć i četvrti potres u samo dva dana. Seizmolozi kažu - svjedoci smo pojačane seizmičke aktivnosti, no ti manji potresi nisu nužno predznaci nekog većeg.Gotovo je sigurno da se sporazum o prekidu vatre u Gazi neće postići prije svetoga muslimanskog mjeseca ramazana koji počinje u ponedjeljak.Urednica: Mira Barić</description>
     <pubDate>Sat, 09 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f5/44/20240309-dnevne-novosti-35047678-20240309144103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.03. 2024-03-08</title>
-    <link>https://api.hrt.hr/media/7f/f0/20240308-dnevne-novosti-35045138-20240308144100.mp3</link>
-    <description>Idućeg četvrtka, 14. ovog mjeseca, raspušta se Hrvatski sabor, objavio na Vladinoj sjednici premijer Plenković. Vlada priprema paket mjera za subvenciju energenata, ali i paket mjera pomoći umirovljenicima. General pukovnik Tihomir Kundid preuzeo je dužnost načelnika Glavnog stožera Oružanih snaga. Međunarodni je dan žena. Mnogim se akcijama upozorava na slučajeve zlostavljanja i neravnopravnosti. Večeras će u gradovima diljem zemlje žene održati noćni marš. Američki predsjednik Biden u govoru o stanju nacije upozorio na ugroženost demokracije u zemlji i svijetu. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 08 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7f/f0/20240308-dnevne-novosti-35045138-20240308144100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
