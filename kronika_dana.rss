@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Mar 2024 22:10:44 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 21:44:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.03. 2024-03-12</title>
+    <link>https://api.hrt.hr/media/32/5c/20240312-kronika-dana-35057946-20240312214016.mp3</link>
+    <description>Predsjednik predlaže da se do izbora novog ravnatelja SOA-e Daniel Markić imenuje obnašateljem dužnosti, a premijer ga predlaže kao trajno rješenje. Bosna i Hercegovina dobila zeleno svjetlo za otvaranje pristupnih pregovora s Europskom unijom. U Hrvatskoj Kostajnici izvanredne mjere obrane od poplave. Prvi put postavljen montažni protupoplavni sustav. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 12 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/32/5c/20240312-kronika-dana-35057946-20240312214016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.03. 2024-03-11</title>
     <link>https://api.hrt.hr/media/cd/41/20240311-kronika-dana-35054497-20240311214024.mp3</link>
     <description>Saniraju se posljedice kišnog nevremena koje je pogodilo zadarsko područje.Tri dana do raspuštanja Sabora, i danas tema izjava glavne europske tužiteljice Laure Keveši.Švedska i službeno 32-ga članica NATO-a. Ispred sjedišta u Briselu podignuta njezina zastava.Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@ Legenda Dinama Velimir Zajec novi je predsjednik kluba. Navijači slave. Noćas 
     <description>Dok se čeka objava datuma parlamentarnih izbora, stranke su počele s predizbornim aktivnostima. U Zagrebu posljednjih dana niz manjih potresa uznemirio građane. Izraelska vojska priprema se za kopneni napad na krajnji jug Pojasa Gaze. Irski premijer priznao poraz na referendumu o obitelji i 'ulozi žene u kući'. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 09 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/bb/20240309-kronika-dana-35048524-20240309214104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.03. 2024-03-08</title>
-    <link>https://api.hrt.hr/media/bd/9d/20240308-kronika-dana-35046032-20240308213556.mp3</link>
-    <description>Hrvatski sabor bit će raspušten sljedeći četvrtak, 14-og ovog mjeseca. Nakon toga predsjednik Milanović ima 30 do 60 dana za raspisivanje izbora.Od nedjelje bi trebao biti otvoren pomorski koridor između Cipra i Gaze za dostavu pomoći Palestincima, najavila je predsjednica Europske komisije Ursula von der Leyen.	Prosvjedima diljem Hrvatske i svijeta obilježen Međunarodni dan žena. Urednica: Mira Barić</description>
-    <pubDate>Fri, 08 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bd/9d/20240308-kronika-dana-35046032-20240308213556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
