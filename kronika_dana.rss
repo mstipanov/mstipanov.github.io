@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 12 Mar 2024 21:44:30 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 21:49:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@
 Legenda Dinama Velimir Zajec novi je predsjednik kluba. Navijači slave. Noćas dodjela Oscara. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 10 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/9e/20240310-kronika-dana-35050930-20240310214020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.03. 2024-03-09</title>
-    <link>https://api.hrt.hr/media/5a/bb/20240309-kronika-dana-35048524-20240309214104.mp3</link>
-    <description>Dok se čeka objava datuma parlamentarnih izbora, stranke su počele s predizbornim aktivnostima. U Zagrebu posljednjih dana niz manjih potresa uznemirio građane. Izraelska vojska priprema se za kopneni napad na krajnji jug Pojasa Gaze. Irski premijer priznao poraz na referendumu o obitelji i 'ulozi žene u kući'. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 09 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/bb/20240309-kronika-dana-35048524-20240309214104.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
