@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Mar 2024 06:46:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 06:50:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.03. 2024-03-14</title>
+    <link>https://api.hrt.hr/media/9f/bc/20240314-jutarnja-kronika-35062350-20240314063504.mp3</link>
+    <description>Danas se raspušta Hrvatski sabor. Vlada donosi novi paket pomoći građanima i gospodarstvu. Potres jakosti 5.3 prema Richteru zatresao Crnu Goru - osjetio se i na jugu Hrvatske. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9f/bc/20240314-jutarnja-kronika-35062350-20240314063504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.03. 2024-03-13</title>
     <link>https://api.hrt.hr/media/5e/a6/20240313-jutarnja-kronika-35058500-20240313063514.mp3</link>
     <description>Dan uoči raspuštanja, u Saboru će prisegnuti novoimenovani glavni državni odvjetnik Ivan Turudić. Predsjednik predlaže da se Daniel Markić imenuje obnašateljem dužnosti ravnatelja SOA-e do izbora novog ravnatelja, premijer ga predlaže kao trajno rješenje. Više djece ubijeno u pojasu Gaze u četiri mjeseca rata s Izraelom nego u četiri godine sukoba diljem svijeta, podaci su UN-ove agencije za palestinske izbjeglice. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Posljednji je radni tjedan hrvatskog Sabora u ovom sazivu. Mnogobrojne reakcije na izjave europske tužiteljice Laure Keveši o istragama u Hrvatskoj. U pojasu Gaze bez dogovora o prekidu vatre na početku ramazana, no pregovori se nastavljaju. "Oppenheimer" Christophera Nolana od 13 nominacija dobio sedam Oskara, među kojima i za najbolji film. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3f/68/20240311-jutarnja-kronika-35051460-20240311063519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.03. 2024-03-10</title>
-    <link>https://api.hrt.hr/media/e8/ad/20240310-jutarnja-kronika-35049189-20240310063019.mp3</link>
-    <description>Na stadionu u Maksimiru izborna skupština Dinama. Novog predsjednika birat će između dosadašnjeg Mirka Barišića i Velimira Zajeca.Dok se čeka datum parlamentarnih izbora, zahuktava se neslužbena kampanja.Pred nama je 96. noć Oskara. Najveći favorit Oppenheimer Christophera Nolana. Urednica: Mira Barić</description>
-    <pubDate>Sun, 10 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/ad/20240310-jutarnja-kronika-35049189-20240310063019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
