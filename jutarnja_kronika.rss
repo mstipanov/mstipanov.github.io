@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Mar 2024 06:50:53 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 06:55:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.03. 2024-03-15</title>
+    <link>https://api.hrt.hr/media/91/36/20240315-jutarnja-kronika-35066549-20240315063508.mp3</link>
+    <description>Predsjednik Milanović objavljuje datum izbora. Cijene struje i plina ostaju iste, Vlada donijela novi paket mjera vrijedan 503 milijuna eura. U Rusiji počinju predsjednički izbori. Traju tri dana. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 15 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/91/36/20240315-jutarnja-kronika-35066549-20240315063508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.03. 2024-03-14</title>
     <link>https://api.hrt.hr/media/9f/bc/20240314-jutarnja-kronika-35062350-20240314063504.mp3</link>
     <description>Danas se raspušta Hrvatski sabor. Vlada donosi novi paket pomoći građanima i gospodarstvu. Potres jakosti 5.3 prema Richteru zatresao Crnu Goru - osjetio se i na jugu Hrvatske. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Nastavlja se sanacija poljedica jake kiše na zadarskom području.Ne stišavaju se reakcije na istup europske tužiteljice o aferi na Geodeziji. Umirovljeničke stranke dogovorile predizbornu koaliciju. Traže 200 eura veće mirovine, i to odmah. U Briselu se očekuje odluka o pristupnim pregovorima s BiH.u mjesecu ramazanu nema mira u Pojasu Gaze. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/ce/20240312-jutarnja-kronika-35055031-20240312063035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.03. 2024-03-11</title>
-    <link>https://api.hrt.hr/media/3f/68/20240311-jutarnja-kronika-35051460-20240311063519.mp3</link>
-    <description>Posljednji je radni tjedan hrvatskog Sabora u ovom sazivu. Mnogobrojne reakcije na izjave europske tužiteljice Laure Keveši o istragama u Hrvatskoj. U pojasu Gaze bez dogovora o prekidu vatre na početku ramazana, no pregovori se nastavljaju. "Oppenheimer" Christophera Nolana od 13 nominacija dobio sedam Oskara, među kojima i za najbolji film. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/68/20240311-jutarnja-kronika-35051460-20240311063519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
