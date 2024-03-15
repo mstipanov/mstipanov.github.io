@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Mar 2024 14:52:22 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 14:56:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.03. 2024-03-15</title>
+    <link>https://api.hrt.hr/media/74/be/20240315-dnevne-novosti-35068780-20240315144020.mp3</link>
+    <description>Predsjednik Milanović objavio datum izbora - 17. travnja. Prvi put na birališta izlazimo u srijedu. Bit će to neradni dan. "Sve nam odgovara" - poručio premijer Plenković. U Rusiji predsjednički izbori. Izraelski premijer odbacio novi Hamasov prijedlog o primirju. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 15 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/74/be/20240315-dnevne-novosti-35068780-20240315144020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.03. 2024-03-14</title>
     <link>https://api.hrt.hr/media/20/3d/20240314-dnevne-novosti-35064555-20240314144008.mp3</link>
     <description>Raspušten 10. saziv Sabora. Čeka se da predsjednik Milanović objavi datum izbora. Prije raspuštanja Sabor većinom glasova prihvatio izmjene Kaznenog zakona, takozvani Â´Lex APÂ´. Vlada donijela 6. protuinflacijski paket vrijedan 503 milijuna eura. Potres jakosti 5 cijelih 3 prema Richteru rano jutros zatresao Crnu Goru, osjetio se i na dubrovačkom području. Dinamo u Solunu igra uzvratnu utakmicu osmine finala Konferencijske lige protiv PAOK-a. Grčka policija u stanju pripravnosti. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Saniraju se posljedice jake kiše, najteže je na zadarskom području, raste vodostaj Une. Predsjednik Milanović predložio premijeru Plenkoviću da se Daniel Markić imenuje vršiteljem dužnosti ravnatelja Sigurnosno-obavještajne agencije. Europska komisija preporučit će otvaranje pregovora s Bosnom i Hercegovinom o pridruživanju Europskoj uniji. Tzv. ruski partizani, koji žele svrgnuti Putina, vode borbe u pograničnom području Rusije. Urednik: Silvio Šop</description>
     <pubDate>Tue, 12 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ec/8f/20240312-dnevne-novosti-35057028-20240312143532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.03. 2024-03-11</title>
-    <link>https://api.hrt.hr/media/b5/48/20240311-dnevne-novosti-35053228-20240311144022.mp3</link>
-    <description>Zbog goleme količine kiše na zadarskom području poplavljeni podrumi kuća, u Ninu se brod nasukao na lokalnu cestu. Na izjave glavne europske tužiteljice mnoge reakcije oporbenih saborskih zastupnika i premijera Plenkovića. Ukrajinski predsjednik Zelenski neizravno odgovorio papi Franji na izjavu da bi Ukrajina trebala pregovarati s Rusijom i imati hrabrost bijele zastave. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 11 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/48/20240311-dnevne-novosti-35053228-20240311144022.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
