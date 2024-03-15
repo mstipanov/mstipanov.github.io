@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Mar 2024 21:53:33 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 22:05:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.03. 2024-03-15</title>
+    <link>https://api.hrt.hr/media/77/ca/20240315-kronika-dana-35070060-20240315214528.mp3</link>
+    <description>Predsjednik Milanović objavio da kao neovisni kandidat na listi SDP-a izlazi na izbore, premijerski je kandidat te stranke i želi vladu nacionalnog spasa. "Maske su pale, razotkrio se vođa oporbe", komentar je premijera Plenkovića. Ustavni stručnjaci tvrde da Milanović mora prvo odstupiti s dužnosti predsjednika, što on ne namjerava. Na izbore izlazimo u srijedu 17. travnja. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 15 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/77/ca/20240315-kronika-dana-35070060-20240315214528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.03. 2024-03-14</title>
     <link>https://api.hrt.hr/media/9c/99/20240314-kronika-dana-35065911-20240314214006.mp3</link>
     <description>Sutra predsjednik Milanović objavljuje datum izbora. Cijene struje i plina ostaju iste, Vlada donijela novi paket mjera vrijedan 503 milijuna eura. Sport: Dinamo ispao iz Konferencijske lige, PAOK u Solunu pobijedio 5:1. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik predlaže da se do izbora novog ravnatelja SOA-e Daniel Markić imenuje obnašateljem dužnosti, a premijer ga predlaže kao trajno rješenje. Bosna i Hercegovina dobila zeleno svjetlo za otvaranje pristupnih pregovora s Europskom unijom. U Hrvatskoj Kostajnici izvanredne mjere obrane od poplave. Prvi put postavljen montažni protupoplavni sustav. Urednica: Sanja Cota</description>
     <pubDate>Tue, 12 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/5c/20240312-kronika-dana-35057946-20240312214016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.03. 2024-03-11</title>
-    <link>https://api.hrt.hr/media/cd/41/20240311-kronika-dana-35054497-20240311214024.mp3</link>
-    <description>Saniraju se posljedice kišnog nevremena koje je pogodilo zadarsko područje.Tri dana do raspuštanja Sabora, i danas tema izjava glavne europske tužiteljice Laure Keveši.Švedska i službeno 32-ga članica NATO-a. Ispred sjedišta u Briselu podignuta njezina zastava.Urednica: Mira Barić</description>
-    <pubDate>Mon, 11 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/41/20240311-kronika-dana-35054497-20240311214024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
