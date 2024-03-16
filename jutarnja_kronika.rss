@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Mar 2024 06:55:21 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 06:39:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.03. 2024-03-16</title>
+    <link>https://api.hrt.hr/media/f5/e4/20240316-jutarnja-kronika-35070610-20240316063600.mp3</link>
+    <description>Predsjednik Republike objavio datum parlamentarnih izbora - 17. travnja, a nekoliko sati poslije najavio da izlazi na izbore kao premijerski kandidat SDP-a! Ustavni stručnjaci tvrde da Milanović mora najprije odstupiti s dužnosti predsjednika! "Maske su pale, razotkrio se vođa oporbe", komentar je premijera Plenkovića. S broda u Pojas Gaze iskrcano 200 tona hrane. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 16 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f5/e4/20240316-jutarnja-kronika-35070610-20240316063600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.03. 2024-03-15</title>
     <link>https://api.hrt.hr/media/91/36/20240315-jutarnja-kronika-35066549-20240315063508.mp3</link>
     <description>Predsjednik Milanović objavljuje datum izbora. Cijene struje i plina ostaju iste, Vlada donijela novi paket mjera vrijedan 503 milijuna eura. U Rusiji počinju predsjednički izbori. Traju tri dana. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Dan uoči raspuštanja, u Saboru će prisegnuti novoimenovani glavni državni odvjetnik Ivan Turudić. Predsjednik predlaže da se Daniel Markić imenuje obnašateljem dužnosti ravnatelja SOA-e do izbora novog ravnatelja, premijer ga predlaže kao trajno rješenje. Više djece ubijeno u pojasu Gaze u četiri mjeseca rata s Izraelom nego u četiri godine sukoba diljem svijeta, podaci su UN-ove agencije za palestinske izbjeglice. Urednica: Mira Barić</description>
     <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5e/a6/20240313-jutarnja-kronika-35058500-20240313063514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.03. 2024-03-12</title>
-    <link>https://api.hrt.hr/media/7b/ce/20240312-jutarnja-kronika-35055031-20240312063035.mp3</link>
-    <description>Nastavlja se sanacija poljedica jake kiše na zadarskom području.Ne stišavaju se reakcije na istup europske tužiteljice o aferi na Geodeziji. Umirovljeničke stranke dogovorile predizbornu koaliciju. Traže 200 eura veće mirovine, i to odmah. U Briselu se očekuje odluka o pristupnim pregovorima s BiH.u mjesecu ramazanu nema mira u Pojasu Gaze. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7b/ce/20240312-jutarnja-kronika-35055031-20240312063035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
