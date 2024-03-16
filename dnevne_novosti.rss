@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Mar 2024 14:56:39 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 15:11:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.03. 2024-03-16</title>
+    <link>https://api.hrt.hr/media/20/b7/20240316-dnevne-novosti-35071681-20240316143600.mp3</link>
+    <description>Predsjednik Milanović na sjednici Glavnog odbora SDP-a poručio: Ovo je borba za vladu nacionalnog spasa. Čelnik SDP-a Peđa Grbin pozvao Ustavni sud da što prije ocijeni jesu li predsjednikovi potezi u skladu s Ustavom. Ustavni sud u ponedjeljak će odlučivati je li Milanovićeva odluka sukladna s ustavom. Drugi je dan ruskih predsjedničkih izbora. Putin ide prema novom šestogodišnjem mandatu. Zagrepčani prosvjedovali protiv kompostane na Maksimiru. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 16 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/20/b7/20240316-dnevne-novosti-35071681-20240316143600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.03. 2024-03-15</title>
     <link>https://api.hrt.hr/media/74/be/20240315-dnevne-novosti-35068780-20240315144020.mp3</link>
     <description>Predsjednik Milanović objavio datum izbora - 17. travnja. Prvi put na birališta izlazimo u srijedu. Bit će to neradni dan. "Sve nam odgovara" - poručio premijer Plenković. U Rusiji predsjednički izbori. Izraelski premijer odbacio novi Hamasov prijedlog o primirju. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ivan Turudić prisegnuo za glavnoga državnog odvjetnika. Predsjednik Milanović ocijenio - za Hrvatsku je to put prema dnu demokratskih i civilizacijskih vrijednosti koji će je skupo stajati. Hrvatska od SAD-a nabavlja još 8 novih helikoptera Black Howk. Ukrajina dronovima napada ruska pogranična područja. Putin poručuje da je Rusija vojno-tehnološki spremna za nuklearni rat. Urednica: Sanja Cota</description>
     <pubDate>Wed, 13 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/a1/20240313-dnevne-novosti-35060749-20240313143503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.03. 2024-03-12</title>
-    <link>https://api.hrt.hr/media/ec/8f/20240312-dnevne-novosti-35057028-20240312143532.mp3</link>
-    <description>Saniraju se posljedice jake kiše, najteže je na zadarskom području, raste vodostaj Une. Predsjednik Milanović predložio premijeru Plenkoviću da se Daniel Markić imenuje vršiteljem dužnosti ravnatelja Sigurnosno-obavještajne agencije. Europska komisija preporučit će otvaranje pregovora s Bosnom i Hercegovinom o pridruživanju Europskoj uniji. Tzv. ruski partizani, koji žele svrgnuti Putina, vode borbe u pograničnom području Rusije. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 12 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/8f/20240312-dnevne-novosti-35057028-20240312143532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
