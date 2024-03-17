@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Mar 2024 22:12:42 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 21:46:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.03. 2024-03-17</title>
+    <link>https://api.hrt.hr/media/13/84/20240317-kronika-dana-35074998-20240317213514.mp3</link>
+    <description>Uoči sjednice Ustavnog suda, koji će odlučivati o premijerskoj kandidaturi predsjednika Milanovića, on ponavlja da neće dati ostavku na mjesto predsjednika i da će biti premijerski kandidat SDP-a na izborima. S 20-og Općeg sabora HDZ-a premijer Plenković poručio "Nit' je Grbin predsjednik SDP-a, nit' je Milanović predsjednik Republike". Vladimir Putin osvojio rekordnih 88 posto glasova na predsjedničkim izborima u Rusiji, pokazuju izlazne ankete. Urednica Mira Barić</description>
+    <pubDate>Sun, 17 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/84/20240317-kronika-dana-35074998-20240317213514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.03. 2024-03-16</title>
     <link>https://api.hrt.hr/media/cf/2a/20240316-kronika-dana-35072561-20240316214602.mp3</link>
     <description>Ustavni sud u ponedjeljak odlučuje je li izlazak predsjednika Milanovića na parlamentarne izbore u skladu s Ustavom.SDP-ovci oduševljeni odlukom predsjednika Milanovića koji se pojavio na Glavnom odboru te stranke. Policija otkrila da je groblje u Erdutu vandaliziralo troje djece mlađe od 14 godina. Urednica: Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>Sutra predsjednik Milanović objavljuje datum izbora. Cijene struje i plina ostaju iste, Vlada donijela novi paket mjera vrijedan 503 milijuna eura. Sport: Dinamo ispao iz Konferencijske lige, PAOK u Solunu pobijedio 5:1. Urednica: Sanja Cota</description>
     <pubDate>Thu, 14 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9c/99/20240314-kronika-dana-35065911-20240314214006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.03. 2024-03-13</title>
-    <link>https://api.hrt.hr/media/13/4e/20240313-kronika-dana-35061732-20240313214003.mp3</link>
-    <description>Sabor će sutra glasovati o vlastitom raspuštanju. Ivan Turudić prisegnuo za glavnoga državnog odvjetnika. Predsjednik Milanović poslao još jedno oštro priopćenje. Europska će unija osnovati fond za vojnu pomoć Ukrajini s početnih pet milijardi eura. Predstavnički dom američkog Kongresa prihvatio zakon koji bi mogao zabraniti Tik-Tok. Sutra u 6 sati u lošinjskom akvatoriju uklanjanje mine iz Drugoga svjetskog rata. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 13 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/13/4e/20240313-kronika-dana-35061732-20240313214003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
