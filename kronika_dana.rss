@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Mar 2024 21:46:16 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 21:52:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.03. 2024-03-18</title>
+    <link>https://api.hrt.hr/media/f1/37/20240318-kronika-dana-35078649-20240318215024.mp3</link>
+    <description>Zoran Milanović, dok je predsjednik, ne može biti kandidat na izborima - odlučio Ustavni sud. Milanović oštro napao ustavne suce - nepismene seljačine i gangsteri! Premijer Plenković odluku Ustavnog suda nazvao očekivanom. Vlada kupila većinski udjel u Uljanik brodogradnji 1856. Sjever pojasa Gaze neće moći izbjeći glad. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 18 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f1/37/20240318-kronika-dana-35078649-20240318215024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.03. 2024-03-17</title>
     <link>https://api.hrt.hr/media/13/84/20240317-kronika-dana-35074998-20240317213514.mp3</link>
     <description>Uoči sjednice Ustavnog suda, koji će odlučivati o premijerskoj kandidaturi predsjednika Milanovića, on ponavlja da neće dati ostavku na mjesto predsjednika i da će biti premijerski kandidat SDP-a na izborima. S 20-og Općeg sabora HDZ-a premijer Plenković poručio "Nit' je Grbin predsjednik SDP-a, nit' je Milanović predsjednik Republike". Vladimir Putin osvojio rekordnih 88 posto glasova na predsjedničkim izborima u Rusiji, pokazuju izlazne ankete. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Milanović objavio da kao neovisni kandidat na listi SDP-a izlazi na izbore, premijerski je kandidat te stranke i želi vladu nacionalnog spasa. "Maske su pale, razotkrio se vođa oporbe", komentar je premijera Plenkovića. Ustavni stručnjaci tvrde da Milanović mora prvo odstupiti s dužnosti predsjednika, što on ne namjerava. Na izbore izlazimo u srijedu 17. travnja. Urednica: Sanja Cota</description>
     <pubDate>Fri, 15 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/77/ca/20240315-kronika-dana-35070060-20240315214528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.03. 2024-03-14</title>
-    <link>https://api.hrt.hr/media/9c/99/20240314-kronika-dana-35065911-20240314214006.mp3</link>
-    <description>Sutra predsjednik Milanović objavljuje datum izbora. Cijene struje i plina ostaju iste, Vlada donijela novi paket mjera vrijedan 503 milijuna eura. Sport: Dinamo ispao iz Konferencijske lige, PAOK u Solunu pobijedio 5:1. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 14 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/99/20240314-kronika-dana-35065911-20240314214006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
