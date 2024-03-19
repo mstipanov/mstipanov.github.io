@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Mar 2024 21:52:41 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 21:57:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.03. 2024-03-19</title>
+    <link>https://api.hrt.hr/media/3e/77/20240319-kronika-dana-35081982-20240319214022.mp3</link>
+    <description>Predsjednik Milanović ponovno izvrijeđao suce Ustavnog suda, premijer Plenković za Milanovića kaže: "Ne doživljavam ga kao protukandidata".Nastavlja se osipanje SDP-ove koalicije deset stranaka. U samo dva dana manja za četiri stranke. Svjetska meteorološka organizacija objavila alarmantne podatke o stanju klime, prošla godina najtoplija otkako postoje mjerenja.Hrvatska je, nakon Švicarske i Njemačke, treća europska zemlja koja ima Nacionalni laboratorij za gensko profiliranje tumora. Urednica: Mira Barić</description>
+    <pubDate>Tue, 19 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3e/77/20240319-kronika-dana-35081982-20240319214022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.03. 2024-03-18</title>
     <link>https://api.hrt.hr/media/f1/37/20240318-kronika-dana-35078649-20240318215024.mp3</link>
     <description>Zoran Milanović, dok je predsjednik, ne može biti kandidat na izborima - odlučio Ustavni sud. Milanović oštro napao ustavne suce - nepismene seljačine i gangsteri! Premijer Plenković odluku Ustavnog suda nazvao očekivanom. Vlada kupila većinski udjel u Uljanik brodogradnji 1856. Sjever pojasa Gaze neće moći izbjeći glad. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Ustavni sud u ponedjeljak odlučuje je li izlazak predsjednika Milanovića na parlamentarne izbore u skladu s Ustavom.SDP-ovci oduševljeni odlukom predsjednika Milanovića koji se pojavio na Glavnom odboru te stranke. Policija otkrila da je groblje u Erdutu vandaliziralo troje djece mlađe od 14 godina. Urednica: Sanja Cota.</description>
     <pubDate>Sat, 16 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cf/2a/20240316-kronika-dana-35072561-20240316214602.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.03. 2024-03-15</title>
-    <link>https://api.hrt.hr/media/77/ca/20240315-kronika-dana-35070060-20240315214528.mp3</link>
-    <description>Predsjednik Milanović objavio da kao neovisni kandidat na listi SDP-a izlazi na izbore, premijerski je kandidat te stranke i želi vladu nacionalnog spasa. "Maske su pale, razotkrio se vođa oporbe", komentar je premijera Plenkovića. Ustavni stručnjaci tvrde da Milanović mora prvo odstupiti s dužnosti predsjednika, što on ne namjerava. Na izbore izlazimo u srijedu 17. travnja. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 15 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/77/ca/20240315-kronika-dana-35070060-20240315214528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
