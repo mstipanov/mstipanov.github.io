@@ -6,10 +6,21 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Mar 2024 06:47:37 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 06:54:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.03. 2024-03-19</title>
+    <link>https://api.hrt.hr/media/e8/2b/20240319-jutarnja-kronika-35079186-20240319063519.mp3</link>
+    <description>- Ustavni sud odlučio da Zoran Milanović, dok je predsjednik države, ne može biti nositelj liste ni premijerski kandidat.
+Nakon Švicarske i Njemačke, Hrvatska je treća zemlja u Europi koja će imati laboratorij za gensko profiliranje tumora.
+Dramatično pogoršanje stanja u Pojasu Gaze.
+Vrijeme danas: ujutro umjereno do pretežno oblačno još mjestimice uz malo kiše, zatim postupno razvedravanje. Na Jadranu bura.</description>
+    <pubDate>Tue, 19 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/2b/20240319-jutarnja-kronika-35079186-20240319063519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.03. 2024-03-18</title>
     <link>https://api.hrt.hr/media/81/7c/20240318-jutarnja-kronika-35075549-20240318063515.mp3</link>
     <description>Danas odluka Ustavnog suda o kandidaturi predsjednika Republike na parlamentarnim izborima. Radnička Fronta ispala iz SDP-ove lijevo-liberalne koalicije. Putin premoćno pobijedio na ruskim predsjedničkim izborima. Urednik: Mislav Togonal</description>
@@ -31,14 +42,6 @@
     <description>Predsjednik Republike objavio datum parlamentarnih izbora - 17. travnja, a nekoliko sati poslije najavio da izlazi na izbore kao premijerski kandidat SDP-a! Ustavni stručnjaci tvrde da Milanović mora najprije odstupiti s dužnosti predsjednika! "Maske su pale, razotkrio se vođa oporbe", komentar je premijera Plenkovića. S broda u Pojas Gaze iskrcano 200 tona hrane. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 16 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f5/e4/20240316-jutarnja-kronika-35070610-20240316063600.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.03. 2024-03-15</title>
-    <link>https://api.hrt.hr/media/91/36/20240315-jutarnja-kronika-35066549-20240315063508.mp3</link>
-    <description>Predsjednik Milanović objavljuje datum izbora. Cijene struje i plina ostaju iste, Vlada donijela novi paket mjera vrijedan 503 milijuna eura. U Rusiji počinju predsjednički izbori. Traju tri dana. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 15 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/91/36/20240315-jutarnja-kronika-35066549-20240315063508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
