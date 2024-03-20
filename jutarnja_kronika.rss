@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Mar 2024 06:54:08 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 06:59:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.03. 2024-03-20</title>
+    <link>https://api.hrt.hr/media/0e/d5/20240320-jutarnja-kronika-35082579-20240320063520.mp3</link>
+    <description>Predsjednik Zoran Milanović ponovno izvrijeđao suce Ustavnoga suda, premijer Andrej Plenković za njega kaže: "Ne doživljavam ga kao protukandidata". Nastavlja se osipanje SDP-ove koalicije deset stranaka - u samo dva dana manja je za četiri stranke. Bez obzira na protivljenje saveznika, izraelski premijer Netanjahu ne odustaje od planiranja kopnenog ulaska u Rafah, u kojemu je sada oko milijun i pol palestinskih civila. Večeras počinje trodnevna manifestacija 61. Goranovo proljeće. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 20 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0e/d5/20240320-jutarnja-kronika-35082579-20240320063520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.03. 2024-03-19</title>
     <link>https://api.hrt.hr/media/e8/2b/20240319-jutarnja-kronika-35079186-20240319063519.mp3</link>
     <description>- Ustavni sud odlučio da Zoran Milanović, dok je predsjednik države, ne može biti nositelj liste ni premijerski kandidat.
@@ -34,14 +42,6 @@ Vrijeme danas: ujutro umjereno do pretežno oblačno još mjestimice uz malo ki�
     <description>Ustavni sud sutra odlučuje može li Zoran Milanović, kao predsjednik Republike, izaći na parlamentarne izbore. HDZ u Lisinskom održava Opći izvještajni sabor stranke. Zadnjeg dana predsjedničkih izbora u Rusiji, očekuju se prosvjedi oporbe na biralištima. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/b7/20240317-jutarnja-kronika-35073121-20240317063018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.03. 2024-03-16</title>
-    <link>https://api.hrt.hr/media/f5/e4/20240316-jutarnja-kronika-35070610-20240316063600.mp3</link>
-    <description>Predsjednik Republike objavio datum parlamentarnih izbora - 17. travnja, a nekoliko sati poslije najavio da izlazi na izbore kao premijerski kandidat SDP-a! Ustavni stručnjaci tvrde da Milanović mora najprije odstupiti s dužnosti predsjednika! "Maske su pale, razotkrio se vođa oporbe", komentar je premijera Plenkovića. S broda u Pojas Gaze iskrcano 200 tona hrane. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 16 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f5/e4/20240316-jutarnja-kronika-35070610-20240316063600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
