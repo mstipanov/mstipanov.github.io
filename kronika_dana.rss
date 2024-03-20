@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Mar 2024 21:57:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 22:01:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.03. 2024-03-20</title>
+    <link>https://api.hrt.hr/media/86/03/20240320-kronika-dana-35085852-20240320214029.mp3</link>
+    <description>DIP upozorio predsjednika Milanovića da se suzdrži od izravnog sudjelovanja u političkoj izbornoj promidžbi. Trgovci traže objašnjenje smiju li raditi na izborni dan, 17-og travnja. Nakon sedam godina irski premijer Leo Varadkar dao ostavku na mjesto predsjednika vlade i čelnika vladajuće stranke Fine Gael.Urednica Mira Barić</description>
+    <pubDate>Wed, 20 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/86/03/20240320-kronika-dana-35085852-20240320214029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.03. 2024-03-19</title>
     <link>https://api.hrt.hr/media/3e/77/20240319-kronika-dana-35081982-20240319214022.mp3</link>
     <description>Predsjednik Milanović ponovno izvrijeđao suce Ustavnog suda, premijer Plenković za Milanovića kaže: "Ne doživljavam ga kao protukandidata".Nastavlja se osipanje SDP-ove koalicije deset stranaka. U samo dva dana manja za četiri stranke. Svjetska meteorološka organizacija objavila alarmantne podatke o stanju klime, prošla godina najtoplija otkako postoje mjerenja.Hrvatska je, nakon Švicarske i Njemačke, treća europska zemlja koja ima Nacionalni laboratorij za gensko profiliranje tumora. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Uoči sjednice Ustavnog suda, koji će odlučivati o premijerskoj kandidaturi predsjednika Milanovića, on ponavlja da neće dati ostavku na mjesto predsjednika i da će biti premijerski kandidat SDP-a na izborima. S 20-og Općeg sabora HDZ-a premijer Plenković poručio "Nit' je Grbin predsjednik SDP-a, nit' je Milanović predsjednik Republike". Vladimir Putin osvojio rekordnih 88 posto glasova na predsjedničkim izborima u Rusiji, pokazuju izlazne ankete. Urednica Mira Barić</description>
     <pubDate>Sun, 17 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/13/84/20240317-kronika-dana-35074998-20240317213514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.03. 2024-03-16</title>
-    <link>https://api.hrt.hr/media/cf/2a/20240316-kronika-dana-35072561-20240316214602.mp3</link>
-    <description>Ustavni sud u ponedjeljak odlučuje je li izlazak predsjednika Milanovića na parlamentarne izbore u skladu s Ustavom.SDP-ovci oduševljeni odlukom predsjednika Milanovića koji se pojavio na Glavnom odboru te stranke. Policija otkrila da je groblje u Erdutu vandaliziralo troje djece mlađe od 14 godina. Urednica: Sanja Cota.</description>
-    <pubDate>Sat, 16 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cf/2a/20240316-kronika-dana-35072561-20240316214602.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
