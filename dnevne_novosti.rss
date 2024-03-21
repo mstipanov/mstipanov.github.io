@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Mar 2024 15:00:50 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 15:06:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.03. 2024-03-21</title>
+    <link>https://api.hrt.hr/media/fd/06/20240321-dnevne-novosti-35108561-20240321144100.mp3</link>
+    <description>SDP na parlamentarne izbore izlazi s koalicijom pod nazivom Rijeke pravde, još nije poznato kako će izgledati izborne liste. Iako malo suzdržaniji, predsjednik Milanović i dalje se ne drži upozorenja Ustavnog suda i Državnog izbornog povjerenstva. U Bruxellesu dvodnevni sastanak čelnika vlada i država članica Europske unije, jedna od tema otvaranje pristupnih pregovora s Bosnom i Hercegovinom. Nakon šest tjedana Rusija je rano jutros napala Kijev. Urednica: Mira Barić</description>
+    <pubDate>Thu, 21 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fd/06/20240321-dnevne-novosti-35108561-20240321144100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.03. 2024-03-20</title>
     <link>https://api.hrt.hr/media/b0/56/20240320-dnevne-novosti-35084727-20240320144028.mp3</link>
     <description>Državno izborno povjerenstvo upozorilo predsjednika Milanovića zbog njegova sudjelovanja u kampanji. On se ponovno obrušio na Ustavni sud. Irski premijer Varadkar dao ostavku. Europska unija uplatila Kijevu četiri i pol milijarde eura, a zapadni saveznici obećali nastavak slanja vojne pomoći. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ustavni je sud odlučio - predsjednik Milanović, dok obavlja tu dužnost, ne smije sudjelovati u političkim aktivnostima nijedne političke stranke. Ako prekrši odluku suda moguće je poništavanje izbora.Vladimir Putin osvojio čak 88 posto glasova na predsjedničkim izborima u Rusiji što će mu omogućiti da prestigne Staljina i postane ruski čelnik s najduljim stažem u više od 200 godina. Izrael pokrenuo napad na bolnicu al-Shifu u Gazi. Urednica: Mira Barić</description>
     <pubDate>Mon, 18 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/22/91/20240318-dnevne-novosti-35077459-20240318144019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.03. 2024-03-17</title>
-    <link>https://api.hrt.hr/media/90/e9/20240317-dnevne-novosti-35074134-20240317143513.mp3</link>
-    <description>HDZ se okupio na općem izvještajnom Saboru. Predsjednik Milanović putem Facebooka obratio se građanima, čeka se sutrašnja sjednica Ustavnoga suda. "Bez obzira na to što kaže HDZ i na odluku njihovih ustavnih sudaca, neću dati ostavku na dužnost predsjednika Republike", poručuje Zoran Milanović. "Niti je Grbin predsjednik SDP-a, niti je Milanović predsjednik Republike" - kaže premijer Andrej Plenković. "Podne protiv Putina" akcija je na posljednji izborni dan u Rusiji, većinom mladi ljudi okupljali su se u redovima ispred birališta. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 17 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/90/e9/20240317-dnevne-novosti-35074134-20240317143513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
