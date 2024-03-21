@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Mar 2024 17:22:47 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 17:36:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Raški ugljenokopi 2. dio 2024-03-21</title>
+    <link>https://api.hrt.hr/media/ab/d8/20240321-historia-histriae-8048399-20240321170100.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 21 Mar 2024 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ab/d8/20240321-historia-histriae-8048399-20240321170100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Raski ugljenokopi 1 2024-03-14</title>
     <link>https://api.hrt.hr/media/9a/07/20240314-historia-histriae-8046624-20240314170006.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>PCM	MODE:MONO	SAMPLE_RATE:48000	BITS_PER_SAMP:24	CARD:DeckLink 4K Extreme 12G &amp; 1394 Audio &amp; DirectSound Audio	PERIPHERAL:Blackmagic &amp; Avid OHCI	=MPEG1L2,F=48000,B=256,W=16,M=Stereo,T=N&amp;eacute;tia</description>
     <pubDate>Thu, 18 Jan 2024 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/0b/20240118-historia-histriae-8027675-20240118165600.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Đino Matošić 2024-01-11</title>
-    <link>https://api.hrt.hr/media/08/27/20240111-historia-histriae-8025260-20240111165049.mp3</link>
-    <description>U noći 8. na 9. siječnja 1944. u Šajine su upali njemački vojnici i fašisti koji su kao odmazdu za antifašističko djelovanje spalili selo i ubili 54 mještana. Ukupno 120 djece ostalo je te noći bez roditelja, a jedan od njih je i tada petogodišnji Đino Matošić koji je preživio skriven ispod tijela svoje ubijene majke....on je gost ovog izdanja Historie. </description>
-    <pubDate>Thu, 11 Jan 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/08/27/20240111-historia-histriae-8025260-20240111165049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
