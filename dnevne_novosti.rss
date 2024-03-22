@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Mar 2024 15:06:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 15:10:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.03. 2024-03-22</title>
+    <link>https://api.hrt.hr/media/54/2d/20240322-dnevne-novosti-35112402-20240322143559.mp3</link>
+    <description>Predstavlja se koalicija Rijeke pravde i potpisuje koalicijski sporazum. Četiri su godine od zagrebačkog potresa. Kremlj prvi put objavio da je Rusija u ratu. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 22 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/2d/20240322-dnevne-novosti-35112402-20240322143559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.03. 2024-03-21</title>
     <link>https://api.hrt.hr/media/fd/06/20240321-dnevne-novosti-35108561-20240321144100.mp3</link>
     <description>SDP na parlamentarne izbore izlazi s koalicijom pod nazivom Rijeke pravde, još nije poznato kako će izgledati izborne liste. Iako malo suzdržaniji, predsjednik Milanović i dalje se ne drži upozorenja Ustavnog suda i Državnog izbornog povjerenstva. U Bruxellesu dvodnevni sastanak čelnika vlada i država članica Europske unije, jedna od tema otvaranje pristupnih pregovora s Bosnom i Hercegovinom. Nakon šest tjedana Rusija je rano jutros napala Kijev. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Osipa se lijeva koalicija - nakon što je Radnička fronta izbačena, koaliciju su napustili IDS i Fokus. Hrvatska je, nakon Švicarske i Njemačke, treća europska zemlja koja ima Nacionalni laboratorij za gensko profiliranje tumora. Izrael šalje dužnosnike u Washington kako bi razgovarali o planiranoj ofenzivi na Rafah. Svjetski je dan socijalnog rada, inicijativa socijalnih radnika u Zagrebu organizira javno okupljanje pod nazivom "Krik za promjene". Urednik: Silvio Šop</description>
     <pubDate>Tue, 19 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/72/20240319-dnevne-novosti-35081053-20240319144022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.03. 2024-03-18</title>
-    <link>https://api.hrt.hr/media/22/91/20240318-dnevne-novosti-35077459-20240318144019.mp3</link>
-    <description>Ustavni je sud odlučio - predsjednik Milanović, dok obavlja tu dužnost, ne smije sudjelovati u političkim aktivnostima nijedne političke stranke. Ako prekrši odluku suda moguće je poništavanje izbora.Vladimir Putin osvojio čak 88 posto glasova na predsjedničkim izborima u Rusiji što će mu omogućiti da prestigne Staljina i postane ruski čelnik s najduljim stažem u više od 200 godina. Izrael pokrenuo napad na bolnicu al-Shifu u Gazi. Urednica: Mira Barić</description>
-    <pubDate>Mon, 18 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/22/91/20240318-dnevne-novosti-35077459-20240318144019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
