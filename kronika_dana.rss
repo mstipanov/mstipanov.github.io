@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Mar 2024 22:11:37 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 21:45:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.03. 2024-03-23</title>
+    <link>https://api.hrt.hr/media/7c/98/20240323-kronika-dana-35115785-20240323214029.mp3</link>
+    <description>Dvije osobe poginule u sudaru automobila i motora u Kaštel Sućurcu. Kamion kod Stare Gradiške naletio na vozila u koloni, 18 ozlijeđenih, troje teško. U pet hrvatskih gradova prosvjedovale stranke ljevice. U Zagrebu održan skup Domovinskog pokreta. U Rusiji sutra dan žalosti. Prema posljednjim podacima, sto trideset troje ljudi ubijeno, više od 140 ranjeno u sinoćnjem terorističkom napadu na koncertnu dvoranu blizu Moskve. Četvorica terorista uhićena. Urednica Mira Barić</description>
+    <pubDate>Sat, 23 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7c/98/20240323-kronika-dana-35115785-20240323214029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.03. 2024-03-22</title>
     <link>https://api.hrt.hr/media/56/b6/20240322-kronika-dana-35113393-20240322214602.mp3</link>
     <description>Najmanje 40 ubijenih i više od 100 ranjenih u terorističkom napadu u koncertnoj dvorani pokraj Moskve. Još se ne zna tko je pucao na automobil Ivana Turudića. Britanska princeza Kate Middleton objavila da ima rak. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>DIP upozorio predsjednika Milanovića da se suzdrži od izravnog sudjelovanja u političkoj izbornoj promidžbi. Trgovci traže objašnjenje smiju li raditi na izborni dan, 17-og travnja. Nakon sedam godina irski premijer Leo Varadkar dao ostavku na mjesto predsjednika vlade i čelnika vladajuće stranke Fine Gael.Urednica Mira Barić</description>
     <pubDate>Wed, 20 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/86/03/20240320-kronika-dana-35085852-20240320214029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.03. 2024-03-19</title>
-    <link>https://api.hrt.hr/media/3e/77/20240319-kronika-dana-35081982-20240319214022.mp3</link>
-    <description>Predsjednik Milanović ponovno izvrijeđao suce Ustavnog suda, premijer Plenković za Milanovića kaže: "Ne doživljavam ga kao protukandidata".Nastavlja se osipanje SDP-ove koalicije deset stranaka. U samo dva dana manja za četiri stranke. Svjetska meteorološka organizacija objavila alarmantne podatke o stanju klime, prošla godina najtoplija otkako postoje mjerenja.Hrvatska je, nakon Švicarske i Njemačke, treća europska zemlja koja ima Nacionalni laboratorij za gensko profiliranje tumora. Urednica: Mira Barić</description>
-    <pubDate>Tue, 19 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3e/77/20240319-kronika-dana-35081982-20240319214022.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
