@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 23 Mar 2024 14:44:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 14:48:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.03. 2024-03-24</title>
+    <link>https://api.hrt.hr/media/11/28/20240324-dnevne-novosti-35117315-20240324143553.mp3</link>
+    <description>Premijer Plenković pozvao predsjednika Milanovića na dvoboj u prvoj izbornoj jedinici, poručuje mu neka preda ostavku i kandidira se na parlamentarnim izborima. Predsjednik odgovorio da ostavku neće dati U Rusiji dan žalosti zbog terorističkog napada u kojemu je ubijeno 133-oje ljudi, među njima i troje djece. Današnjom Cvjetnicom počinje Veliki tjedan. Urednica: Mira Barić</description>
+    <pubDate>Sun, 24 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/11/28/20240324-dnevne-novosti-35117315-20240324143553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.03. 2024-03-23</title>
     <link>https://api.hrt.hr/media/46/39/20240323-dnevne-novosti-35115055-20240323143526.mp3</link>
     <description>Više od stotinu, a možda i 143-oje ljudi poginulo je u terorističkom napadu pokraj Moskve. U pet hrvatskih gradova prosvjedovale stranke ljevice. U Zagrebu održan veliki skup Domovinskog pokreta. Policija utvrđuje tko je pucao na automobil Ivana Turudića. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>SDP na parlamentarne izbore izlazi s koalicijom pod nazivom Rijeke pravde, još nije poznato kako će izgledati izborne liste. Iako malo suzdržaniji, predsjednik Milanović i dalje se ne drži upozorenja Ustavnog suda i Državnog izbornog povjerenstva. U Bruxellesu dvodnevni sastanak čelnika vlada i država članica Europske unije, jedna od tema otvaranje pristupnih pregovora s Bosnom i Hercegovinom. Nakon šest tjedana Rusija je rano jutros napala Kijev. Urednica: Mira Barić</description>
     <pubDate>Thu, 21 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fd/06/20240321-dnevne-novosti-35108561-20240321144100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.03. 2024-03-20</title>
-    <link>https://api.hrt.hr/media/b0/56/20240320-dnevne-novosti-35084727-20240320144028.mp3</link>
-    <description>Državno izborno povjerenstvo upozorilo predsjednika Milanovića zbog njegova sudjelovanja u kampanji. On se ponovno obrušio na Ustavni sud. Irski premijer Varadkar dao ostavku. Europska unija uplatila Kijevu četiri i pol milijarde eura, a zapadni saveznici obećali nastavak slanja vojne pomoći. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 20 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b0/56/20240320-dnevne-novosti-35084727-20240320144028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
