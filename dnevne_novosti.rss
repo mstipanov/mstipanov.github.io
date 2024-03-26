@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Mar 2024 14:53:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 15:01:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.03. 2024-03-26</title>
+    <link>https://api.hrt.hr/media/1f/86/20240326-dnevne-novosti-35124254-20240326143511.mp3</link>
+    <description>U američkom gradu Baltimoreu brod udario i srušio dio mosta, vozila pala u rijeku. Traga se za najmanje sedmero ljudi. Koalicija MOST-a, Hrvatskih suverenista i Nezavisne liste mladih predstavila nositelje izbornih lista. Uskrsna košarica nikad skuplja, u usporedbi s prošlom godinom od 16 do 21 posto. Sport: Vatreni u 21 sat igraju protiv Egipta u finalu prijateljskog turnira u Kairu, prijenos je na našem Drugom programu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 26 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/86/20240326-dnevne-novosti-35124254-20240326143511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.03. 2024-03-25</title>
     <link>https://api.hrt.hr/media/2d/82/20240325-dnevne-novosti-35120632-20240325144558.mp3</link>
     <description>Predsjednik Milanović tvrdi da je automobil Ivana Turudića propucan još prije mjesec dana, a da s premijerom Plenkovićem nema o čemu razgovarati. Novcem Europske komisije Hrvatska nabavlja dva nova kanadera. U napadu u Moskvi 137 je ljudi ubijeno, a 182 ranjeno. Rusija za terorizam optužila četvoricu Tadžikistanaca. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Više od stotinu, a možda i 143-oje ljudi poginulo je u terorističkom napadu pokraj Moskve. U pet hrvatskih gradova prosvjedovale stranke ljevice. U Zagrebu održan veliki skup Domovinskog pokreta. Policija utvrđuje tko je pucao na automobil Ivana Turudića. Urednica: Sanja Cota</description>
     <pubDate>Sat, 23 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/46/39/20240323-dnevne-novosti-35115055-20240323143526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.03. 2024-03-22</title>
-    <link>https://api.hrt.hr/media/54/2d/20240322-dnevne-novosti-35112402-20240322143559.mp3</link>
-    <description>Predstavlja se koalicija Rijeke pravde i potpisuje koalicijski sporazum. Četiri su godine od zagrebačkog potresa. Kremlj prvi put objavio da je Rusija u ratu. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 22 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/54/2d/20240322-dnevne-novosti-35112402-20240322143559.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
