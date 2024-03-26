@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Mar 2024 21:54:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 22:03:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.03. 2024-03-26</title>
+    <link>https://api.hrt.hr/media/e5/37/20240326-kronika-dana-35125234-20240326214016.mp3</link>
+    <description>Nesvakidašnja nesreća u Americi. U Baltimoreu brod udario i srušio dio mosta, vozila pala u rijeku. Strava u Šibeniku - trojica mladića pretukla 53-godišnjaka koji je od ozljeda umro u bolnici. MOST s koalicijskim partnerima predao kandidacijske liste za parlamentarne izbore. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 26 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/37/20240326-kronika-dana-35125234-20240326214016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.03. 2024-03-25</title>
     <link>https://api.hrt.hr/media/a9/40/20240325-kronika-dana-35121705-20240325214059.mp3</link>
     <description>Sjednice predsjedništva stranke održali HDZ i SDP, finaliziraju se izborne liste. Predsjednik Zoran Milanović danas otkrio kako je automobil novoga glavnog državnog odvjetnika Ivana Turudića propucan prije mjesec dana. Vijeće sigurnosti Ujedinjenih naroda prihvatilo rezoluciju kojom se traži trenutačni prekid vatre u Gazi. Od ponoći malo skuplji benzin, cijena dizela ostaje ista. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dvije osobe poginule u sudaru automobila i motora u Kaštel Sućurcu. Kamion kod Stare Gradiške naletio na vozila u koloni, 18 ozlijeđenih, troje teško. U pet hrvatskih gradova prosvjedovale stranke ljevice. U Zagrebu održan skup Domovinskog pokreta. U Rusiji sutra dan žalosti. Prema posljednjim podacima, sto trideset troje ljudi ubijeno, više od 140 ranjeno u sinoćnjem terorističkom napadu na koncertnu dvoranu blizu Moskve. Četvorica terorista uhićena. Urednica Mira Barić</description>
     <pubDate>Sat, 23 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7c/98/20240323-kronika-dana-35115785-20240323214029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.03. 2024-03-22</title>
-    <link>https://api.hrt.hr/media/56/b6/20240322-kronika-dana-35113393-20240322214602.mp3</link>
-    <description>Najmanje 40 ubijenih i više od 100 ranjenih u terorističkom napadu u koncertnoj dvorani pokraj Moskve. Još se ne zna tko je pucao na automobil Ivana Turudića. Britanska princeza Kate Middleton objavila da ima rak. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 22 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/b6/20240322-kronika-dana-35113393-20240322214602.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
