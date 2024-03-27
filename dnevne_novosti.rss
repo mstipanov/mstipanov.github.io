@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Mar 2024 15:01:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 15:07:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.03. 2024-03-27</title>
+    <link>https://api.hrt.hr/media/90/7b/20240327-dnevne-novosti-35127859-20240327143514.mp3</link>
+    <description>Kandidati još imaju gotovo dva i pol dana za predaju lista za parlamentarne izbore. U međuvremenu, sklapaju se koalicije i bruse programi. Unatoč pozivu Vijeća sigurnosti UN-a na prekid vatre u pojasu Gaze, Izrael je nastavio raketne napade na Rafah. U Zagrebu dodijeljene nagrade Ponos Hrvatske. Goran Ivanišević više nije trener Novaka Đokovića. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 27 Mar 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/90/7b/20240327-dnevne-novosti-35127859-20240327143514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.03. 2024-03-26</title>
     <link>https://api.hrt.hr/media/1f/86/20240326-dnevne-novosti-35124254-20240326143511.mp3</link>
     <description>U američkom gradu Baltimoreu brod udario i srušio dio mosta, vozila pala u rijeku. Traga se za najmanje sedmero ljudi. Koalicija MOST-a, Hrvatskih suverenista i Nezavisne liste mladih predstavila nositelje izbornih lista. Uskrsna košarica nikad skuplja, u usporedbi s prošlom godinom od 16 do 21 posto. Sport: Vatreni u 21 sat igraju protiv Egipta u finalu prijateljskog turnira u Kairu, prijenos je na našem Drugom programu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković pozvao predsjednika Milanovića na dvoboj u prvoj izbornoj jedinici, poručuje mu neka preda ostavku i kandidira se na parlamentarnim izborima. Predsjednik odgovorio da ostavku neće dati U Rusiji dan žalosti zbog terorističkog napada u kojemu je ubijeno 133-oje ljudi, među njima i troje djece. Današnjom Cvjetnicom počinje Veliki tjedan. Urednica: Mira Barić</description>
     <pubDate>Sun, 24 Mar 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/28/20240324-dnevne-novosti-35117315-20240324143553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.03. 2024-03-23</title>
-    <link>https://api.hrt.hr/media/46/39/20240323-dnevne-novosti-35115055-20240323143526.mp3</link>
-    <description>Više od stotinu, a možda i 143-oje ljudi poginulo je u terorističkom napadu pokraj Moskve. U pet hrvatskih gradova prosvjedovale stranke ljevice. U Zagrebu održan veliki skup Domovinskog pokreta. Policija utvrđuje tko je pucao na automobil Ivana Turudića. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 23 Mar 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/39/20240323-dnevne-novosti-35115055-20240323143526.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
