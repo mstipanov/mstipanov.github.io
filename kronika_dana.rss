@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Mar 2024 22:03:25 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 22:08:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.03. 2024-03-27</title>
+    <link>https://api.hrt.hr/media/1b/a4/20240327-kronika-dana-35128859-20240327214018.mp3</link>
+    <description>Predsjednik Milanović i danas poručuje: možda će potrajati, ali mandat za sastav Vlade dobit će samo onaj koji donese 76 potpisa. U osnovnoj školi u Trogiru otac učenice napao nastavnika. Pet je ljudi poginulo u autobusnoj nesreći u Njemačkoj. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 27 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/a4/20240327-kronika-dana-35128859-20240327214018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.03. 2024-03-26</title>
     <link>https://api.hrt.hr/media/e5/37/20240326-kronika-dana-35125234-20240326214016.mp3</link>
     <description>Nesvakidašnja nesreća u Americi. U Baltimoreu brod udario i srušio dio mosta, vozila pala u rijeku. Strava u Šibeniku - trojica mladića pretukla 53-godišnjaka koji je od ozljeda umro u bolnici. MOST s koalicijskim partnerima predao kandidacijske liste za parlamentarne izbore. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković pozvao predsjednika Milanovića da preda ostavku i izađe na izbore, Milanović odgovorio da neće prepustiti Hrvatsku njemu i njegovoj kriminalnoj organizaciji. U Rusiji je bio Dan žalosti za 137-ero ubijenih u terorističkom napadu. Sedmero gostiju karlovačkog noćnog kluba ozlijeđeno dok je konobarica pokušavala izvesti efekt zapaljeng šanka. Urednica: Sanja Cota</description>
     <pubDate>Sun, 24 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/b0/20240324-kronika-dana-35118092-20240324214057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.03. 2024-03-23</title>
-    <link>https://api.hrt.hr/media/7c/98/20240323-kronika-dana-35115785-20240323214029.mp3</link>
-    <description>Dvije osobe poginule u sudaru automobila i motora u Kaštel Sućurcu. Kamion kod Stare Gradiške naletio na vozila u koloni, 18 ozlijeđenih, troje teško. U pet hrvatskih gradova prosvjedovale stranke ljevice. U Zagrebu održan skup Domovinskog pokreta. U Rusiji sutra dan žalosti. Prema posljednjim podacima, sto trideset troje ljudi ubijeno, više od 140 ranjeno u sinoćnjem terorističkom napadu na koncertnu dvoranu blizu Moskve. Četvorica terorista uhićena. Urednica Mira Barić</description>
-    <pubDate>Sat, 23 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7c/98/20240323-kronika-dana-35115785-20240323214029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
