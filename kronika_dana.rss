@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Mar 2024 22:08:57 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 22:12:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.03. 2024-03-28</title>
+    <link>https://api.hrt.hr/media/d7/21/20240328-kronika-dana-35132763-20240328214058.mp3</link>
+    <description>HDZ predstavio izborni program. Ujedinjeni narodi upozoravaju da Izrael, prema svemu sudeći, namjerno izgladnjuje Palestince. Nestala djevojčica iz Srbije nije pronađena, u BiH uhićene tri osobe. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 28 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d7/21/20240328-kronika-dana-35132763-20240328214058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.03. 2024-03-27</title>
     <link>https://api.hrt.hr/media/1b/a4/20240327-kronika-dana-35128859-20240327214018.mp3</link>
     <description>Predsjednik Milanović i danas poručuje: možda će potrajati, ali mandat za sastav Vlade dobit će samo onaj koji donese 76 potpisa. U osnovnoj školi u Trogiru otac učenice napao nastavnika. Pet je ljudi poginulo u autobusnoj nesreći u Njemačkoj. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sjednice predsjedništva stranke održali HDZ i SDP, finaliziraju se izborne liste. Predsjednik Zoran Milanović danas otkrio kako je automobil novoga glavnog državnog odvjetnika Ivana Turudića propucan prije mjesec dana. Vijeće sigurnosti Ujedinjenih naroda prihvatilo rezoluciju kojom se traži trenutačni prekid vatre u Gazi. Od ponoći malo skuplji benzin, cijena dizela ostaje ista. Urednik: Silvio Šop</description>
     <pubDate>Mon, 25 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a9/40/20240325-kronika-dana-35121705-20240325214059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.03. 2024-03-24</title>
-    <link>https://api.hrt.hr/media/df/b0/20240324-kronika-dana-35118092-20240324214057.mp3</link>
-    <description>Premijer Plenković pozvao predsjednika Milanovića da preda ostavku i izađe na izbore, Milanović odgovorio da neće prepustiti Hrvatsku njemu i njegovoj kriminalnoj organizaciji. U Rusiji je bio Dan žalosti za 137-ero ubijenih u terorističkom napadu. Sedmero gostiju karlovačkog noćnog kluba ozlijeđeno dok je konobarica pokušavala izvesti efekt zapaljeng šanka. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 24 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/b0/20240324-kronika-dana-35118092-20240324214057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
