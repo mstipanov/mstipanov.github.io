@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Mar 2024 06:36:34 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 07:10:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.03. 2024-03-28</title>
+    <link>https://api.hrt.hr/media/f6/28/20240328-jutarnja-kronika-35129389-20240328063554.mp3</link>
+    <description>Predsjednik Zoran Milanović poručio - možda će potrajati, ali mandat za sastav Vlade dobit će samo onaj tko donese 76 potpisa. SDP-ova koalicija Rijeke pravde predaje izbornu listu, HDZ predstavlja izborni program. Ronioci izvukli tijela dvojice od šest radnika koji su poginuli u urušavanju mosta u Baltimoreu. Veliki je četvrtak, posljednji dan korizme. Na Hvaru u noći na petak procesija s više od 5 stoljeća neprekinute tradicije - Za križen. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 28 Mar 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f6/28/20240328-jutarnja-kronika-35129389-20240328063554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.03. 2024-03-27</title>
     <link>https://api.hrt.hr/media/96/13/20240327-jutarnja-kronika-35125804-20240327063513.mp3</link>
     <description>Ovogodišnja uskrsna košarica, ovisno o kvaliteti namirnica, skuplja od 16 do 21 posto. Savez samostalnih sindikata Hrvatske predstavit će predizbornu platformu Vrijeme je za radnike. Smatra se da je poginulo svih šest osoba za kojima se tragalo nakon urušavanja mosta u Baltimoreu. U Dohi propao još jedan krug pregovora Izraela i Hamasa o uspostavi primirja u Gazi. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković pozvao predsjednika Milanovića da preda ostavku, prestane s kukavičkim ponašanjem i sučeli se kao kandidat s njime u Prvoj izbornoj jedinici. Milanović odgovara da neće dati ostavku i prepustiti Hrvatsku njegovoj kriminalnoj organizaciji. Danas potpisivanje ugovora o nabavi novih kanadera koje će u cijelosti financirati Europska unija. Glavni odbor SDP-a potvrdit će poslije podne kandidacijske liste za skore parlamentarne izbore. Točkaste koalicije sa strankom Možemo! neće biti. Nakon napada u Moskvi i francuska Vlada podigla upozorenje za očekivani teroristički napad na najvišu razinu. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2e/bb/20240325-jutarnja-kronika-35118640-20240325063555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.03. 2024-03-24</title>
-    <link>https://api.hrt.hr/media/96/9e/20240324-jutarnja-kronika-35116358-20240324063553.mp3</link>
-    <description>Prema posljednjim podacima, sto trideset i troje ljudi je ubijeno, a više od 140 ranjeno terorističkom napadu na koncertnu dvoranu blizu Moskve. U Rusiji je dan žalosti. U pet hrvatskih gradova jučer prosvjedovale stranke ljevice. Najviše Porina - četiri - na sinoćnjoj dodjeli dobili su Vojko Ve i Berisav Šipuš. Umro je veliki bosanskohercegovački književnik i scenarist Abdulah Sidran. Današnjom Cvjetnicom počinje Veliki tjedan. Urednik Silvio Šop</description>
-    <pubDate>Sun, 24 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/96/9e/20240324-jutarnja-kronika-35116358-20240324063553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
