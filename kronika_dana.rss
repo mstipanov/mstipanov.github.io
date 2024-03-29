@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 29 Mar 2024 21:47:43 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 22:17:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.03. 2024-03-29</title>
+    <link>https://api.hrt.hr/media/f2/0b/20240329-kronika-dana-35136230-20240329215557.mp3</link>
+    <description>Neposredno prije početka procesije Križnoga puta u Koloseju, stigla je vijest da je ipak neće predvoditi papa Franjo. U ponoć istječe rok za predaju kandidacijskih lista u Državno izborno povjerenstvo. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 29 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f2/0b/20240329-kronika-dana-35136230-20240329215557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.03. 2024-03-28</title>
     <link>https://api.hrt.hr/media/d7/21/20240328-kronika-dana-35132763-20240328214058.mp3</link>
     <description>HDZ predstavio izborni program. Ujedinjeni narodi upozoravaju da Izrael, prema svemu sudeći, namjerno izgladnjuje Palestince. Nestala djevojčica iz Srbije nije pronađena, u BiH uhićene tri osobe. Urednica: Sanja Cota</description>
