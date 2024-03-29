@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 28 Mar 2024 22:12:46 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 21:47:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nesvakidašnja nesreća u Americi. U Baltimoreu brod udario i srušio dio mosta, vozila pala u rijeku. Strava u Šibeniku - trojica mladića pretukla 53-godišnjaka koji je od ozljeda umro u bolnici. MOST s koalicijskim partnerima predao kandidacijske liste za parlamentarne izbore. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 26 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/37/20240326-kronika-dana-35125234-20240326214016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.03. 2024-03-25</title>
-    <link>https://api.hrt.hr/media/a9/40/20240325-kronika-dana-35121705-20240325214059.mp3</link>
-    <description>Sjednice predsjedništva stranke održali HDZ i SDP, finaliziraju se izborne liste. Predsjednik Zoran Milanović danas otkrio kako je automobil novoga glavnog državnog odvjetnika Ivana Turudića propucan prije mjesec dana. Vijeće sigurnosti Ujedinjenih naroda prihvatilo rezoluciju kojom se traži trenutačni prekid vatre u Gazi. Od ponoći malo skuplji benzin, cijena dizela ostaje ista. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 25 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/40/20240325-kronika-dana-35121705-20240325214059.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
