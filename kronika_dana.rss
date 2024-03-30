@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 29 Mar 2024 22:17:49 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 21:51:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.03. 2024-03-30</title>
+    <link>https://api.hrt.hr/media/ff/c0/20240330-kronika-dana-35138450-20240330214105.mp3</link>
+    <description>Počela izborna promidžba - Državno izborno povjerenstvo objavilo liste za parlamentarne izbore 17. travnja. Pozvalo je i predsjednika Milanovića da se suzdrži od izborne promidžbe, on odgovorio da će se i dalje ponašati kao do sada. U Hrvatskoj za nekoliko tjedana prvih šest zrakoplova Rafal. Zagrebački nadbiskup Dražen Kutleša u uskrsnoj čestitki pozvao vjernike da se vrate kreposnom životu i otvore svoja srca praštanju i ljubavi. SPORT: Dinamo na Poljudu pobijedio Hajduk 1:0. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 30 Mar 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/c0/20240330-kronika-dana-35138450-20240330214105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.03. 2024-03-29</title>
     <link>https://api.hrt.hr/media/f2/0b/20240329-kronika-dana-35136230-20240329215557.mp3</link>
     <description>Neposredno prije početka procesije Križnoga puta u Koloseju, stigla je vijest da je ipak neće predvoditi papa Franjo. U ponoć istječe rok za predaju kandidacijskih lista u Državno izborno povjerenstvo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Milanović i danas poručuje: možda će potrajati, ali mandat za sastav Vlade dobit će samo onaj koji donese 76 potpisa. U osnovnoj školi u Trogiru otac učenice napao nastavnika. Pet je ljudi poginulo u autobusnoj nesreći u Njemačkoj. Urednica: Sanja Cota</description>
     <pubDate>Wed, 27 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/a4/20240327-kronika-dana-35128859-20240327214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.03. 2024-03-26</title>
-    <link>https://api.hrt.hr/media/e5/37/20240326-kronika-dana-35125234-20240326214016.mp3</link>
-    <description>Nesvakidašnja nesreća u Americi. U Baltimoreu brod udario i srušio dio mosta, vozila pala u rijeku. Strava u Šibeniku - trojica mladića pretukla 53-godišnjaka koji je od ozljeda umro u bolnici. MOST s koalicijskim partnerima predao kandidacijske liste za parlamentarne izbore. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 26 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/37/20240326-kronika-dana-35125234-20240326214016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
