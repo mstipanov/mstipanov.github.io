@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 31 Mar 2024 05:53:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:59:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.04. 2024-04-01</title>
+    <link>https://api.hrt.hr/media/d5/bc/20240401-jutarnja-kronika-35141169-20240401053541.mp3</link>
+    <description>Predsjednik Milanović poručuje - usudi li se Ustavni sud poništiti izbore, bio bi to državni udar. Vozači hitne pomoći nakon posljednjeg napada na jednoga od njih traže status službene osobe. Interpol objavio međunarodnu potragu za nestalom djevojčicom iz Srbije nakon što je navodno viđena u Beču. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 01 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d5/bc/20240401-jutarnja-kronika-35141169-20240401053541.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 31.03. 2024-03-31</title>
     <link>https://api.hrt.hr/media/bd/ce/20240331-jutarnja-kronika-35139044-20240331054028.mp3</link>
     <description>Kršćani diljem svijeta slave Uskrs, danas papin urbi et orbi. Počela izborna promidžba - Državno izborno povjerenstvo objavilo liste za parlamentarne izbore 17. travnja. Pozvalo je i predsjednika Milanovića da se suzdrži od izborne promidžbe, on odgovorio da će se i dalje ponašati kao do sada. Rumunjska i Bugarska pridružile su se jutros schengenskom području. Satovi u većini europskih zemalja pomaknuli su se na ljetno računanje vremena. Urednica: Ana-Bella Leikauff</description>
@@ -31,14 +39,6 @@
     <description>Posljednji je dan za predaju kandidatura za parlamentarne izbore. 38-ero ljudi ubijeno je u izraelskim napadima na sirijski grad Alep rano jutros. Veliki je petak, u crkvama se ne slave mise, ne zvone crkvena zvona. Na Hvaru noćas održana još jedna procesija Za križen. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 29 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/5a/20240329-jutarnja-kronika-35133383-20240329063556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.03. 2024-03-28</title>
-    <link>https://api.hrt.hr/media/f6/28/20240328-jutarnja-kronika-35129389-20240328063554.mp3</link>
-    <description>Predsjednik Zoran Milanović poručio - možda će potrajati, ali mandat za sastav Vlade dobit će samo onaj tko donese 76 potpisa. SDP-ova koalicija Rijeke pravde predaje izbornu listu, HDZ predstavlja izborni program. Ronioci izvukli tijela dvojice od šest radnika koji su poginuli u urušavanju mosta u Baltimoreu. Veliki je četvrtak, posljednji dan korizme. Na Hvaru u noći na petak procesija s više od 5 stoljeća neprekinute tradicije - Za križen. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 28 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/28/20240328-jutarnja-kronika-35129389-20240328063554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
