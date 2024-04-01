@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 31 Mar 2024 20:57:38 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 21:02:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.04. 2024-04-01</title>
+    <link>https://api.hrt.hr/media/1f/96/20240401-kronika-dana-35143110-20240401203517.mp3</link>
+    <description>U Albaniji poginula 43-godišnja planinarka iz Osijeka, četvero Hrvata spašeno. Večeras pucnjava u Kaštel Štafiliću, dva muškarca ozlijeđena. Zbog fizičkog i psihičkog maltretiranja vršnjakinje u Splitu uhićene tri maloljetnice. Izrael iz zraka napao iransko veleposlanstvo u Damasku, ubijeni visoki vojni dužnosnici.Urednica: Sanja Cota.</description>
+    <pubDate>Mon, 01 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/96/20240401-kronika-dana-35143110-20240401203517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 31.03. 2024-03-31</title>
     <link>https://api.hrt.hr/media/a0/0f/20240331-kronika-dana-35140633-20240331203528.mp3</link>
     <description>U poruci Gradu i svijetu papa Franjo pozvao na prekid vatre u Ukrajini i Gazi. Na Plitvicama obilježena 33-ća godišnjica krvavog Uskrsa i pogibije Josipa Jovića. Interpol objavio međunarodnu potragu za nestalom djevojčicom iz Srbije nakon što je navodno viđena u Beču. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Neposredno prije početka procesije Križnoga puta u Koloseju, stigla je vijest da je ipak neće predvoditi papa Franjo. U ponoć istječe rok za predaju kandidacijskih lista u Državno izborno povjerenstvo. Urednica: Sanja Cota</description>
     <pubDate>Fri, 29 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f2/0b/20240329-kronika-dana-35136230-20240329215557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.03. 2024-03-28</title>
-    <link>https://api.hrt.hr/media/d7/21/20240328-kronika-dana-35132763-20240328214058.mp3</link>
-    <description>HDZ predstavio izborni program. Ujedinjeni narodi upozoravaju da Izrael, prema svemu sudeći, namjerno izgladnjuje Palestince. Nestala djevojčica iz Srbije nije pronađena, u BiH uhićene tri osobe. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 28 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d7/21/20240328-kronika-dana-35132763-20240328214058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
