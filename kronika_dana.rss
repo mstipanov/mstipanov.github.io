@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 Apr 2024 21:02:42 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 21:06:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.04. 2024-04-02</title>
+    <link>https://api.hrt.hr/media/22/89/20240402-kronika-dana-35146029-20240402203531.mp3</link>
+    <description>Jedan je muškarac, pripadnik HGSS-a, u životnoj opasnosti, a drugi teško ozlijeđen nakon sinoćnje svađe zbog parkirališnog mjesta u Kaštelima. U napadačevoj kući pronađeno nekoliko bombi. U Rijeci svečano obilježen početak rada Helikopterske hitne medicinske službe. Pucnjava u školi u Finskoj - jedan učenik ubijen, dva ranjena. Napadač 12-godišnjak. Svjetski je dan svjesnosti o autizmu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 02 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/22/89/20240402-kronika-dana-35146029-20240402203531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.04. 2024-04-01</title>
     <link>https://api.hrt.hr/media/1f/96/20240401-kronika-dana-35143110-20240401203517.mp3</link>
     <description>U Albaniji poginula 43-godišnja planinarka iz Osijeka, četvero Hrvata spašeno. Večeras pucnjava u Kaštel Štafiliću, dva muškarca ozlijeđena. Zbog fizičkog i psihičkog maltretiranja vršnjakinje u Splitu uhićene tri maloljetnice. Izrael iz zraka napao iransko veleposlanstvo u Damasku, ubijeni visoki vojni dužnosnici.Urednica: Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>Počela izborna promidžba - Državno izborno povjerenstvo objavilo liste za parlamentarne izbore 17. travnja. Pozvalo je i predsjednika Milanovića da se suzdrži od izborne promidžbe, on odgovorio da će se i dalje ponašati kao do sada. U Hrvatskoj za nekoliko tjedana prvih šest zrakoplova Rafal. Zagrebački nadbiskup Dražen Kutleša u uskrsnoj čestitki pozvao vjernike da se vrate kreposnom životu i otvore svoja srca praštanju i ljubavi. SPORT: Dinamo na Poljudu pobijedio Hajduk 1:0. Urednik: Silvio Šop</description>
     <pubDate>Sat, 30 Mar 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/c0/20240330-kronika-dana-35138450-20240330214105.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.03. 2024-03-29</title>
-    <link>https://api.hrt.hr/media/f2/0b/20240329-kronika-dana-35136230-20240329215557.mp3</link>
-    <description>Neposredno prije početka procesije Križnoga puta u Koloseju, stigla je vijest da je ipak neće predvoditi papa Franjo. U ponoć istječe rok za predaju kandidacijskih lista u Državno izborno povjerenstvo. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 29 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f2/0b/20240329-kronika-dana-35136230-20240329215557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
