@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 Apr 2024 05:59:03 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 06:04:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.04. 2024-04-02</title>
+    <link>https://api.hrt.hr/media/6e/d8/20240402-jutarnja-kronika-35143648-20240402053031.mp3</link>
+    <description>Povijesni dan za hrvatsko zdravstvo - počinje raditi helikopterska hitna medicinska služba. U Albaniji poginula 43-godišnja planinarka iz Osijeka, četvero Hrvata spašeno. Izrael iz zraka napao iransko veleposlanstvo u Damasku, ubijeni visoki vojni dužnosnici. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 02 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6e/d8/20240402-jutarnja-kronika-35143648-20240402053031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.04. 2024-04-01</title>
     <link>https://api.hrt.hr/media/d5/bc/20240401-jutarnja-kronika-35141169-20240401053541.mp3</link>
     <description>Predsjednik Milanović poručuje - usudi li se Ustavni sud poništiti izbore, bio bi to državni udar. Vozači hitne pomoći nakon posljednjeg napada na jednoga od njih traže status službene osobe. Interpol objavio međunarodnu potragu za nestalom djevojčicom iz Srbije nakon što je navodno viđena u Beču. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U ponoć istekao rok za predaju kandidacijskih lista u Državno izborno povjerenstvo. Papa Franjo prvi put nije predvodio procesiju križnog puta u Koloseju. Velika je subota - za kršćane dan šutnje i ozbiljnosti. Novi ruski napadi na Ukrajinu. Urednica: Ana-Bella Leikauff</description>
     <pubDate>Sat, 30 Mar 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/90/20240330-jutarnja-kronika-35136761-20240330064102.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.03. 2024-03-29</title>
-    <link>https://api.hrt.hr/media/27/5a/20240329-jutarnja-kronika-35133383-20240329063556.mp3</link>
-    <description>Posljednji je dan za predaju kandidatura za parlamentarne izbore. 38-ero ljudi ubijeno je u izraelskim napadima na sirijski grad Alep rano jutros. Veliki je petak, u crkvama se ne slave mise, ne zvone crkvena zvona. Na Hvaru noćas održana još jedna procesija Za križen. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 29 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/5a/20240329-jutarnja-kronika-35133383-20240329063556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
