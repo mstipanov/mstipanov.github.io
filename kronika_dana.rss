@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Apr 2024 20:40:02 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 21:10:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.04. 2024-04-03</title>
+    <link>https://api.hrt.hr/media/00/24/20240403-kronika-dana-35149250-20240403204043.mp3</link>
+    <description>Umro mladić teško ranjen u subotnjem napadu u Dublinu. Razoran potres na Tajvanu, jakosti 7 cijelih 4 prema Richteru, devetero je ljudi poginulo, tisuću ozlijeđeno. Komisija Hrvatske biskupske konferencije uoči parlamentarnih izbora pozvala na očuvanje ustavno-pravnog poretka države! Urednica: Sanja Cota</description>
+    <pubDate>Wed, 03 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/00/24/20240403-kronika-dana-35149250-20240403204043.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.04. 2024-04-02</title>
     <link>https://api.hrt.hr/media/22/89/20240402-kronika-dana-35146029-20240402203531.mp3</link>
     <description>Jedan je muškarac, pripadnik HGSS-a, u životnoj opasnosti, a drugi teško ozlijeđen nakon sinoćnje svađe zbog parkirališnog mjesta u Kaštelima. U napadačevoj kući pronađeno nekoliko bombi. U Rijeci svečano obilježen početak rada Helikopterske hitne medicinske službe. Pucnjava u školi u Finskoj - jedan učenik ubijen, dva ranjena. Napadač 12-godišnjak. Svjetski je dan svjesnosti o autizmu. Urednik: Silvio Šop</description>
