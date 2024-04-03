@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 06:04:04 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 06:07:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.04. 2024-04-03</title>
+    <link>https://api.hrt.hr/media/59/80/20240403-jutarnja-kronika-35146588-20240403053537.mp3</link>
+    <description>Potres jakosti 7 cijelih 2 na Tajvanu. Prema prvim podacima, četvero mrtvih i deseci ranjenih. Policija objavila nove pojedinosti o napadu u Kaštelima.
+Večeras na Poljudu ponovno derbi. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 03 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/59/80/20240403-jutarnja-kronika-35146588-20240403053537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.04. 2024-04-02</title>
     <link>https://api.hrt.hr/media/6e/d8/20240402-jutarnja-kronika-35143648-20240402053031.mp3</link>
     <description>Povijesni dan za hrvatsko zdravstvo - počinje raditi helikopterska hitna medicinska služba. U Albaniji poginula 43-godišnja planinarka iz Osijeka, četvero Hrvata spašeno. Izrael iz zraka napao iransko veleposlanstvo u Damasku, ubijeni visoki vojni dužnosnici. Urednik: Mario Krstanović</description>
@@ -31,14 +40,6 @@
     <description>Kršćani diljem svijeta slave Uskrs, danas papin urbi et orbi. Počela izborna promidžba - Državno izborno povjerenstvo objavilo liste za parlamentarne izbore 17. travnja. Pozvalo je i predsjednika Milanovića da se suzdrži od izborne promidžbe, on odgovorio da će se i dalje ponašati kao do sada. Rumunjska i Bugarska pridružile su se jutros schengenskom području. Satovi u većini europskih zemalja pomaknuli su se na ljetno računanje vremena. Urednica: Ana-Bella Leikauff</description>
     <pubDate>Sun, 31 Mar 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bd/ce/20240331-jutarnja-kronika-35139044-20240331054028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.03. 2024-03-30</title>
-    <link>https://api.hrt.hr/media/d2/90/20240330-jutarnja-kronika-35136761-20240330064102.mp3</link>
-    <description>U ponoć istekao rok za predaju kandidacijskih lista u Državno izborno povjerenstvo. Papa Franjo prvi put nije predvodio procesiju križnog puta u Koloseju. Velika je subota - za kršćane dan šutnje i ozbiljnosti. Novi ruski napadi na Ukrajinu. Urednica: Ana-Bella Leikauff</description>
-    <pubDate>Sat, 30 Mar 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d2/90/20240330-jutarnja-kronika-35136761-20240330064102.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
