@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 21:06:27 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 20:40:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U poruci Gradu i svijetu papa Franjo pozvao na prekid vatre u Ukrajini i Gazi. Na Plitvicama obilježena 33-ća godišnjica krvavog Uskrsa i pogibije Josipa Jovića. Interpol objavio međunarodnu potragu za nestalom djevojčicom iz Srbije nakon što je navodno viđena u Beču. Urednica: Sanja Cota</description>
     <pubDate>Sun, 31 Mar 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/0f/20240331-kronika-dana-35140633-20240331203528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.03. 2024-03-30</title>
-    <link>https://api.hrt.hr/media/ff/c0/20240330-kronika-dana-35138450-20240330214105.mp3</link>
-    <description>Počela izborna promidžba - Državno izborno povjerenstvo objavilo liste za parlamentarne izbore 17. travnja. Pozvalo je i predsjednika Milanovića da se suzdrži od izborne promidžbe, on odgovorio da će se i dalje ponašati kao do sada. U Hrvatskoj za nekoliko tjedana prvih šest zrakoplova Rafal. Zagrebački nadbiskup Dražen Kutleša u uskrsnoj čestitki pozvao vjernike da se vrate kreposnom životu i otvore svoja srca praštanju i ljubavi. SPORT: Dinamo na Poljudu pobijedio Hajduk 1:0. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 30 Mar 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/c0/20240330-kronika-dana-35138450-20240330214105.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
