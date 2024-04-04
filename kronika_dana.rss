@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Apr 2024 21:10:07 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 20:47:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.04. 2024-04-04</title>
+    <link>https://api.hrt.hr/media/ea/2c/20240404-kronika-dana-35152520-20240404203557.mp3</link>
+    <description>Nakon divljanja Hajdukovih navijača, 14 je policajaca ozlijeđeno, 54 su osobe privedene, a na Poljudu se do daljnjega neće igrati utakmice. Dva muškarca priznala ubojstvo djevojčice iz Srbije, za tijelom se još traga. Počelo tiskanje listića, izborni materijali stoje oko 748 tisuća eura. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 04 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/2c/20240404-kronika-dana-35152520-20240404203557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.04. 2024-04-03</title>
     <link>https://api.hrt.hr/media/00/24/20240403-kronika-dana-35149250-20240403204043.mp3</link>
     <description>Umro mladić teško ranjen u subotnjem napadu u Dublinu. Razoran potres na Tajvanu, jakosti 7 cijelih 4 prema Richteru, devetero je ljudi poginulo, tisuću ozlijeđeno. Komisija Hrvatske biskupske konferencije uoči parlamentarnih izbora pozvala na očuvanje ustavno-pravnog poretka države! Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Albaniji poginula 43-godišnja planinarka iz Osijeka, četvero Hrvata spašeno. Večeras pucnjava u Kaštel Štafiliću, dva muškarca ozlijeđena. Zbog fizičkog i psihičkog maltretiranja vršnjakinje u Splitu uhićene tri maloljetnice. Izrael iz zraka napao iransko veleposlanstvo u Damasku, ubijeni visoki vojni dužnosnici.Urednica: Sanja Cota.</description>
     <pubDate>Mon, 01 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/96/20240401-kronika-dana-35143110-20240401203517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.03. 2024-03-31</title>
-    <link>https://api.hrt.hr/media/a0/0f/20240331-kronika-dana-35140633-20240331203528.mp3</link>
-    <description>U poruci Gradu i svijetu papa Franjo pozvao na prekid vatre u Ukrajini i Gazi. Na Plitvicama obilježena 33-ća godišnjica krvavog Uskrsa i pogibije Josipa Jovića. Interpol objavio međunarodnu potragu za nestalom djevojčicom iz Srbije nakon što je navodno viđena u Beču. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 31 Mar 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/0f/20240331-kronika-dana-35140633-20240331203528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
