@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 05 Apr 2024 14:19:43 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 14:33:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.04. 2024-04-06</title>
+    <link>https://api.hrt.hr/media/99/9b/20240406-dnevne-novosti-35157301-20240406133502.mp3</link>
+    <description>Agencija Fitch potvrdila je dosad najviši kreditni rejting Hrvatske 'BBB plus', uz pozitivne izglede.U ponoć istječe rok do kada birači mogu pregledati, dopuniti i promijeniti podatke upisane u registar birača. Nakon puknuća brane na Uralu ugroženo deset tisuća ljudi. Provodi se evakuacija. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 06 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/9b/20240406-dnevne-novosti-35157301-20240406133502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.04. 2024-04-05</title>
     <link>https://api.hrt.hr/media/a9/7d/20240405-dnevne-novosti-35154978-20240405134059.mp3</link>
     <description>Djevojčica Danka iz Srbije bila je živa nakon što je udarena automobilom, no dvojica radnika vodovoda su je udavila. U Zagrebu jutros ubijene dvije žene. Izraelska vlada odobrila otvaranje novih koridora za dostavu humanitarne pomoći u Gazu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Tajvan pogodio potres od 7 cijelih 4 prema Richteru. Za sada se zna da je poginulo devetero ljudi, a ozlijeđeno više od 900. Novi potres i u Crnoj Gori. Inflacija u Hrvatskoj u ožujku ista kao i u veljači - 4 cijela 1 posto. U 97-dmoj godini umro legendarni redatelj Veljko Bulajić. SPORT: na Poljudu od 19 sati polufinalni susret Kupa Hrvatske Hajduk - Dinamo, prijenos je na našem Drugom programu. Urednik: Silvio Šop</description>
     <pubDate>Wed, 03 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2d/3f/20240403-dnevne-novosti-35148294-20240403134041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.04. 2024-04-02</title>
-    <link>https://api.hrt.hr/media/39/62/20240402-dnevne-novosti-35145176-20240402133544.mp3</link>
-    <description>U Rijeci održana svečanost u povodu početka rada Helikopterske hitne medicinske službe. Jedan je muškarac u životnoj opasnosti, a drugi teško ozlijeđen nakon sinoćnje svađe zbog parkirnog mjesta u Kaštelima. Jedno je dijete umrlo od ozljeda, a dvoje ranjeno u pucnjavi u školi u Finskoj. Za napad osumnjičen maloljetnik. Ukrajina bespilotnom letjelicom pogodila jednu od najvećih ruskih rafinerija. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 02 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/39/62/20240402-dnevne-novosti-35145176-20240402133544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
