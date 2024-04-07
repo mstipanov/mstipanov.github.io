@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 06 Apr 2024 20:51:53 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 20:55:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.04. 2024-04-07</title>
+    <link>https://api.hrt.hr/media/c6/53/20240407-kronika-dana-35160438-20240407204024.mp3</link>
+    <description>Splitski načelnik policije dao ostavku. Njegov maloljetni sin osumnjičen za premlaćivanje mladića. Šest mjeseci traje rat Izraela i Hamasa. Ukrajinski dronovi napali nuklearnu elektranu Zaporižje i ruski Belgorod gdje su ubili dijete. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 07 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c6/53/20240407-kronika-dana-35160438-20240407204024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.04. 2024-04-06</title>
     <link>https://api.hrt.hr/media/12/09/20240406-kronika-dana-35158073-20240406204004.mp3</link>
     <description>Agencija Fitch potvrdila dosad najviši kreditni rejting Hrvatske, uz pozitivne izglede.Zagrebačka policija iznijela nove pojedinosti o jučerašnjem ubojstvu dviju žena. Ukrajinski predsjednik Zelenski upozorava da bi Ukrajina mogla ostati bez projektila protuzračne obrane ako Rusija nastavi intenzivno bombardirati gradove i infrastrukturu. Urednica Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>Nakon divljanja Hajdukovih navijača, 14 je policajaca ozlijeđeno, 54 su osobe privedene, a na Poljudu se do daljnjega neće igrati utakmice. Dva muškarca priznala ubojstvo djevojčice iz Srbije, za tijelom se još traga. Počelo tiskanje listića, izborni materijali stoje oko 748 tisuća eura. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 04 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ea/2c/20240404-kronika-dana-35152520-20240404203557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.04. 2024-04-03</title>
-    <link>https://api.hrt.hr/media/00/24/20240403-kronika-dana-35149250-20240403204043.mp3</link>
-    <description>Umro mladić teško ranjen u subotnjem napadu u Dublinu. Razoran potres na Tajvanu, jakosti 7 cijelih 4 prema Richteru, devetero je ljudi poginulo, tisuću ozlijeđeno. Komisija Hrvatske biskupske konferencije uoči parlamentarnih izbora pozvala na očuvanje ustavno-pravnog poretka države! Urednica: Sanja Cota</description>
-    <pubDate>Wed, 03 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/00/24/20240403-kronika-dana-35149250-20240403204043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
