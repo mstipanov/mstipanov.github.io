@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 07 Apr 2024 20:55:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 21:00:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.04. 2024-04-08</title>
+    <link>https://api.hrt.hr/media/3d/a2/20240408-kronika-dana-35163893-20240408203523.mp3</link>
+    <description>Za četvero maloljetnika, koji su pretukli mladića ispred splitskoga noćnog kluba, određen jednomjesečni istražni zatvor. Pretučenome mladiću život i dalje ugrožen. Od ponoći dizel skuplji jedan cent, a benzin dva centa. Premijer Benjamin Netanyahu izjavio da je određen datum izraelske invazije na Rafah. Obilježen svjetski dan Roma. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 08 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3d/a2/20240408-kronika-dana-35163893-20240408203523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.04. 2024-04-07</title>
     <link>https://api.hrt.hr/media/c6/53/20240407-kronika-dana-35160438-20240407204024.mp3</link>
     <description>Splitski načelnik policije dao ostavku. Njegov maloljetni sin osumnjičen za premlaćivanje mladića. Šest mjeseci traje rat Izraela i Hamasa. Ukrajinski dronovi napali nuklearnu elektranu Zaporižje i ruski Belgorod gdje su ubili dijete. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U Zagrebu jutros ubijene dvije žene. Nakon 5 mjeseci riješen slučaj trovanja mineralnom vodom u Rijeci. Nakon oštrog razgovora američkog predsjednika s izraelskim premijerom, otvorena dva prijelaza za dopremu humanitarne pomoći u Gazu. Urednica: Sanja Cota</description>
     <pubDate>Fri, 05 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/79/87/20240405-kronika-dana-35155864-20240405203600.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.04. 2024-04-04</title>
-    <link>https://api.hrt.hr/media/ea/2c/20240404-kronika-dana-35152520-20240404203557.mp3</link>
-    <description>Nakon divljanja Hajdukovih navijača, 14 je policajaca ozlijeđeno, 54 su osobe privedene, a na Poljudu se do daljnjega neće igrati utakmice. Dva muškarca priznala ubojstvo djevojčice iz Srbije, za tijelom se još traga. Počelo tiskanje listića, izborni materijali stoje oko 748 tisuća eura. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 04 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ea/2c/20240404-kronika-dana-35152520-20240404203557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
