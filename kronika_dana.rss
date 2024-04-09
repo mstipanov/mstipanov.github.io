@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 08 Apr 2024 21:00:33 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 21:07:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.04. 2024-04-09</title>
+    <link>https://api.hrt.hr/media/0c/36/20240409-kronika-dana-35167175-20240409203551.mp3</link>
+    <description>Iako se množe optužbe i uz njegovo ime spominju nove žrtve navodnog seksualnog uznemiravanja, protiv Dalibora Matanića dosad nije podnesena nijedna kaznena prijava.Unatoč međunarodnom protivljenju, izraelski premijer Netanyahu kaže da je određen datum početka kopnene invazije na Rafah. Zbog prijetnji Islamske države, španjolske vlasti pojačale sigurnosne mjere za utakmice četvrtfinala nogometne Lige prvaka u Madridu.Urednica: Mira Barić</description>
+    <pubDate>Tue, 09 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0c/36/20240409-kronika-dana-35167175-20240409203551.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.04. 2024-04-08</title>
     <link>https://api.hrt.hr/media/3d/a2/20240408-kronika-dana-35163893-20240408203523.mp3</link>
     <description>Za četvero maloljetnika, koji su pretukli mladića ispred splitskoga noćnog kluba, određen jednomjesečni istražni zatvor. Pretučenome mladiću život i dalje ugrožen. Od ponoći dizel skuplji jedan cent, a benzin dva centa. Premijer Benjamin Netanyahu izjavio da je određen datum izraelske invazije na Rafah. Obilježen svjetski dan Roma. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Agencija Fitch potvrdila dosad najviši kreditni rejting Hrvatske, uz pozitivne izglede.Zagrebačka policija iznijela nove pojedinosti o jučerašnjem ubojstvu dviju žena. Ukrajinski predsjednik Zelenski upozorava da bi Ukrajina mogla ostati bez projektila protuzračne obrane ako Rusija nastavi intenzivno bombardirati gradove i infrastrukturu. Urednica Sanja Cota.</description>
     <pubDate>Sat, 06 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/09/20240406-kronika-dana-35158073-20240406204004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.04. 2024-04-05</title>
-    <link>https://api.hrt.hr/media/79/87/20240405-kronika-dana-35155864-20240405203600.mp3</link>
-    <description>U Zagrebu jutros ubijene dvije žene. Nakon 5 mjeseci riješen slučaj trovanja mineralnom vodom u Rijeci. Nakon oštrog razgovora američkog predsjednika s izraelskim premijerom, otvorena dva prijelaza za dopremu humanitarne pomoći u Gazu. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 05 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/87/20240405-kronika-dana-35155864-20240405203600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
