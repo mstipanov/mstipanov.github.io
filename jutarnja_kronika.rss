@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 08 Apr 2024 05:57:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 06:02:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.04. 2024-04-09</title>
+    <link>https://api.hrt.hr/media/c7/79/20240409-jutarnja-kronika-35164501-20240409053049.mp3</link>
+    <description>Za četvero maloljetnika, koji su pretukli mladića ispred splitskoga noćnog kluba, određen jednomjesečni istražni zatvor. Pretučenome mladiću život i dalje ugrožen. Od ponoći dizel skuplji jedan cent, a benzin dva centa. Premijer Benjamin Netanyahu izjavio da je određen datum izraelske invazije na Rafah. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 09 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/79/20240409-jutarnja-kronika-35164501-20240409053049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.04. 2024-04-08</title>
     <link>https://api.hrt.hr/media/7c/1b/20240408-jutarnja-kronika-35160978-20240408053525.mp3</link>
     <description>Načelnik splitsko-dalmatinske policije Slobodan Marendić dao je ostavku nakon što je njegov sin sudjelovao u premlaćivanju mladića ispred noćnog kluba. Nastavlja se obračun predsjednika države Zorana Milanovića i potpredsjednika Vlade Olega Butkovića preko društvenih mreža. Na svjetskim su tržištima cijene nafte dosegnule najviše razine u posljednjih pet mjeseci. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Agencija Fitch potvrdila dosad najviši kreditni rejting Hrvatske. Jednomjesečni istražni zatvor 13-orici navijača za nerede u Splitu. Redatelj Dalibor Matanić priznao optužbe za seksualno uznemiravanje žena. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 06 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ab/d5/20240406-jutarnja-kronika-35156373-20240406053502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.04. 2024-04-05</title>
-    <link>https://api.hrt.hr/media/7c/39/20240405-jutarnja-kronika-35153210-20240405053558.mp3</link>
-    <description>Epilog divljanja navijača u Splitu - 14 ozlijeđenih policajaca, 54 privedene osobe, stadion Poljud suspendiran. Dva muškarca priznala ubojstvo dvogodišnje djevojčice Danke iz Srbije - stradala je u prometnoj nesreći, za njezinim se tijelom još traga. Američki predsjednik Biden poručio premijeru Netanyahuu da Izrael mora hitno poduzeti mjere kako bi smanjio patnju civila u Gazi. Počinje 17. Glumački festival u Krapini, popularni GFUK. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 05 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7c/39/20240405-jutarnja-kronika-35153210-20240405053558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
