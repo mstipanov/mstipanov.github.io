@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 Apr 2024 21:14:05 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 21:18:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.04. 2024-04-11</title>
+    <link>https://api.hrt.hr/media/cc/8f/20240411-kronika-dana-35173750-20240411203556.mp3</link>
+    <description>Šest dana do izbora, traje borba za svaki glas. Pravobraniteljica za ravnopravnost spolova podnijela kaznenu prijavu protiv Dalibora Matanića. Rusi uništavaju ukrajinsku energetsku infrastrukturu, Zelenski od saveznika traži sustave protuzračne obrane. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 11 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/8f/20240411-kronika-dana-35173750-20240411203556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.04. 2024-04-10</title>
     <link>https://api.hrt.hr/media/73/76/20240410-kronika-dana-35170513-20240410204053.mp3</link>
     <description>Trodnevna žalost u općini Gradcu nakon što je u prometnoj nesreći poginulo dvoje mladih, sestra i brat. HRejting večeras donio konačni rezultat izborne ankete u deset izbornih jedinica. Nakon osam godina Europski parlament izglasovao novi pakt o migracijama. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Za četvero maloljetnika, koji su pretukli mladića ispred splitskoga noćnog kluba, određen jednomjesečni istražni zatvor. Pretučenome mladiću život i dalje ugrožen. Od ponoći dizel skuplji jedan cent, a benzin dva centa. Premijer Benjamin Netanyahu izjavio da je određen datum izraelske invazije na Rafah. Obilježen svjetski dan Roma. Urednik: Silvio Šop</description>
     <pubDate>Mon, 08 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3d/a2/20240408-kronika-dana-35163893-20240408203523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.04. 2024-04-07</title>
-    <link>https://api.hrt.hr/media/c6/53/20240407-kronika-dana-35160438-20240407204024.mp3</link>
-    <description>Splitski načelnik policije dao ostavku. Njegov maloljetni sin osumnjičen za premlaćivanje mladića. Šest mjeseci traje rat Izraela i Hamasa. Ukrajinski dronovi napali nuklearnu elektranu Zaporižje i ruski Belgorod gdje su ubili dijete. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 07 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/53/20240407-kronika-dana-35160438-20240407204024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
