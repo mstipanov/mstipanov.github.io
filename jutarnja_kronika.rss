@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 Apr 2024 05:49:43 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 05:54:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.04. 2024-04-13</title>
+    <link>https://api.hrt.hr/media/02/84/20240413-jutarnja-kronika-35177928-20240413053501.mp3</link>
+    <description>Četiri su dana do parlamentarnih izbora - na HRT-u održano veliko sučeljavanje 10 stranaka. Izrael u stanju pripravnosti za mogući osvetnički napad Irana. U znak potpore Baby Lasagni na Eurosongu, u pet hrvatskih gradova točno u podne plesat će se Rim Tim Tagi Dim. Urednica je Marija Gerbec Njavro</description>
+    <pubDate>Sat, 13 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/02/84/20240413-jutarnja-kronika-35177928-20240413053501.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.04. 2024-04-12</title>
     <link>https://api.hrt.hr/media/6d/34/20240412-jutarnja-kronika-35174328-20240412053058.mp3</link>
     <description>Pet dana do izbora, traje borba za svaki glas. Pravobraniteljica za ravnopravnost spolova podnijela kaznenu prijavu protiv Dalibora Matanića. Rusi uništavaju ukrajinsku energetsku infrastrukturu, Zelenski od saveznika traži sustave protuzračne obrane. Urednik: Grgo Mrvica</description>
@@ -32,14 +40,6 @@
 Urednik: Silvio Šop</description>
     <pubDate>Wed, 10 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7e/38/20240410-jutarnja-kronika-35167712-20240410053052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.04. 2024-04-09</title>
-    <link>https://api.hrt.hr/media/c7/79/20240409-jutarnja-kronika-35164501-20240409053049.mp3</link>
-    <description>Za četvero maloljetnika, koji su pretukli mladića ispred splitskoga noćnog kluba, određen jednomjesečni istražni zatvor. Pretučenome mladiću život i dalje ugrožen. Od ponoći dizel skuplji jedan cent, a benzin dva centa. Premijer Benjamin Netanyahu izjavio da je određen datum izraelske invazije na Rafah. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 09 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/79/20240409-jutarnja-kronika-35164501-20240409053049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
