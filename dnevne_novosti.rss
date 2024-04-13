@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 Apr 2024 13:51:32 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 13:56:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.04. 2024-04-13</title>
+    <link>https://api.hrt.hr/media/a7/20/20240413-dnevne-novosti-35178909-20240413134016.mp3</link>
+    <description>Predizborna kampanja na vrhuncu, završeno tiskanje gotovo četiri milijuna glasačkih listića. Američki predsjednik Biden rekao da uskoro očekuje iranski napad i upozorio Teheran da će Sjedinjene Države pomoći Izraelu u obrani. Šest osoba ubijeno u napadu nožem u trgovačkom centru u Sydneyju. Urednica: Mira Barić</description>
+    <pubDate>Sat, 13 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a7/20/20240413-dnevne-novosti-35178909-20240413134016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.04. 2024-04-12</title>
     <link>https://api.hrt.hr/media/f1/19/20240412-dnevne-novosti-35176433-20240412133559.mp3</link>
     <description>Još je samo pet dana do izbora, večeras na HRTu veliko sučeljavanje stranaka. Riješen je slučaj pljačke FINA-ina kombija u Rijeci 2022. godine. Dvojica muškaraca ukrala 780 tisuća eura. Rusi i dalje uništavaju ukrajinsku energetsku infrastrukturu, Zelenski traži što brži poziv u NATO.: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U strašnoj prometnoj nesreći na Jadranskoj magistrali poginuli brat i sestra iz Gradca. Hrvatskoj će u ponedjeljak biti isplaćena četvrta rata iz Nacionalnog programa oporavka i otpornosti. Kraj razrušenih džamija stanovnici pojasa Gaze molitvom obilježavaju Bajram, dok se nastavljaju izraelski napadi na tu palestinsku enklavu. Urednica: Mira Barić</description>
     <pubDate>Wed, 10 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/50/20240410-dnevne-novosti-35169523-20240410134052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.04. 2024-04-09</title>
-    <link>https://api.hrt.hr/media/ad/ce/20240409-dnevne-novosti-35166227-20240409134051.mp3</link>
-    <description>Glavni doprinos inflaciji u Hrvatskoj je iz sektora usluga, što bi se moglo nastaviti i tijekom turističke sezone. Na snagu stupila odluka predsjednika Republike o raspisivanju izbora za zastupnike Europskog parlamenta. Nuklearna elektrana Zaporižja više puta napadnuta ukrajinskim vojnim bespilotnim letjelicama. Ovogodišnji ožujak najtopliji u Europi otkad postoje mjerenja. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 09 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ad/ce/20240409-dnevne-novosti-35166227-20240409134051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
