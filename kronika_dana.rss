@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Apr 2024 21:28:04 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 20:32:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Šest dana do izbora, traje borba za svaki glas. Pravobraniteljica za ravnopravnost spolova podnijela kaznenu prijavu protiv Dalibora Matanića. Rusi uništavaju ukrajinsku energetsku infrastrukturu, Zelenski od saveznika traži sustave protuzračne obrane. Urednica: Sanja Cota</description>
     <pubDate>Thu, 11 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cc/8f/20240411-kronika-dana-35173750-20240411203556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.04. 2024-04-10</title>
-    <link>https://api.hrt.hr/media/73/76/20240410-kronika-dana-35170513-20240410204053.mp3</link>
-    <description>Trodnevna žalost u općini Gradcu nakon što je u prometnoj nesreći poginulo dvoje mladih, sestra i brat. HRejting večeras donio konačni rezultat izborne ankete u deset izbornih jedinica. Nakon osam godina Europski parlament izglasovao novi pakt o migracijama. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 10 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/73/76/20240410-kronika-dana-35170513-20240410204053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
