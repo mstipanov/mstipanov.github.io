@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Apr 2024 13:56:13 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 14:01:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.04. 2024-04-14</title>
+    <link>https://api.hrt.hr/media/01/f2/20240414-dnevne-novosti-35181114-20240414134002.mp3</link>
+    <description>napad na Izrael s više od 200 dronova, krstarećih i balističkih projektila prošao bez težih posljedica jer ih je velika većina srušena. Svijet jedinstven u osudi napada, izraelski ratni kabinet donijet će odluku o odgovoru. Zadnje nedjelje prije parlamentarnih izbora stranke kandidati održavaju završne skupove. Večeras počinje jubilarni 20. Zagrebdox, festival dokumentarnog filma. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 14 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/01/f2/20240414-dnevne-novosti-35181114-20240414134002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.04. 2024-04-13</title>
     <link>https://api.hrt.hr/media/a7/20/20240413-dnevne-novosti-35178909-20240413134016.mp3</link>
     <description>Predizborna kampanja na vrhuncu, završeno tiskanje gotovo četiri milijuna glasačkih listića. Američki predsjednik Biden rekao da uskoro očekuje iranski napad i upozorio Teheran da će Sjedinjene Države pomoći Izraelu u obrani. Šest osoba ubijeno u napadu nožem u trgovačkom centru u Sydneyju. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Milanović demantirao objavu ministra Butkovića da će dati ostavku. Rusija izvela masovan napad na Ukrajinu, mete su bili ključni infrastrukturni objekti. Nakon prijetnji iranskog ajatolaha Izraelu, američki predsjednik Biden obećao čvrstu potporu Sjedinjenih Država Benjaminu Netanyahuu. Pravobraniteljica za ravnopravnost spolova Višnja Ljubičić podnijela DORH-u kaznenu prijavu protiv Dalibora Matanića. Urednica: Mira Barić</description>
     <pubDate>Thu, 11 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/3d/20240411-dnevne-novosti-35172661-20240411133555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.04. 2024-04-10</title>
-    <link>https://api.hrt.hr/media/31/50/20240410-dnevne-novosti-35169523-20240410134052.mp3</link>
-    <description>U strašnoj prometnoj nesreći na Jadranskoj magistrali poginuli brat i sestra iz Gradca. Hrvatskoj će u ponedjeljak biti isplaćena četvrta rata iz Nacionalnog programa oporavka i otpornosti. Kraj razrušenih džamija stanovnici pojasa Gaze molitvom obilježavaju Bajram, dok se nastavljaju izraelski napadi na tu palestinsku enklavu. Urednica: Mira Barić</description>
-    <pubDate>Wed, 10 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/50/20240410-dnevne-novosti-35169523-20240410134052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
