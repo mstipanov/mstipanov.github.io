@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 16 Apr 2024 06:08:42 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 05:46:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.04. 2024-04-17</title>
+    <link>https://api.hrt.hr/media/54/6d/20240417-jutarnja-kronika-35189151-20240417054010.mp3</link>
+    <description>Izborni dan u Hrvatskoj - do 19 sati biramo novi saziv Sabora. Čim se zatvore birališta, objavljujemo izlazne ankete, a DIP će prve rezultate izbora objaviti u 21 sat. SAD i EU razmatraju nametanje novih sankcija Iranu zbog napada na Izrael. Zbog olujnog vjetra zatvorena autocesta od Svetog Roka do Posedarja. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 17 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/6d/20240417-jutarnja-kronika-35189151-20240417054010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.04. 2024-04-16</title>
     <link>https://api.hrt.hr/media/70/71/20240416-jutarnja-kronika-35185762-20240416053506.mp3</link>
     <description>Uoči sutrašnjih parlamentarnih izbora u ponoć počela izborna šutnja. Unatoč apelima za smirivanje situacije - Izrael najavio odgovor na iranski napad. U New Yorku izborom porotnika počelo suđenje Donaldu Trumpu. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Iran lansirao više od 200 projektila prema Izraelu - većina srušena prije ulaska u izraelski zračni prostor. Samo su tri dana do parlamentarnih izbora. Sutra počinje distribucija glasačkih listića na biračka mjesta.U zagrebačkom Kaptol centru večeras počinje jubilarni dvadeseti ZagrebDox.Urednica Mira Barić</description>
     <pubDate>Sun, 14 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f4/c3/20240414-jutarnja-kronika-35180190-20240414053001.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.04. 2024-04-13</title>
-    <link>https://api.hrt.hr/media/02/84/20240413-jutarnja-kronika-35177928-20240413053501.mp3</link>
-    <description>Četiri su dana do parlamentarnih izbora - na HRT-u održano veliko sučeljavanje 10 stranaka. Izrael u stanju pripravnosti za mogući osvetnički napad Irana. U znak potpore Baby Lasagni na Eurosongu, u pet hrvatskih gradova točno u podne plesat će se Rim Tim Tagi Dim. Urednica je Marija Gerbec Njavro</description>
-    <pubDate>Sat, 13 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/02/84/20240413-jutarnja-kronika-35177928-20240413053501.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
