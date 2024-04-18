@@ -6,10 +6,22 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 11 Apr 2024 12:46:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 12:29:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.webp</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Sporazum iz Camp Davida, I. dio 2024-04-18</title>
+    <link>https://api.hrt.hr/media/b0/a4/20240418-povijest-cetvrtkom-35190329-20240417113510.mp3</link>
+    <description>Te su dvije države od 1948. ratovale četiri puta. Razdoblje između ratova bilo je ispunjeno sukobima, odmazdama i protuodmazdama. 
+A onda je predsjednik jedne od tih država došao u iznenadni posjet drugoj i održao govor u njezinom parlamentu.
+Na kraju, u odmaralištu američkih predsjednika te su dvije države potpisale mirovni sporazum koji je na snazi i dan danas.
+O kojem je to sporazumu riječ? Poslušajte u Povijesti četvrtkom. 
+</description>
+    <pubDate>Thu, 18 Apr 2024 11:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/a4/20240418-povijest-cetvrtkom-35190329-20240417113510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Rat na jugu Afrike, Il. dio 2024-04-11</title>
     <link>https://api.hrt.hr/media/1f/1d/20240411-povijest-cetvrtkom-35168933-20240410114052.mp3</link>
     <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
@@ -89,14 +101,6 @@ Tijelo kojemu je temelje položio Scharnhorst usavršio je Helmut von Moltke i o
     <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
     <pubDate>Thu, 15 Feb 2024 12:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/2f/20240215-povijest-cetvrtkom-34970588-20240214130046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dolazak nacista na vlast u Njemačkoj, II. dio 2024-02-08</title>
-    <link>https://api.hrt.hr/media/2c/ed/20240208-povijest-cetvrtkom-34948440-20240207132019.mp3</link>
-    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
-    <pubDate>Thu, 08 Feb 2024 12:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2c/ed/20240208-povijest-cetvrtkom-34948440-20240207132019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
