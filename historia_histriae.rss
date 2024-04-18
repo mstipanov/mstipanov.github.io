@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 11 Apr 2024 16:17:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 16:21:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>IVAN SERGO 2024-04-18</title>
+    <link>https://api.hrt.hr/media/d0/0d/20240418-historia-histriae-8057926-20240418151706.mp3</link>
+    <description>U goste nam dolazi Ivan Sergo, pokretač instagram stranice "Stara Pula". </description>
+    <pubDate>Thu, 18 Apr 2024 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/0d/20240418-historia-histriae-8057926-20240418151706.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>ROBERT KURELIC ZA HISTORIU 2024-04-11</title>
     <link>https://api.hrt.hr/media/51/52/20240411-historia-histriae-8055574-20240411160557.mp3</link>
     <description>U goste nam dolazi dr. Robert Kurelić, a pričamo o dva Istranina na dvoru cara Leopolda I. </description>
@@ -79,14 +87,6 @@
     <description>Pričamo o povijesti Vodnjana uz Danila Dragosavca </description>
     <pubDate>Thu, 15 Feb 2024 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/2c/20240215-historia-histriae-8037387-20240215171045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Mirjana Margetic i Nikolina Rusac 2024-02-08</title>
-    <link>https://api.hrt.hr/media/7d/e8/20240208-historia-histriae-8034332-20240208170522.mp3</link>
-    <description>Pričamo o povijesti dokolice u Istri! </description>
-    <pubDate>Thu, 08 Feb 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7d/e8/20240208-historia-histriae-8034332-20240208170522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
