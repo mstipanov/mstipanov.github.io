@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 17 Apr 2024 21:20:23 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 20:52:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.04. 2024-04-18</title>
+    <link>https://api.hrt.hr/media/72/27/20240418-kronika-dana-35194695-20240418203525.mp3</link>
+    <description>Relativni pobjednik parlamentarnih izbora je HDZ sa 61 osvojenim mandatom, no i SDP misli da ima izgleda za sastavljanje vlade. Predsjednik Zoran Milanović ponovio - mandat može dobiti samo onaj tko donese 76 potpisa. U Hrvatskoj se četvrti put održava Svjetsko prvenstvo u reliju. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 18 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/72/27/20240418-kronika-dana-35194695-20240418203525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.04. 2024-04-17</title>
     <link>https://api.hrt.hr/media/09/94/20240417-kronika-dana-35191636-20240417211011.mp3</link>
     <description>Na parlamentarnim izborima glasovalo je 60 posto birača.Vodi HDZ ,a u Hrvatski Sabor još ulaze SDPova koalicija ,Domovinski pokret,Most,Možemo,IDS, Fokus,Republika i Nezavisna platforma Sjever.</description>
@@ -31,14 +39,6 @@
     <description>U ponoć počinje izborna šutnja. Izrael objavio da će odgovoriti na napad Irana. U 105-oj godini umro Josip Manolić. Urednica: Sanja Cota</description>
     <pubDate>Mon, 15 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4e/9b/20240415-kronika-dana-35185157-20240415204005.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.04. 2024-04-14</title>
-    <link>https://api.hrt.hr/media/83/87/20240414-kronika-dana-35181918-20240414204003.mp3</link>
-    <description>Nakon iranskog napada - satima zasjedao izraelski ratni kabinet. Spremni su na obranu, ali i na odgovor Iranu. Tri su dana do parlamentarnih izbora. Većina stranaka održala završne skupove. Počeo 20-ti Zagreb Dox, u tjedan dana bit će prikazano više od stotinu filmova. Hajduk pretrpio peti uzastopni poraz. Rijeka i dalje vodeća. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 14 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/87/20240414-kronika-dana-35181918-20240414204003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
