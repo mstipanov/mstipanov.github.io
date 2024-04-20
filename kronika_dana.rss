@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 Apr 2024 20:56:49 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 21:03:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.04. 2024-04-20</title>
+    <link>https://api.hrt.hr/media/99/4d/20240420-kronika-dana-35200670-20240420204033.mp3</link>
+    <description>Zastupnički dom američkog Kongresa izglasao paket od 95 milijardi dolara pomoći Ukrajini, Izraelu i Tajvanu. Ukrajini ide 60 milijardi dolara. Predsjednik Ustavnog suda Miroslav Šeparović objasnio zašto je 18. ožujka rekao da će Zoran Milanović moći biti premijer bude li dao ostavku, a jučer mu je to zabranjeno. Još nema vijesti je li blizu dogovor o sastavljanju vladajuće većine. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 20 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/4d/20240420-kronika-dana-35200670-20240420204033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.04. 2024-04-19</title>
     <link>https://api.hrt.hr/media/6b/fe/20240419-kronika-dana-35198349-20240419203528.mp3</link>
     <description>Ustavni sud odlučio - Zoran Milanović ne može biti kandidat za mandatara, ni premijer, čak i ako sada da ostavku i potvrde ga saborski zastupnici. Troje Ustavnih sudaca bilo je protiv te odluke, smatraju je protuustavnom prijetnjom novom Saboru, a predsjednik Milanović pripremom državnog udara. Iz svijeta: NATO će Ukrajini osigurati dodatne sustave protuzračne obrane. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na parlamentarnim izborima glasovalo je 60 posto birača.Vodi HDZ ,a u Hrvatski Sabor još ulaze SDPova koalicija ,Domovinski pokret,Most,Možemo,IDS, Fokus,Republika i Nezavisna platforma Sjever.</description>
     <pubDate>Wed, 17 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/09/94/20240417-kronika-dana-35191636-20240417211011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.04. 2024-04-16</title>
-    <link>https://api.hrt.hr/media/39/bc/20240416-kronika-dana-35188567-20240416203507.mp3</link>
-    <description>Sutra biramo zastupnike u Hrvatski sabor, izborna šutnja traje do zatvaranja birališta u 19 sati. Srbiji poslana prosvjedna nota zbog napada na četvoricu Hrvata u Pančevu. Izraelski ratni kabinet već treći put raspravlja kako će odgovoriti na iranski napad. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 16 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/39/bc/20240416-kronika-dana-35188567-20240416203507.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
