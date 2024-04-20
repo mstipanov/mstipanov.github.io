@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 Apr 2024 13:55:25 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 14:02:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 20.04. 2024-04-20</title>
+    <link>https://api.hrt.hr/media/94/d5/20240420-dnevne-novosti-35199839-20240420134030.mp3</link>
+    <description>Ne stišavaju se reakcije na jučerašnje upozorenje Ustavnog suda upućeno predsjedniku Milanoviću. Daleko od očiju javnosti teku pregovori o sastavljanju saborske većine. Ukrajina je noćas bespilotnim letjelicama napala rusku energetsku infrastrukturu. Domaće zračne luke spremne su za glavnu turističku sezonu. U povodu Dana planeta Zemlje, u Sesvetskom Kraljevcu najveća akcija čišćenja okoliša u Hrvatskoj</description>
+    <pubDate>Sat, 20 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/d5/20240420-dnevne-novosti-35199839-20240420134030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 19.04. 2024-04-19</title>
     <link>https://api.hrt.hr/media/11/53/20240419-dnevne-novosti-35197285-20240419134026.mp3</link>
     <description>Ustavni sud objavio upozorenje - predsjednik Milanović ne može biti ni mandatar za sastav buduće Vlade ni premijer. Nastavlja se politička kombinatorika - sve više scenarija kako sastaviti novu Vladu. Izrael izveo ograničen zračni napad na Iran. Iranski dužnosnik kaže da zasad nema plana za trenutno uzvraćanje napada. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska bira jedanaesti saziv Sabora. Do 11 i 30 glasovalo osjetno više birača nego prije četiri godine - njih gotovo četvrtina. Izlazne ankete imat ćemo u 19 sati, a prve rezultate izbora DIP će objaviti u 21 sat. Najmanje 13 osoba poginulo u raketnom napadu na grad Černihiv na sjeveru Ukrajine, predsjednik Zelenski ponavlja da je stanje u njegovoj zemlji vrlo ozbiljno i da joj je potrebna pomoć. Urednica: Mira Barić</description>
     <pubDate>Wed, 17 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/b7/20240417-dnevne-novosti-35190728-20240417135016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 16.04. 2024-04-16</title>
-    <link>https://api.hrt.hr/media/ff/f6/20240416-dnevne-novosti-35187498-20240416134007.mp3</link>
-    <description>Sutra biramo zastupnike u Hrvatski sabor, izborna šutnja traje do zatvaranja birališta u 19 sati. Srbiji poslana prosvjedna nota zbog napada na četvoricu Hrvata u Pančevu. Iz UN-a strahuju da bi Izrael u znak osvete Iranu mogao gađati tamošnje nuklearne pogone. U grčkoj Olimpiji zapaljen olimpijski plamen. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 16 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/f6/20240416-dnevne-novosti-35187498-20240416134007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
