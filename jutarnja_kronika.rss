@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 Apr 2024 05:53:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 05:58:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.04. 2024-04-20</title>
+    <link>https://api.hrt.hr/media/f2/87/20240420-jutarnja-kronika-35198885-20240420053529.mp3</link>
+    <description>Predsjednik Milanović ne može biti mandatar za sastav nove Vlade ni premijer, čak i ako preda ostavku - upozorio Ustavni sud! Milanović odluku nazvao pripremom državnog udara. U američkom Kongresu ovog se vikenda očekuje važna odluka o pomoći Ukrajini i Izraelu - u vrijednosti 95 milijardi dolara. NATO će Ukrajini osigurati dodatne sustave protuzračne obrane Patriot. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 20 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f2/87/20240420-jutarnja-kronika-35198885-20240420053529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.04. 2024-04-19</title>
     <link>https://api.hrt.hr/media/84/73/20240419-jutarnja-kronika-35195320-20240419053525.mp3</link>
     <description>Izraelske rakete noćas pogodile lokaciju u Iranu, aktiviran je sustav protuzračne obrane u gradu Isfahanu. Relativni pobjednik parlamentarnih izbora je HDZ, ali još nema naznake tko bi i s kojim partnerima mogao osigurati većinu. Predsjednik Zoran Milanović ponovio - mandat može dobiti samo onaj tko donese 76 potpisa. Na jubilarnom 60-om Venecijanskom bijenalu projekt "Priručnim sredstvima", umjetnice Vlatke Horvat i kustosice Antonije Majače, otvara hrvatski paviljon. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Izborni dan u Hrvatskoj - do 19 sati biramo novi saziv Sabora. Čim se zatvore birališta, objavljujemo izlazne ankete, a DIP će prve rezultate izbora objaviti u 21 sat. SAD i EU razmatraju nametanje novih sankcija Iranu zbog napada na Izrael. Zbog olujnog vjetra zatvorena autocesta od Svetog Roka do Posedarja. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 17 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/6d/20240417-jutarnja-kronika-35189151-20240417054010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.04. 2024-04-16</title>
-    <link>https://api.hrt.hr/media/70/71/20240416-jutarnja-kronika-35185762-20240416053506.mp3</link>
-    <description>Uoči sutrašnjih parlamentarnih izbora u ponoć počela izborna šutnja. Unatoč apelima za smirivanje situacije - Izrael najavio odgovor na iranski napad. U New Yorku izborom porotnika počelo suđenje Donaldu Trumpu. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Tue, 16 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/71/20240416-jutarnja-kronika-35185762-20240416053506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
