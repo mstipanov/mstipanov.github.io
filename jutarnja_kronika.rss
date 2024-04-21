@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 20 Apr 2024 05:58:52 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 06:05:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.04. 2024-04-21</title>
+    <link>https://api.hrt.hr/media/b7/88/20240421-jutarnja-kronika-35201239-20240421060036.mp3</link>
+    <description>Zastupnički dom američkog Kongresa odobrio paket pomoći Ukrajini vrijedan 60 milijardi dolara. U Kijevu olakšanje, oglasio se Zelenski. Predsjednik Ustavnog suda Miroslav Šeparović objasnio zašto je 18. ožujka rekao da će Zoran Milanović moći biti premijer bude li dao ostavku, a zatim mu je to zabranjeno. Još nema vijesti je li blizu dogovor o sastavljanju vladajuće većine. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 21 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b7/88/20240421-jutarnja-kronika-35201239-20240421060036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.04. 2024-04-20</title>
     <link>https://api.hrt.hr/media/f2/87/20240420-jutarnja-kronika-35198885-20240420053529.mp3</link>
     <description>Predsjednik Milanović ne može biti mandatar za sastav nove Vlade ni premijer, čak i ako preda ostavku - upozorio Ustavni sud! Milanović odluku nazvao pripremom državnog udara. U američkom Kongresu ovog se vikenda očekuje važna odluka o pomoći Ukrajini i Izraelu - u vrijednosti 95 milijardi dolara. NATO će Ukrajini osigurati dodatne sustave protuzračne obrane Patriot. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Parlamentarni izbori su iza nas, slijede pregovori, HDZ s partnerima pobjednik - osvaja 61 mandat.Gospodarsko stanje Unije tema je drugog dana izvanrednog sastanka na vrhu u Bruxellesu. U Hrvatskoj četvrti put jedan od najvećih sportskih događaja - Svjetsko prvenstvo u reliju. Urednica Mira Barić</description>
     <pubDate>Thu, 18 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0d/9f/20240418-jutarnja-kronika-35192165-20240418053512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.04. 2024-04-17</title>
-    <link>https://api.hrt.hr/media/54/6d/20240417-jutarnja-kronika-35189151-20240417054010.mp3</link>
-    <description>Izborni dan u Hrvatskoj - do 19 sati biramo novi saziv Sabora. Čim se zatvore birališta, objavljujemo izlazne ankete, a DIP će prve rezultate izbora objaviti u 21 sat. SAD i EU razmatraju nametanje novih sankcija Iranu zbog napada na Izrael. Zbog olujnog vjetra zatvorena autocesta od Svetog Roka do Posedarja. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 17 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/54/6d/20240417-jutarnja-kronika-35189151-20240417054010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
