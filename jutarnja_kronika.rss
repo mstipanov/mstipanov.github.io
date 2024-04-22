@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 Apr 2024 06:05:22 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 06:13:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.04. 2024-04-22</title>
+    <link>https://api.hrt.hr/media/d0/54/20240422-jutarnja-kronika-35203521-20240422053536.mp3</link>
+    <description>Pod nadzorom je požar koji je sinoć buknuo kod Grebaštice blizu Šibenika. Na početku tjedna očekuju se konkretniji pregovori o stvaranju saborske većine. Načelnik stožera izraelske vojske odobrio planove o nastavku rata u Gazi čiji je sastavni dio i napad na Rafah. U Splitu počeli Marulićevi dani Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 22 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/54/20240422-jutarnja-kronika-35203521-20240422053536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.04. 2024-04-21</title>
     <link>https://api.hrt.hr/media/b7/88/20240421-jutarnja-kronika-35201239-20240421060036.mp3</link>
     <description>Zastupnički dom američkog Kongresa odobrio paket pomoći Ukrajini vrijedan 60 milijardi dolara. U Kijevu olakšanje, oglasio se Zelenski. Predsjednik Ustavnog suda Miroslav Šeparović objasnio zašto je 18. ožujka rekao da će Zoran Milanović moći biti premijer bude li dao ostavku, a zatim mu je to zabranjeno. Još nema vijesti je li blizu dogovor o sastavljanju vladajuće većine. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Izraelske rakete noćas pogodile lokaciju u Iranu, aktiviran je sustav protuzračne obrane u gradu Isfahanu. Relativni pobjednik parlamentarnih izbora je HDZ, ali još nema naznake tko bi i s kojim partnerima mogao osigurati većinu. Predsjednik Zoran Milanović ponovio - mandat može dobiti samo onaj tko donese 76 potpisa. Na jubilarnom 60-om Venecijanskom bijenalu projekt "Priručnim sredstvima", umjetnice Vlatke Horvat i kustosice Antonije Majače, otvara hrvatski paviljon. Urednik: Silvio Šop</description>
     <pubDate>Fri, 19 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/73/20240419-jutarnja-kronika-35195320-20240419053525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.04. 2024-04-18</title>
-    <link>https://api.hrt.hr/media/0d/9f/20240418-jutarnja-kronika-35192165-20240418053512.mp3</link>
-    <description>Parlamentarni izbori su iza nas, slijede pregovori, HDZ s partnerima pobjednik - osvaja 61 mandat.Gospodarsko stanje Unije tema je drugog dana izvanrednog sastanka na vrhu u Bruxellesu. U Hrvatskoj četvrti put jedan od najvećih sportskih događaja - Svjetsko prvenstvo u reliju. Urednica Mira Barić</description>
-    <pubDate>Thu, 18 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/9f/20240418-jutarnja-kronika-35192165-20240418053512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
