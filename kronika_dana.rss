@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 Apr 2024 21:08:33 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 20:48:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.04. 2024-04-22</title>
+    <link>https://api.hrt.hr/media/9d/11/20240422-kronika-dana-35206305-20240422203538.mp3</link>
+    <description>HDZ nakon preliminarnih sastanaka s Domovinskim pokretom najavljuje početak strukturiranih pregovora. Domovinski pokret večeras dogovara svoje ključne točke. Prema izraelskim planovima, rat u Gazi se nastavlja, uključujući planove za kopnenu ofenzivu na grad Rafah. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 22 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9d/11/20240422-kronika-dana-35206305-20240422203538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.04. 2024-04-21</title>
     <link>https://api.hrt.hr/media/48/d8/20240421-kronika-dana-35202940-20240421204035.mp3</link>
     <description>Premijer Plenković potvrdio da HDZ razgovara s Domovinskim pokretom o sastavljanju nove Vlade. Upravni odbor stranke Fokus odlučio da neće koalirati s HDZ-om. U Jasenovcu održana komemoracija - 79 godina od proboja logoraša iz ustaškog logora. Kremlj tvrdi kako pomoć SAD-a Ukrajini pokazuje da Washington tone dublje u hibridni rat protiv Moskve. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ustavni sud odlučio - Zoran Milanović ne može biti kandidat za mandatara, ni premijer, čak i ako sada da ostavku i potvrde ga saborski zastupnici. Troje Ustavnih sudaca bilo je protiv te odluke, smatraju je protuustavnom prijetnjom novom Saboru, a predsjednik Milanović pripremom državnog udara. Iz svijeta: NATO će Ukrajini osigurati dodatne sustave protuzračne obrane. Urednica: Sanja Cota</description>
     <pubDate>Fri, 19 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6b/fe/20240419-kronika-dana-35198349-20240419203528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.04. 2024-04-18</title>
-    <link>https://api.hrt.hr/media/72/27/20240418-kronika-dana-35194695-20240418203525.mp3</link>
-    <description>Relativni pobjednik parlamentarnih izbora je HDZ sa 61 osvojenim mandatom, no i SDP misli da ima izgleda za sastavljanje vlade. Predsjednik Zoran Milanović ponovio - mandat može dobiti samo onaj tko donese 76 potpisa. U Hrvatskoj se četvrti put održava Svjetsko prvenstvo u reliju. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 18 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/72/27/20240418-kronika-dana-35194695-20240418203525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
