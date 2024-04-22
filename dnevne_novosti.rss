@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 Apr 2024 14:07:28 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 13:44:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.04. 2024-04-22</title>
+    <link>https://api.hrt.hr/media/65/6b/20240422-dnevne-novosti-35205112-20240422133539.mp3</link>
+    <description>I dalje traju poslijeizborne kombinacije o sastavljanju parlamentarne većine. Od ponoći benzin skuplji dva centa, a dizel jeftiniji jedan cent. Predsjednici Slovenije i susjednih zemalja, uključujući i Zorana Milanovića, u Brdu kod Kranja obilježavaju 20. obljetnicu članstva te zemlje u Europskoj uniji. Zbog propusta koji su omogućili napad Hamasa prošle godine, direktor izraelske vojno-obavještajne službe dao ostavku. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 22 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/65/6b/20240422-dnevne-novosti-35205112-20240422133539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.04. 2024-04-21</title>
     <link>https://api.hrt.hr/media/36/74/20240421-dnevne-novosti-35202250-20240421133534.mp3</link>
     <description>Premijer Plenković potvrdio da HDZ razgovara s Domovinskim pokretom o sastavljanju nove Vlade. 79 godina od proboja iz ustaškog logora u Jasenovcu. Ukrajina i Izrael zahvaljuju Americi na novom paketu pomoći. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Ustavni sud objavio upozorenje - predsjednik Milanović ne može biti ni mandatar za sastav buduće Vlade ni premijer. Nastavlja se politička kombinatorika - sve više scenarija kako sastaviti novu Vladu. Izrael izveo ograničen zračni napad na Iran. Iranski dužnosnik kaže da zasad nema plana za trenutno uzvraćanje napada. Urednica: Mira Barić</description>
     <pubDate>Fri, 19 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/53/20240419-dnevne-novosti-35197285-20240419134026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.04. 2024-04-18</title>
-    <link>https://api.hrt.hr/media/0b/54/20240418-dnevne-novosti-35193580-20240418135100.mp3</link>
-    <description>Sa 61 osvojenim mandatom HDZ je relativni pobjednik parlamentarnih izbora. "Vrlo skoro doznat ćete s kim ćemo formirati novu većinu u Saboru", napisao na stranačkom Facebooku predsjednik HDZ-a Andrej Plenković. Oglasio se i predsjednik Republike Zoran Milanović. Gospodarsko stanje Europske unije i odgovor na izazove konkurencije trećih zemalja teme su drugog dana sastanka na vrhu Europske unije. U Hrvatsku stigao brod "Dalmacija", najveći u povijesti flote Jadrolinije. Plovit će na liniji Dubrovnik - Bari. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 18 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/54/20240418-dnevne-novosti-35193580-20240418135100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
