@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 16 Apr 2024 16:11:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 16:22:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 23.04.2024. 2024-04-23</title>
+    <link>https://api.hrt.hr/media/24/29/20240423-explora-8059565-20240423160549.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 23 Apr 2024 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/24/29/20240423-explora-8059565-20240423160549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 16.04.2024. 2024-04-16</title>
     <link>https://api.hrt.hr/media/05/c2/20240416-explora-8057274-20240416160507.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
@@ -80,15 +88,6 @@
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
     <pubDate>Tue, 27 Feb 2024 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/4f/20240227-explora-8041023-20240227175524.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>EXPLORA 20.02.2024 2024-02-20</title>
-    <link>https://api.hrt.hr/media/1c/9f/20240220-explora-8038879-20240220171522.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.
-U ovoj emisiji - Zagrijavanje oceana. Geoinženjering. Vertikalni solarni paneli. Ugljični otisak. Zabranjeni električni automobili. Teorija ili praksa urote? Lockheed Martin X-59. Plovila koja uništavaju morske organizme. Zaboravljena znanja. </description>
-    <pubDate>Tue, 20 Feb 2024 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1c/9f/20240220-explora-8038879-20240220171522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
