@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 Apr 2024 20:53:21 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 21:00:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.04. 2024-04-24</title>
+    <link>https://api.hrt.hr/media/73/c9/20240424-kronika-dana-35213268-20240424204517.mp3</link>
+    <description>HDZ i Domovinski pokret počeli službene pregovore. Na ljevici se pokušava okupiti protukorupcijska saborska većina. MOST napustili Marija Selak Raspudić i Nino Raspudić. Američki predsjednik potpisao zakon - Ukrajina dobiva 61 milijardu američkih dolara pomoći; oružje i streljivo prema Ukrajini kreću odmah. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 24 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/73/c9/20240424-kronika-dana-35213268-20240424204517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.04. 2024-04-23</title>
     <link>https://api.hrt.hr/media/0e/ad/20240423-kronika-dana-35209857-20240423204051.mp3</link>
     <description>I službeno su počeli pregovori o sastavljanju parlamentarne većine. SDP odustao od mandatara Zorana Milanovića, Plenković odbio uvjet Domovinskog pokreta - deratifikaciju Istanbulske konvencije, bračni par Raspudić navodno napušta Most. Rok za predaju lista kandidata za izbore za Europski parlament istječe u ponoć. Preksutra stiže prvih šest od 12 borbenih zrakoplova Rafala koje je Hrvatska kupila od Francuske. Otvorena je najmasovnija domaća kulturna manifestacija - Noć knjige. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković potvrdio da HDZ razgovara s Domovinskim pokretom o sastavljanju nove Vlade. Upravni odbor stranke Fokus odlučio da neće koalirati s HDZ-om. U Jasenovcu održana komemoracija - 79 godina od proboja logoraša iz ustaškog logora. Kremlj tvrdi kako pomoć SAD-a Ukrajini pokazuje da Washington tone dublje u hibridni rat protiv Moskve. Urednica: Mira Barić</description>
     <pubDate>Sun, 21 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/48/d8/20240421-kronika-dana-35202940-20240421204035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.04. 2024-04-20</title>
-    <link>https://api.hrt.hr/media/99/4d/20240420-kronika-dana-35200670-20240420204033.mp3</link>
-    <description>Zastupnički dom američkog Kongresa izglasao paket od 95 milijardi dolara pomoći Ukrajini, Izraelu i Tajvanu. Ukrajini ide 60 milijardi dolara. Predsjednik Ustavnog suda Miroslav Šeparović objasnio zašto je 18. ožujka rekao da će Zoran Milanović moći biti premijer bude li dao ostavku, a jučer mu je to zabranjeno. Još nema vijesti je li blizu dogovor o sastavljanju vladajuće većine. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 20 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/99/4d/20240420-kronika-dana-35200670-20240420204033.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
