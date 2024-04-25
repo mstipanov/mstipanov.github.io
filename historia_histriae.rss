@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 Apr 2024 16:21:27 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 16:04:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Igor Jovanović 2024-04-25</title>
+    <link>https://api.hrt.hr/media/ce/72/20240425-historia-histriae-8060187-20240425151048.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 25 Apr 2024 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ce/72/20240425-historia-histriae-8060187-20240425151048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>IVAN SERGO 2024-04-18</title>
     <link>https://api.hrt.hr/media/d0/0d/20240418-historia-histriae-8057926-20240418151706.mp3</link>
     <description>U goste nam dolazi Ivan Sergo, pokretač instagram stranice "Stara Pula". </description>
@@ -79,14 +87,6 @@
     <description>Pričamo o ostavštini dr. Attilia Krizmanića uz Gordanu Milaković, urednicu i koordinatoricu projekta "Graditeljsko nasljeđe Pule 1813. - 1918."</description>
     <pubDate>Thu, 22 Feb 2024 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/96/20240222-historia-histriae-8039445-20240222172029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Danilo Dragosavac 2024-02-15</title>
-    <link>https://api.hrt.hr/media/f8/2c/20240215-historia-histriae-8037387-20240215171045.mp3</link>
-    <description>Pričamo o povijesti Vodnjana uz Danila Dragosavca </description>
-    <pubDate>Thu, 15 Feb 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f8/2c/20240215-historia-histriae-8037387-20240215171045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
