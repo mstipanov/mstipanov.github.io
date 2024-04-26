@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 Apr 2024 21:08:24 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 21:15:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.04. 2024-04-26</title>
+    <link>https://api.hrt.hr/media/5a/6b/20240426-kronika-dana-35220601-20240426204002.mp3</link>
+    <description>Nastavak pregovora HDZ-a i Domovinskog pokreta najavljen je za idući tjedan, Domovinski pokret ponavlja da SDSS ne može biti dio vlasti koju će oni poduprijeti. Američki državni tajnik Antony Blinken najavio moguće uvođenje sankcija kineskim poduzećima koja nastave surađivati s Rusijom. Hrvatski predstavnik na ovogodišnjem Eurosongu, Baby Lasagna stigao je u Malm&amp;ouml;. Urednica: Mira Barić</description>
+    <pubDate>Fri, 26 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5a/6b/20240426-kronika-dana-35220601-20240426204002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.04. 2024-04-25</title>
     <link>https://api.hrt.hr/media/8f/f9/20240425-kronika-dana-35217118-20240425204532.mp3</link>
     <description>Velika svečanost na Plesu, prvih šest Rafala sletjelo u Hrvatsku. Još nema saborske većine, pregovori traju. Dva nova europska prometna koridora prolazit će kroz Hrvatsku. Nakon što je njegova supruga osumnjičena za korupciju, španjolski premijer Sančez na pet dana povukao se iz javnosti kako bi razmislio o ostavci. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>I službeno su počeli pregovori o sastavljanju parlamentarne većine. SDP odustao od mandatara Zorana Milanovića, Plenković odbio uvjet Domovinskog pokreta - deratifikaciju Istanbulske konvencije, bračni par Raspudić navodno napušta Most. Rok za predaju lista kandidata za izbore za Europski parlament istječe u ponoć. Preksutra stiže prvih šest od 12 borbenih zrakoplova Rafala koje je Hrvatska kupila od Francuske. Otvorena je najmasovnija domaća kulturna manifestacija - Noć knjige. Urednik: Silvio Šop</description>
     <pubDate>Tue, 23 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0e/ad/20240423-kronika-dana-35209857-20240423204051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.04. 2024-04-22</title>
-    <link>https://api.hrt.hr/media/9d/11/20240422-kronika-dana-35206305-20240422203538.mp3</link>
-    <description>HDZ nakon preliminarnih sastanaka s Domovinskim pokretom najavljuje početak strukturiranih pregovora. Domovinski pokret večeras dogovara svoje ključne točke. Prema izraelskim planovima, rat u Gazi se nastavlja, uključujući planove za kopnenu ofenzivu na grad Rafah. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 22 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/11/20240422-kronika-dana-35206305-20240422203538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
