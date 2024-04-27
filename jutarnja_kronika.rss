@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Apr 2024 05:41:55 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 05:48:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Za izbore za Europski parlament predano 25 kandidacijskih lista. Izbori će biti 9. lipnja, a bira se 12 eurozastupnika. Kampanja će trajati više od 40 dana. Iako je od izbora za Hrvatski sabor prošlo tjedan dana, još nema naznaka tko bi mogao sastaviti novu vladu. Pregovarački tim Domovinskog pokreta danas bi se trebao sastati s HDZ-ovim predstavnicima. Sutra iz Francuske stiže prvih šest borbenih zrakoplova Rafala. Američki Senat izglasao paket zakona koji uključuje vojnu pomoć Ukrajini. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 24 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/32/23/20240424-jutarnja-kronika-35210419-20240424053511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.04. 2024-04-23</title>
-    <link>https://api.hrt.hr/media/3f/eb/20240423-jutarnja-kronika-35206973-20240423053539.mp3</link>
-    <description>Posljednji je dan za predaju lista za izbore za Europski parlament. Počinju pregovori HDZ-a i Domovinskog pokreta o sastavljanje nove vlade! Iz SDP-a i Možemo pozivaju na stvaranje antihadezeovske većine. Nastavljaju se snažni izraelski zračni napadi na jug pojasa Gaze, a nakon izraelskih optužbi, u UN-u predstavljena izvješća istrage postupanja njihove Agencije za palestinske izbjeglice. Svečano otvorenje Noći knjige! Organizirano više od tisuću sto programa. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 23 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/eb/20240423-jutarnja-kronika-35206973-20240423053539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
