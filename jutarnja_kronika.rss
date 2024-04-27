@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 27 Apr 2024 05:48:42 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 06:18:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.04. 2024-04-27</title>
+    <link>https://api.hrt.hr/media/a6/4d/20240427-jutarnja-kronika-35221106-20240427054504.mp3</link>
+    <description>Nastavak pregovora HDZ-a i Domovinskog pokreta najavljen je za idući tjedan. Domovinski pokret ponavlja da SDSS ne može biti dio vlasti koju će oni poduprijeti. Američki državni tajnik Antony Blinken najavio moguće uvođenje sankcija kineskim poduzećima koja surađuju s Rusijom. Jemenski hutisti pogodili tanker u Crvenome moru. Urednik: Mislav Togonal</description>
+    <pubDate>Sat, 27 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/4d/20240427-jutarnja-kronika-35221106-20240427054504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.04. 2024-04-26</title>
     <link>https://api.hrt.hr/media/97/ff/20240426-jutarnja-kronika-35217737-20240426053533.mp3</link>
     <description>Prvih šest Rafala, od ukupno 12, jučer stiglo u Hrvatsku. Pregovori o saborskoj većini još traju. Manjine potvrdile da podupiru Gordana Jandrokovića za predsjednika Sabora. Izraelska vojska odbacila optužbe da su njezine snage pokopale stotine Palestinaca u masovne grobnice u pojasu Gaze. Večeras u zagrebačkoj Tvornici legendarni The Boomtown Rats. Urednik: Silvio Šop</description>
