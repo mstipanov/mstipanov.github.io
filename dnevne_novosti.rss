@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Apr 2024 14:13:58 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 14:20:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.04. 2024-04-27</title>
+    <link>https://api.hrt.hr/media/45/9f/20240427-dnevne-novosti-35222323-20240427133505.mp3</link>
+    <description>Američka sveučilišta postaju poprišta prosvjeda protiv rata u Gazi. Američkim studentima pridružuje se sve više njihovih kolega diljem Europe i svijeta. Predsjednik SDP-a Peđa Grbin izjavio da je MOST pristao na inicijativu za antikorupcijsku platformu u Saboru. Prije 25 godina kod Malog Lošinja izronjen brončani kip Apoksiomena, star dva tisućljeća. Istarska županija osmi put proglašena najboljom svjetskom maslinarskom regijom. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 27 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/9f/20240427-dnevne-novosti-35222323-20240427133505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.04. 2024-04-26</title>
     <link>https://api.hrt.hr/media/33/e7/20240426-dnevne-novosti-35219609-20240426141034.mp3</link>
     <description>Nastavljaju se pregovori o sastavljanju parlamentarne većine. Hrvatski pomorski kapetan Marko Bekavac u turskom istražnom zatvoru više od pola godine čeka suđenje jer je na njegovu brodu pronađena droga. Rusi tvrde da napreduju na istočnom ukrajinskom bojištu. Baby Lasagna otputovao u Švedsku, gdje će već sutra imati prve probe za Eurosong. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Nakon jučerašnjih pregovora s koalicijom Rijeke pravde, Mostom i Hrvatskim suverenistima, Domovinski pokret počeo službene pregovore i s relativnim pobjednikom izbora - HDZ-om. Marija Selak Raspudić potvrdila da su se ona i njezin suprug Nino razišli s Mostom i nastavit će djelovati kao nezavisni zastupnici. Nakon Kongresa, i američki Senat izglasovao vojnu pomoć Ukrajini vrijednu 61 milijardu dolara. Film Nebojše Slijepčevića "Čovjek koji nije mogao šutjeti" uvršten u službeni natjecateljski program 77. Filmskog festivala u Cannesu. Urednik: Silvio Šop</description>
     <pubDate>Wed, 24 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ad/25/20240424-dnevne-novosti-35212123-20240424134018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.04. 2024-04-23</title>
-    <link>https://api.hrt.hr/media/69/ad/20240423-dnevne-novosti-35208739-20240423134051.mp3</link>
-    <description>I službeno počeli pregovori o sastavljanju Vlade. Ivana Penava kaže da žele biti u izvršnoj vlasti, ali ne pod svaku cijenu. U ponoć istječe rok za predaju lista kandidata za izbore za Europski parlament, u koji će Hrvatska 9. lipnja birati 12 zastupnika. Počela 13. Noć knjige - i najnoviji rezultati o čitalačkim navikama u Hrvatskoj porazni. U Lici i Gorskom kotaru pao snijeg, u Delnicama ga napadalo 15-ak centimetara. Urednica: Mira Barić</description>
-    <pubDate>Tue, 23 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/ad/20240423-dnevne-novosti-35208739-20240423134051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
