@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 27 Apr 2024 20:53:27 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 21:03:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.04. 2024-04-28</title>
+    <link>https://api.hrt.hr/media/65/21/20240428-kronika-dana-35225280-20240428204007.mp3</link>
+    <description>Sutra se nastavljaju pregovori o sastavljanju parlamentarne većine. Vesna Vučemilović iz Suverenista objavila da neće ni u kakav savez sa SDP-om ili Možemo, nagađa se da bi mogla poduprijeti HDZ-ovu većinu. Izrael je spreman odustati od napada na Rafah ako Hamas oslobodi preostale taoce. Ove godine neće biti tradicionalne prvosvibanjske povorke u Zagrebu. SPORT: boksač Gabrijel Veočić europski prvak u kategoriji do 80 kilograma, sestre Jurković brončane na Europskom veslačkom prvenstvu. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 28 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/65/21/20240428-kronika-dana-35225280-20240428204007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.04. 2024-04-27</title>
     <link>https://api.hrt.hr/media/18/18/20240427-kronika-dana-35223139-20240427204006.mp3</link>
     <description>Ni deset dana nakon izbora nema naznaka tko će biti dio parlamentarne većine. Hrvatski suverenisti odlučili da neće u HDZ-ovu Vladu.Izrael spreman odgoditi ulazak vojske u Rafah ako Hamas oslobodi taoce. Nakon jedanaest dana resorno ministarstvo donijelo plan odsukavanja broda u Raškom zaljevu.Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Velika svečanost na Plesu, prvih šest Rafala sletjelo u Hrvatsku. Još nema saborske većine, pregovori traju. Dva nova europska prometna koridora prolazit će kroz Hrvatsku. Nakon što je njegova supruga osumnjičena za korupciju, španjolski premijer Sančez na pet dana povukao se iz javnosti kako bi razmislio o ostavci. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 25 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/f9/20240425-kronika-dana-35217118-20240425204532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.04. 2024-04-24</title>
-    <link>https://api.hrt.hr/media/73/c9/20240424-kronika-dana-35213268-20240424204517.mp3</link>
-    <description>HDZ i Domovinski pokret počeli službene pregovore. Na ljevici se pokušava okupiti protukorupcijska saborska većina. MOST napustili Marija Selak Raspudić i Nino Raspudić. Američki predsjednik potpisao zakon - Ukrajina dobiva 61 milijardu američkih dolara pomoći; oružje i streljivo prema Ukrajini kreću odmah. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 24 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/73/c9/20240424-kronika-dana-35213268-20240424204517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
