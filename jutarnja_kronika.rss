@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 27 Apr 2024 06:18:47 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 05:58:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.04. 2024-04-28</title>
+    <link>https://api.hrt.hr/media/ae/f4/20240428-jutarnja-kronika-35223689-20240428053507.mp3</link>
+    <description>Šef Hrvatskih suverenista Marijan Pavliček kaže da neće s HDZ-om jer bi to bila izdaja birača. Suverenistica Vesna Vučemilović poručuje kako nikome ne dopušta da u njezino ime izborne gubitnike pokuša pretvoriti u izborne pobjednike. Pregovori HDZ-a i Domovinskog pokreta se nastavljaju idući tjedan. Afrički brod za prijevoz stoke koji se nasukao na ulazu u Raški zaljev bit će odsukan u roku od mjesec dana. Bosanskohercegovački ministar vanjskih poslova Konaković nazvao je izraelskog veleposlanika u Srbiji "diplomatskom i ljudskom sramotom" nakon što je izjavio kako Izrael Srebrenicu ne smatra genocidom. Urednik: Mislav Togonal</description>
+    <pubDate>Sun, 28 Apr 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/f4/20240428-jutarnja-kronika-35223689-20240428053507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.04. 2024-04-27</title>
     <link>https://api.hrt.hr/media/a6/4d/20240427-jutarnja-kronika-35221106-20240427054504.mp3</link>
     <description>Nastavak pregovora HDZ-a i Domovinskog pokreta najavljen je za idući tjedan. Domovinski pokret ponavlja da SDSS ne može biti dio vlasti koju će oni poduprijeti. Američki državni tajnik Antony Blinken najavio moguće uvođenje sankcija kineskim poduzećima koja surađuju s Rusijom. Jemenski hutisti pogodili tanker u Crvenome moru. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Povijesni dan za Hrvatsku - iz Francuske dolazi prvih šest Rafalea. Pentagon potvrdio - Amerikanci Ukrajini poslali najmoćnije oružje dosad - razorne raketne sustave dugog dometa. Počeli službeni pregovori HDZ-a i Domovinskog pokreta da se sastavi nova Vlada. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 25 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/48/b1/20240425-jutarnja-kronika-35213894-20240425054017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.04. 2024-04-24</title>
-    <link>https://api.hrt.hr/media/32/23/20240424-jutarnja-kronika-35210419-20240424053511.mp3</link>
-    <description>Za izbore za Europski parlament predano 25 kandidacijskih lista. Izbori će biti 9. lipnja, a bira se 12 eurozastupnika. Kampanja će trajati više od 40 dana. Iako je od izbora za Hrvatski sabor prošlo tjedan dana, još nema naznaka tko bi mogao sastaviti novu vladu. Pregovarački tim Domovinskog pokreta danas bi se trebao sastati s HDZ-ovim predstavnicima. Sutra iz Francuske stiže prvih šest borbenih zrakoplova Rafala. Američki Senat izglasao paket zakona koji uključuje vojnu pomoć Ukrajini. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 24 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/32/23/20240424-jutarnja-kronika-35210419-20240424053511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
