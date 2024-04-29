@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 28 Apr 2024 14:32:02 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 14:06:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.04. 2024-04-29</title>
+    <link>https://api.hrt.hr/media/8a/d3/20240429-dnevne-novosti-35227788-20240429134009.mp3</link>
+    <description>Od sutra teče rok za održavanje prve sjednice novog Sabora, a krajnji je 19. svibnja. Domovinski pokret danas nastavio pregovarati sa SDP-om i HDZ-om. Španjolski premijer odlučio da neće dati ostavku zbog supruge koja se našla u korupcijskom skandalu. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 29 Apr 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8a/d3/20240429-dnevne-novosti-35227788-20240429134009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.04. 2024-04-28</title>
     <link>https://api.hrt.hr/media/15/31/20240428-dnevne-novosti-35224537-20240428134006.mp3</link>
     <description>Nakon što su Suverenisti objavili da neće u većinu s HDZ-om, Vesna Vučemilović poručuje da ona neće glasovati za savez sa SDP-om ili Možemo. Svjetski je dan sigurnosti i zaštite na radu, svake godine kod nas pogine dvadesetak radnika. Iz svijeta: Izrael je spreman odustati od napada na Rafah ako Hamas oslobodi preostale taoce. Sport! Sestre Jurković brončane na Europskom veslačkom prvenstvu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nastavljaju se pregovori o sastavljanju parlamentarne većine. Hrvatski pomorski kapetan Marko Bekavac u turskom istražnom zatvoru više od pola godine čeka suđenje jer je na njegovu brodu pronađena droga. Rusi tvrde da napreduju na istočnom ukrajinskom bojištu. Baby Lasagna otputovao u Švedsku, gdje će već sutra imati prve probe za Eurosong. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 26 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/e7/20240426-dnevne-novosti-35219609-20240426141034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.04. 2024-04-25</title>
-    <link>https://api.hrt.hr/media/44/bf/20240425-dnevne-novosti-35215865-20240425134018.mp3</link>
-    <description>Velika svečanost na Plesu, prvih šest Rafalea sletjelo u Hrvatsku. Pregovori traju, još nema saborske većine. Više od 33 tisuće umirovljenika potpisalo peticiju "Veće mirovine odmah", predat će je Vladi. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 25 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/bf/20240425-dnevne-novosti-35215865-20240425134018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
