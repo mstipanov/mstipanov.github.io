@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Apr 2024 20:46:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 21:16:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.04. 2024-04-30</title>
+    <link>https://api.hrt.hr/media/ec/49/20240430-kronika-dana-35232198-20240430210015.mp3</link>
+    <description>Teče rok od 20 dana za konstituiranje Sabora, Domovinski pokret i HDZ pregovore nastavljaju preksutra. Inflacija u travnju - 3,7 posto. U povodu obljetnice operacije Bljesak, sutra će tri Rafalea preletjeti cijelu zemlju. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 30 Apr 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/49/20240430-kronika-dana-35232198-20240430210015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.04. 2024-04-29</title>
     <link>https://api.hrt.hr/media/5a/ec/20240429-kronika-dana-35228806-20240429204009.mp3</link>
     <description>Predsjednik DIP-a uručio predsjedniku Milanoviću konačne rezultate izbora, sutra počinje teći rok od 20 dana za održavanje prve sjednice novog saziva Sabora. Održani pregovori Domovinskog pokreta sa SDP-om te HDZ-om, još nitko nema većinu. Hamasu ponuđen 40-dnevni prekid vatre i puštanje na slobodu tisuća palestinskih zatvorenika u zamjenu za oslobađanje izraelskih talaca. Urednica: Mira Barić</description>
