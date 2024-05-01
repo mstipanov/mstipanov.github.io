@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Apr 2024 21:16:09 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 20:54:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.05. 2024-05-01</title>
+    <link>https://api.hrt.hr/media/4b/a3/20240501-kronika-dana-35234754-20240501204014.mp3</link>
+    <description>Obilježena 29.-ta godišnjica akcije Bljeska, dva Rafala preletjela Hrvatsku - od Vukovara i Čakovca, do Istre i juga zemlje. Međunarodni praznik rada u zemlji obilježen uz grah i zabavni program, u svijetu prosvjedima. Večeras novi potres na slunjskom području, u Rakovici oštećeni zidovi kuća i crkva. Urednica Mira Barić</description>
+    <pubDate>Wed, 01 May 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/a3/20240501-kronika-dana-35234754-20240501204014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.04. 2024-04-30</title>
     <link>https://api.hrt.hr/media/ec/49/20240430-kronika-dana-35232198-20240430210015.mp3</link>
     <description>Teče rok od 20 dana za konstituiranje Sabora, Domovinski pokret i HDZ pregovore nastavljaju preksutra. Inflacija u travnju - 3,7 posto. U povodu obljetnice operacije Bljesak, sutra će tri Rafalea preletjeti cijelu zemlju. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sutra se nastavljaju pregovori o sastavljanju parlamentarne većine. Vesna Vučemilović iz Suverenista objavila da neće ni u kakav savez sa SDP-om ili Možemo, nagađa se da bi mogla poduprijeti HDZ-ovu većinu. Izrael je spreman odustati od napada na Rafah ako Hamas oslobodi preostale taoce. Ove godine neće biti tradicionalne prvosvibanjske povorke u Zagrebu. SPORT: boksač Gabrijel Veočić europski prvak u kategoriji do 80 kilograma, sestre Jurković brončane na Europskom veslačkom prvenstvu. Urednik: Silvio Šop</description>
     <pubDate>Sun, 28 Apr 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/65/21/20240428-kronika-dana-35225280-20240428204007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.04. 2024-04-27</title>
-    <link>https://api.hrt.hr/media/18/18/20240427-kronika-dana-35223139-20240427204006.mp3</link>
-    <description>Ni deset dana nakon izbora nema naznaka tko će biti dio parlamentarne većine. Hrvatski suverenisti odlučili da neće u HDZ-ovu Vladu.Izrael spreman odgoditi ulazak vojske u Rafah ako Hamas oslobodi taoce. Nakon jedanaest dana resorno ministarstvo donijelo plan odsukavanja broda u Raškom zaljevu.Urednica Mira Barić</description>
-    <pubDate>Sat, 27 Apr 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/18/20240427-kronika-dana-35223139-20240427204006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
