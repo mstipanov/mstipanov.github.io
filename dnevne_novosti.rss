@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 May 2024 13:58:13 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 14:03:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.05. 2024-05-03</title>
+    <link>https://api.hrt.hr/media/45/cf/20240503-dnevne-novosti-35241354-20240503133503.mp3</link>
+    <description>Pregovori HDZ-a i Domovinskog pokreta nastavljeni u Vukovaru, zasad ništa novo. Vatrogasci iz cijele Hrvatske prosvjeduju na Markovu trgu. Dan je slobode medija; Reporteri bez granica Hrvatsku na ljestvici sloboda spustili za 6 mjesta. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 03 May 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/cf/20240503-dnevne-novosti-35241354-20240503133503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.05. 2024-05-02</title>
     <link>https://api.hrt.hr/media/03/d2/20240502-dnevne-novosti-35237567-20240502134104.mp3</link>
     <description>Zagrebačka policija uhitila tri osobe, među kojima bivšeg pomoćnika ministrice kulture Davora Trupkovića. Sumnjiče se da su preplatili radove nakon potresa i tako sebi protupravno pribavili 384 tisuće eura, a državni proračun oštetili za više od milijun eura. Nastavljaju se pregovori o parlamentarnoj većini, premijer Plenković tvrdi da HDZ načelno ima 76 ruku, teoretski i 83. Interventna policija gotovo ugušila snažan prosvjed na sveučilištu Kaliforniji u Los Angelesu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Počeo teći rok od 20 dana za konstituiranje Sabora. Iako se intenzivno pregovara, zasad dogovora nema. Uhićene tri osobe zbog sumnje u višemilijunske prijevare tijekom obnove od potresa - istragu pokrenuo Ured europskoga javnog tužitelja u Zagrebu. Gotovo pola godine od prometne nesreće podignuta optužnica protiv bivšeg ministra Maria Banožića. Najmanje 120 ljudi poginulo u poplavama u središnjoj Keniji. Urednica: Mira Barić</description>
     <pubDate>Tue, 30 Apr 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d0/6b/20240430-dnevne-novosti-35231248-20240430134011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.04. 2024-04-29</title>
-    <link>https://api.hrt.hr/media/8a/d3/20240429-dnevne-novosti-35227788-20240429134009.mp3</link>
-    <description>Od sutra teče rok za održavanje prve sjednice novog Sabora, a krajnji je 19. svibnja. Domovinski pokret danas nastavio pregovarati sa SDP-om i HDZ-om. Španjolski premijer odlučio da neće dati ostavku zbog supruge koja se našla u korupcijskom skandalu. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 29 Apr 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8a/d3/20240429-dnevne-novosti-35227788-20240429134009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
