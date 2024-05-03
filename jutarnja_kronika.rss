@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 May 2024 05:56:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 06:01:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.05. 2024-05-03</title>
+    <link>https://api.hrt.hr/media/79/db/20240503-jutarnja-kronika-35239436-20240503053502.mp3</link>
+    <description>Vatrogasci iz cijele Hrvatske prosvjeduju na Markovu trgu. Na zahtjev europskog javnog tužitelja - trojica uhićenih, među njima i pomoćnik ministrice kulture. Svjetski je dan slobode medija. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 03 May 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/79/db/20240503-jutarnja-kronika-35239436-20240503053502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.05. 2024-05-02</title>
     <link>https://api.hrt.hr/media/48/d0/20240502-jutarnja-kronika-35235319-20240502053515.mp3</link>
     <description>Počinje isplata povrata poreza na dohodak. Nastavljaju se pregovori o sastavljanju parlamentarne većine. Borovo se prisjeća pogibije 12 redarstvenika, a Zagreb raketiranja grada tzv. zvončićima. U Kini se urušila autocesta - poginulo 36 ljudi, još 30 ozlijeđeno. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik države dobio konačne izborne rezultate. U idućih 20 dana mora sazvati prvu sjednicu Sabora. Domovinski pokret pregovarao s SDP-om i HDZ-om. I dalje nitko nema većinu. U američkoj državi Sjevernoj Karolini u pucnjavi ubijena trojica, a ranjena četvorica policajaca. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 30 Apr 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/16/d7/20240430-jutarnja-kronika-35229360-20240430053510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.04. 2024-04-29</title>
-    <link>https://api.hrt.hr/media/c5/51/20240429-jutarnja-kronika-35225832-20240429054008.mp3</link>
-    <description>Danas se nastavljaju pregovori o sastavljanju nove saborske većine. Nagađa se da su HDZ i Domovinski pokret nadomak potrebnom broju ruku nakon raskola među Suverenistima. Hoće li Dario Zurovec biti 76-ti glas za potporu novoj saborskoj većini HDZ-a i Domovinskog pokreta? Gost Jutarnje kronike gradonačelnik Svete Nedelje. Premijer Plenković u Briselu na godišnjoj konferenciji Europske unije o proračunu.U eksploziji voje baze u Kambodži najmanje 20 mrtvih. Dogodilo se to u jeku toplinskog vala u regiji u kojoj ovih dana temperature dosežu i 40 stupnjeva.Urednik Mislav Togonal.</description>
-    <pubDate>Mon, 29 Apr 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/51/20240429-jutarnja-kronika-35225832-20240429054008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
