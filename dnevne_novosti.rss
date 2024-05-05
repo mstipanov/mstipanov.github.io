@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 May 2024 14:08:11 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 13:47:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.05. 2024-05-05</title>
+    <link>https://api.hrt.hr/media/6f/e3/20240505-dnevne-novosti-35246166-20240505133536.mp3</link>
+    <description>Za dva dana trebali bismo doznati jesu li HDZ i Domovinski pokret dogovorili novu parlamentarnu većinu i tko će još, osim njih, biti u njoj.Izraelska vlada zabranila emitiranje katarske televizije Al Jazeere na svojem području.Na Rujevici večeras derbi sezone Rijeka - Dinamo. Urednica: Mira Barić</description>
+    <pubDate>Sun, 05 May 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6f/e3/20240505-dnevne-novosti-35246166-20240505133536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.05. 2024-05-04</title>
     <link>https://api.hrt.hr/media/25/00/20240504-dnevne-novosti-35243900-20240504133532.mp3</link>
     <description>U Zagrebu jutros ubijena 68-godišnja žena. HDZ i Domovinski pokret blizu dogovora o parlamentarnoj većini, konkretnije vjerojatno u utorak. Nakon jučerašnjeg prosvjeda, vatrogasci slave svoj dan. : Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zagrebačka policija uhitila tri osobe, među kojima bivšeg pomoćnika ministrice kulture Davora Trupkovića. Sumnjiče se da su preplatili radove nakon potresa i tako sebi protupravno pribavili 384 tisuće eura, a državni proračun oštetili za više od milijun eura. Nastavljaju se pregovori o parlamentarnoj većini, premijer Plenković tvrdi da HDZ načelno ima 76 ruku, teoretski i 83. Interventna policija gotovo ugušila snažan prosvjed na sveučilištu Kaliforniji u Los Angelesu. Urednica: Mira Barić</description>
     <pubDate>Thu, 02 May 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/d2/20240502-dnevne-novosti-35237567-20240502134104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.05. 2024-05-01</title>
-    <link>https://api.hrt.hr/media/27/3e/20240501-dnevne-novosti-35233994-20240501134015.mp3</link>
-    <description>29. je obljetnica vojno-redarstvene operacije Bljesak kojom je oslobođena zapadna Slavonija. Predsjednik Milanović kaže da se o sastavljanju saborske većine pregovara na sve strane, ali prljavije nego prije. Na Međunarodni praznik rada u Hrvatskoj više nema prosvjednih povorki, no građani se okupljaju na druženjima u mnogim gradovima. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 01 May 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/3e/20240501-dnevne-novosti-35233994-20240501134015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
