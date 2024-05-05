@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 May 2024 20:41:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 20:48:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.05. 2024-05-05</title>
+    <link>https://api.hrt.hr/media/3c/81/20240505-kronika-dana-35246849-20240505204048.mp3</link>
+    <description>Idući tjedan očekuje se konačan dogovor HDZ-a i DP-a o koaliciji, no još nema odgovora što to znači za zastupnike manjina, posebice SDSS. U Kairu je propala još jedna runda pregovora između Izraela i Hamasa. Nakon pobjede 2:1 protiv Rijeke - Dinamo je na korak do novog naslova prvaka. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 05 May 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/81/20240505-kronika-dana-35246849-20240505204048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.05. 2024-05-04</title>
     <link>https://api.hrt.hr/media/43/34/20240504-kronika-dana-35244715-20240504204044.mp3</link>
     <description>HDZ i Domovinski pokret blizu dogovora o parlamentarnoj većini. Andrej Plenković siguran - bit će više nego dovoljno ruku. Turistički rezultati u prva četiri mjeseca najavljuju uspješnu sezonu. U Puli otvorena obnovljena dvorana Istarskoga narodnog kazališta. U Zagrebu ubijena 68-godišnja žena. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Na zahtjev europskog javnog tužitelja trojica uhićenih, među njima i pomoćnik ministrice kulture. HDZ tvrdi da načelno ima dovoljno ruku za većinu, Domovinski pokret ne isključuje nove izbore. Studentske prosvjede protiv rata u Gazi Izrael ocjenjuje kao antisemitizam. Urednica: Sanja Cota</description>
     <pubDate>Thu, 02 May 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0a/7f/20240502-kronika-dana-35238878-20240502204006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.05. 2024-05-01</title>
-    <link>https://api.hrt.hr/media/4b/a3/20240501-kronika-dana-35234754-20240501204014.mp3</link>
-    <description>Obilježena 29.-ta godišnjica akcije Bljeska, dva Rafala preletjela Hrvatsku - od Vukovara i Čakovca, do Istre i juga zemlje. Međunarodni praznik rada u zemlji obilježen uz grah i zabavni program, u svijetu prosvjedima. Večeras novi potres na slunjskom području, u Rakovici oštećeni zidovi kuća i crkva. Urednica Mira Barić</description>
-    <pubDate>Wed, 01 May 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/a3/20240501-kronika-dana-35234754-20240501204014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
