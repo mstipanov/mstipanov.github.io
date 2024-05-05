@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 May 2024 05:36:20 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 05:45:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Počinje isplata povrata poreza na dohodak. Nastavljaju se pregovori o sastavljanju parlamentarne većine. Borovo se prisjeća pogibije 12 redarstvenika, a Zagreb raketiranja grada tzv. zvončićima. U Kini se urušila autocesta - poginulo 36 ljudi, još 30 ozlijeđeno. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 02 May 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/48/d0/20240502-jutarnja-kronika-35235319-20240502053515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.05. 2024-05-01</title>
-    <link>https://api.hrt.hr/media/39/ec/20240501-jutarnja-kronika-35232714-20240501053513.mp3</link>
-    <description>Potres magnitude 4 cijela 3 prema Richteru pogodio je jutros u 5 sati i 38 minuta područje Slunja. Osjetio se i u Zagrebu. Međunarodni je praznik rada, i ove godine u našoj zemlji bez prosvjednih povorki. U Okučanima će se svečano obilježiti 29. godišnjica vojno-redarstvene akcije Bljesak i oslobađanja zapadne Slavonije. Hrvatski Rafali tim će povodom preletjeti cijelu zemlju. Pregovori o saborskoj većini nastavljaju se sutra. Hoće li izraelski premijer Netanyahu biti optužen za ratni zločin? Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 01 May 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/39/ec/20240501-jutarnja-kronika-35232714-20240501053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
