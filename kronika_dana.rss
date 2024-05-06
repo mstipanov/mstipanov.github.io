@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 May 2024 20:48:08 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 20:52:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.05. 2024-05-06</title>
+    <link>https://api.hrt.hr/media/39/e2/20240506-kronika-dana-35250195-20240506204051.mp3</link>
+    <description>HDZ sutra nastavlja razgovore s Domovinskim pokretom i manjinama - Plenković kaže - imamo više od 76 ruku. Radnici Varteksa u štrajku zbog neisplaćenih plaća. Može li Varteks preživjeti i ovu krizu ? Hamas objavio da pristaje na sporazuz o primirju. Izrael razmatra sve prijedloge, ali nastavlja vojnu akciju u Gazi. Urednica: Sanja Rabuzin</description>
+    <pubDate>Mon, 06 May 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/39/e2/20240506-kronika-dana-35250195-20240506204051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.05. 2024-05-05</title>
     <link>https://api.hrt.hr/media/3c/81/20240505-kronika-dana-35246849-20240505204048.mp3</link>
     <description>Idući tjedan očekuje se konačan dogovor HDZ-a i DP-a o koaliciji, no još nema odgovora što to znači za zastupnike manjina, posebice SDSS. U Kairu je propala još jedna runda pregovora između Izraela i Hamasa. Nakon pobjede 2:1 protiv Rijeke - Dinamo je na korak do novog naslova prvaka. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Dogovor o parlamentarnoj većini vrlo blizu, Marko Milić potvrdio - više bi se trebalo znati u utorak. Na Trgu svetog Marka prosvjedovalo oko tisuću vatrogasaca iz cijele Hrvatske. Predsjednik Republike i premijer dogovorili se o privremenom produljenju mandata ravnatelju SOA-e Danijelu Markiću. Sve veći strah od kopnene ofenzive na Rafah, humanitarne organizacije upozoravaju da bi to mogao biti pokolj civila.Urednica: Mira Barić</description>
     <pubDate>Fri, 03 May 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6c/f1/20240503-kronika-dana-35242547-20240503204003.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.05. 2024-05-02</title>
-    <link>https://api.hrt.hr/media/0a/7f/20240502-kronika-dana-35238878-20240502204006.mp3</link>
-    <description>Na zahtjev europskog javnog tužitelja trojica uhićenih, među njima i pomoćnik ministrice kulture. HDZ tvrdi da načelno ima dovoljno ruku za većinu, Domovinski pokret ne isključuje nove izbore. Studentske prosvjede protiv rata u Gazi Izrael ocjenjuje kao antisemitizam. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 02 May 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0a/7f/20240502-kronika-dana-35238878-20240502204006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
