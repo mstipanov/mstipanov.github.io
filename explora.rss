@@ -6,10 +6,18 @@
         <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Apr 2024 17:15:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 16:25:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/43/2f/explora-20220207122908.webp</url><title>Explora</title><link>https://radio.hrt.hr/slusaonica/explora</link></image>
         <item>
+    <title>Explora 07.05.2024. 2024-05-07</title>
+    <link>https://api.hrt.hr/media/c1/82/20240507-explora-8064255-20240507161053.mp3</link>
+    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstve novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
+    <pubDate>Tue, 07 May 2024 15:05:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c1/82/20240507-explora-8064255-20240507161053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Explora 30.04.2024. 2024-04-30</title>
     <link>https://api.hrt.hr/media/4f/3a/20240430-explora-8061872-20240430161010.mp3</link>
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta. U ovoj emisiji - Arhiviranje svih genoma. GMO ljudi. Globalno zatopljenje. Obnovljivi izvori energije. Ne bluetooth slušalice djeci. Infracrveni izvor topline. Digitalni standardi. </description>
@@ -80,14 +88,6 @@
     <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta. U ovoj emisiji - Bio je kamion, a ne meteor. Ne znamo za izvanzemaljce, još. Lociranje meteorita. Europa ima manje kisika. Novi projekti na Mjesecu. Korado pije crni čaj s mlijekom. Nema glupih pitanja. Tehnološka i ostale revolucije. </description>
     <pubDate>Tue, 12 Mar 2024 16:05:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6e/0d/20240312-explora-8045837-20240312173015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Explora 05.03.2024. 2024-03-05</title>
-    <link>https://api.hrt.hr/media/6a/f0/20240305-explora-8043323-20240305170523.mp3</link>
-    <description>Korado Korlević u Explori odgovora na brojna pitanja i zagonetke svijeta oko nas. Zanimljive i kontroverzne teme, znanstvene novosti, povijesne zagonetke i trendovi razvoja tehnologije. Urednik i voditelj Elvis Mileta.</description>
-    <pubDate>Tue, 05 Mar 2024 16:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6a/f0/20240305-explora-8043323-20240305170523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
