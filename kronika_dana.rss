@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 May 2024 20:52:45 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 20:56:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.05. 2024-05-07</title>
+    <link>https://api.hrt.hr/media/a4/99/20240507-kronika-dana-35253470-20240507203553.mp3</link>
+    <description>Pregovori o formiranju saborske većine ulaze u završnicu. Sinoć u Zagrebu ubijena žena. Uhićen 48-godišnji muškarac, policija ispituje motive. Izrael preuzeo nadzor nad palestinskom stranom prijelaza Rafaha na granici prema Egiptu odakle dolazi najviše humanitarne pomoći. Baby Lasagna u borbi za finale Eurosonga. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 07 May 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/99/20240507-kronika-dana-35253470-20240507203553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.05. 2024-05-06</title>
     <link>https://api.hrt.hr/media/39/e2/20240506-kronika-dana-35250195-20240506204051.mp3</link>
     <description>HDZ sutra nastavlja razgovore s Domovinskim pokretom i manjinama - Plenković kaže - imamo više od 76 ruku. Radnici Varteksa u štrajku zbog neisplaćenih plaća. Može li Varteks preživjeti i ovu krizu ? Hamas objavio da pristaje na sporazuz o primirju. Izrael razmatra sve prijedloge, ali nastavlja vojnu akciju u Gazi. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>HDZ i Domovinski pokret blizu dogovora o parlamentarnoj većini. Andrej Plenković siguran - bit će više nego dovoljno ruku. Turistički rezultati u prva četiri mjeseca najavljuju uspješnu sezonu. U Puli otvorena obnovljena dvorana Istarskoga narodnog kazališta. U Zagrebu ubijena 68-godišnja žena. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 04 May 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/43/34/20240504-kronika-dana-35244715-20240504204044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.05. 2024-05-03</title>
-    <link>https://api.hrt.hr/media/6c/f1/20240503-kronika-dana-35242547-20240503204003.mp3</link>
-    <description>Dogovor o parlamentarnoj većini vrlo blizu, Marko Milić potvrdio - više bi se trebalo znati u utorak. Na Trgu svetog Marka prosvjedovalo oko tisuću vatrogasaca iz cijele Hrvatske. Predsjednik Republike i premijer dogovorili se o privremenom produljenju mandata ravnatelju SOA-e Danijelu Markiću. Sve veći strah od kopnene ofenzive na Rafah, humanitarne organizacije upozoravaju da bi to mogao biti pokolj civila.Urednica: Mira Barić</description>
-    <pubDate>Fri, 03 May 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/f1/20240503-kronika-dana-35242547-20240503204003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
