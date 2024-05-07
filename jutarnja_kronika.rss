@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 May 2024 05:50:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 05:54:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.05. 2024-05-07</title>
+    <link>https://api.hrt.hr/media/64/c6/20240507-jutarnja-kronika-35250811-20240507054051.mp3</link>
+    <description>Andrej Plenković poručuje - imam više od 76 ruku za novu Vladu! Prije nastavka razgovora HDZ-a s Domovinskim pokretom, sastanak sa zastupnicima manjina. Hamas objavio da pristaje na sporazum o primirju. Izrael razmatra sve prijedloge, ali nastavlja vojnu akciju u Gazi. Jeftinije gorivo - benzin za 2, a dizel za 4 centa po litri. Split slavi svetoga Dujma, a u Malmeu Baby Lasagna večeras u prvom polufinalu Eurosonga. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 07 May 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/64/c6/20240507-jutarnja-kronika-35250811-20240507054051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.05. 2024-05-06</title>
     <link>https://api.hrt.hr/media/4c/8b/20240506-jutarnja-kronika-35247406-20240506053550.mp3</link>
     <description>U tjednu odluke trebali bismo doznati kako će izgledati nova saborska većina. Jutros, zbog neisplate plaća, počinje štrajk u Varteksu. Od ponoći pojeftinjuje gorivo. Propao još jedan krug mirovnih pregovora Izraela i Hamasa. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>HDZ i Domovinski pokret blizu dogovora o parlamentarnoj većini! Više bi se trebalo znati u utorak. U Kairu se nastavljaju pregovori o prekidu vatre u Gazi - očekuje se Hamasov odgovor na izraelski mirovni prijedlog. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 04 May 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/51/39/20240504-jutarnja-kronika-35243072-20240504053019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.05. 2024-05-03</title>
-    <link>https://api.hrt.hr/media/79/db/20240503-jutarnja-kronika-35239436-20240503053502.mp3</link>
-    <description>Vatrogasci iz cijele Hrvatske prosvjeduju na Markovu trgu. Na zahtjev europskog javnog tužitelja - trojica uhićenih, među njima i pomoćnik ministrice kulture. Svjetski je dan slobode medija. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 03 May 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/db/20240503-jutarnja-kronika-35239436-20240503053502.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
