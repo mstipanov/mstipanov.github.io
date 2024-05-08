@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 May 2024 05:54:09 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 05:57:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.05. 2024-05-08</title>
+    <link>https://api.hrt.hr/media/5c/a2/20240508-jutarnja-kronika-35254062-20240508053554.mp3</link>
+    <description>Baby Lasagna u finalu je Eurosonga - rasplesao je i raspjevao cijelu dvoranu i dobio ovacije. Nastavljaju se pregovori HDZ-a i Domovinskog pokreta. DP-ovci zainteresirani za četiri resora u vladi - demografiju, sigurnost, poljoprivredu i obrazovanje. Kineski predsjednik Xi Jinping, nakon Francuske, stigao u posjet Srbiji. Urednica: Marija Gerbec - Njavro</description>
+    <pubDate>Wed, 08 May 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/a2/20240508-jutarnja-kronika-35254062-20240508053554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.05. 2024-05-07</title>
     <link>https://api.hrt.hr/media/64/c6/20240507-jutarnja-kronika-35250811-20240507054051.mp3</link>
     <description>Andrej Plenković poručuje - imam više od 76 ruku za novu Vladu! Prije nastavka razgovora HDZ-a s Domovinskim pokretom, sastanak sa zastupnicima manjina. Hamas objavio da pristaje na sporazum o primirju. Izrael razmatra sve prijedloge, ali nastavlja vojnu akciju u Gazi. Jeftinije gorivo - benzin za 2, a dizel za 4 centa po litri. Split slavi svetoga Dujma, a u Malmeu Baby Lasagna večeras u prvom polufinalu Eurosonga. Urednica: Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>HDZ i Domovinski pokret blizu dogovora o parlamentarnoj većini. Andrej Plenković siguran - bit će više nego dovoljno ruku. Pravoslavni vjernici danas slave Uskrs. Nastavljaju se pregovori o prekidu vatre u Gazi. Urednica: Ana-Bella Leikauff</description>
     <pubDate>Sun, 05 May 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/14/f2/20240505-jutarnja-kronika-35245352-20240505061522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.05. 2024-05-04</title>
-    <link>https://api.hrt.hr/media/51/39/20240504-jutarnja-kronika-35243072-20240504053019.mp3</link>
-    <description>HDZ i Domovinski pokret blizu dogovora o parlamentarnoj većini! Više bi se trebalo znati u utorak. U Kairu se nastavljaju pregovori o prekidu vatre u Gazi - očekuje se Hamasov odgovor na izraelski mirovni prijedlog. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 04 May 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/51/39/20240504-jutarnja-kronika-35243072-20240504053019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
