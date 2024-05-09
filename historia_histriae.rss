@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 May 2024 16:28:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 16:03:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Anita Buhin 2024-05-09</title>
+    <link>https://api.hrt.hr/media/57/a2/20240509-historia-histriae-8064724-20240509152503.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 09 May 2024 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/a2/20240509-historia-histriae-8064724-20240509152503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Egidio Bulešić 2024-05-02</title>
     <link>https://api.hrt.hr/media/09/c2/20240502-historia-histriae-8062447-20240502161505.mp3</link>
     <description>Znate li tko je bio Egidio Bulešić? Nadamo se - prvi pulski svetac! O njemu nam priča vlč. Marijan Jelenić </description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi povjesničar Marko Jelenić, a pričamo o serijama velikih gladi u Istri tijekom povijesti. </description>
     <pubDate>Thu, 07 Mar 2024 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b9/39/20240307-historia-histriae-8044116-20240307161550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Slaven Bertosa za 29.2. 2024-02-29</title>
-    <link>https://api.hrt.hr/media/19/c3/20240229-historia-histriae-8041314-20240229170601.mp3</link>
-    <description>Najavljujemo memorijal Petra Stankovića uz dr. Slavena Bertošu. </description>
-    <pubDate>Thu, 29 Feb 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/19/c3/20240229-historia-histriae-8041314-20240229170601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
