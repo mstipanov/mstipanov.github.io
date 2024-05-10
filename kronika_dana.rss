@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 May 2024 21:04:47 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 21:09:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://apihrt.akamaized.net/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.05. 2024-05-10</title>
+    <link>https://api.hrt.hr/media/62/a2/20240510-kronika-dana-35264149-20240510204006.mp3</link>
+    <description>Andrej Plenković predsjedniku Milanoviću predao 78 potpisa potpore i dobio mandat za sastav svoje treće vlade. Opća skupština UN-a poduprla kandidaturu Palestine za članstvo u Ujedinjenim narodima. Hrvatska suzdržana. Radnici Varteksa i dalje štrajkaju - prosvjedovali u središtu Varaždina. Uoči finala, Hrvatska u euforiji Eurosonga - Baby Lasagna veliki favorit. Urednica Sanja Rabuzin</description>
+    <pubDate>Fri, 10 May 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/62/a2/20240510-kronika-dana-35264149-20240510204006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.05. 2024-05-09</title>
     <link>https://api.hrt.hr/media/86/6d/20240509-kronika-dana-35260455-20240509205004.mp3</link>
     <description>Predsjednik HDZ-a Andrej Plenković sutra će od predsjednika države Zorana Milanovića zatražiti mandat za sastav nove vlade. Predsjednik Milanović sazvao prvo zasjedanje Sabora za sljedeći četvrtak. Država napravila propust pri dokapitalizaciji Petrokemije i nema više kontrolni paket u toj tvrtki.
@@ -33,14 +41,6 @@ Sinoćnji nastup Baby Lasagne na HRT-u pratilo više od milijun ljudi.Urednica: 
     <description>Pregovori o formiranju saborske većine ulaze u završnicu. Sinoć u Zagrebu ubijena žena. Uhićen 48-godišnji muškarac, policija ispituje motive. Izrael preuzeo nadzor nad palestinskom stranom prijelaza Rafaha na granici prema Egiptu odakle dolazi najviše humanitarne pomoći. Baby Lasagna u borbi za finale Eurosonga. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 07 May 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a4/99/20240507-kronika-dana-35253470-20240507203553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.05. 2024-05-06</title>
-    <link>https://api.hrt.hr/media/39/e2/20240506-kronika-dana-35250195-20240506204051.mp3</link>
-    <description>HDZ sutra nastavlja razgovore s Domovinskim pokretom i manjinama - Plenković kaže - imamo više od 76 ruku. Radnici Varteksa u štrajku zbog neisplaćenih plaća. Može li Varteks preživjeti i ovu krizu ? Hamas objavio da pristaje na sporazuz o primirju. Izrael razmatra sve prijedloge, ali nastavlja vojnu akciju u Gazi. Urednica: Sanja Rabuzin</description>
-    <pubDate>Mon, 06 May 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/39/e2/20240506-kronika-dana-35250195-20240506204051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
