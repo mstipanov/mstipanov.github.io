@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Jun 2024 11:39:37 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 05:42:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.06. 2024-06-09</title>
+    <link>https://api.hrt.hr/media/eb/67/20240609-jutarnja-kronika-35353338-20240609053530.mp3</link>
+    <description>Hrvatska bira svojih 12 eurozastupnika - za svako mjesto natječe se 25 kandidata. Izbori se održavaju u još 20 članica Europske unije. Izraelska vojska oslobodila četvero talaca iz pojasa Gaze, Hamas ih drži još više od stotinu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 09 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/eb/67/20240609-jutarnja-kronika-35353338-20240609053530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.06. 2024-06-08</title>
     <link>https://api.hrt.hr/media/31/8c/20240608-jutarnja-kronika-35351190-20240608053101.mp3</link>
     <description>U ponoć počela izborna šutnja uoči sutrašnjih izbora za zastupnike Europskog parlamenta. Većini ustavnih sudaca završio mandat, novi nisu izabrani. Francuska Ukrajini šalje vojne zrakoplove Mirage 2000, Amerika šesti paket vojne pomoći. SPORT: posljednja provjera Hrvatske nogometne reprezentacije prije Eura - večeras u Lisabonu igra protiv Portugala, prijenos je na našem Drugom programu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Izraelci izveli napad na školu UN-a u kojoj je, kako tvrde, bila baza Hamasa. Sudar vlakova u Češkoj - četvero mrtvih, deseci ozlijeđenih. Europska središnja banka odlučuje o smanjenju kamatnih stopa. Počinju europski izbori - najprije glasuju Nizozemci. Premijer Plenković na gradilištu zagrebačke katedrale. Popet će se i na vrh zvonika. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 06 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9a/55/20240606-jutarnja-kronika-35344231-20240606053546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.06. 2024-06-05</title>
-    <link>https://api.hrt.hr/media/b4/6b/20240605-jutarnja-kronika-35340879-20240605053524.mp3</link>
-    <description>Saniraju se posljedice jakog nevremena koje je prije dva dana pogodilo dijelove Hrvatske. Čeka se Hamasov odgovor na izraelski prijedlog o primirju. Svjetski je dan zaštite okoliša - ove godine u fokusu je kvaliteta tla. Urednica je Marija Gerbec Njavro</description>
-    <pubDate>Wed, 05 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b4/6b/20240605-jutarnja-kronika-35340879-20240605053524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
