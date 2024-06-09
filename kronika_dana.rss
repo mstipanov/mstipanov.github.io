@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Jun 2024 21:11:05 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 20:46:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Sanja Cota</description>
     <description>Nizozemci su već danas glasovali na europskim izborima, u Zagrebu HDZ i SDP održali završne skupove. Čelnici mnogih država okupili se u Normandiji na osamdesetu godišnjicu iskrcavanja savezničkih postrojbi. Europska središnja banka snizila ključne kamatne stope. Urednica: Sanja Cota</description>
     <pubDate>Thu, 06 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fa/67/20240606-kronika-dana-35347303-20240606203547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.06. 2024-06-05</title>
-    <link>https://api.hrt.hr/media/20/5d/20240605-kronika-dana-35343643-20240605204026.mp3</link>
-    <description>Nevrijeme učinilo goleme štete na poljoprivrednim kulturama, stručnjaci ne odobravaju protugradnu obranu raketama. U Sisačko-moslavačkoj županiji sedmorica muškaraca držala arsenal oružja. Nema objašnjenja o kojim se kaznenim prijavama Slavko Linić informirao na sastanku kod Ivana Turudića. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 05 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/20/5d/20240605-kronika-dana-35343643-20240605204026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
