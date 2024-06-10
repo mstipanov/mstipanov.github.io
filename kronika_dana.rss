@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Jun 2024 21:16:06 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 21:11:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.06. 2024-06-10</title>
+    <link>https://api.hrt.hr/media/9e/8a/20240610-kronika-dana-35358692-20240610204534.mp3</link>
+    <description>Na izborima za Europski parlament HDZ osvojio 6, SDP 4, a Možemo i Domovinski pokret po jedan mandat. Predsjednik SDP-a Peđa Grbin više se neće kandidirati za čelnika stranke. U prometnoj nesreći kod Popovače poginulo sedmogodišnje dijete. U samo 10 dana ovoga mjeseca na hrvatskim cestama poginulo 17 osoba. More je očišćeno, no još se ne zna uzrok ni tko je krivac za zagađenje u Kampu Stupice u Premanturi. Urednica: Mira Barić</description>
+    <pubDate>Mon, 10 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9e/8a/20240610-kronika-dana-35358692-20240610204534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.06. 2024-06-09</title>
     <link>https://api.hrt.hr/media/03/bd/20240609-kronika-dana-35355106-20240609205531.mp3</link>
     <description>Hrvatska glasovala na izborima za Europski parlament. Prvi službeni rezultati bit će objavljeni u 23 sata, prema izlaznim anketama šest mjesta osvaja HDZ, četiri SDP, po jedno Domovinski pokret i Možemo! Izbore je obilježila slaba izlaznost, po čemu je Hrvatska među najlošijim zemljama Europske unije. Francuski predsjednik Emmanuel Macron, nakon što je njegova stranka doživjela težak poraz na europskim izborima, iznenada je raspustio parlament i raspisao izvanredne izbore. Umro je glumac Duško Valentić. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednica: Sanja Cota</description>
     <description>Većini ustavnih sudaca završio mandat. Novi nisu izabrani. U ponoć počinje izborna šutnja, uoči nedjeljnih europskih izbora. Ruski predsjednik Vladimir Putin tvrdi da mu za pobjedu u Ukrajini nije potrebno nuklearno oružje. Poziva da se o tome prestane govoriti. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 07 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/2c/20240607-kronika-dana-35350670-20240607204054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.06. 2024-06-06</title>
-    <link>https://api.hrt.hr/media/fa/67/20240606-kronika-dana-35347303-20240606203547.mp3</link>
-    <description>Nizozemci su već danas glasovali na europskim izborima, u Zagrebu HDZ i SDP održali završne skupove. Čelnici mnogih država okupili se u Normandiji na osamdesetu godišnjicu iskrcavanja savezničkih postrojbi. Europska središnja banka snizila ključne kamatne stope. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 06 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fa/67/20240606-kronika-dana-35347303-20240606203547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
