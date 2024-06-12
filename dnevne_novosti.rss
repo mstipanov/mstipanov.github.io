@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Jun 2024 13:47:05 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 13:54:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.06. 2024-06-12</title>
+    <link>https://api.hrt.hr/media/ba/4f/20240612-dnevne-novosti-35364674-20240612133556.mp3</link>
+    <description>Predsjednik stranke Ivan Penava: "Stjepo Bartulica prešao je Rubikon i cijelom se Domovinskom pokretu okreće želudac." Sabor odradio prvo Aktualno prijepodne u novom sazivu. Izrael i Hamas počinili su ratne zločine, Izrael i protiv čovječnosti, zaključila je istraga Ujedinjenih naroda. Dodijeljene nagrade Luka Ritz za promicanje tolerancije među mladima. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 12 Jun 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ba/4f/20240612-dnevne-novosti-35364674-20240612133556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.06. 2024-06-11</title>
     <link>https://api.hrt.hr/media/d3/50/20240611-dnevne-novosti-35361464-20240611133542.mp3</link>
     <description>Muškarac koji se polio benzinom i zapalio na Markovu trgu u Zagrebu - kritično. U Berlinu se održava Konferencija o obnovi Ukrajine. Na Iblerovu trgu sjednica Predsjedništva SDP-a, stranka se priprema za unutarstranačke izbore. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Slabo zanimanje za europske izbore; do 11 i 30 glasovalo samo oko 7 i pol posto birača. Ukrajinske snage prvi put pogodile ruski borbeni zrakoplov zadnje generacije u zračnoj bazi u Rusiji. U 75. godini umro glumac Duško Valentić. Urednica: Sanja Cota</description>
     <pubDate>Sun, 09 Jun 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/d5/20240609-dnevne-novosti-35354211-20240609133531.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.06. 2024-06-08</title>
-    <link>https://api.hrt.hr/media/8f/3b/20240608-dnevne-novosti-35352050-20240608133513.mp3</link>
-    <description>Uoči europskih izbora napadnuta danska premijerka. DIP dosad primio malo poziva vezanih za kršenje izborne šutnje. Izraelska vojska oslobodila četvero talaca iz Pojasa Gaze. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 08 Jun 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8f/3b/20240608-dnevne-novosti-35352050-20240608133513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
