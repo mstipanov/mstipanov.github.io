@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Jun 2024 05:57:33 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 06:02:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.06. 2024-06-14</title>
+    <link>https://api.hrt.hr/media/7e/b8/20240614-jutarnja-kronika-35369707-20240614053601.mp3</link>
+    <description>U Njemačkoj počinje Europsko nogometno prvenstvo, Hrvatska prvu utakmicu igra sutra protiv Španjolske. Saborski Odbor za Ustav, poslovnik i politički sustav donio odluku o javnom pozivu za izbor 10 ustavnih sudaca. Skupina G7 odobrit će zajam od 50 milijardi dolara Ukrajini, jamstvo će biti kamate od zamrznute ruske imovine. Osječko Hrvatsko narodno kazalište 117. sezonu zaokružuje večerašnjom premijerom opere "Prodana nevjesta". Urednik: Silvio Šop</description>
+    <pubDate>Fri, 14 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7e/b8/20240614-jutarnja-kronika-35369707-20240614053601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.06. 2024-06-13</title>
     <link>https://api.hrt.hr/media/3a/de/20240613-jutarnja-kronika-35366088-20240613053558.mp3</link>
     <description>Nakon što je proteklog dana bio glavna politička tema, sinoć se oglasio i Stjepo Bartulica, no nije želio reći hoće li se ispričati zbog "slučaja Ferrari". Ministar zdravstva Vili Beroš pokrenuo unutarnji nadzor u zagrebačkom KBC-u Sestre milosrdnice, cilj je utvrditi nedostaje li toj bolnici stručnog kadra, na što je pismom upozorilo 17-ero liječnika. Američki državni tajnik Antony Blinken izjavio da Hamas traži izmjene plana o prekidu vatre u Gazi, Hamas to opovrgnuo. U ljetnom kinu Bačvice večeras počinje Festival mediteranskog filma Split. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Unutarstranački izbori u HDZ- u bit će za nešto više od mjesec dana. Andrej Plenković najavio novu kandidaturu. Peđa Grbin neće se kandidirati za šefa SDP-a. U prvih deset dana lipnja na cestama poginulo 17-ero ljudi. Vrhunac vodostaja Dunava spušta se prema Vukovaru. U Splitu su se okupili načelnici glavnih stožera zemalja Srednje Europe.</description>
     <pubDate>Tue, 11 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/4c/20240611-jutarnja-kronika-35359292-20240611053541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.06. 2024-06-10</title>
-    <link>https://api.hrt.hr/media/dd/2d/20240610-jutarnja-kronika-35355755-20240610053533.mp3</link>
-    <description>Na europskim izborima HDZ osvojio 6, SDP 4, a Možemo i Domovinski pokret po jedan mandat. Izbore obilježio slab odziv. Koalicija Europske pučke stranke zadržava većinu u Europskom parlamentu, no raspored snaga ipak različit zbog rasta desnih stranaka. Francuski predsjednik Emmanuel Macron, nakon poraza na europskim izborima raspustio parlament i raspisao izvanredne izbore. Vrhunac vodenog vala Dunava kod Batine. Ne bi trebao ugroziti naselja. Urednica: Snježana Kralj</description>
-    <pubDate>Mon, 10 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dd/2d/20240610-jutarnja-kronika-35355755-20240610053533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
