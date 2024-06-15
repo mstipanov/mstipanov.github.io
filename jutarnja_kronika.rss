@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Jun 2024 06:02:05 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 06:08:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.06. 2024-06-15</title>
+    <link>https://api.hrt.hr/media/38/78/20240615-jutarnja-kronika-35373175-20240615053503.mp3</link>
+    <description>Počelo Europsko nogometno prvenstvo - Hrvatska u 18 sati igra protiv Španjolske. Uz 100 tisuća vatrenih navijača u Berlinu, za utakmicu su spremni i navijači u Hrvatskoj. U Švicarskoj počinje dvodnevna konferencija o miru u Ukrajini. Završio sastanak G7 - odlukom da kamatama od ruske zamrznute imovine financiraju Ukrajinske kredite - razljutili Putina. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 15 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/38/78/20240615-jutarnja-kronika-35373175-20240615053503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.06. 2024-06-14</title>
     <link>https://api.hrt.hr/media/7e/b8/20240614-jutarnja-kronika-35369707-20240614053601.mp3</link>
     <description>U Njemačkoj počinje Europsko nogometno prvenstvo, Hrvatska prvu utakmicu igra sutra protiv Španjolske. Saborski Odbor za Ustav, poslovnik i politički sustav donio odluku o javnom pozivu za izbor 10 ustavnih sudaca. Skupina G7 odobrit će zajam od 50 milijardi dolara Ukrajini, jamstvo će biti kamate od zamrznute ruske imovine. Osječko Hrvatsko narodno kazalište 117. sezonu zaokružuje večerašnjom premijerom opere "Prodana nevjesta". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Muškarac koji se jutros zapalio na Markovu trgu i dalje kritično. Milorad Pupovac ipak na čelu saborskog Odbora za ljudska prava i prava nacionalnih manjina. Ako bude predložen, bit će i izglasan, kaže premijer Plenković. U Berlinu se održava konferencija o obnovi Ukrajine. Sin američkog predsjednika Hunter Biden /Hanter Bajden/ proglašen krivim jer je lagao o uporabi droga. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 12 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c6/2e/20240612-jutarnja-kronika-35362858-20240612053555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.06. 2024-06-11</title>
-    <link>https://api.hrt.hr/media/c9/4c/20240611-jutarnja-kronika-35359292-20240611053541.mp3</link>
-    <description>Unutarstranački izbori u HDZ- u bit će za nešto više od mjesec dana. Andrej Plenković najavio novu kandidaturu. Peđa Grbin neće se kandidirati za šefa SDP-a. U prvih deset dana lipnja na cestama poginulo 17-ero ljudi. Vrhunac vodostaja Dunava spušta se prema Vukovaru. U Splitu su se okupili načelnici glavnih stožera zemalja Srednje Europe.</description>
-    <pubDate>Tue, 11 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/4c/20240611-jutarnja-kronika-35359292-20240611053541.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
