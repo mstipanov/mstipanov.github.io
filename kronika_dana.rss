@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Jun 2024 21:05:53 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 21:11:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.06. 2024-06-15</title>
+    <link>https://api.hrt.hr/media/c5/ef/20240615-kronika-dana-35374791-20240615203506.mp3</link>
+    <description>Vatreni porazom od Španjolaca od 3:0 počeli europsko nogometno prvenstvo u Berlinu. Prekid rata u Ukrajini - glavna tema sastanka svjetskih čelnika u Švicarskoj. Diljem Francuske masovni prosvjedi protiv krajnje desnice uoči skorašnjih parlamentarnih izbora. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 15 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/ef/20240615-kronika-dana-35374791-20240615203506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.06. 2024-06-14</title>
     <link>https://api.hrt.hr/media/ee/78/20240614-kronika-dana-35372569-20240614204005.mp3</link>
     <description>Utakmicom Njemačke i Škotske otvoreno Europsko nogometno prvenstvo. Hrvatska reprezentacija doputovala u Berlin. Vladimir Putin postavio dva uvjeta za prekid rata i mirovne pregovore, Kijev ih odbacio. Princeza Kate Middleton najavila prvo pojavljivanje u javnosti nakon dijagnoze raka. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>Prvo Aktualno prijepodne novog saziva Sabora - predsjednik Domovinskog pokreta od Bartulice traži javno očitovanje i ispriku zbog vožnje u Ferrariju. U samo pet mjeseci gotovo 5 tisuća migranata stradalo u moru pokušavajući se domoći Kanarskih otoka. Novi trener Hajduka Gennaro Gattuso, legenda Milana i talijanske nogometne reprezentacije. Urednica: Mira Barić</description>
     <pubDate>Wed, 12 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/a8/20240612-kronika-dana-35365559-20240612204102.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.06. 2024-06-11</title>
-    <link>https://api.hrt.hr/media/43/31/20240611-kronika-dana-35362322-20240611203554.mp3</link>
-    <description>Umro je muškarac koji se jutros zapalio na Markovu trgu.
-Milorad Pupovac ipak na čelu saborskog Odbora za ljudska prava i prava nacionalnih manjina. Ako bude predložen, bit će i izglasan, kaže premijer Plenković. U Berlinu se održava konferencija o obnovi Ukrajine. Sin američkog predsjednika Hunter Biden /Hanter Bajden/ proglašen krivim jer je lagao o uporabi droga. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 11 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/43/31/20240611-kronika-dana-35362322-20240611203554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
