@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 16 Jun 2024 21:19:44 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 20:54:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.06. 2024-06-17</title>
+    <link>https://api.hrt.hr/media/08/de/20240617-kronika-dana-35379727-20240617204033.mp3</link>
+    <description>U Briselu neformalni sastanak čelnika država i vlada zemalja Europske unije. Tema je raspodjela vodećih dužnosti u europskim institucijama nakon izbora. Predsjednik Sabora Gordan Jandroković na utakmicu Hrvatska-Španjolska u Berlinu službenim zrakoplovom poveo i sina, Povjerenstvo za odlučivanje o sukobu interesa otvorilo predmet. Split je domaćin vodećim svjetskim znanstvenicima s područja biomedicine, među kojima je i četvero dobitnika Nobelove nagrade, okupljenima na konferenciji o forenzičkoj i antropološkoj genetici. Borbe u Rafahu i na jugu pojasa Gaze nastavljene su unatoč objavi izraelske vojske o taktičkim stankama radi ulaska humanitarne pomoći. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 17 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/de/20240617-kronika-dana-35379727-20240617204033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.06. 2024-06-16</title>
     <link>https://api.hrt.hr/media/f1/63/20240616-kronika-dana-35376869-20240616204024.mp3</link>
     <description>Nakon poraza od Španjolske izbornik Zlatko Dalić ispričao se navijačima. U Švicarskoj je završena dvodnevna mirovna konferencija o Ukrajini. Dana potpora njezinoj teritorijalnoj cjelovitosti. U sjeni rata u pojasu Gaze, muslimani diljem svijeta slave Kurban-bajram. Za vrijeme hodočašća u Meku umrlo 14 jordanskih državljana. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Utakmicom Njemačke i Škotske otvoreno Europsko nogometno prvenstvo. Hrvatska reprezentacija doputovala u Berlin. Vladimir Putin postavio dva uvjeta za prekid rata i mirovne pregovore, Kijev ih odbacio. Princeza Kate Middleton najavila prvo pojavljivanje u javnosti nakon dijagnoze raka. Urednica: Mira Barić</description>
     <pubDate>Fri, 14 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ee/78/20240614-kronika-dana-35372569-20240614204005.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.06. 2024-06-13</title>
-    <link>https://api.hrt.hr/media/74/70/20240613-kronika-dana-35368898-20240613204106.mp3</link>
-    <description>Pod istragom Ureda europskoga javnog tužitelja - Mesna industrija Vajda, sumnja se na subvencijske prijevare. Skupina G7 odobrit će zajam od 50 milijardi dolara Ukrajini, a jamstvo su kamate od zamrznute ruske imovine. Amerika i Ukrajina potpisale dugoročni sporazum o sigurnosti. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 13 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/74/70/20240613-kronika-dana-35368898-20240613204106.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
