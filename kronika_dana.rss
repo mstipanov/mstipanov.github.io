@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 17 Jun 2024 20:54:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 20:59:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.06. 2024-06-18</title>
+    <link>https://api.hrt.hr/media/89/70/20240618-kronika-dana-35382924-20240618204039.mp3</link>
+    <description>U mjesec i pol u KBC-u Zagreb šestero pacijenata zarazilo se legionelom, troje je umrlo. Ministar Beroš najavio da će sutra posjetiti bolnicu.	Ruski predsjednik Vladimir Putin stigao u dvodnevni posjet Sjevernoj Koreji.Hrvatska nogometna reprezentacija doputovala u Hamburg, gdje sutra igra protiv Albanije.Urednica: Mira Barić</description>
+    <pubDate>Tue, 18 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/89/70/20240618-kronika-dana-35382924-20240618204039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.06. 2024-06-17</title>
     <link>https://api.hrt.hr/media/08/de/20240617-kronika-dana-35379727-20240617204033.mp3</link>
     <description>U Briselu neformalni sastanak čelnika država i vlada zemalja Europske unije. Tema je raspodjela vodećih dužnosti u europskim institucijama nakon izbora. Predsjednik Sabora Gordan Jandroković na utakmicu Hrvatska-Španjolska u Berlinu službenim zrakoplovom poveo i sina, Povjerenstvo za odlučivanje o sukobu interesa otvorilo predmet. Split je domaćin vodećim svjetskim znanstvenicima s područja biomedicine, među kojima je i četvero dobitnika Nobelove nagrade, okupljenima na konferenciji o forenzičkoj i antropološkoj genetici. Borbe u Rafahu i na jugu pojasa Gaze nastavljene su unatoč objavi izraelske vojske o taktičkim stankama radi ulaska humanitarne pomoći. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vatreni porazom od Španjolaca od 3:0 počeli europsko nogometno prvenstvo u Berlinu. Prekid rata u Ukrajini - glavna tema sastanka svjetskih čelnika u Švicarskoj. Diljem Francuske masovni prosvjedi protiv krajnje desnice uoči skorašnjih parlamentarnih izbora. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 15 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c5/ef/20240615-kronika-dana-35374791-20240615203506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.06. 2024-06-14</title>
-    <link>https://api.hrt.hr/media/ee/78/20240614-kronika-dana-35372569-20240614204005.mp3</link>
-    <description>Utakmicom Njemačke i Škotske otvoreno Europsko nogometno prvenstvo. Hrvatska reprezentacija doputovala u Berlin. Vladimir Putin postavio dva uvjeta za prekid rata i mirovne pregovore, Kijev ih odbacio. Princeza Kate Middleton najavila prvo pojavljivanje u javnosti nakon dijagnoze raka. Urednica: Mira Barić</description>
-    <pubDate>Fri, 14 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ee/78/20240614-kronika-dana-35372569-20240614204005.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
