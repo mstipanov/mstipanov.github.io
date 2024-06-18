@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 17 Jun 2024 05:51:10 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 05:55:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.06. 2024-06-18</title>
+    <link>https://api.hrt.hr/media/59/16/20240618-jutarnja-kronika-35380304-20240618054034.mp3</link>
+    <description>Još nema dogovora o raspodjeli vodećih dužnosti u europskim institucijama. Predsjednik Sabora Gordan Jandroković na utakmicu Hrvatske i Španjolske u Berlinu službenim zrakoplovom poveo i sina, Povjerenstvo za odlučivanje o sukobu interesa otvorilo predmet. Ruski predsjednik Putin u posjetu Sjevernoj Koreji. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 18 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/59/16/20240618-jutarnja-kronika-35380304-20240618054034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.06. 2024-06-17</title>
     <link>https://api.hrt.hr/media/43/1c/20240617-jutarnja-kronika-35377431-20240617053528.mp3</link>
     <description>Danas počinje teći rok od 30 dana za predaju kandidatura za suce Ustavnoga suda. U Briselu počinju konzultacije o raspodjeli dužnosti nakon europskih izbora. Split je danas središte svjetske znanosti, na kongresu o genetici sudjeluju čak četiri nobelovca. Naši nogometni reprezentativci pripremaju se za utakmicu s Albanijom u srijedu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Počelo Europsko nogometno prvenstvo - Hrvatska u 18 sati igra protiv Španjolske. Uz 100 tisuća vatrenih navijača u Berlinu, za utakmicu su spremni i navijači u Hrvatskoj. U Švicarskoj počinje dvodnevna konferencija o miru u Ukrajini. Završio sastanak G7 - odlukom da kamatama od ruske zamrznute imovine financiraju Ukrajinske kredite - razljutili Putina. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 15 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/78/20240615-jutarnja-kronika-35373175-20240615053503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.06. 2024-06-14</title>
-    <link>https://api.hrt.hr/media/7e/b8/20240614-jutarnja-kronika-35369707-20240614053601.mp3</link>
-    <description>U Njemačkoj počinje Europsko nogometno prvenstvo, Hrvatska prvu utakmicu igra sutra protiv Španjolske. Saborski Odbor za Ustav, poslovnik i politički sustav donio odluku o javnom pozivu za izbor 10 ustavnih sudaca. Skupina G7 odobrit će zajam od 50 milijardi dolara Ukrajini, jamstvo će biti kamate od zamrznute ruske imovine. Osječko Hrvatsko narodno kazalište 117. sezonu zaokružuje večerašnjom premijerom opere "Prodana nevjesta". Urednik: Silvio Šop</description>
-    <pubDate>Fri, 14 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7e/b8/20240614-jutarnja-kronika-35369707-20240614053601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
