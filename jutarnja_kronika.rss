@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Jun 2024 05:55:57 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:01:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.06. 2024-06-19</title>
+    <link>https://api.hrt.hr/media/9f/9b/20240619-jutarnja-kronika-35383518-20240619053534.mp3</link>
+    <description>Hrvatska nogometna reprezentacija u Hamburgu igra drugi susret na Europskom prvenstvu, protivnik je Albanija. U mjesec i pol u KBC-u Zagreb šestero pacijenata zarazilo se legionelom, troje je umrlo. Ministar zdravstva Vili Beroš danas će posjetiti bolnicu. Ruski predsjednik Vladimir Putin stigao u dvodnevni posjet Sjevernoj Koreji. Večeras dodjela državne nagrade za umjetnost "Vladimir Nazor". Urednik: Silvio Šop</description>
+    <pubDate>Wed, 19 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9f/9b/20240619-jutarnja-kronika-35383518-20240619053534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.06. 2024-06-18</title>
     <link>https://api.hrt.hr/media/59/16/20240618-jutarnja-kronika-35380304-20240618054034.mp3</link>
     <description>Još nema dogovora o raspodjeli vodećih dužnosti u europskim institucijama. Predsjednik Sabora Gordan Jandroković na utakmicu Hrvatske i Španjolske u Berlinu službenim zrakoplovom poveo i sina, Povjerenstvo za odlučivanje o sukobu interesa otvorilo predmet. Ruski predsjednik Putin u posjetu Sjevernoj Koreji. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Tijekom prosvjeda protiv krajnje desnice u Parizu sukob prosvjednika i policije. Više od 10 ljudi, među kojima ima i djece, ranjeno je u pucnjavi u vodenom parku blizu Detroita.Počinje Kurban-bajram najvažniji blagdan za mulimanske vjernike.Urednica Mira Barić</description>
     <pubDate>Sun, 16 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d5/ce/20240616-jutarnja-kronika-35375409-20240616054523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.06. 2024-06-15</title>
-    <link>https://api.hrt.hr/media/38/78/20240615-jutarnja-kronika-35373175-20240615053503.mp3</link>
-    <description>Počelo Europsko nogometno prvenstvo - Hrvatska u 18 sati igra protiv Španjolske. Uz 100 tisuća vatrenih navijača u Berlinu, za utakmicu su spremni i navijači u Hrvatskoj. U Švicarskoj počinje dvodnevna konferencija o miru u Ukrajini. Završio sastanak G7 - odlukom da kamatama od ruske zamrznute imovine financiraju Ukrajinske kredite - razljutili Putina. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 15 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/78/20240615-jutarnja-kronika-35373175-20240615053503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
