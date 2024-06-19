@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Jun 2024 20:59:03 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 21:04:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.06. 2024-06-19</title>
+    <link>https://api.hrt.hr/media/6c/36/20240619-kronika-dana-35386237-20240619204007.mp3</link>
+    <description>Veliki požar u Zaprešiću. Zapalila se plastika u skladištu tvrtke za zbrinjavanje otpada EKO FLOR. Gust oblak dima pokrio dio Medvednice i Zagorja. Stanovnici upozoreni da zatvore prozore. Predsjednik Milanović u intervjuu za HTV: "Moj je život dosadan za državnog odvjetnika, ali nije za publiku."nogometna reprezentacija u drugom susretu na EURU s Albanijom igrala neodlučeno 2:2. Prvi ovogodišnji toplinski val u našoj zemlji, u Kninu 36 stupnjeva. Ministar Beroš ne vidi odgovornost ravnatelja KBC-a Zagreb zbog pojave legionele. Putin i Kim potpisali strateški važan sporazum o uzajamnoj obrani. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 19 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6c/36/20240619-kronika-dana-35386237-20240619204007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.06. 2024-06-18</title>
     <link>https://api.hrt.hr/media/89/70/20240618-kronika-dana-35382924-20240618204039.mp3</link>
     <description>U mjesec i pol u KBC-u Zagreb šestero pacijenata zarazilo se legionelom, troje je umrlo. Ministar Beroš najavio da će sutra posjetiti bolnicu.	Ruski predsjednik Vladimir Putin stigao u dvodnevni posjet Sjevernoj Koreji.Hrvatska nogometna reprezentacija doputovala u Hamburg, gdje sutra igra protiv Albanije.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nakon poraza od Španjolske izbornik Zlatko Dalić ispričao se navijačima. U Švicarskoj je završena dvodnevna mirovna konferencija o Ukrajini. Dana potpora njezinoj teritorijalnoj cjelovitosti. U sjeni rata u pojasu Gaze, muslimani diljem svijeta slave Kurban-bajram. Za vrijeme hodočašća u Meku umrlo 14 jordanskih državljana. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 16 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f1/63/20240616-kronika-dana-35376869-20240616204024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.06. 2024-06-15</title>
-    <link>https://api.hrt.hr/media/c5/ef/20240615-kronika-dana-35374791-20240615203506.mp3</link>
-    <description>Vatreni porazom od Španjolaca od 3:0 počeli europsko nogometno prvenstvo u Berlinu. Prekid rata u Ukrajini - glavna tema sastanka svjetskih čelnika u Švicarskoj. Diljem Francuske masovni prosvjedi protiv krajnje desnice uoči skorašnjih parlamentarnih izbora. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 15 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/ef/20240615-kronika-dana-35374791-20240615203506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
