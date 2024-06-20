@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Jun 2024 06:01:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 05:36:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Danas počinje teći rok od 30 dana za predaju kandidatura za suce Ustavnoga suda. U Briselu počinju konzultacije o raspodjeli dužnosti nakon europskih izbora. Split je danas središte svjetske znanosti, na kongresu o genetici sudjeluju čak četiri nobelovca. Naši nogometni reprezentativci pripremaju se za utakmicu s Albanijom u srijedu. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 17 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/43/1c/20240617-jutarnja-kronika-35377431-20240617053528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.06. 2024-06-16</title>
-    <link>https://api.hrt.hr/media/d5/ce/20240616-jutarnja-kronika-35375409-20240616054523.mp3</link>
-    <description>Tijekom prosvjeda protiv krajnje desnice u Parizu sukob prosvjednika i policije. Više od 10 ljudi, među kojima ima i djece, ranjeno je u pucnjavi u vodenom parku blizu Detroita.Počinje Kurban-bajram najvažniji blagdan za mulimanske vjernike.Urednica Mira Barić</description>
-    <pubDate>Sun, 16 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/ce/20240616-jutarnja-kronika-35375409-20240616054523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
