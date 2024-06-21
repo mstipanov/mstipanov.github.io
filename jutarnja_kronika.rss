@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Jun 2024 06:07:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:43:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.06. 2024-06-21</title>
+    <link>https://api.hrt.hr/media/f8/50/20240621-jutarnja-kronika-35390208-20240621053516.mp3</link>
+    <description>Danas vrhunac toplinskog vala kombiniranog s velikim količinama saharskog pijeska u zraku. U Saboru glasanje o izboru Milorada Pupovca za šefa saborskog Odbora za ljudska prava. Dvodnevnu azijsku turneju ruski predsjednik Vladimir Putin završio je posjetom Vijetnamu. SAD, Japan i Južna Koreja oštro osudili jačanje vojne suradnje Rusije i Sjeverne Koreje. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 21 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f8/50/20240621-jutarnja-kronika-35390208-20240621053516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.06. 2024-06-20</title>
     <link>https://api.hrt.hr/media/6f/82/20240620-jutarnja-kronika-35386824-20240620054013.mp3</link>
     <description>U Zaprešiću ugašen veći dio požara u skladištu tvrtke za zbrinjavanje otpada EKO FLOR. Ispituje se kakvoća zraka. Nakon Sjeverne Koreje, ruski predsjednik Putin stigao u Vijetnam. Hrvatski nogometaši s Albanijom odigrali neodlučeno 2:2. U ponedjeljak dan D protiv Italije. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Još nema dogovora o raspodjeli vodećih dužnosti u europskim institucijama. Predsjednik Sabora Gordan Jandroković na utakmicu Hrvatske i Španjolske u Berlinu službenim zrakoplovom poveo i sina, Povjerenstvo za odlučivanje o sukobu interesa otvorilo predmet. Ruski predsjednik Putin u posjetu Sjevernoj Koreji. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 18 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/16/20240618-jutarnja-kronika-35380304-20240618054034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.06. 2024-06-17</title>
-    <link>https://api.hrt.hr/media/43/1c/20240617-jutarnja-kronika-35377431-20240617053528.mp3</link>
-    <description>Danas počinje teći rok od 30 dana za predaju kandidatura za suce Ustavnoga suda. U Briselu počinju konzultacije o raspodjeli dužnosti nakon europskih izbora. Split je danas središte svjetske znanosti, na kongresu o genetici sudjeluju čak četiri nobelovca. Naši nogometni reprezentativci pripremaju se za utakmicu s Albanijom u srijedu. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 17 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/43/1c/20240617-jutarnja-kronika-35377431-20240617053528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
