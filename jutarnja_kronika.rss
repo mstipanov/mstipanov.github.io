@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Jun 2024 05:43:11 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 05:49:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.06. 2024-06-22</title>
+    <link>https://api.hrt.hr/media/1c/ad/20240622-jutarnja-kronika-35393742-20240622053520.mp3</link>
+    <description>Nezapamćen kolaps u opskrbi električnom energijom. Cijela Dalmacija i dio Slavonije jučer ostali bez struje, kao i dijelovi Bosne i Hercegovine, Albanije i Crne Gore. Dan je antifašističke borbe. Prije 83 godine u šumi Brezovici pokraj Siska osnovan prvi partizanski odred u ovome dijelu Europe. U napadu u Gazi oštećen ured Crvenog križa. Poginulo 22-oje ljudi. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 22 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/ad/20240622-jutarnja-kronika-35393742-20240622053520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.06. 2024-06-21</title>
     <link>https://api.hrt.hr/media/f8/50/20240621-jutarnja-kronika-35390208-20240621053516.mp3</link>
     <description>Danas vrhunac toplinskog vala kombiniranog s velikim količinama saharskog pijeska u zraku. U Saboru glasanje o izboru Milorada Pupovca za šefa saborskog Odbora za ljudska prava. Dvodnevnu azijsku turneju ruski predsjednik Vladimir Putin završio je posjetom Vijetnamu. SAD, Japan i Južna Koreja oštro osudili jačanje vojne suradnje Rusije i Sjeverne Koreje. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska nogometna reprezentacija u Hamburgu igra drugi susret na Europskom prvenstvu, protivnik je Albanija. U mjesec i pol u KBC-u Zagreb šestero pacijenata zarazilo se legionelom, troje je umrlo. Ministar zdravstva Vili Beroš danas će posjetiti bolnicu. Ruski predsjednik Vladimir Putin stigao u dvodnevni posjet Sjevernoj Koreji. Večeras dodjela državne nagrade za umjetnost "Vladimir Nazor". Urednik: Silvio Šop</description>
     <pubDate>Wed, 19 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9f/9b/20240619-jutarnja-kronika-35383518-20240619053534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.06. 2024-06-18</title>
-    <link>https://api.hrt.hr/media/59/16/20240618-jutarnja-kronika-35380304-20240618054034.mp3</link>
-    <description>Još nema dogovora o raspodjeli vodećih dužnosti u europskim institucijama. Predsjednik Sabora Gordan Jandroković na utakmicu Hrvatske i Španjolske u Berlinu službenim zrakoplovom poveo i sina, Povjerenstvo za odlučivanje o sukobu interesa otvorilo predmet. Ruski predsjednik Putin u posjetu Sjevernoj Koreji. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 18 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/16/20240618-jutarnja-kronika-35380304-20240618054034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
