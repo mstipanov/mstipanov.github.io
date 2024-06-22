@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Jun 2024 20:47:26 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 20:54:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.06. 2024-06-22</title>
+    <link>https://api.hrt.hr/media/89/68/20240622-kronika-dana-35395531-20240622204025.mp3</link>
+    <description>Nakon crvenog meteoalarma za Slavoniju, nevrijeme nije izazvalo veće štete. Tuča pogodila sjever susjedne Bosne i Hercegovine. Petero djece na bjelovarskom području stradalo u nekoliko prometnih nesreća. Mađarski MOL pokrenuo novu arbitražu protiv Hrvatske. Razlog - mjere koje je Vlada prije dvije godine nametnula tržištu plina.Hrvatska proslavila Dan antifašističke borbe. Glavna svečanost održana u spomen-parku Brezovici pokraj Siska. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 22 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/89/68/20240622-kronika-dana-35395531-20240622204025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.06. 2024-06-21</title>
     <link>https://api.hrt.hr/media/ff/4e/20240621-kronika-dana-35393149-20240621204020.mp3</link>
     <description>Nakon kolapsa u opskrbi strujom, sustav normaliziran. Bez struje ostala cijela Dalmacija i dio Slavonije, Crna Gora, dijelovi Bosne i Hercegovine te Albanije.Češki državljanin, čije je dijete poginulo kod Obrovca u eksploziji, opasnu napravu uzeo s vojnog poligona.Milorad Pupovac izabran za predsjednika saborskog Odbora za ljudska prava i prava nacionalnih manjina. Najmanje jedanaestero ljudi poginulo u požaru na jugoistoku Turske, s požarima se bori i Grčka.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Veliki požar u Zaprešiću. Zapalila se plastika u skladištu tvrtke za zbrinjavanje otpada EKO FLOR. Gust oblak dima pokrio dio Medvednice i Zagorja. Stanovnici upozoreni da zatvore prozore. Predsjednik Milanović u intervjuu za HTV: "Moj je život dosadan za državnog odvjetnika, ali nije za publiku."nogometna reprezentacija u drugom susretu na EURU s Albanijom igrala neodlučeno 2:2. Prvi ovogodišnji toplinski val u našoj zemlji, u Kninu 36 stupnjeva. Ministar Beroš ne vidi odgovornost ravnatelja KBC-a Zagreb zbog pojave legionele. Putin i Kim potpisali strateški važan sporazum o uzajamnoj obrani. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 19 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6c/36/20240619-kronika-dana-35386237-20240619204007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.06. 2024-06-18</title>
-    <link>https://api.hrt.hr/media/89/70/20240618-kronika-dana-35382924-20240618204039.mp3</link>
-    <description>U mjesec i pol u KBC-u Zagreb šestero pacijenata zarazilo se legionelom, troje je umrlo. Ministar Beroš najavio da će sutra posjetiti bolnicu.	Ruski predsjednik Vladimir Putin stigao u dvodnevni posjet Sjevernoj Koreji.Hrvatska nogometna reprezentacija doputovala u Hamburg, gdje sutra igra protiv Albanije.Urednica: Mira Barić</description>
-    <pubDate>Tue, 18 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/89/70/20240618-kronika-dana-35382924-20240618204039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
