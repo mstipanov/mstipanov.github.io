@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Jun 2024 20:54:26 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 21:00:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.06. 2024-06-23</title>
+    <link>https://api.hrt.hr/media/30/5e/20240623-kronika-dana-35397666-20240623204050.mp3</link>
+    <description>Darko Milinović novi je gradonačelnik Gospića. U drugom krugu pobijedio HDZ-ova kandidata Josu Vrkljana! Lokalizirani požari na Hvaru i kod Dubrovnika. Teroristički napad u ruskoj regiji Dagestanu! Ljeto je počelo vremenskim ekstremima - kakva je dugoročna prognoza? Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 23 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/30/5e/20240623-kronika-dana-35397666-20240623204050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.06. 2024-06-22</title>
     <link>https://api.hrt.hr/media/89/68/20240622-kronika-dana-35395531-20240622204025.mp3</link>
     <description>Nakon crvenog meteoalarma za Slavoniju, nevrijeme nije izazvalo veće štete. Tuča pogodila sjever susjedne Bosne i Hercegovine. Petero djece na bjelovarskom području stradalo u nekoliko prometnih nesreća. Mađarski MOL pokrenuo novu arbitražu protiv Hrvatske. Razlog - mjere koje je Vlada prije dvije godine nametnula tržištu plina.Hrvatska proslavila Dan antifašističke borbe. Glavna svečanost održana u spomen-parku Brezovici pokraj Siska. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>HDZ-ov vukovarsko-srijemski župan Damir Dekanić pod utjecajem alkohola drugi put imao prometnu nesreću, dao je ostavku. Požar plastike u tvrtki Eko-Flor u Zaprešiću trebao bi biti potpuno ugašen do ponoći. U Slavonskom Brodu sin hladnim oružjem ubio roditelje. Ruski predsjednik Putin, nakon Sjeverne Koreje, posjetio i Vijetnam. SAD, Japan i Južna Koreja oštro osudile jačanje vojne suradnje Rusije i Sjeverne Koreje. Urednik: Silvio Šop</description>
     <pubDate>Thu, 20 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4f/65/20240620-kronika-dana-35389539-20240620204015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.06. 2024-06-19</title>
-    <link>https://api.hrt.hr/media/6c/36/20240619-kronika-dana-35386237-20240619204007.mp3</link>
-    <description>Veliki požar u Zaprešiću. Zapalila se plastika u skladištu tvrtke za zbrinjavanje otpada EKO FLOR. Gust oblak dima pokrio dio Medvednice i Zagorja. Stanovnici upozoreni da zatvore prozore. Predsjednik Milanović u intervjuu za HTV: "Moj je život dosadan za državnog odvjetnika, ali nije za publiku."nogometna reprezentacija u drugom susretu na EURU s Albanijom igrala neodlučeno 2:2. Prvi ovogodišnji toplinski val u našoj zemlji, u Kninu 36 stupnjeva. Ministar Beroš ne vidi odgovornost ravnatelja KBC-a Zagreb zbog pojave legionele. Putin i Kim potpisali strateški važan sporazum o uzajamnoj obrani. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 19 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/36/20240619-kronika-dana-35386237-20240619204007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
