@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Jun 2024 21:00:12 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 21:05:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.06. 2024-06-24</title>
+    <link>https://api.hrt.hr/media/de/a9/20240624-kronika-dana-35400385-20240624204057.mp3</link>
+    <description>Petnaestak minuta do kraja utakmice Hrvatska Italija u Leipzigu 1:0 za Vatrene. Na vukovarskom odlagalištu otpada "Petrovačka dola" pronađena nova masovna grobnica s nestalima iz Domovinskog rata.Izraelski premijer Netanyahu najavio da će dio vojnih snaga biti prebačen na granicu s Libanonom, što se tumači kao najava novog sukoba.Urednica Mira Barić</description>
+    <pubDate>Mon, 24 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/a9/20240624-kronika-dana-35400385-20240624204057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.06. 2024-06-23</title>
     <link>https://api.hrt.hr/media/30/5e/20240623-kronika-dana-35397666-20240623204050.mp3</link>
     <description>Darko Milinović novi je gradonačelnik Gospića. U drugom krugu pobijedio HDZ-ova kandidata Josu Vrkljana! Lokalizirani požari na Hvaru i kod Dubrovnika. Teroristički napad u ruskoj regiji Dagestanu! Ljeto je počelo vremenskim ekstremima - kakva je dugoročna prognoza? Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Nakon kolapsa u opskrbi strujom, sustav normaliziran. Bez struje ostala cijela Dalmacija i dio Slavonije, Crna Gora, dijelovi Bosne i Hercegovine te Albanije.Češki državljanin, čije je dijete poginulo kod Obrovca u eksploziji, opasnu napravu uzeo s vojnog poligona.Milorad Pupovac izabran za predsjednika saborskog Odbora za ljudska prava i prava nacionalnih manjina. Najmanje jedanaestero ljudi poginulo u požaru na jugoistoku Turske, s požarima se bori i Grčka.Urednica: Mira Barić</description>
     <pubDate>Fri, 21 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ff/4e/20240621-kronika-dana-35393149-20240621204020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.06. 2024-06-20</title>
-    <link>https://api.hrt.hr/media/4f/65/20240620-kronika-dana-35389539-20240620204015.mp3</link>
-    <description>HDZ-ov vukovarsko-srijemski župan Damir Dekanić pod utjecajem alkohola drugi put imao prometnu nesreću, dao je ostavku. Požar plastike u tvrtki Eko-Flor u Zaprešiću trebao bi biti potpuno ugašen do ponoći. U Slavonskom Brodu sin hladnim oružjem ubio roditelje. Ruski predsjednik Putin, nakon Sjeverne Koreje, posjetio i Vijetnam. SAD, Japan i Južna Koreja oštro osudile jačanje vojne suradnje Rusije i Sjeverne Koreje. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 20 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4f/65/20240620-kronika-dana-35389539-20240620204015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
