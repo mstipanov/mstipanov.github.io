@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Jun 2024 14:03:16 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 14:08:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.06. 2024-06-25</title>
+    <link>https://api.hrt.hr/media/cb/7a/20240625-dnevne-novosti-35402638-20240625133555.mp3</link>
+    <description>Šok i nevjerica nakon sinoćnjeg remija s Italijom - za prolazak Vatrenih u osminu finala Europskog prvenstva moraju se poklopiti čak četiri rezultata! Dan je neovisnosti, spomen na 25. lipnja 1991. kada je Sabor donio odluku o pokretanju postupka razdruživanja od ostalih jugoslavenskih republika. Koordinacija veledrogerija upozorila na povijesno najveći dug bolnica za lijekove - 600 milijuna eura! Najpoznatiji svjetski zviždač Julian Assange neće biti izručen Sjedinjenim Državama. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 25 Jun 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cb/7a/20240625-dnevne-novosti-35402638-20240625133555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.06. 2024-06-24</title>
     <link>https://api.hrt.hr/media/00/9b/20240624-dnevne-novosti-35399648-20240624133551.mp3</link>
     <description>Hrvatska u 21 sat u Leipzigu s Italijom igra odlučujuću utakmicu za ostanak na EURU. Nedaleko od Vukovara pronađena još jedna masovna grobnica iz Domovinskog rata. 19 osoba poginulo u jučerašnjem terorističkom napadu na jugu Rusije. : Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Mađarski MOL pokrenuo novu arbitražu protiv Hrvatske zbog mjera koje je Vlada nametnula tržištu plina prije dvije godine. Hrvatska slavi Dan antifašističke borbe. Glavna svečanost održana u spomen-parku Brezovici pokraj Siska. Najsmrtonosniji dan za Palestince u posljednja tri tjedna - Izrael pojačao napade u pojasu Gaze. Izdan crveni alarm za osječku regiju, očekuje se grmljavinsko nevrijeme koje dolazi nakon toplinskog vala. Urednica: Mira Barić</description>
     <pubDate>Sat, 22 Jun 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9d/dd/20240622-dnevne-novosti-35394756-20240622133520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.06. 2024-06-21</title>
-    <link>https://api.hrt.hr/media/cd/11/20240621-dnevne-novosti-35392274-20240621134021.mp3</link>
-    <description>Zbog raspada elektroenergetske mreže u trima državama, nije bilo struje u Dalmaciji, gotovo cijeloj Crnoj Gori te u dijelu Bosne i Hercegovine. Postupno se vraća. Danas vrhunac toplinskog vala u Hrvatskoj, sutra osvježenje, ali i mogućnost lokalnog nevremena. Uhićen i nakon ispitivanja pušten otac češkog dječaka koji je prekjučer poginuo kod Obrovca. Eksplozivnu napravu uzeli su s vojnog poligona. Ujedinjeni narodi upozorili kako je više od milijun Palestinaca na rubu gladi i žeđi. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 21 Jun 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/11/20240621-dnevne-novosti-35392274-20240621134021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
