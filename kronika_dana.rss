@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 25 Jun 2024 21:09:50 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 20:45:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.06. 2024-06-26</title>
+    <link>https://api.hrt.hr/media/f7/d1/20240626-kronika-dana-35406605-20240626204100.mp3</link>
+    <description>Predsjednik Zoran Milanović najavio kandidaturu za drugi mandat, potporu SDP-a će imati. Mate Rimac predstavio dugoočekivani Robotaksi. Automobil se oglušio na Rimčeve naredbe i nije se dovezao na pozornicu. Vlada namjerava udvostručiti iznos alimentacije za djecu koju plaća država umjesto jednoga od roditelja. Nakon 12-godišnje pravne bitke, zviždač Julian Assange slobodan, vratio se u Australiju. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 26 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/d1/20240626-kronika-dana-35406605-20240626204100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.06. 2024-06-25</title>
     <link>https://api.hrt.hr/media/bf/82/20240625-kronika-dana-35403472-20240625203554.mp3</link>
     <description>Razočaranje u Leipzigu. Šanse za ostanak Vatrenih na Euru samo su teoretske. Izbornik Dalić preuzeo odgovornost. Koordinacija veledrogerija ponovno upozorava na to da se povećao dug bolnica za lijekove. Ministarstvo zdravstva tvrdi da su uplate redovite. Županija nema novca za isplatu povećanih plaća šibenskom Domu zdravlja. Dan je neovisnosti, spomen na 25. lipnja 1991. kada je Sabor donio odluku o pokretanju postupka razdruživanja od ostalih jugoslavenskih republika. Ukrajina i Moldavija službeno otvorile pregovore o pristupanju Europskoj uniji
@@ -32,14 +40,6 @@ Urednik: Grgo Mrvica</description>
     <description>Darko Milinović novi je gradonačelnik Gospića. U drugom krugu pobijedio HDZ-ova kandidata Josu Vrkljana! Lokalizirani požari na Hvaru i kod Dubrovnika. Teroristički napad u ruskoj regiji Dagestanu! Ljeto je počelo vremenskim ekstremima - kakva je dugoročna prognoza? Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 23 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/30/5e/20240623-kronika-dana-35397666-20240623204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.06. 2024-06-22</title>
-    <link>https://api.hrt.hr/media/89/68/20240622-kronika-dana-35395531-20240622204025.mp3</link>
-    <description>Nakon crvenog meteoalarma za Slavoniju, nevrijeme nije izazvalo veće štete. Tuča pogodila sjever susjedne Bosne i Hercegovine. Petero djece na bjelovarskom području stradalo u nekoliko prometnih nesreća. Mađarski MOL pokrenuo novu arbitražu protiv Hrvatske. Razlog - mjere koje je Vlada prije dvije godine nametnula tržištu plina.Hrvatska proslavila Dan antifašističke borbe. Glavna svečanost održana u spomen-parku Brezovici pokraj Siska. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 22 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/89/68/20240622-kronika-dana-35395531-20240622204025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
