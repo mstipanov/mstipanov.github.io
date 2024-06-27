@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Jun 2024 20:45:29 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 20:50:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.06. 2024-06-27</title>
+    <link>https://api.hrt.hr/media/de/c3/20240627-kronika-dana-35409609-20240627204104.mp3</link>
+    <description>Kibernetički napad na KBC Zagreb, sustav bi sutra trebao biti normaliziran. Još se nagađa tko bi, uz Zorana Milanovića, mogao biti kandidat za predsjednika države. Noćas debata Joea Bidena i Donalda Trumpa, dvojice kandidata za američkog predsjednika. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 27 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/c3/20240627-kronika-dana-35409609-20240627204104.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.06. 2024-06-26</title>
     <link>https://api.hrt.hr/media/f7/d1/20240626-kronika-dana-35406605-20240626204100.mp3</link>
     <description>Predsjednik Zoran Milanović najavio kandidaturu za drugi mandat, potporu SDP-a će imati. Mate Rimac predstavio dugoočekivani Robotaksi. Automobil se oglušio na Rimčeve naredbe i nije se dovezao na pozornicu. Vlada namjerava udvostručiti iznos alimentacije za djecu koju plaća država umjesto jednoga od roditelja. Nakon 12-godišnje pravne bitke, zviždač Julian Assange slobodan, vratio se u Australiju. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednik: Grgo Mrvica</description>
     <description>Petnaestak minuta do kraja utakmice Hrvatska Italija u Leipzigu 1:0 za Vatrene. Na vukovarskom odlagalištu otpada "Petrovačka dola" pronađena nova masovna grobnica s nestalima iz Domovinskog rata.Izraelski premijer Netanyahu najavio da će dio vojnih snaga biti prebačen na granicu s Libanonom, što se tumači kao najava novog sukoba.Urednica Mira Barić</description>
     <pubDate>Mon, 24 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/a9/20240624-kronika-dana-35400385-20240624204057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.06. 2024-06-23</title>
-    <link>https://api.hrt.hr/media/30/5e/20240623-kronika-dana-35397666-20240623204050.mp3</link>
-    <description>Darko Milinović novi je gradonačelnik Gospića. U drugom krugu pobijedio HDZ-ova kandidata Josu Vrkljana! Lokalizirani požari na Hvaru i kod Dubrovnika. Teroristički napad u ruskoj regiji Dagestanu! Ljeto je počelo vremenskim ekstremima - kakva je dugoročna prognoza? Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 23 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/30/5e/20240623-kronika-dana-35397666-20240623204050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
