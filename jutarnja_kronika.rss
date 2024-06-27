@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Jun 2024 06:11:31 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 05:47:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.06. 2024-06-27</title>
+    <link>https://api.hrt.hr/media/27/0c/20240627-jutarnja-kronika-35407139-20240627053559.mp3</link>
+    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Thu, 27 Jun 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/0c/20240627-jutarnja-kronika-35407139-20240627053559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.06. 2024-06-26</title>
     <link>https://api.hrt.hr/media/82/e0/20240626-jutarnja-kronika-35404048-20240626053556.mp3</link>
     <description>Hrvatska nogometna reprezentacija i službeno je ispala s Europskog prvenstva.Veledrogerije traže hitnu uplatu 200 milijuna eura kako bi mogle nastaviti isporuku lijekova bolnicama.Američki sud oslobodio Assangea nakon nagodbe o priznanju krivnje.Nastupom The Smashing pumpkinsa završava zagrebački In MUSIC festival. Urednica: Marija Gerbec Njavro.</description>
@@ -32,14 +40,6 @@
 Darko Milinović novi je gradonačelnik Gospića. Dužnost će obnašati idućih 10 mjeseci - do redovitih lokalnih izbora.Potpredsjednik Vlade Tomo Medved u Vukovaru na lokaciji novootkrivene masovne grobnice. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 24 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8e/03/20240624-jutarnja-kronika-35398286-20240624053559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.06. 2024-06-23</title>
-    <link>https://api.hrt.hr/media/85/d5/20240623-jutarnja-kronika-35396066-20240623053546.mp3</link>
-    <description>Nevrijeme na istoku zemlje, no bez veće štete i posljedica. Čekaju li nas prekidi u opskrbi strujom na vrhuncu turističke sezone? Mađarski MOL pokrenuo novu tužbu protiv Hrvatske. Sinoć otvoren 64. Međunarodni dječji festival u Šibeniku. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 23 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/d5/20240623-jutarnja-kronika-35396066-20240623053546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
