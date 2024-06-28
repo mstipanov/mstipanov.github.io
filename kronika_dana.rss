@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 27 Jun 2024 20:50:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 20:54:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.06. 2024-06-28</title>
+    <link>https://api.hrt.hr/media/2d/c6/20240628-kronika-dana-35412172-20240628204045.mp3</link>
+    <description>Crnogorski parlament prihvatio Rezoluciju o genocidu u logorima Jasenovcu, Dachauu i Mauthausenu. Reagiralo ministarstvo vanjskih poslova. Nakon prvog sučeljavanja Biden - Trump, prednost na strani Donalda Trumpa, no Joe Biden ipak ostaje u utrci za drugi mandat. SOA istražuje hakerski napad na KBC Zagreb. Ruski hakeri tvrde da su napali hrvatske financijske institucije, ali ne i KBC. Sudac koji je upropastio Vatrene više neće suditi na europskom prvenstvu. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 28 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2d/c6/20240628-kronika-dana-35412172-20240628204045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.06. 2024-06-27</title>
     <link>https://api.hrt.hr/media/de/c3/20240627-kronika-dana-35409609-20240627204104.mp3</link>
     <description>Kibernetički napad na KBC Zagreb, sustav bi sutra trebao biti normaliziran. Još se nagađa tko bi, uz Zorana Milanovića, mogao biti kandidat za predsjednika države. Noćas debata Joea Bidena i Donalda Trumpa, dvojice kandidata za američkog predsjednika. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 25 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bf/82/20240625-kronika-dana-35403472-20240625203554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.06. 2024-06-24</title>
-    <link>https://api.hrt.hr/media/de/a9/20240624-kronika-dana-35400385-20240624204057.mp3</link>
-    <description>Petnaestak minuta do kraja utakmice Hrvatska Italija u Leipzigu 1:0 za Vatrene. Na vukovarskom odlagalištu otpada "Petrovačka dola" pronađena nova masovna grobnica s nestalima iz Domovinskog rata.Izraelski premijer Netanyahu najavio da će dio vojnih snaga biti prebačen na granicu s Libanonom, što se tumači kao najava novog sukoba.Urednica Mira Barić</description>
-    <pubDate>Mon, 24 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/a9/20240624-kronika-dana-35400385-20240624204057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
