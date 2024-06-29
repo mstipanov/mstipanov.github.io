@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Jun 2024 20:54:59 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 20:58:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.06. 2024-06-29</title>
+    <link>https://api.hrt.hr/media/7b/82/20240629-kronika-dana-35414130-20240629203546.mp3</link>
+    <description>Crnogorski parlament jučer donio rezoluciju o Jasenovcu, hrvatski dužnosnici, ali i crnogorska oporba, to oštro kritizirali. Završen Dubrovnik forum. Ukrajinski šef diplomacije poručio: "Bez pravednog mira bit će novog rata!" Glavni odbor SDP-a podupro Zorana Milanovića za drugi predsjednički mandat. Nakon dosad najkraće kampanje Francuzi sutra izlaze na birališta. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 29 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7b/82/20240629-kronika-dana-35414130-20240629203546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.06. 2024-06-28</title>
     <link>https://api.hrt.hr/media/2d/c6/20240628-kronika-dana-35412172-20240628204045.mp3</link>
     <description>Crnogorski parlament prihvatio Rezoluciju o genocidu u logorima Jasenovcu, Dachauu i Mauthausenu. Reagiralo ministarstvo vanjskih poslova. Nakon prvog sučeljavanja Biden - Trump, prednost na strani Donalda Trumpa, no Joe Biden ipak ostaje u utrci za drugi mandat. SOA istražuje hakerski napad na KBC Zagreb. Ruski hakeri tvrde da su napali hrvatske financijske institucije, ali ne i KBC. Sudac koji je upropastio Vatrene više neće suditi na europskom prvenstvu. Urednik: Grgo Mrvica</description>
@@ -31,15 +39,6 @@
     <description>Predsjednik Zoran Milanović najavio kandidaturu za drugi mandat, potporu SDP-a će imati. Mate Rimac predstavio dugoočekivani Robotaksi. Automobil se oglušio na Rimčeve naredbe i nije se dovezao na pozornicu. Vlada namjerava udvostručiti iznos alimentacije za djecu koju plaća država umjesto jednoga od roditelja. Nakon 12-godišnje pravne bitke, zviždač Julian Assange slobodan, vratio se u Australiju. Urednik: Silvio Šop</description>
     <pubDate>Wed, 26 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f7/d1/20240626-kronika-dana-35406605-20240626204100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.06. 2024-06-25</title>
-    <link>https://api.hrt.hr/media/bf/82/20240625-kronika-dana-35403472-20240625203554.mp3</link>
-    <description>Razočaranje u Leipzigu. Šanse za ostanak Vatrenih na Euru samo su teoretske. Izbornik Dalić preuzeo odgovornost. Koordinacija veledrogerija ponovno upozorava na to da se povećao dug bolnica za lijekove. Ministarstvo zdravstva tvrdi da su uplate redovite. Županija nema novca za isplatu povećanih plaća šibenskom Domu zdravlja. Dan je neovisnosti, spomen na 25. lipnja 1991. kada je Sabor donio odluku o pokretanju postupka razdruživanja od ostalih jugoslavenskih republika. Ukrajina i Moldavija službeno otvorile pregovore o pristupanju Europskoj uniji
-Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 25 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/82/20240625-kronika-dana-35403472-20240625203554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
