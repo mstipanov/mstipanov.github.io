@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Jun 2024 20:58:57 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 20:46:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.06. 2024-06-30</title>
+    <link>https://api.hrt.hr/media/79/b2/20240630-kronika-dana-35416149-20240630204054.mp3</link>
+    <description>Krajnja desnica uvjerljivo vodi nakon prvog kruga parlamentarnih izbora u Francuskoj. Od sutra skuplje cestarine, od preksutra i gorivo. Zbog vrućine, zagrebačka Hitna pomoć prošle noći imala 80 intervencija, dan prije više od 100! Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 30 Jun 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/79/b2/20240630-kronika-dana-35416149-20240630204054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.06. 2024-06-29</title>
     <link>https://api.hrt.hr/media/7b/82/20240629-kronika-dana-35414130-20240629203546.mp3</link>
     <description>Crnogorski parlament jučer donio rezoluciju o Jasenovcu, hrvatski dužnosnici, ali i crnogorska oporba, to oštro kritizirali. Završen Dubrovnik forum. Ukrajinski šef diplomacije poručio: "Bez pravednog mira bit će novog rata!" Glavni odbor SDP-a podupro Zorana Milanovića za drugi predsjednički mandat. Nakon dosad najkraće kampanje Francuzi sutra izlaze na birališta. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Kibernetički napad na KBC Zagreb, sustav bi sutra trebao biti normaliziran. Još se nagađa tko bi, uz Zorana Milanovića, mogao biti kandidat za predsjednika države. Noćas debata Joea Bidena i Donalda Trumpa, dvojice kandidata za američkog predsjednika. Urednica: Sanja Cota</description>
     <pubDate>Thu, 27 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/c3/20240627-kronika-dana-35409609-20240627204104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.06. 2024-06-26</title>
-    <link>https://api.hrt.hr/media/f7/d1/20240626-kronika-dana-35406605-20240626204100.mp3</link>
-    <description>Predsjednik Zoran Milanović najavio kandidaturu za drugi mandat, potporu SDP-a će imati. Mate Rimac predstavio dugoočekivani Robotaksi. Automobil se oglušio na Rimčeve naredbe i nije se dovezao na pozornicu. Vlada namjerava udvostručiti iznos alimentacije za djecu koju plaća država umjesto jednoga od roditelja. Nakon 12-godišnje pravne bitke, zviždač Julian Assange slobodan, vratio se u Australiju. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 26 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f7/d1/20240626-kronika-dana-35406605-20240626204100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
