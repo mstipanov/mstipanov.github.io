@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Jun 2024 20:46:29 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 20:54:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.07. 2024-07-01</title>
+    <link>https://api.hrt.hr/media/94/c1/20240701-kronika-dana-35419388-20240701204056.mp3</link>
+    <description>Nakon središnjeg dijela nevrijeme s jakom kišom, tučom i vjetrom zahvatilo istok Hrvatske. Sinoptičari upozoravaju na nevrijeme i tijekom noći.Nema službene potvrde da je hakerska skupina LockBit 3.0 prošli četvrtak izvela napad na KBC Zagreb te da traži otkupninu.Iz Europe reakcije na pobjedu krajnje desnice u prvom krugu parlamentarnih izbora u Francuskoj. Urednica: Mira Barić</description>
+    <pubDate>Mon, 01 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/c1/20240701-kronika-dana-35419388-20240701204056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.06. 2024-06-30</title>
     <link>https://api.hrt.hr/media/79/b2/20240630-kronika-dana-35416149-20240630204054.mp3</link>
     <description>Krajnja desnica uvjerljivo vodi nakon prvog kruga parlamentarnih izbora u Francuskoj. Od sutra skuplje cestarine, od preksutra i gorivo. Zbog vrućine, zagrebačka Hitna pomoć prošle noći imala 80 intervencija, dan prije više od 100! Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Crnogorski parlament prihvatio Rezoluciju o genocidu u logorima Jasenovcu, Dachauu i Mauthausenu. Reagiralo ministarstvo vanjskih poslova. Nakon prvog sučeljavanja Biden - Trump, prednost na strani Donalda Trumpa, no Joe Biden ipak ostaje u utrci za drugi mandat. SOA istražuje hakerski napad na KBC Zagreb. Ruski hakeri tvrde da su napali hrvatske financijske institucije, ali ne i KBC. Sudac koji je upropastio Vatrene više neće suditi na europskom prvenstvu. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 28 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2d/c6/20240628-kronika-dana-35412172-20240628204045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.06. 2024-06-27</title>
-    <link>https://api.hrt.hr/media/de/c3/20240627-kronika-dana-35409609-20240627204104.mp3</link>
-    <description>Kibernetički napad na KBC Zagreb, sustav bi sutra trebao biti normaliziran. Još se nagađa tko bi, uz Zorana Milanovića, mogao biti kandidat za predsjednika države. Noćas debata Joea Bidena i Donalda Trumpa, dvojice kandidata za američkog predsjednika. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 27 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/c3/20240627-kronika-dana-35409609-20240627204104.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
