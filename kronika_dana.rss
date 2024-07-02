@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 Jul 2024 20:54:41 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 20:58:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.07. 2024-07-02</title>
+    <link>https://api.hrt.hr/media/13/28/20240702-kronika-dana-35422808-20240702204059.mp3</link>
+    <description>Velike štete od jučerašnjeg nevremena na istoku zemlje. Novo vještačenje u slučaju Agrokor stajat će 650 tisuća eura, prethodno koje je propalo stajalo je milijun i tristo tisuća eura. Mađarski premijer Viktor Orban u Kijevu. Predlaže "prekid vatre" kako bi se pokrenuli pregovori s Rusijom. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 02 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/28/20240702-kronika-dana-35422808-20240702204059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.07. 2024-07-01</title>
     <link>https://api.hrt.hr/media/94/c1/20240701-kronika-dana-35419388-20240701204056.mp3</link>
     <description>Nakon središnjeg dijela nevrijeme s jakom kišom, tučom i vjetrom zahvatilo istok Hrvatske. Sinoptičari upozoravaju na nevrijeme i tijekom noći.Nema službene potvrde da je hakerska skupina LockBit 3.0 prošli četvrtak izvela napad na KBC Zagreb te da traži otkupninu.Iz Europe reakcije na pobjedu krajnje desnice u prvom krugu parlamentarnih izbora u Francuskoj. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Crnogorski parlament jučer donio rezoluciju o Jasenovcu, hrvatski dužnosnici, ali i crnogorska oporba, to oštro kritizirali. Završen Dubrovnik forum. Ukrajinski šef diplomacije poručio: "Bez pravednog mira bit će novog rata!" Glavni odbor SDP-a podupro Zorana Milanovića za drugi predsjednički mandat. Nakon dosad najkraće kampanje Francuzi sutra izlaze na birališta. Urednik: Silvio Šop</description>
     <pubDate>Sat, 29 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/82/20240629-kronika-dana-35414130-20240629203546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.06. 2024-06-28</title>
-    <link>https://api.hrt.hr/media/2d/c6/20240628-kronika-dana-35412172-20240628204045.mp3</link>
-    <description>Crnogorski parlament prihvatio Rezoluciju o genocidu u logorima Jasenovcu, Dachauu i Mauthausenu. Reagiralo ministarstvo vanjskih poslova. Nakon prvog sučeljavanja Biden - Trump, prednost na strani Donalda Trumpa, no Joe Biden ipak ostaje u utrci za drugi mandat. SOA istražuje hakerski napad na KBC Zagreb. Ruski hakeri tvrde da su napali hrvatske financijske institucije, ali ne i KBC. Sudac koji je upropastio Vatrene više neće suditi na europskom prvenstvu. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 28 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2d/c6/20240628-kronika-dana-35412172-20240628204045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
