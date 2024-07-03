@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Jul 2024 20:58:40 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 21:02:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.07. 2024-07-03</title>
+    <link>https://api.hrt.hr/media/4c/70/20240703-kronika-dana-35425925-20240703204102.mp3</link>
+    <description>Bošnjaci i Županja proglasili prirodnu nepogodu. Najmanje sedmero ljudi poginulo je u uraganu Beryl, sada prolazi pokraj Jamajke. Bijela kuća opovrgava da se Joe Biden povlači iz predsjedničke utrke. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 03 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4c/70/20240703-kronika-dana-35425925-20240703204102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.07. 2024-07-02</title>
     <link>https://api.hrt.hr/media/13/28/20240702-kronika-dana-35422808-20240702204059.mp3</link>
     <description>Velike štete od jučerašnjeg nevremena na istoku zemlje. Novo vještačenje u slučaju Agrokor stajat će 650 tisuća eura, prethodno koje je propalo stajalo je milijun i tristo tisuća eura. Mađarski premijer Viktor Orban u Kijevu. Predlaže "prekid vatre" kako bi se pokrenuli pregovori s Rusijom. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Krajnja desnica uvjerljivo vodi nakon prvog kruga parlamentarnih izbora u Francuskoj. Od sutra skuplje cestarine, od preksutra i gorivo. Zbog vrućine, zagrebačka Hitna pomoć prošle noći imala 80 intervencija, dan prije više od 100! Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 30 Jun 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/79/b2/20240630-kronika-dana-35416149-20240630204054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.06. 2024-06-29</title>
-    <link>https://api.hrt.hr/media/7b/82/20240629-kronika-dana-35414130-20240629203546.mp3</link>
-    <description>Crnogorski parlament jučer donio rezoluciju o Jasenovcu, hrvatski dužnosnici, ali i crnogorska oporba, to oštro kritizirali. Završen Dubrovnik forum. Ukrajinski šef diplomacije poručio: "Bez pravednog mira bit će novog rata!" Glavni odbor SDP-a podupro Zorana Milanovića za drugi predsjednički mandat. Nakon dosad najkraće kampanje Francuzi sutra izlaze na birališta. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 29 Jun 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7b/82/20240629-kronika-dana-35414130-20240629203546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
