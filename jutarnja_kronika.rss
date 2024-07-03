@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Jul 2024 05:56:10 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 05:59:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.07. 2024-07-03</title>
+    <link>https://api.hrt.hr/media/8f/63/20240703-jutarnja-kronika-35423354-20240703053102.mp3</link>
+    <description>Prema prvim procjenama, šteta od katastrofalnog nevremena koje je pogodilo Bošnjake, samo na kućanstvima je pet milijuna eura! Ruski hakeri preuzeli odgovornost za kibernetički napad na KBC Zagreb, zahtijevaju otkupninu u zamjenu za ukradene podatke, ministar Beroš im poručio - Vlada s kriminalcima ne razgovara! Mađarski premijer Viktor Orban, čija je zemlja preuzela rotirajuće predsjedanje Vijećem Europske unije, nenajavljeno posjetio Kijev. Večeras u pulskoj Areni svjetske superzvijezde Simple Minds. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 03 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8f/63/20240703-jutarnja-kronika-35423354-20240703053102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.07. 2024-07-02</title>
     <link>https://api.hrt.hr/media/0f/c2/20240702-jutarnja-kronika-35419982-20240702054057.mp3</link>
     <description>Olujno nevrijeme poharalo kontinentalni dio Hrvatske. Najveće štete od tuče u Županjskoj Posavini. U Saboru rasprava o alimentacijskom fondu. Objavljeno kako hakerska skupina LockBit, koja je prošli četvrtak izvela napad na KBC Zagreb, traži otkupninu za velik broj ukradenih podataka o pacijentima. Službene potvrde o tome nema. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Danas parlamentarni izbori u Francuskoj. Prema anketama vodi desnica s protumigrantskom retorikom. Oštre kritike rezolucije crnogorskog parlamenta o Jasenovcu. Idući se tjedan očekuje dogovor Banskih dvora i Pantovčaka o novom mandatu Daniela Markića na čelu SOA-e.Tijekom vikenda tri požara na brodovima u Dalmaciji. Najveća havarija u Makarskoj luci gdje je izgorjela jahta vrijedna tri milijuna eura. Na području Imotskog uhićen osumnjičeni splitski silovatelj.: Mislav Togonal</description>
     <pubDate>Sun, 30 Jun 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/70/20240630-jutarnja-kronika-35414749-20240630061552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.06. 2024-06-29</title>
-    <link>https://api.hrt.hr/media/ea/d8/20240629-jutarnja-kronika-35412711-20240629053047.mp3</link>
-    <description>Crnogorski parlament prihvatio Rezoluciju o Jasenovcu. Hrvatsko ministarstvo vanjskih poslova poručilo kako će se to odraziti na europski put Crne Gore. Danas Glavni odbor SDP-a na kojem se, uz raspisivanje unutarstranačkih izbora, očekuje i formalna potpora novoj Milanovićevoj kandidaturi. Od ponedjeljka 10 % skuplje cestarine. Nizozemski sudac koji je upropastio Vatrene, poslan kući s Europskog prvenstva. Urednik: Mislav Togonal</description>
-    <pubDate>Sat, 29 Jun 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ea/d8/20240629-jutarnja-kronika-35412711-20240629053047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
