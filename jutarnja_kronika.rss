@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 Jul 2024 05:34:22 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 06:04:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.07. 2024-07-04</title>
+    <link>https://api.hrt.hr/media/7f/76/20240704-jutarnja-kronika-35426487-20240704053601.mp3</link>
+    <description>U Bošnjake, gdje je jučer proglašena prirodna nepogoda, danas stižu i kontejneri za stanovanje. Najmanje sedmero ljudi poginulo je u uraganu Beryl, koji sada prolazi pokraj Jamajke. Britanci izlaze na parlamentarne izbore. Ankete daju prednost laburistima. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 04 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7f/76/20240704-jutarnja-kronika-35426487-20240704053601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.07. 2024-07-03</title>
     <link>https://api.hrt.hr/media/8f/63/20240703-jutarnja-kronika-35423354-20240703053102.mp3</link>
     <description>Prema prvim procjenama, šteta od katastrofalnog nevremena koje je pogodilo Bošnjake, samo na kućanstvima je pet milijuna eura! Ruski hakeri preuzeli odgovornost za kibernetički napad na KBC Zagreb, zahtijevaju otkupninu u zamjenu za ukradene podatke, ministar Beroš im poručio - Vlada s kriminalcima ne razgovara! Mađarski premijer Viktor Orban, čija je zemlja preuzela rotirajuće predsjedanje Vijećem Europske unije, nenajavljeno posjetio Kijev. Večeras u pulskoj Areni svjetske superzvijezde Simple Minds. Urednik: Silvio Šop</description>
