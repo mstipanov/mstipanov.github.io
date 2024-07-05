@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 Jul 2024 21:07:33 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 21:11:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.07. 2024-07-05</title>
+    <link>https://api.hrt.hr/media/fe/09/20240705-kronika-dana-35432131-20240705204009.mp3</link>
+    <description>Premijer Plenković u Bošnjacima poručio da će država maksimalno brzo pomoći u sanaciji šteta. Laburisti se vratili u Downing street 10. Nakon uvjerljive pobjede novi britanski premijer Keir Starmer sastavio vladu. Europski čelnici oštro kritizirali posjet Viktora Orbana Moskvi. Španjolci prvi polufinalisti Europskoga nogometnog prvenstva. Urednica: Mira Barić</description>
+    <pubDate>Fri, 05 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fe/09/20240705-kronika-dana-35432131-20240705204009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.07. 2024-07-04</title>
     <link>https://api.hrt.hr/media/45/0b/20240704-kronika-dana-35429090-20240704204056.mp3</link>
     <description>Prvi rezultati izbora u Velikoj Britaniji poslije ponoći, pobjednik bi se trebao znati ujutro.	Danima se saniraju posljedice nevremena koje je pogodilo Bošnjake. Šteta dosad popisana na pedeset posto kućanstava. Stručnjaci SOA-e uspjeli vratiti sve datoteke ukradene u hakerskom napadu na KBC Zagreb. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Velike štete od jučerašnjeg nevremena na istoku zemlje. Novo vještačenje u slučaju Agrokor stajat će 650 tisuća eura, prethodno koje je propalo stajalo je milijun i tristo tisuća eura. Mađarski premijer Viktor Orban u Kijevu. Predlaže "prekid vatre" kako bi se pokrenuli pregovori s Rusijom. Urednica: Sanja Cota</description>
     <pubDate>Tue, 02 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/13/28/20240702-kronika-dana-35422808-20240702204059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.07. 2024-07-01</title>
-    <link>https://api.hrt.hr/media/94/c1/20240701-kronika-dana-35419388-20240701204056.mp3</link>
-    <description>Nakon središnjeg dijela nevrijeme s jakom kišom, tučom i vjetrom zahvatilo istok Hrvatske. Sinoptičari upozoravaju na nevrijeme i tijekom noći.Nema službene potvrde da je hakerska skupina LockBit 3.0 prošli četvrtak izvela napad na KBC Zagreb te da traži otkupninu.Iz Europe reakcije na pobjedu krajnje desnice u prvom krugu parlamentarnih izbora u Francuskoj. Urednica: Mira Barić</description>
-    <pubDate>Mon, 01 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/c1/20240701-kronika-dana-35419388-20240701204056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
