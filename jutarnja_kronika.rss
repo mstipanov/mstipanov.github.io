@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 Jul 2024 06:04:27 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 05:38:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.07. 2024-07-05</title>
+    <link>https://api.hrt.hr/media/f2/7c/20240705-jutarnja-kronika-35429629-20240705053508.mp3</link>
+    <description>Na prvim izborima u Velikoj Britaniji nakon Brexita Konzervativci potpuno potučeni! U Bošnjacima je šteta od nevremena popisana na 50 posto kućanstava. Selo će posjetiti premijer Andrej Plenković. Pomoć Bošnjacima bit će jedna od tema sjednice Savjeta za Slavoniju, Baranju i Srijem. Večeras otvorenje 58. Đakovačkih vezova. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 05 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f2/7c/20240705-jutarnja-kronika-35429629-20240705053508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.07. 2024-07-04</title>
     <link>https://api.hrt.hr/media/7f/76/20240704-jutarnja-kronika-35426487-20240704053601.mp3</link>
     <description>U Bošnjake, gdje je jučer proglašena prirodna nepogoda, danas stižu i kontejneri za stanovanje. Najmanje sedmero ljudi poginulo je u uraganu Beryl, koji sada prolazi pokraj Jamajke. Britanci izlaze na parlamentarne izbore. Ankete daju prednost laburistima. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Olujno nevrijeme poharalo kontinentalni dio Hrvatske. Najveće štete od tuče u Županjskoj Posavini. U Saboru rasprava o alimentacijskom fondu. Objavljeno kako hakerska skupina LockBit, koja je prošli četvrtak izvela napad na KBC Zagreb, traži otkupninu za velik broj ukradenih podataka o pacijentima. Službene potvrde o tome nema. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 02 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/c2/20240702-jutarnja-kronika-35419982-20240702054057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.07. 2024-07-01</title>
-    <link>https://api.hrt.hr/media/90/80/20240701-jutarnja-kronika-35416777-20240701053552.mp3</link>
-    <description>Građani počinju upisivati državne obveznice, minimalni ulog 500 eura. Veliki izazovi pred Europom - Mađarska preuzima predsjedanje, a u Francuskoj pobjeda krajnje desnice u prvom krugu parlamentarnih izbora. Prije 11 godina Hrvatska ušla u Europsku uniju. Poskupjela cestarina, a od sutra će i gorivo. Meteorolozi upozoravaju na promjenu vremena. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 01 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/90/80/20240701-jutarnja-kronika-35416777-20240701053552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
