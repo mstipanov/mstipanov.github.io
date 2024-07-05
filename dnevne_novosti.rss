@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 04 Jul 2024 14:06:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 14:10:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.07. 2024-07-05</title>
+    <link>https://api.hrt.hr/media/0b/61/20240705-dnevne-novosti-35431172-20240705133508.mp3</link>
+    <description>Laburist Keir Starmer novi je britanski premijer nakon povijesnog poraza konzervativaca. Viktor Orban stigao u posjet Moskvi. Iz Brisela poručili da on ne predstavlja vanjsku politiku Unije. Premijer Plenković najavio novu Vladinu pomoć Bošnjacima i drugim mjestima stradalim u snažnom nevremenu početkom tjedna. Na terenu pomaže i vojska. Na Europskom nogometnom prvenstvu igraju se prve dvije četvrtfinalne utakmice - između Španjolske i Njemačke te Francuske i Portugala. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 05 Jul 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0b/61/20240705-dnevne-novosti-35431172-20240705133508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.07. 2024-07-04</title>
     <link>https://api.hrt.hr/media/15/ac/20240704-dnevne-novosti-35428053-20240704133602.mp3</link>
     <description>Popravljaju se krovovi kuća u Bošnjacima uništeni u nevremenu. Vraćene datoteke KBC-a Zagreb ukradene u hakerskom napadu. Tko će pobijediti na izborima u Velikoj Britaniji? Laburisti u velikoj prednosti pred konzervativcima. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Istok Hrvatske poharalo jako nevrijeme, najviše štete u Bošnjacima i Županji. I službeno potvrđeno da su ruski hakeri izveli kibernetički napad na KBC Zagreb te da traže otkupninu u zamjenu za ukradene podatke o pacijentima. Mađarski premijer Viktor Orban, inače bliski saveznik ruskog predsjednika, iznenada doputovao u Kijev. Urednica: Mira Barić</description>
     <pubDate>Tue, 02 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/39/8c/20240702-dnevne-novosti-35421748-20240702133556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.07. 2024-07-01</title>
-    <link>https://api.hrt.hr/media/d7/e5/20240701-dnevne-novosti-35418410-20240701133553.mp3</link>
-    <description>Nakon velikog uspjeha Marine Le Pen na francuskim izborima, stranke centra i ljevice do idućeg kruga nastoje postići dogovor i spriječiti formiranje krajnje desne vlade. Od danas za deset posto skuplje cestarine. Počeo je upis narodnih obveznica. Iz Fine poručuju da je zasad zanimanje dobro. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 01 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d7/e5/20240701-dnevne-novosti-35418410-20240701133553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
