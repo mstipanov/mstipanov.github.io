@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 05 Jul 2024 05:38:51 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 06:13:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.07. 2024-07-06</title>
+    <link>https://api.hrt.hr/media/e1/98/20240706-jutarnja-kronika-35432728-20240706053510.mp3</link>
+    <description>Do sutra bi svako domaćinstvo u tučom poharanim Bošnjacima trebalo imati struju. Nakon uvjerljive pobjede Laburista novi britanski premijer Keir Starmer sastavio vladu. Europski čelnici oštro kritizirali posjet Viktora Orbana Moskvi. Sinoć otvoreni 58. Đakovački vezovi. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 06 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/98/20240706-jutarnja-kronika-35432728-20240706053510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.07. 2024-07-05</title>
     <link>https://api.hrt.hr/media/f2/7c/20240705-jutarnja-kronika-35429629-20240705053508.mp3</link>
     <description>Na prvim izborima u Velikoj Britaniji nakon Brexita Konzervativci potpuno potučeni! U Bošnjacima je šteta od nevremena popisana na 50 posto kućanstava. Selo će posjetiti premijer Andrej Plenković. Pomoć Bošnjacima bit će jedna od tema sjednice Savjeta za Slavoniju, Baranju i Srijem. Večeras otvorenje 58. Đakovačkih vezova. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Prema prvim procjenama, šteta od katastrofalnog nevremena koje je pogodilo Bošnjake, samo na kućanstvima je pet milijuna eura! Ruski hakeri preuzeli odgovornost za kibernetički napad na KBC Zagreb, zahtijevaju otkupninu u zamjenu za ukradene podatke, ministar Beroš im poručio - Vlada s kriminalcima ne razgovara! Mađarski premijer Viktor Orban, čija je zemlja preuzela rotirajuće predsjedanje Vijećem Europske unije, nenajavljeno posjetio Kijev. Večeras u pulskoj Areni svjetske superzvijezde Simple Minds. Urednik: Silvio Šop</description>
     <pubDate>Wed, 03 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/63/20240703-jutarnja-kronika-35423354-20240703053102.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.07. 2024-07-02</title>
-    <link>https://api.hrt.hr/media/0f/c2/20240702-jutarnja-kronika-35419982-20240702054057.mp3</link>
-    <description>Olujno nevrijeme poharalo kontinentalni dio Hrvatske. Najveće štete od tuče u Županjskoj Posavini. U Saboru rasprava o alimentacijskom fondu. Objavljeno kako hakerska skupina LockBit, koja je prošli četvrtak izvela napad na KBC Zagreb, traži otkupninu za velik broj ukradenih podataka o pacijentima. Službene potvrde o tome nema. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 02 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0f/c2/20240702-jutarnja-kronika-35419982-20240702054057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
