@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 07 Jul 2024 20:51:21 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 20:55:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.07. 2024-07-08</title>
+    <link>https://api.hrt.hr/media/81/72/20240708-kronika-dana-35439841-20240708203033.mp3</link>
+    <description>Iznenađenje u Francuskoj - nakon što je u prvom krugu parlamentarnih izbora pobijedila krajnja desnica, u drugom krugu trijumfirala je krajnja ljevica! No nitko nije osvojio natpolovičnu većinu. U ruskim napadima na Ukrajinu poginulo najmanje 36 ljudi, a više od 120 ranjeno. U Kijevu pogođena i dječja bolnica. Nekadašnji varaždinski tekstilni div Varteks odlazi u stečaj. Završen upis državnih obveznica na trogodišnji rok, nije bilo velikog zanimanja građana. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 08 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/81/72/20240708-kronika-dana-35439841-20240708203033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.07. 2024-07-07</title>
     <link>https://api.hrt.hr/media/15/b4/20240707-kronika-dana-35436773-20240707204031.mp3</link>
     <description>Prema izlaznim anketama u Francuskoj ljevičarski savez i centristi pobijedili krajnju desnicu. Francuski premijer sutra daje ostavku. Američki kardiokirurg doktor Novick u Zagrebu se sastao s pacijentima kojima je kao djeci operacijama spasio život. Završili Đakovački vezovi. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Premijer Plenković u Bošnjacima poručio da će država maksimalno brzo pomoći u sanaciji šteta. Laburisti se vratili u Downing street 10. Nakon uvjerljive pobjede novi britanski premijer Keir Starmer sastavio vladu. Europski čelnici oštro kritizirali posjet Viktora Orbana Moskvi. Španjolci prvi polufinalisti Europskoga nogometnog prvenstva. Urednica: Mira Barić</description>
     <pubDate>Fri, 05 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fe/09/20240705-kronika-dana-35432131-20240705204009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.07. 2024-07-04</title>
-    <link>https://api.hrt.hr/media/45/0b/20240704-kronika-dana-35429090-20240704204056.mp3</link>
-    <description>Prvi rezultati izbora u Velikoj Britaniji poslije ponoći, pobjednik bi se trebao znati ujutro.	Danima se saniraju posljedice nevremena koje je pogodilo Bošnjake. Šteta dosad popisana na pedeset posto kućanstava. Stručnjaci SOA-e uspjeli vratiti sve datoteke ukradene u hakerskom napadu na KBC Zagreb. Urednica: Mira Barić</description>
-    <pubDate>Thu, 04 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/45/0b/20240704-kronika-dana-35429090-20240704204056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
