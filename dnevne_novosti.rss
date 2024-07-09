@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 08 Jul 2024 13:54:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 13:57:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.07. 2024-07-09</title>
+    <link>https://api.hrt.hr/media/22/49/20240709-dnevne-novosti-35442135-20240709134034.mp3</link>
+    <description>Nakon sastanka vladajuće većine potpredsjednik Vlade Branko Bačić izjavio da će kandidati za državne tajnike biti poznati za desetak dana. U Saboru žustra rasprava o uvođenju Rodnih studija. 41 je osoba poginula, a 166 ranjeno u jučerašnjem ruskom napadu na više ukrajinskih gradova. U pogođenoj dječjoj bolnici u Kijevu i dalje se traga za nestalima u ruševini. Pavao Vujnovac od danas i službeno većinski vlasnik Fortenove, u vlasničkoj strukturi više nema sanckoniranih dioničara. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 09 Jul 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/22/49/20240709-dnevne-novosti-35442135-20240709134034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.07. 2024-07-08</title>
     <link>https://api.hrt.hr/media/d7/a4/20240708-dnevne-novosti-35438932-20240708134031.mp3</link>
     <description>Iznenađujući rezultat drugog kruga parlamentarnih izbora u Francuskoj - krajnja ljevica osvojila najviše mandata, no nedovoljno za apsolutnu većinu. Najmanje 29 ljudi ubijeno, a više od 100 ranjeno u ruskim raketnim napadima na gradove diljem Ukrajine, Kijev pretrpio jedan od najubojitijih zračnih napada od početka ruske invazije. Stečaj Varteksa neizbježan, Nadzorni odbor dao suglasnost Upravi da ga pokrene, radnici očajni. Uredila: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Bošnjacima nedostaje crjepova za popravak uništenih krovova. Iranci na predsjedničkim izborima izabrali umjerenog kandidata Masuda Pezeshkiana. Joe Biden ne namjerava se povući iz utrke za američkog predsjednika. Urednica: Sanja Cota</description>
     <pubDate>Sat, 06 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b2/7d/20240706-dnevne-novosti-35433726-20240706134010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.07. 2024-07-05</title>
-    <link>https://api.hrt.hr/media/0b/61/20240705-dnevne-novosti-35431172-20240705133508.mp3</link>
-    <description>Laburist Keir Starmer novi je britanski premijer nakon povijesnog poraza konzervativaca. Viktor Orban stigao u posjet Moskvi. Iz Brisela poručili da on ne predstavlja vanjsku politiku Unije. Premijer Plenković najavio novu Vladinu pomoć Bošnjacima i drugim mjestima stradalim u snažnom nevremenu početkom tjedna. Na terenu pomaže i vojska. Na Europskom nogometnom prvenstvu igraju se prve dvije četvrtfinalne utakmice - između Španjolske i Njemačke te Francuske i Portugala. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 05 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/61/20240705-dnevne-novosti-35431172-20240705133508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
