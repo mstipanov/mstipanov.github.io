@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 Jul 2024 05:56:33 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 06:00:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.07. 2024-07-10</title>
+    <link>https://api.hrt.hr/media/76/89/20240710-jutarnja-kronika-35443546-20240710053548.mp3</link>
+    <description>U Washingtonu počeo sastanak na vrhu NATO-a. Glavna tema je dodatna pomoć Ukrajini. Pavao Vujnovac i službeno je većinski vlasnik Fortenove, u vlasničkoj strukturi više nema nijednoga sankcioniranog ruskog ili bjeloruskog dioničara. Počinju 75. Dubrovačke ljetne igre. SPORT: Rezultat karijere Donne Vekić - plasirala se u polufinale Wimbledona! Španjolska je prvi finalist Europskoga nogometnog prvenstva. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 10 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/76/89/20240710-jutarnja-kronika-35443546-20240710053548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.07. 2024-07-09</title>
     <link>https://api.hrt.hr/media/8e/9a/20240709-jutarnja-kronika-35440419-20240709053534.mp3</link>
     <description>Domovinski pokret traži od 10 do 15 mjesta državnih tajnika. Premijer im odgovara da taj broj mora biti manji od broja njihovih zastupnika. U Saboru rasprava o tome tko će sljedećih šest godina biti na čelu Hrvatske narodne banke. Bors Vujčić ima potporu HDZ-a za novi mandat. Varaždinski Varteks nakon više od stoljeća rada odlazi u stečaj. U Ukrajini proglašen dan žalosti. Broj žrtava ruskoga raketnog napada narastao na 41 osobu. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U Francuskoj drugi krug parlamentarnih izbora, prema posljednjim anketama, krajnja desnica neće uspjeti osvojiti apsolutnu većinu. Varaždinska tekstilna tvrtka Varteks, koja je u blokadi već gotovo 60 dana, odlazi u stečaj. Na Prokurativama završna večer Splitskog festivala. Urednica: Mira Barić</description>
     <pubDate>Sun, 07 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/b4/20240707-jutarnja-kronika-35435118-20240707053528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.07. 2024-07-06</title>
-    <link>https://api.hrt.hr/media/e1/98/20240706-jutarnja-kronika-35432728-20240706053510.mp3</link>
-    <description>Do sutra bi svako domaćinstvo u tučom poharanim Bošnjacima trebalo imati struju. Nakon uvjerljive pobjede Laburista novi britanski premijer Keir Starmer sastavio vladu. Europski čelnici oštro kritizirali posjet Viktora Orbana Moskvi. Sinoć otvoreni 58. Đakovački vezovi. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 06 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/98/20240706-jutarnja-kronika-35432728-20240706053510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
