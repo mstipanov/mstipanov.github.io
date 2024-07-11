@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 Jul 2024 14:02:09 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 13:42:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Iznenađujući rezultat drugog kruga parlamentarnih izbora u Francuskoj - krajnja ljevica osvojila najviše mandata, no nedovoljno za apsolutnu većinu. Najmanje 29 ljudi ubijeno, a više od 100 ranjeno u ruskim raketnim napadima na gradove diljem Ukrajine, Kijev pretrpio jedan od najubojitijih zračnih napada od početka ruske invazije. Stečaj Varteksa neizbježan, Nadzorni odbor dao suglasnost Upravi da ga pokrene, radnici očajni. Uredila: Mira Barić</description>
     <pubDate>Mon, 08 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/a4/20240708-dnevne-novosti-35438932-20240708134031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.07. 2024-07-07</title>
-    <link>https://api.hrt.hr/media/8d/a5/20240707-dnevne-novosti-35436005-20240707133529.mp3</link>
-    <description>Drugi je krug francuskih parlamentarnih izbora. Pretpostavlja se da krajnja desnica ipak neće osvojiti apsolutnu većinu. Za vrijeme rata američki kardiokirurg doktor Novick operirao je više od 600 hrvatske djece, danas se u Zagrebu susreo s mnogima kojima je spasio život. U Bošnjacima i dalje nedostaje crjepova, a nema ni krovopokrivača. Tjedan dana nakon tuče pokriveno 60 posto krovova. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 07 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8d/a5/20240707-dnevne-novosti-35436005-20240707133529.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
