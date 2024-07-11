@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 Jul 2024 21:09:47 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 20:43:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.07. 2024-07-11</title>
+    <link>https://api.hrt.hr/media/de/b4/20240711-kronika-dana-35449971-20240711204013.mp3</link>
+    <description>Potpora Ukrajini i dalje je neupitna, poruka je sa samita NATOa u Washingtonu. Zelenski traži ukidanje ograničenja da Kijev može izvoditi napade unutar Rusije. Vlada Zakonom namjerava smanjiti ovisnost o igrama na sreću. Sport: Dona Vekić nije uspjela ući u finale Wimbledona. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 11 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/b4/20240711-kronika-dana-35449971-20240711204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.07. 2024-07-10</title>
     <link>https://api.hrt.hr/media/c4/02/20240710-kronika-dana-35446414-20240710204049.mp3</link>
     <description>Poražavajući rezultati iz Hrvatskog jezika na državnoj maturi. U Washingtonu sastanak na vrhu čelnika država NATO saveza. Uhićen je ubojica koji je u Velikoj Britniji samostrelom ubio ženu i dvije kćeri BBC-jeva komentatora. Zbog ekstremno visokih temperatura za gotovo cijelu Hrvatsku proglašen crveni meteoalarm, sutra još toplije. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Iznenađenje u Francuskoj - nakon što je u prvom krugu parlamentarnih izbora pobijedila krajnja desnica, u drugom krugu trijumfirala je krajnja ljevica! No nitko nije osvojio natpolovičnu većinu. U ruskim napadima na Ukrajinu poginulo najmanje 36 ljudi, a više od 120 ranjeno. U Kijevu pogođena i dječja bolnica. Nekadašnji varaždinski tekstilni div Varteks odlazi u stečaj. Završen upis državnih obveznica na trogodišnji rok, nije bilo velikog zanimanja građana. Urednik: Silvio Šop</description>
     <pubDate>Mon, 08 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/72/20240708-kronika-dana-35439841-20240708203033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.07. 2024-07-07</title>
-    <link>https://api.hrt.hr/media/15/b4/20240707-kronika-dana-35436773-20240707204031.mp3</link>
-    <description>Prema izlaznim anketama u Francuskoj ljevičarski savez i centristi pobijedili krajnju desnicu. Francuski premijer sutra daje ostavku. Američki kardiokirurg doktor Novick u Zagrebu se sastao s pacijentima kojima je kao djeci operacijama spasio život. Završili Đakovački vezovi. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 07 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/15/b4/20240707-kronika-dana-35436773-20240707204031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
