@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 11 Jul 2024 14:12:40 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 13:46:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nakon sastanka vladajuće većine potpredsjednik Vlade Branko Bačić izjavio da će kandidati za državne tajnike biti poznati za desetak dana. U Saboru žustra rasprava o uvođenju Rodnih studija. 41 je osoba poginula, a 166 ranjeno u jučerašnjem ruskom napadu na više ukrajinskih gradova. U pogođenoj dječjoj bolnici u Kijevu i dalje se traga za nestalima u ruševini. Pavao Vujnovac od danas i službeno većinski vlasnik Fortenove, u vlasničkoj strukturi više nema sanckoniranih dioničara. Urednik: Silvio Šop</description>
     <pubDate>Tue, 09 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/22/49/20240709-dnevne-novosti-35442135-20240709134034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.07. 2024-07-08</title>
-    <link>https://api.hrt.hr/media/d7/a4/20240708-dnevne-novosti-35438932-20240708134031.mp3</link>
-    <description>Iznenađujući rezultat drugog kruga parlamentarnih izbora u Francuskoj - krajnja ljevica osvojila najviše mandata, no nedovoljno za apsolutnu većinu. Najmanje 29 ljudi ubijeno, a više od 100 ranjeno u ruskim raketnim napadima na gradove diljem Ukrajine, Kijev pretrpio jedan od najubojitijih zračnih napada od početka ruske invazije. Stečaj Varteksa neizbježan, Nadzorni odbor dao suglasnost Upravi da ga pokrene, radnici očajni. Uredila: Mira Barić</description>
-    <pubDate>Mon, 08 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d7/a4/20240708-dnevne-novosti-35438932-20240708134031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
