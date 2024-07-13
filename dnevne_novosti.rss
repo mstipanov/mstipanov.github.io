@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 Jul 2024 14:16:41 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 13:50:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.07. 2024-07-13</title>
+    <link>https://api.hrt.hr/media/e5/74/20240713-dnevne-novosti-35472124-20240713134050.mp3</link>
+    <description>Nema novih slučajeva afričke svinjske kuge. HDZ potvrđuje vodstvo stranke, Andrej Plenković jedini je kandidat za predsjednika.Unatoč javnom pozivu dijela demokrata, Joe Biden ne odustaje od utrke za američkog predsjednika. Urednica: Sanja Cota.</description>
+    <pubDate>Sat, 13 Jul 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/74/20240713-dnevne-novosti-35472124-20240713134050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.07. 2024-07-12</title>
     <link>https://api.hrt.hr/media/31/38/20240712-dnevne-novosti-35469789-20240712134014.mp3</link>
     <description>Zbog hakerskog napada, pacijenti na Rebru već deset dana ne mogu na zračenje, bolnica i resorni ministar tvrde da onkološki pacijenti nisu ugroženi. Rodni studiji na zagrebačkom Filozofskom fakultetu neće biti osnovani najesen. Nakon novog neuvjerljivog javnog nastupa Joea Bidena sve glasniji pozivi iz demokratske stranke da se povuče iz predsjedničke utrke. Još nismo na vrhuncu toplinskog vala. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Zbog ekstremno visokih temperatura za gotovo cijelu Hrvatsku proglašen crveni meteoalarm. U Washingtonu počinje službeni dio NATO-ova summita. Glavna tema - potpora Saveza Ukrajini u ratu protiv Rusije. U Saboru dva okrugla stola potpuno suprotnih ideologija - na jednom Domovinski pokret, na drugom Možemo. Podizanjem zastave Libertas večeras počinju 75. Dubrovačke ljetne igre. Urednica: Mira Barić</description>
     <pubDate>Wed, 10 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6a/64/20240710-dnevne-novosti-35445352-20240710134048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.07. 2024-07-09</title>
-    <link>https://api.hrt.hr/media/22/49/20240709-dnevne-novosti-35442135-20240709134034.mp3</link>
-    <description>Nakon sastanka vladajuće većine potpredsjednik Vlade Branko Bačić izjavio da će kandidati za državne tajnike biti poznati za desetak dana. U Saboru žustra rasprava o uvođenju Rodnih studija. 41 je osoba poginula, a 166 ranjeno u jučerašnjem ruskom napadu na više ukrajinskih gradova. U pogođenoj dječjoj bolnici u Kijevu i dalje se traga za nestalima u ruševini. Pavao Vujnovac od danas i službeno većinski vlasnik Fortenove, u vlasničkoj strukturi više nema sanckoniranih dioničara. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 09 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/22/49/20240709-dnevne-novosti-35442135-20240709134034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
