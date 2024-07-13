@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Jul 2024 05:49:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 06:19:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.07. 2024-07-13</title>
+    <link>https://api.hrt.hr/media/f8/12/20240713-jutarnja-kronika-35471221-20240713053532.mp3</link>
+    <description>Drugi je srpanjski turistički vikend. HDZ bira vodstvo - Andrej Plenković jedini kandidat za predsjednika stranke. U Slavoniji se ponovno pojavila afrička svinjska kuga, usmrćene životinje u Gradištu kod Županje. Prva večer Ultra Europe festivala u Splitu prošla relativno mirno. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 13 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f8/12/20240713-jutarnja-kronika-35471221-20240713053532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.07. 2024-07-12</title>
     <link>https://api.hrt.hr/media/ec/b2/20240712-jutarnja-kronika-35468191-20240712053513.mp3</link>
     <description>Potpora Ukrajini i dalje nije upitna, a njezin put u članstvo je nepovratan, poruka je sa sastanka NATO saveza u Washingtonu. Američki predsjdnik Joe Biden ponovno se gubio u govoru - Zelenskog nazvao Putinom, svoju potpredsjednicu Harris - Trumpom! Saborski zastupnici odlaze na ljetnu stanku, a zgrada u obnovu, od jeseni će zasjedati u Hrvatskome vojnom učilištu na Črnomercu. U Splitu počinje jedan od najvećih svjetskih festivala elektroničke glazbe - Ultra Europe. Urednik: Silvio Šop</description>
