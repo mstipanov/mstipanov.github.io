@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Jul 2024 20:51:45 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 20:55:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.07. 2024-07-14</title>
+    <link>https://api.hrt.hr/media/b5/6d/20240714-kronika-dana-35475361-20240714204018.mp3</link>
+    <description>Nakon neuspjelog atentata, Donald Trump Amerikance pozvao na zajedništvo. Napad osudio predsjednik Biden, reakcije stižu iz cijelog svijeta. Sutra istječe rok za kandidaturu za deset mjesta u Ustavnom sudu. Tko se sve vidi na tome mjestu i kako do dvotrećinske većine za izbor? Zbrajaju se štete od jučerašnjeg nevremena na sjeveru i istoku zemlje. Večeras finale EURA. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 14 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b5/6d/20240714-kronika-dana-35475361-20240714204018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.07. 2024-07-13</title>
     <link>https://api.hrt.hr/media/5d/d5/20240713-kronika-dana-35472963-20240713204551.mp3</link>
     <description>Nevrijeme praćeno tučom pogodilo Međimurje. Velika je opasnost od požara, gasilo se u Istri i Dalmaciji. Na istoku Hrvatske oprez zbog svinjske kuge. Danas nema novih slučajeva. Najmanje 90-ero ljudi ubijeno u izraelskom napadu na šatorsko naselje u Han Junisu, meta - zapovjednik vojnog krila Hamasa. Urednica Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Potpora Ukrajini i dalje je neupitna, poruka je sa samita NATOa u Washingtonu. Zelenski traži ukidanje ograničenja da Kijev može izvoditi napade unutar Rusije. Vlada Zakonom namjerava smanjiti ovisnost o igrama na sreću. Sport: Dona Vekić nije uspjela ući u finale Wimbledona. Urednica: Sanja Cota</description>
     <pubDate>Thu, 11 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/b4/20240711-kronika-dana-35449971-20240711204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.07. 2024-07-10</title>
-    <link>https://api.hrt.hr/media/c4/02/20240710-kronika-dana-35446414-20240710204049.mp3</link>
-    <description>Poražavajući rezultati iz Hrvatskog jezika na državnoj maturi. U Washingtonu sastanak na vrhu čelnika država NATO saveza. Uhićen je ubojica koji je u Velikoj Britniji samostrelom ubio ženu i dvije kćeri BBC-jeva komentatora. Zbog ekstremno visokih temperatura za gotovo cijelu Hrvatsku proglašen crveni meteoalarm, sutra još toplije. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 10 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c4/02/20240710-kronika-dana-35446414-20240710204049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
