@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Jul 2024 06:19:23 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 05:53:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.07. 2024-07-14</title>
+    <link>https://api.hrt.hr/media/ca/e6/20240714-jutarnja-kronika-35473649-20240714053517.mp3</link>
+    <description>Bivši američki predsjednik Donald Trump lakše ranjen na predizbornom skupu u Pennsylvaniji, FBI slučaj istražuje kao mogući pokušaj atentata. Nevrijeme praćeno tučom pogodilo Međimurje.U Berlinu večeras finale Europskog nogometnog prvenstva, za prvaka Europe bore se Španjolska i Engleska. Urednica: Mira Barić.</description>
+    <pubDate>Sun, 14 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/e6/20240714-jutarnja-kronika-35473649-20240714053517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.07. 2024-07-13</title>
     <link>https://api.hrt.hr/media/f8/12/20240713-jutarnja-kronika-35471221-20240713053532.mp3</link>
     <description>Drugi je srpanjski turistički vikend. HDZ bira vodstvo - Andrej Plenković jedini kandidat za predsjednika stranke. U Slavoniji se ponovno pojavila afrička svinjska kuga, usmrćene životinje u Gradištu kod Županje. Prva večer Ultra Europe festivala u Splitu prošla relativno mirno. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Šefovi zemalja NATO-a u zajedničkoj deklaraciji osudili potporu Kine, Irana i Sjeverne Koreje Rusiji. 29 godina od genocida u Srebrenici. Nakon otvorenja Dubrovačkih ljetnih igara počinje i Pulski filmski festival. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 11 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/95/18/20240711-jutarnja-kronika-35447044-20240711053510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.07. 2024-07-10</title>
-    <link>https://api.hrt.hr/media/76/89/20240710-jutarnja-kronika-35443546-20240710053548.mp3</link>
-    <description>U Washingtonu počeo sastanak na vrhu NATO-a. Glavna tema je dodatna pomoć Ukrajini. Pavao Vujnovac i službeno je većinski vlasnik Fortenove, u vlasničkoj strukturi više nema nijednoga sankcioniranog ruskog ili bjeloruskog dioničara. Počinju 75. Dubrovačke ljetne igre. SPORT: Rezultat karijere Donne Vekić - plasirala se u polufinale Wimbledona! Španjolska je prvi finalist Europskoga nogometnog prvenstva. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 10 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/76/89/20240710-jutarnja-kronika-35443546-20240710053548.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
