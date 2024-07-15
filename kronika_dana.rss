@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 Jul 2024 20:55:46 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 20:59:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.07. 2024-07-15</title>
+    <link>https://api.hrt.hr/media/fc/07/20240715-kronika-dana-35478072-20240715203527.mp3</link>
+    <description>Dan nakon atentata Donald Trump na konvenciji Republikanske stranke i službeno nominiran za predsjedničkog kandidata. Posljednji je dan za predaju kandidatura za 10 ustavnih sudaca, dosad ih stiglo 45. Domovinski pokret dobit će devet mjesta državnih tajnika, potvrdio premijer Andrej Plenković. Hrvatska turistička zajednica očekuje još jednu sjajnu sezonu. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 15 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fc/07/20240715-kronika-dana-35478072-20240715203527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.07. 2024-07-14</title>
     <link>https://api.hrt.hr/media/b5/6d/20240714-kronika-dana-35475361-20240714204018.mp3</link>
     <description>Nakon neuspjelog atentata, Donald Trump Amerikance pozvao na zajedništvo. Napad osudio predsjednik Biden, reakcije stižu iz cijelog svijeta. Sutra istječe rok za kandidaturu za deset mjesta u Ustavnom sudu. Tko se sve vidi na tome mjestu i kako do dvotrećinske većine za izbor? Zbrajaju se štete od jučerašnjeg nevremena na sjeveru i istoku zemlje. Večeras finale EURA. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Ponovno se pojavila afrička svinjska kuga, usmrćene životinje u Gradištu kod Županje. Nakon hakerskog napada, onkološki pacijenti na Rebru deset dana bez zračenja. Novi gafovi Joea Bidena, demokrati sve glasnije traže da se povuče iz predsjedničke utrke. Urednica: Sanja Cota</description>
     <pubDate>Fri, 12 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/5f/20240712-kronika-dana-35470634-20240712204014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.07. 2024-07-11</title>
-    <link>https://api.hrt.hr/media/de/b4/20240711-kronika-dana-35449971-20240711204013.mp3</link>
-    <description>Potpora Ukrajini i dalje je neupitna, poruka je sa samita NATOa u Washingtonu. Zelenski traži ukidanje ograničenja da Kijev može izvoditi napade unutar Rusije. Vlada Zakonom namjerava smanjiti ovisnost o igrama na sreću. Sport: Dona Vekić nije uspjela ući u finale Wimbledona. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 11 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/b4/20240711-kronika-dana-35449971-20240711204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
