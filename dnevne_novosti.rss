@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 Jul 2024 13:54:37 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 13:58:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.07. 2024-07-15</title>
+    <link>https://api.hrt.hr/media/cb/2d/20240715-dnevne-novosti-35477112-20240715134027.mp3</link>
+    <description>Donald Trump stigao u Milwaukee na konvenciju Republikanske stranke, gdje bi trebao biti potvrđen za kandidata na predsjedničkim izborima. Danas istječe rok za predaju kandidatura za 13 ustavnih sudaca, dosad stiglo čak 45 kandidatura. U 83. godini umro filmski i kazališni kritičar te televizijski redatelj Tomislav Kurelec. Toplinski se val nastavlja. Urednica: Mira Barić</description>
+    <pubDate>Mon, 15 Jul 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cb/2d/20240715-dnevne-novosti-35477112-20240715134027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.07. 2024-07-14</title>
     <link>https://api.hrt.hr/media/59/8c/20240714-dnevne-novosti-35474466-20240714133517.mp3</link>
     <description>Atentat na Donalda Trumpa, napadač je ubijen, a Trump lakše ranjen. Od predoziranja na Ultri umro dvadestogodišnji mladić iz Slovenije. U dijelovima Hrvatske i jučer štete od olujnog nevremena. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zbog hakerskog napada, pacijenti na Rebru već deset dana ne mogu na zračenje, bolnica i resorni ministar tvrde da onkološki pacijenti nisu ugroženi. Rodni studiji na zagrebačkom Filozofskom fakultetu neće biti osnovani najesen. Nakon novog neuvjerljivog javnog nastupa Joea Bidena sve glasniji pozivi iz demokratske stranke da se povuče iz predsjedničke utrke. Još nismo na vrhuncu toplinskog vala. Urednica: Mira Barić</description>
     <pubDate>Fri, 12 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/38/20240712-dnevne-novosti-35469789-20240712134014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.07. 2024-07-11</title>
-    <link>https://api.hrt.hr/media/1e/14/20240711-dnevne-novosti-35449022-20240711134512.mp3</link>
-    <description>Nije pitanje hoće li, nego kada će Ukrajina ući u NATO, izjavio glavni tajnik Saveza Jens Stoltenberg. Komemoracijom u Potočarima obilježava se Međunarodni dan sjećanja na genocid u Srebrenici. Sabor raspravljao o ponovnom imenovanju Borisa Vujčića za guvernera Hrvatske narodne banke. Počinje 71. Pulski filmski festival. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 11 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1e/14/20240711-dnevne-novosti-35449022-20240711134512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
