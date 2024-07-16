@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Jul 2024 05:57:15 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 06:01:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.07. 2024-07-16</title>
+    <link>https://api.hrt.hr/media/e0/d6/20240716-jutarnja-kronika-35478644-20240716053528.mp3</link>
+    <description>Donald Trump uz ovacije potvrđen za predsjedničkog kandidata Republikanske stranke. Potpredsjednički kandidat bit će mu senator iz Ohia J. D. Vance. Sutra se na sjednici Vlade očekuje imenovanje 9 državnih tajnika iz redova Domovinskog pokreta. Rekordne temperature mora na hrvatskoj obali Jadrana - u Dubrovniku nikad prije izmjerenih 29,7 stupnjeva. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 16 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e0/d6/20240716-jutarnja-kronika-35478644-20240716053528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.07. 2024-07-15</title>
     <link>https://api.hrt.hr/media/7b/d3/20240715-jutarnja-kronika-35475979-20240715054026.mp3</link>
     <description>Donald Trump otputovao na republikansku konvenciju. FBI tvrdi da je napadač na njega radio sam. Danas istječe rok za predaju kandidatura za popunjavanje deset mjesta na Ustavnome sudu. Zbog radova na magistralnom vrelovodu 40 tisuća Zagrepčana ostaje u sljedeća dva tjedna bez tople vode. Španjolska u finalu Europskoga nogometnog prvenstva pobijedila Englesku s 2:1. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Drugi je srpanjski turistički vikend. HDZ bira vodstvo - Andrej Plenković jedini kandidat za predsjednika stranke. U Slavoniji se ponovno pojavila afrička svinjska kuga, usmrćene životinje u Gradištu kod Županje. Prva večer Ultra Europe festivala u Splitu prošla relativno mirno. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 13 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/12/20240713-jutarnja-kronika-35471221-20240713053532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.07. 2024-07-12</title>
-    <link>https://api.hrt.hr/media/ec/b2/20240712-jutarnja-kronika-35468191-20240712053513.mp3</link>
-    <description>Potpora Ukrajini i dalje nije upitna, a njezin put u članstvo je nepovratan, poruka je sa sastanka NATO saveza u Washingtonu. Američki predsjdnik Joe Biden ponovno se gubio u govoru - Zelenskog nazvao Putinom, svoju potpredsjednicu Harris - Trumpom! Saborski zastupnici odlaze na ljetnu stanku, a zgrada u obnovu, od jeseni će zasjedati u Hrvatskome vojnom učilištu na Črnomercu. U Splitu počinje jedan od najvećih svjetskih festivala elektroničke glazbe - Ultra Europe. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 12 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/b2/20240712-jutarnja-kronika-35468191-20240712053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
