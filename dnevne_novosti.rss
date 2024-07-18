@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 17 Jul 2024 14:09:24 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 14:14:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.07. 2024-07-18</title>
+    <link>https://api.hrt.hr/media/93/9d/20240718-dnevne-novosti-35485650-20240718134019.mp3</link>
+    <description>Ursula Von der Leyen ponovno izabrana za predsjednicu Europske komisije. Čelnici europskih zemalja u britanskom Woodstocku na sastanku Europske političke zajednice. Strašna nesreća na bazenima u mjestu Velika blizu Požege - utopilo se 13-godišnje dijete. Urednica: Mira Barić</description>
+    <pubDate>Thu, 18 Jul 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/93/9d/20240718-dnevne-novosti-35485650-20240718134019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.07. 2024-07-17</title>
     <link>https://api.hrt.hr/media/35/ff/20240717-dnevne-novosti-35483013-20240717134003.mp3</link>
     <description>Europska komisija nije bila dovoljno jasna u vezi s nabavom cjepiva protiv bolesti Covid-19, presudio sud Europske unije. Postupak je pokrenut jer je Komisija objavila samo cenzuriranu verziju ugovora. Konačni rezultati potvrdili da državnu maturu nije položilo 47 posto učenika strukovnih škola i gotovo devet posto gimnazijalaca. Nekoliko sindikata i udruga u zdravstvu prosvjedovalo protiv spajanja triju zagrebačkih domova zdravlja. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump stigao u Milwaukee na konvenciju Republikanske stranke, gdje bi trebao biti potvrđen za kandidata na predsjedničkim izborima. Danas istječe rok za predaju kandidatura za 13 ustavnih sudaca, dosad stiglo čak 45 kandidatura. U 83. godini umro filmski i kazališni kritičar te televizijski redatelj Tomislav Kurelec. Toplinski se val nastavlja. Urednica: Mira Barić</description>
     <pubDate>Mon, 15 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cb/2d/20240715-dnevne-novosti-35477112-20240715134027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.07. 2024-07-14</title>
-    <link>https://api.hrt.hr/media/59/8c/20240714-dnevne-novosti-35474466-20240714133517.mp3</link>
-    <description>Atentat na Donalda Trumpa, napadač je ubijen, a Trump lakše ranjen. Od predoziranja na Ultri umro dvadestogodišnji mladić iz Slovenije. U dijelovima Hrvatske i jučer štete od olujnog nevremena. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 14 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/8c/20240714-dnevne-novosti-35474466-20240714133517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
