@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 17 Jul 2024 21:11:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 20:45:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.07. 2024-07-18</title>
+    <link>https://api.hrt.hr/media/bc/44/20240718-kronika-dana-35486701-20240718204020.mp3</link>
+    <description>Vatrogasci očekuju da će još večeras uspjeti staviti pod nadzor velik požar na trogirskome području. 12-ogodišnji dječak utopio se na bazenima u mjestu Velikoj, blizu Požege. Ursula Von der Leyen ponovno je izabrana za predsjednicu Europske komisije. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 18 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bc/44/20240718-kronika-dana-35486701-20240718204020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.07. 2024-07-17</title>
     <link>https://api.hrt.hr/media/d4/85/20240717-kronika-dana-35483738-20240717204004.mp3</link>
     <description>Sud Europske unije objavio da Europska komisija nije bila dovoljno transparentna u postupku nabave cjepiva protiv koronavirusa.Ministar financija Marko Primorac za jesen najavio rebalans proračuna. Zlatna Arena na Pulskom filmskom festivalu dodijeljena filmu "Proslava", a prema ocjeni publike najbolji "Sveta obitelj". Luka Modrić potpisao novi jednogodišnji ugovor s Real Madridom. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Dan nakon atentata Donald Trump na konvenciji Republikanske stranke i službeno nominiran za predsjedničkog kandidata. Posljednji je dan za predaju kandidatura za 10 ustavnih sudaca, dosad ih stiglo 45. Domovinski pokret dobit će devet mjesta državnih tajnika, potvrdio premijer Andrej Plenković. Hrvatska turistička zajednica očekuje još jednu sjajnu sezonu. Urednik: Silvio Šop</description>
     <pubDate>Mon, 15 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fc/07/20240715-kronika-dana-35478072-20240715203527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.07. 2024-07-14</title>
-    <link>https://api.hrt.hr/media/b5/6d/20240714-kronika-dana-35475361-20240714204018.mp3</link>
-    <description>Nakon neuspjelog atentata, Donald Trump Amerikance pozvao na zajedništvo. Napad osudio predsjednik Biden, reakcije stižu iz cijelog svijeta. Sutra istječe rok za kandidaturu za deset mjesta u Ustavnom sudu. Tko se sve vidi na tome mjestu i kako do dvotrećinske većine za izbor? Zbrajaju se štete od jučerašnjeg nevremena na sjeveru i istoku zemlje. Večeras finale EURA. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 14 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/6d/20240714-kronika-dana-35475361-20240714204018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
