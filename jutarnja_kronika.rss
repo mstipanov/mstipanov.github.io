@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 Jul 2024 06:13:10 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 05:46:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.07. 2024-07-19</title>
+    <link>https://api.hrt.hr/media/c8/01/20240719-jutarnja-kronika-35487281-20240719053034.mp3</link>
+    <description>Donald Trump prihvatio republikansku predsjedničku nominaciju i održao prvi govor nakon atentata.
+Ursula von der Leyen ponovno izabrana za predsjednicu Europske komisije.Iz Brisela Hrvatskoj stiže uplata od 822 milijuna eura za Nacionalni program oporavka i otpornosti. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 19 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c8/01/20240719-jutarnja-kronika-35487281-20240719053034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.07. 2024-07-18</title>
     <link>https://api.hrt.hr/media/aa/d2/20240718-jutarnja-kronika-35484317-20240718055018.mp3</link>
     <description>Sud Europske unije objavio da Europska komisija nije bila dovoljno transparentna u postupku nabave cjepiva protiv koronavirusa.Ministar financija Marko Primorac za jesen najavio rebalans proračuna. Zlatna Arena na Pulskom filmskom festivalu dodijeljena filmu "Proslava", a prema ocjeni publike najbolji "Sveta obitelj". Luka Modrić potpisao novi jednogodišnji ugovor s Real Madridom. Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Donald Trump uz ovacije potvrđen za predsjedničkog kandidata Republikanske stranke. Potpredsjednički kandidat bit će mu senator iz Ohia J. D. Vance. Sutra se na sjednici Vlade očekuje imenovanje 9 državnih tajnika iz redova Domovinskog pokreta. Rekordne temperature mora na hrvatskoj obali Jadrana - u Dubrovniku nikad prije izmjerenih 29,7 stupnjeva. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 16 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e0/d6/20240716-jutarnja-kronika-35478644-20240716053528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.07. 2024-07-15</title>
-    <link>https://api.hrt.hr/media/7b/d3/20240715-jutarnja-kronika-35475979-20240715054026.mp3</link>
-    <description>Donald Trump otputovao na republikansku konvenciju. FBI tvrdi da je napadač na njega radio sam. Danas istječe rok za predaju kandidatura za popunjavanje deset mjesta na Ustavnome sudu. Zbog radova na magistralnom vrelovodu 40 tisuća Zagrepčana ostaje u sljedeća dva tjedna bez tople vode. Španjolska u finalu Europskoga nogometnog prvenstva pobijedila Englesku s 2:1. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 15 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7b/d3/20240715-jutarnja-kronika-35475979-20240715054026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
