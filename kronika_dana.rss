@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 18 Jul 2024 20:45:32 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 20:51:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.07. 2024-07-19</title>
+    <link>https://api.hrt.hr/media/36/1b/20240719-kronika-dana-35489579-20240719203535.mp3</link>
+    <description>Popravljen je tehnološki kvar koji je izazvao kaos diljem svijeta, no stanje se još nije normaliziralo ,a štete će biti goleme. Zbog pojave afričke svinjske kuge u Hercegovini - uvedene zone ograničenja oko Imotskog. Ukrajinski predsjednik Zelenski izjavio da se ne boji moguće Trumpove pobjede na izborima, ali da Ukrajina neće pristati na njegovu ideju zaustavljanja rata. Vrijeme sutra - promjenjivo, u unutrašnjosti i na sjevernom Jadranu pljuskovi s grmljavinom. Najviša temperatura do 30, na jugu zemlje do 35 stupnjeva. Urednica: Sanja Cota.</description>
+    <pubDate>Fri, 19 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/36/1b/20240719-kronika-dana-35489579-20240719203535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.07. 2024-07-18</title>
     <link>https://api.hrt.hr/media/bc/44/20240718-kronika-dana-35486701-20240718204020.mp3</link>
     <description>Vatrogasci očekuju da će još večeras uspjeti staviti pod nadzor velik požar na trogirskome području. 12-ogodišnji dječak utopio se na bazenima u mjestu Velikoj, blizu Požege. Ursula Von der Leyen ponovno je izabrana za predsjednicu Europske komisije. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Prva sjednica novog saziva Europskog parlamenta u Strasbourgu, Roberta Metsola ponovno izabrana za predsjednicu. U četvrtak glasovanje o Ursuli von der Leyen. Sve lučke kapetanije - od Pule do Dubrovnika - provele akciju "Sigurna plovidba". Utvrđeno 27 prekršaja i naplaćeno više od 20 tisuća eura kazni. Uz ekstremne temperature zraka, ovih se dana bilježe i rekordne temperature mora - gotovo 30 stupnjeva. Urednica: Mira Barić</description>
     <pubDate>Tue, 16 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/dd/20240716-kronika-dana-35480995-20240716204101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.07. 2024-07-15</title>
-    <link>https://api.hrt.hr/media/fc/07/20240715-kronika-dana-35478072-20240715203527.mp3</link>
-    <description>Dan nakon atentata Donald Trump na konvenciji Republikanske stranke i službeno nominiran za predsjedničkog kandidata. Posljednji je dan za predaju kandidatura za 10 ustavnih sudaca, dosad ih stiglo 45. Domovinski pokret dobit će devet mjesta državnih tajnika, potvrdio premijer Andrej Plenković. Hrvatska turistička zajednica očekuje još jednu sjajnu sezonu. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 15 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fc/07/20240715-kronika-dana-35478072-20240715203527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
