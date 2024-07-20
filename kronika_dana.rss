@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 19 Jul 2024 20:51:31 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 20:57:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sud Europske unije objavio da Europska komisija nije bila dovoljno transparentna u postupku nabave cjepiva protiv koronavirusa.Ministar financija Marko Primorac za jesen najavio rebalans proračuna. Zlatna Arena na Pulskom filmskom festivalu dodijeljena filmu "Proslava", a prema ocjeni publike najbolji "Sveta obitelj". Luka Modrić potpisao novi jednogodišnji ugovor s Real Madridom. Urednica: Mira Barić</description>
     <pubDate>Wed, 17 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d4/85/20240717-kronika-dana-35483738-20240717204004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.07. 2024-07-16</title>
-    <link>https://api.hrt.hr/media/b6/dd/20240716-kronika-dana-35480995-20240716204101.mp3</link>
-    <description>Prva sjednica novog saziva Europskog parlamenta u Strasbourgu, Roberta Metsola ponovno izabrana za predsjednicu. U četvrtak glasovanje o Ursuli von der Leyen. Sve lučke kapetanije - od Pule do Dubrovnika - provele akciju "Sigurna plovidba". Utvrđeno 27 prekršaja i naplaćeno više od 20 tisuća eura kazni. Uz ekstremne temperature zraka, ovih se dana bilježe i rekordne temperature mora - gotovo 30 stupnjeva. Urednica: Mira Barić</description>
-    <pubDate>Tue, 16 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b6/dd/20240716-kronika-dana-35480995-20240716204101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
