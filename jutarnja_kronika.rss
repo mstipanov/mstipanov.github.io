@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 20 Jul 2024 05:53:16 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jul 2024 05:59:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.07. 2024-07-21</title>
+    <link>https://api.hrt.hr/media/81/4a/20240721-jutarnja-kronika-35492456-20240721053542.mp3</link>
+    <description>U trećem smo srpanjskom vikendu, obilježavaju ga uobičajene prometne gužve zbog smjene turista. Uhićen muškarac za kojeg se sumnja da je podmetnuo požar kod Trogira. Izrael napao jemensku luku Hudaida, poginule tri osobe, 87 ranjeno. SPORT: Ivan Rakitić novi je igrač Hajduka! Urednik: Silvio Šop</description>
+    <pubDate>Sun, 21 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/81/4a/20240721-jutarnja-kronika-35492456-20240721053542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.07. 2024-07-20</title>
     <link>https://api.hrt.hr/media/05/3e/20240720-jutarnja-kronika-35490146-20240720053039.mp3</link>
     <description>Popravljen je tehnološki kvar koji je izazvao kaos u svijetu, no trebat će nekoliko dana za povratak u normalu. Štete će biti goleme. Nevrijeme iz Slovenije stiglo do Zagreba. Telefonski razgovor Volodimira Zelenskog i Donalda Trumpa, koji je obećao da će pregovorima prekinuti rat Kijeva i Moskve. Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@ Ursula von der Leyen ponovno izabrana za predsjednicu Europske komisije.Iz Brise
     <description>Sud Europske unije objavio da Europska komisija nije bila dovoljno transparentna u postupku nabave cjepiva protiv koronavirusa.Ministar financija Marko Primorac za jesen najavio rebalans proračuna. Zlatna Arena na Pulskom filmskom festivalu dodijeljena filmu "Proslava", a prema ocjeni publike najbolji "Sveta obitelj". Luka Modrić potpisao novi jednogodišnji ugovor s Real Madridom. Urednica: Mira Barić</description>
     <pubDate>Thu, 18 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/aa/d2/20240718-jutarnja-kronika-35484317-20240718055018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.07. 2024-07-17</title>
-    <link>https://api.hrt.hr/media/ef/71/20240717-jutarnja-kronika-35481507-20240717053001.mp3</link>
-    <description>Nakon dogovora koalicijskih partnera, Vlada će na sjednici imenovati državne tajnike. Na konstituirajućoj sjednici novog saziva Europskog parlamenta Roberta Metsola ponovno izabrana za predsjednicu. Sutra glasovanje o Ursuli von der Leyen. CNN objavio da je postojala i iranska urota za ubojstvo Donalda Trumpa, ali atentator koji je na njega pucao prošle subote s njom nema veze. Večeras će biti poznati dobitnici Zlatnih arena 71. Pulskog filmskog festivala, u Zagrebu počinje 58. Međunarodna smotra folklora. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 17 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ef/71/20240717-jutarnja-kronika-35481507-20240717053001.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
