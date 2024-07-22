@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 Jul 2024 21:01:30 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 21:05:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.07. 2024-07-22</title>
+    <link>https://api.hrt.hr/media/7e/ed/20240722-kronika-dana-35496947-20240722204053.mp3</link>
+    <description>Šestero mrtvih u nezapamćenom zločinu u Daruvaru! Počinitelj 51-godišnji umirovljeni vojni policajac, otprije poznat policiji! Nakon povlačenja Joea Bidena iz predsjedničke utrke, raste potpora Kamali Harris za kandidatkinju demokrata! Trenutačno u Hrvatskoj na odmoru milijun turista! Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Mon, 22 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7e/ed/20240722-kronika-dana-35496947-20240722204053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.07. 2024-07-21</title>
     <link>https://api.hrt.hr/media/be/cd/20240721-kronika-dana-35494110-20240721204044.mp3</link>
     <description>Predsjednik SAD-a Joe Biden povukao se iz utrke za novi mandat. Nova eskalacija sukoba na Bliskom istoku, šestero poginulih u izraelskom napadu na ciljeve hutista u Jemenu. Ivan Rakitić uz spektakularan doček došao na Poljud - za Hajduk će igrati do kraja sljedeće sezone. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Popravljen je tehnološki kvar koji je izazvao kaos diljem svijeta, no stanje se još nije normaliziralo ,a štete će biti goleme. Zbog pojave afričke svinjske kuge u Hercegovini - uvedene zone ograničenja oko Imotskog. Ukrajinski predsjednik Zelenski izjavio da se ne boji moguće Trumpove pobjede na izborima, ali da Ukrajina neće pristati na njegovu ideju zaustavljanja rata. Vrijeme sutra - promjenjivo, u unutrašnjosti i na sjevernom Jadranu pljuskovi s grmljavinom. Najviša temperatura do 30, na jugu zemlje do 35 stupnjeva. Urednica: Sanja Cota.</description>
     <pubDate>Fri, 19 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/36/1b/20240719-kronika-dana-35489579-20240719203535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.07. 2024-07-18</title>
-    <link>https://api.hrt.hr/media/bc/44/20240718-kronika-dana-35486701-20240718204020.mp3</link>
-    <description>Vatrogasci očekuju da će još večeras uspjeti staviti pod nadzor velik požar na trogirskome području. 12-ogodišnji dječak utopio se na bazenima u mjestu Velikoj, blizu Požege. Ursula Von der Leyen ponovno je izabrana za predsjednicu Europske komisije. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 18 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bc/44/20240718-kronika-dana-35486701-20240718204020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
