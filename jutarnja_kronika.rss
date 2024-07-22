@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 21 Jul 2024 05:59:04 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 06:02:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.07. 2024-07-22</title>
+    <link>https://api.hrt.hr/media/50/55/20240722-jutarnja-kronika-35494669-20240722054051.mp3</link>
+    <description>Američki predsjednik Joe Biden povukao se iz utrke za novi mandat! Dao potporu Kamali Harris kao novoj kandidatkinji demokrata. Širenje sukoba na Bliskom istoku. Izrael u znak osvete napao ciljeve hutista u Jemenu. Domagoj Vida oprostio se od reprezentacije, Ivan Rakitić potpisao za Hajduk! Urednica: Snježana Kralj</description>
+    <pubDate>Mon, 22 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/50/55/20240722-jutarnja-kronika-35494669-20240722054051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.07. 2024-07-21</title>
     <link>https://api.hrt.hr/media/81/4a/20240721-jutarnja-kronika-35492456-20240721053542.mp3</link>
     <description>U trećem smo srpanjskom vikendu, obilježavaju ga uobičajene prometne gužve zbog smjene turista. Uhićen muškarac za kojeg se sumnja da je podmetnuo požar kod Trogira. Izrael napao jemensku luku Hudaida, poginule tri osobe, 87 ranjeno. SPORT: Ivan Rakitić novi je igrač Hajduka! Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Ursula von der Leyen ponovno izabrana za predsjednicu Europske komisije.Iz Brisela Hrvatskoj stiže uplata od 822 milijuna eura za Nacionalni program oporavka i otpornosti. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 19 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/01/20240719-jutarnja-kronika-35487281-20240719053034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.07. 2024-07-18</title>
-    <link>https://api.hrt.hr/media/aa/d2/20240718-jutarnja-kronika-35484317-20240718055018.mp3</link>
-    <description>Sud Europske unije objavio da Europska komisija nije bila dovoljno transparentna u postupku nabave cjepiva protiv koronavirusa.Ministar financija Marko Primorac za jesen najavio rebalans proračuna. Zlatna Arena na Pulskom filmskom festivalu dodijeljena filmu "Proslava", a prema ocjeni publike najbolji "Sveta obitelj". Luka Modrić potpisao novi jednogodišnji ugovor s Real Madridom. Urednica: Mira Barić</description>
-    <pubDate>Thu, 18 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/aa/d2/20240718-jutarnja-kronika-35484317-20240718055018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
