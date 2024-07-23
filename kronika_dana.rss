@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 22 Jul 2024 21:05:26 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 20:39:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Uhićen muškarac za kojeg se sumnja da je podmetnuo požar kod Trogira. Večeras miran prosvjed pred dubrovačkim sudom protiv puštanja na slobodu Albanke koja je izazvala prometnu nesreću u kojoj su poginuli brat i sestra. Diljem svijeta još ima problema zbog jučerašnjega globalnog tehnološkog kolapsa!Urednica: Sanja Cota</description>
     <pubDate>Sat, 20 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3b/24/20240720-kronika-dana-35491930-20240720204040.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.07. 2024-07-19</title>
-    <link>https://api.hrt.hr/media/36/1b/20240719-kronika-dana-35489579-20240719203535.mp3</link>
-    <description>Popravljen je tehnološki kvar koji je izazvao kaos diljem svijeta, no stanje se još nije normaliziralo ,a štete će biti goleme. Zbog pojave afričke svinjske kuge u Hercegovini - uvedene zone ograničenja oko Imotskog. Ukrajinski predsjednik Zelenski izjavio da se ne boji moguće Trumpove pobjede na izborima, ali da Ukrajina neće pristati na njegovu ideju zaustavljanja rata. Vrijeme sutra - promjenjivo, u unutrašnjosti i na sjevernom Jadranu pljuskovi s grmljavinom. Najviša temperatura do 30, na jugu zemlje do 35 stupnjeva. Urednica: Sanja Cota.</description>
-    <pubDate>Fri, 19 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/36/1b/20240719-kronika-dana-35489579-20240719203535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
