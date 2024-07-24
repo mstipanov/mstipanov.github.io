@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 Jul 2024 21:09:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 20:43:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.07. 2024-07-24</title>
+    <link>https://api.hrt.hr/media/5b/15/20240724-kronika-dana-35503183-20240724204059.mp3</link>
+    <description>Masovnom ubojici iz Daruvara određen jednomjesečni istražni zatvor. Državnim dužnosnicima neto plaće rastu za oko 60 posto! Prosvjedi na ulicama Washingtona dok je u američkom Kongresu govorio izraelski premijer Netanyahu. Američki predsjednik Biden noćas će se obratiti naciji iz Bijele kuće i objasniti zašto je odustao od kandidature za drugi mandat. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 24 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5b/15/20240724-kronika-dana-35503183-20240724204059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.07. 2024-07-23</title>
     <link>https://api.hrt.hr/media/e5/7d/20240723-kronika-dana-35500019-20240723203556.mp3</link>
     <description>Ubojica iz Daruvara večeras doveden na ispitivanje, prijavljen za 11 kaznenih djela, među kojima i femicid. Albanka koja je kod Slanog izazvala nesreću u kojoj su poginuli brat i sestra - ipak ostaje u pritvoru. Splitsku zračnu luku napala hakerska skupina Akira. Američka potpredsjednica Kamala Harris, prema anketama, prvi je put u predsjedničkoj utrci u prednosti pred Donaldom Trumpom. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik SAD-a Joe Biden povukao se iz utrke za novi mandat. Nova eskalacija sukoba na Bliskom istoku, šestero poginulih u izraelskom napadu na ciljeve hutista u Jemenu. Ivan Rakitić uz spektakularan doček došao na Poljud - za Hajduk će igrati do kraja sljedeće sezone. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 21 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/be/cd/20240721-kronika-dana-35494110-20240721204044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.07. 2024-07-20</title>
-    <link>https://api.hrt.hr/media/3b/24/20240720-kronika-dana-35491930-20240720204040.mp3</link>
-    <description>Uhićen muškarac za kojeg se sumnja da je podmetnuo požar kod Trogira. Večeras miran prosvjed pred dubrovačkim sudom protiv puštanja na slobodu Albanke koja je izazvala prometnu nesreću u kojoj su poginuli brat i sestra. Diljem svijeta još ima problema zbog jučerašnjega globalnog tehnološkog kolapsa!Urednica: Sanja Cota</description>
-    <pubDate>Sat, 20 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3b/24/20240720-kronika-dana-35491930-20240720204040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
