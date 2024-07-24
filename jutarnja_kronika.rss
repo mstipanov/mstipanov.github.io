@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 23 Jul 2024 06:06:52 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 05:41:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.07. 2024-07-24</title>
+    <link>https://api.hrt.hr/media/68/2d/20240724-jutarnja-kronika-35500565-20240724053557.mp3</link>
+    <description>U Bjelovarsko-bilogorskoj županiji Dan žalosti nakon ubojstva šestero osoba u domu za starije i nemoćne. Ubojica iz Daruvara, koji je prijavljen za 11 kaznenih djela, izlazi pred suca istrage. Kamala Harris, prema anketama, preuzela vodstvo u predsjedničkoj utrci pred Donaldom Trumpom.U Gorskom kotaru počinje - CINEHILL-festival, na programu 98 filmova.djelomice sunčano, povremeno s kišom. Najviše temperature od 28 do 35 stupnjeva. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Wed, 24 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/68/2d/20240724-jutarnja-kronika-35500565-20240724053557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.07. 2024-07-23</title>
     <link>https://api.hrt.hr/media/9e/ed/20240723-jutarnja-kronika-35497527-20240723054555.mp3</link>
     <description>Šestero mrtvih u nezapamćenom zločinu u Daruvaru, počinitelj 51-godišnji umirovljeni vojni policajac, otprije poznat policiji.Nakon sinoćnjeg kolapsa u splitskoj zračnoj luci, stanje se normaliziralo. Prema izvorima iz demokratske stranke, Kamala Harris osigurala je potporu za nominaciju za predsjedničke izbore u studenom. Vrijeme danas - na Jadranu pretežno sunčano, u unutrašnjosti oblačnije, poslijepodne pljuskovi. Temperatura od 29 do 34 stupnja.</description>
@@ -31,14 +39,6 @@
     <description>U trećem smo srpanjskom vikendu, obilježavaju ga uobičajene prometne gužve zbog smjene turista. Uhićen muškarac za kojeg se sumnja da je podmetnuo požar kod Trogira. Izrael napao jemensku luku Hudaida, poginule tri osobe, 87 ranjeno. SPORT: Ivan Rakitić novi je igrač Hajduka! Urednik: Silvio Šop</description>
     <pubDate>Sun, 21 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/4a/20240721-jutarnja-kronika-35492456-20240721053542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.07. 2024-07-20</title>
-    <link>https://api.hrt.hr/media/05/3e/20240720-jutarnja-kronika-35490146-20240720053039.mp3</link>
-    <description>Popravljen je tehnološki kvar koji je izazvao kaos u svijetu, no trebat će nekoliko dana za povratak u normalu. Štete će biti goleme. Nevrijeme iz Slovenije stiglo do Zagreba. Telefonski razgovor Volodimira Zelenskog i Donalda Trumpa, koji je obećao da će pregovorima prekinuti rat Kijeva i Moskve. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 20 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/3e/20240720-jutarnja-kronika-35490146-20240720053039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
