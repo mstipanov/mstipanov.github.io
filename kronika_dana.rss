@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 Jul 2024 20:48:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 20:52:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Ubojica iz Daruvara večeras doveden na ispitivanje, prijavljen za 11 kaznenih djela, među kojima i femicid. Albanka koja je kod Slanog izazvala nesreću u kojoj su poginuli brat i sestra - ipak ostaje u pritvoru. Splitsku zračnu luku napala hakerska skupina Akira. Američka potpredsjednica Kamala Harris, prema anketama, prvi je put u predsjedničkoj utrci u prednosti pred Donaldom Trumpom. Urednik: Silvio Šop</description>
     <pubDate>Tue, 23 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e5/7d/20240723-kronika-dana-35500019-20240723203556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.07. 2024-07-22</title>
-    <link>https://api.hrt.hr/media/7e/ed/20240722-kronika-dana-35496947-20240722204053.mp3</link>
-    <description>Šestero mrtvih u nezapamćenom zločinu u Daruvaru! Počinitelj 51-godišnji umirovljeni vojni policajac, otprije poznat policiji! Nakon povlačenja Joea Bidena iz predsjedničke utrke, raste potpora Kamali Harris za kandidatkinju demokrata! Trenutačno u Hrvatskoj na odmoru milijun turista! Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Mon, 22 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7e/ed/20240722-kronika-dana-35496947-20240722204053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
