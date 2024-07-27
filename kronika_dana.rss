@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 26 Jul 2024 21:22:46 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 20:56:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.07. 2024-07-27</title>
+    <link>https://api.hrt.hr/media/b3/05/20240727-kronika-dana-35511370-20240727204032.mp3</link>
+    <description>Spektakularno otvorenje Olimpijskih igara u Parizu! U neizvjesnoj utakmici naši rukometaši pobijedili Japan golom u posljednjoj sekundi. Još jedan udarni turistički vikend, obilježavaju ga gužve na autocestama i u trajektnim lukama. Ministar turizma Tonči Glavina izjavio da su turistički podaci sjajni. Najmanje jedanaest osoba, većinom djece i mladih, poginulo na Golanskoj visoravni u selu pod nadzorom izraelske vojske, kada je na nogometno igralište pala raketa iz Libanona. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 27 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b3/05/20240727-kronika-dana-35511370-20240727204032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.07. 2024-07-26</title>
     <link>https://api.hrt.hr/media/b6/83/20240726-kronika-dana-35509038-20240726204024.mp3</link>
     <description>U tijeku spektakularna ceremonija otvorenja 33. Olimpijskih igara u Parizu. Podravka za 333 milijuna eura preuzima poljoprivredne tvrtke Fortenova grupe! Netanyahu posjet SAD-u završava sastankom s Trumpom. O stanju u Gazi raspravljalo Vijeće sigurnosti UN-a. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Masovnom ubojici iz Daruvara određen jednomjesečni istražni zatvor. Državnim dužnosnicima neto plaće rastu za oko 60 posto! Prosvjedi na ulicama Washingtona dok je u američkom Kongresu govorio izraelski premijer Netanyahu. Američki predsjednik Biden noćas će se obratiti naciji iz Bijele kuće i objasniti zašto je odustao od kandidature za drugi mandat. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 24 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5b/15/20240724-kronika-dana-35503183-20240724204059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.07. 2024-07-23</title>
-    <link>https://api.hrt.hr/media/e5/7d/20240723-kronika-dana-35500019-20240723203556.mp3</link>
-    <description>Ubojica iz Daruvara večeras doveden na ispitivanje, prijavljen za 11 kaznenih djela, među kojima i femicid. Albanka koja je kod Slanog izazvala nesreću u kojoj su poginuli brat i sestra - ipak ostaje u pritvoru. Splitsku zračnu luku napala hakerska skupina Akira. Američka potpredsjednica Kamala Harris, prema anketama, prvi je put u predsjedničkoj utrci u prednosti pred Donaldom Trumpom. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 23 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/7d/20240723-kronika-dana-35500019-20240723203556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
