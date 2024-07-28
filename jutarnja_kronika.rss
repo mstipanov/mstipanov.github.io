@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 27 Jul 2024 05:54:06 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 05:58:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.07. 2024-07-28</title>
+    <link>https://api.hrt.hr/media/60/50/20240728-jutarnja-kronika-35511908-20240728053537.mp3</link>
+    <description>Raste napetost između Libanona i Izraela nakon napada na grad na Golanskoj visoravni u kojem je poginulo 11 osoba, među njima i djeca. Od utorka pojeftinjuje gorivo. Slijedi drugo ovogodišnje usklađivanje mirovina - prosječno bi trebale rasti za 40 eura. Uspješan start hrvatskih sportaša na Olimpijskim igrama. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 28 Jul 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/60/50/20240728-jutarnja-kronika-35511908-20240728053537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.07. 2024-07-27</title>
     <link>https://api.hrt.hr/media/c2/d9/20240727-jutarnja-kronika-35509587-20240727053530.mp3</link>
     <description>Spektakularnom ceremonijom svečano su otvorene Olimpijske igre u Parizu. Podravka kupuje poljoprivredni dio Fortenova grupe - riječ je o najvećoj korporativnoj transakciji u Hrvatskoj. Drugi je udarni turistički vikend - već počele gužve na autocestama. Urednica je Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Masovnom ubojici iz Daruvara određen jednomjesečni istražni zatvor. Državnim dužnosnicima neto plaće rastu za oko 60 posto. Američki predsjednik Biden obratio se naciji iz Ovalnog ureda, prvi put od odustajanja od utrke za predsjednika i poručio da je Amerika na prekretnici. Posljednje pripreme za sutrašnje otvorenje Olimpijskih igara u Parizu, sigurnost na najvišoj razini. Urednica: Ana-Bella Leikauff</description>
     <pubDate>Thu, 25 Jul 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/cc/20240725-jutarnja-kronika-35503748-20240725054019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.07. 2024-07-24</title>
-    <link>https://api.hrt.hr/media/68/2d/20240724-jutarnja-kronika-35500565-20240724053557.mp3</link>
-    <description>U Bjelovarsko-bilogorskoj županiji Dan žalosti nakon ubojstva šestero osoba u domu za starije i nemoćne. Ubojica iz Daruvara, koji je prijavljen za 11 kaznenih djela, izlazi pred suca istrage. Kamala Harris, prema anketama, preuzela vodstvo u predsjedničkoj utrci pred Donaldom Trumpom.U Gorskom kotaru počinje - CINEHILL-festival, na programu 98 filmova.djelomice sunčano, povremeno s kišom. Najviše temperature od 28 do 35 stupnjeva. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 24 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/68/2d/20240724-jutarnja-kronika-35500565-20240724053557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
