@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 29 Jul 2024 21:04:21 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 20:38:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.07. 2024-07-30</title>
+    <link>https://api.hrt.hr/media/23/cc/20240730-kronika-dana-35518560-20240730203601.mp3</link>
+    <description>Požar u skradinskom zaleđu još nije pod nadzorom, izgorjelo oko 500 hektara niskog raslinja i borove šume. Širenje požara kod Zadra, koji je zahvatio i vojarnu u Zemuniku, zaustavljeno. Izrael raketirao Bejrut, objavio da je meta napada bio zapovjednik Hezbolaha. HDZ sutra objavljuje svojeg kandidata za predsjednika Republike, Domovinski pokret sazvao izvanredni izborni sabor. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 30 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/23/cc/20240730-kronika-dana-35518560-20240730203601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.07. 2024-07-29</title>
     <link>https://api.hrt.hr/media/b7/a7/20240729-kronika-dana-35515834-20240729204100.mp3</link>
     <description>Hrvatska osvojila prvu medalju u Parizu. Strijelac Miran Maričić osvojio broncu! U podne buknuo požar u trgovačkom centru u Šibeniku. Posjetitelji evakuirani. Napad nožem u Engleskoj. Dvoje djece ubijeno, a devetero ozlijeđeno u napadu nožem u Engleskoj. Napadač stariji maloljetnik.
@@ -32,14 +40,6 @@
     <description>Spektakularno otvorenje Olimpijskih igara u Parizu! U neizvjesnoj utakmici naši rukometaši pobijedili Japan golom u posljednjoj sekundi. Još jedan udarni turistički vikend, obilježavaju ga gužve na autocestama i u trajektnim lukama. Ministar turizma Tonči Glavina izjavio da su turistički podaci sjajni. Najmanje jedanaest osoba, većinom djece i mladih, poginulo na Golanskoj visoravni u selu pod nadzorom izraelske vojske, kada je na nogometno igralište pala raketa iz Libanona. Urednik: Silvio Šop</description>
     <pubDate>Sat, 27 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b3/05/20240727-kronika-dana-35511370-20240727204032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.07. 2024-07-26</title>
-    <link>https://api.hrt.hr/media/b6/83/20240726-kronika-dana-35509038-20240726204024.mp3</link>
-    <description>U tijeku spektakularna ceremonija otvorenja 33. Olimpijskih igara u Parizu. Podravka za 333 milijuna eura preuzima poljoprivredne tvrtke Fortenova grupe! Netanyahu posjet SAD-u završava sastankom s Trumpom. O stanju u Gazi raspravljalo Vijeće sigurnosti UN-a. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Fri, 26 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b6/83/20240726-kronika-dana-35509038-20240726204024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
