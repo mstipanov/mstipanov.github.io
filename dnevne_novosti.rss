@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 29 Jul 2024 14:03:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 13:37:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Spektakularan početak Olimpijskih igara u Parizu, hrvatski sportaši već na borilištima. Još jedan udarni turistički vikend, gužve na autocestama i u trajektnim lukama. Na Dubrovačkim ljetnim igrama večeras Ekvinocijo. Glavne zvijezde Zrinka Cvitešić i Goran Višnjić. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 27 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/27/20240727-dnevne-novosti-35510541-20240727134032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.07. 2024-07-26</title>
-    <link>https://api.hrt.hr/media/50/64/20240726-dnevne-novosti-35508147-20240726134525.mp3</link>
-    <description>Večeras u Parizu spektakularno otvorenje Olimpijskih igara. U Francuskoj mjere sigurnosti na najvišoj razini, no dogodio se prvi izgred - meta napada francuska željeznička mreža. U podne prekinut rad CEZIH-a. Uputnice i recepti za lijekove samo u papirnatom obliku. Jadrolinija se oglasila o neugodnom i opasnom kvaru trajekta Oliver koji je s 300 putnika plutao na moru 6 sati. Otkazao sustav hlađenja motora. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 26 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/50/64/20240726-dnevne-novosti-35508147-20240726134525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
