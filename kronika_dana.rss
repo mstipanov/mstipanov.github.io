@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Jul 2024 20:38:12 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 20:43:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@
     <description>Nevrijeme iz Slovenije pogodilo dijelove Hrvatske. U Ogulinu obilna kiša, vjetar i led veličine lješnjaka. Crni vikend na cestama odnio dva mlada života. SAD okrivio Hezbolah za napad na Golansku visoravan. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 28 Jul 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2b/b4/20240728-kronika-dana-35513412-20240728204042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.07. 2024-07-27</title>
-    <link>https://api.hrt.hr/media/b3/05/20240727-kronika-dana-35511370-20240727204032.mp3</link>
-    <description>Spektakularno otvorenje Olimpijskih igara u Parizu! U neizvjesnoj utakmici naši rukometaši pobijedili Japan golom u posljednjoj sekundi. Još jedan udarni turistički vikend, obilježavaju ga gužve na autocestama i u trajektnim lukama. Ministar turizma Tonči Glavina izjavio da su turistički podaci sjajni. Najmanje jedanaest osoba, većinom djece i mladih, poginulo na Golanskoj visoravni u selu pod nadzorom izraelske vojske, kada je na nogometno igralište pala raketa iz Libanona. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 27 Jul 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b3/05/20240727-kronika-dana-35511370-20240727204032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
