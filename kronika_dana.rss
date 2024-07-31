@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 31 Jul 2024 20:43:33 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 21:14:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.07. 2024-07-31</title>
+    <link>https://api.hrt.hr/media/1d/ad/20240731-kronika-dana-35521504-20240731204508.mp3</link>
+    <description>Hrvatska ima prvu zlatnu medalju na Olimpijskim igrama u Parizu. Judašica Barbara Matić osvojila je zlatnu medalju u kategoriji do 70 kilograma. se ponovno aktivirali požari u skradinskom zaleđu i kod Tučepa. Vatrogasci čine sve kako bi obranili kuće. HDZ podupire Dragana Primorca za predsjedničkog kandidata. Predsjednik i vrhovni zapovjednik Oružanih snaga otkazao vojnu vježbu HRM-a koja se trebala izvesti uoči Dana pobjede. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 31 Jul 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/ad/20240731-kronika-dana-35521504-20240731204508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.07. 2024-07-30</title>
     <link>https://api.hrt.hr/media/23/cc/20240730-kronika-dana-35518560-20240730203601.mp3</link>
     <description>Požar u skradinskom zaleđu još nije pod nadzorom, izgorjelo oko 500 hektara niskog raslinja i borove šume. Širenje požara kod Zadra, koji je zahvatio i vojarnu u Zemuniku, zaustavljeno. Izrael raketirao Bejrut, objavio da je meta napada bio zapovjednik Hezbolaha. HDZ sutra objavljuje svojeg kandidata za predsjednika Republike, Domovinski pokret sazvao izvanredni izborni sabor. Urednik: Silvio Šop</description>
