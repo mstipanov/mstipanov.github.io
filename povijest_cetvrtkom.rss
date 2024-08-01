@@ -6,10 +6,20 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 25 Jul 2024 12:16:40 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 12:16:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.webp</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Severi 2024-08-01</title>
+    <link>https://api.hrt.hr/media/46/df/20240801-povijest-cetvrtkom-35443977-20240710085048.mp3</link>
+    <description>Ljeti se u Povijesti četvrtkom prisjećamo sugovornika koji više nisu s nama. U prosincu 2022. Umro je profesor doktor Marin Zaninović.
+
+Taj doajen hrvatske arheologije i vrsni popularizator povijesti bio nam je sugovornik u emisiji o Severima, dinastiji vladara Rima koju je utemeljio prvi rimski car podrijetlom iz Afrike.</description>
+    <pubDate>Thu, 01 Aug 2024 11:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/46/df/20240801-povijest-cetvrtkom-35443977-20240710085048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Otmice zrakoplova 2024-07-25</title>
     <link>https://api.hrt.hr/media/44/22/20240725-povijest-cetvrtkom-35424240-20240703103105.mp3</link>
     <description>Ljeti se u Povijesti četvrtkom prisjećamo sugovornika koji više nisu s nama. U svibnju 2015. preminuo je vojni i obavještajni analitičar Fran Višnar.
@@ -85,14 +95,6 @@ Taj vrsni poznavatelj svijeta terorizma bio nam je sugovornik u emisiji o otmica
     <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
     <pubDate>Thu, 30 May 2024 11:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3b/4b/20240530-povijest-cetvrtkom-35321943-20240529120014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Portugal na istoku, I. dio 2024-05-23</title>
-    <link>https://api.hrt.hr/media/93/dd/20240523-povijest-cetvrtkom-35300355-20240522123528.mp3</link>
-    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
-    <pubDate>Thu, 23 May 2024 11:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/dd/20240523-povijest-cetvrtkom-35300355-20240522123528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
