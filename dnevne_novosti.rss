@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 Aug 2024 13:46:56 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 13:50:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.08. 2024-08-02</title>
+    <link>https://api.hrt.hr/media/ea/3a/20240802-dnevne-novosti-35526276-20240802134015.mp3</link>
+    <description>Hrvatski veslači Martin i Valent Sinković osvojili su zlato u dvojcu bez kormilara na Olimpijskim igrama u Parizu. I četvrti dan nastavlja se borba s vatrom na požarištima u Dalmaciji. Stanje je danas ipak malo bolje.	Opet problemi s CEZIH-om, centralnim zdravstvenim informacijskim sustavom za lijekove i uputnice. Nakon što je bilo poteškoća tijekom tjedna, jutros ponovno nije radio. Urednica: Mira Barić</description>
+    <pubDate>Fri, 02 Aug 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/3a/20240802-dnevne-novosti-35526276-20240802134015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.08. 2024-08-01</title>
     <link>https://api.hrt.hr/media/50/16/20240801-dnevne-novosti-35523662-20240801134010.mp3</link>
     <description>Još nisu ugašena dva velika požara u Splitsko-dalmatinskoj županiji, u Tučepima i u Vrsinama kod Trogira. I dalje je aktivan i požar na području Skradin - Ićevo.Vlada povisila plaće vatrogascima. Izraelska vojska objavila da je još sredinom prošlog mjeseca ubijen vojni zapovjednik Hamasa Mohamed Deif. Dan je ekološkog duga - iskoristili smo sve prirodne resurse koje naš planet može obnoviti u jednoj godini. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 30 Jul 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/71/c2/20240730-dnevne-novosti-35517686-20240730140115.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.07. 2024-07-29</title>
-    <link>https://api.hrt.hr/media/79/0e/20240729-dnevne-novosti-35514983-20240729134043.mp3</link>
-    <description>Hrvatska osvojila prvu medalju u Parizu. Strijelac Miran Maričić osvojio broncu! CEZIH ponovno radi. Novi napad na francusku infrastrukturu, uništen dio telekomunikacijskih linija. "Trag u beskraju" večeras u Veloj Luci. Šest godina bez Olivera Dragojevića. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 29 Jul 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/0e/20240729-dnevne-novosti-35514983-20240729134043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
