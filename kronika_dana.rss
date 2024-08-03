@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 03 Aug 2024 20:34:21 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 21:04:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.08. 2024-08-03</title>
+    <link>https://api.hrt.hr/media/05/1c/20240803-kronika-dana-35529570-20240803204517.mp3</link>
+    <description>Donna Vekić osvojila srebro u prvom pojedinačnom olimpijskom finalu za hrvatski tenis. Početak produljenog vikenda obilježile gužve na cestama. Požari u Dalmaciji napokon su pod nadzorom - utvrđuje se šteta. Napetost na Bliskom istoku na vrhuncu. SAD i Velika Britanija pozvali su svoje državljane da odmah napuste Libanon. Uoči sutrašnje Sinjske alke, Mihovil Župa pobjednik Čoje. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 03 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/05/1c/20240803-kronika-dana-35529570-20240803204517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.08. 2024-08-02</title>
     <link>https://api.hrt.hr/media/19/af/20240802-kronika-dana-35527104-20240802204013.mp3</link>
     <description>Još jedna zlatna medalja za Hrvatsku na Olimpijskim igrama u Parizu. Braća Sinković osvojila zlato u dvojcu bez kormilara. U povodu Dana pobjede i dana domovinske zahvalnosti predsjednik Milanović priredio na Pantovčaku svečano primanje. Stanje na požarima zahvaćenom području u Dalmaciji malo povoljnije. Urednik: Grgo Mrvica</description>
