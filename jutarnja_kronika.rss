@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 03 Aug 2024 05:54:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 05:35:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Još traje borba vatrogasaca u Tučepima, Podgori i Skradinu - kuće nisu ugrožene.Judašica Barbara Matić osvojila za Hrvatsku prvu zlatnu medalju na Olimpijskim igrama u Parizu. Za medalju će se boriti i tenisačica Donna Vekić. Iran prijeti da će se osvetiti Izraelu.Vrijeme će biti vruće i vrlo vruće, poslijepodne ne posvuda stabilno. Temperature do 37 stupnjeva. : Mario Krstanović</description>
     <pubDate>Thu, 01 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/93/20240801-jutarnja-kronika-35522123-20240801054007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 31.07. 2024-07-31</title>
-    <link>https://api.hrt.hr/media/c5/07/20240731-jutarnja-kronika-35519199-20240731062012.mp3</link>
-    <description>Bukte požari kod Tučepa i kod Skradina. U Teheranu ubijen čelnik Hamasa Ismail Hanije. Izrael napao Bejrut.HDZ danas objavljuje ime svojeg predsjedničkog kandidata.Urednica: Ana-Bella Leikauff</description>
-    <pubDate>Wed, 31 Jul 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/07/20240731-jutarnja-kronika-35519199-20240731062012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
