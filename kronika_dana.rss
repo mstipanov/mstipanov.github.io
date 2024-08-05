@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 04 Aug 2024 20:45:20 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 20:49:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.08. 2024-08-05</title>
+    <link>https://api.hrt.hr/media/93/71/20240805-kronika-dana-35534185-20240805204035.mp3</link>
+    <description>Hrvatska slavi Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 29.-tu obljetnicu Oluje. Središnja svečanost održana u Kninu.Sandra Elkasević osvojila brončanu medalju u bacanju diska na Olimpijadi u Parizu.Sve više zemalja, među kojima i Hrvatska, pozvalo svoje građane da napuste Libanon.
+Urednica Mira Barić</description>
+    <pubDate>Mon, 05 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/93/71/20240805-kronika-dana-35534185-20240805204035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.08. 2024-08-04</title>
     <link>https://api.hrt.hr/media/d2/15/20240804-kronika-dana-35531789-20240804204037.mp3</link>
     <description>U Kninu posljednje pripreme za sutrašnju proslavu 29-e obljetnice Oluje i Dana pobjede. Jure Domazet Lošo slavodobitnik 309-te Sinjske alke. U Sinju se okupio državni vrh.Nastavljeni desničarski prosvjedi u Velikoj Britaniji - gomila pokušala provaliti u hotel za azilante.U Splitu slavlje zlatne olimpijke Barbare Matić. Srebrna Donna Vekić dočekana u zagrebačkoj zračnoj luci. Urednica: Sanja Rabuzin</description>
@@ -31,14 +40,6 @@
     <description>Još jedna zlatna medalja za Hrvatsku na Olimpijskim igrama u Parizu. Braća Sinković osvojila zlato u dvojcu bez kormilara. U povodu Dana pobjede i dana domovinske zahvalnosti predsjednik Milanović priredio na Pantovčaku svečano primanje. Stanje na požarima zahvaćenom području u Dalmaciji malo povoljnije. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 02 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/19/af/20240802-kronika-dana-35527104-20240802204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.08. 2024-08-01</title>
-    <link>https://api.hrt.hr/media/34/cf/20240801-kronika-dana-35524618-20240801204011.mp3</link>
-    <description>I dalje gore tri velika požara u Dalmaciji - u Tučepima, kod Trogira i na skradinskom području. Nekoliko se manjih na području Tučepa spojilo u jedan veliki. Zbog preniskih otkupnih cijena podravski proizvođači u Virovitici podijelili tone povrća.Prema dogovoru koji je postigla Bidenova administracija, obavljena najveća razmjena zarobljenika od kraja hladnog rata između Rusije i Zapada. Urednica: Mira Barić</description>
-    <pubDate>Thu, 01 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/cf/20240801-kronika-dana-35524618-20240801204011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
