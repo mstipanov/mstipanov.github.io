@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 04 Aug 2024 06:05:50 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 05:46:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.08. 2024-08-05</title>
+    <link>https://api.hrt.hr/media/6c/bb/20240805-jutarnja-kronika-35532388-20240805054039.mp3</link>
+    <description>Na današnji dan prije 29 godina oslobođen Knin. Središnja proslava Dana pobjede i domovinske zahvalnosti na stadionu Nogometnog kluba Dinara počinje u 9 sati i 40 minuta. Na jugu Engleske prosvjednici nakon ubojstva triju djevojčica napali hotel s migrantima. Britanski premijer najavio uhićenja. Alkar Jure Domazet Lošo pobjednik je 309. Sinjske alke. Urednik Mislav Togonal</description>
+    <pubDate>Mon, 05 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6c/bb/20240805-jutarnja-kronika-35532388-20240805054039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.08. 2024-08-04</title>
     <link>https://api.hrt.hr/media/7a/53/20240804-jutarnja-kronika-35530191-20240804054035.mp3</link>
     <description>Donna Vekić osvojila srebro u prvom pojedinačnom olimpijskom finalu za hrvatski tenis. Noćas iz Libanona ispaljeno 50 raketa prema Izrelu, aktivirao se obrambeni sustav Željezna kupola. Poslijepodne se održava 309. Sinjska alka. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>U požarima koji su poharali Dalmaciju izgorjela površina gotovo 2 i pol tisuće nogometnih igrališta. Obavljena najveća razmjena zatvorenika između Zapada i Rusije od hladnog rata. U Hrvatsku se večeras vraća brončani olimpijac Miran Maričić. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Fri, 02 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fa/2d/20240802-jutarnja-kronika-35525227-20240802054511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.08. 2024-08-01</title>
-    <link>https://api.hrt.hr/media/c8/93/20240801-jutarnja-kronika-35522123-20240801054007.mp3</link>
-    <description>Još traje borba vatrogasaca u Tučepima, Podgori i Skradinu - kuće nisu ugrožene.Judašica Barbara Matić osvojila za Hrvatsku prvu zlatnu medalju na Olimpijskim igrama u Parizu. Za medalju će se boriti i tenisačica Donna Vekić. Iran prijeti da će se osvetiti Izraelu.Vrijeme će biti vruće i vrlo vruće, poslijepodne ne posvuda stabilno. Temperature do 37 stupnjeva. : Mario Krstanović</description>
-    <pubDate>Thu, 01 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c8/93/20240801-jutarnja-kronika-35522123-20240801054007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
