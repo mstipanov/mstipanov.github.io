@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 Aug 2024 05:46:43 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 05:50:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.08. 2024-08-06</title>
+    <link>https://api.hrt.hr/media/2a/d3/20240806-jutarnja-kronika-35534731-20240806053544.mp3</link>
+    <description>Sandra Elkasević osvojila brončanu medalju u bacanju diska na Olimpijskim igrama u Parizu. Hrvatska jučer proslavila Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 29-tu obljetnicu Oluje. Glavna svečanost održana je u Kninu. Sve više zemalja, među kojima i Hrvatska, pozvalo svoje građane da napuste Libanon. Napadnuta američka vojna baza u Iraku, najmanje petero ranjeno. Urednik Silvio Šop</description>
+    <pubDate>Tue, 06 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2a/d3/20240806-jutarnja-kronika-35534731-20240806053544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.08. 2024-08-05</title>
     <link>https://api.hrt.hr/media/6c/bb/20240805-jutarnja-kronika-35532388-20240805054039.mp3</link>
     <description>Na današnji dan prije 29 godina oslobođen Knin. Središnja proslava Dana pobjede i domovinske zahvalnosti na stadionu Nogometnog kluba Dinara počinje u 9 sati i 40 minuta. Na jugu Engleske prosvjednici nakon ubojstva triju djevojčica napali hotel s migrantima. Britanski premijer najavio uhićenja. Alkar Jure Domazet Lošo pobjednik je 309. Sinjske alke. Urednik Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Donna Vekić protiv Kineskinje Qinwen Zheng poslijepodne igra finalni meč teniskog turnira na Olimpijskim igrama u Parizu.Vatrogasci, nakon četiri dana borbe s vatrom, stavili pod nadzor požare u Dalmaciji. JANAF odbacio optužbe Mađarske da je Hrvatska nepouzdan partner za tranzit nafte.Urednica Mira Barić</description>
     <pubDate>Sat, 03 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f9/3d/20240803-jutarnja-kronika-35527699-20240803053512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.08. 2024-08-02</title>
-    <link>https://api.hrt.hr/media/fa/2d/20240802-jutarnja-kronika-35525227-20240802054511.mp3</link>
-    <description>U požarima koji su poharali Dalmaciju izgorjela površina gotovo 2 i pol tisuće nogometnih igrališta. Obavljena najveća razmjena zatvorenika između Zapada i Rusije od hladnog rata. U Hrvatsku se večeras vraća brončani olimpijac Miran Maričić. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Fri, 02 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fa/2d/20240802-jutarnja-kronika-35525227-20240802054511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
