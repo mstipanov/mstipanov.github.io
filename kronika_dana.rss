@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 Aug 2024 20:49:03 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 20:52:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.08. 2024-08-06</title>
+    <link>https://api.hrt.hr/media/08/94/20240806-kronika-dana-35536639-20240806204047.mp3</link>
+    <description>Požar u Šibeniku pod nadzorom je vatrogasaca. Iz Pariza se večeras vratila zlatna braća - Martin i Valent Sinković, sutra na Trgu bana Jelačića doček za naše olimpijce, osvajače medalja. Više od 20 tisuća ljudi večeras na koncertu "Imotski - Ne zaboravi". Urednica: Sanja Cota.</description>
+    <pubDate>Tue, 06 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/94/20240806-kronika-dana-35536639-20240806204047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.08. 2024-08-05</title>
     <link>https://api.hrt.hr/media/93/71/20240805-kronika-dana-35534185-20240805204035.mp3</link>
     <description>Hrvatska slavi Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 29.-tu obljetnicu Oluje. Središnja svečanost održana u Kninu.Sandra Elkasević osvojila brončanu medalju u bacanju diska na Olimpijadi u Parizu.Sve više zemalja, među kojima i Hrvatska, pozvalo svoje građane da napuste Libanon.
@@ -32,14 +40,6 @@ Urednica Mira Barić</description>
     <description>Donna Vekić osvojila srebro u prvom pojedinačnom olimpijskom finalu za hrvatski tenis. Početak produljenog vikenda obilježile gužve na cestama. Požari u Dalmaciji napokon su pod nadzorom - utvrđuje se šteta. Napetost na Bliskom istoku na vrhuncu. SAD i Velika Britanija pozvali su svoje državljane da odmah napuste Libanon. Uoči sutrašnje Sinjske alke, Mihovil Župa pobjednik Čoje. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 03 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/05/1c/20240803-kronika-dana-35529570-20240803204517.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.08. 2024-08-02</title>
-    <link>https://api.hrt.hr/media/19/af/20240802-kronika-dana-35527104-20240802204013.mp3</link>
-    <description>Još jedna zlatna medalja za Hrvatsku na Olimpijskim igrama u Parizu. Braća Sinković osvojila zlato u dvojcu bez kormilara. U povodu Dana pobjede i dana domovinske zahvalnosti predsjednik Milanović priredio na Pantovčaku svečano primanje. Stanje na požarima zahvaćenom području u Dalmaciji malo povoljnije. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 02 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/19/af/20240802-kronika-dana-35527104-20240802204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
