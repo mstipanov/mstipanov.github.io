@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Aug 2024 20:52:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 20:56:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.08. 2024-08-07</title>
+    <link>https://api.hrt.hr/media/2c/b0/20240807-kronika-dana-35539287-20240807204103.mp3</link>
+    <description>Tekvondoašica Lena Stojković brončana na Olimpijskim igrama u Parizu. Požar odlagališta plastike u osječkoj tvrtki Drava Internacional je ugašen. Predsjednik Zoran Milanović i pučka pravobraniteljica osudili pjevanje ustaških pjesama sinoć u Imotskom. Washington tvrdi da postizanje sporazuma o oslobađanju talaca i prekidu vatre u Gazi nikad nije bilo bliže. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 07 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/b0/20240807-kronika-dana-35539287-20240807204103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.08. 2024-08-06</title>
     <link>https://api.hrt.hr/media/08/94/20240806-kronika-dana-35536639-20240806204047.mp3</link>
     <description>Požar u Šibeniku pod nadzorom je vatrogasaca. Iz Pariza se večeras vratila zlatna braća - Martin i Valent Sinković, sutra na Trgu bana Jelačića doček za naše olimpijce, osvajače medalja. Više od 20 tisuća ljudi večeras na koncertu "Imotski - Ne zaboravi". Urednica: Sanja Cota.</description>
@@ -32,14 +40,6 @@ Urednica Mira Barić</description>
     <description>U Kninu posljednje pripreme za sutrašnju proslavu 29-e obljetnice Oluje i Dana pobjede. Jure Domazet Lošo slavodobitnik 309-te Sinjske alke. U Sinju se okupio državni vrh.Nastavljeni desničarski prosvjedi u Velikoj Britaniji - gomila pokušala provaliti u hotel za azilante.U Splitu slavlje zlatne olimpijke Barbare Matić. Srebrna Donna Vekić dočekana u zagrebačkoj zračnoj luci. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 04 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/15/20240804-kronika-dana-35531789-20240804204037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.08. 2024-08-03</title>
-    <link>https://api.hrt.hr/media/05/1c/20240803-kronika-dana-35529570-20240803204517.mp3</link>
-    <description>Donna Vekić osvojila srebro u prvom pojedinačnom olimpijskom finalu za hrvatski tenis. Početak produljenog vikenda obilježile gužve na cestama. Požari u Dalmaciji napokon su pod nadzorom - utvrđuje se šteta. Napetost na Bliskom istoku na vrhuncu. SAD i Velika Britanija pozvali su svoje državljane da odmah napuste Libanon. Uoči sutrašnje Sinjske alke, Mihovil Župa pobjednik Čoje. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 03 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/1c/20240803-kronika-dana-35529570-20240803204517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
