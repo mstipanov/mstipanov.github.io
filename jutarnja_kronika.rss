@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Aug 2024 05:50:27 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 05:54:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.08. 2024-08-07</title>
+    <link>https://api.hrt.hr/media/85/26/20240807-jutarnja-kronika-35537222-20240807053548.mp3</link>
+    <description>Sinoć buknula dva nova požara - požar borove šume u Hreljinu iznad Bakra i požar odlagališta otpada na otoku Visu. Oba su pod kontrolom gasitelja. Hrvatsku je u srpnju posjetilo oko 4 i pol milijuna gostiju, što je 3 posto manje nego u istom mjesecu lani. Doček hrvatskih olimpijaca na glavnom zagrebačkom trgu danas u 16 i 30. Urednik: Mislav Togonal</description>
+    <pubDate>Wed, 07 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/85/26/20240807-jutarnja-kronika-35537222-20240807053548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.08. 2024-08-06</title>
     <link>https://api.hrt.hr/media/2a/d3/20240806-jutarnja-kronika-35534731-20240806053544.mp3</link>
     <description>Sandra Elkasević osvojila brončanu medalju u bacanju diska na Olimpijskim igrama u Parizu. Hrvatska jučer proslavila Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 29-tu obljetnicu Oluje. Glavna svečanost održana je u Kninu. Sve više zemalja, među kojima i Hrvatska, pozvalo svoje građane da napuste Libanon. Napadnuta američka vojna baza u Iraku, najmanje petero ranjeno. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Donna Vekić osvojila srebro u prvom pojedinačnom olimpijskom finalu za hrvatski tenis. Noćas iz Libanona ispaljeno 50 raketa prema Izrelu, aktivirao se obrambeni sustav Željezna kupola. Poslijepodne se održava 309. Sinjska alka. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 04 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7a/53/20240804-jutarnja-kronika-35530191-20240804054035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.08. 2024-08-03</title>
-    <link>https://api.hrt.hr/media/f9/3d/20240803-jutarnja-kronika-35527699-20240803053512.mp3</link>
-    <description>Donna Vekić protiv Kineskinje Qinwen Zheng poslijepodne igra finalni meč teniskog turnira na Olimpijskim igrama u Parizu.Vatrogasci, nakon četiri dana borbe s vatrom, stavili pod nadzor požare u Dalmaciji. JANAF odbacio optužbe Mađarske da je Hrvatska nepouzdan partner za tranzit nafte.Urednica Mira Barić</description>
-    <pubDate>Sat, 03 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f9/3d/20240803-jutarnja-kronika-35527699-20240803053512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
