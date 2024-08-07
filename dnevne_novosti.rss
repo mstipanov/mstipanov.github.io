@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 06 Aug 2024 13:51:43 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 14:25:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.08. 2024-08-07</title>
+    <link>https://api.hrt.hr/media/0b/25/20240807-dnevne-novosti-35538326-20240807134553.mp3</link>
+    <description>Prosvjedovali zdravstveni djelatnici na Krku, nema ih dovoljno za brigu o stanovnicima i mnogobrojnim turistima na otoku. Nekoliko požara na obali pod nadzorom vatrogasaca. Zagreb dočekuje hrvatske olimpijce, svečanost na Trgu bana Jelačića. Uredila Sanja Cota</description>
+    <pubDate>Wed, 07 Aug 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0b/25/20240807-dnevne-novosti-35538326-20240807134553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.08. 2024-08-06</title>
     <link>https://api.hrt.hr/media/7a/63/20240806-dnevne-novosti-35535787-20240806133547.mp3</link>
     <description>Požar blizu Šibenika pod nadzorm vatrogasaca, i dalje zatvorena Jadranska magistrala.Na sastanku s premijerom Plenkovićem u Makarskoj vatrogasci upozorili na premale plaće i nedostatak opreme. Izraelska vlada pozvala stanovništvo na sjeveru zemlje da se opskrbi potrepštinama za barem tjedan dana. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Diljem Hrvatske počelo obilježavanje Dana pobjede, u Kninu posljednje pripreme za sutrašnju proslavu 29-e obljetnice Oluje. Val protuislamističkih prosvjeda u nekoliko gradova Velike Britanije - uhićeno više od 90 osoba, a nekoliko policajaca ozlijeđeno. Nakon Bare i Čoje, u Sinju poslijepodne 309-a Alka - naša najpoznatija viteška igra koja slavi herojsku obranu od Turaka. Urednica: Mira Barić</description>
     <pubDate>Sun, 04 Aug 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f0/d1/20240804-dnevne-novosti-35530968-20240804134038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.08. 2024-08-03</title>
-    <link>https://api.hrt.hr/media/3b/aa/20240803-dnevne-novosti-35528706-20240803133514.mp3</link>
-    <description>Dona Vekić u 16 sati u finalu olimpijskog teniskog turnira protiv Kineskinje Đen. Prvi kolovoški vikend, gužve na cestama te trajektnim i zračnim lukama. Nevrijeme sinoć zahvatilo sjeverozapad zemlje. Požari u Dalmaciji napokon su pod nadzorom. Sjedinjene Države šalju dodatne ratne brodove i zrakoplove na Bliski istok zbog mogućeg iranskog napada na Izrael. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 03 Aug 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3b/aa/20240803-dnevne-novosti-35528706-20240803133514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
