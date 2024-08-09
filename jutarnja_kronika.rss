@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 Aug 2024 06:00:13 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 06:07:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.08. 2024-08-09</title>
+    <link>https://api.hrt.hr/media/0d/fa/20240809-jutarnja-kronika-35542594-20240809053012.mp3</link>
+    <description>Austrija razbila ćeliju terorista tzv. Islamske države koji su planirali napad na koncertu Taylor Swift. Istraga se nastavlja. Rusija potvrdila da se vode teške borbe s ukrajinskim snagama koje su ušle u regiju Kursk. Hrana u Hrvatskoj skuplja je 22 posto od prosjeka Europske unije. SPORT: Na Olimpijskim igrama u Parizu hrvatski vaterpolisti za plasman u finale večeras igraju protiv Mađarske. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 09 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/fa/20240809-jutarnja-kronika-35542594-20240809053012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.08. 2024-08-08</title>
     <link>https://api.hrt.hr/media/70/3b/20240808-jutarnja-kronika-35539833-20240808053504.mp3</link>
     <description>Nova hrvatska medalja na Olimpijskim igrama. Lena Stojković brončana u taekwondou. Nevrijeme zahvatilo dijelove Hrvatske. Narančasto upozorenje na snazi za riječku i splitsku regiju. Nakon novog požara u tvornici za reciklažu plastike u Osijeku, jutros na teren izlaze istražitelji. Domovinski pokret neće poduprijeti Dragana Primorca ako HDZ za njegovu predsjedničku kandidaturu zatraži potporu SDSS-a. U Beču otkazani koncerti Taylor Swift zbog mogućeg terorističkog napada. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Sandra Elkasević osvojila brončanu medalju u bacanju diska na Olimpijskim igrama u Parizu. Hrvatska jučer proslavila Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 29-tu obljetnicu Oluje. Glavna svečanost održana je u Kninu. Sve više zemalja, među kojima i Hrvatska, pozvalo svoje građane da napuste Libanon. Napadnuta američka vojna baza u Iraku, najmanje petero ranjeno. Urednik Silvio Šop</description>
     <pubDate>Tue, 06 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2a/d3/20240806-jutarnja-kronika-35534731-20240806053544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.08. 2024-08-05</title>
-    <link>https://api.hrt.hr/media/6c/bb/20240805-jutarnja-kronika-35532388-20240805054039.mp3</link>
-    <description>Na današnji dan prije 29 godina oslobođen Knin. Središnja proslava Dana pobjede i domovinske zahvalnosti na stadionu Nogometnog kluba Dinara počinje u 9 sati i 40 minuta. Na jugu Engleske prosvjednici nakon ubojstva triju djevojčica napali hotel s migrantima. Britanski premijer najavio uhićenja. Alkar Jure Domazet Lošo pobjednik je 309. Sinjske alke. Urednik Mislav Togonal</description>
-    <pubDate>Mon, 05 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/bb/20240805-jutarnja-kronika-35532388-20240805054039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
