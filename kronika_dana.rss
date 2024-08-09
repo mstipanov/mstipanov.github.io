@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 Aug 2024 20:36:15 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 21:10:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.08. 2024-08-09</title>
+    <link>https://api.hrt.hr/media/d0/f9/20240809-kronika-dana-35544429-20240809204015.mp3</link>
+    <description>Hrvatski vaterpolisti u olimpijskom finalu - za zlato u nedjelju igraju protiv Srbije. Ukrajinci napreduju u Kurskoj regiji, u znak osvete Rusi raketirali supermarket u Ukrajini. U Brazilu se srušio putnički zrakoplov sa 62 osobe. Uoči sutrašnjeg koncerta Eda Sheerana na zagrebačkom Hipodromu - od večeras posebna regulacija prometa. Urednica: Sanja Rabuzin</description>
+    <pubDate>Fri, 09 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/f9/20240809-kronika-dana-35544429-20240809204015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.08. 2024-08-08</title>
     <link>https://api.hrt.hr/media/61/bb/20240808-kronika-dana-35541952-20240808203509.mp3</link>
     <description>Austrija razbila ćeliju terorista tzv. Islamske države koji su planirali napad na koncertu Taylor Swift. Rusija potvrdila da se vode teške borbe s ukrajinskim snagama koje su ušle u rusku regiju Kursk.Privremeno prekinuta gradnja hidroelektrane na izvoru UNE.Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>Požar u Šibeniku pod nadzorom je vatrogasaca. Iz Pariza se večeras vratila zlatna braća - Martin i Valent Sinković, sutra na Trgu bana Jelačića doček za naše olimpijce, osvajače medalja. Više od 20 tisuća ljudi večeras na koncertu "Imotski - Ne zaboravi". Urednica: Sanja Cota.</description>
     <pubDate>Tue, 06 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/08/94/20240806-kronika-dana-35536639-20240806204047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.08. 2024-08-05</title>
-    <link>https://api.hrt.hr/media/93/71/20240805-kronika-dana-35534185-20240805204035.mp3</link>
-    <description>Hrvatska slavi Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 29.-tu obljetnicu Oluje. Središnja svečanost održana u Kninu.Sandra Elkasević osvojila brončanu medalju u bacanju diska na Olimpijadi u Parizu.Sve više zemalja, među kojima i Hrvatska, pozvalo svoje građane da napuste Libanon.
-Urednica Mira Barić</description>
-    <pubDate>Mon, 05 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/71/20240805-kronika-dana-35534185-20240805204035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
