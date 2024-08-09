@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 Aug 2024 14:03:45 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 13:39:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.08. 2024-08-09</title>
+    <link>https://api.hrt.hr/media/e0/38/20240809-dnevne-novosti-35543678-20240809133511.mp3</link>
+    <description>Ukrajinci napreduju u Kurskoj regiji, u znak osvete Rusi raketirali supermarket u Ukrajini. Traje potraga u Jadranskom moru za putnikom koji je pao s kruzera.Uoči sutrašnjeg koncerta Eda Sheerana na zagrebačkom hipodromu - pojačane mjere sigurnosti, te od večeras posebna regulacija prometa. Urednica: Mira Barić.</description>
+    <pubDate>Fri, 09 Aug 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e0/38/20240809-dnevne-novosti-35543678-20240809133511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.08. 2024-08-08</title>
     <link>https://api.hrt.hr/media/45/55/20240808-dnevne-novosti-35541047-20240808134007.mp3</link>
     <description>Više je uhićenih pod sumnjom da su planirali napad na koncert Taylor Swift u Beču. Sva su tri nastupa otkazana. Prekinuti radovi na gradnji privatne hidrocentrale na rijeci Uni. Na Hvaru buknula tri požara, gori i na Kornatu, ugašen požar na brdu iznad Žrnovnice. U Šibeniku večeras počinje Prvi hrvatski međunarodni filmski festival.
@@ -32,14 +40,6 @@ Urednik: Silvio Šop</description>
     <description>Požar blizu Šibenika pod nadzorm vatrogasaca, i dalje zatvorena Jadranska magistrala.Na sastanku s premijerom Plenkovićem u Makarskoj vatrogasci upozorili na premale plaće i nedostatak opreme. Izraelska vlada pozvala stanovništvo na sjeveru zemlje da se opskrbi potrepštinama za barem tjedan dana. Urednica: Mira Barić</description>
     <pubDate>Tue, 06 Aug 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7a/63/20240806-dnevne-novosti-35535787-20240806133547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.08. 2024-08-05</title>
-    <link>https://api.hrt.hr/media/b4/73/20240805-dnevne-novosti-35533360-20240805134041.mp3</link>
-    <description>U Kninu središnja proslava Dana pobjede, domovinske zahvalnosti i Dana hrvatskih branitelja. Zbog očekivane eskalacije sukoba s Izraelom, Ministarstvo vanjskih poslova pozvalo hrvatske državljane da napuste Libanon. Britanski premijer Keir Starmer, nakon nekoliko dana nasilnih prosvjeda protiv imigranata, održao sastanak sa šefovima policije. Do sada je uhićeno 420 osoba. SPORT: Tin Srbić bez medalje na Olimpijskim igrama.Silvio Šop.</description>
-    <pubDate>Mon, 05 Aug 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b4/73/20240805-dnevne-novosti-35533360-20240805134041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
