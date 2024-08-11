@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 10 Aug 2024 06:11:48 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 05:45:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nova hrvatska medalja na Olimpijskim igrama. Lena Stojković brončana u taekwondou. Nevrijeme zahvatilo dijelove Hrvatske. Narančasto upozorenje na snazi za riječku i splitsku regiju. Nakon novog požara u tvornici za reciklažu plastike u Osijeku, jutros na teren izlaze istražitelji. Domovinski pokret neće poduprijeti Dragana Primorca ako HDZ za njegovu predsjedničku kandidaturu zatraži potporu SDSS-a. U Beču otkazani koncerti Taylor Swift zbog mogućeg terorističkog napada. Urednik: Mislav Togonal</description>
     <pubDate>Thu, 08 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/3b/20240808-jutarnja-kronika-35539833-20240808053504.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.08. 2024-08-07</title>
-    <link>https://api.hrt.hr/media/85/26/20240807-jutarnja-kronika-35537222-20240807053548.mp3</link>
-    <description>Sinoć buknula dva nova požara - požar borove šume u Hreljinu iznad Bakra i požar odlagališta otpada na otoku Visu. Oba su pod kontrolom gasitelja. Hrvatsku je u srpnju posjetilo oko 4 i pol milijuna gostiju, što je 3 posto manje nego u istom mjesecu lani. Doček hrvatskih olimpijaca na glavnom zagrebačkom trgu danas u 16 i 30. Urednik: Mislav Togonal</description>
-    <pubDate>Wed, 07 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/26/20240807-jutarnja-kronika-35537222-20240807053548.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
