@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 12 Aug 2024 05:50:38 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 05:54:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.08. 2024-08-13</title>
+    <link>https://api.hrt.hr/media/4d/4d/20240813-jutarnja-kronika-35551704-20240813053032.mp3</link>
+    <description>Završen očevid pomorske tragedije na Lošinju. Otvorene dvije istrage o uzroku pada trajektne rampe koja je usmrtila trojicu pomoraca u Malom Lošinju.žar u okolici Atene, vatrena crta duga 20 kilometara, evakuiraju se stanovnici, Grčka traži pomoć Europske unije. Vratili su se naši olimpijci. Nakon Zagreba svečani doček večeras u Splitu i Dubrovniku. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 13 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/4d/20240813-jutarnja-kronika-35551704-20240813053032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.08. 2024-08-12</title>
     <link>https://api.hrt.hr/media/aa/40/20240812-jutarnja-kronika-35549232-20240812054028.mp3</link>
     <description>U Mali Lošinj jutros stižu dodatne istražiteljske ekipe zbog teške tragedije u kojoj su pri padu rampe trajekta poginula tri člana posade. Vatrogasci cijelu noć dežurali na požarištu između Solina i Klisa. Ukrajina i Rusija međusobno se optužuju za izazivanje požara u nuklearnoj elektrani Zaporižje. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Hrvatski vaterpolisti u finalu olimpijskog turnira. Sutra sa Srbijom igraju za zlato. U padu brazilskog zrakoplova poginulo 62-oje putnika i članova posade. Na zagrebačkom hipodromu večeras gostuje britanska glazbena zvijezda Ed Sheeran. Očekuje se 70 tisuća posjetitelja. Urednik Grgo Mrvica</description>
     <pubDate>Sat, 10 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/9b/20240810-jutarnja-kronika-35545046-20240810060021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.08. 2024-08-09</title>
-    <link>https://api.hrt.hr/media/0d/fa/20240809-jutarnja-kronika-35542594-20240809053012.mp3</link>
-    <description>Austrija razbila ćeliju terorista tzv. Islamske države koji su planirali napad na koncertu Taylor Swift. Istraga se nastavlja. Rusija potvrdila da se vode teške borbe s ukrajinskim snagama koje su ušle u regiju Kursk. Hrana u Hrvatskoj skuplja je 22 posto od prosjeka Europske unije. SPORT: Na Olimpijskim igrama u Parizu hrvatski vaterpolisti za plasman u finale večeras igraju protiv Mađarske. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 09 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/fa/20240809-jutarnja-kronika-35542594-20240809053012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
