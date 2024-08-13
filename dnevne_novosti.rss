@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 12 Aug 2024 13:52:01 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 13:55:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.08. 2024-08-13</title>
+    <link>https://api.hrt.hr/media/cb/2e/20240813-dnevne-novosti-35552802-20240813134032.mp3</link>
+    <description>Potres jakosti 4 prema Rihteru zatresao sjever Hrvatske. Traje ispitivanje članova posade trajekta Lastovo koji je premješten u lošinjsko brodogradilište. Evakuacija stanovnika zbog katastrofalnih požara oko Atene. Poginula strana radnica iz Moldavije. Bez obrazloženja smijenjen trener Rijeke Željko Sopić. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 13 Aug 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cb/2e/20240813-dnevne-novosti-35552802-20240813134032.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.08. 2024-08-12</title>
     <link>https://api.hrt.hr/media/0c/96/20240812-dnevne-novosti-35550225-20240812133531.mp3</link>
     <description>Još se utvrđuju okolnosti strašne tragedije na Lošinju u kojoj su poginula tri pomorca Jadrolinije, a jedan teško ozlijeđen. Zaustavljeno širenje požara između Solina i Klisa. U Grčkoj veliki požar kod Atene. Uz vatrogasce, gasi ga čak 30 zrakoplova i helikoptera. Završile Olimpijske igre u Parizu. Hrvatska s dva zlata, dva srebra i tri bronce trideseta, odnosno jedanaesta u odnosu prema broju stanovnika. U 20 sati svečani doček srebrnih vaterpolista i brončane Lene Stojković u zagrebačkoj zračnoj luci. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>I drugi dan nastavljena potraga za mladim Britancem koji je s kruzera pao u more.U Brazilu traje istraga o padu zrakoplova u kojem je poginulo više od 60 osoba. zagrebačkom Hipodromu večeras britanska glazbena zvijezda Ed Sheeran. Više od 500 veslača borit će se za štit kneza Domagoja na 27-ome Maratonu lađa na Neretvi.Urednica Mira Barić</description>
     <pubDate>Sat, 10 Aug 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/88/5b/20240810-dnevne-novosti-35545922-20240810134515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.08. 2024-08-09</title>
-    <link>https://api.hrt.hr/media/e0/38/20240809-dnevne-novosti-35543678-20240809133511.mp3</link>
-    <description>Ukrajinci napreduju u Kurskoj regiji, u znak osvete Rusi raketirali supermarket u Ukrajini. Traje potraga u Jadranskom moru za putnikom koji je pao s kruzera.Uoči sutrašnjeg koncerta Eda Sheerana na zagrebačkom hipodromu - pojačane mjere sigurnosti, te od večeras posebna regulacija prometa. Urednica: Mira Barić.</description>
-    <pubDate>Fri, 09 Aug 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e0/38/20240809-dnevne-novosti-35543678-20240809133511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
