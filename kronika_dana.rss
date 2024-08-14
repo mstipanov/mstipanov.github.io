@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 20:57:01 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 21:00:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.08. 2024-08-14</title>
+    <link>https://api.hrt.hr/media/9f/11/20240814-kronika-dana-35555965-20240814204035.mp3</link>
+    <description>Ne zna se uzrok tragedije na trajektu Lastovo, pomorci se boje da će odgovornost biti prebačena na njih. Ukrajinci napreduju u Kurskoj regiji, tvrde da su preuzeli tisuću četvornih kilometara ruskog teritorija.: Marcelo Brozović oprostio se od nogometne reprezentacije! Urednica: Sanja Cota</description>
+    <pubDate>Wed, 14 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9f/11/20240814-kronika-dana-35555965-20240814204035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.08. 2024-08-13</title>
     <link>https://api.hrt.hr/media/85/45/20240813-kronika-dana-35553595-20240813203530.mp3</link>
     <description>Dok brodovi Jadrolinije plove sa zastavama spuštenima na pola koplja, čekaju se rezultati istraga nesreće u Malom Lošinju. Ministar Butković kaže da "nitko neće biti izuzet od odgovornosti".	Pod nazorom je najgori ovogodišnji šumski požar u Grčkoj, u kojemu je jedna osoba poginula, izgorjelo više od stotinu kuća i 85 četvornih kilometara šume.Ivan Perišić napustio Hajduk, a s mjesta glavnog trenera Rijeke smijenjen Željko Sopić. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>Strašna nesreća u Malom Lošinju - tri člana posade Jadrolinije poginula, jedan teško ozlijeđen, na njih pala rampa trajekta u pristaništu. Uz golemi napor vatrogasaca i pomoć kanadera zaustavljeno širenje požara iznad Solina na predjelu Rupotine.Hrvatski vaterpolisti osvojili srebrnu medalju, što je sedmo olimpijsko odličje za našu zemlju. U Parizu traje svečanost zatvaranja Olimpijskih igara. Urednica: Mira Barić</description>
     <pubDate>Sun, 11 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/87/20240811-kronika-dana-35548631-20240811204019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.08. 2024-08-10</title>
-    <link>https://api.hrt.hr/media/80/48/20240810-kronika-dana-35546565-20240810203514.mp3</link>
-    <description>Nije pronađen mladić koji je jučer s kruzera pao u more, potraga se nastavlja sutra.Rusi nastoje zaustaviti ukrajinske snage koje napreduju na ruskom teritoriju. Udruga lađara Zagreba pobijedila na neretvanskom maratonu treći put zaredom, štit kneza Domagoja ostaje im u trajnom vlasništvu.
-Urednica Sanja Cota</description>
-    <pubDate>Sat, 10 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/80/48/20240810-kronika-dana-35546565-20240810203514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
