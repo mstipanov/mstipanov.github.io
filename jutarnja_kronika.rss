@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 05:58:28 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 06:09:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.08. 2024-08-15</title>
+    <link>https://api.hrt.hr/media/a5/97/20240815-jutarnja-kronika-35556497-20240815053038.mp3</link>
+    <description>Blagdan je Velike Gospe, u marijanskim svetištima očekuju se deseci tisuća vjernika. Zbog ekstremnih vrućina cijela je Hrvatska pod crvenim alarmom, promjena stiže za vikend. Još nema službenih informacija o uzroku nesreće u kojoj su prije četiri dana poginula trojica pomoraca u Malom Lošinju. Ukrajinska vojska napreduje u ruskoj Kurskoj regiji, Moskva proglasila izvanredno stanje i u Belgorodu. U Londonu večeras prvi nastup Taylor Swift nakon što je spriječen teroristički napad u Beču. Rasprodala pet Wembleya.Urednica Mira barić</description>
+    <pubDate>Thu, 15 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a5/97/20240815-jutarnja-kronika-35556497-20240815053038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.08. 2024-08-14</title>
     <link>https://api.hrt.hr/media/c3/c5/20240814-jutarnja-kronika-35554128-20240814053035.mp3</link>
     <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>U Mali Lošinj jutros stižu dodatne istražiteljske ekipe zbog teške tragedije u kojoj su pri padu rampe trajekta poginula tri člana posade. Vatrogasci cijelu noć dežurali na požarištu između Solina i Klisa. Ukrajina i Rusija međusobno se optužuju za izazivanje požara u nuklearnoj elektrani Zaporižje. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 12 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/aa/40/20240812-jutarnja-kronika-35549232-20240812054028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.08. 2024-08-11</title>
-    <link>https://api.hrt.hr/media/6c/69/20240811-jutarnja-kronika-35547098-20240811054518.mp3</link>
-    <description>Posljednjeg dana Olimpijskih igara Hrvatska protiv Srbije u finalu vaterpola. I danas će se nastaviti potraga za mladim Britancem koji je pao s kruzera kod otoka Jabuke. Rusi nastoje zaustaviti ukrajinske snage koje napreduju na ruskom teritoriju.Udruga lađara Zagreba pobijedila na neretvanskom maratonu, treći put zaredom. Štit kneza Domagoja ostaje im u trajnom vlasništvu. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 11 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6c/69/20240811-jutarnja-kronika-35547098-20240811054518.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
