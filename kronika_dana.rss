@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 21:00:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 21:12:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.08. 2024-08-15</title>
+    <link>https://api.hrt.hr/media/1a/6d/20240815-kronika-dana-35558316-20240815204539.mp3</link>
+    <description>Na blagdan Velike Gospe hodočašća u svetišta diljem zemlje, misa na Trsatu posvećena trojici poginulih pomoraca. Izjave premijera Plenkovića o nesreći u Malom Lošinju oštro kritizirali sindikati pomoraca. U Švedskoj potvrđen prvi slučaj majmunskih boginja izvan Afrike. Urednica: Sanja Rabuzin</description>
+    <pubDate>Thu, 15 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1a/6d/20240815-kronika-dana-35558316-20240815204539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.08. 2024-08-14</title>
     <link>https://api.hrt.hr/media/9f/11/20240814-kronika-dana-35555965-20240814204035.mp3</link>
     <description>Ne zna se uzrok tragedije na trajektu Lastovo, pomorci se boje da će odgovornost biti prebačena na njih. Ukrajinci napreduju u Kurskoj regiji, tvrde da su preuzeli tisuću četvornih kilometara ruskog teritorija.: Marcelo Brozović oprostio se od nogometne reprezentacije! Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Očevid završen, otvorene dvije istrage o uzroku pada trajektne rampe koja je usmrtila trojicu pomoraca u Malom Lošinju. Požar u okolici Atene, vatrena crta duga 20 kilometara, evakuiraju se stanovnici, Grčka traži pomoć Europske unije. Vratili su se naši olimpijci. Organiziran je doček ispred zagrebačke zračne luke. Urednica: Mira Barić</description>
     <pubDate>Mon, 12 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fb/4a/20240812-kronika-dana-35551141-20240812203526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.08. 2024-08-11</title>
-    <link>https://api.hrt.hr/media/9e/87/20240811-kronika-dana-35548631-20240811204019.mp3</link>
-    <description>Strašna nesreća u Malom Lošinju - tri člana posade Jadrolinije poginula, jedan teško ozlijeđen, na njih pala rampa trajekta u pristaništu. Uz golemi napor vatrogasaca i pomoć kanadera zaustavljeno širenje požara iznad Solina na predjelu Rupotine.Hrvatski vaterpolisti osvojili srebrnu medalju, što je sedmo olimpijsko odličje za našu zemlju. U Parizu traje svečanost zatvaranja Olimpijskih igara. Urednica: Mira Barić</description>
-    <pubDate>Sun, 11 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9e/87/20240811-kronika-dana-35548631-20240811204019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
