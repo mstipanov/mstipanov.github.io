@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 17 Aug 2024 20:50:05 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 20:56:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.08. 2024-08-18</title>
+    <link>https://api.hrt.hr/media/65/7c/20240818-kronika-dana-35564803-20240818204017.mp3</link>
+    <description>Tragedija na Viru - pijani vozač naletio na mladu obitelj - majka poginula, troje djece i otac teško ozlijeđeni. Lokalizirani požari u zadarskim naseljima Bokanjac i Kožino. Još gore požari na Dinari. SDP pred unutarstranačkim izborima. U 89-oj godini umro glumac Alain Delon.Sanja Rabuzin</description>
+    <pubDate>Sun, 18 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/65/7c/20240818-kronika-dana-35564803-20240818204017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.08. 2024-08-17</title>
     <link>https://api.hrt.hr/media/2c/74/20240817-kronika-dana-35562914-20240817204012.mp3</link>
     <description>Još su aktivni požari na kninskom području. Produljeni vikend donio gužve na cestama. U Domovinskom pokretu i SDP-u pripremaju se za unutarstranačke izbore. Požar u Somerset Houseu u središtu Londona. Urednica: Sanja Rabuzin</description>
@@ -23,14 +31,6 @@
     <description>Na blagdan Velike Gospe hodočašća u svetišta diljem zemlje, misa na Trsatu posvećena trojici poginulih pomoraca. Izjave premijera Plenkovića o nesreći u Malom Lošinju oštro kritizirali sindikati pomoraca. U Švedskoj potvrđen prvi slučaj majmunskih boginja izvan Afrike. Urednica: Sanja Rabuzin</description>
     <pubDate>Thu, 15 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1a/6d/20240815-kronika-dana-35558316-20240815204539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.08. 2024-08-14</title>
-    <link>https://api.hrt.hr/media/9f/11/20240814-kronika-dana-35555965-20240814204035.mp3</link>
-    <description>Ne zna se uzrok tragedije na trajektu Lastovo, pomorci se boje da će odgovornost biti prebačena na njih. Ukrajinci napreduju u Kurskoj regiji, tvrde da su preuzeli tisuću četvornih kilometara ruskog teritorija.: Marcelo Brozović oprostio se od nogometne reprezentacije! Urednica: Sanja Cota</description>
-    <pubDate>Wed, 14 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9f/11/20240814-kronika-dana-35555965-20240814204035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
