@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 17 Aug 2024 06:17:45 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 05:51:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.08. 2024-08-18</title>
+    <link>https://api.hrt.hr/media/ac/40/20240818-jutarnja-kronika-35563453-20240818053014.mp3</link>
+    <description>Vatrogasci se još bore s požarima u zaleđu Knina. Rusija rano jutros bespilotnim letjelicama napala Kijev. Bliži se kraj toplinskom valu zbog kojeg je cijela zemlja u crvenom meteoalarmu. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 18 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ac/40/20240818-jutarnja-kronika-35563453-20240818053014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.08. 2024-08-17</title>
     <link>https://api.hrt.hr/media/8b/4d/20240817-jutarnja-kronika-35561289-20240817053010.mp3</link>
     <description>Još su aktivna tri požara u zaleđu Knina. Vatrogasci cijelu noć na terenu. Dolaskom jutra pomažu i zračne snage. Danas posljednji ispraćaj dvojice pomoraca poginulih u Malom Lošinju. Mirovni pregovori o Bliskom istoku trebali bi se nastaviti idući tjedan. U Indiji opći štrajk liječnika zbot brutalnog silovanja i ubojstva mlade liječnice. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Blagdan je Velike Gospe, u marijanskim svetištima očekuju se deseci tisuća vjernika. Zbog ekstremnih vrućina cijela je Hrvatska pod crvenim alarmom, promjena stiže za vikend. Još nema službenih informacija o uzroku nesreće u kojoj su prije četiri dana poginula trojica pomoraca u Malom Lošinju. Ukrajinska vojska napreduje u ruskoj Kurskoj regiji, Moskva proglasila izvanredno stanje i u Belgorodu. U Londonu večeras prvi nastup Taylor Swift nakon što je spriječen teroristički napad u Beču. Rasprodala pet Wembleya.Urednica Mira barić</description>
     <pubDate>Thu, 15 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a5/97/20240815-jutarnja-kronika-35556497-20240815053038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.08. 2024-08-14</title>
-    <link>https://api.hrt.hr/media/c3/c5/20240814-jutarnja-kronika-35554128-20240814053035.mp3</link>
-    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Wed, 14 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/c5/20240814-jutarnja-kronika-35554128-20240814053035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
