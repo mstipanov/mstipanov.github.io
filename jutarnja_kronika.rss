@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 21 Aug 2024 07:24:09 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 05:57:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.08. 2024-08-22</title>
+    <link>https://api.hrt.hr/media/86/c8/20240822-jutarnja-kronika-35573226-20240822053033.mp3</link>
+    <description>Mario Radić kandidira se za predsjednika Domovinskog pokreta, otvoren sukob s Ivanom Penavom. Prva sjednica Vlade nakon ljetne stanke.konvenciji američkih demokrata Tim Walz prihvatio nominaciju za potpredsjednika. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 22 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/86/c8/20240822-jutarnja-kronika-35573226-20240822053033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.08. 2024-08-21</title>
     <link>https://api.hrt.hr/media/a1/b9/20240821-jutarnja-kronika-35570922-20240821071031.mp3</link>
     <description>Nevrijeme sinoć pogodilo Bjelovar. Vjetar rušio stabla, kiša poplavila podrume. Podjele u Domovinskom pokretu. Ivan Penava poručio da bi se nezadovoljnicima mogao baviti stranački sud časti. Ukrajina izvela masovni napad bespilotnim letjelicama na četiri ruska grada. Dinamo na Maksimiru s 3:0 pobijedio azerbajdžanski Qarabag i na pragu je ulaska u Ligu prvaka. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Olujno nevrijeme pogodilo Hrvatsku. Tuča u Zagorju, obilna kiša i ulične bujice u Dalmaciji. Državni hidrometeorološki zavod za veći dio zemlje za danas je objavio narančasto upozorenje. Tijekom jutra će u zadarskom državnom odvjetništvu biti ispitan vozač koji je pokosio peteročlanu obitelj na Viru. Počinje kandidacijski postupak za unutarstranačke izbore u SDP-u. Zasad poznato troje kandidata za mjesto šefa stranke. Bjelorusija raspoređuje vojsku uz granicu s Ukrajinom. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 19 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a4/d2/20240819-jutarnja-kronika-35565363-20240819053018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.08. 2024-08-18</title>
-    <link>https://api.hrt.hr/media/ac/40/20240818-jutarnja-kronika-35563453-20240818053014.mp3</link>
-    <description>Vatrogasci se još bore s požarima u zaleđu Knina. Rusija rano jutros bespilotnim letjelicama napala Kijev. Bliži se kraj toplinskom valu zbog kojeg je cijela zemlja u crvenom meteoalarmu. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 18 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ac/40/20240818-jutarnja-kronika-35563453-20240818053014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
