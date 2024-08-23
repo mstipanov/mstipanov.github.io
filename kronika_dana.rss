@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 22 Aug 2024 21:00:39 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 21:04:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.08. 2024-08-23</title>
+    <link>https://api.hrt.hr/media/4a/bf/20240823-kronika-dana-35578071-20240823204039.mp3</link>
+    <description>U 63. godini umro političar Predrag Fred Matić. Nezavsini kandidat za američkog prejsednika Robert Kenedy prekinuo kampanju i dao potporu republikancu Donaldu Trumpu. zdravstvena organizacija traži 135 milijuna dolara za suzbijanje majmunskih boginja.
+Urednica: Sanja Cota</description>
+    <pubDate>Fri, 23 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4a/bf/20240823-kronika-dana-35578071-20240823204039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.08. 2024-08-22</title>
     <link>https://api.hrt.hr/media/4d/ad/20240822-kronika-dana-35575523-20240822204033.mp3</link>
     <description>Smanjit će se Vladin paket mjera pomoći, a mirovine rastu za sedam i pol posto.Ukrajinska vojska tvrdi da snažno napreduje na mnogim bojištima kako bi rat prestao pod uvjetima neovisne Ukrajine.Na Drini se prevrnuo čamac s migrantima, desetero ljudi se utopilo.Urednica Sanja Cota</description>
@@ -31,14 +40,6 @@
     <description>Nevrijeme pogodilo Bjelovar, vjetar čupao stabla i nosio grane.Podjele u Domovinskom pokretu. Ivan Penava optužio Marija Radića i Igora Peternela da svojim istupima štete stranci. Apel iz splitskog KBC-a urodio velikim odazivom darivatelja krvi. Na konvenciji Demokratske stranke potpredsjednica SAD-a Kamala Harris dočekana ovacijama. Urednica Mira Barić</description>
     <pubDate>Tue, 20 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/c9/20240820-kronika-dana-35570174-20240820204027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.08. 2024-08-19</title>
-    <link>https://api.hrt.hr/media/83/0e/20240819-kronika-dana-35567398-20240819204027.mp3</link>
-    <description>Određen jednomjesečni pritvor 29-godišnjem vozaču koji je pijan u subotu navečer na Viru skrivio strašnu nesreću u kojoj je stradala obitelj iz okolice Križevaca. Državni inspektorat zabranio je gradnju hidroelektrane na Uni. Američki državni tajnik Antony Blinken stigao u Izrael u još jednu mirovnu misiju. U Zagrebu u 95-oj godini umro popularni voditelj Ljubo Jelčić. Stigla najavljena promjena vremena. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 19 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/0e/20240819-kronika-dana-35567398-20240819204027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
