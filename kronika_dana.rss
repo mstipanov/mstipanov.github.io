@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 23 Aug 2024 21:04:44 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 20:38:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.08. 2024-08-24</title>
+    <link>https://api.hrt.hr/media/05/f5/20240824-kronika-dana-35580252-20240824203539.mp3</link>
+    <description>Islamska država preuzela odgovornost za napad nožem u njemačkom gradu Solingenu. Policija traži napadača. Tragedija u Slavoniji - pijani vozač kod Okučana usmrtio 13-godišnjeg dječaka na biciklu. Tjedan dana do izbora u Domovinskom pokretu, podjele na vrhuncu! Ivan Penava i Mario Radić razmjenjuju najteže optužbe. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 24 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/05/f5/20240824-kronika-dana-35580252-20240824203539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.08. 2024-08-23</title>
     <link>https://api.hrt.hr/media/4a/bf/20240823-kronika-dana-35578071-20240823204039.mp3</link>
     <description>U 63. godini umro političar Predrag Fred Matić. Nezavsini kandidat za američkog prejsednika Robert Kenedy prekinuo kampanju i dao potporu republikancu Donaldu Trumpu. zdravstvena organizacija traži 135 milijuna dolara za suzbijanje majmunskih boginja.
@@ -32,14 +40,6 @@ Urednica: Sanja Cota</description>
     <description>Mario Radić kandidira se za predsjednika Domovinskog pokreta, otvoren sukob s Ivanom Penavom. dvije godine podignuta optužnica za plinsku aferu u INA-i. Njemački kanceler odbacuje optužbe da se Ukrajina konzultirala s Berlinom o upadu na ruski teritorij. Urednica: Sanja Cota</description>
     <pubDate>Wed, 21 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/85/35/20240821-kronika-dana-35572703-20240821203030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.08. 2024-08-20</title>
-    <link>https://api.hrt.hr/media/df/c9/20240820-kronika-dana-35570174-20240820204027.mp3</link>
-    <description>Nevrijeme pogodilo Bjelovar, vjetar čupao stabla i nosio grane.Podjele u Domovinskom pokretu. Ivan Penava optužio Marija Radića i Igora Peternela da svojim istupima štete stranci. Apel iz splitskog KBC-a urodio velikim odazivom darivatelja krvi. Na konvenciji Demokratske stranke potpredsjednica SAD-a Kamala Harris dočekana ovacijama. Urednica Mira Barić</description>
-    <pubDate>Tue, 20 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/c9/20240820-kronika-dana-35570174-20240820204027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
