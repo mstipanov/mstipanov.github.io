@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 24 Aug 2024 20:38:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 20:45:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.08. 2024-08-25</title>
+    <link>https://api.hrt.hr/media/d2/fe/20240825-kronika-dana-35582249-20240825204014.mp3</link>
+    <description>Opasno na Bliskom Istoku: Hezbolah rano jutros ispalio tristotinjak raketa na Izrael. Djevojka i mladić iz Hrvatske utopili se u Ramskom jezeru, u Bosni i Hercegovini. Na autocesti Rijeka-Zagreb potukli se pripadnici Armade i Torcide. Policija spriječila jači sukob. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 25 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d2/fe/20240825-kronika-dana-35582249-20240825204014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.08. 2024-08-24</title>
     <link>https://api.hrt.hr/media/05/f5/20240824-kronika-dana-35580252-20240824203539.mp3</link>
     <description>Islamska država preuzela odgovornost za napad nožem u njemačkom gradu Solingenu. Policija traži napadača. Tragedija u Slavoniji - pijani vozač kod Okučana usmrtio 13-godišnjeg dječaka na biciklu. Tjedan dana do izbora u Domovinskom pokretu, podjele na vrhuncu! Ivan Penava i Mario Radić razmjenjuju najteže optužbe. Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@ Urednica: Sanja Cota</description>
     <description>Smanjit će se Vladin paket mjera pomoći, a mirovine rastu za sedam i pol posto.Ukrajinska vojska tvrdi da snažno napreduje na mnogim bojištima kako bi rat prestao pod uvjetima neovisne Ukrajine.Na Drini se prevrnuo čamac s migrantima, desetero ljudi se utopilo.Urednica Sanja Cota</description>
     <pubDate>Thu, 22 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/ad/20240822-kronika-dana-35575523-20240822204033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.08. 2024-08-21</title>
-    <link>https://api.hrt.hr/media/85/35/20240821-kronika-dana-35572703-20240821203030.mp3</link>
-    <description>Mario Radić kandidira se za predsjednika Domovinskog pokreta, otvoren sukob s Ivanom Penavom. dvije godine podignuta optužnica za plinsku aferu u INA-i. Njemački kanceler odbacuje optužbe da se Ukrajina konzultirala s Berlinom o upadu na ruski teritorij. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 21 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/35/20240821-kronika-dana-35572703-20240821203030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
