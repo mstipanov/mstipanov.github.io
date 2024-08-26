@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 25 Aug 2024 20:45:45 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 20:59:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.08. 2024-08-26</title>
+    <link>https://api.hrt.hr/media/2b/2f/20240826-kronika-dana-35584958-20240826204017.mp3</link>
+    <description>Srbijanske vlasti tvrde da su u Beogradu uhitili hrvatskog špijuna. U našem Ministarstvu vanjskih poslova o tome nemaju saznanja. Uoči subotnjih unutarstranačkih izbora u Domovinskom pokretu sve oštriji verbalni sukobi između Penave i Radića. Nakon najvećeg ruskog zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Mon, 26 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2b/2f/20240826-kronika-dana-35584958-20240826204017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.08. 2024-08-25</title>
     <link>https://api.hrt.hr/media/d2/fe/20240825-kronika-dana-35582249-20240825204014.mp3</link>
     <description>Opasno na Bliskom Istoku: Hezbolah rano jutros ispalio tristotinjak raketa na Izrael. Djevojka i mladić iz Hrvatske utopili se u Ramskom jezeru, u Bosni i Hercegovini. Na autocesti Rijeka-Zagreb potukli se pripadnici Armade i Torcide. Policija spriječila jači sukob. Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@
 Urednica: Sanja Cota</description>
     <pubDate>Fri, 23 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4a/bf/20240823-kronika-dana-35578071-20240823204039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.08. 2024-08-22</title>
-    <link>https://api.hrt.hr/media/4d/ad/20240822-kronika-dana-35575523-20240822204033.mp3</link>
-    <description>Smanjit će se Vladin paket mjera pomoći, a mirovine rastu za sedam i pol posto.Ukrajinska vojska tvrdi da snažno napreduje na mnogim bojištima kako bi rat prestao pod uvjetima neovisne Ukrajine.Na Drini se prevrnuo čamac s migrantima, desetero ljudi se utopilo.Urednica Sanja Cota</description>
-    <pubDate>Thu, 22 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4d/ad/20240822-kronika-dana-35575523-20240822204033.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
