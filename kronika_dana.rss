@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 20:59:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 21:03:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.08. 2024-08-27</title>
+    <link>https://api.hrt.hr/media/0d/c2/20240827-kronika-dana-35587590-20240827203529.mp3</link>
+    <description>Razbuktao se požar kod Žrnovnice, vatrogasci se bore za svaku kuću. U Hrvatskoj se svi, pa i tajne službe, pitaju tko je navodni hrvatski špijun uhićen u Beogradu. BDP u drugom tromjesečju porastao 3,3 posto. Izraelska vojska spasila taoca kojeg je u zatočeništvu držao Hamas. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 27 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/c2/20240827-kronika-dana-35587590-20240827203529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.08. 2024-08-26</title>
     <link>https://api.hrt.hr/media/2b/2f/20240826-kronika-dana-35584958-20240826204017.mp3</link>
     <description>Srbijanske vlasti tvrde da su u Beogradu uhitili hrvatskog špijuna. U našem Ministarstvu vanjskih poslova o tome nemaju saznanja. Uoči subotnjih unutarstranačkih izbora u Domovinskom pokretu sve oštriji verbalni sukobi između Penave i Radića. Nakon najvećeg ruskog zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Urednica: Marija Gerbec Njavro</description>
@@ -31,15 +39,6 @@
     <description>Islamska država preuzela odgovornost za napad nožem u njemačkom gradu Solingenu. Policija traži napadača. Tragedija u Slavoniji - pijani vozač kod Okučana usmrtio 13-godišnjeg dječaka na biciklu. Tjedan dana do izbora u Domovinskom pokretu, podjele na vrhuncu! Ivan Penava i Mario Radić razmjenjuju najteže optužbe. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 24 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/05/f5/20240824-kronika-dana-35580252-20240824203539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.08. 2024-08-23</title>
-    <link>https://api.hrt.hr/media/4a/bf/20240823-kronika-dana-35578071-20240823204039.mp3</link>
-    <description>U 63. godini umro političar Predrag Fred Matić. Nezavsini kandidat za američkog prejsednika Robert Kenedy prekinuo kampanju i dao potporu republikancu Donaldu Trumpu. zdravstvena organizacija traži 135 milijuna dolara za suzbijanje majmunskih boginja.
-Urednica: Sanja Cota</description>
-    <pubDate>Fri, 23 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4a/bf/20240823-kronika-dana-35578071-20240823204039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
