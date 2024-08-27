@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 05:48:12 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 06:00:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.08. 2024-08-27</title>
+    <link>https://api.hrt.hr/media/b5/b4/20240827-jutarnja-kronika-35585487-20240827053030.mp3</link>
+    <description>Munje u Dalmaciji izazvale nekoliko požara. Očekuje se prva procjena BDP-a za drugo ovogodišnje tromjesečje. Srbi tvrde da su u Beogradu uhitili hrvatskog špijuna. U našemu Ministarstvu vanjskih poslova o tome nemaju saznanja. Nakon najvećega ruskoga zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Ruski dron ušao u poljski zračni prostor. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 27 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b5/b4/20240827-jutarnja-kronika-35585487-20240827053030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.08. 2024-08-26</title>
     <link>https://api.hrt.hr/media/94/29/20240826-jutarnja-kronika-35582778-20240826053512.mp3</link>
     <description>Masovna tučnjava Torcide i Armade na naplatnim kućicama kod Rijeke. Iz Ramskog jezera kod Šćita izvučeno tijelo djevojke iz Hrvatske. Za nestalim muškarcem ronioci jutros nastavljaju potragu.U kolovozu u našoj zemlji 130 tisuća turista više nego u isto vrijeme lani. Rusi su jutros bespilotnim letjelicama napali Kijev. Ukrajina dronovima napala Saratov. Urednik: Mislav Togonal.</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 24 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/17/13/20240824-jutarnja-kronika-35578614-20240824053041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.08. 2024-08-23</title>
-    <link>https://api.hrt.hr/media/a2/07/20240823-jutarnja-kronika-35576111-20240823053533.mp3</link>
-    <description>Smanjit će se paket Vladinih mjera pomoći građanima i gospodarstvu, kojim se uz ostalo ograničavaju i cijene energenata. Mirovine za milijun i 200 tisuća umirovljenika rastu za 7 i pol posto.Izmjenama Zakona stat će se na kraj prenamjenama stanova u zgradama za kratkoročni najam turistima. Za to će ubuduće trebati potpisi 80 posto stanara zgrade.Ministrica zaštite okoliša Marija Vučković danas u Puli zbog problema onečišćenja zraka od pulske cementare.Kamala Heris prihvatila demokratsku predsjedničku nominaciju.Urednik Mislav Togonal.</description>
-    <pubDate>Fri, 23 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/07/20240823-jutarnja-kronika-35576111-20240823053533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
