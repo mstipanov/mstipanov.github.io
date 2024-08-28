@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 06:00:57 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 06:04:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.08. 2024-08-28</title>
+    <link>https://api.hrt.hr/media/36/6e/20240828-jutarnja-kronika-35588195-20240828054034.mp3</link>
+    <description>I dalje gori kod Splita, ali stanje je lakše. U pomoć stižu kanaderi. Nitko u zemlji, pa ni tajne službe nemaju odgovor na pitanje - tko je navodni hrvatski špijun uhićen u Beogradu. U Zagrebu komemoracija i ispraćaj europskog parlamentarca, vukovarskog branitelja i bivšeg ministra Freda Matića. U Parizu počinju Paraolimpijske igre. Hrvatske boje branit će 22-oje parasportaša. Urednica: Snježana Kralj</description>
+    <pubDate>Wed, 28 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/36/6e/20240828-jutarnja-kronika-35588195-20240828054034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.08. 2024-08-27</title>
     <link>https://api.hrt.hr/media/b5/b4/20240827-jutarnja-kronika-35585487-20240827053030.mp3</link>
     <description>Munje u Dalmaciji izazvale nekoliko požara. Očekuje se prva procjena BDP-a za drugo ovogodišnje tromjesečje. Srbi tvrde da su u Beogradu uhitili hrvatskog špijuna. U našemu Ministarstvu vanjskih poslova o tome nemaju saznanja. Nakon najvećega ruskoga zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Ruski dron ušao u poljski zračni prostor. Urednik: Mario Krstanović</description>
@@ -31,15 +39,6 @@
     <description>Hezbolah je jutros ispalio više od 320 raketa prema Izraelu. Uhićen napadač koji je u njemačkom Solingenu ubio troje, a ranio osmero ljudi. Pred suca istrage izaći će 50-godišnjak koji je vozeći pijan ubio trinaestogodišnjeg biciklista. U Šibeniku završio festival dalmatinske šansone, u Dubrovniku se večeras zatvaraju Dubrovačke ljetne igre, a u Vinkuranu u Istri nastupa Bijelo Dugme. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 25 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/31/20240825-jutarnja-kronika-35580787-20240825053543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.08. 2024-08-24</title>
-    <link>https://api.hrt.hr/media/17/13/20240824-jutarnja-kronika-35578614-20240824053041.mp3</link>
-    <description>U 63-oj godini umro političar Predrag Matić Fred. Izrazi sućuti stižu sa svih strana. U sjedištu SDP-a bit će otvorena knjiga žalosti. Uhićen muškarac koji je prouzročio prometnu nesreću u kojoj je poginuo trinaestogodišnjak. Zbog prošlogodišnjeg požara podignuta optužnica protiv vlasnika osječke tvrtke Drava Internacional. Najmanje tri osobe ubijene su u napadu nožem na festivalu u njemačkom gradu Solingenu. Šibenik je ovog vikenda u znaku šansone.
-Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 24 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/17/13/20240824-jutarnja-kronika-35578614-20240824053041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
