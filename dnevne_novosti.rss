@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 14:02:14 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 14:06:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.08. 2024-08-28</title>
+    <link>https://api.hrt.hr/media/f7/3c/20240828-dnevne-novosti-35589817-20240828133532.mp3</link>
+    <description>Trojica vatrogasaca ozlijeđena u gašenju požara u Žrnovnici. Raste napetost u Domovinskom pokretu. Bartulica za predsjednika podupro Marija Radića. Jedan od najvećih upada izraelske vojske na okupiranu Zapadnu obalu u posljednjih 20 godina. Na Mirogoju uz vojne počasti pokopan Predrag Fred Matić. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 28 Aug 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/3c/20240828-dnevne-novosti-35589817-20240828133532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.08. 2024-08-27</title>
     <link>https://api.hrt.hr/media/dc/d6/20240827-dnevne-novosti-35586775-20240827134034.mp3</link>
     <description>BDP u drugom kvartalu porastao 3,3 posto. Nakon igrokaza s uhićenjem navodnog špijuna i zadržavanjem Severine Vučković na granici Gordan Jandroković poručio da je Srbija nedemokratska, nedosljedna i neprincipijelna država koja izaziva regionalne svađe. Uhićen vozač za kojeg se sumnja da je rano jutros kod Gornjeg Slatnika pregazio 47-godišnjeg muškarca. Rusija s nekoliko valova projektila i dronova ponovno napala ukrajinsku infrastrukturu. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Hezbolah napao Izrael raketama i bespilotnim letjelicama. Znajući da se sprema napad, Izrael preventivno gađao lansirne lokacije u Libanonu. 26-godišnji Sirijac, koji je u Solingenu nožem ubio troje ljudi, prije dvije godine u Njemačkoj zatražio azil. Đakovački vodovod pozvao na odgovornu potrošnju vode kako ne bi bilo redukcija. : Sanja Cota</description>
     <pubDate>Sun, 25 Aug 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/90/20240825-dnevne-novosti-35581555-20240825134048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.08. 2024-08-24</title>
-    <link>https://api.hrt.hr/media/26/f3/20240824-dnevne-novosti-35579546-20240824133539.mp3</link>
-    <description>Uoči stranačkih izbora predsjednik Domovinskog pokreta Ivan Penava najavljuje da će raskrinkati Maria Radića. Razlaz u stranci Fokus koja više nije parlamentarna. Trinaestogodišnji dječak u Slavoniji poginuo sinoć pod kotačima pijanoga vozača. U njemačkom gradu Solingenu napadač nožem ubio troje ljudi, još se za njim traga. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 24 Aug 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/f3/20240824-dnevne-novosti-35579546-20240824133539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
