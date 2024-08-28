@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 21:03:28 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 20:37:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.08. 2024-08-28</title>
+    <link>https://api.hrt.hr/media/16/aa/20240828-kronika-dana-35590705-20240828203533.mp3</link>
+    <description>U Žrnovnici više nema otvorenog plamena. Tijekom gašenja požara ozlijeđena trojica vatrogasaca. Zakon o porezu na nekretnine ide u javno savjetovanje. Uz vojne počasti u Aleji velikana pokopan je SDP-ov europarlamentarac i bivši ministar branitelja Predrag Fred Matić. Uoči unutarstranačkih izbora u subotu, nova previranja u Domovinskom pokretu. Dinamo ušao u ligu prvaka. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 28 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/aa/20240828-kronika-dana-35590705-20240828203533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.08. 2024-08-27</title>
     <link>https://api.hrt.hr/media/0d/c2/20240827-kronika-dana-35587590-20240827203529.mp3</link>
     <description>Razbuktao se požar kod Žrnovnice, vatrogasci se bore za svaku kuću. U Hrvatskoj se svi, pa i tajne službe, pitaju tko je navodni hrvatski špijun uhićen u Beogradu. BDP u drugom tromjesečju porastao 3,3 posto. Izraelska vojska spasila taoca kojeg je u zatočeništvu držao Hamas. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Opasno na Bliskom Istoku: Hezbolah rano jutros ispalio tristotinjak raketa na Izrael. Djevojka i mladić iz Hrvatske utopili se u Ramskom jezeru, u Bosni i Hercegovini. Na autocesti Rijeka-Zagreb potukli se pripadnici Armade i Torcide. Policija spriječila jači sukob. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 25 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/fe/20240825-kronika-dana-35582249-20240825204014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.08. 2024-08-24</title>
-    <link>https://api.hrt.hr/media/05/f5/20240824-kronika-dana-35580252-20240824203539.mp3</link>
-    <description>Islamska država preuzela odgovornost za napad nožem u njemačkom gradu Solingenu. Policija traži napadača. Tragedija u Slavoniji - pijani vozač kod Okučana usmrtio 13-godišnjeg dječaka na biciklu. Tjedan dana do izbora u Domovinskom pokretu, podjele na vrhuncu! Ivan Penava i Mario Radić razmjenjuju najteže optužbe. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 24 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/f5/20240824-kronika-dana-35580252-20240824203539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
