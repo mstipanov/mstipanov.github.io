@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 20:37:17 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 21:11:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.08. 2024-08-29</title>
+    <link>https://api.hrt.hr/media/98/17/20240829-kronika-dana-35593499-20240829203558.mp3</link>
+    <description>HERA odredila cijene plina, bez Vladinih mjera mogle bi porasti i 30-ak posto. Ukrajinska vojska potvrdila da se još početkom tjedna srušio borbeni zrakoplov F-16, što je prvi takav gubitak otkad su u zemlju stigli ti dugoiščekivani američki avioni. Izrael i Hamas pristali na trodnevni prekid borbi radi cijepljenja djece protiv dječje paralize. Dinamo će u novom formatu Lige prvaka ove sezone u Zagrebu ugostiti Borussiju, Milan, Celtic i Monaco, dok će gostovati kod Bayerna, Arsenala, Salzburga i Slovana u Bratislavi. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 29 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/17/20240829-kronika-dana-35593499-20240829203558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.08. 2024-08-28</title>
     <link>https://api.hrt.hr/media/16/aa/20240828-kronika-dana-35590705-20240828203533.mp3</link>
     <description>U Žrnovnici više nema otvorenog plamena. Tijekom gašenja požara ozlijeđena trojica vatrogasaca. Zakon o porezu na nekretnine ide u javno savjetovanje. Uz vojne počasti u Aleji velikana pokopan je SDP-ov europarlamentarac i bivši ministar branitelja Predrag Fred Matić. Uoči unutarstranačkih izbora u subotu, nova previranja u Domovinskom pokretu. Dinamo ušao u ligu prvaka. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Srbijanske vlasti tvrde da su u Beogradu uhitili hrvatskog špijuna. U našem Ministarstvu vanjskih poslova o tome nemaju saznanja. Uoči subotnjih unutarstranačkih izbora u Domovinskom pokretu sve oštriji verbalni sukobi između Penave i Radića. Nakon najvećeg ruskog zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Mon, 26 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2b/2f/20240826-kronika-dana-35584958-20240826204017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.08. 2024-08-25</title>
-    <link>https://api.hrt.hr/media/d2/fe/20240825-kronika-dana-35582249-20240825204014.mp3</link>
-    <description>Opasno na Bliskom Istoku: Hezbolah rano jutros ispalio tristotinjak raketa na Izrael. Djevojka i mladić iz Hrvatske utopili se u Ramskom jezeru, u Bosni i Hercegovini. Na autocesti Rijeka-Zagreb potukli se pripadnici Armade i Torcide. Policija spriječila jači sukob. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 25 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d2/fe/20240825-kronika-dana-35582249-20240825204014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
