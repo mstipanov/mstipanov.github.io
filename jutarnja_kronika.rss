@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 06:08:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 05:42:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.08. 2024-08-30</title>
+    <link>https://api.hrt.hr/media/a0/fa/20240830-jutarnja-kronika-35594036-20240830053601.mp3</link>
+    <description>17. je godišnjica kornatske tragedije u kojoj je poginulo 12 vatrogasaca. Međunarodni je dan nestalih osoba. Hrvatska još traži 1792-ije nestale i smrtno stradale osobe, od toga 370 iz Vukovara. HERA odredila cijene plina, bez Vladinih mjera mogle bi porasti i 30-ak posto. Od iduće godine uvodi se porez na nekretnine. Pojedinosti ćemo doznati u ponedjeljak. U SDP-u je šest kandidata za novog predsjednika stranke. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 30 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a0/fa/20240830-jutarnja-kronika-35594036-20240830053601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.08. 2024-08-29</title>
     <link>https://api.hrt.hr/media/e9/23/20240829-jutarnja-kronika-35591237-20240829053536.mp3</link>
     <description>Jutros uzlijeću dva kanadera u pomoć vatrogascima kod Sitnog Gornjeg i Donjeg. Stanje je bolje nego sinoć i lokalne ceste su otvorene. Priprema se Zakon o porezu na nekretnine. Izrael napao mete na Zapadnoj obali. Nakon jučerašnje pobjede nad Qarabagom u Bakuu, Dinamo će večeras na ždrijebu saznati protivnike u Ligi prvaka. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Munje u Dalmaciji izazvale nekoliko požara. Očekuje se prva procjena BDP-a za drugo ovogodišnje tromjesečje. Srbi tvrde da su u Beogradu uhitili hrvatskog špijuna. U našemu Ministarstvu vanjskih poslova o tome nemaju saznanja. Nakon najvećega ruskoga zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Ruski dron ušao u poljski zračni prostor. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 27 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b5/b4/20240827-jutarnja-kronika-35585487-20240827053030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.08. 2024-08-26</title>
-    <link>https://api.hrt.hr/media/94/29/20240826-jutarnja-kronika-35582778-20240826053512.mp3</link>
-    <description>Masovna tučnjava Torcide i Armade na naplatnim kućicama kod Rijeke. Iz Ramskog jezera kod Šćita izvučeno tijelo djevojke iz Hrvatske. Za nestalim muškarcem ronioci jutros nastavljaju potragu.U kolovozu u našoj zemlji 130 tisuća turista više nego u isto vrijeme lani. Rusi su jutros bespilotnim letjelicama napali Kijev. Ukrajina dronovima napala Saratov. Urednik: Mislav Togonal.</description>
-    <pubDate>Mon, 26 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/94/29/20240826-jutarnja-kronika-35582778-20240826053512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
