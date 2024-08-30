@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 14:40:21 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 14:14:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.08. 2024-08-30</title>
+    <link>https://api.hrt.hr/media/54/db/20240830-dnevne-novosti-35595819-20240830134510.mp3</link>
+    <description>U vikendici nedaleko od Popovače pronađena tri mrtva muškarca. Premijer Plenković najavio novi paket Vladinih mjera i demantirao izračun prema kojem će plin poskupjeti više od 20 posto. Novi sukob Milanović - Plenković zbog obveznog služenja vojnog roka i upotrebe helikoptera i zrakoplova za prijevoz dužnosnika. Mario Radić optužio Ivana Penavu za pokušaj krađe sutrašnjih unutarstranačkih izbora u Domovinskom pokretu. Tajfun Shanshan poharao Japan. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 30 Aug 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/db/20240830-dnevne-novosti-35595819-20240830134510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.08. 2024-08-29</title>
     <link>https://api.hrt.hr/media/61/e9/20240829-dnevne-novosti-35592554-20240829141100.mp3</link>
     <description>Cijelu su noć vatrogasci gasili požar kod Žrnovnice koji se ponovno razbuktao. Kuće su obranjene, a vatrogasci su i danas na terenu. Dan kornatske tragedije, 30. kolovoza, bit će Dan sjećanja na poginule hrvatske vatrogasce. Izrael nastavlja ofenzivu na Zapadnoj obali. Dinamo će danas doznati s kim će igrati u Ligi prvaka. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>BDP u drugom kvartalu porastao 3,3 posto. Nakon igrokaza s uhićenjem navodnog špijuna i zadržavanjem Severine Vučković na granici Gordan Jandroković poručio da je Srbija nedemokratska, nedosljedna i neprincipijelna država koja izaziva regionalne svađe. Uhićen vozač za kojeg se sumnja da je rano jutros kod Gornjeg Slatnika pregazio 47-godišnjeg muškarca. Rusija s nekoliko valova projektila i dronova ponovno napala ukrajinsku infrastrukturu. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 27 Aug 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/d6/20240827-dnevne-novosti-35586775-20240827134034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.08. 2024-08-26</title>
-    <link>https://api.hrt.hr/media/c3/75/20240826-dnevne-novosti-35584246-20240826134517.mp3</link>
-    <description>Srbi tvrde da su u Beogradu uhitili hrvatskog špijuna. U našem Ministarstvu vanjskih poslova o tome ne znaju ništa. Masovni ruski napad na Ukrajinu, s više od stotinu projektila i stotinjak bespilotnih letjelica. U Domovinskom pokretu ne prestaju napadi i podjele. Split i Dubrovnik noćas su bili najtopliji gradovi u Europi. Urednik: Mario Krstanović</description>
-    <pubDate>Mon, 26 Aug 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/75/20240826-dnevne-novosti-35584246-20240826134517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
