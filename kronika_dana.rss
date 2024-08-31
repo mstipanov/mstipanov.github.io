@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 30 Aug 2024 20:45:25 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 20:51:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.08. 2024-08-31</title>
+    <link>https://api.hrt.hr/media/af/86/20240831-kronika-dana-35598876-20240831203014.mp3</link>
+    <description>Ivan Penava ostaje predsjednik Domovinskog pokreta. Njegov izazivač Mario Radić napustio Izborni sabor. Stjepo Bartulica napustio stranku. Pentagon odobrio prodaju višecijevnih raketnih bacača HIMARS. U Pojasu Gaze počelo cijepljenje stotine tisuća palestinske djece protiv dječje paralize. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 31 Aug 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/af/86/20240831-kronika-dana-35598876-20240831203014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.08. 2024-08-30</title>
     <link>https://api.hrt.hr/media/c6/69/20240830-kronika-dana-35596690-20240830204012.mp3</link>
     <description>Inflacija u Hrvatskoj se usporava. Premijer tvrdi da neće biti drastičnog poskupljenja plina. Sutra dan odluke o Domovinskom pokretu. Penava ili Radić - tko će biti predsjednik stranke? U ruskom napadu na višestambenu zgradu u Harkivu petero poginulih i nekoliko desetaka ranjenih. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U Žrnovnici više nema otvorenog plamena. Tijekom gašenja požara ozlijeđena trojica vatrogasaca. Zakon o porezu na nekretnine ide u javno savjetovanje. Uz vojne počasti u Aleji velikana pokopan je SDP-ov europarlamentarac i bivši ministar branitelja Predrag Fred Matić. Uoči unutarstranačkih izbora u subotu, nova previranja u Domovinskom pokretu. Dinamo ušao u ligu prvaka. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 28 Aug 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/16/aa/20240828-kronika-dana-35590705-20240828203533.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.08. 2024-08-27</title>
-    <link>https://api.hrt.hr/media/0d/c2/20240827-kronika-dana-35587590-20240827203529.mp3</link>
-    <description>Razbuktao se požar kod Žrnovnice, vatrogasci se bore za svaku kuću. U Hrvatskoj se svi, pa i tajne službe, pitaju tko je navodni hrvatski špijun uhićen u Beogradu. BDP u drugom tromjesečju porastao 3,3 posto. Izraelska vojska spasila taoca kojeg je u zatočeništvu držao Hamas. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 27 Aug 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/c2/20240827-kronika-dana-35587590-20240827203529.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
