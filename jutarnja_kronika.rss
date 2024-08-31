@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 30 Aug 2024 05:42:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 05:48:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 31.08. 2024-08-31</title>
+    <link>https://api.hrt.hr/media/f9/c6/20240831-jutarnja-kronika-35597221-20240831053511.mp3</link>
+    <description>Dan odluke u Domovinskom pokretu tko će biti novi predsjednik stranke - Penava ili Radić.čki State Department odobrio prodaju HIMARS-a Hrvatskoj. napad u Njemačkoj: napadačica u autobusu nožem ranila pet osoba, tri su u kritičnom stanju. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 31 Aug 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f9/c6/20240831-jutarnja-kronika-35597221-20240831053511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.08. 2024-08-30</title>
     <link>https://api.hrt.hr/media/a0/fa/20240830-jutarnja-kronika-35594036-20240830053601.mp3</link>
     <description>17. je godišnjica kornatske tragedije u kojoj je poginulo 12 vatrogasaca. Međunarodni je dan nestalih osoba. Hrvatska još traži 1792-ije nestale i smrtno stradale osobe, od toga 370 iz Vukovara. HERA odredila cijene plina, bez Vladinih mjera mogle bi porasti i 30-ak posto. Od iduće godine uvodi se porez na nekretnine. Pojedinosti ćemo doznati u ponedjeljak. U SDP-u je šest kandidata za novog predsjednika stranke. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>I dalje gori kod Splita, ali stanje je lakše. U pomoć stižu kanaderi. Nitko u zemlji, pa ni tajne službe nemaju odgovor na pitanje - tko je navodni hrvatski špijun uhićen u Beogradu. U Zagrebu komemoracija i ispraćaj europskog parlamentarca, vukovarskog branitelja i bivšeg ministra Freda Matića. U Parizu počinju Paraolimpijske igre. Hrvatske boje branit će 22-oje parasportaša. Urednica: Snježana Kralj</description>
     <pubDate>Wed, 28 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/36/6e/20240828-jutarnja-kronika-35588195-20240828054034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.08. 2024-08-27</title>
-    <link>https://api.hrt.hr/media/b5/b4/20240827-jutarnja-kronika-35585487-20240827053030.mp3</link>
-    <description>Munje u Dalmaciji izazvale nekoliko požara. Očekuje se prva procjena BDP-a za drugo ovogodišnje tromjesečje. Srbi tvrde da su u Beogradu uhitili hrvatskog špijuna. U našemu Ministarstvu vanjskih poslova o tome nemaju saznanja. Nakon najvećega ruskoga zračnog napada - Ukrajina priprema odgovor, poručio Zelenski. Ruski dron ušao u poljski zračni prostor. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 27 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/b4/20240827-jutarnja-kronika-35585487-20240827053030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
