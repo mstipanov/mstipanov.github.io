@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 05:48:48 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 05:52:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.09. 2024-09-01</title>
+    <link>https://api.hrt.hr/media/87/63/20240901-jutarnja-kronika-35599451-20240901053514.mp3</link>
+    <description>Jadrolinijinu trajektu Mljet pala rampa u supetarskoj luci. Vozila i putnici iskrcani preko druge rampe. Raskol u Domovinskom pokretu - Penava ostaje predsjednik, Radić napustio Izborni sabor. Večernji list objavio podatke MORH-a: predsjednik Milanović vojnim helikopterima letio 348 puta, trošak je barem milijun eura. Ukrajina lansirala dron i prema Moskvi, srušen je. U Gazi počinje cijepljenje djece. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 01 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/87/63/20240901-jutarnja-kronika-35599451-20240901053514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 31.08. 2024-08-31</title>
     <link>https://api.hrt.hr/media/f9/c6/20240831-jutarnja-kronika-35597221-20240831053511.mp3</link>
     <description>Dan odluke u Domovinskom pokretu tko će biti novi predsjednik stranke - Penava ili Radić.čki State Department odobrio prodaju HIMARS-a Hrvatskoj. napad u Njemačkoj: napadačica u autobusu nožem ranila pet osoba, tri su u kritičnom stanju. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Jutros uzlijeću dva kanadera u pomoć vatrogascima kod Sitnog Gornjeg i Donjeg. Stanje je bolje nego sinoć i lokalne ceste su otvorene. Priprema se Zakon o porezu na nekretnine. Izrael napao mete na Zapadnoj obali. Nakon jučerašnje pobjede nad Qarabagom u Bakuu, Dinamo će večeras na ždrijebu saznati protivnike u Ligi prvaka. Urednik: Mislav Togonal</description>
     <pubDate>Thu, 29 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/23/20240829-jutarnja-kronika-35591237-20240829053536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.08. 2024-08-28</title>
-    <link>https://api.hrt.hr/media/36/6e/20240828-jutarnja-kronika-35588195-20240828054034.mp3</link>
-    <description>I dalje gori kod Splita, ali stanje je lakše. U pomoć stižu kanaderi. Nitko u zemlji, pa ni tajne službe nemaju odgovor na pitanje - tko je navodni hrvatski špijun uhićen u Beogradu. U Zagrebu komemoracija i ispraćaj europskog parlamentarca, vukovarskog branitelja i bivšeg ministra Freda Matića. U Parizu počinju Paraolimpijske igre. Hrvatske boje branit će 22-oje parasportaša. Urednica: Snježana Kralj</description>
-    <pubDate>Wed, 28 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/36/6e/20240828-jutarnja-kronika-35588195-20240828054034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
