@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Sep 2024 05:52:59 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 05:57:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.09. 2024-09-02</title>
+    <link>https://api.hrt.hr/media/58/af/20240902-jutarnja-kronika-35601680-20240902053516.mp3</link>
+    <description>Dva požara na splitskom području! Ponovno gori kod Žrnovnice. Rampa na trajektu Mljet vraćena u funkciju. Izraelci izašli na prosvjede zbog ubojstva talaca. Od Netanyahua traže hitan dogovor s Hamasom - za sutra najavljen i opći štrajk. Krajnje desna Alternativa za Njemačku pobijedila na izborima u saveznoj pokrajini Tiringiji. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 02 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/58/af/20240902-jutarnja-kronika-35601680-20240902053516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.09. 2024-09-01</title>
     <link>https://api.hrt.hr/media/87/63/20240901-jutarnja-kronika-35599451-20240901053514.mp3</link>
     <description>Jadrolinijinu trajektu Mljet pala rampa u supetarskoj luci. Vozila i putnici iskrcani preko druge rampe. Raskol u Domovinskom pokretu - Penava ostaje predsjednik, Radić napustio Izborni sabor. Večernji list objavio podatke MORH-a: predsjednik Milanović vojnim helikopterima letio 348 puta, trošak je barem milijun eura. Ukrajina lansirala dron i prema Moskvi, srušen je. U Gazi počinje cijepljenje djece. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>17. je godišnjica kornatske tragedije u kojoj je poginulo 12 vatrogasaca. Međunarodni je dan nestalih osoba. Hrvatska još traži 1792-ije nestale i smrtno stradale osobe, od toga 370 iz Vukovara. HERA odredila cijene plina, bez Vladinih mjera mogle bi porasti i 30-ak posto. Od iduće godine uvodi se porez na nekretnine. Pojedinosti ćemo doznati u ponedjeljak. U SDP-u je šest kandidata za novog predsjednika stranke. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 30 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/fa/20240830-jutarnja-kronika-35594036-20240830053601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.08. 2024-08-29</title>
-    <link>https://api.hrt.hr/media/e9/23/20240829-jutarnja-kronika-35591237-20240829053536.mp3</link>
-    <description>Jutros uzlijeću dva kanadera u pomoć vatrogascima kod Sitnog Gornjeg i Donjeg. Stanje je bolje nego sinoć i lokalne ceste su otvorene. Priprema se Zakon o porezu na nekretnine. Izrael napao mete na Zapadnoj obali. Nakon jučerašnje pobjede nad Qarabagom u Bakuu, Dinamo će večeras na ždrijebu saznati protivnike u Ligi prvaka. Urednik: Mislav Togonal</description>
-    <pubDate>Thu, 29 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/23/20240829-jutarnja-kronika-35591237-20240829053536.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
