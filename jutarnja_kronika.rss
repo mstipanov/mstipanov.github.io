@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Sep 2024 05:57:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 06:03:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.09. 2024-09-03</title>
+    <link>https://api.hrt.hr/media/ec/4e/20240903-jutarnja-kronika-35604524-20240903053023.mp3</link>
+    <description>Predsjednik Milanović od premijera Plenkovića traži da hitno objasni što se događa s Jadrolinijom. Premijer predsjednika proziva zbog troškova korištenja vojnih helikoptera. Izraelski premijer Netanyahu ispričao se obiteljima ubijenih talaca. Zagreb nabavlja još 20 novih tramvaja. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 03 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/4e/20240903-jutarnja-kronika-35604524-20240903053023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.09. 2024-09-02</title>
     <link>https://api.hrt.hr/media/58/af/20240902-jutarnja-kronika-35601680-20240902053516.mp3</link>
     <description>Dva požara na splitskom području! Ponovno gori kod Žrnovnice. Rampa na trajektu Mljet vraćena u funkciju. Izraelci izašli na prosvjede zbog ubojstva talaca. Od Netanyahua traže hitan dogovor s Hamasom - za sutra najavljen i opći štrajk. Krajnje desna Alternativa za Njemačku pobijedila na izborima u saveznoj pokrajini Tiringiji. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Dan odluke u Domovinskom pokretu tko će biti novi predsjednik stranke - Penava ili Radić.čki State Department odobrio prodaju HIMARS-a Hrvatskoj. napad u Njemačkoj: napadačica u autobusu nožem ranila pet osoba, tri su u kritičnom stanju. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 31 Aug 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f9/c6/20240831-jutarnja-kronika-35597221-20240831053511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.08. 2024-08-30</title>
-    <link>https://api.hrt.hr/media/a0/fa/20240830-jutarnja-kronika-35594036-20240830053601.mp3</link>
-    <description>17. je godišnjica kornatske tragedije u kojoj je poginulo 12 vatrogasaca. Međunarodni je dan nestalih osoba. Hrvatska još traži 1792-ije nestale i smrtno stradale osobe, od toga 370 iz Vukovara. HERA odredila cijene plina, bez Vladinih mjera mogle bi porasti i 30-ak posto. Od iduće godine uvodi se porez na nekretnine. Pojedinosti ćemo doznati u ponedjeljak. U SDP-u je šest kandidata za novog predsjednika stranke. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 30 Aug 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/fa/20240830-jutarnja-kronika-35594036-20240830053601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
