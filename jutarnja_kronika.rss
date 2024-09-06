@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 05 Sep 2024 05:41:20 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 05:46:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.09. 2024-09-06</title>
+    <link>https://api.hrt.hr/media/44/57/20240906-jutarnja-kronika-35613576-20240906053531.mp3</link>
+    <description>Vlada će predstaviti novi paket mjera pomoći u borbi protiv inflacije. U Zagrebu ubijena žena, muškarac vjerojatno počinio samoubojstvo, navodno je riječ o bivšem bračnom paru. Broj poginulih u ruskom raketnom napadu na ukrajinski vojni institut u Poltavi prije dva dana porastao na 55, pod ruševinama vjerojatno još ima ljudi. SPORT: Hrvatska nogometna reprezentacija u susretu 1. kola Lige nacija izgubila u Lisabonu od Portugala 2:1. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 06 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/44/57/20240906-jutarnja-kronika-35613576-20240906053531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.09. 2024-09-05</title>
     <link>https://api.hrt.hr/media/ae/92/20240905-jutarnja-kronika-35610565-20240905053528.mp3</link>
     <description>Drugog dana posjeta Bosni i Hercegovini premijer Andrej Plenković boravi u Mostaru. Još nije poznat identitet vozača koji je izazvao nesreću na benzinskoj postaji odmorišta Mosor Jug. U Ukrajini kriza kadroviranja u vladi, Rusija ponovno prijeti uporabom nuklearnog oružja. Večeras u zagrebačkoj Areni memorijalna utakmica u sjećanje na Dražena Petrovića. Uredio: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik Milanović od premijera Plenkovića traži da hitno objasni što se događa s Jadrolinijom. Premijer predsjednika proziva zbog troškova korištenja vojnih helikoptera. Izraelski premijer Netanyahu ispričao se obiteljima ubijenih talaca. Zagreb nabavlja još 20 novih tramvaja. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 03 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ec/4e/20240903-jutarnja-kronika-35604524-20240903053023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.09. 2024-09-02</title>
-    <link>https://api.hrt.hr/media/58/af/20240902-jutarnja-kronika-35601680-20240902053516.mp3</link>
-    <description>Dva požara na splitskom području! Ponovno gori kod Žrnovnice. Rampa na trajektu Mljet vraćena u funkciju. Izraelci izašli na prosvjede zbog ubojstva talaca. Od Netanyahua traže hitan dogovor s Hamasom - za sutra najavljen i opći štrajk. Krajnje desna Alternativa za Njemačku pobijedila na izborima u saveznoj pokrajini Tiringiji. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 02 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/58/af/20240902-jutarnja-kronika-35601680-20240902053516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
