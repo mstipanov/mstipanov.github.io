@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Sep 2024 20:48:54 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 21:19:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.09. 2024-09-06</title>
+    <link>https://api.hrt.hr/media/3e/b4/20240906-kronika-dana-35616169-20240906204035.mp3</link>
+    <description>Vlada predstavila novi paket mjera, struja i plin poskupljuju 10 posto, umirovljenici dobivaju jednokratne potpore. Volodomir Zelenski na sastanku kontaktne skupine za Ukrajinu u zrakoplovnoj bazi Ramstein. Pozvao je da im se što prije isporuči oružje. Anđela Mužinić Vincetić osvojila zlatnu medalju na Paraolimpijskim igrama u Parizu. Urednica: Mira Barić</description>
+    <pubDate>Fri, 06 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3e/b4/20240906-kronika-dana-35616169-20240906204035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.09. 2024-09-05</title>
     <link>https://api.hrt.hr/media/18/58/20240905-kronika-dana-35612969-20240905204033.mp3</link>
     <description>U Zagrebu ubijena žena, muškarac vjerojatno počinio samoubojstvo, navodno je riječ o bivšem bračnom paru. Vlada bi sutra trebala predstaviti novi paket mjera, sa smanjenim subvencijama za struju i plin. Košarkaške zvijezde u zagrebačkoj Areni na Memorijalu Dražena Petrovića. Urednica: Sanja Cota</description>
