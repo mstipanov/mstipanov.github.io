@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 07 Sep 2024 13:51:47 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 14:21:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.09. 2024-09-07</title>
+    <link>https://api.hrt.hr/media/40/6e/20240907-dnevne-novosti-35617788-20240907135045.mp3</link>
+    <description>Muškarac koji je sinoć tijekom intervencije napao policajca u Tovarniku, umro od posljedica ranjavanja. Ukrajinci napali rusku Voronješku regiju u kojoj je proglašeno izvanredno stanje. Predsjednik Zelenski nakon Njemačke danas u Italiji. Na Plitvičkim jezerima medvjed napao 64-godišnjeg mještanina. Urednica: Mira Barić</description>
+    <pubDate>Sat, 07 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/6e/20240907-dnevne-novosti-35617788-20240907135045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.09. 2024-09-06</title>
     <link>https://api.hrt.hr/media/bc/b7/20240906-dnevne-novosti-35615245-20240906134037.mp3</link>
     <description>Novi Vladin paket pomoći građanima i gospodarstvu - struja i plin ipak poskupljuju 10 posto. Amerikanci najavili novu pošiljku oružja Ukrajini, vrijednu 250 milijuna dolara. Film "Lijepa večer, lijep dan" Ivone Juke hrvatski je kandidat za Oscara. Urednik: Mario Krstanović</description>
