@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Sep 2024 21:01:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 20:36:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Istražuje se slučaj napada na policiju u Tovarniku, napadač umro u bolnici. Drugi put ovaj tjedan iz Zadra u Zagreb prevezeno srce za transplantaciju helikopterom ratnog zrakoplovstva. Sport: Na Paraolimpijskim igrama u Parizu danas dva odličja za Hrvatsku. Broncu je osvojio Dino Sinovčić u plivanju na 100 metara leđno, a srebro Deni Černi u bacanju kugle. Urednica: Sanja Cota</description>
     <pubDate>Sat, 07 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9d/62/20240907-kronika-dana-35618559-20240907204542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.09. 2024-09-06</title>
-    <link>https://api.hrt.hr/media/3e/b4/20240906-kronika-dana-35616169-20240906204035.mp3</link>
-    <description>Vlada predstavila novi paket mjera, struja i plin poskupljuju 10 posto, umirovljenici dobivaju jednokratne potpore. Volodomir Zelenski na sastanku kontaktne skupine za Ukrajinu u zrakoplovnoj bazi Ramstein. Pozvao je da im se što prije isporuči oružje. Anđela Mužinić Vincetić osvojila zlatnu medalju na Paraolimpijskim igrama u Parizu. Urednica: Mira Barić</description>
-    <pubDate>Fri, 06 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3e/b4/20240906-kronika-dana-35616169-20240906204035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
