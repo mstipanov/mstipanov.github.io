@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Sep 2024 05:59:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 06:03:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.09. 2024-09-10</title>
+    <link>https://api.hrt.hr/media/38/35/20240910-jutarnja-kronika-35624440-20240910053050.mp3</link>
+    <description>U Dubrovniku jučer u manje od dva sata palo čak 112 litara kiše po četvornome metru. Voda je izbijala iz šahtova, slijevale su se bujice, bili su zarobljeni i automobili. Obrat u slučaju dječaka zbog kojeg su se svi drugi učenici ispisali iz škole - on će biti premješten u drugu školu. Od ponoći benzin jeftiniji pet, a dizel dva centa. U Rijeci počinje 8. History filmski festival. Urednik Silvio Šop</description>
+    <pubDate>Tue, 10 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/38/35/20240910-jutarnja-kronika-35624440-20240910053050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.09. 2024-09-09</title>
     <link>https://api.hrt.hr/media/68/89/20240909-jutarnja-kronika-35621097-20240909053543.mp3</link>
     <description>Počinje nova nastavna godina. Tajfun Yagi pogodio sjever Vijetnama, poginule 24 osobe. Sukob hrvatskih i poljskih navijača u Osijeku uoči i nakon utakmice Lige nacija u kojoj je Hrvatska pobijedila Poljsku 1:0, Više desetaka privedenih. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Struja i plin poskupljuju 10 posto, umirovljenicima stiže jednokratna pomoć. U Tovarniku oštrim predmetom napadnut policajac, on uzvratio vatrenim oružjem. Ljevica u Francuskoj najavila prosvjede zbog imenovanja novog premijera. Anđela Mužinić Vincetić osvojila prvu zlatnu medalju za Hrvatsku na Paraolimpijskim igrama u Parizu. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 07 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/68/cd/20240907-jutarnja-kronika-35616744-20240907054540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.09. 2024-09-06</title>
-    <link>https://api.hrt.hr/media/44/57/20240906-jutarnja-kronika-35613576-20240906053531.mp3</link>
-    <description>Vlada će predstaviti novi paket mjera pomoći u borbi protiv inflacije. U Zagrebu ubijena žena, muškarac vjerojatno počinio samoubojstvo, navodno je riječ o bivšem bračnom paru. Broj poginulih u ruskom raketnom napadu na ukrajinski vojni institut u Poltavi prije dva dana porastao na 55, pod ruševinama vjerojatno još ima ljudi. SPORT: Hrvatska nogometna reprezentacija u susretu 1. kola Lige nacija izgubila u Lisabonu od Portugala 2:1. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 06 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/57/20240906-jutarnja-kronika-35613576-20240906053531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
