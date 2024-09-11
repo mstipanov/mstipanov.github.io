@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 10 Sep 2024 06:03:25 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 05:39:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Još traje istraga u Tovarniku, poslan stručni tim kako bi se utvrdile sve činjenice vezane za policijsko postupanje.Spriječen atentat na papu Franju planiran tijekom njegove turneje po Aziji.Zlatnog lava na Venecijanskom filmskom festivalu osvojio film Pedra Almodovara "The Room Next Door". Urednica Mira Barić</description>
     <pubDate>Sun, 08 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/58/8c/20240908-jutarnja-kronika-35619066-20240908053540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.09. 2024-09-07</title>
-    <link>https://api.hrt.hr/media/68/cd/20240907-jutarnja-kronika-35616744-20240907054540.mp3</link>
-    <description>Struja i plin poskupljuju 10 posto, umirovljenicima stiže jednokratna pomoć. U Tovarniku oštrim predmetom napadnut policajac, on uzvratio vatrenim oružjem. Ljevica u Francuskoj najavila prosvjede zbog imenovanja novog premijera. Anđela Mužinić Vincetić osvojila prvu zlatnu medalju za Hrvatsku na Paraolimpijskim igrama u Parizu. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 07 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/68/cd/20240907-jutarnja-kronika-35616744-20240907054540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
