@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 10 Sep 2024 21:06:16 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 20:41:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.09. 2024-09-11</title>
+    <link>https://api.hrt.hr/media/16/e1/20240911-kronika-dana-35630356-20240911203554.mp3</link>
+    <description>Premijer Plenković u Kijevu - ukrajinskome državnom vrhu predstavio novi paket mjera pomoći Hrvatske. Ankete pokazuju da je Kamala Harris u prvome televizijskom sučeljavanju bila bolja od Donalda Trumpa. Saborski Odbor za pomorstvo, promet i infrastrukturu sutra će raspravljati o stanju u Jadroliniji i sigurnosti trajektnog prometa u Hrvatskoj. Urednica: Mira Barić</description>
+    <pubDate>Wed, 11 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/e1/20240911-kronika-dana-35630356-20240911203554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.09. 2024-09-10</title>
     <link>https://api.hrt.hr/media/4d/36/20240910-kronika-dana-35627092-20240910205057.mp3</link>
     <description>Idući tjedan predstavljanje poreza na nekretnine. Naši liječnici - u 14 dana obavili 14 transplantacija, prvi put istodobno presađani srce i bubreg. Vladimir Putin tvrdi da SAD kroz Ukrajinu želi Rusiji nanijeti strateški poraz i da Rusi moraju biti spremni odbiti moguću vojnu agresiju iz svih smjerova. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Sutra počinje nastava. U školskim klupama 450 tisuća učenika. Pravobraniteljica poslala poruku i roditeljima. U središtu Osijeka potukli se hrvatski i poljski navijači. Petorica uhićena. Članice NATO-a Latvija i Rumunjska tvrde da su ruski dronovi povrijedili njihov zračni prostor. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 08 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/95/20240908-kronika-dana-35620554-20240908204046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.09. 2024-09-07</title>
-    <link>https://api.hrt.hr/media/9d/62/20240907-kronika-dana-35618559-20240907204542.mp3</link>
-    <description>Istražuje se slučaj napada na policiju u Tovarniku, napadač umro u bolnici. Drugi put ovaj tjedan iz Zadra u Zagreb prevezeno srce za transplantaciju helikopterom ratnog zrakoplovstva. Sport: Na Paraolimpijskim igrama u Parizu danas dva odličja za Hrvatsku. Broncu je osvojio Dino Sinovčić u plivanju na 100 metara leđno, a srebro Deni Černi u bacanju kugle. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 07 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/62/20240907-kronika-dana-35618559-20240907204542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
