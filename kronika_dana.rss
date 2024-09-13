@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 12 Sep 2024 21:17:16 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 20:51:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.09. 2024-09-13</title>
+    <link>https://api.hrt.hr/media/e6/4b/20240913-kronika-dana-35637221-20240913204013.mp3</link>
+    <description>Otvorena druga cijev tunela Učke. Predsjednik Milanović poručuje da treba zaustaviti nekontrolirano dovođenje stranih radnika. Ciklona Boris prijeti poplavama srednjoj Europi. U Hrvatskoj veliki pad temperature. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 13 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/4b/20240913-kronika-dana-35637221-20240913204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.09. 2024-09-12</title>
     <link>https://api.hrt.hr/media/f9/b2/20240912-kronika-dana-35633795-20240912204008.mp3</link>
     <description>Poplava na Dugom otoku, bujice u Istri, na moru pijavice. Središnja Europa priprema se za povijesne poplave. Na saborskom odboru ministar Butković priznao da je pogriješio jer nakon pomorske tragedije nije otišao na Mali Lošinj, o ostavci je razmišljao. Rusi pokrenuli protunapad u Kurskoj regiji. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Idući tjedan predstavljanje poreza na nekretnine. Naši liječnici - u 14 dana obavili 14 transplantacija, prvi put istodobno presađani srce i bubreg. Vladimir Putin tvrdi da SAD kroz Ukrajinu želi Rusiji nanijeti strateški poraz i da Rusi moraju biti spremni odbiti moguću vojnu agresiju iz svih smjerova. Urednica: Sanja Cota</description>
     <pubDate>Tue, 10 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/36/20240910-kronika-dana-35627092-20240910205057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.09. 2024-09-09</title>
-    <link>https://api.hrt.hr/media/36/6d/20240909-kronika-dana-35623808-20240909204048.mp3</link>
-    <description>Dubrovniku prijeti novo nevrijeme, na snazi crveni alarm. Za više od 450 tisuća učenika osnovnih i srednjih škola počela je nova nastavna godina. Catherine, princeza od Walesa, objavila da je završila kemoterapiju te najavila nekoliko javnih angažmana.Urednica Mira Barić</description>
-    <pubDate>Mon, 09 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/36/6d/20240909-kronika-dana-35623808-20240909204048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
