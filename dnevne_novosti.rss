@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Sep 2024 14:20:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 13:55:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.09. 2024-09-14</title>
+    <link>https://api.hrt.hr/media/a2/05/20240914-dnevne-novosti-35638732-20240914134040.mp3</link>
+    <description>Agencija Standard &amp; Poor's povećala je rejting naše zemlje s 'BBB plus' na 'A minus', uz pozitivne izglede. Rejting je povijesni te prepoznaje Vladine reformske napore i rezultate, ističe premijer Plenković. SDP bira novog predsjednika ili predsjednicu stranke. U utrci je petero kandidata. Rusija jutros izvela masovni napad bespilotnim letjelicama na Ukrajinu Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 14 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a2/05/20240914-dnevne-novosti-35638732-20240914134040.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.09. 2024-09-13</title>
     <link>https://api.hrt.hr/media/48/85/20240913-dnevne-novosti-35636162-20240913134011.mp3</link>
     <description>Nakon više od tri godine radova, otvara se druga cijev tunela Učka. Ciklona Boris prijeti srednjoj Europi najvećim poplavama u posljednjih nekoliko desetljeća. Ginekolog osječkog KBC-a, osuđen za silovanje pacijentice, otišao na bolovanje. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Premijer Andrej Plenković boravi u nenajavljenom posjetu Ukrajini. Održana prva televizijska debata američkih predsjedničkih kandidata Kamale Harris i Donalda Trumpa. Predsjednik Domovinskog pokreta Ivan Penava o saborskoj većini - 78 je zacementirano. U Zagrebu večeras počinje Festival svjetskog kazališta. Urednik: Silvio Šop</description>
     <pubDate>Wed, 11 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9d/e6/20240911-dnevne-novosti-35629484-20240911133552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.09. 2024-09-10</title>
-    <link>https://api.hrt.hr/media/bf/67/20240910-dnevne-novosti-35625859-20240910134053.mp3</link>
-    <description>Noćašnja eksplozija u Osnovnoj školi Meje uznemirila Splićane. Liječnici KBC-a Zagreb u dva tjedna obavili 14 transplantacija od kojih su tri bile višeorganske. 40 ubijenih i najmanje 60 ranjenih Palestinaca u najnovijem izraelskom zračnom napadu na pojas Gaze. Ukrajina ispalila gotovo 140 projektila na Rusiju. Napadnuta i Moskva. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 10 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/67/20240910-dnevne-novosti-35625859-20240910134053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
