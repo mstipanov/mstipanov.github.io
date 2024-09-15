@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 14 Sep 2024 05:53:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 05:59:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.09. 2024-09-15</title>
+    <link>https://api.hrt.hr/media/b6/44/20240915-jutarnja-kronika-35639970-20240915053039.mp3</link>
+    <description>Europa se priprema za milenijske poplave. U Rumunjskoj petero poginulih. Siniša Hajdaš Dončić i Zoran Paunović u drugom krugu izbora za predsjednika SDP-a. Počinje obilježavanje Rujanskog rata za Šibenik. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 15 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/44/20240915-jutarnja-kronika-35639970-20240915053039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.09. 2024-09-14</title>
     <link>https://api.hrt.hr/media/16/84/20240914-jutarnja-kronika-35637810-20240914053532.mp3</link>
     <description>Agencija Standard &amp; Poor's povećala kreditni rejting Hrvatske. Najbolji je to rejting koji smo dosad imali. Premijer Plenković bit će gost Intervjua tjedna Hrvatskoga radija. SDP bira novog, petog predsjednika ili predsjednicu. Novoizgrađenom drugom cijevi tunela Učke prva će vozila krenuti kasno večeras. Ciklona Boris prijeti poplavama središnjoj Europi. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Premijer Andrej Plenković bio jučer u Kijevu - ukrajinskome državnom vrhu predstavio je novi paket mjera pomoći Hrvatske. Saborski Odbor za pomorstvo, promet i infrastrukturu raspravljat će o stanju u Jadroliniji i sigurnosti trajektnog prometa. Porez na nekretnine trebao bi biti između jednog i 10 eura po četvornome metru. Bez obzira na najavljenu kišu, Baby Lasagna večeras nastupa na zagrebačkoj Šalati. Urednik: Silvio Šop</description>
     <pubDate>Thu, 12 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/c2/20240912-jutarnja-kronika-35630952-20240912054508.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.09. 2024-09-11</title>
-    <link>https://api.hrt.hr/media/b7/69/20240911-jutarnja-kronika-35627615-20240911053551.mp3</link>
-    <description>U 4 sata i 45 minuta prema našem vremenu završilo prvo javno sučeljavanje američkih predsjedničkih kandidata Kamale Harris i Donalda Trumpa. Tajfun u Vjetnamu usmrtio više od 140 ljudi. Idući tjedan predstavljanje poreza na nekretnine. Počinje Festival svjetskog kazališta. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 11 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/69/20240911-jutarnja-kronika-35627615-20240911053551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
