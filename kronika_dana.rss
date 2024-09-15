@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 14 Sep 2024 20:57:17 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 20:31:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -23,14 +23,6 @@
     <description>Poplava na Dugom otoku, bujice u Istri, na moru pijavice. Središnja Europa priprema se za povijesne poplave. Na saborskom odboru ministar Butković priznao da je pogriješio jer nakon pomorske tragedije nije otišao na Mali Lošinj, o ostavci je razmišljao. Rusi pokrenuli protunapad u Kurskoj regiji. Urednica: Sanja Cota</description>
     <pubDate>Thu, 12 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f9/b2/20240912-kronika-dana-35633795-20240912204008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.09. 2024-09-11</title>
-    <link>https://api.hrt.hr/media/16/e1/20240911-kronika-dana-35630356-20240911203554.mp3</link>
-    <description>Premijer Plenković u Kijevu - ukrajinskome državnom vrhu predstavio novi paket mjera pomoći Hrvatske. Ankete pokazuju da je Kamala Harris u prvome televizijskom sučeljavanju bila bolja od Donalda Trumpa. Saborski Odbor za pomorstvo, promet i infrastrukturu sutra će raspravljati o stanju u Jadroliniji i sigurnosti trajektnog prometa u Hrvatskoj. Urednica: Mira Barić</description>
-    <pubDate>Wed, 11 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/16/e1/20240911-kronika-dana-35630356-20240911203554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
