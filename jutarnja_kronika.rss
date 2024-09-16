@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Sep 2024 05:59:19 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 06:03:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.09. 2024-09-16</title>
+    <link>https://api.hrt.hr/media/d0/76/20240916-jutarnja-kronika-35642027-20240916053538.mp3</link>
+    <description>Novi atentat na Trumpa na igralištu za golf na Floridi. Uhićen napadač s kalašnjikovom. Njemačka počinje provoditi nadzor svih granica kako bi spriječila ilegalni ulazak migranata u zemlju. Oluja Boris hara srednjom i istočnom Europom. Uskoro se očekuje rekordni vodeni val koji će se spuštati Dunavom.: Mislav Togonal</description>
+    <pubDate>Mon, 16 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/76/20240916-jutarnja-kronika-35642027-20240916053538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.09. 2024-09-15</title>
     <link>https://api.hrt.hr/media/b6/44/20240915-jutarnja-kronika-35639970-20240915053039.mp3</link>
     <description>Europa se priprema za milenijske poplave. U Rumunjskoj petero poginulih. Siniša Hajdaš Dončić i Zoran Paunović u drugom krugu izbora za predsjednika SDP-a. Počinje obilježavanje Rujanskog rata za Šibenik. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Zbog obilne kiše izdana upozorenja na moguće bujične poplave. Središnja Europa priprema se za najgore poplave posljednjih desetljeća. Danas se otvara druga cijev tunela Učka, po dužini trećeg u Hrvatskoj, nakon Male Kapele i Svetog Roka. Na Maksimiru prvi ovosezonski derbi Dinama i Hajduka. Urednica: Mira Barić</description>
     <pubDate>Fri, 13 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a3/a8/20240913-jutarnja-kronika-35634419-20240913053507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.09. 2024-09-12</title>
-    <link>https://api.hrt.hr/media/a0/c2/20240912-jutarnja-kronika-35630952-20240912054508.mp3</link>
-    <description>Premijer Andrej Plenković bio jučer u Kijevu - ukrajinskome državnom vrhu predstavio je novi paket mjera pomoći Hrvatske. Saborski Odbor za pomorstvo, promet i infrastrukturu raspravljat će o stanju u Jadroliniji i sigurnosti trajektnog prometa. Porez na nekretnine trebao bi biti između jednog i 10 eura po četvornome metru. Bez obzira na najavljenu kišu, Baby Lasagna večeras nastupa na zagrebačkoj Šalati. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 12 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/c2/20240912-jutarnja-kronika-35630952-20240912054508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
