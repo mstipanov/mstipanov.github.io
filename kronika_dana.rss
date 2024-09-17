@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 16 Sep 2024 21:05:43 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 21:10:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.09. 2024-09-17</title>
+    <link>https://api.hrt.hr/media/30/2b/20240917-kronika-dana-35648209-20240917204020.mp3</link>
+    <description>Hezbolah okrivio Izrael za eksplozije u kojima je u Libanonu ubijeno devetero, a u Siriji sedmero ljudi, dok je gotovo tri tisuće ljudi ranjeno. Raste broj poginulih u katastrofalnim poplavama u dijelovima srednje i istočne Europe. Slovačka i Mađarska pripremaju se za vrhunac vodostaja Dunava. U novoj Europskoj komisiji Dubravka Šuica povjerenica za Mediteran i za demografiju. Urednica Mira Barić</description>
+    <pubDate>Tue, 17 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/30/2b/20240917-kronika-dana-35648209-20240917204020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.09. 2024-09-16</title>
     <link>https://api.hrt.hr/media/ea/35/20240916-kronika-dana-35644865-20240916204042.mp3</link>
     <description>Kapetan Marko Bekavac u Turskoj nepravomoćno osuđen na 30 godina zatvora.Najmanje 17-ero ljudi poginulo u poplavama u srednjoj i istočnoj Europi. Evakuirane tisuće ljudi.Njemačka uvela kontrole na svim kopnenim granicama radi ograničavanja ilegalnih migracija.Urednica: Mira Barić.</description>
@@ -23,14 +31,6 @@
     <description>Pucnjava ispred terena za golf Donalda Trumpa na Floridi. Tajna služba premjestila Trumpa na sigurno. Oluja Boris stvorila kataklizmu u srednjoj i istočnoj Europi: sedmero ljudi se utopilo, nekoliko ih nestalo. I Hrvatska može očekivati visoke vodostaje rijeka. Njemačka od sutra provodi granične kontrole nakon niza napada u zemlji i burne rasprave o imigraciji. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 15 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/76/20240915-kronika-dana-35641502-20240915204040.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.09. 2024-09-13</title>
-    <link>https://api.hrt.hr/media/e6/4b/20240913-kronika-dana-35637221-20240913204013.mp3</link>
-    <description>Otvorena druga cijev tunela Učke. Predsjednik Milanović poručuje da treba zaustaviti nekontrolirano dovođenje stranih radnika. Ciklona Boris prijeti poplavama srednjoj Europi. U Hrvatskoj veliki pad temperature. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 13 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e6/4b/20240913-kronika-dana-35637221-20240913204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
