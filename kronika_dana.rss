@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Sep 2024 20:52:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 20:58:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hezbolah okrivio Izrael za eksplozije u kojima je u Libanonu ubijeno devetero, a u Siriji sedmero ljudi, dok je gotovo tri tisuće ljudi ranjeno. Raste broj poginulih u katastrofalnim poplavama u dijelovima srednje i istočne Europe. Slovačka i Mađarska pripremaju se za vrhunac vodostaja Dunava. U novoj Europskoj komisiji Dubravka Šuica povjerenica za Mediteran i za demografiju. Urednica Mira Barić</description>
     <pubDate>Tue, 17 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/30/2b/20240917-kronika-dana-35648209-20240917204020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.09. 2024-09-16</title>
-    <link>https://api.hrt.hr/media/ea/35/20240916-kronika-dana-35644865-20240916204042.mp3</link>
-    <description>Kapetan Marko Bekavac u Turskoj nepravomoćno osuđen na 30 godina zatvora.Najmanje 17-ero ljudi poginulo u poplavama u srednjoj i istočnoj Europi. Evakuirane tisuće ljudi.Njemačka uvela kontrole na svim kopnenim granicama radi ograničavanja ilegalnih migracija.Urednica: Mira Barić.</description>
-    <pubDate>Mon, 16 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ea/35/20240916-kronika-dana-35644865-20240916204042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
