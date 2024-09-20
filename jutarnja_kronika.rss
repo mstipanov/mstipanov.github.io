@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Sep 2024 05:48:52 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 05:54:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.09. 2024-09-20</title>
+    <link>https://api.hrt.hr/media/2d/da/20240920-jutarnja-kronika-35656015-20240920053043.mp3</link>
+    <description>Hrvatska se priprema za vodeni val Dunava koji se očekuje idući tjedan. Obrana od poplava jedna je od tema i Vladine sjednice.
+Ženska mreža Hrvatske diljem zemlje organizira prosvjede protiv nasilja nad ženama. Bliski istok na rubu nove eskalacije rata.čeras počinju Vinkovačke jeseni. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 20 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2d/da/20240920-jutarnja-kronika-35656015-20240920053043.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.09. 2024-09-19</title>
     <link>https://api.hrt.hr/media/40/a2/20240919-jutarnja-kronika-35652156-20240919053553.mp3</link>
     <description>Slovačka i Mađarska pripremaju se za vrhunac vodenoga vala. I u Hrvatskoj su mjerodavne službe u punoj pripravnosti. Nakon eksplozija ručnih dojavljivača zaredale i eksplozije voki-tokija militanata Hezbolaha. Vatikan će se ponovno oglasiti o fenomenu Međugorja. Sabor počeo jesensko zasjedanje. Danas na dnevnom redu Zakon o upravljanju i održavanju zgrada. Urednik: Grgo Mrvica</description>
@@ -31,14 +40,6 @@
     <description>Najmanje 17-ero ljudi poginulo u katastrofalnim poplavama u srednjoj i istočnoj Europi. Evakuirane tisuće ljudi. Kapetan Marko Bekavac u Turskoj nepravomoćno osuđen na 30 godina zatvora. Od danas skuplji tehnički pregled vozila. Večeras u zagrebačkoj Tvornici koncert dobitnika UNESCO-ova priznanja "Umjetnik mira", mongolskog folk metal benda The Hu. Urednik: Silvio Šop.</description>
     <pubDate>Tue, 17 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b9/c8/20240917-jutarnja-kronika-35645391-20240917053515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.09. 2024-09-16</title>
-    <link>https://api.hrt.hr/media/d0/76/20240916-jutarnja-kronika-35642027-20240916053538.mp3</link>
-    <description>Novi atentat na Trumpa na igralištu za golf na Floridi. Uhićen napadač s kalašnjikovom. Njemačka počinje provoditi nadzor svih granica kako bi spriječila ilegalni ulazak migranata u zemlju. Oluja Boris hara srednjom i istočnom Europom. Uskoro se očekuje rekordni vodeni val koji će se spuštati Dunavom.: Mislav Togonal</description>
-    <pubDate>Mon, 16 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/76/20240916-jutarnja-kronika-35642027-20240916053538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
