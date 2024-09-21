@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 20 Sep 2024 13:56:53 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 14:00:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.09. 2024-09-21</title>
+    <link>https://api.hrt.hr/media/82/09/20240921-dnevne-novosti-35660782-20240921134015.mp3</link>
+    <description>Uhićene tri osobe među kojima bivši direktor Hrvatskih cesta Josip Škorić. Sumnjiči ih se za namještanje poslova na osječkoj obilaznici. Nakon agencije Standard and Poors' i Fitch povećao kreditni rejting Hrvatske na ocjenu 'A'. SDP u drugom krugu bira predsjednika stranke između Hajdaša Dončića i Paunovića. Urednica: Mira Barić</description>
+    <pubDate>Sat, 21 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/82/09/20240921-dnevne-novosti-35660782-20240921134015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.09. 2024-09-20</title>
     <link>https://api.hrt.hr/media/d0/d1/20240920-dnevne-novosti-35658183-20240920134040.mp3</link>
     <description>Talijanska regija Emilia-Romagna pod vodom, Mađarska se priprema za obranu Budimpešte od poplave. Prvo glasovanje u Saboru potvrdilo da vladajući imaju većinu. Bliski istok pred eskalacijom sukoba. Hezbolah ispalio stotinjak raketa na Izrael. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Aktualnim prijepodnevom u Hrvatskom vojnom učilištu "Doktor Franjo Tuđman" počelo jesensko zasjedanje Sabora. Hezbolah najavio osvetu i optužuje Izrael za eksplozije mobilnih dojavljivača u Libanonu, u kojima je poginulo najmanje 12-ero ljudi, gotovo dvije tisuće i 800 ranjeno. Preokret u slučaju bivšega gradonačelnika Petrinje. Darinko Dumbović i njegov sin priznali krivnju i nagodili se s USKOK-om. Iza Dinama jedna od najtežih večeri u povijesti tog nogometnog kluba. Urednica: Mira Barić</description>
     <pubDate>Wed, 18 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0d/59/20240918-dnevne-novosti-35650768-20240918134024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.09. 2024-09-17</title>
-    <link>https://api.hrt.hr/media/cd/6d/20240917-dnevne-novosti-35647209-20240917134019.mp3</link>
-    <description>Srednja i istočna Europa i dalje se bore s katastrofalnim poplavama. Hrvatska ne očekuje veće probleme. U novoj Europskoj komisiji Dubravka Šuica povjerenica je za Sredozemlje. Potrošačke cijene u kolovozu 1,8 posto veće nego u istome mjesecu lani, to je najniža stopa inflacije od ožujka 2021. godine. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 17 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/6d/20240917-dnevne-novosti-35647209-20240917134019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
