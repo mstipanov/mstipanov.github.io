@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 21 Sep 2024 14:00:58 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 14:04:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.09. 2024-09-22</title>
+    <link>https://api.hrt.hr/media/3f/64/20240922-dnevne-novosti-35663112-20240922134014.mp3</link>
+    <description>Na Dunavu kod Batine proglašene izvanredne mjere obrane od poplava. Očekuje se odluka USKOK-a o tome hoće li zatražiti istražni zatvor za bivšeg predsjednika Uprave Hrvatskih cesta Josipa Škorića te za još dvoje uhićenih zbog korupcije. Nacionalni je dan borbe protiv nasilja nad ženama. Samo u ovoj godini u Hrvatskoj ubijeno 12 žena. U Iranu eksplozija metana u rudniku ugljena. Poginulo više od 50 ljudi. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 22 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3f/64/20240922-dnevne-novosti-35663112-20240922134014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.09. 2024-09-21</title>
     <link>https://api.hrt.hr/media/82/09/20240921-dnevne-novosti-35660782-20240921134015.mp3</link>
     <description>Uhićene tri osobe među kojima bivši direktor Hrvatskih cesta Josip Škorić. Sumnjiči ih se za namještanje poslova na osječkoj obilaznici. Nakon agencije Standard and Poors' i Fitch povećao kreditni rejting Hrvatske na ocjenu 'A'. SDP u drugom krugu bira predsjednika stranke između Hajdaša Dončića i Paunovića. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Odluka Vatikana o Međugorju ne govori o priznanju nadnaravnosti fenomena, ali dopušta javno štovanje Marije - Kraljice mira. Val eksplozija komunikacijskih uređaja u Libanonu odnio 30 života, tisuće su ozlijeđene, sve je više dokaza da iza svega stoji Mossad. Sporazumni razlaz Dinama i trenera Sergeja Jakirovića, klub privremeno preuzima Sandro Perković. Urednica: Sanja Cota</description>
     <pubDate>Thu, 19 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/92/91/20240919-dnevne-novosti-35653993-20240919133553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.09. 2024-09-18</title>
-    <link>https://api.hrt.hr/media/0d/59/20240918-dnevne-novosti-35650768-20240918134024.mp3</link>
-    <description>Aktualnim prijepodnevom u Hrvatskom vojnom učilištu "Doktor Franjo Tuđman" počelo jesensko zasjedanje Sabora. Hezbolah najavio osvetu i optužuje Izrael za eksplozije mobilnih dojavljivača u Libanonu, u kojima je poginulo najmanje 12-ero ljudi, gotovo dvije tisuće i 800 ranjeno. Preokret u slučaju bivšega gradonačelnika Petrinje. Darinko Dumbović i njegov sin priznali krivnju i nagodili se s USKOK-om. Iza Dinama jedna od najtežih večeri u povijesti tog nogometnog kluba. Urednica: Mira Barić</description>
-    <pubDate>Wed, 18 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/59/20240918-dnevne-novosti-35650768-20240918134024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
