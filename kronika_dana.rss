@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 21 Sep 2024 21:02:10 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 21:06:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.09. 2024-09-22</title>
+    <link>https://api.hrt.hr/media/b7/c5/20240922-kronika-dana-35663914-20240922204013.mp3</link>
+    <description>Mjesec dana istražnog zatvora za bivšeg čelnika Hrvatskih cesta Josipa Škorića i još dvoje uhićenih zbog namještanja poslova i mita. Na Dunavu kod Batine izvanredne mjere obrane od poplava. Obilježen nacionalni dan borbe protiv nasilja nad ženama. Razbuktavanje sukoba na Bliskom istoku. U njemačkoj pokraji Brandenburgu, suprotno očekivanjima, socijaldemokratska stranka pobijedila desno populistički AfD. Urednica: Sanja Rabuzin.</description>
+    <pubDate>Sun, 22 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b7/c5/20240922-kronika-dana-35663914-20240922204013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.09. 2024-09-21</title>
     <link>https://api.hrt.hr/media/eb/5e/20240921-kronika-dana-35661594-20240921204035.mp3</link>
     <description>Zbog namještanja poslova uhićen bivši šef Hrvatskih cesta Josip Škorić s još dvoje ljudi. Siniša Hajdaš Dončić novi je predsjednik SDP-a. I agencija Fitch povećala kreditni rejting Hrvatske. Uz pojačane mjere sigurnosti u Munchenu otvoren Oktoberfest. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Vatikan donio službenu odluku o Međugorju - priznao "mnogobrojne pozitivne plodove", no nije proglasio nadnaravnost tamošnjih ukazanja. Ursula von der Leyen posjetila Poljsku i najavila da će Europska komisija poplavljenim zemljama pomoći s 10 milijardi eura.Hezbolah i Iran prijete Izraelu osvetom zbog eksplozija komunikacijske opreme. Urednica Mira Barić</description>
     <pubDate>Thu, 19 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/98/20240919-kronika-dana-35655184-20240919204024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.09. 2024-09-18</title>
-    <link>https://api.hrt.hr/media/6f/79/20240918-kronika-dana-35651623-20240918203551.mp3</link>
-    <description>Nove eksplozije u Libanonu, nakon ručnih dojavljivača, danas eksplodirali voki-tokiji militanata Hezbolaha. Izrael najavio novu fazu rata. Slovačka i Mađarska pripremaju se za vrhunac vodenoga vala. U Vatikanu sutra o fenomenu Međugorja. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 18 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6f/79/20240918-kronika-dana-35651623-20240918203551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
