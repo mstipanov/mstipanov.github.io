@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Sep 2024 14:10:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 14:15:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.09. 2024-09-24</title>
+    <link>https://api.hrt.hr/media/a1/56/20240924-dnevne-novosti-35669302-20240924134033.mp3</link>
+    <description>U dva dana izraelskih napada na Hezbolah u Libanonu više od 550 poginulih i 1800 ranjenih, ponovno gađan i Bejrut. Porez na nekretnine i ostavke na dužnosti prije uhićenja najviše se komentiraju u javnosti. Vrhunac vodenoga vala na Dunavu danas je kod Mohača u Mađarskoj, sutra u Batini i bit će 60 centimetara niži nego što se predviđalo. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 24 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/56/20240924-dnevne-novosti-35669302-20240924134033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.09. 2024-09-23</title>
     <link>https://api.hrt.hr/media/ff/4c/20240923-dnevne-novosti-35666040-20240923134029.mp3</link>
     <description>Predstavljena dugoočekivana porezna reforma, uvodi se porez na nekretnine. Zbog sumnje u nezakonitio trošenje gradskog novca, uhićen HDZ-ov gradonačelnik Otoka Josip Šarić. Najmanje 100 mrtvih i više od 400 ranjenih u posljednjem napadu Izraela na južni Libanon. Večeras u zagrebačkoj dvorani Lisinski nastupa jedan od najvećih svjetskih tenora Jose Carreras. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Uhićene tri osobe među kojima bivši direktor Hrvatskih cesta Josip Škorić. Sumnjiči ih se za namještanje poslova na osječkoj obilaznici. Nakon agencije Standard and Poors' i Fitch povećao kreditni rejting Hrvatske na ocjenu 'A'. SDP u drugom krugu bira predsjednika stranke između Hajdaša Dončića i Paunovića. Urednica: Mira Barić</description>
     <pubDate>Sat, 21 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/09/20240921-dnevne-novosti-35660782-20240921134015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.09. 2024-09-20</title>
-    <link>https://api.hrt.hr/media/d0/d1/20240920-dnevne-novosti-35658183-20240920134040.mp3</link>
-    <description>Talijanska regija Emilia-Romagna pod vodom, Mađarska se priprema za obranu Budimpešte od poplave. Prvo glasovanje u Saboru potvrdilo da vladajući imaju većinu. Bliski istok pred eskalacijom sukoba. Hezbolah ispalio stotinjak raketa na Izrael. Urednica: Mira Barić</description>
-    <pubDate>Fri, 20 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/d1/20240920-dnevne-novosti-35658183-20240920134040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
