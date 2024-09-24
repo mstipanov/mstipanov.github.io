@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Sep 2024 06:08:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 05:44:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.09. 2024-09-24</title>
+    <link>https://api.hrt.hr/media/c8/9f/20240924-jutarnja-kronika-35667551-20240924053528.mp3</link>
+    <description>Predstavljena porezna reforma, uvodi se porez na nekretnine, a rasterećuju plaće. Tisuće ljudi bježe s juga Libanona zbog izraelskih napada na Hezbolah, u kojima su ubijene 492-ije osobe, a više od 1600 je ranjeno. U New Yorku počinje zasjedanje Opće skupštine Ujedinjenih naroda. Mjesta uz Dunav pripremaju se za vrhunac vodenog vala koji bi u Hrvatsku trebao stići sutra. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 24 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c8/9f/20240924-jutarnja-kronika-35667551-20240924053528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.09. 2024-09-23</title>
     <link>https://api.hrt.hr/media/0b/f4/20240923-jutarnja-kronika-35664457-20240923053512.mp3</link>
     <description>Mjesec dana istražnog zatvora za bivšeg čelnika Hrvatskih cesta Josipa Škorića i još dvoje uhićenih zbog namještanja poslova i mita. Na Dunavu kod Batine izvanredne mjere obrane od poplava. Obilježen nacionalni dan borbe protiv nasilja nad ženama. Razbuktavanje sukoba na Bliskom istoku. U njemačkoj pokraji Brandenburgu, suprotno očekivanjima, socijaldemokratska stranka pobijedila desno populistički AfD. Urednik: Mislav Togonal</description>
@@ -31,15 +39,6 @@
     <description>Agencija Fitch također podignula kreditni rejting Hrvatske na ocjenu 'A'. SDP odlučuje tko će biti novi predsjednik - Hajdaš Dončić ili Paunović. Čeka se vrhunac vodenog vala na Dunavu u Budimpešti. Izrael ubio jednog od zapovjednika Hezbolaha, strahuje se od širenja sukoba na Bliskom istoku. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 21 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/98/79/20240921-jutarnja-kronika-35659780-20240921053503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.09. 2024-09-20</title>
-    <link>https://api.hrt.hr/media/2d/da/20240920-jutarnja-kronika-35656015-20240920053043.mp3</link>
-    <description>Hrvatska se priprema za vodeni val Dunava koji se očekuje idući tjedan. Obrana od poplava jedna je od tema i Vladine sjednice.
-Ženska mreža Hrvatske diljem zemlje organizira prosvjede protiv nasilja nad ženama. Bliski istok na rubu nove eskalacije rata.čeras počinju Vinkovačke jeseni. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 20 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2d/da/20240920-jutarnja-kronika-35656015-20240920053043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
