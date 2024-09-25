@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 24 Sep 2024 14:15:55 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 13:55:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.09. 2024-09-25</title>
+    <link>https://api.hrt.hr/media/70/09/20240925-dnevne-novosti-35672605-20240925134044.mp3</link>
+    <description>Vrhunac vodenog vala Dunava noćas ušao u Hrvatsku i prolazi kroz Batinu. U Saboru rasprava o izmjenama Zakona o igrama na sreću kojima bi se trebalo riješiti pitanja reklamiranja kockanja i klađenja. Izrael nastavlja napade na južni Libanon, poginulo više od 20 ljudi, Hezbolah gađao civilne ciljeve u Tel Avivu. Urednica: Mira Barić</description>
+    <pubDate>Wed, 25 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/70/09/20240925-dnevne-novosti-35672605-20240925134044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.09. 2024-09-24</title>
     <link>https://api.hrt.hr/media/a1/56/20240924-dnevne-novosti-35669302-20240924134033.mp3</link>
     <description>U dva dana izraelskih napada na Hezbolah u Libanonu više od 550 poginulih i 1800 ranjenih, ponovno gađan i Bejrut. Porez na nekretnine i ostavke na dužnosti prije uhićenja najviše se komentiraju u javnosti. Vrhunac vodenoga vala na Dunavu danas je kod Mohača u Mađarskoj, sutra u Batini i bit će 60 centimetara niži nego što se predviđalo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na Dunavu kod Batine proglašene izvanredne mjere obrane od poplava. Očekuje se odluka USKOK-a o tome hoće li zatražiti istražni zatvor za bivšeg predsjednika Uprave Hrvatskih cesta Josipa Škorića te za još dvoje uhićenih zbog korupcije. Nacionalni je dan borbe protiv nasilja nad ženama. Samo u ovoj godini u Hrvatskoj ubijeno 12 žena. U Iranu eksplozija metana u rudniku ugljena. Poginulo više od 50 ljudi. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 22 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3f/64/20240922-dnevne-novosti-35663112-20240922134014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.09. 2024-09-21</title>
-    <link>https://api.hrt.hr/media/82/09/20240921-dnevne-novosti-35660782-20240921134015.mp3</link>
-    <description>Uhićene tri osobe među kojima bivši direktor Hrvatskih cesta Josip Škorić. Sumnjiči ih se za namještanje poslova na osječkoj obilaznici. Nakon agencije Standard and Poors' i Fitch povećao kreditni rejting Hrvatske na ocjenu 'A'. SDP u drugom krugu bira predsjednika stranke između Hajdaša Dončića i Paunovića. Urednica: Mira Barić</description>
-    <pubDate>Sat, 21 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/82/09/20240921-dnevne-novosti-35660782-20240921134015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
