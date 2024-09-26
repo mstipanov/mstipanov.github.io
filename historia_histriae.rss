@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Sep 2024 16:51:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 16:12:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>JOSIP SIKLIC ZA 26.9. 2024-09-26</title>
+    <link>https://api.hrt.hr/media/31/5c/20240926-historia-histriae-8108429-20240926152544.mp3</link>
+    <description>Najavljujemo još jedno izdanje Pazinskog memorijala s temom "Prošlost i sadašnjost Istre". Memorijal donosi brojne zanimljive povijesne teme, a predstavit ćemo ih uz istaknutog povjesničara Josipa Šiklića. </description>
+    <pubDate>Thu, 26 Sep 2024 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/31/5c/20240926-historia-histriae-8108429-20240926152544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Josip Bratulić 2024-09-19</title>
     <link>https://api.hrt.hr/media/89/dc/20240919-historia-histriae-8106209-20240919163058.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi dr. Robert Kurelić, a pričamo o dva Istranina na dvoru cara Leopolda I. </description>
     <pubDate>Thu, 11 Apr 2024 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/51/52/20240411-historia-histriae-8055574-20240411160557.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Anita Buhin 2024-04-04</title>
-    <link>https://api.hrt.hr/media/72/6f/20240404-historia-histriae-8053495-20240404162101.mp3</link>
-    <description>U goste nam dolazi dr. Anita Buhin, a pričamo o utjecaju talijanske kulture na kulturu života u Jugoslaviji tijekom 50ih i 60ih godina prošlog stoljeća. </description>
-    <pubDate>Thu, 04 Apr 2024 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/72/6f/20240404-historia-histriae-8053495-20240404162101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
