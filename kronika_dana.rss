@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 25 Sep 2024 20:57:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 21:13:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.09. 2024-09-26</title>
+    <link>https://api.hrt.hr/media/c4/80/20240926-kronika-dana-35677289-20240926203545.mp3</link>
+    <description>U Bijeloj kući sastanak američkog i ukrajinskog predsjednika, Bidena i Zelenskog, Zelenski predstavlja "plan pobjede". Izrael tvrdi da je ubio još jednog Hezbolahova zapovjednika. Vodeni val ide Dunavom prema Vukovaru i Iloku, ne očekuju se problemi.Urednica: Sanja Cota</description>
+    <pubDate>Thu, 26 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c4/80/20240926-kronika-dana-35677289-20240926203545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.09. 2024-09-25</title>
     <link>https://api.hrt.hr/media/ec/ee/20240925-kronika-dana-35673565-20240925204546.mp3</link>
     <description>Vrh vodenog vala prošao kroz Batinu, tijekom vikenda izaći će iz Hrvatske. Zelenski upozorava UN da Rusija planira napasti ukrajinske nuklearne elektrane, a Putin ponovno prijeti nuklearnim oružjem. Izraelska vojska poručuje da su pojačani napadi na Hezbolah priprema za kopnenu ofenzivu u Libanonu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predstavljena porezna reforma, uvodi se porez na nekretnine, a rastrećuju plaće. Zbog nezakonitog trošenja gradskog novca, uhićen HDZ-ov gradonačelnik Otoka Josip Šarić, nije mu određen istražni zatvor. Tisuće ljudi bježe s juga Libanona zbog izraelskih napada na Hezbolah, u kojima je ubijeno 356 osoba, a 1300 ranjeno. Urednica: Sanja Cota</description>
     <pubDate>Mon, 23 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/d8/20240923-kronika-dana-35666996-20240923204030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.09. 2024-09-22</title>
-    <link>https://api.hrt.hr/media/b7/c5/20240922-kronika-dana-35663914-20240922204013.mp3</link>
-    <description>Mjesec dana istražnog zatvora za bivšeg čelnika Hrvatskih cesta Josipa Škorića i još dvoje uhićenih zbog namještanja poslova i mita. Na Dunavu kod Batine izvanredne mjere obrane od poplava. Obilježen nacionalni dan borbe protiv nasilja nad ženama. Razbuktavanje sukoba na Bliskom istoku. U njemačkoj pokraji Brandenburgu, suprotno očekivanjima, socijaldemokratska stranka pobijedila desno populistički AfD. Urednica: Sanja Rabuzin.</description>
-    <pubDate>Sun, 22 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/c5/20240922-kronika-dana-35663914-20240922204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
