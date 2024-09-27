@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 06:01:43 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 05:55:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.09. 2024-09-27</title>
+    <link>https://api.hrt.hr/media/ec/3e/20240927-jutarnja-kronika-35677872-20240927054014.mp3</link>
+    <description>Vodeni val ide Dunavom prema Vukovaru i Iloku, ne očekuju se problemi, sve žurne službe ipak su na terenu. Saborski Odbor za pravosuđe održat će sjednicu o curenju informacija iz izvida i istraga. Premijer Andrej Plenković govori na 79-oj Općoj skupštini Ujedinjenih naroda u New Yorku. U Osijeku će večeras biti otvorena prva koncertna dvorana u povijesti grada. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 27 Sep 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/3e/20240927-jutarnja-kronika-35677872-20240927054014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.09. 2024-09-26</title>
     <link>https://api.hrt.hr/media/59/ed/20240926-jutarnja-kronika-35674208-20240926054046.mp3</link>
     <description>Vrh vodenog vala prošao kroz Batinu, za vikend će izaći iz Hrvatske. Glavnog državnog odvjetnika rado bi na tematskoj sjednici o curenju informacija iz istraga saslušao i predsjednik odbora za pravosuđe Mostovac Nikola Grmoja - a hoće li se ta sjednica održati, odlučit će članovi Odbora. Izraelska vojska poručuje da su pojačani napadi na Hezbolah priprema za kopnenu ofenzivu u Libanonu. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Predstavljena porezna reforma, uvodi se porez na nekretnine, a rasterećuju plaće. Tisuće ljudi bježe s juga Libanona zbog izraelskih napada na Hezbolah, u kojima su ubijene 492-ije osobe, a više od 1600 je ranjeno. U New Yorku počinje zasjedanje Opće skupštine Ujedinjenih naroda. Mjesta uz Dunav pripremaju se za vrhunac vodenog vala koji bi u Hrvatsku trebao stići sutra. Urednik: Silvio Šop</description>
     <pubDate>Tue, 24 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/9f/20240924-jutarnja-kronika-35667551-20240924053528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.09. 2024-09-23</title>
-    <link>https://api.hrt.hr/media/0b/f4/20240923-jutarnja-kronika-35664457-20240923053512.mp3</link>
-    <description>Mjesec dana istražnog zatvora za bivšeg čelnika Hrvatskih cesta Josipa Škorića i još dvoje uhićenih zbog namještanja poslova i mita. Na Dunavu kod Batine izvanredne mjere obrane od poplava. Obilježen nacionalni dan borbe protiv nasilja nad ženama. Razbuktavanje sukoba na Bliskom istoku. U njemačkoj pokraji Brandenburgu, suprotno očekivanjima, socijaldemokratska stranka pobijedila desno populistički AfD. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 23 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/f4/20240923-jutarnja-kronika-35664457-20240923053512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
