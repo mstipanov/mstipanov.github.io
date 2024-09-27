@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 21:13:14 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 20:58:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.09. 2024-09-27</title>
+    <link>https://api.hrt.hr/media/15/63/20240927-kronika-dana-35681077-20240927204016.mp3</link>
+    <description>Izrael gađao središte Hezbolaha u Libanonu, Netanyahu u UN-u rekao da nastavljaju rat dok ne ispune ciljeve. Govor u Općoj skupštini održao i premijer Plenković. Održana Sjednica saborskog Odbora za pravosuđe, nezadovoljni ostali i glavni državni odvjetnik i oporba. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 27 Sep 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/15/63/20240927-kronika-dana-35681077-20240927204016.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.09. 2024-09-26</title>
     <link>https://api.hrt.hr/media/c4/80/20240926-kronika-dana-35677289-20240926203545.mp3</link>
     <description>U Bijeloj kući sastanak američkog i ukrajinskog predsjednika, Bidena i Zelenskog, Zelenski predstavlja "plan pobjede". Izrael tvrdi da je ubio još jednog Hezbolahova zapovjednika. Vodeni val ide Dunavom prema Vukovaru i Iloku, ne očekuju se problemi.Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nastavljaju se dosad najjači izraelski napadi na Bejrut i jug Libanona. U nepuna dva dana poginulo je 569-ero ljudi, među kojima i 50-ero djece. Vrhunac vodenoga vala na Dunavu danas kod Mohača, a sutra se očekuje u Batini. Marin Čilić kao najslabije rangirani tenisač osvojio 21. naslov u karijeri - ATP turnir u kineskom Hangzhou. Urednica: Mira Barić</description>
     <pubDate>Tue, 24 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/97/cc/20240924-kronika-dana-35670194-20240924204103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.09. 2024-09-23</title>
-    <link>https://api.hrt.hr/media/93/d8/20240923-kronika-dana-35666996-20240923204030.mp3</link>
-    <description>Predstavljena porezna reforma, uvodi se porez na nekretnine, a rastrećuju plaće. Zbog nezakonitog trošenja gradskog novca, uhićen HDZ-ov gradonačelnik Otoka Josip Šarić, nije mu određen istražni zatvor. Tisuće ljudi bježe s juga Libanona zbog izraelskih napada na Hezbolah, u kojima je ubijeno 356 osoba, a 1300 ranjeno. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 23 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/d8/20240923-kronika-dana-35666996-20240923204030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
