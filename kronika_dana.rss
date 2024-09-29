@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Sep 2024 21:03:52 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 20:37:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Bijeloj kući sastanak američkog i ukrajinskog predsjednika, Bidena i Zelenskog, Zelenski predstavlja "plan pobjede". Izrael tvrdi da je ubio još jednog Hezbolahova zapovjednika. Vodeni val ide Dunavom prema Vukovaru i Iloku, ne očekuju se problemi.Urednica: Sanja Cota</description>
     <pubDate>Thu, 26 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c4/80/20240926-kronika-dana-35677289-20240926203545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.09. 2024-09-25</title>
-    <link>https://api.hrt.hr/media/ec/ee/20240925-kronika-dana-35673565-20240925204546.mp3</link>
-    <description>Vrh vodenog vala prošao kroz Batinu, tijekom vikenda izaći će iz Hrvatske. Zelenski upozorava UN da Rusija planira napasti ukrajinske nuklearne elektrane, a Putin ponovno prijeti nuklearnim oružjem. Izraelska vojska poručuje da su pojačani napadi na Hezbolah priprema za kopnenu ofenzivu u Libanonu. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 25 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/ee/20240925-kronika-dana-35673565-20240925204546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
