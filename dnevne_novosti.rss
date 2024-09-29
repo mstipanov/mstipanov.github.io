@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Sep 2024 14:02:34 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 14:06:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.09. 2024-09-29</title>
+    <link>https://api.hrt.hr/media/16/46/20240929-dnevne-novosti-35684764-20240929134105.mp3</link>
+    <description>U zračnim napadima ubijen još jedan visoki vojni zapovjednik Hezbolaha, još se nagađa hoće li Izrael početi i kopnenu ofenzivu na Libanon. Parlamentarni izbori u Austriji - očekuje se pobjeda krajnje desnice. Nakon prolaska vodenog vala u Baranji se čiste kuće i dvorišta od blata i mulja, na zadarskom području sanira se šteta od obilne kiše. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 29 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/46/20240929-dnevne-novosti-35684764-20240929134105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.09. 2024-09-28</title>
     <link>https://api.hrt.hr/media/75/35/20240928-dnevne-novosti-35682678-20240928134100.mp3</link>
     <description>U izraelskim napadima ubijen vođa Hezbolaha Hasan Nasrallah. Vrhunac vodenog vala prolazi Ilokom, u Batini ukinute izvanredne mjere obrane od poplava. Na području Obrovca jaka kiša uzrokovala bujične poplave. Bivši članovi Domovinskog pokreta osnovali novu stranku - Dom i nacionalno okupljanje, skraćeno DOMiNO. Zagreb je još danas i sutra središte domaće i svjetske dizajnerske scene, u Jadran filmu se održava 11. Zagreb Design Week. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vodostaj Dunava pada, vrhunac vodenog vala stigao u Aljmaš i ide prema Iloku i Vukovaru. Saborski Odbor za pravosuđe sutra će održati sjednicu o curenju informacija iz istraga. Izraelska vlada odbila prijedlog Pariza i Vašingtona o primirju s Hezbolahom, Netanyahu dao upute vojsci da nastavi borbe punom snagom. Urednica: Mira Barić</description>
     <pubDate>Thu, 26 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/7b/20240926-dnevne-novosti-35676057-20240926134045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.09. 2024-09-25</title>
-    <link>https://api.hrt.hr/media/70/09/20240925-dnevne-novosti-35672605-20240925134044.mp3</link>
-    <description>Vrhunac vodenog vala Dunava noćas ušao u Hrvatsku i prolazi kroz Batinu. U Saboru rasprava o izmjenama Zakona o igrama na sreću kojima bi se trebalo riješiti pitanja reklamiranja kockanja i klađenja. Izrael nastavlja napade na južni Libanon, poginulo više od 20 ljudi, Hezbolah gađao civilne ciljeve u Tel Avivu. Urednica: Mira Barić</description>
-    <pubDate>Wed, 25 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/09/20240925-dnevne-novosti-35672605-20240925134044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
