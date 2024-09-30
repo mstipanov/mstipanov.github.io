@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Sep 2024 14:06:31 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 14:10:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.09. 2024-09-30</title>
+    <link>https://api.hrt.hr/media/7a/18/20240930-dnevne-novosti-35688023-20240930133505.mp3</link>
+    <description>Nakon Vladine odluke o smanjenju subvencija od sutra skuplji plin. Međimurje plin od sutra opskrbljuje zagrebačka kućanstva. Ipak, njih više od 150 tisuća ostaje kod Gradske plinare. U jutrošnjem izraelskom zračnom napadu na Libanon pogođeni i ciljevi u Bejrutu. Gotovo milijun ljudi izbjeglo je s juga zemlje gdje Izrael na granici gomila tenkove. Krajnje desna Slobodarska stranka pobjednik parlamentarnih izbora u Austriji. Upitno je hoće li sastaviti vladu. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 30 Sep 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7a/18/20240930-dnevne-novosti-35688023-20240930133505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.09. 2024-09-29</title>
     <link>https://api.hrt.hr/media/16/46/20240929-dnevne-novosti-35684764-20240929134105.mp3</link>
     <description>U zračnim napadima ubijen još jedan visoki vojni zapovjednik Hezbolaha, još se nagađa hoće li Izrael početi i kopnenu ofenzivu na Libanon. Parlamentarni izbori u Austriji - očekuje se pobjeda krajnje desnice. Nakon prolaska vodenog vala u Baranji se čiste kuće i dvorišta od blata i mulja, na zadarskom području sanira se šteta od obilne kiše. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Glavni državni odvjetnik Ivan Turudić napustio sjednicu saborskog Odbora za pravosuđe. Premijer Plenković održat će govor na Općoj skupštini UN-a u New Yorku. Uragan Helena protutnjao Floridom i ide prema Georgiji - više od dva milijuna ljudi bez struje. U Osijeku se otvara prva koncertna dvorana u povijesti grada. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 27 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/28/20240927-dnevne-novosti-35680072-20240927134015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.09. 2024-09-26</title>
-    <link>https://api.hrt.hr/media/82/7b/20240926-dnevne-novosti-35676057-20240926134045.mp3</link>
-    <description>Vodostaj Dunava pada, vrhunac vodenog vala stigao u Aljmaš i ide prema Iloku i Vukovaru. Saborski Odbor za pravosuđe sutra će održati sjednicu o curenju informacija iz istraga. Izraelska vlada odbila prijedlog Pariza i Vašingtona o primirju s Hezbolahom, Netanyahu dao upute vojsci da nastavi borbe punom snagom. Urednica: Mira Barić</description>
-    <pubDate>Thu, 26 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/82/7b/20240926-dnevne-novosti-35676057-20240926134045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
