@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Sep 2024 20:41:31 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 20:46:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Rusija i Kina osuđuju ubojstvo vođe Hezbolaha Hasana Nasrale, američki predsjednik Biden to je ubojstvo nazvao mjerom pravde za njegove mnogobrojne žrtve. Bivši članovi Domovinskog pokreta osnovali novu stranku - Dom i nacionalno okupljanje, predsjednik je Mario Radić. Dok vodeni val polako izlazi iz Hrvatske, na zadarskom području bujične poplave. Urednica: Sanja Cota</description>
     <pubDate>Sat, 28 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/73/e8/20240928-kronika-dana-35683303-20240928204100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.09. 2024-09-27</title>
-    <link>https://api.hrt.hr/media/15/63/20240927-kronika-dana-35681077-20240927204016.mp3</link>
-    <description>Izrael gađao središte Hezbolaha u Libanonu, Netanyahu u UN-u rekao da nastavljaju rat dok ne ispune ciljeve. Govor u Općoj skupštini održao i premijer Plenković. Održana Sjednica saborskog Odbora za pravosuđe, nezadovoljni ostali i glavni državni odvjetnik i oporba. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 27 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/15/63/20240927-kronika-dana-35681077-20240927204016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
