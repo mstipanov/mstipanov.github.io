@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Oct 2024 20:46:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 21:16:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.10. 2024-10-01</title>
+    <link>https://api.hrt.hr/media/71/b3/20241001-kronika-dana-35692975-20241001204021.mp3</link>
+    <description>Izraelska vojska ušla u Libanon. Iran ispalio rakete prema Izraelu. Predsjednik Milanović nije dao suglasnost Vladi za sudjelovanje hrvatskih vojnika u misiji potpore Ukrajini. Pod geslom "Protiv siromaštva" u Zagrebu i Rijeci održani prosvjedi koje je organizirao Blok umirovljenici zajedno. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 01 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/b3/20241001-kronika-dana-35692975-20241001204021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.09. 2024-09-30</title>
     <link>https://api.hrt.hr/media/15/4d/20240930-kronika-dana-35689167-20240930204008.mp3</link>
     <description>Očekuje se da bi zapovijed za izraelsku kopnenu ofenzivu na Libanon mogla biti odobrena u sljedećim satima. Plin i struja poskupljuju 10 posto, HAC odlučio da cestarine ne vraća na izvansezonske cijene, ostaju više, kao u ljetnoj sezoni. Međimurje-plin sutra preuzima javnu uslugu opskrbe plinom na zagrebačkom području. Gradska plinara Zagreb ostaje najveći opskrbljivač. Urednica: Mira Barić</description>
