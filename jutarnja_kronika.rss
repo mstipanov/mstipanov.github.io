@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Sep 2024 06:09:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 05:43:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.10. 2024-10-01</title>
+    <link>https://api.hrt.hr/media/09/42/20241001-jutarnja-kronika-35689763-20241001053520.mp3</link>
+    <description>Izrael počeo kopnenu invaziju na Libanon. U 24 sata najmanje 95 poginulih. U Zagrebu i Rijeci prosvjed umirovljenika protiv siromaštva. Banskim dvorima - potpisivanje Sporazuma o osnivanju Nacionalnog vijeća za umirovljenike i starije osobe. Od danas trošimo skuplji plin. Vladinim paketom mjera poskupljenje ograničeno na 10 posto. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 01 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/09/42/20241001-jutarnja-kronika-35689763-20241001053520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.09. 2024-09-30</title>
     <link>https://api.hrt.hr/media/55/68/20240930-jutarnja-kronika-35686175-20240930054007.mp3</link>
     <description>Izrael napao i Jemen, razmješta tenkove na granici s Libanonom, slijedi li i kopnena ofenziva? U Mrkoplju izgorjela pilana s novim strojevima. Na parlamentarnim izborima u Austriji relativna pobjeda radikalno desne Slobodarske stranke. Umro je veliki skladatelj, pjevač i glumac Kris Kristofferson. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Izrael je nastavio zračne napade na Bejrut, meta vođa Hezbolaha Hasan Nasrallah. Vrhunac vodenog vala prolazi Ilokom, u Batini ukinute izvanredne mjere obrane od poplava. Bivši članovi Domovinskog pokreta osnivaju novu stranku - Dom i nacionalno okupljanje. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 28 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0c/21/20240928-jutarnja-kronika-35681576-20240928054032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.09. 2024-09-27</title>
-    <link>https://api.hrt.hr/media/ec/3e/20240927-jutarnja-kronika-35677872-20240927054014.mp3</link>
-    <description>Vodeni val ide Dunavom prema Vukovaru i Iloku, ne očekuju se problemi, sve žurne službe ipak su na terenu. Saborski Odbor za pravosuđe održat će sjednicu o curenju informacija iz izvida i istraga. Premijer Andrej Plenković govori na 79-oj Općoj skupštini Ujedinjenih naroda u New Yorku. U Osijeku će večeras biti otvorena prva koncertna dvorana u povijesti grada. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 27 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/3e/20240927-jutarnja-kronika-35677872-20240927054014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
