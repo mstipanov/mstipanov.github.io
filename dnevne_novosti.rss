@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Oct 2024 13:44:22 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 13:49:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.10. 2024-10-02</title>
+    <link>https://api.hrt.hr/media/ac/04/20241002-dnevne-novosti-35695883-20241002134027.mp3</link>
+    <description>Sukob na Bliskom istoku - Hezbolah ispalio stotinu raketa na Izrael, a ta je zemlja zabranila ulazak glavnom tajniku UN-a Ant&amp;oacute;niu Guterresu. I u Saboru reakcije na odbijanje suglasnosti predsjednika Milanovića za slanje pet časnika na uvježbavanje ukrajinske vojske u Njemačkoj. Stopa inflacije već mjesecima pada, ali cijene hrane i usluga rastu. Večeras na Maksimiru druga utakmica Dinama u Ligi prvaka, protivnik je Monaco. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 02 Oct 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ac/04/20241002-dnevne-novosti-35695883-20241002134027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.10. 2024-10-01</title>
     <link>https://api.hrt.hr/media/40/d7/20241001-dnevne-novosti-35691891-20241001133522.mp3</link>
     <description>Počela ciljana izraelska kopnena operacija u Libanonu, eksplozije odjekuju Bejrutom. Pod geslom "Protiv siromaštva" u Zagrebu i Rijeci održani prosvjedi koje je organizirao Blok umirovljenici zajedno, od Vlade traže mirovine dovoljne za dostojanstven život. Klevisa Imeri, 28-godišnja Albanka, nepravomoćno osuđena na četiri godine zatvora zbog izazivanja prometne nesreće u kojoj su u travnju ove godine poginuli brat i sestra Đerek. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U zračnim napadima ubijen još jedan visoki vojni zapovjednik Hezbolaha, još se nagađa hoće li Izrael početi i kopnenu ofenzivu na Libanon. Parlamentarni izbori u Austriji - očekuje se pobjeda krajnje desnice. Nakon prolaska vodenog vala u Baranji se čiste kuće i dvorišta od blata i mulja, na zadarskom području sanira se šteta od obilne kiše. Urednica: Sanja Cota</description>
     <pubDate>Sun, 29 Sep 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/16/46/20240929-dnevne-novosti-35684764-20240929134105.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.09. 2024-09-28</title>
-    <link>https://api.hrt.hr/media/75/35/20240928-dnevne-novosti-35682678-20240928134100.mp3</link>
-    <description>U izraelskim napadima ubijen vođa Hezbolaha Hasan Nasrallah. Vrhunac vodenog vala prolazi Ilokom, u Batini ukinute izvanredne mjere obrane od poplava. Na području Obrovca jaka kiša uzrokovala bujične poplave. Bivši članovi Domovinskog pokreta osnovali novu stranku - Dom i nacionalno okupljanje, skraćeno DOMiNO. Zagreb je još danas i sutra središte domaće i svjetske dizajnerske scene, u Jadran filmu se održava 11. Zagreb Design Week. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 28 Sep 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/75/35/20240928-dnevne-novosti-35682678-20240928134100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
