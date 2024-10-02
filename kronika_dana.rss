@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Oct 2024 21:16:20 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 20:50:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.10. 2024-10-02</title>
+    <link>https://api.hrt.hr/media/95/2e/20241002-kronika-dana-35696633-20241002204028.mp3</link>
+    <description>Izraelski premijer Netanyahu poručio Iranu da će skupo platiti za raketni napad na ciljeve u Izraelu. Američki predsjednik Joe Biden protivi se napadu na iranska nuklearna postrojenja. Uhićen predsjednik SDSS-a Topusko Dragutin Ćelap zbog sumnje da je 1991-ve počinio ratni zločin protiv civilnog stanovništva. Petnaestak minuta prije kraja utakmice Dinamo u Maksimiru protiv Monaka vodi1:0 Urednica Mira Barić</description>
+    <pubDate>Wed, 02 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/2e/20241002-kronika-dana-35696633-20241002204028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.10. 2024-10-01</title>
     <link>https://api.hrt.hr/media/71/b3/20241001-kronika-dana-35692975-20241001204021.mp3</link>
     <description>Izraelska vojska ušla u Libanon. Iran ispalio rakete prema Izraelu. Predsjednik Milanović nije dao suglasnost Vladi za sudjelovanje hrvatskih vojnika u misiji potpore Ukrajini. Pod geslom "Protiv siromaštva" u Zagrebu i Rijeci održani prosvjedi koje je organizirao Blok umirovljenici zajedno. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>U Mrkoplju izgorjela jedna od najvećih pilana u Hrvatskoj. Izrael nakon Libanona napao Jemen, najmanje četvero mrtvih. Na parlamentarnim izborima u Austriji relativna pobjeda radikalno desne Slobodarske stranke! Urednica: Marija Gerbec Njavro.</description>
     <pubDate>Sun, 29 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/57/54/20240929-kronika-dana-35685544-20240929203502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.09. 2024-09-28</title>
-    <link>https://api.hrt.hr/media/73/e8/20240928-kronika-dana-35683303-20240928204100.mp3</link>
-    <description>Rusija i Kina osuđuju ubojstvo vođe Hezbolaha Hasana Nasrale, američki predsjednik Biden to je ubojstvo nazvao mjerom pravde za njegove mnogobrojne žrtve. Bivši članovi Domovinskog pokreta osnovali novu stranku - Dom i nacionalno okupljanje, predsjednik je Mario Radić. Dok vodeni val polako izlazi iz Hrvatske, na zadarskom području bujične poplave. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 28 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/73/e8/20240928-kronika-dana-35683303-20240928204100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
