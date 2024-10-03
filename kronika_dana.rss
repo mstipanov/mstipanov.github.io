@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Oct 2024 20:50:20 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 20:55:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.10. 2024-10-03</title>
+    <link>https://api.hrt.hr/media/29/d9/20241003-kronika-dana-35700136-20241003203511.mp3</link>
+    <description>Izrael nastavlja zračne napade na Bejrut. Vojska tvrdi da je ubila jednog od zapovjednika Hezbolaha. Novi glavni tajnik NATO-a u posjetu Kijevu. Vlada predlaže rebalans proračuna, prihodi su povećani za gotovo dvije milijarde, a rashodi za milijardu eura. Zbog obilne kiše i rasta vodostaja, crveni meteoalarm za veći dio zemlje. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 03 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/29/d9/20241003-kronika-dana-35700136-20241003203511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.10. 2024-10-02</title>
     <link>https://api.hrt.hr/media/95/2e/20241002-kronika-dana-35696633-20241002204028.mp3</link>
     <description>Izraelski premijer Netanyahu poručio Iranu da će skupo platiti za raketni napad na ciljeve u Izraelu. Američki predsjednik Joe Biden protivi se napadu na iranska nuklearna postrojenja. Uhićen predsjednik SDSS-a Topusko Dragutin Ćelap zbog sumnje da je 1991-ve počinio ratni zločin protiv civilnog stanovništva. Petnaestak minuta prije kraja utakmice Dinamo u Maksimiru protiv Monaka vodi1:0 Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Očekuje se da bi zapovijed za izraelsku kopnenu ofenzivu na Libanon mogla biti odobrena u sljedećim satima. Plin i struja poskupljuju 10 posto, HAC odlučio da cestarine ne vraća na izvansezonske cijene, ostaju više, kao u ljetnoj sezoni. Međimurje-plin sutra preuzima javnu uslugu opskrbe plinom na zagrebačkom području. Gradska plinara Zagreb ostaje najveći opskrbljivač. Urednica: Mira Barić</description>
     <pubDate>Mon, 30 Sep 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/15/4d/20240930-kronika-dana-35689167-20240930204008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.09. 2024-09-29</title>
-    <link>https://api.hrt.hr/media/57/54/20240929-kronika-dana-35685544-20240929203502.mp3</link>
-    <description>U Mrkoplju izgorjela jedna od najvećih pilana u Hrvatskoj. Izrael nakon Libanona napao Jemen, najmanje četvero mrtvih. Na parlamentarnim izborima u Austriji relativna pobjeda radikalno desne Slobodarske stranke! Urednica: Marija Gerbec Njavro.</description>
-    <pubDate>Sun, 29 Sep 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/54/20240929-kronika-dana-35685544-20240929203502.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
