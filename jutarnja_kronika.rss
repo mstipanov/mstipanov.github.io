@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 02 Oct 2024 05:47:40 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 05:51:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.10. 2024-10-03</title>
+    <link>https://api.hrt.hr/media/dd/6b/20241003-jutarnja-kronika-35697195-20241003053054.mp3</link>
+    <description>Izrael i noćas nastavio napade na Libanon, u središtu Bejruta pogođena višekatnica, poginulo je najmanje šest osoba. Na sjednici Vlade jedna je od točaka dnevnog reda jesenski rebalans proračuna. Prvim dijelom "Opernog vremeplova" riječki HNK večeras počinje novu sezonu. SPORT: U drugoj utakmici Lige prvaka Dinamo na Maksimiru protiv Monaka vodio 2:0, konačni rezultat bio je neriješen. Urednik Silvio Šop</description>
+    <pubDate>Thu, 03 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/6b/20241003-jutarnja-kronika-35697195-20241003053054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.10. 2024-10-02</title>
     <link>https://api.hrt.hr/media/6b/95/20241002-jutarnja-kronika-35693570-20241002053551.mp3</link>
     <description>Netanyahu obećao osvetu za iranski raketni napad. Kajtazi nakon optužbi za nasilje izbačen iz Saveza Roma Kali Sara. Dinamo ugošćuje Monaco u susretu drugog kola Lige prvaka. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Izrael napao i Jemen, razmješta tenkove na granici s Libanonom, slijedi li i kopnena ofenziva? U Mrkoplju izgorjela pilana s novim strojevima. Na parlamentarnim izborima u Austriji relativna pobjeda radikalno desne Slobodarske stranke. Umro je veliki skladatelj, pjevač i glumac Kris Kristofferson. Urednik: Silvio Šop</description>
     <pubDate>Mon, 30 Sep 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/55/68/20240930-jutarnja-kronika-35686175-20240930054007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.09. 2024-09-29</title>
-    <link>https://api.hrt.hr/media/6f/6e/20240929-jutarnja-kronika-35683848-20240929053105.mp3</link>
-    <description>Zbog ubojstva Hezbolahova vođe Hasana Nasrale - Iran zaprijetio Izraelu osvetom. Ministarstvo obrane priopćilo da neće biti odgode uvođenja obveznog vojnog roka.49-ero ljudi poginulo, milijuni su ostali bez struje nakon što je uragan Helena poharao jugoistok SAD-a. Urednica: Mira Barić</description>
-    <pubDate>Sun, 29 Sep 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6f/6e/20240929-jutarnja-kronika-35683848-20240929053105.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
