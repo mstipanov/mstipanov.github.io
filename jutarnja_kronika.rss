@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 04 Oct 2024 05:58:26 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 06:02:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Netanyahu obećao osvetu za iranski raketni napad. Kajtazi nakon optužbi za nasilje izbačen iz Saveza Roma Kali Sara. Dinamo ugošćuje Monaco u susretu drugog kola Lige prvaka. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 02 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6b/95/20241002-jutarnja-kronika-35693570-20241002053551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.10. 2024-10-01</title>
-    <link>https://api.hrt.hr/media/09/42/20241001-jutarnja-kronika-35689763-20241001053520.mp3</link>
-    <description>Izrael počeo kopnenu invaziju na Libanon. U 24 sata najmanje 95 poginulih. U Zagrebu i Rijeci prosvjed umirovljenika protiv siromaštva. Banskim dvorima - potpisivanje Sporazuma o osnivanju Nacionalnog vijeća za umirovljenike i starije osobe. Od danas trošimo skuplji plin. Vladinim paketom mjera poskupljenje ograničeno na 10 posto. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 01 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/09/42/20241001-jutarnja-kronika-35689763-20241001053520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
