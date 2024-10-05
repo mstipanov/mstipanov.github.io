@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Oct 2024 06:02:38 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 06:32:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.10. 2024-10-05</title>
+    <link>https://api.hrt.hr/media/4d/a2/20241005-jutarnja-kronika-35704369-20241005060046.mp3</link>
+    <description>Raste broj poginulih u poplavama, bujicama i odronima u Bosni i Hercegovini. Sumnja se da je za tragediju u Jablanici kriv obližnji kamenolom. Na karlovačkom području na snazi su izvanredne mjere obrane od poplava, vodostaji Kupe i Korane viši su od osam metara. Predsjednik i premijer ponovno polemiziraju o pomoći hrvatskih časnika Ukrajini. Na trgovima hrvatskih gradova obilježit će se Dan ružičaste vrpce, posvećen prevenciji i ranom otkrivanju raka dojke. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 05 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/a2/20241005-jutarnja-kronika-35704369-20241005060046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.10. 2024-10-04</title>
     <link>https://api.hrt.hr/media/b8/94/20241004-jutarnja-kronika-35700713-20241004053545.mp3</link>
     <description>Noćas palo manje kiše, iako su vodostaji rijeka visoki, u Hrvatskim vodama ne očekuju poplave. Najjači izraelski napadi na Bejrut dosad, Iran zaprijetio Sjedinjenim Državama. Pet stotina godina od smrti Marka Marulića zagrebačko Hrvatsko narodno kazalište obilježava premijerom opere Judita. Urednica: Mira Barić</description>
