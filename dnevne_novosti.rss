@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Oct 2024 14:05:26 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 13:42:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.10. 2024-10-06</title>
+    <link>https://api.hrt.hr/media/91/7c/20241006-dnevne-novosti-35707439-20241006133538.mp3</link>
+    <description>Spasilačke ekipe iz nekoliko zemalja i dalje tragaju za nestalima u poplavama i odronima u Bosni i Hercegovini. Do sada je potvrđeno 20 žrtava. Vodostaji Korane i Kupe u Karlovcu u padu, ukinute izvanredne mjere obrane od poplave. U Podgori se utvrđuje šteta nakon jučerašnjeg nevremena. Izrael i dalje raketira Bejrut, nagađa se da je ubijen i vjerojatni novi vođa Hezbolaha Hašem Safi-edin. Od 1. listopada Hrvatska prvi put ima Zakon o lobiranju. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 06 Oct 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/91/7c/20241006-dnevne-novosti-35707439-20241006133538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.10. 2024-10-05</title>
     <link>https://api.hrt.hr/media/03/a9/20241005-dnevne-novosti-35705273-20241005133528.mp3</link>
     <description>U Bosni i Hercegovini i dalje traje potraga za nestalima u velikim poplavama i odronima. Do nekih sela spasioci još nisu niti došli. Pada vodostaj Kupe kod Karlovca. Izvanredne mjere obrane od poplava i dalje su na snazi. Dvije su osobe poginule, a više od dvadeset je ozlijeđeno u prometnoj nesreći kombija s migrantima noćas kod Novske. Dan je ružičaste vrpce, kada se diljem zemlje upozorava na važnost prevencije raka dojke. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Izreaelska vojska najavljuje širenje kopnenih napada u Libanonu, sljedećih će dana biti evakuirano 15 hrvatskih državljana iz te zemlje. Odluku o sudjelovanju hrvatskih časnika u NATO-voj misiji u Njemačkoj donijet će Sabor, premijer Plenković pozvao zastupnike da dobro razmisle kako će glasovati. Vlada u Sabor uputila prijedlog rebalansa državnog proračuna za ovu godinu. Golema količina kiše pala od sinoć u većem dijelu zemlje. Urednica: Mira Barić</description>
     <pubDate>Thu, 03 Oct 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7c/66/20241003-dnevne-novosti-35699148-20241003134522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.10. 2024-10-02</title>
-    <link>https://api.hrt.hr/media/ac/04/20241002-dnevne-novosti-35695883-20241002134027.mp3</link>
-    <description>Sukob na Bliskom istoku - Hezbolah ispalio stotinu raketa na Izrael, a ta je zemlja zabranila ulazak glavnom tajniku UN-a Ant&amp;oacute;niu Guterresu. I u Saboru reakcije na odbijanje suglasnosti predsjednika Milanovića za slanje pet časnika na uvježbavanje ukrajinske vojske u Njemačkoj. Stopa inflacije već mjesecima pada, ali cijene hrane i usluga rastu. Večeras na Maksimiru druga utakmica Dinama u Ligi prvaka, protivnik je Monaco. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 02 Oct 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ac/04/20241002-dnevne-novosti-35695883-20241002134027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
