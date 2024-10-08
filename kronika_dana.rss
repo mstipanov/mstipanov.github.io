@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 07 Oct 2024 20:52:29 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 20:57:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.10. 2024-10-08</title>
+    <link>https://api.hrt.hr/media/71/6d/20241008-kronika-dana-35714637-20241008204039.mp3</link>
+    <description>Prema još nepotvrđenom izvješću Ministarstva, predsjednik Uprave Jadrolinije David Sopta odgovoran je za pogibiju trojice pomoraca u Malom Lošinju. Sutra u Dubrovnik stiže ukrajinski predsjednik Zelenski. Predsjednik Milanović neće dati suglasnost za sudjelovanje naših vojnika u obuci ukrajinskih, odluka je na Saboru. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 08 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/6d/20241008-kronika-dana-35714637-20241008204039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.10. 2024-10-07</title>
     <link>https://api.hrt.hr/media/d5/12/20241007-kronika-dana-35711431-20241007204034.mp3</link>
     <description>Četvrti dan nakon katastrofalne poplave i klizišta u Bosni i Hercegovini utvrđeno da je poginula 21 osoba, devetero je nestalih. Ni sutra neće doći na nastavu djeca u čiji je razred zagrebačke osnovne škole upisan problematični učenik. Na prvu godišnjica Hamasova napada - procjenjuje se da je u Pojasu Gaze još 97 talaca. Urednica: Sanja Cota</description>
@@ -23,14 +31,6 @@
     <description>Podgoru pogodilo snažno nevrijeme - vodene bujice nosile sve pred sobom. U Bosni i Hercegovini i dalje traje potraga za nestalima u velikim poplavama i odronima. Kombi pun migranata sletio s autoceste kod Novske. Dvije su osobe poginule, a više od dvadeset je ozlijeđeno. Hrvati evakuirani iz Libanona na putu prema Hrvatskoj. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 05 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f8/8c/20241005-kronika-dana-35705993-20241005204030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.10. 2024-10-04</title>
-    <link>https://api.hrt.hr/media/b7/05/20241004-kronika-dana-35703856-20241004203525.mp3</link>
-    <description>Raste broj poginulih u poplavama, bujicama i odronima u Bosni i Hercegovini. Na karlovačkom području na snazi su izvanredne mjere obrane od poplava, vodostaj Kupe je veći od osam metara. Predsjednik i premijer ponovno polemički o pomoći hrvatskih vojnika Ukrajini. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 04 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/05/20241004-kronika-dana-35703856-20241004203525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
