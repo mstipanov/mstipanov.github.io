@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 07 Oct 2024 05:46:48 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 05:54:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.10. 2024-10-08</title>
+    <link>https://api.hrt.hr/media/8d/3d/20241008-jutarnja-kronika-35712037-20241008053538.mp3</link>
+    <description>21 osoba je poginula, devetero je nestalih u poplavama i odronima u Bosni i Hercegovini. Pokrenuta je istraga o radu kamenoloma u Jablanici. se štete nakon vodene bujice u Podgori, država najavila pomoć. Danas na nastavu ipak dolaze učenici zagrebačke osnovne škole u koju je upisan problematični učenik, svi osim učenika iz njegova razreda. Dan je Hrvatskoga sabora. Sutra se očekuje izvješće glavnog državnog odvjetnika, a u četvrtak glasovanje o rebalansu proračuna. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 08 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8d/3d/20241008-jutarnja-kronika-35712037-20241008053538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.10. 2024-10-07</title>
     <link>https://api.hrt.hr/media/d7/19/20241007-jutarnja-kronika-35708793-20241007053543.mp3</link>
     <description>Do sada pronađeno 20 žrtava poplava i odrona u Bosni i Hercegovini. Zbog šteta od bujične poplave splitsko- dalmatinski župan danas proglašava prirodnu nepogodu za općinu Podgoru. Od ponoći benzin poskupljuje za 1 cent, eurodizel za 2 centa. Godišnjica je Hamasova napada na Izrael. Napeto se iščekuje odgovor Tel Aviva na raketiranje iz Irana. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Raste broj poginulih u poplavama, bujicama i odronima u Bosni i Hercegovini. Sumnja se da je za tragediju u Jablanici kriv obližnji kamenolom. Na karlovačkom području na snazi su izvanredne mjere obrane od poplava, vodostaji Kupe i Korane viši su od osam metara. Predsjednik i premijer ponovno polemiziraju o pomoći hrvatskih časnika Ukrajini. Na trgovima hrvatskih gradova obilježit će se Dan ružičaste vrpce, posvećen prevenciji i ranom otkrivanju raka dojke. Urednik: Silvio Šop</description>
     <pubDate>Sat, 05 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/a2/20241005-jutarnja-kronika-35704369-20241005060046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.10. 2024-10-04</title>
-    <link>https://api.hrt.hr/media/b8/94/20241004-jutarnja-kronika-35700713-20241004053545.mp3</link>
-    <description>Noćas palo manje kiše, iako su vodostaji rijeka visoki, u Hrvatskim vodama ne očekuju poplave. Najjači izraelski napadi na Bejrut dosad, Iran zaprijetio Sjedinjenim Državama. Pet stotina godina od smrti Marka Marulića zagrebačko Hrvatsko narodno kazalište obilježava premijerom opere Judita. Urednica: Mira Barić</description>
-    <pubDate>Fri, 04 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/94/20241004-jutarnja-kronika-35700713-20241004053545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
