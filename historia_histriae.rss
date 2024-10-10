@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Oct 2024 16:53:45 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 16:06:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>DENIS VISINTIN ZA HISTORIU 2024-10-10</title>
+    <link>https://api.hrt.hr/media/59/8b/20241010-historia-histriae-8113387-20241010151059.mp3</link>
+    <description>Pričamo o poljoprivredi u Istri za vrijeme Venecije uz našeg gosta, prof. Denisa Visintina </description>
+    <pubDate>Thu, 10 Oct 2024 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/59/8b/20241010-historia-histriae-8113387-20241010151059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>KRISTINA DŽIN 2024-10-03</title>
     <link>https://api.hrt.hr/media/2a/f5/20241003-historia-histriae-8110920-20241003162049.mp3</link>
     <description>Pričamo o sakralnoj baštini Vodnjana uz dr.sc. Kristinu Džin</description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 25 Apr 2024 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/72/20240425-historia-histriae-8060187-20240425151048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>IVAN SERGO 2024-04-18</title>
-    <link>https://api.hrt.hr/media/d0/0d/20240418-historia-histriae-8057926-20240418151706.mp3</link>
-    <description>U goste nam dolazi Ivan Sergo, pokretač instagram stranice "Stara Pula". </description>
-    <pubDate>Thu, 18 Apr 2024 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/0d/20240418-historia-histriae-8057926-20240418151706.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
