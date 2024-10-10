@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Oct 2024 05:59:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 05:34:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Do sada pronađeno 20 žrtava poplava i odrona u Bosni i Hercegovini. Zbog šteta od bujične poplave splitsko- dalmatinski župan danas proglašava prirodnu nepogodu za općinu Podgoru. Od ponoći benzin poskupljuje za 1 cent, eurodizel za 2 centa. Godišnjica je Hamasova napada na Izrael. Napeto se iščekuje odgovor Tel Aviva na raketiranje iz Irana. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 07 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/19/20241007-jutarnja-kronika-35708793-20241007053543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.10. 2024-10-06</title>
-    <link>https://api.hrt.hr/media/93/95/20241006-jutarnja-kronika-35706556-20241006053037.mp3</link>
-    <description>U Podgori dežurne službe cijelu noć saniraju posljedice jučerašnjeg nevremena.Spasilačke službe u Bosni i Hercegovini nastavljaju potragu za desetak nestalih. U nezapamćenim poplavama, klizištima i odronima dosad poginulo najmanje 18 ljudi. Dan uoči godišnjice Hamasova napada na Izrael, propalestinski prosvjedi diljem svijeta. Urednica: Mira Barić</description>
-    <pubDate>Sun, 06 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/95/20241006-jutarnja-kronika-35706556-20241006053037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
