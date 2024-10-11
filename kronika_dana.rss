@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Oct 2024 21:07:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 21:12:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.10. 2024-10-11</title>
+    <link>https://api.hrt.hr/media/74/98/20241011-kronika-dana-35726128-20241011204002.mp3</link>
+    <description>Dezinformacijsku kampanju koju vodi predsjednik Milanović možda financiraju Rusi - najoštrija je osuda premijera Plenkovića na račun predsjednika Milanovića. Jadrolinija tvrdi da je Nacrt izvješća o nesreći na trajektu Lastovo neobjektivan i da ugrožava sve hrvatske brodare. Nobelovu nagradu za mir dobit će japanska organizacija koja okuplja preživjele iz napada atomskim bombama na Hirošimu i Nagasaki. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 11 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/74/98/20241011-kronika-dana-35726128-20241011204002.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.10. 2024-10-10</title>
     <link>https://api.hrt.hr/media/d4/ca/20241010-kronika-dana-35722538-20241010203600.mp3</link>
     <description>Raste broj mrtvih koje je za sobom ostavio uragan Milton na Floridi, prema posljednjim podacima 10 je ljudi poginulo, a deseci su ranjeni. Dok Volodimir Zelenski u Europi predstavlja svoj plan za pobjedu, Ukrajina uvodi ratni porez za oružje i plaće vojnika. Nakon pet dana bojkota - postignut dogovor: učenici zagrebačke osnovne škole vraćaju se sutra na nastavu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Prema još nepotvrđenom izvješću Ministarstva, predsjednik Uprave Jadrolinije David Sopta odgovoran je za pogibiju trojice pomoraca u Malom Lošinju. Sutra u Dubrovnik stiže ukrajinski predsjednik Zelenski. Predsjednik Milanović neće dati suglasnost za sudjelovanje naših vojnika u obuci ukrajinskih, odluka je na Saboru. Urednica: Sanja Cota</description>
     <pubDate>Tue, 08 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/71/6d/20241008-kronika-dana-35714637-20241008204039.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.10. 2024-10-07</title>
-    <link>https://api.hrt.hr/media/d5/12/20241007-kronika-dana-35711431-20241007204034.mp3</link>
-    <description>Četvrti dan nakon katastrofalne poplave i klizišta u Bosni i Hercegovini utvrđeno da je poginula 21 osoba, devetero je nestalih. Ni sutra neće doći na nastavu djeca u čiji je razred zagrebačke osnovne škole upisan problematični učenik. Na prvu godišnjica Hamasova napada - procjenjuje se da je u Pojasu Gaze još 97 talaca. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 07 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/12/20241007-kronika-dana-35711431-20241007204034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
