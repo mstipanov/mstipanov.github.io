@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Oct 2024 14:06:18 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 13:40:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.10. 2024-10-11</title>
+    <link>https://api.hrt.hr/media/16/47/20241011-dnevne-novosti-35725111-20241011133602.mp3</link>
+    <description>Predsjednik Milanović u Krakowu na sastanku europskih predsjednika bez ovlasti. Glavna su tema odnosi Bruxellesa i Washingtona. Premijer Plenković je na Cipru, gdje se razgovara o stanju na Bliskom istoku. Najmanje 22-je ljudi ubijeno, a više od sotinu ranjeno u sinoćnjem izraelskom zračnom napadu na sreište Bejruta. Oštro priopćenje Jadrolinije o objavi dokumenta koji zbog nesreće na trajektu Lastovo proziva predsjednika uprave. Svi učenici u zagrebačkoj školi s problematičnim učenikom poslijepodne napokon na nastavi. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 11 Oct 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/47/20241011-dnevne-novosti-35725111-20241011133602.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.10. 2024-10-10</title>
     <link>https://api.hrt.hr/media/23/03/20241010-dnevne-novosti-35721379-20241010134058.mp3</link>
     <description>Uragan Milton tijekom dana napustit će kopno Sjedinjenih Država, na Floridi je prouzročio veliku štetu i ljudske žrtve. Sabor raspravlja o rebalansu ovogodišnjeg proračuna. Američka tvrtka Jabil otvorila pogon u gospodarskoj zoni Nemetin kod Osijeka, odmah zaposlila 1500 ljudi. Ovogodišnju Nobelovu nagradu za književnost dobila je južnokorejska autorica Han Kang. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Bosni i Hercegovini dan žalosti. Spasioci pronašli i 22. žrtvu katastrofalne poplave. Dubrovnik se priprema za sutrašnji samit Ukrajina - Jugoistočna Europa. U Hrvatsku prvi put dolazi predsjednik Zelenski. Gripa nije vrijedna rizika - poručuje struka i poziva na cijepljenje, cjepivo bi u ordinacije trebalo stići krajem mjeseca. Urednica: Mira Barić</description>
     <pubDate>Tue, 08 Oct 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4f/46/20241008-dnevne-novosti-35713705-20241008134038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.10. 2024-10-07</title>
-    <link>https://api.hrt.hr/media/ad/f2/20241007-dnevne-novosti-35710462-20241007133533.mp3</link>
-    <description>Stotine spasilaca tragaju za još devetero nestalih u katastrofalnim poplavama u Bosni i Hercegovini. Oko 700 učenika zagrebačke osnovne škole nije došlo na nastavu zbog nasilnog učenika. Roditelji za večeras najavljuju prosvjed, a rješenje problema zasad se ne nazire. Godišnjica je Hamasova pokolja u Izraelu. Nakon tri godine obnove, na zagrebačkom Gornjem gradu svečano otvoren obnovljeni Hrvatski prirodoslovni muzej. Urednica: Mira Barić</description>
-    <pubDate>Mon, 07 Oct 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ad/f2/20241007-dnevne-novosti-35710462-20241007133533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
