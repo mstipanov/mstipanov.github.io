@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 11 Oct 2024 05:39:10 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 06:09:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.10. 2024-10-11</title>
+    <link>https://api.hrt.hr/media/ff/cc/20241011-jutarnja-kronika-35723169-20241011053601.mp3</link>
+    <description>Uragan Milton na Floridi ostavio iza sebe najmanje 14-ero mrtvih, milijuni su bez struje. Nakon pet dana bojkota - postignut dogovor: učenici zagrebačke osnovne škole vraćaju se na nastavu. Ukrajinski predsjednik Volodimir Zelenski na turneji po Europi predstavlja svoj takozvani plan za pobjedu. U varaždinskom HNK-u premijera Balkanskog špijuna, u osječkom Puccinijevih jednočinki Plašt i Sestra Angelika. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 11 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/cc/20241011-jutarnja-kronika-35723169-20241011053601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.10. 2024-10-10</title>
     <link>https://api.hrt.hr/media/07/67/20241010-jutarnja-kronika-35719145-20241010054056.mp3</link>
     <description>Uragan Milton uništava Floridu - gradovi su pod vodom, udari vjetra i 200 kilometara na sat, ima i stradalih. U Saboru rasprava o rebalansu ovogodišnjeg državnog proračuna. Pala rampa na Jadrolinijinu trajektu na liniji Porozina - Brestova. U Karlovcu teretni vlak iskočio iz tračnica. Nije bilo ozlijeđenih. Urednik: Mario Krstanović</description>
