@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 13 Oct 2024 20:51:55 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 20:56:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Dezinformacijsku kampanju koju vodi predsjednik Milanović možda financiraju Rusi - najoštrija je osuda premijera Plenkovića na račun predsjednika Milanovića. Jadrolinija tvrdi da je Nacrt izvješća o nesreći na trajektu Lastovo neobjektivan i da ugrožava sve hrvatske brodare. Nobelovu nagradu za mir dobit će japanska organizacija koja okuplja preživjele iz napada atomskim bombama na Hirošimu i Nagasaki. Urednica: Sanja Cota</description>
     <pubDate>Fri, 11 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/74/98/20241011-kronika-dana-35726128-20241011204002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.10. 2024-10-10</title>
-    <link>https://api.hrt.hr/media/d4/ca/20241010-kronika-dana-35722538-20241010203600.mp3</link>
-    <description>Raste broj mrtvih koje je za sobom ostavio uragan Milton na Floridi, prema posljednjim podacima 10 je ljudi poginulo, a deseci su ranjeni. Dok Volodimir Zelenski u Europi predstavlja svoj plan za pobjedu, Ukrajina uvodi ratni porez za oružje i plaće vojnika. Nakon pet dana bojkota - postignut dogovor: učenici zagrebačke osnovne škole vraćaju se sutra na nastavu. Urednica: Mira Barić</description>
-    <pubDate>Thu, 10 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d4/ca/20241010-kronika-dana-35722538-20241010203600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
