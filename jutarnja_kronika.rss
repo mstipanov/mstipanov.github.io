@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Oct 2024 05:53:27 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 05:58:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.10. 2024-10-15</title>
+    <link>https://api.hrt.hr/media/21/5b/20241015-jutarnja-kronika-35734558-20241015053508.mp3</link>
+    <description>Premijer Andrej Plenković Saboru će podnijeti godišnje izvješće Vlade. Predsjednik saborskog Odbora za unutarnju politiku i nacionalnu sigurnost, SDP-ov Ranko Ostojić, traži od SOA-e provjeru navoda da medijsku kampanju predsjednika Milanovića financiraju Rusi. Počinje Mjesec hrvatske knjige. SPORT: pobjedom protiv Poljske u Varšavi Hrvatska nogometna reprezentacija večeras ima priliku osigurati četvrtzavršnicu elitne skupine Lige nacija. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 15 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/21/5b/20241015-jutarnja-kronika-35734558-20241015053508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.10. 2024-10-14</title>
     <link>https://api.hrt.hr/media/2b/51/20241014-jutarnja-kronika-35731228-20241014053044.mp3</link>
     <description>Nakon što su Izraelci provalili tenkom u bazu UN-a u južnom Libanonu, premijer Netanyaju pozvao glavnog tajnika da povuče mirovne snage. Guterres mu uzvraća da plave kacige ostaju te da su napadi na njih kršenje međunarodnog prava i mogući ratni zločin. Ovaj tjedan u Briselu sastanak o migrantima. Ministar Davor Božinović najavio je da će zbog novog režima kontrole ulaska iz trećih zemalja u šengensko podučje nastati gužve i na našim granicama. Premijer Plenković na sastanku Berlinskog procesa s čelnicima država ili vlada jugoistočne Europe. Policija do kraja godine postavlja još 80 kućišta za kamere na cestama. Osim prekoračenja brzine, provjeravat će i uporabu mobitela i sigurnosnih pojaseva. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Novi obračun predsjednika i premijera - Milanović samit u Dubrovniku nazvao "Vučićev show", a Plenković odgovorio: "Milanovića vjerojatno financiraju Rusi"! U Sinju proslava proglašenja crkve Čudotvorne Gospe Sinjske bazilikom. Težak ispit za Vatrene na Maksimiru - Hrvatska protiv Škotske u Ligi nacija. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 12 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/52/20241012-jutarnja-kronika-35726742-20241012055504.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.10. 2024-10-11</title>
-    <link>https://api.hrt.hr/media/ff/cc/20241011-jutarnja-kronika-35723169-20241011053601.mp3</link>
-    <description>Uragan Milton na Floridi ostavio iza sebe najmanje 14-ero mrtvih, milijuni su bez struje. Nakon pet dana bojkota - postignut dogovor: učenici zagrebačke osnovne škole vraćaju se na nastavu. Ukrajinski predsjednik Volodimir Zelenski na turneji po Europi predstavlja svoj takozvani plan za pobjedu. U varaždinskom HNK-u premijera Balkanskog špijuna, u osječkom Puccinijevih jednočinki Plašt i Sestra Angelika. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 11 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/cc/20241011-jutarnja-kronika-35723169-20241011053601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
