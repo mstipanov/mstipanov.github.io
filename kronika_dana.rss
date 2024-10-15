@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Oct 2024 21:26:21 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 21:02:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.10. 2024-10-15</title>
+    <link>https://api.hrt.hr/media/67/7a/20241015-kronika-dana-35737273-20241015204009.mp3</link>
+    <description>Premijer Plenković podnio je Saboru godišnje izvješće Vlade, oporba ga snažno kritizirala i prije objave. Rusi ne financiraju kampanju predsjednika Milanovića, objavio odgovor SOA-e predsjednik Odbora za unutarnju politiku i nacionalnu sigurnost, SDP-ovac Ranko Ostojić. U Jablanici zajednički ispraćaj i pokop 19 žrtava vodene bujice i odrona. Sjever pojasa Gaze ponovno je sasvim odsječen. Predsjednik Milanović osudio izraelske napade na pripadnike mirovnih snaga. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 15 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/67/7a/20241015-kronika-dana-35737273-20241015204009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.10. 2024-10-14</title>
     <link>https://api.hrt.hr/media/69/d5/20241014-kronika-dana-35733991-20241014204043.mp3</link>
     <description>Predsjednik saborskog Odbora za unutarnju politiku i nacionalnu sigurnost uputio zahtjev SOA-i da ispita navode o tome da Rusi financiraju predsjednika Milanovića. UN-ove mirovne snage u Libanonu tvrde da su namjerno napadane, Netanyahu ponavlja da moraju napustiti područje borbi. Karlovčani se mjesecima žale da piju zamućenu vodu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U središtu Zagreba policijska potjera za vozačem ukradenog automobila, jedan je policajac ozlijeđen.Zbog tvrdnji iz Vlade da kampanju predsjednika Milanovića financiraju Rusi, u Saboru će se tražiti izvješće Odbora za nacionalnu sigurnost. Hrvatska pobjedila Škotsku 2:1, važan korak prema četvrtfinalu Lige nacija Urednica: Sanja Cota</description>
     <pubDate>Sat, 12 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/10/c5/20241012-kronika-dana-35728401-20241012203532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.10. 2024-10-11</title>
-    <link>https://api.hrt.hr/media/74/98/20241011-kronika-dana-35726128-20241011204002.mp3</link>
-    <description>Dezinformacijsku kampanju koju vodi predsjednik Milanović možda financiraju Rusi - najoštrija je osuda premijera Plenkovića na račun predsjednika Milanovića. Jadrolinija tvrdi da je Nacrt izvješća o nesreći na trajektu Lastovo neobjektivan i da ugrožava sve hrvatske brodare. Nobelovu nagradu za mir dobit će japanska organizacija koja okuplja preživjele iz napada atomskim bombama na Hirošimu i Nagasaki. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 11 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/74/98/20241011-kronika-dana-35726128-20241011204002.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
