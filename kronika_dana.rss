@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 15 Oct 2024 21:02:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 20:38:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Izraelski tenkovi nasilno ušli u bazu UN-a na jugu Libanona, premijer Netanyahu od glavnog tajnika UN-a traži da mirovne snage povuče iz ratne zone. Sjedinjene Države potvrdile su da će Izraelu poslati proturaketni sustav. SPACE X Elona Muska lansirao je Starship, najmoćniju raketu na svijetu, njezin divovski nosač vraćen na Zemlju s pomoću metalne ruke. Više od 5 i pol tisuća natjecatelja iz 78 zemalja sudjelovalo na Zagrebačkome maratonu. Urednica: Mira Barić</description>
     <pubDate>Sun, 13 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/5e/20241013-kronika-dana-35730679-20241013203540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.10. 2024-10-12</title>
-    <link>https://api.hrt.hr/media/10/c5/20241012-kronika-dana-35728401-20241012203532.mp3</link>
-    <description>U središtu Zagreba policijska potjera za vozačem ukradenog automobila, jedan je policajac ozlijeđen.Zbog tvrdnji iz Vlade da kampanju predsjednika Milanovića financiraju Rusi, u Saboru će se tražiti izvješće Odbora za nacionalnu sigurnost. Hrvatska pobjedila Škotsku 2:1, važan korak prema četvrtfinalu Lige nacija Urednica: Sanja Cota</description>
-    <pubDate>Sat, 12 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/10/c5/20241012-kronika-dana-35728401-20241012203532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
