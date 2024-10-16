@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 15 Oct 2024 05:58:02 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 06:04:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.10. 2024-10-16</title>
+    <link>https://api.hrt.hr/media/f0/01/20241016-jutarnja-kronika-35737874-20241016054009.mp3</link>
+    <description>Vladajući hvalili, oporba oštro kritizirala godišnje izvješće Vlade, koje je Saboru podnio premijer Andrej Plenković. Ukrajinske vlasti naredile su evakuaciju ključnoga grada Kupjanska i triju drugih područja u sjeveroistočnoj regiji Harkiva. Rusi ne financiraju kampanju predsjednika Zorana Milanovića, odgovor je SOA-e predsjedniku saborskog Odbora za unutarnju politiku i nacionalnu sigurnost SDP-ovcu Ranku Ostojiću. SPORT: Hrvatska u Ligi nacija protiv Poljske vodila 3:1, Livaković isključen, susret završen neodlučeno 3:3. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 16 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f0/01/20241016-jutarnja-kronika-35737874-20241016054009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.10. 2024-10-15</title>
     <link>https://api.hrt.hr/media/21/5b/20241015-jutarnja-kronika-35734558-20241015053508.mp3</link>
     <description>Premijer Andrej Plenković Saboru će podnijeti godišnje izvješće Vlade. Predsjednik saborskog Odbora za unutarnju politiku i nacionalnu sigurnost, SDP-ov Ranko Ostojić, traži od SOA-e provjeru navoda da medijsku kampanju predsjednika Milanovića financiraju Rusi. Počinje Mjesec hrvatske knjige. SPORT: pobjedom protiv Poljske u Varšavi Hrvatska nogometna reprezentacija večeras ima priliku osigurati četvrtzavršnicu elitne skupine Lige nacija. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Zelenski tvrdi da ukrajinske snage čvrsto drže položaje u Kursku iako ih ruska vojska nastoji potisnuti. Zbog tvrdnji iz Vlade da kampanju predsjednika Milanovića financiraju Rusi, u Saboru će se tražiti izvješće Odbora za nacionalnu sigurnost. U Zagrebu se trči maraton, veći dio grada bez automobila i javnog prijevoza. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 13 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3c/ee/20241013-jutarnja-kronika-35728960-20241013053539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.10. 2024-10-12</title>
-    <link>https://api.hrt.hr/media/72/52/20241012-jutarnja-kronika-35726742-20241012055504.mp3</link>
-    <description>Novi obračun predsjednika i premijera - Milanović samit u Dubrovniku nazvao "Vučićev show", a Plenković odgovorio: "Milanovića vjerojatno financiraju Rusi"! U Sinju proslava proglašenja crkve Čudotvorne Gospe Sinjske bazilikom. Težak ispit za Vatrene na Maksimiru - Hrvatska protiv Škotske u Ligi nacija. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 12 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/72/52/20241012-jutarnja-kronika-35726742-20241012055504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
