@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Oct 2024 21:08:26 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 20:47:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.10. 2024-10-17</title>
+    <link>https://api.hrt.hr/media/5c/9d/20241017-kronika-dana-35744534-20241017204014.mp3</link>
+    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Thu, 17 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/9d/20241017-kronika-dana-35744534-20241017204014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.10. 2024-10-16</title>
     <link>https://api.hrt.hr/media/15/2e/20241016-kronika-dana-35740909-20241016204011.mp3</link>
     <description>Burna sjednica saborskog Odbora za obranu, predsjednik Milanović zabranio načelniku Glavnog stožera da dođe na nju, pljušte međusobne optužbe za politizaciju vojske. Glavni državni odvjetnik Ivan Turudić prebacio slučaj vrijeđanja šibenske policajke tijekom ovoljetnog požara u Skradinu - drugome državnom odvjetništvu.Ukrajinski predsjednik Volodimir Zelenski parlamentu predstavio takozvani "plan pobjede". Rusija kaže: "Gura nas u izravan rat s NATO-om.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Predsjednik saborskog Odbora za unutarnju politiku i nacionalnu sigurnost uputio zahtjev SOA-i da ispita navode o tome da Rusi financiraju predsjednika Milanovića. UN-ove mirovne snage u Libanonu tvrde da su namjerno napadane, Netanyahu ponavlja da moraju napustiti područje borbi. Karlovčani se mjesecima žale da piju zamućenu vodu. Urednica: Sanja Cota</description>
     <pubDate>Mon, 14 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/d5/20241014-kronika-dana-35733991-20241014204043.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.10. 2024-10-13</title>
-    <link>https://api.hrt.hr/media/1b/5e/20241013-kronika-dana-35730679-20241013203540.mp3</link>
-    <description>Izraelski tenkovi nasilno ušli u bazu UN-a na jugu Libanona, premijer Netanyahu od glavnog tajnika UN-a traži da mirovne snage povuče iz ratne zone. Sjedinjene Države potvrdile su da će Izraelu poslati proturaketni sustav. SPACE X Elona Muska lansirao je Starship, najmoćniju raketu na svijetu, njezin divovski nosač vraćen na Zemlju s pomoću metalne ruke. Više od 5 i pol tisuća natjecatelja iz 78 zemalja sudjelovalo na Zagrebačkome maratonu. Urednica: Mira Barić</description>
-    <pubDate>Sun, 13 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1b/5e/20241013-kronika-dana-35730679-20241013203540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
