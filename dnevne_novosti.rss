@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Oct 2024 14:07:02 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 13:43:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.10. 2024-10-17</title>
+    <link>https://api.hrt.hr/media/fa/ea/20241017-dnevne-novosti-35743266-20241017133514.mp3</link>
+    <description>Ministar Davor Božinović Saboru podnio izvješće o radu policije, ali glavna je tema bila slučaj Dujić. Počelo saslušanje kandidata za suce Ustavnog suda. U Bruxellesu summit čelnika zemalja Europske unije i sastanak ministara obrane zemalja NATO saveza. 33. Dani hrvatskog filma počinju večeras u Karlovcu. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 17 Oct 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fa/ea/20241017-dnevne-novosti-35743266-20241017133514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.10. 2024-10-16</title>
     <link>https://api.hrt.hr/media/75/44/20241016-dnevne-novosti-35739691-20241016134010.mp3</link>
     <description>Vlada će povećati minimalnu plaću na 760 eura neto. Predsjednik Milanović navodno zabranio načelniku Glavnog stožera da dođe na sjednicu saborskog Odbora za obranu i obrazloži NATO-vu misiju pomoći Ukrajini. Zelenski ukrajinskom parlamentu predstavio "plan pobjede", prema kojem bi rat mogao završiti najkasnije iduće godine. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Izraelski ministar pozvao snage Ujedinjenih naroda u Južnom Libanonu da se povuku, jer nisu u stanju zaštititi Izraelce od napada Hezbolaha. U Berlinu sastanak na vrhu Berlinskog procesa, sudjeluje i premijer Andrej Plenković. Ministar financija Marko Primorac najavio isplatu plaća na bankovni račun koji neće imati naknadu za vođenje računa. Ministri unutarnjih poslova Hrvatske, Slovenije i Italije sastali se u Zaprešiću. Urednik: Silvio Šop</description>
     <pubDate>Mon, 14 Oct 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/f8/20241014-dnevne-novosti-35732943-20241014133544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.10. 2024-10-13</title>
-    <link>https://api.hrt.hr/media/f3/8e/20241013-dnevne-novosti-35729910-20241013133540.mp3</link>
-    <description>UN traži sigurnost za svoje snage na Bliskom istoku, a izraelski premijer Netanjahu od glavnog tajnika zahtijeva da povuče mirovne vojnike iz ratne zone na jugu Libanona. Predsjednik Zelenski tvrdi da ukrajinske snage čvrsto drže položaje u Kursku, iako ih ruska vojska nastoji potisnuti. Zagrebački maraton okupio više od pet tisuća natjecatelja. Urednica Sanja Cota.</description>
-    <pubDate>Sun, 13 Oct 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f3/8e/20241013-dnevne-novosti-35729910-20241013133540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
