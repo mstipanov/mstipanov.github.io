@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Oct 2024 16:06:45 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 16:14:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Slaven Bertosa za Historiu 2024-10-17</title>
+    <link>https://api.hrt.hr/media/d7/94/20241017-historia-histriae-8115970-20241017160019.mp3</link>
+    <description>U goste nam dolazi dr. Slaven Bertoša, a pričamo o povijesti pulske škole Šijana</description>
+    <pubDate>Thu, 17 Oct 2024 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d7/94/20241017-historia-histriae-8115970-20241017160019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>DENIS VISINTIN ZA HISTORIU 2024-10-10</title>
     <link>https://api.hrt.hr/media/59/8b/20241010-historia-histriae-8113387-20241010151059.mp3</link>
     <description>Pričamo o poljoprivredi u Istri za vrijeme Venecije uz našeg gosta, prof. Denisa Visintina </description>
@@ -79,14 +87,6 @@
     <description>Znate li tko je bio Egidio Bulešić? Nadamo se - prvi pulski svetac! O njemu nam priča vlč. Marijan Jelenić </description>
     <pubDate>Thu, 02 May 2024 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/09/c2/20240502-historia-histriae-8062447-20240502161505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Igor Jovanović 2024-04-25</title>
-    <link>https://api.hrt.hr/media/ce/72/20240425-historia-histriae-8060187-20240425151048.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 25 Apr 2024 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ce/72/20240425-historia-histriae-8060187-20240425151048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
