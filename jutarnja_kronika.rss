@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Oct 2024 06:11:48 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 05:50:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.10. 2024-10-18</title>
+    <link>https://api.hrt.hr/media/7d/57/20241018-jutarnja-kronika-35745168-20241018053543.mp3</link>
+    <description>Izrael potvrdio da je u napadu na Gazu ubijen vođa Hamasa Yahia Sinwar. Na sastanku Europskog vijeća ukrajinski predsjednik Volodimir Zelenski iznio mirovni plan za završetak rata. Potpredsjednik Vlade Branko Bačić predstavit će Nacionalni plan stambene politike do 2030-e. Počinje drugi Open House Zagreb festival. Urednik Silvio Šop</description>
+    <pubDate>Fri, 18 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7d/57/20241018-jutarnja-kronika-35745168-20241018053543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.10. 2024-10-17</title>
     <link>https://api.hrt.hr/media/a3/26/20241017-jutarnja-kronika-35741445-20241017053513.mp3</link>
     <description>Počinju razgovori s kandidatima za 10 ustavnih sudaca. Predsjednik Milanović zabranio načelniku Glavnog stožera da dođe na sjednicu saborskog Odbora za obranu. Na sastanku na vrhu Europskog vijeća u Briselu, ukrajinski će predsjednik Zelenski predstaviti "plan pobjede". State Department kaže da Izrael ima pravo napadati Hezbolah, ali da mora zaštititi civile. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Premijer Andrej Plenković Saboru će podnijeti godišnje izvješće Vlade. Predsjednik saborskog Odbora za unutarnju politiku i nacionalnu sigurnost, SDP-ov Ranko Ostojić, traži od SOA-e provjeru navoda da medijsku kampanju predsjednika Milanovića financiraju Rusi. Počinje Mjesec hrvatske knjige. SPORT: pobjedom protiv Poljske u Varšavi Hrvatska nogometna reprezentacija večeras ima priliku osigurati četvrtzavršnicu elitne skupine Lige nacija. Urednik: Silvio Šop</description>
     <pubDate>Tue, 15 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/21/5b/20241015-jutarnja-kronika-35734558-20241015053508.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.10. 2024-10-14</title>
-    <link>https://api.hrt.hr/media/2b/51/20241014-jutarnja-kronika-35731228-20241014053044.mp3</link>
-    <description>Nakon što su Izraelci provalili tenkom u bazu UN-a u južnom Libanonu, premijer Netanyaju pozvao glavnog tajnika da povuče mirovne snage. Guterres mu uzvraća da plave kacige ostaju te da su napadi na njih kršenje međunarodnog prava i mogući ratni zločin. Ovaj tjedan u Briselu sastanak o migrantima. Ministar Davor Božinović najavio je da će zbog novog režima kontrole ulaska iz trećih zemalja u šengensko podučje nastati gužve i na našim granicama. Premijer Plenković na sastanku Berlinskog procesa s čelnicima država ili vlada jugoistočne Europe. Policija do kraja godine postavlja još 80 kućišta za kamere na cestama. Osim prekoračenja brzine, provjeravat će i uporabu mobitela i sigurnosnih pojaseva. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 14 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2b/51/20241014-jutarnja-kronika-35731228-20241014053044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
