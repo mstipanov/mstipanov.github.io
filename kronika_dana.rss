@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Oct 2024 20:54:49 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 21:01:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.10. 2024-10-19</title>
+    <link>https://api.hrt.hr/media/66/da/20241019-kronika-dana-35750208-20241019204041.mp3</link>
+    <description>"Dok sam ja predsjednik, Hrvatsku ću držati izvan sukoba" - poručio predsjednik Milanović. Na upit iz Vlade SOA odgovorila da ne raspolaže saznanjima da Vlada vodi 'veleizdajničku politiku'. Premijer Plenković predsjednika Milanovića i predsjednika SDP-a nazvao talogom i od njih očekuje ispriku za uvrede. Hezbolahova bespilotna letjelica pala nedaleko od kuće izraelskog premijera Netanyahua. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 19 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/66/da/20241019-kronika-dana-35750208-20241019204041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.10. 2024-10-18</title>
     <link>https://api.hrt.hr/media/97/8a/20241018-kronika-dana-35747951-20241018204003.mp3</link>
     <description>Predsjednik Milanović opet zabranio Tihomiru Kundidu dolazak na sjednicu Odbora za obranu. Američki predsjednik Biden iz Berlina pozvao Zapad da nastavi potporu Ukrajini. U riječkom KBC-u pušten je u rad novi linearni akcelerator, omogućit će visokoučinkovito liječenje onkoloških pacijenata. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Burna sjednica saborskog Odbora za obranu, predsjednik Milanović zabranio načelniku Glavnog stožera da dođe na nju, pljušte međusobne optužbe za politizaciju vojske. Glavni državni odvjetnik Ivan Turudić prebacio slučaj vrijeđanja šibenske policajke tijekom ovoljetnog požara u Skradinu - drugome državnom odvjetništvu.Ukrajinski predsjednik Volodimir Zelenski parlamentu predstavio takozvani "plan pobjede". Rusija kaže: "Gura nas u izravan rat s NATO-om.Urednica: Mira Barić</description>
     <pubDate>Wed, 16 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/15/2e/20241016-kronika-dana-35740909-20241016204011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.10. 2024-10-15</title>
-    <link>https://api.hrt.hr/media/67/7a/20241015-kronika-dana-35737273-20241015204009.mp3</link>
-    <description>Premijer Plenković podnio je Saboru godišnje izvješće Vlade, oporba ga snažno kritizirala i prije objave. Rusi ne financiraju kampanju predsjednika Milanovića, objavio odgovor SOA-e predsjednik Odbora za unutarnju politiku i nacionalnu sigurnost, SDP-ovac Ranko Ostojić. U Jablanici zajednički ispraćaj i pokop 19 žrtava vodene bujice i odrona. Sjever pojasa Gaze ponovno je sasvim odsječen. Predsjednik Milanović osudio izraelske napade na pripadnike mirovnih snaga. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 15 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/67/7a/20241015-kronika-dana-35737273-20241015204009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
