@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Oct 2024 05:50:38 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 05:57:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.10. 2024-10-19</title>
+    <link>https://api.hrt.hr/media/e0/40/20241019-jutarnja-kronika-35748491-20241019053006.mp3</link>
+    <description>Marija Selak Raspudić prva će službeno potvrditi svoju predsjedničku kandidaturu. Predsjednik Milanović opet zabranio Tihomiru Kundidu da dođe na sjednicu Odbora za obranu. Hamas uvjerava da ubojstvo njihova vođe Yahye Sinwara nije nikakav udarac za pokret koji nastavlja svoj put. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 19 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e0/40/20241019-jutarnja-kronika-35748491-20241019053006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.10. 2024-10-18</title>
     <link>https://api.hrt.hr/media/7d/57/20241018-jutarnja-kronika-35745168-20241018053543.mp3</link>
     <description>Izrael potvrdio da je u napadu na Gazu ubijen vođa Hamasa Yahia Sinwar. Na sastanku Europskog vijeća ukrajinski predsjednik Volodimir Zelenski iznio mirovni plan za završetak rata. Potpredsjednik Vlade Branko Bačić predstavit će Nacionalni plan stambene politike do 2030-e. Počinje drugi Open House Zagreb festival. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Vladajući hvalili, oporba oštro kritizirala godišnje izvješće Vlade, koje je Saboru podnio premijer Andrej Plenković. Ukrajinske vlasti naredile su evakuaciju ključnoga grada Kupjanska i triju drugih područja u sjeveroistočnoj regiji Harkiva. Rusi ne financiraju kampanju predsjednika Zorana Milanovića, odgovor je SOA-e predsjedniku saborskog Odbora za unutarnju politiku i nacionalnu sigurnost SDP-ovcu Ranku Ostojiću. SPORT: Hrvatska u Ligi nacija protiv Poljske vodila 3:1, Livaković isključen, susret završen neodlučeno 3:3. Urednik: Silvio Šop</description>
     <pubDate>Wed, 16 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f0/01/20241016-jutarnja-kronika-35737874-20241016054009.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.10. 2024-10-15</title>
-    <link>https://api.hrt.hr/media/21/5b/20241015-jutarnja-kronika-35734558-20241015053508.mp3</link>
-    <description>Premijer Andrej Plenković Saboru će podnijeti godišnje izvješće Vlade. Predsjednik saborskog Odbora za unutarnju politiku i nacionalnu sigurnost, SDP-ov Ranko Ostojić, traži od SOA-e provjeru navoda da medijsku kampanju predsjednika Milanovića financiraju Rusi. Počinje Mjesec hrvatske knjige. SPORT: pobjedom protiv Poljske u Varšavi Hrvatska nogometna reprezentacija večeras ima priliku osigurati četvrtzavršnicu elitne skupine Lige nacija. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 15 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/5b/20241015-jutarnja-kronika-35734558-20241015053508.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
