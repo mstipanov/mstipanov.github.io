@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 20 Oct 2024 14:04:59 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 14:03:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.10. 2024-10-21</title>
+    <link>https://api.hrt.hr/media/2e/9a/20241021-dnevne-novosti-35754883-20241021134015.mp3</link>
+    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
+    <pubDate>Mon, 21 Oct 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2e/9a/20241021-dnevne-novosti-35754883-20241021134015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.10. 2024-10-20</title>
     <link>https://api.hrt.hr/media/87/0b/20241020-dnevne-novosti-35751568-20241020133512.mp3</link>
     <description>Uoči nove sjednice saborskog Odbora za obranu, predsjednik Milanović na Fejsbuku poručio kako je spriječio pokušaj političke otmice šefa vojske, a da će isto tako spriječiti političku otmicu SOA-e. Izrael ponovno napao sjedište Hezbolaha u Bejrutu, a Ukrajina dronovima gađala Moskvu. Zahuktava se kampanja za američke predsjedničke izbore - Donald Trump pojačao verbalne napade na Kamalu Harris. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>General Kundid opet neće doći na sjednicu Odbora za obranu jer mu je tako naređeno. ne može imati osnaženu Rusiju na svojim granicama, poručio glavni tajnik Saveza. Nacionalni plan stambene politike. Urednica: Sanja Cota</description>
     <pubDate>Fri, 18 Oct 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/59/20241018-dnevne-novosti-35747059-20241018133545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.10. 2024-10-17</title>
-    <link>https://api.hrt.hr/media/fa/ea/20241017-dnevne-novosti-35743266-20241017133514.mp3</link>
-    <description>Ministar Davor Božinović Saboru podnio izvješće o radu policije, ali glavna je tema bila slučaj Dujić. Počelo saslušanje kandidata za suce Ustavnog suda. U Bruxellesu summit čelnika zemalja Europske unije i sastanak ministara obrane zemalja NATO saveza. 33. Dani hrvatskog filma počinju večeras u Karlovcu. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 17 Oct 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fa/ea/20241017-dnevne-novosti-35743266-20241017133514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
