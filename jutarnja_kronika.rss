@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 20 Oct 2024 06:03:37 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 05:37:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Izrael potvrdio da je u napadu na Gazu ubijen vođa Hamasa Yahia Sinwar. Na sastanku Europskog vijeća ukrajinski predsjednik Volodimir Zelenski iznio mirovni plan za završetak rata. Potpredsjednik Vlade Branko Bačić predstavit će Nacionalni plan stambene politike do 2030-e. Počinje drugi Open House Zagreb festival. Urednik Silvio Šop</description>
     <pubDate>Fri, 18 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7d/57/20241018-jutarnja-kronika-35745168-20241018053543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.10. 2024-10-17</title>
-    <link>https://api.hrt.hr/media/a3/26/20241017-jutarnja-kronika-35741445-20241017053513.mp3</link>
-    <description>Počinju razgovori s kandidatima za 10 ustavnih sudaca. Predsjednik Milanović zabranio načelniku Glavnog stožera da dođe na sjednicu saborskog Odbora za obranu. Na sastanku na vrhu Europskog vijeća u Briselu, ukrajinski će predsjednik Zelenski predstaviti "plan pobjede". State Department kaže da Izrael ima pravo napadati Hezbolah, ali da mora zaštititi civile. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 17 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a3/26/20241017-jutarnja-kronika-35741445-20241017053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
