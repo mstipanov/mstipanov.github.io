@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 21 Oct 2024 14:03:24 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 13:39:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Iako još ne znamo datum predsjedničkih izbora, sigurno je da će se oni održati u vrijeme božićnih blagdana. Prva službenu kandidaturu objavila Marija Selak Raspudić. Hezbolah ispalio bespilotnu letjelicu na kuću izraelskog premijera Netanyahua. Luka Modrić večeras bi mogao postati najstariji igrač koji je nastupio za Real Madrid u 122 godine povijesti kluba. Urednica: Mira Barić</description>
     <pubDate>Sat, 19 Oct 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/05/20241019-dnevne-novosti-35749459-20241019133516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.10. 2024-10-18</title>
-    <link>https://api.hrt.hr/media/38/59/20241018-dnevne-novosti-35747059-20241018133545.mp3</link>
-    <description>General Kundid opet neće doći na sjednicu Odbora za obranu jer mu je tako naređeno. ne može imati osnaženu Rusiju na svojim granicama, poručio glavni tajnik Saveza. Nacionalni plan stambene politike. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 18 Oct 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/59/20241018-dnevne-novosti-35747059-20241018133545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
