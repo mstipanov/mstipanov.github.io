@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 22 Oct 2024 06:07:18 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 06:12:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.10. 2024-10-23</title>
+    <link>https://api.hrt.hr/media/37/c1/20241023-jutarnja-kronika-35760020-20241023053521.mp3</link>
+    <description>U Saboru jučer cijeli dan rasprava o sudjelovanju hrvatskih vojnika u NATO-ovoj misiji potpore Ukrajini. Premijer Plenković potvrdio da će neki vojnici misije ići u Ukrajinu, ali ne i hrvatski. I dalje se nastavlja bojkot nastave u zagrebačkoj osnovnoj školi zbog problematičnog učenika. U Šibeniku sinoć održana svjetska premijera filma "Dražen". SPORT: U trećem kolu Lige prvaka Dinamo gostuje kod Salzburga. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 23 Oct 2024 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/37/c1/20241023-jutarnja-kronika-35760020-20241023053521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.10. 2024-10-22</title>
     <link>https://api.hrt.hr/media/44/cc/20241022-jutarnja-kronika-35756634-20241022053518.mp3</link>
     <description>Otvara se posljednja dionica autoceste Zagreb - Sisak, od Lekenika do Siska. U Saboru rasprava o slanju dvojice hrvatskih časnika u Njemačku, u NATO-ovu misiju potpore Ukrajini. Baš na 60. rođendan Dražena Petrovića, u njegovu rodnom Šibeniku večeras premijera filma "Dražen". Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>"Dok sam ja predsjednik, Hrvatsku ću držati izvan sukoba" - poručio predsjednik Milanović. Premijer Plenković objasnio zašto je od SOA-e zatražio ocjenu vodi li Vlada veleizdajničku politiku. U znaku priprema za lokalne i predsjedničke izbore, u Šibeniku će se na Općem saboru HDZ-a birati novo Predsjedništvo i Nacionalno vijeće stranke. Izraelski premijer Netanyahu poručio Hezbolahu da će platiti visoku cijenu za napad na njegovu privatnu rezidenciju. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 20 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8b/19/20241020-jutarnja-kronika-35750742-20241020053104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.10. 2024-10-19</title>
-    <link>https://api.hrt.hr/media/e0/40/20241019-jutarnja-kronika-35748491-20241019053006.mp3</link>
-    <description>Marija Selak Raspudić prva će službeno potvrditi svoju predsjedničku kandidaturu. Predsjednik Milanović opet zabranio Tihomiru Kundidu da dođe na sjednicu Odbora za obranu. Hamas uvjerava da ubojstvo njihova vođe Yahye Sinwara nije nikakav udarac za pokret koji nastavlja svoj put. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 19 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e0/40/20241019-jutarnja-kronika-35748491-20241019053006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
