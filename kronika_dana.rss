@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 22 Oct 2024 20:40:31 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 20:46:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -23,14 +23,6 @@
     <description>Spriječit ću političku otmicu SOA-e, poručio predsjednik Milanović. Ponaša se kao diktator i faraon, uzvratio premijer Plenković. Na općem saboru HDZ-a snažna potpora Draganu Primorcu. Izrael najavljuje da će razotkriti kako Iran preko civilnih institucija financira terorističku aktivnost Hezbollaha. Urednica: Sanja Cota</description>
     <pubDate>Sun, 20 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/36/9e/20241020-kronika-dana-35752302-20241020203513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.10. 2024-10-19</title>
-    <link>https://api.hrt.hr/media/66/da/20241019-kronika-dana-35750208-20241019204041.mp3</link>
-    <description>"Dok sam ja predsjednik, Hrvatsku ću držati izvan sukoba" - poručio predsjednik Milanović. Na upit iz Vlade SOA odgovorila da ne raspolaže saznanjima da Vlada vodi 'veleizdajničku politiku'. Premijer Plenković predsjednika Milanovića i predsjednika SDP-a nazvao talogom i od njih očekuje ispriku za uvrede. Hezbolahova bespilotna letjelica pala nedaleko od kuće izraelskog premijera Netanyahua. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 19 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/66/da/20241019-kronika-dana-35750208-20241019204041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
