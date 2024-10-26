@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Oct 2024 20:54:10 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 20:58:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.10. 2024-10-26</title>
+    <link>https://api.hrt.hr/media/25/01/20241026-kronika-dana-35772692-20241026204019.mp3</link>
+    <description>Nakon izraelskog raketiranja Irana - UN i SAD pozvali na zaustavljanje uzajmnih napada. U BIH osam uhićenih nakon terorističkog napada koji je izveo petnaestogodišnjak. U Zagrebu počela blokovska naplata parkiranja. Noćas počinje zimsko računanje vremena. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 26 Oct 2024 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/01/20241026-kronika-dana-35772692-20241026204019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.10. 2024-10-25</title>
     <link>https://api.hrt.hr/media/51/5e/20241025-kronika-dana-35770339-20241025204518.mp3</link>
     <description>Sabor danas bez glasovanja o hrvatskim časnicima u NATO-ovoj misiji pomoći Ukrajini. Vladajući pozvali visokog dužnosnika NATO-a da dođe u Sabor, ali umjesto na Odboru za obranu bit će na Odboru za vanjsku politiku. Terorizam u susjednoj državi. Četrnaestogodišnjak u Bosanskoj Krupi ubio jednog policajca i još jednog ranio. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Turska pretpostavlja da su teroristički napad u Ankari izveli pripadnici Kurdske radničke partije. Bijela kuća procjenjuje da su u Rusiju stigle tri tisuće sjevernokorejskih vojnika. Zaposlenici zagrebačke škole u kojoj oko tisuću učenika, zbog jednog dječaka, ne dolazi na nastavu traže jasan odgovor inistitucija u roku od 24 sata. Urednica: Sanja Cota</description>
     <pubDate>Wed, 23 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/8b/20241023-kronika-dana-35762849-20241023204037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.10. 2024-10-22</title>
-    <link>https://api.hrt.hr/media/34/f6/20241022-kronika-dana-35759522-20241022203520.mp3</link>
-    <description>U Saboru cijeli dan rasprava o sudjelovanju hrvatskih vojnika u NATO-ovoj misiji potpore Ukrajini. Nakon 18 godina gradnje dovršena je autocesta Zagreb - Sisak. Zbog povratka problematičnog učenika na nastavu u jednoj zagrebačkoj školi ponovno bojkot i prosvjed roditelja. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 22 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/f6/20241022-kronika-dana-35759522-20241022203520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
