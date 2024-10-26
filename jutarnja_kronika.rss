@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Oct 2024 05:51:38 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 05:55:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Saboru jučer cijeli dan rasprava o sudjelovanju hrvatskih vojnika u NATO-ovoj misiji potpore Ukrajini. Premijer Plenković potvrdio da će neki vojnici misije ići u Ukrajinu, ali ne i hrvatski. I dalje se nastavlja bojkot nastave u zagrebačkoj osnovnoj školi zbog problematičnog učenika. U Šibeniku sinoć održana svjetska premijera filma "Dražen". SPORT: U trećem kolu Lige prvaka Dinamo gostuje kod Salzburga. Urednik: Silvio Šop</description>
     <pubDate>Wed, 23 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/37/c1/20241023-jutarnja-kronika-35760020-20241023053521.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.10. 2024-10-22</title>
-    <link>https://api.hrt.hr/media/44/cc/20241022-jutarnja-kronika-35756634-20241022053518.mp3</link>
-    <description>Otvara se posljednja dionica autoceste Zagreb - Sisak, od Lekenika do Siska. U Saboru rasprava o slanju dvojice hrvatskih časnika u Njemačku, u NATO-ovu misiju potpore Ukrajini. Baš na 60. rođendan Dražena Petrovića, u njegovu rodnom Šibeniku večeras premijera filma "Dražen". Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 22 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/cc/20241022-jutarnja-kronika-35756634-20241022053518.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
