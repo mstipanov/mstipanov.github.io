@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Oct 2024 13:52:59 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 13:56:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.10. 2024-10-26</title>
+    <link>https://api.hrt.hr/media/95/be/20241026-dnevne-novosti-35771971-20241026134019.mp3</link>
+    <description>Izrael je izveo snažan napad na vojne ciljeve u Iranu, još se čeka hoće li i kako Iran odgovoriti.Osam osoba uhićeno u Bosni i Hercegovini u sklopu istrage pokrenute nakon što je maloljetnik u Bosanskoj Krupi prekjučer ubio jednog i teško ranio drugog policajca. Od danas u Zagrebu vrijedi nova odluka o takozvanom blokovskom parkiranju. Urednica: Mira Barić</description>
+    <pubDate>Sat, 26 Oct 2024 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/be/20241026-dnevne-novosti-35771971-20241026134019.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.10. 2024-10-25</title>
     <link>https://api.hrt.hr/media/a0/8f/20241025-dnevne-novosti-35769374-20241025133514.mp3</link>
     <description>14-godišnji dječak sinoć u Bosanskoj Krupi ubio jednog i ranio drugog policajca, vlasti to smatraju terorizmom. Volodimir Zelenski tvrdi da Rusija planira rasporediti sjevernokorejske vojnike u borbenim područjima već od 27. ovog mjeseca. Oporba ne namjerava sudjelovati u sazivanju nove sjednice Odbora za obranu, na koju bi došao i dužosnik NATO-a. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Oporbeni demokratski čelnici Venezuele, Maria Corina Machado i Edmundo Gonz&amp
     <description>Sabor o povećanju minimalne plaće. Oko tisuću učenika ni danas nije došlo na nastavu u zagrebačku osnovnu školu zbog problematičnog dječaka. Resorno ministarstvo tvrdi da su iscrpili sve opcije. Prvi se put sastalo Vijeće za hrvatski jezik. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 23 Oct 2024 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b5/8f/20241023-dnevne-novosti-35762000-20241023134035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.10. 2024-10-22</title>
-    <link>https://api.hrt.hr/media/32/1c/20241022-dnevne-novosti-35758454-20241022133519.mp3</link>
-    <description>Nakon 18 godina gradnje dovršena je autocesta Zagreb - Sisak, pušta se u promet u 18 sati. Sabor raspravlja o sudjelovanju hrvatskih vojnika u NATO-ovoj misiji potpore Ukrajini. Nakon ponovnog bojkota nastave ministar Fuchs apelira na roditelje - vratite djecu u školu, jamčimo normalno održavanje nastave. Prije 60 godina u Šibeniku je rođen košarkaški Mozart Dražen Petrović. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 22 Oct 2024 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/32/1c/20241022-dnevne-novosti-35758454-20241022133519.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
