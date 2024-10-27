@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 26 Oct 2024 06:25:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 07:00:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Turska, zbog terorističkog napada na tvornicu zrakoplova, raketirala položaje militantne skupine Radničke stranke Kurdistana u Iraku i Siriji. I dalje bojkot nastave u zagrebačkoj osnovnoj školi zbog problematičnog učenika. Novi pokušaj pronalaska rješenja večeras. Vlada donosi uredbu o visini minimalne plaće za iduću godinu, trebala bi biti oko 760 eura neto. SPORT: nakon 26 godina Dinamo slavio u gostujućoj utakmici Lige prvaka, pobijedio je Salzburg 2:0. Urednik: Silvio Šop</description>
     <pubDate>Thu, 24 Oct 2024 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5a/93/20241024-jutarnja-kronika-35763512-20241024054038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.10. 2024-10-23</title>
-    <link>https://api.hrt.hr/media/37/c1/20241023-jutarnja-kronika-35760020-20241023053521.mp3</link>
-    <description>U Saboru jučer cijeli dan rasprava o sudjelovanju hrvatskih vojnika u NATO-ovoj misiji potpore Ukrajini. Premijer Plenković potvrdio da će neki vojnici misije ići u Ukrajinu, ali ne i hrvatski. I dalje se nastavlja bojkot nastave u zagrebačkoj osnovnoj školi zbog problematičnog učenika. U Šibeniku sinoć održana svjetska premijera filma "Dražen". SPORT: U trećem kolu Lige prvaka Dinamo gostuje kod Salzburga. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 23 Oct 2024 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/37/c1/20241023-jutarnja-kronika-35760020-20241023053521.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
