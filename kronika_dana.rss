@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 26 Oct 2024 20:58:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 21:32:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Večerašnji sastanak u zagrebačkoj osnvnoj školi bez rezultata, djeca ni sutra ne idu na nastavu. Odgođeno glasovanje o misiji za pomoć Ukrajini, premijer Plenković najavio dolazak dužnosnika NATO-a na sjednicu Odbora za obranu. Vladimir Putin nije opovrgnuo da su vojnici Sjeverne Koreje u Rusiji. Urednica: Sanja Cota</description>
     <pubDate>Thu, 24 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/d1/20241024-kronika-dana-35766752-20241024210601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.10. 2024-10-23</title>
-    <link>https://api.hrt.hr/media/42/8b/20241023-kronika-dana-35762849-20241023204037.mp3</link>
-    <description>Turska pretpostavlja da su teroristički napad u Ankari izveli pripadnici Kurdske radničke partije. Bijela kuća procjenjuje da su u Rusiju stigle tri tisuće sjevernokorejskih vojnika. Zaposlenici zagrebačke škole u kojoj oko tisuću učenika, zbog jednog dječaka, ne dolazi na nastavu traže jasan odgovor inistitucija u roku od 24 sata. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 23 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/42/8b/20241023-kronika-dana-35762849-20241023204037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
