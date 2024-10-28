@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 27 Oct 2024 22:02:38 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 21:36:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sabor danas bez glasovanja o hrvatskim časnicima u NATO-ovoj misiji pomoći Ukrajini. Vladajući pozvali visokog dužnosnika NATO-a da dođe u Sabor, ali umjesto na Odboru za obranu bit će na Odboru za vanjsku politiku. Terorizam u susjednoj državi. Četrnaestogodišnjak u Bosanskoj Krupi ubio jednog policajca i još jednog ranio. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 25 Oct 2024 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/51/5e/20241025-kronika-dana-35770339-20241025204518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.10. 2024-10-24</title>
-    <link>https://api.hrt.hr/media/dc/d1/20241024-kronika-dana-35766752-20241024210601.mp3</link>
-    <description>Večerašnji sastanak u zagrebačkoj osnvnoj školi bez rezultata, djeca ni sutra ne idu na nastavu. Odgođeno glasovanje o misiji za pomoć Ukrajini, premijer Plenković najavio dolazak dužnosnika NATO-a na sjednicu Odbora za obranu. Vladimir Putin nije opovrgnuo da su vojnici Sjeverne Koreje u Rusiji. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 24 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/d1/20241024-kronika-dana-35766752-20241024210601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
