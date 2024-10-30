@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 29 Oct 2024 21:42:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 21:46:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.10. 2024-10-30</title>
+    <link>https://api.hrt.hr/media/65/4c/20241030-kronika-dana-35785420-20241030214038.mp3</link>
+    <description>Zamjenik glavnog tajnika NATO-a Boris Ruge u Saboru odgovarao na pitanja o misiji za pomoć Ukrajini, u kojoj je zasad pristalo sudjelovati 28 od 32 članice NATO-a. Katastrofalne poplave u Španjolskoj, najmanje 95 poginulih. Djeca se sutra vraćaju na nastavu u zagrebačku osnovnu školu, učenik s problemima u ponašanju bit će odsutan tri tjedna. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 30 Oct 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/65/4c/20241030-kronika-dana-35785420-20241030214038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.10. 2024-10-29</title>
     <link>https://api.hrt.hr/media/ce/af/20241029-kronika-dana-35781900-20241029213533.mp3</link>
     <description>Sutra u Sabor dolazi zamjenik glavnog tajnika NATO-a, informirat će zastupnike o misiji pomoći Ukrajini. Nakon što je Izrael zabranio rad Agenciji za pomoć palestinskim izbjeglicama, Ujedinjeni narodi upozoravaju - u Gazi će se humanitarni sustav srušiti. "Ukrajinsko istočno bojište u Donecku zapravo se urušilo", izjavio ukrajinski general Marčenko. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predsjednica Gruzije odbila priznati rezultate parlamentarnih izbora na kojima je pobijedila proruska stranka! Pozvala građane da izađu na ulice!Egipat predložio dvodnevno primirje u Gazi kako bi se razmijenili izraelski taoci za palestinske zatvorenike.Zbog toga što nije pronađeno rješenje za dječaka s problematičnim ponašanjem - učenici četvrtog razreda novozagrebačke škole ni sutra neće doći na nastavu. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 27 Oct 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b2/47/20241027-kronika-dana-35774968-20241027213545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.10. 2024-10-26</title>
-    <link>https://api.hrt.hr/media/25/01/20241026-kronika-dana-35772692-20241026204019.mp3</link>
-    <description>Nakon izraelskog raketiranja Irana - UN i SAD pozvali na zaustavljanje uzajmnih napada. U BIH osam uhićenih nakon terorističkog napada koji je izveo petnaestogodišnjak. U Zagrebu počela blokovska naplata parkiranja. Noćas počinje zimsko računanje vremena. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 26 Oct 2024 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/01/20241026-kronika-dana-35772692-20241026204019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
