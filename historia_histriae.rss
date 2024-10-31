@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Oct 2024 16:19:24 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 17:19:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Kristijan Žgaljardić 2024-10-31</title>
+    <link>https://api.hrt.hr/media/1d/94/20241031-historia-histriae-8120557-20241031170542.mp3</link>
+    <description>U goste nam dolazi povjesničar Kristijan Žgaljardić, a pričamo o prošlosti Pićana i Pićanštine. </description>
+    <pubDate>Thu, 31 Oct 2024 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/94/20241031-historia-histriae-8120557-20241031170542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Antonio Božić 2024-10-24</title>
     <link>https://api.hrt.hr/media/85/72/20241024-historia-histriae-8118185-20241024160559.mp3</link>
     <description>U goste nam dolazi kvizaš Antonio Božić. Postavlja Vam intrigantna pitanja koja se tiču povijesti Istre, a za one koji znaju odgovore imamo i nagrade! Budite se nama u 17.15 minuta </description>
@@ -79,14 +87,6 @@
     <description>Dio povijesti jednog grada čine i legende grada....s nama je zato gradska legenda Vladimir Bajić </description>
     <pubDate>Thu, 06 Jun 2024 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/75/75/20240606-historia-histriae-8074170-20240606152546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Anita Buhin 2024-05-09</title>
-    <link>https://api.hrt.hr/media/57/a2/20240509-historia-histriae-8064724-20240509152503.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 09 May 2024 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/a2/20240509-historia-histriae-8064724-20240509152503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
