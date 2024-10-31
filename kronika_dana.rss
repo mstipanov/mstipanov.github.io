@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 30 Oct 2024 21:46:46 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 21:50:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.10. 2024-10-31</title>
+    <link>https://api.hrt.hr/media/a9/05/20241031-kronika-dana-35789138-20241031213542.mp3</link>
+    <description>Dragan Primorac pozvao vojne časnike da odbiju poslušnost predsjedniku, što Milanović smatra prijetnjom državnim udarom.Gotovo 160 mrtvih u katastrofalnim poplavama u Španjolskoj . Dijelovima zemlje prijeti novo grmljavinsko nevrijeme.Mnogi suigrači i prijatelji u Splitu se oprostili od legendarnog vratara Hajduka, Tončija Gabrića. Urednica Mira Barić</description>
+    <pubDate>Thu, 31 Oct 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/05/20241031-kronika-dana-35789138-20241031213542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.10. 2024-10-30</title>
     <link>https://api.hrt.hr/media/65/4c/20241030-kronika-dana-35785420-20241030214038.mp3</link>
     <description>Zamjenik glavnog tajnika NATO-a Boris Ruge u Saboru odgovarao na pitanja o misiji za pomoć Ukrajini, u kojoj je zasad pristalo sudjelovati 28 od 32 članice NATO-a. Katastrofalne poplave u Španjolskoj, najmanje 95 poginulih. Djeca se sutra vraćaju na nastavu u zagrebačku osnovnu školu, učenik s problemima u ponašanju bit će odsutan tri tjedna. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska od Njemčke kupuje najmodernije tenkove Leopard, Ukrajini šaljemo svoje stare i oklopna vozila.Tisuće Gruzijaca prosvjeduju ispred parlamenta nakon što je vladajuća stranka pobijedila na izborima koje oporba smatra ukradenima. Oko četiri tisuće radioloških tehničara, laboranata, djelatnika saniteta najavljuje štrajk. Propao i drugi pokušaj mirenja u Ministarstvu.Mira Barić</description>
     <pubDate>Mon, 28 Oct 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/e4/20241028-kronika-dana-35778490-20241028214030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.10. 2024-10-27</title>
-    <link>https://api.hrt.hr/media/b2/47/20241027-kronika-dana-35774968-20241027213545.mp3</link>
-    <description>Predsjednica Gruzije odbila priznati rezultate parlamentarnih izbora na kojima je pobijedila proruska stranka! Pozvala građane da izađu na ulice!Egipat predložio dvodnevno primirje u Gazi kako bi se razmijenili izraelski taoci za palestinske zatvorenike.Zbog toga što nije pronađeno rješenje za dječaka s problematičnim ponašanjem - učenici četvrtog razreda novozagrebačke škole ni sutra neće doći na nastavu. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 27 Oct 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/47/20241027-kronika-dana-35774968-20241027213545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
