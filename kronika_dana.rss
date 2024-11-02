@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Nov 2024 21:56:37 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 22:03:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.11. 2024-11-02</title>
+    <link>https://api.hrt.hr/media/c7/2e/20241102-kronika-dana-35793960-20241102215054.mp3</link>
+    <description>Počela istraga o padu nadstrešnice na kolodvoru u Novom Sadu, u kojoj je poginulo 14 osoba. U Španjolskoj 10 tisuća vojnika i policajaca još traži nestale nakon poplave. Za tri dana Amerikanci izlaze na predsjedničke izbore. U Hrvatskoj, iako predsjednički izbori još nisu raspisani, zahuktava se neslužbena kampanja. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 02 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/2e/20241102-kronika-dana-35793960-20241102215054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.11. 2024-11-01</title>
     <link>https://api.hrt.hr/media/a2/48/20241101-kronika-dana-35791740-20241101213046.mp3</link>
     <description>14 poginulih i 30 ozlijeđenih nakon što se srušila betonska nadstrešnica na kolodvoru u Novom Sadu. Sve žrtve još nisu identificirane.205 poginulih u poplavama u Španjolskoj, ne zna se koliko je nestalih. Blagdan je Svih svetih . Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zamjenik glavnog tajnika NATO-a Boris Ruge u Saboru odgovarao na pitanja o misiji za pomoć Ukrajini, u kojoj je zasad pristalo sudjelovati 28 od 32 članice NATO-a. Katastrofalne poplave u Španjolskoj, najmanje 95 poginulih. Djeca se sutra vraćaju na nastavu u zagrebačku osnovnu školu, učenik s problemima u ponašanju bit će odsutan tri tjedna. Urednica: Sanja Cota</description>
     <pubDate>Wed, 30 Oct 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/65/4c/20241030-kronika-dana-35785420-20241030214038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.10. 2024-10-29</title>
-    <link>https://api.hrt.hr/media/ce/af/20241029-kronika-dana-35781900-20241029213533.mp3</link>
-    <description>Sutra u Sabor dolazi zamjenik glavnog tajnika NATO-a, informirat će zastupnike o misiji pomoći Ukrajini. Nakon što je Izrael zabranio rad Agenciji za pomoć palestinskim izbjeglicama, Ujedinjeni narodi upozoravaju - u Gazi će se humanitarni sustav srušiti. "Ukrajinsko istočno bojište u Donecku zapravo se urušilo", izjavio ukrajinski general Marčenko. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 29 Oct 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ce/af/20241029-kronika-dana-35781900-20241029213533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
