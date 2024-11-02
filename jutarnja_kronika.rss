@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Nov 2024 07:22:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 06:59:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.11. 2024-11-02</title>
+    <link>https://api.hrt.hr/media/3a/8d/20241102-jutarnja-kronika-35792294-20241102063102.mp3</link>
+    <description>14 poginulih i troje teško ozlijeđenih nakon urušavanja nadstrešnice na kolodvoru u Novom Sadu. Više od 200 poginulih u poplavama u Španjolskoj. Dušni je dan. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 02 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3a/8d/20241102-jutarnja-kronika-35792294-20241102063102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.11. 2024-11-01</title>
     <link>https://api.hrt.hr/media/75/4d/20241101-jutarnja-kronika-35789760-20241101071548.mp3</link>
     <description>Broj poginulih u poplavama u Španjolskoj popeo se na gotovo160, a još traje potraga za nestalima. Nevremenu još nije kraj. Predsjednički kandidat Dragan Primorac pozvao vojne časnike da odbiju poslušnost predsjedniku, što Milanović smatra prijetnjom državnim udarom. Blagdan je Svih svetih i neradni dan. Na snasi je obveza vožnje s upaljenim svjetlima. Kazna je 30 eura. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Zamjenik glavnog tajnika NATO-a Boris Ruge na sjednici saborskog Odbora za vanjsku politiku izvijestit će zastupnike o misiji pomoći Ukrajini. Nakon što je Izrael zabranio rad Agenciji za pomoć palestinskim izbjeglicama, UN upozorava da Gazi prijeti potpuni kolaps humanitarnog sustava.Ne nazire se rješenje u zagrebačkoj osnovnoj školi, roditelji odlučili da djeca ni danas ne idu na nastavu. Urednica: Mira Barić</description>
     <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a5/4a/20241030-jutarnja-kronika-35782453-20241030063537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.10. 2024-10-29</title>
-    <link>https://api.hrt.hr/media/57/b4/20241029-jutarnja-kronika-35779046-20241029063531.mp3</link>
-    <description>Hrvatska će od Njemačke kupiti najmodernije tenkove Leopard, svoje stare i oklopna vozila šaljemo Ukrajini. Sprema li nam se najveći štrajk u zdravstvu? Najavljuje ga oko četiri tisuće radioloških tehničara, laboranata i djelatnika saniteta. Izrael izglasovao zakon kojim se zabranjuje djelovanje UN-ove agencije za pomoć palestinskim izbjeglicama. Tisuće Gruzijaca prosvjedovale ispred parlamenta nakon pobjede vladajuće stranke na izborima koje oporba smatra ukradenima. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/b4/20241029-jutarnja-kronika-35779046-20241029063531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
