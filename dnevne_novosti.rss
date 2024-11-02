@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 01 Nov 2024 14:53:19 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 15:00:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.11. 2024-11-02</title>
+    <link>https://api.hrt.hr/media/72/bc/20241102-dnevne-novosti-35793289-20241102143547.mp3</link>
+    <description>Srbijanska javnost traži odgovore kako se mogla urušiti nadstrešnica na kolodvoru u Novom Sadu i ubiti 14 ljudi. U Španjolskoj sve manje nade da ima preživjelih nakon bujičnih poplava, no potraga traje. Na Dušni dan 1991. padom Lušca počeo slom obrane Vukovara. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 02 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/72/bc/20241102-dnevne-novosti-35793289-20241102143547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.11. 2024-11-01</title>
     <link>https://api.hrt.hr/media/1f/f5/20241101-dnevne-novosti-35790903-20241101143045.mp3</link>
     <description>Dramatično raste broj poginulih u poplavama u Španjolskoj, dosad više od dvije stotine. Pogođenim regijama prijete nova grmljavinska nevremena. Blagdan je Svih svetih, građani diljem zemlje posjećuju posljednja počivališta najmilijih. Policija traga za nepoznatim napadačem koji je u Vinkovcima pucao na 54-godišnjeg Maria Meštrovića, bivšeg nogometaša i sadašnjeg pročelnika za sport u Vukovarsko-srijemskoj županiji. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Na sjednicu saborskog Odbora za vanjsku politiku dolazi zamjenik glavnog tajnika NATO-a Boris Ruge, izvijestit će zastupnike o misiji pomoći Ukrajini. Predsjednik Zoran Milanović o planiranoj nabavi tenkova - za 25 milijuna eura po komadu trebali bi letjeti! Katastrofalne poplave u Španjolskoj, poginulo je više od 60 osoba. Krk postao prvi u Hrvatskoj i drugi u svijetu "Zero Waste" otok. Urednik: Silvio Šop</description>
     <pubDate>Wed, 30 Oct 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/24/b6/20241030-dnevne-novosti-35784432-20241030144542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.10. 2024-10-29</title>
-    <link>https://api.hrt.hr/media/57/c0/20241029-dnevne-novosti-35781026-20241029144032.mp3</link>
-    <description>Mnoge zemlje osuđuju Izrael nakon što je tamošnji parlament zabranio djelovanje UN-ove palestinske Agencije za izbjeglice. Tjedan dana uoči predsjedničkih izbora u SAD-u Kamala Harris i Donald Trump potpuno izjednačeni. Zamjenica zagrebačkog gradonačelnika Danijela Dolenec najavila da bi novo rješenje Gradskog ureda moglo predložiti drukčiji oblik školovanja za dječaka problematičnog ponašanja.Urednica: Mira Barić</description>
-    <pubDate>Tue, 29 Oct 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/c0/20241029-dnevne-novosti-35781026-20241029144032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
