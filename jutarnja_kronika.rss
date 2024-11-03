@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Nov 2024 06:59:24 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 06:34:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Zamjenik glavnog tajnika NATO-a Boris Ruge na saborskom Odboru za vanjsku politiku odgovarao na pitanja zastupnika o misiji za pomoć Ukrajini. Oporba uglavnom nije promijenila stajalište te neće glasovati za odlazak u misiju dvojice hrvatskih časnika. Katastrofalne poplave u Španjolskoj odnijele su najmanje 95 života. Najteže pogođena regija Valencija. Djeca se vraćaju na nastavu u zagrebačku osnovnu školu, učenik s problemima u ponašanju bit će odsutan tri tjedna. U kinima od danas film "Dražen", biografska drama o jednom od najboljih košarkaša svih vremena, Draženu Petroviću. Urednik: Silvio Šop</description>
     <pubDate>Thu, 31 Oct 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ec/d5/20241031-jutarnja-kronika-35785956-20241031063541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.10. 2024-10-30</title>
-    <link>https://api.hrt.hr/media/a5/4a/20241030-jutarnja-kronika-35782453-20241030063537.mp3</link>
-    <description>Zamjenik glavnog tajnika NATO-a Boris Ruge na sjednici saborskog Odbora za vanjsku politiku izvijestit će zastupnike o misiji pomoći Ukrajini. Nakon što je Izrael zabranio rad Agenciji za pomoć palestinskim izbjeglicama, UN upozorava da Gazi prijeti potpuni kolaps humanitarnog sustava.Ne nazire se rješenje u zagrebačkoj osnovnoj školi, roditelji odlučili da djeca ni danas ne idu na nastavu. Urednica: Mira Barić</description>
-    <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a5/4a/20241030-jutarnja-kronika-35782453-20241030063537.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
