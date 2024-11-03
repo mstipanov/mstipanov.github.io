@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Nov 2024 06:34:27 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 07:04:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.11. 2024-11-03</title>
+    <link>https://api.hrt.hr/media/e3/83/20241103-jutarnja-kronika-35794509-20241103063511.mp3</link>
+    <description>U Španjolskoj spašena žena koja je tri dana bila zarobljena u automobilu. Počela istraga tragedije na kolodvoru u Novom Sadu. Dva su dana do američkih izbora. Od utorka jeftinije gorivo. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 03 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e3/83/20241103-jutarnja-kronika-35794509-20241103063511.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.11. 2024-11-02</title>
     <link>https://api.hrt.hr/media/3a/8d/20241102-jutarnja-kronika-35792294-20241102063102.mp3</link>
     <description>14 poginulih i troje teško ozlijeđenih nakon urušavanja nadstrešnice na kolodvoru u Novom Sadu. Više od 200 poginulih u poplavama u Španjolskoj. Dušni je dan. Urednik: Mario Krstanović</description>
