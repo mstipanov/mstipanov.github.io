@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Nov 2024 15:05:47 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 15:09:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.11. 2024-11-04</title>
+    <link>https://api.hrt.hr/media/e2/22/20241104-dnevne-novosti-35798514-20241104143527.mp3</link>
+    <description>Posljednji dan kampanje uoči sutrašnjih američkih predsjedničkih izbora. Ankete i dalje pokazuju neizvjesnu utrku. Nakon Valencije poplave prijete Kataloniji, za Barcelonu izdano crveno upozorenje. Liječnici u riječkom KBC-u izveli iznimno zahtjevnu autotransplantaciju bubrega. Urednica: Mira Barić</description>
+    <pubDate>Mon, 04 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e2/22/20241104-dnevne-novosti-35798514-20241104143527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.11. 2024-11-03</title>
     <link>https://api.hrt.hr/media/5a/d9/20241103-dnevne-novosti-35795357-20241103143512.mp3</link>
     <description>Španjolskoga kralja ogorčeni stanovnici Valencije gađali blatom i kamenjem. Još traje potraga za nestalima u bujicama. U Srbiji prosvjedi, građani smatraju da se zataškavaju uzroci nesreće u Novom Sadu. Na Murteru traje referendum o opozivu načelnika općine. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Dramatično raste broj poginulih u poplavama u Španjolskoj, dosad više od dvije stotine. Pogođenim regijama prijete nova grmljavinska nevremena. Blagdan je Svih svetih, građani diljem zemlje posjećuju posljednja počivališta najmilijih. Policija traga za nepoznatim napadačem koji je u Vinkovcima pucao na 54-godišnjeg Maria Meštrovića, bivšeg nogometaša i sadašnjeg pročelnika za sport u Vukovarsko-srijemskoj županiji. Urednica: Mira Barić</description>
     <pubDate>Fri, 01 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/f5/20241101-dnevne-novosti-35790903-20241101143045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 31.10. 2024-10-31</title>
-    <link>https://api.hrt.hr/media/64/f9/20241031-dnevne-novosti-35788093-20241031144041.mp3</link>
-    <description>Više od stotinu poginulih i deseci nestalih u Španjolskoj, stradali u bujičnim poplavama pronalaze se u kućama i automobilima. Predsjednik Milanović održao sastanak u Glavnom stožeru. Političari komentirali crveni tepih, ali i jučerašnji dolazak NATO-ova dužnosnika u Sabor. Vlada prihvatila izmjene šest poreznih zakona, uz ostalo uvodi porez na nekretnine. Umro Ševko Omerbašić, dugogodišnji predsjednik Mešihata islamske zajednice u Hrvatskoj. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 31 Oct 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/64/f9/20241031-dnevne-novosti-35788093-20241031144041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
