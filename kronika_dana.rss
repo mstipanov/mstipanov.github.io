@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Nov 2024 22:10:47 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 22:18:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.11. 2024-11-05</title>
+    <link>https://api.hrt.hr/media/de/af/20241105-kronika-dana-35803377-20241105214037.mp3</link>
+    <description>Amerikanci na predsjedničkim izborima biraju - Kamala Harris ili Donald Trump.Veliki prosvjed u Novom Sadu prerastao u nerede, prosvjednici htjeli ući u gradsku vijećnicu, policija bacila suzavac. Izraelski premijer Netanyahu smijenio ministra obrane Gallanta zbog nepovjerenja.
+Aktualnim prijepodnevom počela nova sjednica Sabora. Od 39 pitanja Vladi, premijeru Plenkoviću postavljeno samo osam.Urednica: Mira Barić</description>
+    <pubDate>Tue, 05 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/af/20241105-kronika-dana-35803377-20241105214037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.11. 2024-11-04</title>
     <link>https://api.hrt.hr/media/2d/8b/20241104-kronika-dana-35799650-20241104214027.mp3</link>
     <description>Amerikanci sutra izlaze na birališta, Kamala Harris i Donald Trump kampanju završavaju u saveznim državama koje bi mogle biti ključne za izbornu pobjedu. Zbog tragedije u Novom Sadu srbijanski ministar graditeljstva sutra daje ostavku.Od ponoći benzin jeftiniji dva, a dizel jedan cent. Umro je veliki Quincy Jones, jedan od najcjenjenijih glazbenih producenata i glazbenika.
@@ -32,14 +41,6 @@ Urednik: Silvio Šop</description>
     <description>Počela istraga o padu nadstrešnice na kolodvoru u Novom Sadu, u kojoj je poginulo 14 osoba. U Španjolskoj 10 tisuća vojnika i policajaca još traži nestale nakon poplave. Za tri dana Amerikanci izlaze na predsjedničke izbore. U Hrvatskoj, iako predsjednički izbori još nisu raspisani, zahuktava se neslužbena kampanja. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 02 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c7/2e/20241102-kronika-dana-35793960-20241102215054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.11. 2024-11-01</title>
-    <link>https://api.hrt.hr/media/a2/48/20241101-kronika-dana-35791740-20241101213046.mp3</link>
-    <description>14 poginulih i 30 ozlijeđenih nakon što se srušila betonska nadstrešnica na kolodvoru u Novom Sadu. Sve žrtve još nisu identificirane.205 poginulih u poplavama u Španjolskoj, ne zna se koliko je nestalih. Blagdan je Svih svetih . Urednica: Sanja Cota</description>
-    <pubDate>Fri, 01 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/48/20241101-kronika-dana-35791740-20241101213046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
