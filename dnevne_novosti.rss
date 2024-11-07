@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 06 Nov 2024 14:51:38 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 14:59:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.11. 2024-11-07</title>
+    <link>https://api.hrt.hr/media/4b/42/20241107-dnevne-novosti-35809945-20241107140545.mp3</link>
+    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
+    <pubDate>Thu, 07 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/42/20241107-dnevne-novosti-35809945-20241107140545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.11. 2024-11-06</title>
     <link>https://api.hrt.hr/media/bb/6e/20241106-dnevne-novosti-35806140-20241106144042.mp3</link>
     <description>Donald Trump novi predsjednik SAD-a, uvjerljivo pobjedio Kamalu Harris. Čestitke i reakcije svjetskih čelnika na Trumpov povratak u Bijelu kuću. Ministar financija Marko Primorac najavio još jedan krug upisa trezorskih zapisa od petka. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Posljednji dan kampanje uoči sutrašnjih američkih predsjedničkih izbora. Ankete i dalje pokazuju neizvjesnu utrku. Nakon Valencije poplave prijete Kataloniji, za Barcelonu izdano crveno upozorenje. Liječnici u riječkom KBC-u izveli iznimno zahtjevnu autotransplantaciju bubrega. Urednica: Mira Barić</description>
     <pubDate>Mon, 04 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e2/22/20241104-dnevne-novosti-35798514-20241104143527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.11. 2024-11-03</title>
-    <link>https://api.hrt.hr/media/5a/d9/20241103-dnevne-novosti-35795357-20241103143512.mp3</link>
-    <description>Španjolskoga kralja ogorčeni stanovnici Valencije gađali blatom i kamenjem. Još traje potraga za nestalima u bujicama. U Srbiji prosvjedi, građani smatraju da se zataškavaju uzroci nesreće u Novom Sadu. Na Murteru traje referendum o opozivu načelnika općine. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 03 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5a/d9/20241103-dnevne-novosti-35795357-20241103143512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
