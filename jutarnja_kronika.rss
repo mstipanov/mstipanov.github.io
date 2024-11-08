@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 06:57:07 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 07:02:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.11. 2024-11-08</title>
+    <link>https://api.hrt.hr/media/1c/de/20241108-jutarnja-kronika-35811738-20241108063503.mp3</link>
+    <description>Prvi put nakon izbora Joe Biden obratio se javnosti, Amerikanci zaslužuju miran prijenos vlasti - poručio je, a čestitao je i Trumpu na pobjedi. Europski čelnici na neformalnom će sastanku Europskog vijeća razgovarati o budućnosti Europe, osobito nakon povratka Donalda Trumpa u Bijelu kuću. Na dnevnom je redu i ekonomska konkurentnost Unije. Novo izdanje trezorskih zapisa, vrijedno milijardu i dvjesto milijuna eura. Građani će moći upisati do 15-og ovog mjeseca. U osječkom HNK-u večeras premijera predstave "Sokol ga nije volio" velikog Fabijana Šovagovića. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 08 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/de/20241108-jutarnja-kronika-35811738-20241108063503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.11. 2024-11-07</title>
     <link>https://api.hrt.hr/media/31/36/20241107-jutarnja-kronika-35807847-20241107063545.mp3</link>
     <description>Kamala Harris priznala poraz i čestitala Donaldu Trumpu na pobjedi i povratku u Bijelu kuću. Pala njemačka vlada, novi izbori vjerojatno početkom sljedeće godine. Sabor o hrvatskom iskorištavanju europskih fondova. Vjerovnici Name u stečaju odlučuju o prodaji robnih kuća u Ilici i na Kvaternikovu trgu. : Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Amerikanci izlaze na birališta. Kamala Harris i Donald Trump u jednoj od najneizvjesnijih predsjedničkih utrka. Srbijanski ministar graditeljstva nakon tragedije zbog pada nadstrešnice daje ostavku. Hrvatski sabor aktualnim prijepodnevom počinje novu sjednicu, posljednju u ovoj godini. U Ligi prvaka Dinamo u Bratislavi protiv Slovana. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/20/20241105-jutarnja-kronika-35800198-20241105063536.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.11. 2024-11-04</title>
-    <link>https://api.hrt.hr/media/7c/6d/20241104-jutarnja-kronika-35796655-20241104063026.mp3</link>
-    <description>Tjedan odluke za Sjedinjene Države, predsjednička utrka neizvjesna do samog kraja. Španjolci bijesni na vlast nakon tragedije koja je pogodila zemlju. Španjolski kralj i premijer prekinuli posjet poplavljenim područjima. U Srbiji prosvjednici traže kažnjavanje odgovornih za tragediju u Novom Sadu. Najmanje 9 poginulih u erupciji vulkana u Indoneziji. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7c/6d/20241104-jutarnja-kronika-35796655-20241104063026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
