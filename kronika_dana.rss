@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 22:00:57 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 22:05:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.11. 2024-11-08</title>
+    <link>https://api.hrt.hr/media/31/f0/20241108-kronika-dana-35815024-20241108214012.mp3</link>
+    <description>Za ponedjeljak najavljen štrajk u zdravstvenom sustavu, u bolnicama će se obavljati samo hitne intervencije.Američko ministarstvo pravosuđa optužilo Iran da je planirao atentat na Trumpa prije izbora. Počeo peti krug upisa trezorskih zapisa. Urednica: Mira Barić</description>
+    <pubDate>Fri, 08 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/31/f0/20241108-kronika-dana-35815024-20241108214012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.11. 2024-11-07</title>
     <link>https://api.hrt.hr/media/f2/26/20241107-kronika-dana-35811178-20241107215055.mp3</link>
     <description>Joe Biden obratio se javnosti i čestitao Donaldu Trumpu na pobjedi. Njemačka pred prijevremenim izborima. Oštre reakcije saborske oporbe jer je Hrvatski generalski zbor kao svojeg člana primio i predsjedničkog kandidata HDZ-a Dragana Primorca. Urednik: Grgo Mrvica</description>
@@ -32,15 +40,6 @@
 Aktualnim prijepodnevom počela nova sjednica Sabora. Od 39 pitanja Vladi, premijeru Plenkoviću postavljeno samo osam.Urednica: Mira Barić</description>
     <pubDate>Tue, 05 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/af/20241105-kronika-dana-35803377-20241105214037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.11. 2024-11-04</title>
-    <link>https://api.hrt.hr/media/2d/8b/20241104-kronika-dana-35799650-20241104214027.mp3</link>
-    <description>Amerikanci sutra izlaze na birališta, Kamala Harris i Donald Trump kampanju završavaju u saveznim državama koje bi mogle biti ključne za izbornu pobjedu. Zbog tragedije u Novom Sadu srbijanski ministar graditeljstva sutra daje ostavku.Od ponoći benzin jeftiniji dva, a dizel jedan cent. Umro je veliki Quincy Jones, jedan od najcjenjenijih glazbenih producenata i glazbenika.
-Urednik: Silvio Šop</description>
-    <pubDate>Mon, 04 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2d/8b/20241104-kronika-dana-35799650-20241104214027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
