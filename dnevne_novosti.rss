@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 08 Nov 2024 15:04:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 15:08:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.11. 2024-11-09</title>
+    <link>https://api.hrt.hr/media/20/46/20241109-dnevne-novosti-35816527-20241109143551.mp3</link>
+    <description>Povećanjem kreditnog rejtinga za Hrvatsku agencije Moody's na A3, naša zemlja ušla je u elitni klub 40 država koje imaju A rejting prema sve tri agencije. U Splitu sinoć čak četiri napada na strane državljane - dostavljače hrane, uhićene četiri osobe. Američko ministarstvo pravosuđa podignulo kaznenu prijavu protiv Irana zbog urote za ubojstvo Donalda Trumpa. Iran sve opovrgava. Zagrebački Teatar Exit večeras premijerno prikazuje predstavu "Sjajne stvari". Urednik: Silvio Šop</description>
+    <pubDate>Sat, 09 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/20/46/20241109-dnevne-novosti-35816527-20241109143551.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.11. 2024-11-08</title>
     <link>https://api.hrt.hr/media/fb/12/20241108-dnevne-novosti-35814014-20241108145010.mp3</link>
     <description>Sindikat Zajedno u ponedjeljak ide u štrajk, redovita medicinska dijagnostika i redovite kontrole neće se obavljati. Nakon što su Trump i Putin poručili da su spremni razgovarati, iz Kremlja poruka da Rusija nije spremna mijenjati svoje ciljeve u Ukrajini. Sinoć u Amsterdamu napadnuti navijači izraelskog kluba. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump novi predsjednik SAD-a, uvjerljivo pobjedio Kamalu Harris. Čestitke i reakcije svjetskih čelnika na Trumpov povratak u Bijelu kuću. Ministar financija Marko Primorac najavio još jedan krug upisa trezorskih zapisa od petka. Urednica: Mira Barić</description>
     <pubDate>Wed, 06 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bb/6e/20241106-dnevne-novosti-35806140-20241106144042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.11. 2024-11-05</title>
-    <link>https://api.hrt.hr/media/0c/cb/20241105-dnevne-novosti-35802267-20241105144037.mp3</link>
-    <description>Amerikanci glasuju na 60. predsjedničkim izborima, Kamala Harris ili Donald Trump - odlučit će sedam ključnih tzv. prevrtljivih saveznih država. I dalje traje potraga za nestalima u velikim poplavama u Španjolskoj, do sada je potvrđeno 217 žrtava. Aktualnim prijepodnevom počela je nova saborska sjednica, premijeru i ministrima pitanja postavlja 39 zastupnika. Sport: Dinamo večeras u četvrtom kolu Lige prvaka gostuje u Bratislavi kod Slovana, prijenos je na našemu Drugom programu. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 05 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0c/cb/20241105-dnevne-novosti-35802267-20241105144037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
