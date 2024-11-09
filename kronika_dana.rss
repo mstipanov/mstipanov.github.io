@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 08 Nov 2024 22:05:28 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 22:09:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.11. 2024-11-09</title>
+    <link>https://api.hrt.hr/media/69/fa/20241109-kronika-dana-35817203-20241109214538.mp3</link>
+    <description>Agencija Moody's podignula hrvatski kreditini rejting za dvije razine! Prema izvješću svih triju agencija sada smo u najvećoj, "A" kategoriji!tim ogradio se od izjave njegova savjetnika da za Ukrajince Krima više nema. Teška prometna nesreća na jugu zemlje, dvoje ljudi poginulo, ima i ozlijeđenih. Vrijeme sutra: u unutrašnjosti oblačno, najviša temperatura 10 stupnjeva, na Jadranu sunčano, temperatura u Dalmaciji i Istri i do 21 stupanj. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 09 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/69/fa/20241109-kronika-dana-35817203-20241109214538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.11. 2024-11-08</title>
     <link>https://api.hrt.hr/media/31/f0/20241108-kronika-dana-35815024-20241108214012.mp3</link>
     <description>Za ponedjeljak najavljen štrajk u zdravstvenom sustavu, u bolnicama će se obavljati samo hitne intervencije.Američko ministarstvo pravosuđa optužilo Iran da je planirao atentat na Trumpa prije izbora. Počeo peti krug upisa trezorskih zapisa. Urednica: Mira Barić</description>
@@ -31,15 +39,6 @@
     <description>Donald Trump novi je predsjednik SAD-a, na uvjerljivoj pobjedi čestitala mu i Kamala Haris. Demokrati gnjevni, pitaju se zašto se Biden povukao prekasno. Nakon smrti dječaka u Centru za rehabilitaciju u Rijeci udruge traže promjene u sustavu socijalne skrbi. Urednica: Sanja Cota</description>
     <pubDate>Wed, 06 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b4/55/20241106-kronika-dana-35807211-20241106214043.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.11. 2024-11-05</title>
-    <link>https://api.hrt.hr/media/de/af/20241105-kronika-dana-35803377-20241105214037.mp3</link>
-    <description>Amerikanci na predsjedničkim izborima biraju - Kamala Harris ili Donald Trump.Veliki prosvjed u Novom Sadu prerastao u nerede, prosvjednici htjeli ući u gradsku vijećnicu, policija bacila suzavac. Izraelski premijer Netanyahu smijenio ministra obrane Gallanta zbog nepovjerenja.
-Aktualnim prijepodnevom počela nova sjednica Sabora. Od 39 pitanja Vladi, premijeru Plenkoviću postavljeno samo osam.Urednica: Mira Barić</description>
-    <pubDate>Tue, 05 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/af/20241105-kronika-dana-35803377-20241105214037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
