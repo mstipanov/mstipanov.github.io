@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Nov 2024 07:06:56 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 07:10:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.11. 2024-11-10</title>
+    <link>https://api.hrt.hr/media/68/af/20241110-jutarnja-kronika-35817739-20241110063505.mp3</link>
+    <description>Hrvatska je sada, prema svim trima svjetskim agencijama koje to prate, u najvišoj, A kategoriji kreditnog rejtinga. S prosvjeda u Rijeci umirovljenici poručili da prosječna mirovina mora biti 60 posto prosječne plaće. Katar prestaje posredovati u pregovorima Hamasa i Izraela. Večeras u zagrebačkom Histrionskom domu počinju 13. Bobijevi dani smijeha. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 10 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/68/af/20241110-jutarnja-kronika-35817739-20241110063505.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.11. 2024-11-09</title>
     <link>https://api.hrt.hr/media/e1/8d/20241109-jutarnja-kronika-35815561-20241109063546.mp3</link>
     <description>Agencija Mudis povećala kreditni rejting Hrvatske za dva stupnja odjednom na A3. Oko 4 tisuće zdravstvenih djelatnika od ponedjeljka ide u štrajk. Neće biti krvnih pretraga, prekida se sanitetski prijevoz, pa i zračenje onkoloških pacijenata. Obavljat će se samo hitne intervencije. Trump u telefonskom razgovoru sa Zelenskim poručio da će podupirati Ukrajinu. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Kamala Harris priznala poraz i čestitala Donaldu Trumpu na pobjedi i povratku u Bijelu kuću. Pala njemačka vlada, novi izbori vjerojatno početkom sljedeće godine. Sabor o hrvatskom iskorištavanju europskih fondova. Vjerovnici Name u stečaju odlučuju o prodaji robnih kuća u Ilici i na Kvaternikovu trgu. : Mario Krstanović</description>
     <pubDate>Thu, 07 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/36/20241107-jutarnja-kronika-35807847-20241107063545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.11. 2024-11-06</title>
-    <link>https://api.hrt.hr/media/95/92/20241106-jutarnja-kronika-35804008-20241106063542.mp3</link>
-    <description>Zatvorena sva birališta na američkim izborima. Tko će iduće četiri godine voditi Sjedinjene Države - Kamala Harris ili Donald Trump? Sinoć veliki prosvjed u Novom Sadu prerastao u nerede, prosvjednici htjeli ući u gradsku vijećnicu, policija bacila suzavac. U promet se pušta nova dionica pruge do mađarske granice. SPORT: Uvjerljiva pobjeda Dinama u Ligi prvaka - protiv Slovana iz Bratislave slavio rezultatom 4:1. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/92/20241106-jutarnja-kronika-35804008-20241106063542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
