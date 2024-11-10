@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Nov 2024 15:08:11 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 15:12:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.11. 2024-11-10</title>
+    <link>https://api.hrt.hr/media/b5/87/20241110-dnevne-novosti-35818578-20241110144006.mp3</link>
+    <description>Više od 4 tisuće zdravstvenih djelatnika sutra u štrajku, prema najavama sindikata obrađivat će se samo hitni i životno ugroženi pacijenti. Uoči početka provedbe preventivnih zdravstvenih pregleda KoHOM upozorava da za nju nisu stvoreni preduvjeti. Najveći ukrajinski napad na Moskvu dosad, Ukrajina lansirala više od 30 bespilotnih letjelica. Urednica: Mira Barić</description>
+    <pubDate>Sun, 10 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b5/87/20241110-dnevne-novosti-35818578-20241110144006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.11. 2024-11-09</title>
     <link>https://api.hrt.hr/media/20/46/20241109-dnevne-novosti-35816527-20241109143551.mp3</link>
     <description>Povećanjem kreditnog rejtinga za Hrvatsku agencije Moody's na A3, naša zemlja ušla je u elitni klub 40 država koje imaju A rejting prema sve tri agencije. U Splitu sinoć čak četiri napada na strane državljane - dostavljače hrane, uhićene četiri osobe. Američko ministarstvo pravosuđa podignulo kaznenu prijavu protiv Irana zbog urote za ubojstvo Donalda Trumpa. Iran sve opovrgava. Zagrebački Teatar Exit večeras premijerno prikazuje predstavu "Sjajne stvari". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dok Donald Trump počinje birati svoje suradnike, u Budimpešti predsjednici država i vlada iz gotovo cijele Europe raspravljaju o tome što će Trumpov povratak u Bijelu kuću značiti za svijet. Njemačka pred prijevremenim izborima nakon što je kancelar Scholz smijenio ministra financija i vođu liberala Lindnera. U devet mjeseci ove godine carinska uprava oduzela više od pet i pol milijuna komada cigareta i 22 tone duhana. Urednica: Mira Barić</description>
     <pubDate>Thu, 07 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/8c/20241107-dnevne-novosti-35810103-20241107145545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.11. 2024-11-06</title>
-    <link>https://api.hrt.hr/media/bb/6e/20241106-dnevne-novosti-35806140-20241106144042.mp3</link>
-    <description>Donald Trump novi predsjednik SAD-a, uvjerljivo pobjedio Kamalu Harris. Čestitke i reakcije svjetskih čelnika na Trumpov povratak u Bijelu kuću. Ministar financija Marko Primorac najavio još jedan krug upisa trezorskih zapisa od petka. Urednica: Mira Barić</description>
-    <pubDate>Wed, 06 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bb/6e/20241106-dnevne-novosti-35806140-20241106144042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
