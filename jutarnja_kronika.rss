@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 06:44:37 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 07:14:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.11. 2024-11-11</title>
+    <link>https://api.hrt.hr/media/df/12/20241111-jutarnja-kronika-35819915-20241111064535.mp3</link>
+    <description>Počinje štrajk oko 4 tisuće djelatnika u zdravstvu. Istodobno s početkom štrajka dijela zdravstvenih radnika Ministarstvo zdravstva najavilo početak preventivnih sistematskih pregleda za starije od 40 godina. Obiteljski liječnici uzvraćaju da su preopterećeni poslom. Novoizabrani američki predsjednik Trump telefonom savjetovao ruskom predsjedniku Putinu da ne eskalira rat u Ukrajini. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/12/20241111-jutarnja-kronika-35819915-20241111064535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.11. 2024-11-10</title>
     <link>https://api.hrt.hr/media/68/af/20241110-jutarnja-kronika-35817739-20241110063505.mp3</link>
     <description>Hrvatska je sada, prema svim trima svjetskim agencijama koje to prate, u najvišoj, A kategoriji kreditnog rejtinga. S prosvjeda u Rijeci umirovljenici poručili da prosječna mirovina mora biti 60 posto prosječne plaće. Katar prestaje posredovati u pregovorima Hamasa i Izraela. Večeras u zagrebačkom Histrionskom domu počinju 13. Bobijevi dani smijeha. Urednik: Silvio Šop</description>
