@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 10 Nov 2024 15:12:01 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 14:47:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sindikat Zajedno u ponedjeljak ide u štrajk, redovita medicinska dijagnostika i redovite kontrole neće se obavljati. Nakon što su Trump i Putin poručili da su spremni razgovarati, iz Kremlja poruka da Rusija nije spremna mijenjati svoje ciljeve u Ukrajini. Sinoć u Amsterdamu napadnuti navijači izraelskog kluba. Urednica: Sanja Cota</description>
     <pubDate>Fri, 08 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fb/12/20241108-dnevne-novosti-35814014-20241108145010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.11. 2024-11-07</title>
-    <link>https://api.hrt.hr/media/84/8c/20241107-dnevne-novosti-35810103-20241107145545.mp3</link>
-    <description>Dok Donald Trump počinje birati svoje suradnike, u Budimpešti predsjednici država i vlada iz gotovo cijele Europe raspravljaju o tome što će Trumpov povratak u Bijelu kuću značiti za svijet. Njemačka pred prijevremenim izborima nakon što je kancelar Scholz smijenio ministra financija i vođu liberala Lindnera. U devet mjeseci ove godine carinska uprava oduzela više od pet i pol milijuna komada cigareta i 22 tone duhana. Urednica: Mira Barić</description>
-    <pubDate>Thu, 07 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/8c/20241107-dnevne-novosti-35810103-20241107145545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
