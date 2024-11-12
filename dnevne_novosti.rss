@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 15:17:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 14:54:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.11. 2024-11-12</title>
+    <link>https://api.hrt.hr/media/9b/a5/20241112-dnevne-novosti-35826241-20241112144045.mp3</link>
+    <description>Iz KBC-a Zagreb tvrde da je zaustavljena operacija djeteta jer je sestra instrumentarka odbila raditi, iz sindikata u štrajku odbacuju te optužbe. General Kundid na saborskom Odboru za obranu koji je podupro nabavu raketnih sustava HIMARS. Mario Mamić priznao da je podizao novac s računa offshore tvrtki i uplaćivao ga na račune svojeg oca Zdravka Mamića. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 12 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9b/a5/20241112-dnevne-novosti-35826241-20241112144045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.11. 2024-11-11</title>
     <link>https://api.hrt.hr/media/16/1b/20241111-dnevne-novosti-35822539-20241111144031.mp3</link>
     <description>Sindikat djelatnika u zdravstvu "Zajedno" zadovoljan odzivom na štrajk, objavili da ne radi oko četiri tisuće ljudi, ministar Vili Beroš tvrdi - 600. Nakon smrti dječaka u Centru za rehabilitaciju u Kraljevici, Ministarstvo naredilo preseljenje štićenika zbog neprikladnog prostora i organizacije. Rusija gomila snage za napad kojemu je cilj izbaciti ukrajinske postrojbe iz Kurske regije. Helena Buljan i Gertruda Munitić dobitnice Nagrade za životno djelo Hrvatskog društva dramskih umjetnika. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Povećanjem kreditnog rejtinga za Hrvatsku agencije Moody's na A3, naša zemlja ušla je u elitni klub 40 država koje imaju A rejting prema sve tri agencije. U Splitu sinoć čak četiri napada na strane državljane - dostavljače hrane, uhićene četiri osobe. Američko ministarstvo pravosuđa podignulo kaznenu prijavu protiv Irana zbog urote za ubojstvo Donalda Trumpa. Iran sve opovrgava. Zagrebački Teatar Exit večeras premijerno prikazuje predstavu "Sjajne stvari". Urednik: Silvio Šop</description>
     <pubDate>Sat, 09 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/20/46/20241109-dnevne-novosti-35816527-20241109143551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.11. 2024-11-08</title>
-    <link>https://api.hrt.hr/media/fb/12/20241108-dnevne-novosti-35814014-20241108145010.mp3</link>
-    <description>Sindikat Zajedno u ponedjeljak ide u štrajk, redovita medicinska dijagnostika i redovite kontrole neće se obavljati. Nakon što su Trump i Putin poručili da su spremni razgovarati, iz Kremlja poruka da Rusija nije spremna mijenjati svoje ciljeve u Ukrajini. Sinoć u Amsterdamu napadnuti navijači izraelskog kluba. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 08 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fb/12/20241108-dnevne-novosti-35814014-20241108145010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
