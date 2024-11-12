@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 07:14:44 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 06:52:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.11. 2024-11-12</title>
+    <link>https://api.hrt.hr/media/0f/84/20241112-jutarnja-kronika-35824143-20241112064043.mp3</link>
+    <description>Drugi je dan štrajka u zdravstvu. Premijer Plenković zasad otkriva da predsjednički izbori neće biti u srijedu, nego u jednu nedjelju u prosincu. Počinje Interliber, naš najveći sajam knjiga. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/84/20241112-jutarnja-kronika-35824143-20241112064043.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.11. 2024-11-11</title>
     <link>https://api.hrt.hr/media/df/12/20241111-jutarnja-kronika-35819915-20241111064535.mp3</link>
     <description>Počinje štrajk oko 4 tisuće djelatnika u zdravstvu. Istodobno s početkom štrajka dijela zdravstvenih radnika Ministarstvo zdravstva najavilo početak preventivnih sistematskih pregleda za starije od 40 godina. Obiteljski liječnici uzvraćaju da su preopterećeni poslom. Novoizabrani američki predsjednik Trump telefonom savjetovao ruskom predsjedniku Putinu da ne eskalira rat u Ukrajini. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Agencija Mudis povećala kreditni rejting Hrvatske za dva stupnja odjednom na A3. Oko 4 tisuće zdravstvenih djelatnika od ponedjeljka ide u štrajk. Neće biti krvnih pretraga, prekida se sanitetski prijevoz, pa i zračenje onkoloških pacijenata. Obavljat će se samo hitne intervencije. Trump u telefonskom razgovoru sa Zelenskim poručio da će podupirati Ukrajinu. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 09 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e1/8d/20241109-jutarnja-kronika-35815561-20241109063546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.11. 2024-11-08</title>
-    <link>https://api.hrt.hr/media/1c/de/20241108-jutarnja-kronika-35811738-20241108063503.mp3</link>
-    <description>Prvi put nakon izbora Joe Biden obratio se javnosti, Amerikanci zaslužuju miran prijenos vlasti - poručio je, a čestitao je i Trumpu na pobjedi. Europski čelnici na neformalnom će sastanku Europskog vijeća razgovarati o budućnosti Europe, osobito nakon povratka Donalda Trumpa u Bijelu kuću. Na dnevnom je redu i ekonomska konkurentnost Unije. Novo izdanje trezorskih zapisa, vrijedno milijardu i dvjesto milijuna eura. Građani će moći upisati do 15-og ovog mjeseca. U osječkom HNK-u večeras premijera predstave "Sokol ga nije volio" velikog Fabijana Šovagovića. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 08 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1c/de/20241108-jutarnja-kronika-35811738-20241108063503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
