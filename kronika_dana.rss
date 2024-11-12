@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 21:49:51 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 21:55:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.11. 2024-11-12</title>
+    <link>https://api.hrt.hr/media/d1/d9/20241112-kronika-dana-35827197-20241112213546.mp3</link>
+    <description>Nastavlja se štrajk u zdravstvu - Sindikat Zajedno ne odustaje od svojih zahtjeva. I KBC Zagreb i sindikat traže istragu - je li i tko zaustavio operaciju djeteta pripremljenog za operaciju? Saborski Odbor za obranu jednoglasno podupro nabavu osam raketnih sustava HIMARS. Nadbiskup Canterburyja i prvi čovjek Anglikanske Crkve Justin Welby dao ostavku zbog prikrivanja zlostavljanja u crkvenim kampovima. Urednica: Mira Barić</description>
+    <pubDate>Tue, 12 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d1/d9/20241112-kronika-dana-35827197-20241112213546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.11. 2024-11-11</title>
     <link>https://api.hrt.hr/media/6d/8c/20241111-kronika-dana-35823569-20241111213533.mp3</link>
     <description>Štrajku u zdravstvu, prema procjeni sindikata, odazvalo se oko tri i pol tisuće zaposlenih, ministar Beroš tvrdi da štrajka 548 djelatnika, tj. 0,74 posto. Nakon tragične smrti 15-godišnjeg dječaka, Ministarstvo naredilo preseljenje korisnika iz Centra za rehabilitaciju u Kraljevici. Volodimir Zelenski rekao da se ukrajinske snage u Kursku bore protiv 50 tisuća ruskih vojnika, Europu zabrinjava savez Rusije i Sjeverne Koreje. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Agencija Moody's podignula hrvatski kreditini rejting za dvije razine! Prema izvješću svih triju agencija sada smo u najvećoj, "A" kategoriji!tim ogradio se od izjave njegova savjetnika da za Ukrajince Krima više nema. Teška prometna nesreća na jugu zemlje, dvoje ljudi poginulo, ima i ozlijeđenih. Vrijeme sutra: u unutrašnjosti oblačno, najviša temperatura 10 stupnjeva, na Jadranu sunčano, temperatura u Dalmaciji i Istri i do 21 stupanj. Urednica: Sanja Cota</description>
     <pubDate>Sat, 09 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/69/fa/20241109-kronika-dana-35817203-20241109214538.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.11. 2024-11-08</title>
-    <link>https://api.hrt.hr/media/31/f0/20241108-kronika-dana-35815024-20241108214012.mp3</link>
-    <description>Za ponedjeljak najavljen štrajk u zdravstvenom sustavu, u bolnicama će se obavljati samo hitne intervencije.Američko ministarstvo pravosuđa optužilo Iran da je planirao atentat na Trumpa prije izbora. Počeo peti krug upisa trezorskih zapisa. Urednica: Mira Barić</description>
-    <pubDate>Fri, 08 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/f0/20241108-kronika-dana-35815024-20241108214012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
