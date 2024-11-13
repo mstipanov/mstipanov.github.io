@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 12 Nov 2024 21:55:25 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 21:59:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.11. 2024-11-13</title>
+    <link>https://api.hrt.hr/media/64/05/20241113-kronika-dana-35831843-20241113214053.mp3</link>
+    <description>U petak odluka o zakonitosti štrajka, sutra sastanak sindikata Zajedno i ministra Beroša. Bivši ministar tzv. SAO Krajine traži saborsku mirovinu. U Bijeloj kući sastanak sadašnjega i budućeg predsjednika - Bidena i Trumpa. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 13 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/64/05/20241113-kronika-dana-35831843-20241113214053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.11. 2024-11-12</title>
     <link>https://api.hrt.hr/media/d1/d9/20241112-kronika-dana-35827197-20241112213546.mp3</link>
     <description>Nastavlja se štrajk u zdravstvu - Sindikat Zajedno ne odustaje od svojih zahtjeva. I KBC Zagreb i sindikat traže istragu - je li i tko zaustavio operaciju djeteta pripremljenog za operaciju? Saborski Odbor za obranu jednoglasno podupro nabavu osam raketnih sustava HIMARS. Nadbiskup Canterburyja i prvi čovjek Anglikanske Crkve Justin Welby dao ostavku zbog prikrivanja zlostavljanja u crkvenim kampovima. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U dijelu zdravstvenog sustava sutra počinje štrajk. Neće raditi oko 4 tisuće zdravstvenih djelatnika u 58 zdravstvenih ustanova. Hitni i onkološki bolesnici imat će potrebnu skrb. Trojica maloljetnih napadača na strane radnike u Splitu puštena na slobodu. Netanjahu prvi put preuzeo odgovornost za napad dojavljivačima, a ministar obrane objavio da je Izrael porazio Hezbolah. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 10 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cd/72/20241110-kronika-dana-35819335-20241110214006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.11. 2024-11-09</title>
-    <link>https://api.hrt.hr/media/69/fa/20241109-kronika-dana-35817203-20241109214538.mp3</link>
-    <description>Agencija Moody's podignula hrvatski kreditini rejting za dvije razine! Prema izvješću svih triju agencija sada smo u najvećoj, "A" kategoriji!tim ogradio se od izjave njegova savjetnika da za Ukrajince Krima više nema. Teška prometna nesreća na jugu zemlje, dvoje ljudi poginulo, ima i ozlijeđenih. Vrijeme sutra: u unutrašnjosti oblačno, najviša temperatura 10 stupnjeva, na Jadranu sunčano, temperatura u Dalmaciji i Istri i do 21 stupanj. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 09 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/69/fa/20241109-kronika-dana-35817203-20241109214538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
