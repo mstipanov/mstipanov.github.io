@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Nov 2024 14:58:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 15:05:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.11. 2024-11-14</title>
+    <link>https://api.hrt.hr/media/63/3b/20241114-dnevne-novosti-35834469-20241114144014.mp3</link>
+    <description>Četvrti je dan štrajka dijela zdravstvnih radnika, za 16 sati najavljen je sastanak s ministrom Vilijem Berošem. Županijski sud u Zagrebu sutra će odlučiti hoće li se štrajk proglasiti nezakonitim. U Saboru žustra rasprava o porezu na nekretnine, Vlada predstavila proračun za iduću godinu. Izabrani američki predsjednik Donald Trump imat će sve poluge moći - nakon Senata, republikanci osvojili i Zastupnički dom Kongresa. Na Zagrebačkom velesajmu otvorena 29. Smotra sveučilišta u Zagrebu. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 14 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/63/3b/20241114-dnevne-novosti-35834469-20241114144014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.11. 2024-11-13</title>
     <link>https://api.hrt.hr/media/04/60/20241113-dnevne-novosti-35830918-20241113143553.mp3</link>
     <description>Djelatnici saniteta više ne štrajkaju. Kažu - prijeti im se otkazima koje si ne mogu priuštiti. Ministar Beroš to opovrgava. Godinu dana nakon nesreće koju je skrivio, potvrđena optužnica protiv bivšeg ministra Marija Banožića. U samo 12 sati u riječkoj bolnici uspješno izvedene tri transplantacije bubrega. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Sindikat djelatnika u zdravstvu "Zajedno" zadovoljan odzivom na štrajk, objavili da ne radi oko četiri tisuće ljudi, ministar Vili Beroš tvrdi - 600. Nakon smrti dječaka u Centru za rehabilitaciju u Kraljevici, Ministarstvo naredilo preseljenje štićenika zbog neprikladnog prostora i organizacije. Rusija gomila snage za napad kojemu je cilj izbaciti ukrajinske postrojbe iz Kurske regije. Helena Buljan i Gertruda Munitić dobitnice Nagrade za životno djelo Hrvatskog društva dramskih umjetnika. Urednik: Silvio Šop</description>
     <pubDate>Mon, 11 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/16/1b/20241111-dnevne-novosti-35822539-20241111144031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.11. 2024-11-10</title>
-    <link>https://api.hrt.hr/media/b5/87/20241110-dnevne-novosti-35818578-20241110144006.mp3</link>
-    <description>Više od 4 tisuće zdravstvenih djelatnika sutra u štrajku, prema najavama sindikata obrađivat će se samo hitni i životno ugroženi pacijenti. Uoči početka provedbe preventivnih zdravstvenih pregleda KoHOM upozorava da za nju nisu stvoreni preduvjeti. Najveći ukrajinski napad na Moskvu dosad, Ukrajina lansirala više od 30 bespilotnih letjelica. Urednica: Mira Barić</description>
-    <pubDate>Sun, 10 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/87/20241110-dnevne-novosti-35818578-20241110144006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
