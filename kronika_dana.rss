@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Nov 2024 21:59:30 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 21:38:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Štrajku u zdravstvu, prema procjeni sindikata, odazvalo se oko tri i pol tisuće zaposlenih, ministar Beroš tvrdi da štrajka 548 djelatnika, tj. 0,74 posto. Nakon tragične smrti 15-godišnjeg dječaka, Ministarstvo naredilo preseljenje korisnika iz Centra za rehabilitaciju u Kraljevici. Volodimir Zelenski rekao da se ukrajinske snage u Kursku bore protiv 50 tisuća ruskih vojnika, Europu zabrinjava savez Rusije i Sjeverne Koreje. Urednica: Sanja Cota</description>
     <pubDate>Mon, 11 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6d/8c/20241111-kronika-dana-35823569-20241111213533.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.11. 2024-11-10</title>
-    <link>https://api.hrt.hr/media/cd/72/20241110-kronika-dana-35819335-20241110214006.mp3</link>
-    <description>U dijelu zdravstvenog sustava sutra počinje štrajk. Neće raditi oko 4 tisuće zdravstvenih djelatnika u 58 zdravstvenih ustanova. Hitni i onkološki bolesnici imat će potrebnu skrb. Trojica maloljetnih napadača na strane radnike u Splitu puštena na slobodu. Netanjahu prvi put preuzeo odgovornost za napad dojavljivačima, a ministar obrane objavio da je Izrael porazio Hezbolah. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 10 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/72/20241110-kronika-dana-35819335-20241110214006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
