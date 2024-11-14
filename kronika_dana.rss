@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 21:38:05 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 22:08:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.11. 2024-11-14</title>
+    <link>https://api.hrt.hr/media/a1/ce/20241114-kronika-dana-35835701-20241114214015.mp3</link>
+    <description>Nakon četiri dana završen je štrajk u zdravstvu. Vlada predložila proračun za iduću godinu: prihodi 33, a rashodi 37 milijardi eura. Uz njemačke tenkove Leopard, Hrvatska kupuje i turske borbene dronove Bayraktar! Traju snažne borbe za Kupjansk u doneckoj regiji. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 14 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/ce/20241114-kronika-dana-35835701-20241114214015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.11. 2024-11-13</title>
     <link>https://api.hrt.hr/media/64/05/20241113-kronika-dana-35831843-20241113214053.mp3</link>
     <description>U petak odluka o zakonitosti štrajka, sutra sastanak sindikata Zajedno i ministra Beroša. Bivši ministar tzv. SAO Krajine traži saborsku mirovinu. U Bijeloj kući sastanak sadašnjega i budućeg predsjednika - Bidena i Trumpa. Urednica: Sanja Cota</description>
