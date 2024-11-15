@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 22:08:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 21:42:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.11. 2024-11-15</title>
+    <link>https://api.hrt.hr/media/90/e1/20241115-kronika-dana-35839338-20241115214050.mp3</link>
+    <description>Skandal u zdravstvu, uhićen Vili Beroš koji se uz ugledne liječnike sumnjiči za korupciju. Premijer Plenković hitno smijenio ministra. Paralelnu istragu provode USKOK i Ured europskoga javnog tužitelja, a jedni od drugih traže da im se ustupi taj slučaj. U Glini pucnjava u krugu osnovne škole. Na Premudi se nasukao katamaran prepun putnika. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 15 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/90/e1/20241115-kronika-dana-35839338-20241115214050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.11. 2024-11-14</title>
     <link>https://api.hrt.hr/media/a1/ce/20241114-kronika-dana-35835701-20241114214015.mp3</link>
     <description>Nakon četiri dana završen je štrajk u zdravstvu. Vlada predložila proračun za iduću godinu: prihodi 33, a rashodi 37 milijardi eura. Uz njemačke tenkove Leopard, Hrvatska kupuje i turske borbene dronove Bayraktar! Traju snažne borbe za Kupjansk u doneckoj regiji. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nastavlja se štrajk u zdravstvu - Sindikat Zajedno ne odustaje od svojih zahtjeva. I KBC Zagreb i sindikat traže istragu - je li i tko zaustavio operaciju djeteta pripremljenog za operaciju? Saborski Odbor za obranu jednoglasno podupro nabavu osam raketnih sustava HIMARS. Nadbiskup Canterburyja i prvi čovjek Anglikanske Crkve Justin Welby dao ostavku zbog prikrivanja zlostavljanja u crkvenim kampovima. Urednica: Mira Barić</description>
     <pubDate>Tue, 12 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d1/d9/20241112-kronika-dana-35827197-20241112213546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.11. 2024-11-11</title>
-    <link>https://api.hrt.hr/media/6d/8c/20241111-kronika-dana-35823569-20241111213533.mp3</link>
-    <description>Štrajku u zdravstvu, prema procjeni sindikata, odazvalo se oko tri i pol tisuće zaposlenih, ministar Beroš tvrdi da štrajka 548 djelatnika, tj. 0,74 posto. Nakon tragične smrti 15-godišnjeg dječaka, Ministarstvo naredilo preseljenje korisnika iz Centra za rehabilitaciju u Kraljevici. Volodimir Zelenski rekao da se ukrajinske snage u Kursku bore protiv 50 tisuća ruskih vojnika, Europu zabrinjava savez Rusije i Sjeverne Koreje. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 11 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6d/8c/20241111-kronika-dana-35823569-20241111213533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
