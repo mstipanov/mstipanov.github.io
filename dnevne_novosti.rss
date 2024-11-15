@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 15:05:12 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 14:40:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Iz KBC-a Zagreb tvrde da je zaustavljena operacija djeteta jer je sestra instrumentarka odbila raditi, iz sindikata u štrajku odbacuju te optužbe. General Kundid na saborskom Odboru za obranu koji je podupro nabavu raketnih sustava HIMARS. Mario Mamić priznao da je podizao novac s računa offshore tvrtki i uplaćivao ga na račune svojeg oca Zdravka Mamića. Urednica: Sanja Cota</description>
     <pubDate>Tue, 12 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9b/a5/20241112-dnevne-novosti-35826241-20241112144045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.11. 2024-11-11</title>
-    <link>https://api.hrt.hr/media/16/1b/20241111-dnevne-novosti-35822539-20241111144031.mp3</link>
-    <description>Sindikat djelatnika u zdravstvu "Zajedno" zadovoljan odzivom na štrajk, objavili da ne radi oko četiri tisuće ljudi, ministar Vili Beroš tvrdi - 600. Nakon smrti dječaka u Centru za rehabilitaciju u Kraljevici, Ministarstvo naredilo preseljenje štićenika zbog neprikladnog prostora i organizacije. Rusija gomila snage za napad kojemu je cilj izbaciti ukrajinske postrojbe iz Kurske regije. Helena Buljan i Gertruda Munitić dobitnice Nagrade za životno djelo Hrvatskog društva dramskih umjetnika. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 11 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/16/1b/20241111-dnevne-novosti-35822539-20241111144031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
