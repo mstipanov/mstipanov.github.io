@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Nov 2024 15:11:05 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 15:16:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.11. 2024-11-16</title>
+    <link>https://api.hrt.hr/media/42/a7/20241116-dnevne-novosti-35841044-20241116143502.mp3</link>
+    <description>Sudac istrage odredio jednomjesečni istražni zatvor Viliju Berošu i Saši Pozderu. Krešimir Rotim branit će se sa slobode. Oporba optužuje HDZ za kriminal i korupciju u svojim redovima. Ukrajinski predsjednik ljut na njemačkog kancelara zbog njegovih razgovora s ruskim predsjednikom Putinom. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 16 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/42/a7/20241116-dnevne-novosti-35841044-20241116143502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.11. 2024-11-15</title>
     <link>https://api.hrt.hr/media/92/28/20241115-dnevne-novosti-35838383-20241115144023.mp3</link>
     <description>Uhićen bivši ministar Vili Beroš i nekoliko uglednih liječnika, sumnjiče se za primanje mita, zloporabu položaja i pranje novca, premijer Plenković hitno smijenio Beroša. Glavni državni odvjetnik Ivan Turudić tvrdi da je Beroš uhićen prema nalogu Uskoka nakon višetjedne tajne istrage. Pljušte reakcije, iz SDP-a najavljuju da će tražiti opoziv premijera i cijele Vlade. U Ligi nacija Hrvatska večeras u Glasgowu igra protiv Škotske. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Djelatnici saniteta više ne štrajkaju. Kažu - prijeti im se otkazima koje si ne mogu priuštiti. Ministar Beroš to opovrgava. Godinu dana nakon nesreće koju je skrivio, potvrđena optužnica protiv bivšeg ministra Marija Banožića. U samo 12 sati u riječkoj bolnici uspješno izvedene tri transplantacije bubrega. Urednica: Mira Barić</description>
     <pubDate>Wed, 13 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/60/20241113-dnevne-novosti-35830918-20241113143553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.11. 2024-11-12</title>
-    <link>https://api.hrt.hr/media/9b/a5/20241112-dnevne-novosti-35826241-20241112144045.mp3</link>
-    <description>Iz KBC-a Zagreb tvrde da je zaustavljena operacija djeteta jer je sestra instrumentarka odbila raditi, iz sindikata u štrajku odbacuju te optužbe. General Kundid na saborskom Odboru za obranu koji je podupro nabavu raketnih sustava HIMARS. Mario Mamić priznao da je podizao novac s računa offshore tvrtki i uplaćivao ga na račune svojeg oca Zdravka Mamića. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 12 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9b/a5/20241112-dnevne-novosti-35826241-20241112144045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
