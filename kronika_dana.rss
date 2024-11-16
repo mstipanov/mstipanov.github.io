@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Nov 2024 21:42:12 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 21:47:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.11. 2024-11-16</title>
+    <link>https://api.hrt.hr/media/f9/71/20241116-kronika-dana-35841875-20241116214003.mp3</link>
+    <description>Bivšemu ministru Berošu i šestorici uhićenih u istrazi USKOK-a i EPPO-a određen jednomjesečni istražni zatvor, neurokirug Krešimir Rotim pušten da se brani sa slobode. Oporba sumnja da DORH želi preuzeti slučaj od europskih tužitelja kako se istraga ne bi širila, čeka se odluka tko je nadležan. Ukrajinski predsjednik Zelenski tvrdi kako će učiniti sve da diplomatskim putem rat završi sljedeće godine. Potonuo katamaran "Princ Zadra" koji se sinoć nasukao na hridi ispred otoka Premude. Urednica: Mira Barić</description>
+    <pubDate>Sat, 16 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f9/71/20241116-kronika-dana-35841875-20241116214003.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.11. 2024-11-15</title>
     <link>https://api.hrt.hr/media/90/e1/20241115-kronika-dana-35839338-20241115214050.mp3</link>
     <description>Skandal u zdravstvu, uhićen Vili Beroš koji se uz ugledne liječnike sumnjiči za korupciju. Premijer Plenković hitno smijenio ministra. Paralelnu istragu provode USKOK i Ured europskoga javnog tužitelja, a jedni od drugih traže da im se ustupi taj slučaj. U Glini pucnjava u krugu osnovne škole. Na Premudi se nasukao katamaran prepun putnika. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U petak odluka o zakonitosti štrajka, sutra sastanak sindikata Zajedno i ministra Beroša. Bivši ministar tzv. SAO Krajine traži saborsku mirovinu. U Bijeloj kući sastanak sadašnjega i budućeg predsjednika - Bidena i Trumpa. Urednica: Sanja Cota</description>
     <pubDate>Wed, 13 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/64/05/20241113-kronika-dana-35831843-20241113214053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.11. 2024-11-12</title>
-    <link>https://api.hrt.hr/media/d1/d9/20241112-kronika-dana-35827197-20241112213546.mp3</link>
-    <description>Nastavlja se štrajk u zdravstvu - Sindikat Zajedno ne odustaje od svojih zahtjeva. I KBC Zagreb i sindikat traže istragu - je li i tko zaustavio operaciju djeteta pripremljenog za operaciju? Saborski Odbor za obranu jednoglasno podupro nabavu osam raketnih sustava HIMARS. Nadbiskup Canterburyja i prvi čovjek Anglikanske Crkve Justin Welby dao ostavku zbog prikrivanja zlostavljanja u crkvenim kampovima. Urednica: Mira Barić</description>
-    <pubDate>Tue, 12 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d1/d9/20241112-kronika-dana-35827197-20241112213546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
