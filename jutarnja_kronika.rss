@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Nov 2024 07:13:46 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 06:49:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.11. 2024-11-17</title>
+    <link>https://api.hrt.hr/media/f5/c4/20241117-jutarnja-kronika-35842484-20241117063506.mp3</link>
+    <description>Bivšem ministru Viliju Berošu i šestorici osumnjičenih u istragama USKOK-a i Ureda europskog javnog tužitelja određen jednomjesečni istražni zatvor! Počinju Dani sjećanja na žrtvu Vukovara i Škabrnje. Dvije rakete pale u dvorište privatne rezidencije izraelskog premijera Netanyahua. U kući nije bilo nikoga. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 17 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f5/c4/20241117-jutarnja-kronika-35842484-20241117063506.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.11. 2024-11-16</title>
     <link>https://api.hrt.hr/media/2a/37/20241116-jutarnja-kronika-35840035-20241116064604.mp3</link>
     <description>Smijenjeni ministar zdravstva Vili Beroš i ostali uhićenici negirali krivnju za davanje mita i trgovanje utjecajem. Još se ne zna hoće li slučaj voditi USKOK ili Ured europskoga javnog tužitelja. Na Premudi se sinoć nasukao katamaran pun putnika, jedna je osoba ozlijeđena. Večeras dvije manifestacije koje u nazivu imaju noć - kazališta i cirkusa. SPORT: U Ligi nacija hrvatska reprezentacija, s deset igrača, izgubila od Škotske 1:0. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Na poziv ministra Beroša u Ministarstvo zdravstva na razgovor dolaze predstavnici sindikata Zajedno, čiji je štrajk ušao u četvti dan. U Parizu pojačane mjere osiguranja uoči nogometne utakmice Francuske i Izraela. Zbog kišnog nevremena u Španjolskoj evakuirano više od 4 tisuće ljudi. Urednica: Mira Barić</description>
     <pubDate>Thu, 14 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/60/01/20241114-jutarnja-kronika-35832368-20241114063512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.11. 2024-11-13</title>
-    <link>https://api.hrt.hr/media/04/b4/20241113-jutarnja-kronika-35828639-20241113063552.mp3</link>
-    <description>Treći dan nastavlja se štrajk u zdravstvu - Sindikat Zajedno ne odustaje od zahtjeva. Dječaka s problemima u ponašanju, zbog kojeg drugi učenici nisu dolazili na nastavu, roditelji odveli u inozemstvo. Izabrani američki predsjednik Donald Trump slaže administraciju, milijarder Elon Musk bit će suvoditelj novoosnovanog Odjela za učinkovitost Vlade. Dodjelom nagrada večeras završavaju 37. Gavelline večeri. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/b4/20241113-jutarnja-kronika-35828639-20241113063552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
