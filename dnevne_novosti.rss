@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Nov 2024 14:52:10 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 14:56:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.11. 2024-11-18</title>
+    <link>https://api.hrt.hr/media/d1/34/20241118-dnevne-novosti-35845938-20241118144009.mp3</link>
+    <description>Dan je sjećanja na žrtve velikosrpske agresije u Vukovaru i Škabrnji. Joe Biden odobrio Ukrajini da upotrijebi američke rakete dugog dometa za napade na Rusiju, Kremlj odgovara da će napade smatrati američkim udarom na Rusiju. Veliki požar u Čazmi - izgorjele dvije proizvodne hale u tvornici namještaja. Večeras na Poljudu Hrvatska i Portugal igraju odlučujuću utakmicu Lige nacija. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 18 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d1/34/20241118-dnevne-novosti-35845938-20241118144009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.11. 2024-11-17</title>
     <link>https://api.hrt.hr/media/87/ce/20241117-dnevne-novosti-35843380-20241117143507.mp3</link>
     <description>Dio uhićenika u aferi Ëťmedicinska opremaËť u Remetincu, odvjetnik Novice Petrača izjavio da će se njegov klijent danas ili sutra vratiti u Hrvatsku. Na ljestvici korupcije Hrvatska je u svjetskom prosjeku, na godinu se kod nas u svim njezinim oblicima "zamrači" između tri i pol i četiri milijarde eura. Počelo obilježavanje Dana žrtve Vukovara. Zadnji je dan Interlibera na Zagrebačkom velesajmu, zatvara se u 20 sati. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Uhićen bivši ministar Vili Beroš i nekoliko uglednih liječnika, sumnjiče se za primanje mita, zloporabu položaja i pranje novca, premijer Plenković hitno smijenio Beroša. Glavni državni odvjetnik Ivan Turudić tvrdi da je Beroš uhićen prema nalogu Uskoka nakon višetjedne tajne istrage. Pljušte reakcije, iz SDP-a najavljuju da će tražiti opoziv premijera i cijele Vlade. U Ligi nacija Hrvatska večeras u Glasgowu igra protiv Škotske. Urednica: Mira Barić</description>
     <pubDate>Fri, 15 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/92/28/20241115-dnevne-novosti-35838383-20241115144023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.11. 2024-11-14</title>
-    <link>https://api.hrt.hr/media/63/3b/20241114-dnevne-novosti-35834469-20241114144014.mp3</link>
-    <description>Četvrti je dan štrajka dijela zdravstvnih radnika, za 16 sati najavljen je sastanak s ministrom Vilijem Berošem. Županijski sud u Zagrebu sutra će odlučiti hoće li se štrajk proglasiti nezakonitim. U Saboru žustra rasprava o porezu na nekretnine, Vlada predstavila proračun za iduću godinu. Izabrani američki predsjednik Donald Trump imat će sve poluge moći - nakon Senata, republikanci osvojili i Zastupnički dom Kongresa. Na Zagrebačkom velesajmu otvorena 29. Smotra sveučilišta u Zagrebu. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 14 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/63/3b/20241114-dnevne-novosti-35834469-20241114144014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
