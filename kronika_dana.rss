@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Nov 2024 21:57:32 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 22:01:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.11. 2024-11-19</title>
+    <link>https://api.hrt.hr/media/52/a7/20241119-kronika-dana-35850251-20241119214026.mp3</link>
+    <description>Ivan Turudić odlučio da je USKOK mjerodavan za slučaj korupcije u zdravstvu jer su se osumnjičeni okoristili državnim, a ne europskim novcem. Predsjednički izbori održat će se 29. prosinca. Tisućiti je dan ruske invazije na Ukrajinu. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 19 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/52/a7/20241119-kronika-dana-35850251-20241119214026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.11. 2024-11-18</title>
     <link>https://api.hrt.hr/media/d0/a8/20241118-kronika-dana-35846812-20241118214012.mp3</link>
     <description>Obilježen Dan sjećanja na žrtve Vukovara i Škabrnje. Novica Petrač, jedan od osumnjičenika u aferi medicinska oprema, predao se policiji. Moskva je zaprijetila "primjerenim odgovorom" ako Ukrajina upotrijebi dugometne projektile za napade na njezinu teritoriju, nakon medijskih izvješća da je Washington to odobrio. SPORT: Na splitskom Poljudu u Ligi nacija Hrvatska igra protiv Portugala, trenutačni je rezultat 1:1. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Bivšemu ministru Berošu i šestorici uhićenih u istrazi USKOK-a i EPPO-a određen jednomjesečni istražni zatvor, neurokirug Krešimir Rotim pušten da se brani sa slobode. Oporba sumnja da DORH želi preuzeti slučaj od europskih tužitelja kako se istraga ne bi širila, čeka se odluka tko je nadležan. Ukrajinski predsjednik Zelenski tvrdi kako će učiniti sve da diplomatskim putem rat završi sljedeće godine. Potonuo katamaran "Princ Zadra" koji se sinoć nasukao na hridi ispred otoka Premude. Urednica: Mira Barić</description>
     <pubDate>Sat, 16 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f9/71/20241116-kronika-dana-35841875-20241116214003.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.11. 2024-11-15</title>
-    <link>https://api.hrt.hr/media/90/e1/20241115-kronika-dana-35839338-20241115214050.mp3</link>
-    <description>Skandal u zdravstvu, uhićen Vili Beroš koji se uz ugledne liječnike sumnjiči za korupciju. Premijer Plenković hitno smijenio ministra. Paralelnu istragu provode USKOK i Ured europskoga javnog tužitelja, a jedni od drugih traže da im se ustupi taj slučaj. U Glini pucnjava u krugu osnovne škole. Na Premudi se nasukao katamaran prepun putnika. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 15 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/90/e1/20241115-kronika-dana-35839338-20241115214050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
