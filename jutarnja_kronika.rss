@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 06:59:07 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 07:02:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.11. 2024-11-20</title>
+    <link>https://api.hrt.hr/media/47/8e/20241120-jutarnja-kronika-35850829-20241120063530.mp3</link>
+    <description>Predsjednički izbori održat će se u nedjelju 29. prosinca, objavio premijer Plenković. Sabor će raspravljati o prijedlogu državnog proračuna za iduću godinu. Ivan Turudić odlučio da je USKOK mjerodavan za slučaj korupcije u zdravstvu jer su se osumnjičeni okoristili državnim, a ne europskim novcem.
+Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/47/8e/20241120-jutarnja-kronika-35850829-20241120063530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.11. 2024-11-19</title>
     <link>https://api.hrt.hr/media/b5/12/20241119-jutarnja-kronika-35847378-20241119063524.mp3</link>
     <description>Novica Petrač predao se policiji. Borovo naselje i Nadin prisjećaju se svojih žrtava. Tisuću dana brutalne ruske agresije na Ukrajinu. Vatreni u četvrtfinalu nogometne Lige nacija. Urednik: Mario Krstanović</description>
@@ -31,14 +40,6 @@
     <description>Bivšem ministru Viliju Berošu i šestorici osumnjičenih u istragama USKOK-a i Ureda europskog javnog tužitelja određen jednomjesečni istražni zatvor! Počinju Dani sjećanja na žrtvu Vukovara i Škabrnje. Dvije rakete pale u dvorište privatne rezidencije izraelskog premijera Netanyahua. U kući nije bilo nikoga. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 17 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f5/c4/20241117-jutarnja-kronika-35842484-20241117063506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.11. 2024-11-16</title>
-    <link>https://api.hrt.hr/media/2a/37/20241116-jutarnja-kronika-35840035-20241116064604.mp3</link>
-    <description>Smijenjeni ministar zdravstva Vili Beroš i ostali uhićenici negirali krivnju za davanje mita i trgovanje utjecajem. Još se ne zna hoće li slučaj voditi USKOK ili Ured europskoga javnog tužitelja. Na Premudi se sinoć nasukao katamaran pun putnika, jedna je osoba ozlijeđena. Večeras dvije manifestacije koje u nazivu imaju noć - kazališta i cirkusa. SPORT: U Ligi nacija hrvatska reprezentacija, s deset igrača, izgubila od Škotske 1:0. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 16 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/37/20241116-jutarnja-kronika-35840035-20241116064604.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
