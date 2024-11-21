@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 22:05:26 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 21:40:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Obilježen Dan sjećanja na žrtve Vukovara i Škabrnje. Novica Petrač, jedan od osumnjičenika u aferi medicinska oprema, predao se policiji. Moskva je zaprijetila "primjerenim odgovorom" ako Ukrajina upotrijebi dugometne projektile za napade na njezinu teritoriju, nakon medijskih izvješća da je Washington to odobrio. SPORT: Na splitskom Poljudu u Ligi nacija Hrvatska igra protiv Portugala, trenutačni je rezultat 1:1. Urednik: Silvio Šop</description>
     <pubDate>Mon, 18 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d0/a8/20241118-kronika-dana-35846812-20241118214012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.11. 2024-11-17</title>
-    <link>https://api.hrt.hr/media/dd/04/20241117-kronika-dana-35844160-20241117214007.mp3</link>
-    <description>Američki predsjednik na odlasku Joe Biden odobrio Ukrajini da se koristi američkim raketama dugog dometa za napade na Rusiju. Diljem Hrvatske gore svijeće uoči sutrašnje Kolone sjećanja i obljetnice stradanja Vukovara i Škabrnje. Otkrivaju se pojedinosti o korupcijskoj aferi vezanoj za preplaćene medicinske aparate. Informacije koje inkriminiraju Vilija Beroša otkrivene slučajno. Urednica: Mira Barić</description>
-    <pubDate>Sun, 17 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dd/04/20241117-kronika-dana-35844160-20241117214007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
