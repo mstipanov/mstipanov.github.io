@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 07:02:54 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 06:37:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednik: Grgo Mrvica</description>
     <description>Na današnji Dan sjećanja na žrtve Domovinskog rata u Vukovaru i Škabrnji očekuju se deseci tisuća ljudi. Otkrivaju se pojedinosti o korpucijskoj aferi vezanoj za preplaćene medicinske aparate. Navodno je robotski mikroskop vrijedan 135 tisuća eura bolnici prodan za 464 tisuće. Američki predsjednik na odlasku Joe Biden odobrio Ukrajini da upotrijebi američke rakete dugog dometa za napade na Rusiju. Večeras na Poljudu Hrvatska i Portugal igraju odlučujuću utakmicu Lige nacija. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/74/53/20241118-jutarnja-kronika-35844687-20241118064008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.11. 2024-11-17</title>
-    <link>https://api.hrt.hr/media/f5/c4/20241117-jutarnja-kronika-35842484-20241117063506.mp3</link>
-    <description>Bivšem ministru Viliju Berošu i šestorici osumnjičenih u istragama USKOK-a i Ureda europskog javnog tužitelja određen jednomjesečni istražni zatvor! Počinju Dani sjećanja na žrtvu Vukovara i Škabrnje. Dvije rakete pale u dvorište privatne rezidencije izraelskog premijera Netanyahua. U kući nije bilo nikoga. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 17 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f5/c4/20241117-jutarnja-kronika-35842484-20241117063506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
