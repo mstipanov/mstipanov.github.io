@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Nov 2024 06:37:44 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 07:07:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.11. 2024-11-21</title>
+    <link>https://api.hrt.hr/media/c3/04/20241121-jutarnja-kronika-35854663-20241121064009.mp3</link>
+    <description>Vlada raspisuje predsjedničke izbore - za 29. prosinca. Zbog slučaja Beroš tužiteljica Tamara Laptoš zatražila zaštitu Ureda europskog tužitelja, a DORH istražuje tko je otkrio informacije iz istrage. Nakon američkih, Ukrajina gađala Rusiju i britanskim raketama. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 21 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c3/04/20241121-jutarnja-kronika-35854663-20241121064009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.11. 2024-11-20</title>
     <link>https://api.hrt.hr/media/47/8e/20241120-jutarnja-kronika-35850829-20241120063530.mp3</link>
     <description>Predsjednički izbori održat će se u nedjelju 29. prosinca, objavio premijer Plenković. Sabor će raspravljati o prijedlogu državnog proračuna za iduću godinu. Ivan Turudić odlučio da je USKOK mjerodavan za slučaj korupcije u zdravstvu jer su se osumnjičeni okoristili državnim, a ne europskim novcem.
