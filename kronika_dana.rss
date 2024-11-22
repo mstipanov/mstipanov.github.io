@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Nov 2024 22:10:36 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 21:44:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.11. 2024-11-22</title>
+    <link>https://api.hrt.hr/media/ca/6c/20241122-kronika-dana-35861973-20241122214029.mp3</link>
+    <description>Bivši ministar zdravstva Vili Beroš iz Remetinca podnio dva zahtjeva - Saboru za aktiviranje saborskog mandata, Vladi za povlasticu 6 + 6. Vladimir Putin najavio serijsku proizvodnju hipersoničnog projektila Orešnik, oružja koje može dosegnuti ciljeve u cijeloj Europi. Nakon današnjeg kaosa na cestama zbog snijega i vjetra, promet večeras normaliziran. Urednica: Mira Barić</description>
+    <pubDate>Fri, 22 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/6c/20241122-kronika-dana-35861973-20241122214029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.11. 2024-11-21</title>
     <link>https://api.hrt.hr/media/94/7a/20241121-kronika-dana-35858169-20241121214017.mp3</link>
     <description>Ured europskog tužitelja dostavio USKOK-u spise u slučaju Beroš-Petrač. Glavna europska tužiteljica pisala Europskoj komisiji. Vladimir Putin tvrdi da se rat u Ukrajini pretvorio u globalni sukob. Potvrdio da su za napad na ukrajinski grad Dnjipro prvi put upotrijebili balističke rakete. Tijekom pristajanja u Božavi na Dugom otoku Jadrolinijin katamaran udario u obalu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ivan Turudić odlučio da je USKOK mjerodavan za slučaj korupcije u zdravstvu jer su se osumnjičeni okoristili državnim, a ne europskim novcem. Predsjednički izbori održat će se 29. prosinca. Tisućiti je dan ruske invazije na Ukrajinu. Urednica: Sanja Cota</description>
     <pubDate>Tue, 19 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/52/a7/20241119-kronika-dana-35850251-20241119214026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.11. 2024-11-18</title>
-    <link>https://api.hrt.hr/media/d0/a8/20241118-kronika-dana-35846812-20241118214012.mp3</link>
-    <description>Obilježen Dan sjećanja na žrtve Vukovara i Škabrnje. Novica Petrač, jedan od osumnjičenika u aferi medicinska oprema, predao se policiji. Moskva je zaprijetila "primjerenim odgovorom" ako Ukrajina upotrijebi dugometne projektile za napade na njezinu teritoriju, nakon medijskih izvješća da je Washington to odobrio. SPORT: Na splitskom Poljudu u Ligi nacija Hrvatska igra protiv Portugala, trenutačni je rezultat 1:1. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 18 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/a8/20241118-kronika-dana-35846812-20241118214012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
