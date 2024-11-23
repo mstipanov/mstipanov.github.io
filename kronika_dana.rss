@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Nov 2024 21:44:33 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 22:19:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.11. 2024-11-23</title>
+    <link>https://api.hrt.hr/media/a6/85/20241123-kronika-dana-35864365-20241123213557.mp3</link>
+    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Sat, 23 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/85/20241123-kronika-dana-35864365-20241123213557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.11. 2024-11-22</title>
     <link>https://api.hrt.hr/media/ca/6c/20241122-kronika-dana-35861973-20241122214029.mp3</link>
     <description>Bivši ministar zdravstva Vili Beroš iz Remetinca podnio dva zahtjeva - Saboru za aktiviranje saborskog mandata, Vladi za povlasticu 6 + 6. Vladimir Putin najavio serijsku proizvodnju hipersoničnog projektila Orešnik, oružja koje može dosegnuti ciljeve u cijeloj Europi. Nakon današnjeg kaosa na cestama zbog snijega i vjetra, promet večeras normaliziran. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Zbog slučaja Beroš tužiteljica Tamara Laptoš zatražila zaštitu Ureda europskog tužitelja, a DORH istražuje tko je otkrio informacije iz istrage. Ukrajina gađala Rusiju britanskim raketama dugog dometa, a neke zapadne zemlje zatvorile veleposlanstva u Kijevu u strahu od ruskih napada. U Vukovaru sjećanje na žrtve zloglasnog logora Veleprometa i ubijene na Ovčari. Urednica: Sanja Cota</description>
     <pubDate>Wed, 20 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/f9/20241120-kronika-dana-35853988-20241120214031.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.11. 2024-11-19</title>
-    <link>https://api.hrt.hr/media/52/a7/20241119-kronika-dana-35850251-20241119214026.mp3</link>
-    <description>Ivan Turudić odlučio da je USKOK mjerodavan za slučaj korupcije u zdravstvu jer su se osumnjičeni okoristili državnim, a ne europskim novcem. Predsjednički izbori održat će se 29. prosinca. Tisućiti je dan ruske invazije na Ukrajinu. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 19 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/52/a7/20241119-kronika-dana-35850251-20241119214026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
