@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Nov 2024 06:41:53 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 06:45:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -32,14 +32,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/47/8e/20241120-jutarnja-kronika-35850829-20241120063530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.11. 2024-11-19</title>
-    <link>https://api.hrt.hr/media/b5/12/20241119-jutarnja-kronika-35847378-20241119063524.mp3</link>
-    <description>Novica Petrač predao se policiji. Borovo naselje i Nadin prisjećaju se svojih žrtava. Tisuću dana brutalne ruske agresije na Ukrajinu. Vatreni u četvrtfinalu nogometne Lige nacija. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/12/20241119-jutarnja-kronika-35847378-20241119063524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
