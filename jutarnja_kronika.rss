@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 23 Nov 2024 06:45:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 07:16:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.11. 2024-11-23</title>
+    <link>https://api.hrt.hr/media/85/ff/20241123-jutarnja-kronika-35862494-20241123063555.mp3</link>
+    <description>Bivši ministar zdravstva Vili Beroš iz Remetinca podnio zahtjev za aktiviranje saborskog mandata, te za isplatu plaće sljedećih 6 mjeseci. Nezadovoljni poreznom reformom u Zagrebu će prosvjedovati mali iznajmljivači. Vladimir Putin najavio serijsku proizvodnju hipersoničnog projektila koji može dosegnuti ciljeve u cijeloj Europi. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 23 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/85/ff/20241123-jutarnja-kronika-35862494-20241123063555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.11. 2024-11-22</title>
     <link>https://api.hrt.hr/media/0f/08/20241122-jutarnja-kronika-35858745-20241122063519.mp3</link>
     <description>Ured europskog tužitelja dostavio USKOK-u spise u slučaju Beroš-Petrač. Glavna europska tužiteljica pisala Europskoj komisiji. SDP će u Saboru predati potpise kako bi se na dnevni red uvrstila rasprava o povjerenju Vladi. Vladimir Putin tvrdi da se rat u Ukrajini pretvorio u globalni sukob. Kijev zbog sigurnosnih razloga odgodio današnju sjednicu parlamenta. Urednik: Grgo Mrvica</description>
