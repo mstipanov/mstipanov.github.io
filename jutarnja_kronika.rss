@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 24 Nov 2024 06:50:57 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 06:54:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 25.11. 2024-11-25</title>
+    <link>https://api.hrt.hr/media/b1/d7/20241125-jutarnja-kronika-35867214-20241125064006.mp3</link>
+    <description>Knin će proglasiti Dan žalosti kada bude poznat datum ispraćaja mladića poginulog u eksploziji ručne bombe. U Hrvatsku je posebnim zrakoplovima od početka godine vraćeno više od 1100 migranata koji su svojedobno regsitrirani u našoj zemlji kao prvoj državi ulaska u Europsku uniju. Predsjednički kandidati pitaju - postaje li Hrvatska hot spot? Dva potresa zatresla sinoć Bosnu i Hercegovinu. Epicentar 20 kilometara od Širokog Brijega. Urednik:Mislav Togonal</description>
+    <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b1/d7/20241125-jutarnja-kronika-35867214-20241125064006.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 24.11. 2024-11-24</title>
     <link>https://api.hrt.hr/media/82/43/20241124-jutarnja-kronika-35864922-20241124063503.mp3</link>
     <description>Jedna je osoba poginula, a četiri ozlijeđene u eksploziji u stambenoj zgradi u Kninu. Zbog optužbi za seksualno zlostavljanje maloljetne učenice uhićen domar jedne osnovne škole u okolici Zagreba. Neuspjeh klimatskog sastanka u Bakuu, bogate i siromašne zemlje ne mogu se dogovoriti o financiranju. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ured europskog tužitelja dostavio USKOK-u spise u slučaju Beroš-Petrač. Glavna europska tužiteljica pisala Europskoj komisiji. SDP će u Saboru predati potpise kako bi se na dnevni red uvrstila rasprava o povjerenju Vladi. Vladimir Putin tvrdi da se rat u Ukrajini pretvorio u globalni sukob. Kijev zbog sigurnosnih razloga odgodio današnju sjednicu parlamenta. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 22 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/08/20241122-jutarnja-kronika-35858745-20241122063519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 21.11. 2024-11-21</title>
-    <link>https://api.hrt.hr/media/c3/04/20241121-jutarnja-kronika-35854663-20241121064009.mp3</link>
-    <description>Vlada raspisuje predsjedničke izbore - za 29. prosinca. Zbog slučaja Beroš tužiteljica Tamara Laptoš zatražila zaštitu Ureda europskog tužitelja, a DORH istražuje tko je otkrio informacije iz istrage. Nakon američkih, Ukrajina gađala Rusiju i britanskim raketama. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 21 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/04/20241121-jutarnja-kronika-35854663-20241121064009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
