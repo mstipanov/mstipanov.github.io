@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 24 Nov 2024 14:52:06 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 14:55:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.11. 2024-11-25</title>
+    <link>https://api.hrt.hr/media/17/8b/20241125-dnevne-novosti-35868798-20241125144011.mp3</link>
+    <description>Nepromijenjeno je teško stanje četvero mladih ozlijeđenih u ekploziji bombe u Kninu. Unatoč objašnjenjima MUP-a, troje predsjedničkih kandidata kritiziralo Dablinski sporazum prema kojem se migranti vraćaju u Hrvatsku. Udruga poslodavaca Vladi preporučila sto mjera čija bi nas provedba vodila prema ekonomskom blagostanju. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 25 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/17/8b/20241125-dnevne-novosti-35868798-20241125144011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.11. 2024-11-24</title>
     <link>https://api.hrt.hr/media/84/1f/20241124-dnevne-novosti-35865884-20241124143504.mp3</link>
     <description>Tragedija sinoć u Kninu. Jedna je mlada osoba poginula, a četiri su teško ozlijeđene u eksploziji bombe na kućnoj zabavi. Ministar turizma Tonči Glavina za sutra je najavio sastanak s malim iznajmljivačima koji su jučer prosvjedovali u Zagrebu. Nerazvijene zemlje nezadovoljne postignutim dogovorom na klimatskom sastanku u Bakuu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>SDP ima dovoljno potpisa za saborsku raspravu o opozivu premijera Plenkovića i njegove Vlade. U HDZ-u uvjereni da od toga neće biti ništa. Vili Beroš iz Remetinca zatražio da mu se aktivira saborski mandat. Predao se Nikola Petrač, osumnjičen u aferi ËťmikroskopËť. Pentagon je unaprijed bio obaviješten da će Rusija na Ukrajinu ispaliti balističku raketu srednjeg dometa. Vatreni će u četvrtfinalu nogometne Lige nacija igrati protiv Francuske. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 22 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ac/3c/20241122-dnevne-novosti-35860691-20241122144028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.11. 2024-11-21</title>
-    <link>https://api.hrt.hr/media/fc/17/20241121-dnevne-novosti-35856879-20241121143516.mp3</link>
-    <description>Ured europskoga javnog tužitelja dostavio spis o aferi ËťmikroskopiËť USKOK-u, ali i istaknuo da se "izrazito ne slaže" s odlukom da je za slučaj nadležan USKOK. Premijer Andrej Plenković predložio Irenu Hrstić za novu ministricu zdravstva. Kampanja za predsjedničke izbore najvjerojatnije će početi 11., a trajati do 27. prosinca u ponoć. Međunarodni kazneni sud, zbog sumnje na ratne zločine i zločine protiv čovječnosti, izdao naloge za uhićenje izraelskog premijera, bivšeg ministra obrane te vojnog zapovjednika Hamasa. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 21 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fc/17/20241121-dnevne-novosti-35856879-20241121143516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
