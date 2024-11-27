@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Nov 2024 06:58:17 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 06:32:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Jedna je osoba poginula, a četiri ozlijeđene u eksploziji u stambenoj zgradi u Kninu. Zbog optužbi za seksualno zlostavljanje maloljetne učenice uhićen domar jedne osnovne škole u okolici Zagreba. Neuspjeh klimatskog sastanka u Bakuu, bogate i siromašne zemlje ne mogu se dogovoriti o financiranju. Urednica: Mira Barić</description>
     <pubDate>Sun, 24 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/43/20241124-jutarnja-kronika-35864922-20241124063503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.11. 2024-11-23</title>
-    <link>https://api.hrt.hr/media/85/ff/20241123-jutarnja-kronika-35862494-20241123063555.mp3</link>
-    <description>Bivši ministar zdravstva Vili Beroš iz Remetinca podnio zahtjev za aktiviranje saborskog mandata, te za isplatu plaće sljedećih 6 mjeseci. Nezadovoljni poreznom reformom u Zagrebu će prosvjedovati mali iznajmljivači. Vladimir Putin najavio serijsku proizvodnju hipersoničnog projektila koji može dosegnuti ciljeve u cijeloj Europi. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 23 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/ff/20241123-jutarnja-kronika-35862494-20241123063555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
