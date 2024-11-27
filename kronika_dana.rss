@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Nov 2024 22:01:17 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 22:05:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.11. 2024-11-27</title>
+    <link>https://api.hrt.hr/media/45/94/20241127-kronika-dana-35877258-20241127214011.mp3</link>
+    <description>Bruto domaći proizvod raste 15-ti kvartal zaredom, ministar Primorac kaže da bi rast BDP-a mogao blago povećati cijene dobara i usluga.Ministar Božinović opovrgnuo da 16 tisuća migranata traži povratak u Hrvatsku.Na snagu stupilo primirje između izraelske vojske i militanata Hezbolaha u Libanonu. Urednica: Mira Barić</description>
+    <pubDate>Wed, 27 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/94/20241127-kronika-dana-35877258-20241127214011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.11. 2024-11-26</title>
     <link>https://api.hrt.hr/media/f1/67/20241126-kronika-dana-35873301-20241126214503.mp3</link>
     <description>Irena Hrstić dobila potporu saborskog Odbora za zdravstvo za novu ministricu. Bivši ravnatelj Klaićeve bolnice Goran Roić izašao iz pritvora. Predsjednik Milanović na HRT-u govorio o korupcijskoj aferi u zdravstvu. Izrael pristao na primirje s Hezbolahom. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>eksploziji bombe na kućnoj zabavi u Kninu poginuo mladić, a još četvero mladih teško ozlijeđeno. MUP opovrgava tvrdnje o "tajnim letovima" kojima se u Hrvatsku dovoze tražitelji azila. Ukrajinci analiziraju dijelove ruske rakete kojom je pogođen grad Dnjipro i tvrde da svijet ima protuzračnu obranu kojom se može braniti od takvog oružja. Urednica: Sanja Cota</description>
     <pubDate>Sun, 24 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/df/20241124-kronika-dana-35866659-20241124213505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.11. 2024-11-23</title>
-    <link>https://api.hrt.hr/media/a6/85/20241123-kronika-dana-35864365-20241123213557.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Sat, 23 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a6/85/20241123-kronika-dana-35864365-20241123213557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
