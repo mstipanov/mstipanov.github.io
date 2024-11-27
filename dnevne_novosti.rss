@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Nov 2024 14:59:38 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 15:34:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.11. 2024-11-27</title>
+    <link>https://api.hrt.hr/media/ae/8b/20241127-dnevne-novosti-35875839-20241127143508.mp3</link>
+    <description>Ministar unutarnjih poslova Davor Božinović nakon najave da nam Njemačka planira vratiti 16 tisuća migranata - Hrvatska nije, neće, niti može postati "hot spot". Hrvatski BDP porastao 15. kvartal zaredom, za 3,9 posto na godišnjoj razini. Europski parlament potvrdio novi sastav Europske komisije. Stupio na snagu šezdesetodnevni prekid vatre između Izraela i Hezbolaha. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 27 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/8b/20241127-dnevne-novosti-35875839-20241127143508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.11. 2024-11-26</title>
     <link>https://api.hrt.hr/media/ce/40/20241126-dnevne-novosti-35872396-20241126144029.mp3</link>
     <description>Irena Hrstić dobila potporu saborskog Odbora za zdravstvo za novu ministricu. Sindikat Preporod i Nezavisni sindikat znanosti predali Vladi peticiju za pravedne koeficijente s više od 38 tisuća potpisa. Akcija USKOK-a u pet županija, na meti nelegalni distributeri televizijskih programa preko interneta. Izraelska vlada trebala bi prihvatiti šezdesetodnevno primirje s Hezbolahom. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Tragedija sinoć u Kninu. Jedna je mlada osoba poginula, a četiri su teško ozlijeđene u eksploziji bombe na kućnoj zabavi. Ministar turizma Tonči Glavina za sutra je najavio sastanak s malim iznajmljivačima koji su jučer prosvjedovali u Zagrebu. Nerazvijene zemlje nezadovoljne postignutim dogovorom na klimatskom sastanku u Bakuu. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 24 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/1f/20241124-dnevne-novosti-35865884-20241124143504.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.11. 2024-11-23</title>
-    <link>https://api.hrt.hr/media/91/f7/20241123-dnevne-novosti-35863521-20241123144056.mp3</link>
-    <description>Ne smiruje se afera u zdravstvu; čekaju se potezi pravosuđa. U Zagrebu danas dva prosvjeda. Na Trgu Francuske Republike prosvjedovali su mali iznajmljivači, a u Maksimiru građani protiv izgradnje spalionice. Nakon što je Rusija lansirala hipersonični balistički projektil, Viktor Orban upozorava da u iduća dva mjeseca europski čelnici ne bi smjeli komunicirati na način uobičajen na Zapadu. Urednica: Mira Barić</description>
-    <pubDate>Sat, 23 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/91/f7/20241123-dnevne-novosti-35863521-20241123144056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
