@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Nov 2024 15:34:34 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 15:08:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.11. 2024-11-28</title>
+    <link>https://api.hrt.hr/media/e0/cb/20241128-dnevne-novosti-35880145-20241128143556.mp3</link>
+    <description>Rusija masovno napada ukrajinske energetske objekte. Putin najavio i mogućnost raketiranja središta za donošenje odluka. Stupila na snagu Vladina odluka o raspisivanju predsjedničkih izbora. Od sutra teku i izborni rokovi. Vlada uputila u saborsku proceduru prijedlog izmjena Zakona o ugostiteljstvu zbog kojeg su prosvjedovali mali iznajmljivači. Ministar poljoprivrede najavio nove poticaje za proizvođače mesa i mlijeka, ali i više reda u tom sektoru. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 28 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e0/cb/20241128-dnevne-novosti-35880145-20241128143556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.11. 2024-11-27</title>
     <link>https://api.hrt.hr/media/ae/8b/20241127-dnevne-novosti-35875839-20241127143508.mp3</link>
     <description>Ministar unutarnjih poslova Davor Božinović nakon najave da nam Njemačka planira vratiti 16 tisuća migranata - Hrvatska nije, neće, niti može postati "hot spot". Hrvatski BDP porastao 15. kvartal zaredom, za 3,9 posto na godišnjoj razini. Europski parlament potvrdio novi sastav Europske komisije. Stupio na snagu šezdesetodnevni prekid vatre između Izraela i Hezbolaha. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nepromijenjeno je teško stanje četvero mladih ozlijeđenih u ekploziji bombe u Kninu. Unatoč objašnjenjima MUP-a, troje predsjedničkih kandidata kritiziralo Dablinski sporazum prema kojem se migranti vraćaju u Hrvatsku. Udruga poslodavaca Vladi preporučila sto mjera čija bi nas provedba vodila prema ekonomskom blagostanju. Urednica: Sanja Cota</description>
     <pubDate>Mon, 25 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/17/8b/20241125-dnevne-novosti-35868798-20241125144011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.11. 2024-11-24</title>
-    <link>https://api.hrt.hr/media/84/1f/20241124-dnevne-novosti-35865884-20241124143504.mp3</link>
-    <description>Tragedija sinoć u Kninu. Jedna je mlada osoba poginula, a četiri su teško ozlijeđene u eksploziji bombe na kućnoj zabavi. Ministar turizma Tonči Glavina za sutra je najavio sastanak s malim iznajmljivačima koji su jučer prosvjedovali u Zagrebu. Nerazvijene zemlje nezadovoljne postignutim dogovorom na klimatskom sastanku u Bakuu. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 24 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/84/1f/20241124-dnevne-novosti-35865884-20241124143504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
