@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Nov 2024 07:02:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 06:36:59 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.11. 2024-11-28</title>
+    <link>https://api.hrt.hr/media/ef/49/20241128-jutarnja-kronika-35877854-20241128063524.mp3</link>
+    <description>Na snagu stupa Vladina odluka o raspisivanju predsjedničkih izbora za nedjelju 29-og prosinca. Ministar Davor Božinović opovrgnuo da Njemačka Hrvatskoj vraća 16 tisuća migranata. U Osijeku počinje 29-ti Slavonski biennale. SPORT: U utakmici Lige prvaka Borussia Dortmund pobijedila Dinamo na Maksimiru 3 : 0. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 28 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ef/49/20241128-jutarnja-kronika-35877854-20241128063524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.11. 2024-11-27</title>
     <link>https://api.hrt.hr/media/08/0f/20241127-jutarnja-kronika-35873846-20241127063507.mp3</link>
     <description>Na snagu stupilo primirje između Izraela i Hezbolaha. Europski parlament glasuje o sastavu nove Europske komisije. Dan žalosti u Kninu - nakon eksplozije ručne bombe i pogibije 25-ogodišnjeg mladića. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Knin će proglasiti Dan žalosti kada bude poznat datum ispraćaja mladića poginulog u eksploziji ručne bombe. U Hrvatsku je posebnim zrakoplovima od početka godine vraćeno više od 1100 migranata koji su svojedobno regsitrirani u našoj zemlji kao prvoj državi ulaska u Europsku uniju. Predsjednički kandidati pitaju - postaje li Hrvatska hot spot? Dva potresa zatresla sinoć Bosnu i Hercegovinu. Epicentar 20 kilometara od Širokog Brijega. Urednik:Mislav Togonal</description>
     <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b1/d7/20241125-jutarnja-kronika-35867214-20241125064006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.11. 2024-11-24</title>
-    <link>https://api.hrt.hr/media/82/43/20241124-jutarnja-kronika-35864922-20241124063503.mp3</link>
-    <description>Jedna je osoba poginula, a četiri ozlijeđene u eksploziji u stambenoj zgradi u Kninu. Zbog optužbi za seksualno zlostavljanje maloljetne učenice uhićen domar jedne osnovne škole u okolici Zagreba. Neuspjeh klimatskog sastanka u Bakuu, bogate i siromašne zemlje ne mogu se dogovoriti o financiranju. Urednica: Mira Barić</description>
-    <pubDate>Sun, 24 Nov 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/82/43/20241124-jutarnja-kronika-35864922-20241124063503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
