@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 28 Nov 2024 15:08:23 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 14:44:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 29.11. 2024-11-29</title>
+    <link>https://api.hrt.hr/media/b9/23/20241129-dnevne-novosti-35884280-20241129143549.mp3</link>
+    <description>Počela utrka za Pantovčak - predsjednički kandidati prikupljaju potrebne potpise.
+Ubijena žena u Zagrebu, privedena dvojica muškaraca.Veliki prosvjedi u Gruziji nakon odluke premijera da prekine pregovore s Europskom unijom.Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 29 Nov 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b9/23/20241129-dnevne-novosti-35884280-20241129143549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.11. 2024-11-28</title>
     <link>https://api.hrt.hr/media/e0/cb/20241128-dnevne-novosti-35880145-20241128143556.mp3</link>
     <description>Rusija masovno napada ukrajinske energetske objekte. Putin najavio i mogućnost raketiranja središta za donošenje odluka. Stupila na snagu Vladina odluka o raspisivanju predsjedničkih izbora. Od sutra teku i izborni rokovi. Vlada uputila u saborsku proceduru prijedlog izmjena Zakona o ugostiteljstvu zbog kojeg su prosvjedovali mali iznajmljivači. Ministar poljoprivrede najavio nove poticaje za proizvođače mesa i mlijeka, ali i više reda u tom sektoru. Urednik: Grgo Mrvica</description>
@@ -31,14 +40,6 @@
     <description>Irena Hrstić dobila potporu saborskog Odbora za zdravstvo za novu ministricu. Sindikat Preporod i Nezavisni sindikat znanosti predali Vladi peticiju za pravedne koeficijente s više od 38 tisuća potpisa. Akcija USKOK-a u pet županija, na meti nelegalni distributeri televizijskih programa preko interneta. Izraelska vlada trebala bi prihvatiti šezdesetodnevno primirje s Hezbolahom. Urednik: Silvio Šop</description>
     <pubDate>Tue, 26 Nov 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/40/20241126-dnevne-novosti-35872396-20241126144029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.11. 2024-11-25</title>
-    <link>https://api.hrt.hr/media/17/8b/20241125-dnevne-novosti-35868798-20241125144011.mp3</link>
-    <description>Nepromijenjeno je teško stanje četvero mladih ozlijeđenih u ekploziji bombe u Kninu. Unatoč objašnjenjima MUP-a, troje predsjedničkih kandidata kritiziralo Dablinski sporazum prema kojem se migranti vraćaju u Hrvatsku. Udruga poslodavaca Vladi preporučila sto mjera čija bi nas provedba vodila prema ekonomskom blagostanju. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 25 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/17/8b/20241125-dnevne-novosti-35868798-20241125144011.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
