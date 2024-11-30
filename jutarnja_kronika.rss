@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 30 Nov 2024 06:46:42 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 07:16:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.11. 2024-11-30</title>
+    <link>https://api.hrt.hr/media/02/80/20241130-jutarnja-kronika-35885701-20241130070049.mp3</link>
+    <description>Zelenski nagovijestio da je Ukrajina spremna završiti rat s Rusijom u zamjenu za članstvo u NATO-u. Predsjednički kandidati nastavljaju prikupljati potpise. Počinje Advent u Zagrebu. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 30 Nov 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/02/80/20241130-jutarnja-kronika-35885701-20241130070049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.11. 2024-11-29</title>
     <link>https://api.hrt.hr/media/d4/e8/20241129-jutarnja-kronika-35881873-20241129063548.mp3</link>
     <description>Pale mrežne stranice vlade i ministarstava. Počinje potrošačka groznica, crni je petak, građani će potrošiti 137 milijuna eura, 10 milijuna više nego lani. Predsjednički će kandidati diljem zemlje prikupljati potpise kako bi ispunili uvijet za kandidaturu na izborima. Ukrajina na udaru ruskih projektila. U Puli se otvara sajam knjiga. Urednik: Grgo Mrvica</description>
