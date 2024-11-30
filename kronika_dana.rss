@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 29 Nov 2024 21:45:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 22:19:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.11. 2024-11-30</title>
+    <link>https://api.hrt.hr/media/6f/9e/20241130-kronika-dana-35887630-20241130214051.mp3</link>
+    <description>Kandidati diljem zemlje prikupljali potpise za predsjedničke izbore. U Gruziji ponovno prosvjedi protiv vlade zbog odluke o iznenadnom zamrzavanju pristupnog procesa Europskoj uniji. Sport: Najbolji rezultat karijere za Zrinku Ljutić - druga u veleslalomskoj utrci Svjetskog kupa. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 30 Nov 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6f/9e/20241130-kronika-dana-35887630-20241130214051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.11. 2024-11-29</title>
     <link>https://api.hrt.hr/media/35/2d/20241129-kronika-dana-35885179-20241129214047.mp3</link>
     <description>Počela utrka za Pantovčak - predsjednički kandidati prikupljaju potrebne potpise, Dragan Primorac ih već ima Ubijena žena u Zagrebu, privedena dvojica muškaraca. Prekid vatre Izraela i Hezbolaha održava se, šef Hezbolaha proglasio pobjedu protiv Izraela. U Puli počeo jubilarni 30. Sajam knjige u Istri. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Bruto domaći proizvod raste 15-ti kvartal zaredom, ministar Primorac kaže da bi rast BDP-a mogao blago povećati cijene dobara i usluga.Ministar Božinović opovrgnuo da 16 tisuća migranata traži povratak u Hrvatsku.Na snagu stupilo primirje između izraelske vojske i militanata Hezbolaha u Libanonu. Urednica: Mira Barić</description>
     <pubDate>Wed, 27 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/45/94/20241127-kronika-dana-35877258-20241127214011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.11. 2024-11-26</title>
-    <link>https://api.hrt.hr/media/f1/67/20241126-kronika-dana-35873301-20241126214503.mp3</link>
-    <description>Irena Hrstić dobila potporu saborskog Odbora za zdravstvo za novu ministricu. Bivši ravnatelj Klaićeve bolnice Goran Roić izašao iz pritvora. Predsjednik Milanović na HRT-u govorio o korupcijskoj aferi u zdravstvu. Izrael pristao na primirje s Hezbolahom. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 26 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f1/67/20241126-kronika-dana-35873301-20241126214503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
