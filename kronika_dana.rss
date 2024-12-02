@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 01 Dec 2024 21:52:46 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 21:56:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.12. 2024-12-02</title>
+    <link>https://api.hrt.hr/media/49/ed/20241202-kronika-dana-35893376-20241202214014.mp3</link>
+    <description>Ustavne krize vjerojatno neće biti, oporba i vladajući bliže su dogovoru o novim ustavnim sucima. Gruzijci prosvjeduju i petu večer zaredom, ponovno sukobi s policijom. Pomorac Zvonimir Franić dobio Vjesnikovu Plavu vrpcu - skokom u more spasio teško ozlijeđenog kolegu s trajekta Lastovo. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 02 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/49/ed/20241202-kronika-dana-35893376-20241202214014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.12. 2024-12-01</title>
     <link>https://api.hrt.hr/media/4e/80/20241201-kronika-dana-35889856-20241201213554.mp3</link>
     <description>Kandidati za predsjedničke izbore i danas prikupljali potpise. Četvrtu noć zaredom prosvjedi ispred gruzijskog parlamenta u Tbilisiju. Građani nezadovoljni premijerovom odlukom da zamrzne proces pristupanja zemlje Europskoj uniji. Kardiovaskularne bolesti vodeći su uzrok smrti u Hrvatskoj - od njih svake godine umire oko 20 tisuća ljudi. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Počela utrka za Pantovčak - predsjednički kandidati prikupljaju potrebne potpise, Dragan Primorac ih već ima Ubijena žena u Zagrebu, privedena dvojica muškaraca. Prekid vatre Izraela i Hezbolaha održava se, šef Hezbolaha proglasio pobjedu protiv Izraela. U Puli počeo jubilarni 30. Sajam knjige u Istri. Urednik: Silvio Šop</description>
     <pubDate>Fri, 29 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/35/2d/20241129-kronika-dana-35885179-20241129214047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.11. 2024-11-28</title>
-    <link>https://api.hrt.hr/media/e6/07/20241128-kronika-dana-35881246-20241128214546.mp3</link>
-    <description>Masovni ruski napadi na ukrajinske energetske objekte. Vladimir Putin prijeti da će napasti Kijev novom balističkom raketom Orešnik. Od ponoći počinje prikupljanje potpisa kandidata za predsjednika Republike. Do sada je kandidaturu najavilo njih 13-ero. Prema procjenama, potrošnja će na Black Friday ili CRNI PETAK dosegnuti 137 milijuna eura, što je 10 milijuna eura više nego lani. Urednica: Mira Barić</description>
-    <pubDate>Thu, 28 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e6/07/20241128-kronika-dana-35881246-20241128214546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
