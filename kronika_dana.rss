@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 02 Dec 2024 21:56:38 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 22:00:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.12. 2024-12-03</title>
+    <link>https://api.hrt.hr/media/c3/f1/20241203-kronika-dana-35896736-20241203214018.mp3</link>
+    <description>Kod Varaždina pronađena tijela dvoje dojenčadi. Bila su zakopana u dvorištu, roditelji su privedeni. U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada, glasovanje u petak. Zoran Milanović prvi Državnom izbornom povjerenstvu predao potpise za predsjedničku kandidaturu, Dragan Primorac učinit će to sutra. Južnokorejski predsjednik pokreće postupak ukidanja izvanrednog stanja koje je proglasio nekoliko sati prije, poštujući parlamentarno glasovanje protiv te mjere. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 03 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c3/f1/20241203-kronika-dana-35896736-20241203214018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.12. 2024-12-02</title>
     <link>https://api.hrt.hr/media/49/ed/20241202-kronika-dana-35893376-20241202214014.mp3</link>
     <description>Ustavne krize vjerojatno neće biti, oporba i vladajući bliže su dogovoru o novim ustavnim sucima. Gruzijci prosvjeduju i petu večer zaredom, ponovno sukobi s policijom. Pomorac Zvonimir Franić dobio Vjesnikovu Plavu vrpcu - skokom u more spasio teško ozlijeđenog kolegu s trajekta Lastovo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Kandidati diljem zemlje prikupljali potpise za predsjedničke izbore. U Gruziji ponovno prosvjedi protiv vlade zbog odluke o iznenadnom zamrzavanju pristupnog procesa Europskoj uniji. Sport: Najbolji rezultat karijere za Zrinku Ljutić - druga u veleslalomskoj utrci Svjetskog kupa. Urednica: Sanja Cota</description>
     <pubDate>Sat, 30 Nov 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6f/9e/20241130-kronika-dana-35887630-20241130214051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.11. 2024-11-29</title>
-    <link>https://api.hrt.hr/media/35/2d/20241129-kronika-dana-35885179-20241129214047.mp3</link>
-    <description>Počela utrka za Pantovčak - predsjednički kandidati prikupljaju potrebne potpise, Dragan Primorac ih već ima Ubijena žena u Zagrebu, privedena dvojica muškaraca. Prekid vatre Izraela i Hezbolaha održava se, šef Hezbolaha proglasio pobjedu protiv Izraela. U Puli počeo jubilarni 30. Sajam knjige u Istri. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 29 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/35/2d/20241129-kronika-dana-35885179-20241129214047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
