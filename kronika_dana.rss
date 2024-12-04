@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 03 Dec 2024 22:00:54 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 22:05:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.12. 2024-12-04</title>
+    <link>https://api.hrt.hr/media/da/c5/20241204-kronika-dana-35900669-20241204213549.mp3</link>
+    <description>Nakon strašnog otkrića dvoje mrtve djece, njihovi roditelji u istražnom zatvoru, treće dijete dobilo skrbnika. Oporba i vladajući dogovorili imena 10 ustavnih sudaca. U Francuskoj udružena desna i lijeva oporba srušile vladu premijera Barniera. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 04 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/da/c5/20241204-kronika-dana-35900669-20241204213549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.12. 2024-12-03</title>
     <link>https://api.hrt.hr/media/c3/f1/20241203-kronika-dana-35896736-20241203214018.mp3</link>
     <description>Kod Varaždina pronađena tijela dvoje dojenčadi. Bila su zakopana u dvorištu, roditelji su privedeni. U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada, glasovanje u petak. Zoran Milanović prvi Državnom izbornom povjerenstvu predao potpise za predsjedničku kandidaturu, Dragan Primorac učinit će to sutra. Južnokorejski predsjednik pokreće postupak ukidanja izvanrednog stanja koje je proglasio nekoliko sati prije, poštujući parlamentarno glasovanje protiv te mjere. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Kandidati za predsjedničke izbore i danas prikupljali potpise. Četvrtu noć zaredom prosvjedi ispred gruzijskog parlamenta u Tbilisiju. Građani nezadovoljni premijerovom odlukom da zamrzne proces pristupanja zemlje Europskoj uniji. Kardiovaskularne bolesti vodeći su uzrok smrti u Hrvatskoj - od njih svake godine umire oko 20 tisuća ljudi. Urednica: Mira Barić</description>
     <pubDate>Sun, 01 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4e/80/20241201-kronika-dana-35889856-20241201213554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.11. 2024-11-30</title>
-    <link>https://api.hrt.hr/media/6f/9e/20241130-kronika-dana-35887630-20241130214051.mp3</link>
-    <description>Kandidati diljem zemlje prikupljali potpise za predsjedničke izbore. U Gruziji ponovno prosvjedi protiv vlade zbog odluke o iznenadnom zamrzavanju pristupnog procesa Europskoj uniji. Sport: Najbolji rezultat karijere za Zrinku Ljutić - druga u veleslalomskoj utrci Svjetskog kupa. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 30 Nov 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6f/9e/20241130-kronika-dana-35887630-20241130214051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
