@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 03 Dec 2024 14:59:45 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 15:03:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.12. 2024-12-04</title>
+    <link>https://api.hrt.hr/media/0e/cf/20241204-dnevne-novosti-35899488-20241204144048.mp3</link>
+    <description>Ispitani roditelji dvoje djece čija su tijela pronađena jučer u dvorištu kuće kod Varaždina, Državno odvjetništvo za njih je zatražilo istražni zatvor. HDZ i SDP dogovorili deset kandidata za suce Ustavnog suda. HDZ-ov predsjednički kandidat Dragan Primorac Državnom izbornom povjerenstvu predao 109 tisuća 505 potpisa. Svi umirovljenici, bez obzira na iznos mirovine, dobit će božićnicu od 80 eura. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 04 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0e/cf/20241204-dnevne-novosti-35899488-20241204144048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.12. 2024-12-03</title>
     <link>https://api.hrt.hr/media/c0/8f/20241203-dnevne-novosti-35895817-20241203144017.mp3</link>
     <description>U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada. Zoran Milanović predao kandidaturu za predsjednika države, kaže da će se suprotstaviti tome da jedan čovjek i jedna stranka Â´drmajuÂ´ Hrvatskom. Direktor zagrebačke Gradske plinare najavio da odlazi s dužnosti. Sindikati sumnjaju da ne želi snositi odgovornost za propuste Grada. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Predsjednički kandidati prikupljaju potpise i bore se za naklonost birača. Europska unija najavljuje moguće uvođenje sankcija Gruziji, a SAD prekinuo strateško partnerstvo s tom zemljom. Igraju Hajduk i Dinamo, na Poljudu se očekuje više od 32 tisuće gledatelja. Urednica: Sanja Cota</description>
     <pubDate>Sun, 01 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/19/53/20241201-dnevne-novosti-35889073-20241201143554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.11. 2024-11-30</title>
-    <link>https://api.hrt.hr/media/f6/94/20241130-dnevne-novosti-35886658-20241130144054.mp3</link>
-    <description>Potencijalni predsjednički kandidati nastavljaju prikupljati potpise po gradskim trgovima. Nakon eksplozije u kojoj je oštećen kanal za vodu za dvije glavne elektrane, Kosovo jača sigurnost na strateškim lokacijama. Javne službe spremaju se za štrajk, premijer Andrej Plenković poručio - s našim socijalnim partnerima uvijek pronađemo rješenje. Večeras počinju adventska događanja u mnogim gradovima i mjestima. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 30 Nov 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/94/20241130-dnevne-novosti-35886658-20241130144054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
