@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Nov 2024 17:09:47 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 17:38:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>POVIJEST SUMBERA 2024-12-05</title>
+    <link>https://api.hrt.hr/media/1f/9f/20241205-historia-histriae-8132261-20241205173000.mp3</link>
+    <description>Danas učimo mnogo toga novoga o povijesti Šumbera uz Kristijana Žgaljardića! Budite s nama!</description>
+    <pubDate>Thu, 05 Dec 2024 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/9f/20241205-historia-histriae-8132261-20241205173000.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Historia Histriae 21.11.2024. 2024-11-21</title>
     <link>https://api.hrt.hr/media/c6/18/20241121-historia-histriae-8127562-20241121170016.mp3</link>
     <description>Idemo u Kršan i učimo o njegovoj povijesti uz našeg Kristijana Žgaljardića!</description>
@@ -79,14 +87,6 @@
     <description>Najavljujemo još jedno izdanje Pazinskog memorijala s temom "Prošlost i sadašnjost Istre". Memorijal donosi brojne zanimljive povijesne teme, a predstavit ćemo ih uz istaknutog povjesničara Josipa Šiklića. </description>
     <pubDate>Thu, 26 Sep 2024 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/5c/20240926-historia-histriae-8108429-20240926152544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Josip Bratulić 2024-09-19</title>
-    <link>https://api.hrt.hr/media/89/dc/20240919-historia-histriae-8106209-20240919163058.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 19 Sep 2024 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/89/dc/20240919-historia-histriae-8106209-20240919163058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
