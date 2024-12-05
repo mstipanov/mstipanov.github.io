@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 04 Dec 2024 22:05:06 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 22:09:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.12. 2024-12-05</title>
+    <link>https://api.hrt.hr/media/12/31/20241205-kronika-dana-35904724-20241205214501.mp3</link>
+    <description>Još je upitno hoće li se sutra u Saboru glasovati o novim ustavnim sucima. SDP traži da se glasuje samo o tome, ali ne i o inicijativi za premijerov opoziv. Vlada donijela odluku o isplati 80 eura svim umirovljenicima. Emmanuel Macron u televizijskom obraćanju naciji rekao da ostaje predsjednik do kraja mandata, a imenovanje novog premijera najavio idućih dana.Urednica: Mira Barić</description>
+    <pubDate>Thu, 05 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/12/31/20241205-kronika-dana-35904724-20241205214501.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.12. 2024-12-04</title>
     <link>https://api.hrt.hr/media/da/c5/20241204-kronika-dana-35900669-20241204213549.mp3</link>
     <description>Nakon strašnog otkrića dvoje mrtve djece, njihovi roditelji u istražnom zatvoru, treće dijete dobilo skrbnika. Oporba i vladajući dogovorili imena 10 ustavnih sudaca. U Francuskoj udružena desna i lijeva oporba srušile vladu premijera Barniera. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Ustavne krize vjerojatno neće biti, oporba i vladajući bliže su dogovoru o novim ustavnim sucima. Gruzijci prosvjeduju i petu večer zaredom, ponovno sukobi s policijom. Pomorac Zvonimir Franić dobio Vjesnikovu Plavu vrpcu - skokom u more spasio teško ozlijeđenog kolegu s trajekta Lastovo. Urednica: Sanja Cota</description>
     <pubDate>Mon, 02 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/ed/20241202-kronika-dana-35893376-20241202214014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.12. 2024-12-01</title>
-    <link>https://api.hrt.hr/media/4e/80/20241201-kronika-dana-35889856-20241201213554.mp3</link>
-    <description>Kandidati za predsjedničke izbore i danas prikupljali potpise. Četvrtu noć zaredom prosvjedi ispred gruzijskog parlamenta u Tbilisiju. Građani nezadovoljni premijerovom odlukom da zamrzne proces pristupanja zemlje Europskoj uniji. Kardiovaskularne bolesti vodeći su uzrok smrti u Hrvatskoj - od njih svake godine umire oko 20 tisuća ljudi. Urednica: Mira Barić</description>
-    <pubDate>Sun, 01 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4e/80/20241201-kronika-dana-35889856-20241201213554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
