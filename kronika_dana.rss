@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 05 Dec 2024 22:09:30 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 22:15:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.12. 2024-12-06</title>
+    <link>https://api.hrt.hr/media/2c/1d/20241206-kronika-dana-35908492-20241206214009.mp3</link>
+    <description>U Saboru je većina bila protiv opoziva premijera. O ustavnim sucima glasovat će se sutra. ruskih hibridnih napada poništeni rezultati predsjedničkih izbora u Rumunjskoj na kojima je u prvom krugu pobijedio proruski kandidat. Sutra se u Parizu otvara obnovljena katedrala Notre-Dame, moguć susret Zelenski -Trump. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 06 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/1d/20241206-kronika-dana-35908492-20241206214009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.12. 2024-12-05</title>
     <link>https://api.hrt.hr/media/12/31/20241205-kronika-dana-35904724-20241205214501.mp3</link>
     <description>Još je upitno hoće li se sutra u Saboru glasovati o novim ustavnim sucima. SDP traži da se glasuje samo o tome, ali ne i o inicijativi za premijerov opoziv. Vlada donijela odluku o isplati 80 eura svim umirovljenicima. Emmanuel Macron u televizijskom obraćanju naciji rekao da ostaje predsjednik do kraja mandata, a imenovanje novog premijera najavio idućih dana.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Kod Varaždina pronađena tijela dvoje dojenčadi. Bila su zakopana u dvorištu, roditelji su privedeni. U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada, glasovanje u petak. Zoran Milanović prvi Državnom izbornom povjerenstvu predao potpise za predsjedničku kandidaturu, Dragan Primorac učinit će to sutra. Južnokorejski predsjednik pokreće postupak ukidanja izvanrednog stanja koje je proglasio nekoliko sati prije, poštujući parlamentarno glasovanje protiv te mjere. Urednik: Silvio Šop</description>
     <pubDate>Tue, 03 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c3/f1/20241203-kronika-dana-35896736-20241203214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.12. 2024-12-02</title>
-    <link>https://api.hrt.hr/media/49/ed/20241202-kronika-dana-35893376-20241202214014.mp3</link>
-    <description>Ustavne krize vjerojatno neće biti, oporba i vladajući bliže su dogovoru o novim ustavnim sucima. Gruzijci prosvjeduju i petu večer zaredom, ponovno sukobi s policijom. Pomorac Zvonimir Franić dobio Vjesnikovu Plavu vrpcu - skokom u more spasio teško ozlijeđenog kolegu s trajekta Lastovo. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 02 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/ed/20241202-kronika-dana-35893376-20241202214014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
