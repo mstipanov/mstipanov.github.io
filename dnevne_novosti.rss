@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Dec 2024 14:43:51 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 15:13:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.12. 2024-12-06</title>
+    <link>https://api.hrt.hr/media/bd/2d/20241206-dnevne-novosti-35907384-20241206144008.mp3</link>
+    <description>O ustavnim sucima Sabor će glasovati sutra, danas glasovao o nepovjerenju premijeru Plenkoviću, no opoziv nije prošao. MOST-ov kandidat Miro Bulj, treći predsjednički kandidat koji je predao potpise Državnom izbornom povjerenstvu. Nakon Alepa, sirijski pobunjenici zauzeli i četvrti najveći grad u toj zemlji - Hamu. Urednica: Mira Barić</description>
+    <pubDate>Fri, 06 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/2d/20241206-dnevne-novosti-35907384-20241206144008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.12. 2024-12-05</title>
     <link>https://api.hrt.hr/media/f3/99/20241205-dnevne-novosti-35903403-20241205144001.mp3</link>
     <description>U ovom trenutku nije moguće sa sigurnošću reći hoće li se sutra u Saboru glasovati o izboru desetero ustavnih sudaca ili neće. Vlada i službeno donijela odluku o isplati 80 eura božićnice svim umirovljenicima. Nakon što mu je jučer izglasovano nepovjerenje, francuski premijer Michel Barnier i službeno dao ostavku. Cijena bitcoina prvi je put viša od sto tisuća dolara. Urednik: Silvio Šop</description>
