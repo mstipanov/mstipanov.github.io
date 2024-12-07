@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Dec 2024 07:11:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 06:50:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.12. 2024-12-07</title>
+    <link>https://api.hrt.hr/media/0b/87/20241207-jutarnja-kronika-35909024-20241207063050.mp3</link>
+    <description>Hrvatski bi sabor trebao glasovati o 10 ustavnih sudaca. Nakon više od pet godina od požara svoja vrata otvara obnovljena katedrala Notre-Dame, u Pariz dolazi 50-ak čelnika država ili vlada iz cijelog svijeta, među kojima Trump i Zelenski. U švicarskom Luzernu večeras dodjela Europske filmske nagrade. Urednica: Mira Barić</description>
+    <pubDate>Sat, 07 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0b/87/20241207-jutarnja-kronika-35909024-20241207063050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.12. 2024-12-06</title>
     <link>https://api.hrt.hr/media/35/be/20241206-jutarnja-kronika-35905348-20241206064005.mp3</link>
     <description>Još je upitno hoće li se u Saboru glasovati o novim ustavnim sucima. SDP traži da se glasuje samo o tome, ali ne i o inicijativi za premijerov opoziv. Dva snažna potresa u američkoj državi Kaliforniji - prvi 7, drugi 4,2 prema Richteru. Blagdan je svetog Nikole, zaštitnika pomoraca, posebno omiljenog djeci. U splitskom HNK-u premijera predstave "Bolna djeca u cvijeću", u ZKM-u nove postave mjuzikla "U koga se uvrglo ovo dijete". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Kod Varaždina pronađena tijela dvoje dojenčadi. Bila su zakopana u dvorištu, roditelji su privedeni. U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada, glasovanje u petak. Zoran Milanović prvi Državnom izbornom povjerenstvu predao potpise za predsjedničku kandidaturu, Dragan Primorac učinit će to sutra. Južnokorejski predsjednik pokreće postupak ukidanja izvanrednog stanja koje je proglasio nekoliko sati prije, poštujući parlamentarno glasovanje protiv te mjere. Urednik: Silvio Šop</description>
     <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/05/d4/20241204-jutarnja-kronika-35897274-20241204063547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.12. 2024-12-03</title>
-    <link>https://api.hrt.hr/media/04/dc/20241203-jutarnja-kronika-35893889-20241203063515.mp3</link>
-    <description>U Saboru rasprava o opozivu premijera Plenkovića. Predlagatelj je SDP. Oporba i vladajući bliže dogovoru o novim ustavnim sucima. Zoran Milanović prvi predaje kandidaturu za novi predsjednički mandat. Dragan Primorac u DIP-u sutra. U Gruziji prosvjedi i novi sukobi s policijom. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/dc/20241203-jutarnja-kronika-35893889-20241203063515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
