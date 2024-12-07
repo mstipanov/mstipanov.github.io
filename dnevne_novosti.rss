@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Dec 2024 15:13:57 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 14:53:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.12. 2024-12-07</title>
+    <link>https://api.hrt.hr/media/04/a0/20241207-dnevne-novosti-35910002-20241207143530.mp3</link>
+    <description>Desetero ustavnih sudaca prisegnulo pred predsjednikom Milanovićem u njegovu uredu na Pantovčaku. Pet godina nakon katastrofalnog požara, otvara se katedrala Notre Dame. U Pariz stiže pedesetak šefova država ili vlada, među kojima i Donald Trump. Nova ministrica zdravstva Irena Hrstić ekskluzivno za Hrvatski radio o prvim potezima na čelu Ministarstva. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 07 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/04/a0/20241207-dnevne-novosti-35910002-20241207143530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.12. 2024-12-06</title>
     <link>https://api.hrt.hr/media/bd/2d/20241206-dnevne-novosti-35907384-20241206144008.mp3</link>
     <description>O ustavnim sucima Sabor će glasovati sutra, danas glasovao o nepovjerenju premijeru Plenkoviću, no opoziv nije prošao. MOST-ov kandidat Miro Bulj, treći predsjednički kandidat koji je predao potpise Državnom izbornom povjerenstvu. Nakon Alepa, sirijski pobunjenici zauzeli i četvrti najveći grad u toj zemlji - Hamu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ispitani roditelji dvoje djece čija su tijela pronađena jučer u dvorištu kuće kod Varaždina, Državno odvjetništvo za njih je zatražilo istražni zatvor. HDZ i SDP dogovorili deset kandidata za suce Ustavnog suda. HDZ-ov predsjednički kandidat Dragan Primorac Državnom izbornom povjerenstvu predao 109 tisuća 505 potpisa. Svi umirovljenici, bez obzira na iznos mirovine, dobit će božićnicu od 80 eura. Urednik: Silvio Šop</description>
     <pubDate>Wed, 04 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0e/cf/20241204-dnevne-novosti-35899488-20241204144048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.12. 2024-12-03</title>
-    <link>https://api.hrt.hr/media/c0/8f/20241203-dnevne-novosti-35895817-20241203144017.mp3</link>
-    <description>U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada. Zoran Milanović predao kandidaturu za predsjednika države, kaže da će se suprotstaviti tome da jedan čovjek i jedna stranka Â´drmajuÂ´ Hrvatskom. Direktor zagrebačke Gradske plinare najavio da odlazi s dužnosti. Sindikati sumnjaju da ne želi snositi odgovornost za propuste Grada. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 03 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c0/8f/20241203-dnevne-novosti-35895817-20241203144017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
