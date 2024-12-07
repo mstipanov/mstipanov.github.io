@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Dec 2024 22:15:40 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 21:55:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.12. 2024-12-07</title>
+    <link>https://api.hrt.hr/media/4e/85/20241207-kronika-dana-35911205-20241207213531.mp3</link>
+    <description>Na dužnost prisegnulo desetero ustavnih sudaca. Sirijski pobunjenici ulaze u četvrti Damaska, najavljuje se i pad režima Bašara al Asada. Svjetski državnici u Parizu na otvorenju obnovljene katedrale Notre Dame. Sastali se predsjednici Trump i Zelenski. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 07 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4e/85/20241207-kronika-dana-35911205-20241207213531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.12. 2024-12-06</title>
     <link>https://api.hrt.hr/media/2c/1d/20241206-kronika-dana-35908492-20241206214009.mp3</link>
     <description>U Saboru je većina bila protiv opoziva premijera. O ustavnim sucima glasovat će se sutra. ruskih hibridnih napada poništeni rezultati predsjedničkih izbora u Rumunjskoj na kojima je u prvom krugu pobijedio proruski kandidat. Sutra se u Parizu otvara obnovljena katedrala Notre-Dame, moguć susret Zelenski -Trump. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nakon strašnog otkrića dvoje mrtve djece, njihovi roditelji u istražnom zatvoru, treće dijete dobilo skrbnika. Oporba i vladajući dogovorili imena 10 ustavnih sudaca. U Francuskoj udružena desna i lijeva oporba srušile vladu premijera Barniera. Urednica: Sanja Cota</description>
     <pubDate>Wed, 04 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/c5/20241204-kronika-dana-35900669-20241204213549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.12. 2024-12-03</title>
-    <link>https://api.hrt.hr/media/c3/f1/20241203-kronika-dana-35896736-20241203214018.mp3</link>
-    <description>Kod Varaždina pronađena tijela dvoje dojenčadi. Bila su zakopana u dvorištu, roditelji su privedeni. U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada, glasovanje u petak. Zoran Milanović prvi Državnom izbornom povjerenstvu predao potpise za predsjedničku kandidaturu, Dragan Primorac učinit će to sutra. Južnokorejski predsjednik pokreće postupak ukidanja izvanrednog stanja koje je proglasio nekoliko sati prije, poštujući parlamentarno glasovanje protiv te mjere. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 03 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/f1/20241203-kronika-dana-35896736-20241203214018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
