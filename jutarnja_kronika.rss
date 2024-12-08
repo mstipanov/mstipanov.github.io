@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 07 Dec 2024 06:50:20 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 06:56:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.12. 2024-12-08</title>
+    <link>https://api.hrt.hr/media/f7/ae/20241208-jutarnja-kronika-35911777-20241208063540.mp3</link>
+    <description>Sirijski pobunjenici ušli u glavni grad Damask. Predsjednik Bašar al-Asad napustio zemlju.prvi radni dan ustavnih sudaca koji su jučer prisegnuli pred predsjednikom države. Sinoć svečano otvorena obnovljena pariška katedrala Notre-Dame. Nakon Zlatne palme u Kanu, Nebojša Slijepčević i njegov "Čovjek koji nije mogao šutjeti" osvojio i glavnu europsku filmsku nagradu za kratki film. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 08 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f7/ae/20241208-jutarnja-kronika-35911777-20241208063540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.12. 2024-12-07</title>
     <link>https://api.hrt.hr/media/0b/87/20241207-jutarnja-kronika-35909024-20241207063050.mp3</link>
     <description>Hrvatski bi sabor trebao glasovati o 10 ustavnih sudaca. Nakon više od pet godina od požara svoja vrata otvara obnovljena katedrala Notre-Dame, u Pariz dolazi 50-ak čelnika država ili vlada iz cijelog svijeta, među kojima Trump i Zelenski. U švicarskom Luzernu večeras dodjela Europske filmske nagrade. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U Saboru rasprava o izboru 10 sudaca Ustavnog suda. Vlada će svim umirovljenicima isplatiti 80 eura božićnice. Nakon strašnog otkrića o dvoje mrtve djece, njihovi roditelji u istražnom zatvoru, treće dijete dobilo skrbnika. Francuskoj srušena vlada. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 05 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/07/20241205-jutarnja-kronika-35901222-20241205063551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.12. 2024-12-04</title>
-    <link>https://api.hrt.hr/media/05/d4/20241204-jutarnja-kronika-35897274-20241204063547.mp3</link>
-    <description>Kod Varaždina pronađena tijela dvoje dojenčadi. Bila su zakopana u dvorištu, roditelji su privedeni. U Saboru rasprava o SDP-ovoj inicijativi da se opozovu premijer i Vlada, glasovanje u petak. Zoran Milanović prvi Državnom izbornom povjerenstvu predao potpise za predsjedničku kandidaturu, Dragan Primorac učinit će to sutra. Južnokorejski predsjednik pokreće postupak ukidanja izvanrednog stanja koje je proglasio nekoliko sati prije, poštujući parlamentarno glasovanje protiv te mjere. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/d4/20241204-jutarnja-kronika-35897274-20241204063547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
