@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 07 Dec 2024 21:55:09 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 21:59:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.12. 2024-12-08</title>
+    <link>https://api.hrt.hr/media/80/aa/20241208-kronika-dana-35913652-20241208213543.mp3</link>
+    <description>Sirijski pobunjenici ušli u glavni grad Damask, sada bivši predsjednik Bašar al-Asad pobjegao u Moskvu. U Zagrebu su prosvjedovali radnici Hrvatske pošte. Traže veće plaće, bolje radne uvjete i isplatu 1200 eura svim radnicima, ne samo dijelu, kako je planirano. Stigla najavljena promjena vremena, na većini cesta u Lici i Gorskom kotaru zimski uvjeti, jaka bura prekinula pomorski promet. Urednica: Mira Barić</description>
+    <pubDate>Sun, 08 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/80/aa/20241208-kronika-dana-35913652-20241208213543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.12. 2024-12-07</title>
     <link>https://api.hrt.hr/media/4e/85/20241207-kronika-dana-35911205-20241207213531.mp3</link>
     <description>Na dužnost prisegnulo desetero ustavnih sudaca. Sirijski pobunjenici ulaze u četvrti Damaska, najavljuje se i pad režima Bašara al Asada. Svjetski državnici u Parizu na otvorenju obnovljene katedrale Notre Dame. Sastali se predsjednici Trump i Zelenski. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Još je upitno hoće li se sutra u Saboru glasovati o novim ustavnim sucima. SDP traži da se glasuje samo o tome, ali ne i o inicijativi za premijerov opoziv. Vlada donijela odluku o isplati 80 eura svim umirovljenicima. Emmanuel Macron u televizijskom obraćanju naciji rekao da ostaje predsjednik do kraja mandata, a imenovanje novog premijera najavio idućih dana.Urednica: Mira Barić</description>
     <pubDate>Thu, 05 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/31/20241205-kronika-dana-35904724-20241205214501.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.12. 2024-12-04</title>
-    <link>https://api.hrt.hr/media/da/c5/20241204-kronika-dana-35900669-20241204213549.mp3</link>
-    <description>Nakon strašnog otkrića dvoje mrtve djece, njihovi roditelji u istražnom zatvoru, treće dijete dobilo skrbnika. Oporba i vladajući dogovorili imena 10 ustavnih sudaca. U Francuskoj udružena desna i lijeva oporba srušile vladu premijera Barniera. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 04 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/da/c5/20241204-kronika-dana-35900669-20241204213549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
