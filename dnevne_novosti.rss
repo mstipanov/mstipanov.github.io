@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 14:33:22 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 15:03:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.12. 2024-12-09</title>
+    <link>https://api.hrt.hr/media/b8/a7/20241209-dnevne-novosti-35916016-20241209143546.mp3</link>
+    <description>Bašar al-Asad dobio azil u Moskvi, pobunjenici napreduju prema gradovima na Sredozemnom moru. Predsjednik Milanović traži ostavke četvero sudaca Ustavnoga suda, to što su sami sebi odlučili produljiti mandat nazvao nezapamćenim udarom na ustavni poredak. Marija Selak Raspudić predala potpise za kandidaturu na predsjedničkim izborima. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 09 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b8/a7/20241209-dnevne-novosti-35916016-20241209143546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.12. 2024-12-08</title>
     <link>https://api.hrt.hr/media/de/da/20241208-dnevne-novosti-35912834-20241208144542.mp3</link>
     <description>Sirijski pobunjenici ušli u glavni grad Damask. Predsjednik Bašar al-Asad pobjegao, ne zna se gdje je. U Siriji je stotinjak hrvatskih državljana, desetak ih zatražilo izlazak iz zemlje. U Zagrebu prosvjedovali radnici pošte iz cijele zemlje. Urednica: Sanja Cota</description>
