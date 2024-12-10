@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 07:01:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 07:07:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.12. 2024-12-10</title>
+    <link>https://api.hrt.hr/media/e8/6e/20241210-jutarnja-kronika-35917683-20241210063527.mp3</link>
+    <description>Zadnji je dan za predaju barem 10 tisuća potpisa Državnom izbornom povjerenstvu za predsjedničke izbore. Lista kandidata bit će objavljena sutra. Ne stišavaju se burne reakcije nakon priznanja sudaca Ustavnog suda da su donijeli odluku da sami sebi produlje mandat dok Sabor ne izabere desetero novih. Nakon pada Asadova režima većina zemalja Europske unije, uključujući i Hrvatsku, više ne prima zahtjeve za azili sirijskih državljana. Prosječna mjesečna plaća u Zagrebu za rujan ove godine iznosila je tisuću 515 eura. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/6e/20241210-jutarnja-kronika-35917683-20241210063527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.12. 2024-12-09</title>
     <link>https://api.hrt.hr/media/b2/d2/20241209-jutarnja-kronika-35914221-20241209064048.mp3</link>
     <description>Obitelj Asad pobjegla u Moskvu. Pobunjenici preuzeli vlast u Siriji. Na zahtjev Rusije danas hitna sjednica Vijeća sigurnosti UN-a. U Siriji je stotinjak hrvatskih državljana, desetak ih zatražilo izlazak iz zemlje. Ministarstvo vanjskih i europskih poslova traži način za njihovu repatrijaciju. Zbog snijega i jakoga vjetra, za kamione s prikolicama i tegljače s poluprikolicama zatvorena autocesta iz unutrašnjosti prema Rijeci. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Hrvatski bi sabor trebao glasovati o 10 ustavnih sudaca. Nakon više od pet godina od požara svoja vrata otvara obnovljena katedrala Notre-Dame, u Pariz dolazi 50-ak čelnika država ili vlada iz cijelog svijeta, među kojima Trump i Zelenski. U švicarskom Luzernu večeras dodjela Europske filmske nagrade. Urednica: Mira Barić</description>
     <pubDate>Sat, 07 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0b/87/20241207-jutarnja-kronika-35909024-20241207063050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.12. 2024-12-06</title>
-    <link>https://api.hrt.hr/media/35/be/20241206-jutarnja-kronika-35905348-20241206064005.mp3</link>
-    <description>Još je upitno hoće li se u Saboru glasovati o novim ustavnim sucima. SDP traži da se glasuje samo o tome, ali ne i o inicijativi za premijerov opoziv. Dva snažna potresa u američkoj državi Kaliforniji - prvi 7, drugi 4,2 prema Richteru. Blagdan je svetog Nikole, zaštitnika pomoraca, posebno omiljenog djeci. U splitskom HNK-u premijera predstave "Bolna djeca u cvijeću", u ZKM-u nove postave mjuzikla "U koga se uvrglo ovo dijete". Urednik: Silvio Šop</description>
-    <pubDate>Fri, 06 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/35/be/20241206-jutarnja-kronika-35905348-20241206064005.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
