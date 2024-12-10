@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 15:03:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 15:08:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.12. 2024-12-10</title>
+    <link>https://api.hrt.hr/media/cb/f7/20241210-dnevne-novosti-35919657-20241210143538.mp3</link>
+    <description>Još samo danas kandidati za predsjednika Republike mogu Državom izbornom povjerenstvu predati svoje kandidature s najmanje 10 tisuća potpisa. U tvornici za preradu ribe na Kukuljanovu kod Rijeke traje očevid nakon što se jučer radnica otrovala plinom. Zbog snijega dio Like još bez struje. Izraelska vojna akcija u Siriji. Dinamo večeras u Ligi prvaka dočekuje Celtic. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 10 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cb/f7/20241210-dnevne-novosti-35919657-20241210143538.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.12. 2024-12-09</title>
     <link>https://api.hrt.hr/media/b8/a7/20241209-dnevne-novosti-35916016-20241209143546.mp3</link>
     <description>Bašar al-Asad dobio azil u Moskvi, pobunjenici napreduju prema gradovima na Sredozemnom moru. Predsjednik Milanović traži ostavke četvero sudaca Ustavnoga suda, to što su sami sebi odlučili produljiti mandat nazvao nezapamćenim udarom na ustavni poredak. Marija Selak Raspudić predala potpise za kandidaturu na predsjedničkim izborima. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Desetero ustavnih sudaca prisegnulo pred predsjednikom Milanovićem u njegovu uredu na Pantovčaku. Pet godina nakon katastrofalnog požara, otvara se katedrala Notre Dame. U Pariz stiže pedesetak šefova država ili vlada, među kojima i Donald Trump. Nova ministrica zdravstva Irena Hrstić ekskluzivno za Hrvatski radio o prvim potezima na čelu Ministarstva. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 07 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/a0/20241207-dnevne-novosti-35910002-20241207143530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.12. 2024-12-06</title>
-    <link>https://api.hrt.hr/media/bd/2d/20241206-dnevne-novosti-35907384-20241206144008.mp3</link>
-    <description>O ustavnim sucima Sabor će glasovati sutra, danas glasovao o nepovjerenju premijeru Plenkoviću, no opoziv nije prošao. MOST-ov kandidat Miro Bulj, treći predsjednički kandidat koji je predao potpise Državnom izbornom povjerenstvu. Nakon Alepa, sirijski pobunjenici zauzeli i četvrti najveći grad u toj zemlji - Hamu. Urednica: Mira Barić</description>
-    <pubDate>Fri, 06 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bd/2d/20241206-dnevne-novosti-35907384-20241206144008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
