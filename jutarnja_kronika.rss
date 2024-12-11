@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 10 Dec 2024 07:07:24 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 06:41:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.12. 2024-12-11</title>
+    <link>https://api.hrt.hr/media/89/d9/20241211-jutarnja-kronika-35921211-20241211063542.mp3</link>
+    <description>U ponoć istekao rok za predaju kandidatura, imamo 10 potencijalnih predsjedničkih kandidata. Prijedlog poreza na nekretnine u Saboru još jedanput izazvao burne reakcije oporbe. Sirija ima novog premijera prijelazne vlade. SPORT: U utakmici šestog kola Lige prvaka Dinamo na Maksimiru remizirao sa Celticom 0:0. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/89/d9/20241211-jutarnja-kronika-35921211-20241211063542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.12. 2024-12-10</title>
     <link>https://api.hrt.hr/media/e8/6e/20241210-jutarnja-kronika-35917683-20241210063527.mp3</link>
     <description>Zadnji je dan za predaju barem 10 tisuća potpisa Državnom izbornom povjerenstvu za predsjedničke izbore. Lista kandidata bit će objavljena sutra. Ne stišavaju se burne reakcije nakon priznanja sudaca Ustavnog suda da su donijeli odluku da sami sebi produlje mandat dok Sabor ne izabere desetero novih. Nakon pada Asadova režima većina zemalja Europske unije, uključujući i Hrvatsku, više ne prima zahtjeve za azili sirijskih državljana. Prosječna mjesečna plaća u Zagrebu za rujan ove godine iznosila je tisuću 515 eura. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Sirijski pobunjenici ušli u glavni grad Damask. Predsjednik Bašar al-Asad napustio zemlju.prvi radni dan ustavnih sudaca koji su jučer prisegnuli pred predsjednikom države. Sinoć svečano otvorena obnovljena pariška katedrala Notre-Dame. Nakon Zlatne palme u Kanu, Nebojša Slijepčević i njegov "Čovjek koji nije mogao šutjeti" osvojio i glavnu europsku filmsku nagradu za kratki film. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 08 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f7/ae/20241208-jutarnja-kronika-35911777-20241208063540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.12. 2024-12-07</title>
-    <link>https://api.hrt.hr/media/0b/87/20241207-jutarnja-kronika-35909024-20241207063050.mp3</link>
-    <description>Hrvatski bi sabor trebao glasovati o 10 ustavnih sudaca. Nakon više od pet godina od požara svoja vrata otvara obnovljena katedrala Notre-Dame, u Pariz dolazi 50-ak čelnika država ili vlada iz cijelog svijeta, među kojima Trump i Zelenski. U švicarskom Luzernu večeras dodjela Europske filmske nagrade. Urednica: Mira Barić</description>
-    <pubDate>Sat, 07 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0b/87/20241207-jutarnja-kronika-35909024-20241207063050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
