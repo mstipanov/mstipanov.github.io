@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 12 Dec 2024 14:46:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 15:16:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.12. 2024-12-12</title>
+    <link>https://api.hrt.hr/media/5e/c6/20241212-dnevne-novosti-35927064-20241212144105.mp3</link>
+    <description>Predstavljene nove demografske mjere. Na 30. obljetnicu vojno-redarstvene operacije "Oluja" bit će priređen veliki vojni mimohod, potvrdio ministar obrane. Rumunjska i Bugarska s Novom godinom ulaze u šengenski prostor. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 12 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5e/c6/20241212-dnevne-novosti-35927064-20241212144105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.12. 2024-12-11</title>
     <link>https://api.hrt.hr/media/dc/74/20241211-dnevne-novosti-35923516-20241211152544.mp3</link>
     <description>Državno izborno povjerenstvo objavit će u 16 sati imena kandidata koji ulaze u utrku za predsjednika Republike. Nevrijeme praćeno jakom kišom zahvatilo dubrovačko područje. U Dubrovniku pala tuča i zabijelila Stradun.Pobunjenici osvojili i najveći grad na istoku Sirije, cijena kruha u toj zemlji porasla za 900 posto. Urednica: Mira Barić.</description>
