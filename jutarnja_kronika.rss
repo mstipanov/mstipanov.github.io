@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 12 Dec 2024 06:45:15 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 06:49:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.12. 2024-12-13</title>
+    <link>https://api.hrt.hr/media/2e/6a/20241213-jutarnja-kronika-35928942-20241213063014.mp3</link>
+    <description>Predstavljen je paket demografskih mjera, koji bi trebao biti početak borbe protiv negativnoga prirodnog prirasta. Na glavnom zagrebačkom trgu u podne će se održati prosvjed umirovljenika protiv siromaštva, korupcije i kriminala. Posljednji je dan jesenskog zasjedanja Sabora, zastupnici odlaze na odmor do sredine siječnja. Od jučer u kinima europski film godine "Emilia Perez". Urednik: Silvio Šop</description>
+    <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2e/6a/20241213-jutarnja-kronika-35928942-20241213063014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.12. 2024-12-12</title>
     <link>https://api.hrt.hr/media/d2/b2/20241212-jutarnja-kronika-35925100-20241212064048.mp3</link>
     <description>Dugoiščekivane nove demografske mjere bit će predstavljene na prvoj sjednici Vijeća za demografsku revitalizaciju. Roditelji osumnjičeni za smrt svoje dvoje djece uskoro bi mogli na slobodu jer im je sud prihvatio dio žalbe na istražni zatvor. Srbijanski predsjednik Vučić najavio je da će danas objaviti sve dokumente Tužiteljstva o padu nadstrešnice u Novom Sadu u kojem je poginulo 15 ljudi. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Zadnji je dan za predaju barem 10 tisuća potpisa Državnom izbornom povjerenstvu za predsjedničke izbore. Lista kandidata bit će objavljena sutra. Ne stišavaju se burne reakcije nakon priznanja sudaca Ustavnog suda da su donijeli odluku da sami sebi produlje mandat dok Sabor ne izabere desetero novih. Nakon pada Asadova režima većina zemalja Europske unije, uključujući i Hrvatsku, više ne prima zahtjeve za azili sirijskih državljana. Prosječna mjesečna plaća u Zagrebu za rujan ove godine iznosila je tisuću 515 eura. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/6e/20241210-jutarnja-kronika-35917683-20241210063527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.12. 2024-12-09</title>
-    <link>https://api.hrt.hr/media/b2/d2/20241209-jutarnja-kronika-35914221-20241209064048.mp3</link>
-    <description>Obitelj Asad pobjegla u Moskvu. Pobunjenici preuzeli vlast u Siriji. Na zahtjev Rusije danas hitna sjednica Vijeća sigurnosti UN-a. U Siriji je stotinjak hrvatskih državljana, desetak ih zatražilo izlazak iz zemlje. Ministarstvo vanjskih i europskih poslova traži način za njihovu repatrijaciju. Zbog snijega i jakoga vjetra, za kamione s prikolicama i tegljače s poluprikolicama zatvorena autocesta iz unutrašnjosti prema Rijeci. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/d2/20241209-jutarnja-kronika-35914221-20241209064048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
