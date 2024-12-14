@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Dec 2024 14:50:50 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 14:54:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.12. 2024-12-14</title>
+    <link>https://api.hrt.hr/media/40/7e/20241214-dnevne-novosti-35933548-20241214143524.mp3</link>
+    <description>U Zagrebu održan adventski prosvjed učitelja, nastavnika i profesora - protive se predloženom ocjenjivanju zaposlenika i, kako kažu, nepravednim koeficijentima za obračun plaća. Gruzijski parlament izabrao novog predsjednika države, bivšeg nogometaša i jedinog kandidata Mikheila Kavelashvilija, koji je dobio potporu proruske vladajuće stranke Gruzijski san. Južnokorejski parlament izglasovao opoziv predsjednika Yun Suk Yeola, koji je prošli tjedan pokušao uvesti izvanredno stanje u zemlji. Urednica: Mira Barić</description>
+    <pubDate>Sat, 14 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/7e/20241214-dnevne-novosti-35933548-20241214143524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.12. 2024-12-13</title>
     <link>https://api.hrt.hr/media/68/82/20241213-dnevne-novosti-35930935-20241213144022.mp3</link>
     <description>Sabor odlazi na jednomjesečnu zimsku stanku. Hrvatska narodna banka očekuje da će BDP ove godine porasti za 3,7 posto. Nekoliko stotina umirovljenika prosvjedovalo u središtu Zagreba. Francuski predsjednik Macron za novog premijera imenovao Francoisa Bayroua. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Državno izborno povjerenstvo objavit će u 16 sati imena kandidata koji ulaze u utrku za predsjednika Republike. Nevrijeme praćeno jakom kišom zahvatilo dubrovačko područje. U Dubrovniku pala tuča i zabijelila Stradun.Pobunjenici osvojili i najveći grad na istoku Sirije, cijena kruha u toj zemlji porasla za 900 posto. Urednica: Mira Barić.</description>
     <pubDate>Wed, 11 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dc/74/20241211-dnevne-novosti-35923516-20241211152544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.12. 2024-12-10</title>
-    <link>https://api.hrt.hr/media/cb/f7/20241210-dnevne-novosti-35919657-20241210143538.mp3</link>
-    <description>Još samo danas kandidati za predsjednika Republike mogu Državom izbornom povjerenstvu predati svoje kandidature s najmanje 10 tisuća potpisa. U tvornici za preradu ribe na Kukuljanovu kod Rijeke traje očevid nakon što se jučer radnica otrovala plinom. Zbog snijega dio Like još bez struje. Izraelska vojna akcija u Siriji. Dinamo večeras u Ligi prvaka dočekuje Celtic. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 10 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cb/f7/20241210-dnevne-novosti-35919657-20241210143538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
