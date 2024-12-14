@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Dec 2024 21:51:59 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 21:55:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.12. 2024-12-14</title>
+    <link>https://api.hrt.hr/media/26/2a/20241214-kronika-dana-35934233-20241214213524.mp3</link>
+    <description>Zbog nezadovoljstva novim Zakonom o plaćama i sustavom ocjenjivanja, koji bi u javnim službama trebao stupiti na snagu 1. siječnja, prosvjetari u Zagrebu održali prosvjed. Oglasilo se Ministarstvo znanosti i obrazovanja: "Nema nijednog racionalnog razloga za prosvjed, plaće učitelja rasle su za više od 60 posto". U pucnjavi na sjeveru Francuske ubijeno pet osoba. Održan je 11. Božićni bal lipicanaca.Urednik: Silvio Šop</description>
+    <pubDate>Sat, 14 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/26/2a/20241214-kronika-dana-35934233-20241214213524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.12. 2024-12-13</title>
     <link>https://api.hrt.hr/media/c9/ab/20241213-kronika-dana-35931999-20241213214021.mp3</link>
     <description>I trećeg dana predsjedničke kampanje glavna tema - sastanak Mile Kekina s Nikicom Jelavićem. Blok umirovljenici zajedno organizirao prosvjed u središtu Zagreba; prosvjedovali protiv siromaštva, korupcije i kriminala. Emmanuel Macron imenovao novog predsjednika vlade - FranĂ§ois Bayrou četvrti francuski premijer ove godine. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U borbi za mjesto predsjednika Hrvatske ostalo je osam kandidata. Pobunjenici zapalili grobnicu Hafeza al-Assada, oca odbjeglog sirijskog diktatora. Urednica: Sanja Cota</description>
     <pubDate>Wed, 11 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/86/e9/20241211-kronika-dana-35924530-20241211214048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.12. 2024-12-10</title>
-    <link>https://api.hrt.hr/media/b9/03/20241210-kronika-dana-35920612-20241210214043.mp3</link>
-    <description>U ponoć istječe rok, do sada imamo 10 potencijalnih predsjedničkih kandidata. Sirija ima novog premijera prijelazne vlade. Bojnik Nikola Vlašić najbolji u izazovu izdržljivosti među dvjesto NATO-vih vojnika i policajaca, utrka održana u bazi u Bagdadu. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 10 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b9/03/20241210-kronika-dana-35920612-20241210214043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
