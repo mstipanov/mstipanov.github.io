@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Dec 2024 06:57:24 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 07:27:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.12. 2024-12-15</title>
+    <link>https://api.hrt.hr/media/6e/d1/20241215-jutarnja-kronika-35934778-20241215070103.mp3</link>
+    <description>Resorno ministarstvo poručilo da nema nijednog razloga za jučerašnji prosvjed triju sindikata znanosti i obrazovanja jer su plaće učitelja u mandatu ove Vlade porasle više od 60 posto.Sjedinjene Države uspostavile kontakt sa sirijskim pobunjenicima koji su svrgnuli Bašara al-Asada. Tvrde kako žele pomoći da Sirija postane demokratska i uređena država.Urednica Mira Barić</description>
+    <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6e/d1/20241215-jutarnja-kronika-35934778-20241215070103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.12. 2024-12-14</title>
     <link>https://api.hrt.hr/media/91/f2/20241214-jutarnja-kronika-35932590-20241214063521.mp3</link>
     <description>Na glavnome zagrebačkom trgu u 14 sati prosvjed nastavnika nezadovoljnih koeficijentima i uvođenjem ocjenjivanja zaposlenika. Hrvatska zaustavila Crnoj Gori zatvaranje poglavlja o vanjskoj sigurnosnoj i obrambenoj politici u sklopu pristupanja Europskoj uniji. Muzej suvremene umjetnosti slavi 70-i rođendan. Urednica: Marija Gerbec Njavro</description>
