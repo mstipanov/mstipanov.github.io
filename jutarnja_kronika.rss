@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 06:53:26 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 06:57:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Dugoiščekivane nove demografske mjere bit će predstavljene na prvoj sjednici Vijeća za demografsku revitalizaciju. Roditelji osumnjičeni za smrt svoje dvoje djece uskoro bi mogli na slobodu jer im je sud prihvatio dio žalbe na istražni zatvor. Srbijanski predsjednik Vučić najavio je da će danas objaviti sve dokumente Tužiteljstva o padu nadstrešnice u Novom Sadu u kojem je poginulo 15 ljudi. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 12 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/b2/20241212-jutarnja-kronika-35925100-20241212064048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 11.12. 2024-12-11</title>
-    <link>https://api.hrt.hr/media/89/d9/20241211-jutarnja-kronika-35921211-20241211063542.mp3</link>
-    <description>U ponoć istekao rok za predaju kandidatura, imamo 10 potencijalnih predsjedničkih kandidata. Prijedlog poreza na nekretnine u Saboru još jedanput izazvao burne reakcije oporbe. Sirija ima novog premijera prijelazne vlade. SPORT: U utakmici šestog kola Lige prvaka Dinamo na Maksimiru remizirao sa Celticom 0:0. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/89/d9/20241211-jutarnja-kronika-35921211-20241211063542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
