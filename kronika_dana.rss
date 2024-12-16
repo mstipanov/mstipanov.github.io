@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Dec 2024 22:00:01 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 22:05:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.12. 2024-12-16</title>
+    <link>https://api.hrt.hr/media/ed/d5/20241216-kronika-dana-35939576-20241216214551.mp3</link>
+    <description>Mario Mamić priznao da je izvlačio novac iz Dinama.Pala njemačka vlada, izvanredni izbori u veljači.Trump izjavio kako Putin nikada ne bi ušao u rat da je on bio predsjednik. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 16 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ed/d5/20241216-kronika-dana-35939576-20241216214551.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.12. 2024-12-15</title>
     <link>https://api.hrt.hr/media/60/ee/20241215-kronika-dana-35936379-20241215214025.mp3</link>
     <description>Stotine ljudi usmrtio je ciklon koji je pogodio francusko otočje MAJOT u Indijskom oceanu. Europska unija neće ukinuti sankcije Siriji dok nova vlast ne osigura prava manjinama i ženama.
@@ -32,14 +40,6 @@ Kampanja za predsjedničke izbore u punom je jeku. Raspravljalo se tko je orao, 
     <description>I trećeg dana predsjedničke kampanje glavna tema - sastanak Mile Kekina s Nikicom Jelavićem. Blok umirovljenici zajedno organizirao prosvjed u središtu Zagreba; prosvjedovali protiv siromaštva, korupcije i kriminala. Emmanuel Macron imenovao novog predsjednika vlade - FranĂ§ois Bayrou četvrti francuski premijer ove godine. Urednica: Mira Barić</description>
     <pubDate>Fri, 13 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/ab/20241213-kronika-dana-35931999-20241213214021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.12. 2024-12-12</title>
-    <link>https://api.hrt.hr/media/23/22/20241212-kronika-dana-35928351-20241212214010.mp3</link>
-    <description>Predstavljen paket demografskih mjera za koje će država u idućoj godini izdvojiti 685 milijuna eura. 73-godišnji muškarac poginuo kada je na njega pala betonska krovna konstrukcija hale u izgradnji u industrijskoj zoni Podi kod Šibenika. Američki časopis Time osobom godine proglasio je Donalda Trumpa, koji je drugi put izabran za predsjednika SAD-a. Urednica: Mira Barić</description>
-    <pubDate>Thu, 12 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/23/22/20241212-kronika-dana-35928351-20241212214010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
