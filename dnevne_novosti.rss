@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 18 Dec 2024 14:41:31 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 15:11:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.12. 2024-12-18</title>
+    <link>https://api.hrt.hr/media/6a/91/20241218-dnevne-novosti-35945641-20241218144520.mp3</link>
+    <description>Dok američki veleposlanik u BiH ponovno optužuje predstavnike Hrvata da potkopavaju projekt Južne interkonekcije, predsjednik Milanović upozorava na gaženje hrvatskih interesa u toj zemlji. U Bruxellesu sastanak čelnika Europske unije i zapadnog Balkana. Mladi Uzbekistanac priznao ubojstvo ruskoga generala u Moskvi za obećanu nagradu od sto tisuća dolara i boravište u nekoj europskoj zemlji. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 18 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6a/91/20241218-dnevne-novosti-35945641-20241218144520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.12. 2024-12-17</title>
     <link>https://api.hrt.hr/media/31/32/20241217-dnevne-novosti-35942013-20241217144059.mp3</link>
     <description>Ukrajina potvrdila da stoji iza ubojstva ruskoga generala u Moskvi. Rusija najavila osvetu. Država vratila kontrolni paket dionica u kutinskoj Petrokemiji. Ponovo plin u tvornici za preradu ribe na Kukuljanovu kod Rijeke. Zatvorena je do daljnjega. U Dnevnim novostima ekskluzivno o obnovi zagrebačke katedrale. Urednik: Grgo Mrvica</description>
