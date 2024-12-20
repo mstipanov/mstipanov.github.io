@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Dec 2024 06:44:12 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 06:48:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.12. 2024-12-20</title>
+    <link>https://api.hrt.hr/media/cf/1b/20241220-jutarnja-kronika-35952287-20241220063533.mp3</link>
+    <description>Potpora Ukrajini na sastanku Europskoga vijeća u Briselu. Predsjednik Zelenski poručio da Putin neće stati na njegovoj zemlji. Počinje isplata božićnog dodatka za više od milijun i dvjesto tisuća umirovljenika. Mario Mamić mora Dinamu isplatiti dva milijuna eura. Dio je to presude prema kojoj je osuđen na godinu i četiri mjeseca zatvora nakon što je priznao krivnju za izvlačenje novca iz Dinama. 20 godina zatvora dobio Francuz koji je godinama drogirao suprugu i dovodio muškarce da je siluju. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cf/1b/20241220-jutarnja-kronika-35952287-20241220063533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.12. 2024-12-19</title>
     <link>https://api.hrt.hr/media/7b/0a/20241219-jutarnja-kronika-35947101-20241219063022.mp3</link>
     <description>U Bruxellesu sastanak čelnika Europske unije, tema je potpora Ukrajini. Državljanin Uzbekistana priznao ubojstvo ruskoga generala u Moskvi. Za desetak dana trebali bismo znati rezultate istrage teške pomorske nesreće na Malom Lošinju u kojoj su poginula tri pomorca. Dodijeljene su državne nagrade za volontiranje. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Sindikati državnih službi prihvatili su Vladinu ponudu o povećanju osnovice plaće, sindikati javnih službi su je odbili. Mario Mamić i Sandro Župančić priznali krivnju u slučaju "Dinamo 2". U Njemačkoj pala vlada kancelara Scholza. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/4a/20241217-jutarnja-kronika-35940115-20241217063552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.12. 2024-12-16</title>
-    <link>https://api.hrt.hr/media/56/c2/20241216-jutarnja-kronika-35936905-20241216064031.mp3</link>
-    <description>Tropski ciklon poharao francuski departman Mayotte u Indijskom oceanu. Strahuje se da su tisuće ljudi poginule. U Ministarstvu rada novi krug pregovora o kolektivnim ugovorima za državne i javne službe. Državno odvjetništvo navodno provodi izvide vezano za cijenu zemljišta u Momjanu, u Istri, koje su za 25 tisuća kuna kupili predsjednička kandidatkinja stranke Možemo Ivana Kekin i njezin suprug Mile. Ministar Fuchs demantirao najave kako će ocjenjivanje nastavnika početi od Nove godine. Urednik:Mislav Togonal</description>
-    <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/c2/20241216-jutarnja-kronika-35936905-20241216064031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
