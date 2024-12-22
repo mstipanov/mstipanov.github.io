@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 21 Dec 2024 22:07:55 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 21:57:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.12. 2024-12-22</title>
+    <link>https://api.hrt.hr/media/5f/f2/20241222-kronika-dana-35960553-20241222213544.mp3</link>
+    <description>Prvi b Osnovne škole Prečko oprostio se od ubijenog prijatelja. U Zagrebu sutra mirni mimohod "Za sigurne škole". U Beogradu večeras deseci tisuća ljudi na prosvjedu tražili odgovornost vlasti zbog tragedije u Novom Sadu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 22 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5f/f2/20241222-kronika-dana-35960553-20241222213544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.12. 2024-12-21</title>
     <link>https://api.hrt.hr/media/5b/67/20241221-kronika-dana-35958280-20241221215046.mp3</link>
     <description>U Hrvatskoj dan žalosti zbog tragedije u osnovnoj školi u Prečkom. Večeras u školi održan sastanak roditelja s kriznim timom.Nakon sinoćnjega terorističkog napada u Magdeburgu, pojedine savezne zemlje u Njemačkoj pooštravaju sigurnosne mjere na božićnim i adventskim sajmovima.Prvi hrvatski satelit CroCube uspješno lansiran u svemir - poslao prvi signal na Zemlju.Urednica Mira Barić.</description>
@@ -31,14 +39,6 @@
     <description>Putin iz Moskve poručio da je spreman na razgovor s Trumpom o kraju rata, a Zelenski u Bruxellesu ustvrdio da Rusija neće stati na Ukrajini. 20 godina zatvora dobio Francuz koji je godinama drogirao suprugu i dovodio muškarce da je siluju. Barbara Matić i Miran Maričić najbolji su sportaši godine prema odabiru Hrvatskog olimpijskog odbora. Urednica: Sanja Cota</description>
     <pubDate>Thu, 19 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/26/73/20241219-kronika-dana-35950387-20241219214024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.12. 2024-12-18</title>
-    <link>https://api.hrt.hr/media/38/90/20241218-kronika-dana-35946539-20241218213520.mp3</link>
-    <description>U Bruxellesu održan sastanak čelnika Europske unije i država zapadnog Balkana. U zajedničkoj izjavi potvrđeno da je budućnost te regije u Uniji.Državljanin Uzbekistana priznao ubojstvo ruskoga generala. Kaže da je radio prema nalogu ukrajinske sigurnosne službe koja mu je obećala novčanu nagradu i boravište u Europi. Dodijeljene državne nagrade za volontiranje. Nevenka Špoljarić - volonterka godine.Urednica: Mira Barić</description>
-    <pubDate>Wed, 18 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/90/20241218-kronika-dana-35946539-20241218213520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
