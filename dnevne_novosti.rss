@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 21 Dec 2024 14:53:58 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 15:46:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.12. 2024-12-22</title>
+    <link>https://api.hrt.hr/media/98/13/20241222-dnevne-novosti-35959745-20241222143543.mp3</link>
+    <description>U Osnovnoj školi Prečko građani se i danas paljenjem svijeća i porukama opraštaju od ubijenog dječaka. Sutra u 18 sati sindikati u središtu Zagreba organiziraju mimohod pod sloganom Za sigurnu školu. Terorist s božićnog sajma u Magdeburgu tereti se za pet ubojstava, pokušaj ubojstva i nanošenje teških tjelesnih ozljeda. Filip Zubčić četvrti u veleslalomu Svjetskog kupa u talijanskoj Alta Badiji. Urednik: GrgoMrvica</description>
+    <pubDate>Sun, 22 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/98/13/20241222-dnevne-novosti-35959745-20241222143543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.12. 2024-12-21</title>
     <link>https://api.hrt.hr/media/37/6a/20241221-dnevne-novosti-35957536-20241221143540.mp3</link>
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
@@ -31,14 +39,6 @@
     <description>Suprug i 50 optuženika proglašeni krivima u slučaju drogiranja i silovanja Gisele Pelicot u Francuskoj. Na maratonskoj godišnjoj konferenciji za novinare Vladimir Putin potvrdio spremnost na razgovore s Donaldom Trumpom o prekidu rata u Ukrajini te istaknuo da je pobjeda pred vratima.Mariju Mamiću i Sandru Stipančiću na osječkom sudu izrečene presude. Mamiću - godina i četiri mjeseca, Stipančiću jedanaest mjeseci zatvora. Urednica: Mira Barić</description>
     <pubDate>Thu, 19 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f2/08/20241219-dnevne-novosti-35949147-20241219154025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.12. 2024-12-18</title>
-    <link>https://api.hrt.hr/media/6a/91/20241218-dnevne-novosti-35945641-20241218144520.mp3</link>
-    <description>Dok američki veleposlanik u BiH ponovno optužuje predstavnike Hrvata da potkopavaju projekt Južne interkonekcije, predsjednik Milanović upozorava na gaženje hrvatskih interesa u toj zemlji. U Bruxellesu sastanak čelnika Europske unije i zapadnog Balkana. Mladi Uzbekistanac priznao ubojstvo ruskoga generala u Moskvi za obećanu nagradu od sto tisuća dolara i boravište u nekoj europskoj zemlji. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 18 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6a/91/20241218-dnevne-novosti-35945641-20241218144520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
