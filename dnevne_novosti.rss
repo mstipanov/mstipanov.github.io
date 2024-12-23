@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Dec 2024 15:46:25 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 15:04:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.12. 2024-12-23</title>
+    <link>https://api.hrt.hr/media/d0/f3/20241223-dnevne-novosti-35962978-20241223144547.mp3</link>
+    <description>Nakon ubojstva sedmogodišnjeg dječaka predložene nove sigurnosne mjere u školama. U 18 sati u Zagrebu veliki mimohod, a diljem zemlje okupljanja ispred škola. Večeras na HRT-u jedino sučeljavanje svih osmero predsjedničkih kandidata. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 23 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d0/f3/20241223-dnevne-novosti-35962978-20241223144547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.12. 2024-12-22</title>
     <link>https://api.hrt.hr/media/98/13/20241222-dnevne-novosti-35959745-20241222143543.mp3</link>
     <description>U Osnovnoj školi Prečko građani se i danas paljenjem svijeća i porukama opraštaju od ubijenog dječaka. Sutra u 18 sati sindikati u središtu Zagreba organiziraju mimohod pod sloganom Za sigurnu školu. Terorist s božićnog sajma u Magdeburgu tereti se za pet ubojstava, pokušaj ubojstva i nanošenje teških tjelesnih ozljeda. Filip Zubčić četvrti u veleslalomu Svjetskog kupa u talijanskoj Alta Badiji. Urednik: GrgoMrvica</description>
@@ -31,14 +39,6 @@
     <description>Tragedija u zagrebačkoj Osnovnoj školi Prečko. Sedmogodišnje dijete ubijeno nožem. Ozlijeđeno još nekoliko djece i učiteljica. Sutra u cijeloj zemlji dan žalosti. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 20 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/4d/20241220-dnevne-novosti-35954579-20241220145041.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 19.12. 2024-12-19</title>
-    <link>https://api.hrt.hr/media/f2/08/20241219-dnevne-novosti-35949147-20241219154025.mp3</link>
-    <description>Suprug i 50 optuženika proglašeni krivima u slučaju drogiranja i silovanja Gisele Pelicot u Francuskoj. Na maratonskoj godišnjoj konferenciji za novinare Vladimir Putin potvrdio spremnost na razgovore s Donaldom Trumpom o prekidu rata u Ukrajini te istaknuo da je pobjeda pred vratima.Mariju Mamiću i Sandru Stipančiću na osječkom sudu izrečene presude. Mamiću - godina i četiri mjeseca, Stipančiću jedanaest mjeseci zatvora. Urednica: Mira Barić</description>
-    <pubDate>Thu, 19 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f2/08/20241219-dnevne-novosti-35949147-20241219154025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
