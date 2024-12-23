@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Dec 2024 21:57:24 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 22:05:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Tragedija u zagrebačkoj Osnovnoj školi Prečko - ubijeno sedmogodišnje dijete, nekoliko djece ozlijeđeno, kao i jedna učiteljica. Prva konkretna mjera sa sastanka premijera Andreja Plenkovića i zagrebačkoga gradonačelnika Tomislava Tomaševića - od početka idućeg polugodišta vrata u obrazovnim institucijama će se zaključavati. Sutra je u cijeloj Hrvatskoj dan žalosti. Teroristički napad na božićnom sajmu u Njemačkoj - automobil se zaletio u ljude, poginulo najmanje 11, ozlijeđeno 80 ljudi. Urednik: Silvio Šop</description>
     <pubDate>Fri, 20 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f9/7c/20241220-kronika-dana-35955897-20241220214535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.12. 2024-12-19</title>
-    <link>https://api.hrt.hr/media/26/73/20241219-kronika-dana-35950387-20241219214024.mp3</link>
-    <description>Putin iz Moskve poručio da je spreman na razgovor s Trumpom o kraju rata, a Zelenski u Bruxellesu ustvrdio da Rusija neće stati na Ukrajini. 20 godina zatvora dobio Francuz koji je godinama drogirao suprugu i dovodio muškarce da je siluju. Barbara Matić i Miran Maričić najbolji su sportaši godine prema odabiru Hrvatskog olimpijskog odbora. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 19 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/73/20241219-kronika-dana-35950387-20241219214024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
