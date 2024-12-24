@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 23 Dec 2024 15:04:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 15:08:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.12. 2024-12-24</title>
+    <link>https://api.hrt.hr/media/61/5d/20241224-dnevne-novosti-35966994-20241224144024.mp3</link>
+    <description>U Gorskom kotaru i Lici pale su veće količine snijega koji uz olujnu buru uzrokuje kaos u prometu.HGSS spasio sedam ljudi kod Knina i Udbine . Dvoje djece teško ozlijeđene u strašnom napadu u školi u Prečkom bit će pušteno iz bolnice i Božić dočekati u krugu obitelji. Badnjak je, po svim se gradovima tradicionalno dijelio besplatni bakalar i fritule. Urednica: Mira Barić</description>
+    <pubDate>Tue, 24 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/5d/20241224-dnevne-novosti-35966994-20241224144024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.12. 2024-12-23</title>
     <link>https://api.hrt.hr/media/d0/f3/20241223-dnevne-novosti-35962978-20241223144547.mp3</link>
     <description>Nakon ubojstva sedmogodišnjeg dječaka predložene nove sigurnosne mjere u školama. U 18 sati u Zagrebu veliki mimohod, a diljem zemlje okupljanja ispred škola. Večeras na HRT-u jedino sučeljavanje svih osmero predsjedničkih kandidata. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Sat, 21 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/37/6a/20241221-dnevne-novosti-35957536-20241221143540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.12. 2024-12-20</title>
-    <link>https://api.hrt.hr/media/e8/4d/20241220-dnevne-novosti-35954579-20241220145041.mp3</link>
-    <description>Tragedija u zagrebačkoj Osnovnoj školi Prečko. Sedmogodišnje dijete ubijeno nožem. Ozlijeđeno još nekoliko djece i učiteljica. Sutra u cijeloj zemlji dan žalosti. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 20 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/4d/20241220-dnevne-novosti-35954579-20241220145041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
