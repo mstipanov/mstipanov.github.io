@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 25 Dec 2024 15:12:25 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 14:46:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.12. 2024-12-26</title>
+    <link>https://api.hrt.hr/media/5c/85/20241226-dnevne-novosti-35971781-20241226143601.mp3</link>
+    <description>Požar kod Žrnovnice, jak vjetar otežava gašenje, kanader se vratio u bazu. I dalje zbog olujnog vjetra i snijega problemi u prometu, ali situacija je povoljnija nego jučer. Rusija ne želi primirje s Ukrajinom, nego pravno obvezujući sporazum za dugotrajni mir koji bi zajamčio sigurnost i Rusije i njezinih susjeda. Dan nakon Božića obilježavamo blagdan svetog Stjepana Prvomučenika. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 26 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/85/20241226-dnevne-novosti-35971781-20241226143601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.12. 2024-12-25</title>
     <link>https://api.hrt.hr/media/f9/1b/20241225-dnevne-novosti-35969348-20241225143102.mp3</link>
     <description>S oltara diljem zemlje poslane božićne poruke: mir, zdravlje, zajedništvo i ljubav. Vatrogasci sinoć u Lici, po najgorem vremenu, iz snježnih nanosa spasili 48-ero ljudi.U Kazahstanu se srušio zrakoplov sa 62 putnika i petero članova posade. U padu ih je poginulo 39-ero. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nakon ubojstva sedmogodišnjeg dječaka predložene nove sigurnosne mjere u školama. U 18 sati u Zagrebu veliki mimohod, a diljem zemlje okupljanja ispred škola. Večeras na HRT-u jedino sučeljavanje svih osmero predsjedničkih kandidata. Urednica: Sanja Cota</description>
     <pubDate>Mon, 23 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d0/f3/20241223-dnevne-novosti-35962978-20241223144547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.12. 2024-12-22</title>
-    <link>https://api.hrt.hr/media/98/13/20241222-dnevne-novosti-35959745-20241222143543.mp3</link>
-    <description>U Osnovnoj školi Prečko građani se i danas paljenjem svijeća i porukama opraštaju od ubijenog dječaka. Sutra u 18 sati sindikati u središtu Zagreba organiziraju mimohod pod sloganom Za sigurnu školu. Terorist s božićnog sajma u Magdeburgu tereti se za pet ubojstava, pokušaj ubojstva i nanošenje teških tjelesnih ozljeda. Filip Zubčić četvrti u veleslalomu Svjetskog kupa u talijanskoj Alta Badiji. Urednik: GrgoMrvica</description>
-    <pubDate>Sun, 22 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/13/20241222-dnevne-novosti-35959745-20241222143543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
