@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 24 Dec 2024 07:06:57 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 06:45:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.12. 2024-12-26</title>
+    <link>https://api.hrt.hr/media/ff/a1/20241226-jutarnja-kronika-35970676-20241226063600.mp3</link>
+    <description>Olujni vjetar i snijeg i dalje otežavaju promet, tijekom dana očekuje se normalizacija. Još se istražuje uzrok pada azerbajdžanskoga putničkog zrakoplova u kojemu je poginulo 38-ero ljudi. Blagdan je svetoga Stjepana Prvomučenika. U mnogim župama počinje blagoslov obitelji. Urednica:Mira Barić</description>
+    <pubDate>Thu, 26 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ff/a1/20241226-jutarnja-kronika-35970676-20241226063600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 24.12. 2024-12-24</title>
     <link>https://api.hrt.hr/media/1a/d9/20241224-jutarnja-kronika-35965345-20241224063555.mp3</link>
     <description>Nakon tragedije u Osnovnoj školi Prečko diljem zemlje hodalo se za sigurnu školu, ali i kako bi se odala počast žrtvama. Tisuće ljudi u Magdeburgu oblikovale ljudski lanac u znak sjećanja na žrtve napada na božićni sajam. Na HRT-u održano sučeljavanje svih osmero kandidata koji se nadmeću za funkciju predsjednika. Badnjak je - posljednji dan adventa i dan budnog iščekivanja Božića.
@@ -24,14 +32,6 @@ Urednica: Marija Gerbec Njavro</description>
     <description>Školski sindikati danas organiziraju mimohod za sigurnu školu. Večeras od 20 i 15 sučeljavanje svih predsjedničkih kandidata samo na HRT-u. Jučer u Zagrebu četiri požara stanova, uglavnom zbog zapaljenih adventskih vijenaca. Na jučerašnjim prosvjedima protiv Vučića u Beogradu okupilo se oko 100 tisuća ljudi. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/76/72/20241223-jutarnja-kronika-35961141-20241223064045.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.12. 2024-12-22</title>
-    <link>https://api.hrt.hr/media/56/1d/20241222-jutarnja-kronika-35958853-20241222063542.mp3</link>
-    <description>Sinoć je u Osnovnoj školi Prečko, gdje je prekjučer u napadu nožem ubijen učenik, održan sastanak roditelja s kriznim timom. Jučer je u Hrvatskoj bio dan žalosti. Nakon terorističkog napada u Magdeburgu, pojedine savezne zemlje u Njemačkoj pooštravaju sigurnosne mjere na božićnim sajmovima. Prvi hrvatski satelit CroCube uspješno lansiran u svemir - poslao je i prve signale na Zemlju. U varaždinskom HNK-u premijera predstave prema manje poznatom djelu Ivane Brlić Mažuranić "Priča o Zorku Bistrozorkom i o Sreći". Urednik Silvio Šop</description>
-    <pubDate>Sun, 22 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/1d/20241222-jutarnja-kronika-35958853-20241222063542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
