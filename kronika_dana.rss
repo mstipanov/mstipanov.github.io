@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Dec 2024 21:47:59 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 22:22:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.12. 2024-12-27</title>
+    <link>https://api.hrt.hr/media/c5/b8/20241227-kronika-dana-35975986-20241227214056.mp3</link>
+    <description>U nedjelju biramo predsjednika države, sutra predizborna šutnja. ponudila sindikatima rast plaća i zasad odustala od Pravilnika o ocjenjivanju djelatnika u obrazovanju!Putin prijeti Ukrajini novim napadima raketama Orešnik, Ukrajina traži još zapadnog oružja. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 27 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/b8/20241227-kronika-dana-35975986-20241227214056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.12. 2024-12-26</title>
     <link>https://api.hrt.hr/media/3d/6b/20241226-kronika-dana-35972586-20241226213602.mp3</link>
     <description>Poz nadzorom je požar pokraj Žrnovnice, vatrogasci ostaju na terenu i tijekom noći. I dalje zbog olujnog vjetra i snijega problemi u prometu, no stanje je povoljnije nego jučer. Je li ruska raketa srušila azerbajdžnski zrakoplov. Na blagdan svetog Stjepana prvomučenika mnogi običaji diljem zemlje.
@@ -32,14 +40,6 @@ Urednik: Grgo Mrvica</description>
     <description>Dvoje djece, teško ozlijeđene u napadu u školi, pušteno iz bolnice. Papa Franjo označio početak Jubilarne godine Katoličke crkve. Već treći Božić Ukrajina dočekuje u ratu, a zbog rata u Svetoj zemlji nema božićnih svečanosti. Urednica: Sanja Cota.</description>
     <pubDate>Tue, 24 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/db/20241224-kronika-dana-35967833-20241224214046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.12. 2024-12-23</title>
-    <link>https://api.hrt.hr/media/b1/4f/20241223-kronika-dana-35964805-20241223224047.mp3</link>
-    <description>U Zagrebu mimohod za veću sigurnost u školama, u gradovima diljem zemlje mirna okupljanja.Na HRT-u održano jedino sučeljavanje svih osam predsjedničkih kandidata. Snijeg i bura paralizirali promet između unutrašnjosti i obale.Urednica: Mira Barić</description>
-    <pubDate>Mon, 23 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b1/4f/20241223-kronika-dana-35964805-20241223224047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
