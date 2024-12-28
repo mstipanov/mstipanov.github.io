@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 27 Dec 2024 22:22:05 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 21:57:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 28.12. 2024-12-28</title>
+    <link>https://api.hrt.hr/media/b7/1a/20241228-kronika-dana-35978161-20241228213527.mp3</link>
+    <description>Uoči sutrašnjih predsjedničkih izbora, u Hrvatskoj je na snazi izborna šutnja. Ruski predsjednik Putin ispričao se azerbajdžanskom kolegi Alijevu zbog pada zrakoplova u kojem je poginulo 38-ero ljudi. Sutra je četvrta godišnjica razornoga petrinjskog potresa. Kako napreduje obnova? Drugi program Hrvatskog radija proslavio 60-i rođendan. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 28 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b7/1a/20241228-kronika-dana-35978161-20241228213527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 27.12. 2024-12-27</title>
     <link>https://api.hrt.hr/media/c5/b8/20241227-kronika-dana-35975986-20241227214056.mp3</link>
     <description>U nedjelju biramo predsjednika države, sutra predizborna šutnja. ponudila sindikatima rast plaća i zasad odustala od Pravilnika o ocjenjivanju djelatnika u obrazovanju!Putin prijeti Ukrajini novim napadima raketama Orešnik, Ukrajina traži još zapadnog oružja. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Urednik: Grgo Mrvica</description>
     <description>Svečanim misnim slavljima diljem Hrvatske proslavljen blagdan Kristova rođenja. Papa Franjo u poruci Gradu i svijetu pozvao na mir i praštanje, te na hrabrost kako bi utihnulo oružje. Problemi sa snijegom u Lici: sinoć iz snježnih nanosa spašeno 48-ero ljudi, danas trudnica helikopterom prevezena u bolnicu. U padu azerbajdžanskog zrakoplova u Kazahstanu poginulo 37 osoba. Urednik: Silvio Šop</description>
     <pubDate>Wed, 25 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7f/1f/20241225-kronika-dana-35970073-20241225213558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 24.12. 2024-12-24</title>
-    <link>https://api.hrt.hr/media/04/db/20241224-kronika-dana-35967833-20241224214046.mp3</link>
-    <description>Dvoje djece, teško ozlijeđene u napadu u školi, pušteno iz bolnice. Papa Franjo označio početak Jubilarne godine Katoličke crkve. Već treći Božić Ukrajina dočekuje u ratu, a zbog rata u Svetoj zemlji nema božićnih svečanosti. Urednica: Sanja Cota.</description>
-    <pubDate>Tue, 24 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/04/db/20241224-kronika-dana-35967833-20241224214046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
