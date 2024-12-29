@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 28 Dec 2024 21:57:13 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 22:01:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 26 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3d/6b/20241226-kronika-dana-35972586-20241226213602.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.12. 2024-12-25</title>
-    <link>https://api.hrt.hr/media/7f/1f/20241225-kronika-dana-35970073-20241225213558.mp3</link>
-    <description>Svečanim misnim slavljima diljem Hrvatske proslavljen blagdan Kristova rođenja. Papa Franjo u poruci Gradu i svijetu pozvao na mir i praštanje, te na hrabrost kako bi utihnulo oružje. Problemi sa snijegom u Lici: sinoć iz snježnih nanosa spašeno 48-ero ljudi, danas trudnica helikopterom prevezena u bolnicu. U padu azerbajdžanskog zrakoplova u Kazahstanu poginulo 37 osoba. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 25 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7f/1f/20241225-kronika-dana-35970073-20241225213558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
