@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Dec 2024 14:59:55 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 15:04:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.12. 2024-12-30</title>
+    <link>https://api.hrt.hr/media/95/07/20241230-dnevne-novosti-35982827-20241230143509.mp3</link>
+    <description>Zoran Milanović i Dragan Primorac ulaze u drugi krug predsjedničkih izbora. Na birališta je izašlo 46,03 posto građana, 5,15 posto manje nego prije pet godina. U Ministarstvu znanosti i obrazovanja sastanak članova povjerenstva koji će predstaviti prvi nacrt sigurnosnih mjera i protokola za škole. Južnokorejske vlasti naredile hitnu provjeru sigurnosti više od 100 zrakoplova nakon nesreće u gradu Muanu u kojoj je poginulo 179-ero ljudi. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 30 Dec 2024 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/07/20241230-dnevne-novosti-35982827-20241230143509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.12. 2024-12-29</title>
     <link>https://api.hrt.hr/media/91/af/20241229-dnevne-novosti-35979651-20241229143535.mp3</link>
     <description>Osmero predsjedničkih kandidata do 19 sati očekuje glasove u prvom izbornom krugu. Do 11 sati i 30 minuta na birališta je izašlo 14 posto birača, objavilo Državno izborno povjerenstvo. Najteža zrakoplovna nesreća u povijesti Južne Koreje - Boeing 737 spustio se na trup i udario u zid, poginulo 179 osoba, dva člana posade preživjela. SPORT: Prva pobjeda Zrinke Ljutić u karijeri i prva zlatna medalja za Hrvatsku u slalomu 18 godina i 9 mjeseci nakon Janice Kostelić! Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednica: Sanja Cota</description>
     <description>Predsjednička kampanja u samoj završnici. U ponoć počinje izborna šutnja. Kod Stona pronađeno tijelo muškarca za kojim se tragalo od Badnjaka. Vlada donijela važne odluke koje će olakšati život stanovnicima potresom razrušene Banovine. Slovačka bi mogla biti domaćin mirovnih pregovora Ukrajine i Rusije. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 27 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/02/2d/20241227-dnevne-novosti-35974964-20241227144054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.12. 2024-12-26</title>
-    <link>https://api.hrt.hr/media/5c/85/20241226-dnevne-novosti-35971781-20241226143601.mp3</link>
-    <description>Požar kod Žrnovnice, jak vjetar otežava gašenje, kanader se vratio u bazu. I dalje zbog olujnog vjetra i snijega problemi u prometu, ali situacija je povoljnija nego jučer. Rusija ne želi primirje s Ukrajinom, nego pravno obvezujući sporazum za dugotrajni mir koji bi zajamčio sigurnost i Rusije i njezinih susjeda. Dan nakon Božića obilježavamo blagdan svetog Stjepana Prvomučenika. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 26 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/85/20241226-dnevne-novosti-35971781-20241226143601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
