@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Dec 2024 07:33:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 07:08:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 31.12. 2024-12-31</title>
+    <link>https://api.hrt.hr/media/c2/90/20241231-jutarnja-kronika-35984355-20241231063537.mp3</link>
+    <description>Mnogi hrvatski gradovi organiziraju doček nove 2025. na otvorenome. Ispitan ubojica iz škole u Prečkom, sumnjiči se za 45 kaznenih djela. Sindikati javnih i državnih službi izjasnit će se prihvaćaju li Vladinu ponudu o povećanju plaća. Humanitarna katastrofa u Pojasu Gaze - od hladnoće umrlo šesto novorođenče u tjedan dana. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 31 Dec 2024 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/90/20241231-jutarnja-kronika-35984355-20241231063537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.12. 2024-12-30</title>
     <link>https://api.hrt.hr/media/e3/b2/20241230-jutarnja-kronika-35981168-20241230070508.mp3</link>
     <description>Zoran Milanović i Dragan Primorac u drugom krugu predsjedničkih izbora! Milanović u prvom krugu osvojio najviše glasova - malo više od 49 posto. Novi sastanak o većoj sigurnosti u školama. Bivši američki predsjednik Jimmy Carter umro u 101. godini. U Gospiću jutros izmjereno -8, u Otočcu -7 stupnjeva. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Izborna je šutnja. Utihnuli i predsjednički kandidati. Vlada ponudila rast plaća u javnim i državnim službama i zasad odustala od ocjenjivanja zaposlenih u obrazovanju! Drugi program Hrvatskoga radija proslavit će 60. rođendan. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 28 Dec 2024 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ac/36/20241228-jutarnja-kronika-35976508-20241228063030.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.12. 2024-12-27</title>
-    <link>https://api.hrt.hr/media/03/e3/20241227-jutarnja-kronika-35973135-20241227063536.mp3</link>
-    <description>Zadnji je dan izborne promidžbe za predsjedničke izbore, na koje izlazimo preksutra. Pod nadzorom je požar pokraj Žrnovnice, vatrogasci su bili na terenu i noćas. Vlada će održati posljednju sjednicu ove godine. Veliki napad Izraela na Jemen, pogođena zračna i morske luke te energetska infrastruktura. Urednik Silvio Šop</description>
-    <pubDate>Fri, 27 Dec 2024 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/03/e3/20241227-jutarnja-kronika-35973135-20241227063536.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
