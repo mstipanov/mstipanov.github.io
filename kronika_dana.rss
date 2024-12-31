@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 30 Dec 2024 22:06:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 22:10:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.12. 2024-12-31</title>
+    <link>https://api.hrt.hr/media/d3/a4/20241231-kronika-dana-35986824-20241231220047.mp3</link>
+    <description>Hrvatska će Novu godinu dočekati uz glazbu na trgovima mnogih gradova. Sve više zemalja u svijetu već ušlo u novu godinu. Uredio: Mario Krstanović</description>
+    <pubDate>Tue, 31 Dec 2024 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d3/a4/20241231-kronika-dana-35986824-20241231220047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.12. 2024-12-30</title>
     <link>https://api.hrt.hr/media/97/d2/20241230-kronika-dana-35983815-20241230213509.mp3</link>
     <description>Zoran Milanović i Dragan Primorac 12. siječnja u drugom su krugu predsjedničkih izbora. Ispitan ubojica iz škole u Prečkom, sumnjiči se za 45 kaznenih djela. Liječnik iz Saudijske Arabije, koji je automobilom na božićnom sajmu u Njemačkoj ubio petero ljudi, prijetio je nasiljem još od 2013. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Uoči sutrašnjih predsjedničkih izbora, u Hrvatskoj je na snazi izborna šutnja. Ruski predsjednik Putin ispričao se azerbajdžanskom kolegi Alijevu zbog pada zrakoplova u kojem je poginulo 38-ero ljudi. Sutra je četvrta godišnjica razornoga petrinjskog potresa. Kako napreduje obnova? Drugi program Hrvatskog radija proslavio 60-i rođendan. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 28 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/1a/20241228-kronika-dana-35978161-20241228213527.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.12. 2024-12-27</title>
-    <link>https://api.hrt.hr/media/c5/b8/20241227-kronika-dana-35975986-20241227214056.mp3</link>
-    <description>U nedjelju biramo predsjednika države, sutra predizborna šutnja. ponudila sindikatima rast plaća i zasad odustala od Pravilnika o ocjenjivanju djelatnika u obrazovanju!Putin prijeti Ukrajini novim napadima raketama Orešnik, Ukrajina traži još zapadnog oružja. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 27 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/b8/20241227-kronika-dana-35975986-20241227214056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
