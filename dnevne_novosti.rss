@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 31 Dec 2024 15:09:41 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 14:43:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.01. 2025-01-01</title>
+    <link>https://api.hrt.hr/media/89/6d/20250101-dnevne-novosti-35988309-20250101143005.mp3</link>
+    <description>Uz glazbu, šampanjac i dobre želje velik broj hrvatskih građana Novu godinu dočekao na otvorenome. U prvim satima nove godine automobil se zaletio u ljude u New Orleansu, više je poginulih i ozlijeđenih. Prekinut izvoz ruskog plina u Europu preko Ukrajine. Od danas naplata tankih vrećica u trgovinama. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 01 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/89/6d/20250101-dnevne-novosti-35988309-20250101143005.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 31.12. 2024-12-31</title>
     <link>https://api.hrt.hr/media/a0/1c/20241231-dnevne-novosti-35986030-20241231144044.mp3</link>
     <description>Otoci u Tihom oceanu ušli su u Novu godinu, u Hrvatskoj se slavi već od podneva. Dvojica predsjedničkih kandidata i danas su u kampanji. Sindikati državnih službi potpisali s Vladom dodatak Kolektivnom ugovoru, četiri sindikata javnih službi odbili ga potpisati. Urednica: Sanja Cota.</description>
@@ -31,15 +39,6 @@
     <description>Osmero predsjedničkih kandidata do 19 sati očekuje glasove u prvom izbornom krugu. Do 11 sati i 30 minuta na birališta je izašlo 14 posto birača, objavilo Državno izborno povjerenstvo. Najteža zrakoplovna nesreća u povijesti Južne Koreje - Boeing 737 spustio se na trup i udario u zid, poginulo 179 osoba, dva člana posade preživjela. SPORT: Prva pobjeda Zrinke Ljutić u karijeri i prva zlatna medalja za Hrvatsku u slalomu 18 godina i 9 mjeseci nakon Janice Kostelić! Urednik: Silvio Šop</description>
     <pubDate>Sun, 29 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/91/af/20241229-dnevne-novosti-35979651-20241229143535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.12. 2024-12-28</title>
-    <link>https://api.hrt.hr/media/06/b3/20241228-dnevne-novosti-35977441-20241228152033.mp3</link>
-    <description>Sutra biramo predsjednika ili predsjednicu države, do sutra u 19 sati traje izborna šutnja. predsjednik Vladimir Putin ispričao se azerbajdžanskom kolegi Alijevu zbog pada zrakoplova. Drugi program Hrvatskog radija slavi 60 godina
-Urednica: Sanja Cota</description>
-    <pubDate>Sat, 28 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/06/b3/20241228-dnevne-novosti-35977441-20241228152033.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
