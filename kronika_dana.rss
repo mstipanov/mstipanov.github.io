@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 31 Dec 2024 22:10:50 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 22:15:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.01. 2025-01-01</title>
+    <link>https://api.hrt.hr/media/06/03/20250101-kronika-dana-35989106-20250101214014.mp3</link>
+    <description>Muškarac u Crnoj Gori ubio sedmero ljudi, među njima i dvoje djece. Napad u New Orleansu istražuje se kao terorizam, muškarac automobilom i vatrenim oružjem ubio 10-ero ljudi, ozlijedio 35-ero. Jutros prekinut tranzit ruskog plina preko Ukrajine u zapadnoeuropske zemlje. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 01 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/06/03/20250101-kronika-dana-35989106-20250101214014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 31.12. 2024-12-31</title>
     <link>https://api.hrt.hr/media/d3/a4/20241231-kronika-dana-35986824-20241231220047.mp3</link>
     <description>Hrvatska će Novu godinu dočekati uz glazbu na trgovima mnogih gradova. Sve više zemalja u svijetu već ušlo u novu godinu. Uredio: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U drugom krugu predsjedničkih izbora su Zoran Milanović osvojio je 49,10 posto glasova i Dragan Primorac sa osvojenih 19,35 posto glasova.Urednica Sanja Cota</description>
     <pubDate>Sun, 29 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/aa/b4/20241229-kronika-dana-35980670-20241229223523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.12. 2024-12-28</title>
-    <link>https://api.hrt.hr/media/b7/1a/20241228-kronika-dana-35978161-20241228213527.mp3</link>
-    <description>Uoči sutrašnjih predsjedničkih izbora, u Hrvatskoj je na snazi izborna šutnja. Ruski predsjednik Putin ispričao se azerbajdžanskom kolegi Alijevu zbog pada zrakoplova u kojem je poginulo 38-ero ljudi. Sutra je četvrta godišnjica razornoga petrinjskog potresa. Kako napreduje obnova? Drugi program Hrvatskog radija proslavio 60-i rođendan. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 28 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/1a/20241228-kronika-dana-35978161-20241228213527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
