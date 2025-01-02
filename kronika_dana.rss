@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Jan 2025 22:15:20 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 22:19:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.01. 2025-01-02</title>
+    <link>https://api.hrt.hr/media/51/be/20250102-kronika-dana-35992253-20250102213514.mp3</link>
+    <description>Vlada u ovoj godini najavljuje rast plaća i mirovina te povećanje zaposlenosti. U utorak, 7.-moga ovog mjeseca, na Hrvatskoj televiziji održat će se sučeljavanje predsjedničkih kandidata uoči drugog kruga izbora. Ministarstvo znanosti donijelo protokol o sigurnosti u školama. Epilog zločina u Crnoj Gori, napadač ubio 12-ero ljudi i počinio samoubojstvo. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 02 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/51/be/20250102-kronika-dana-35992253-20250102213514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.01. 2025-01-01</title>
     <link>https://api.hrt.hr/media/06/03/20250101-kronika-dana-35989106-20250101214014.mp3</link>
     <description>Muškarac u Crnoj Gori ubio sedmero ljudi, među njima i dvoje djece. Napad u New Orleansu istražuje se kao terorizam, muškarac automobilom i vatrenim oružjem ubio 10-ero ljudi, ozlijedio 35-ero. Jutros prekinut tranzit ruskog plina preko Ukrajine u zapadnoeuropske zemlje. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zoran Milanović i Dragan Primorac 12. siječnja u drugom su krugu predsjedničkih izbora. Ispitan ubojica iz škole u Prečkom, sumnjiči se za 45 kaznenih djela. Liječnik iz Saudijske Arabije, koji je automobilom na božićnom sajmu u Njemačkoj ubio petero ljudi, prijetio je nasiljem još od 2013. Urednica: Sanja Cota</description>
     <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/97/d2/20241230-kronika-dana-35983815-20241230213509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.12. 2024-12-29</title>
-    <link>https://api.hrt.hr/media/aa/b4/20241229-kronika-dana-35980670-20241229223523.mp3</link>
-    <description>U drugom krugu predsjedničkih izbora su Zoran Milanović osvojio je 49,10 posto glasova i Dragan Primorac sa osvojenih 19,35 posto glasova.Urednica Sanja Cota</description>
-    <pubDate>Sun, 29 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/aa/b4/20241229-kronika-dana-35980670-20241229223523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
