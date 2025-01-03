@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Jan 2025 14:48:13 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 14:52:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.01. 2025-01-03</title>
+    <link>https://api.hrt.hr/media/2c/57/20250103-dnevne-novosti-35994386-20250103143049.mp3</link>
+    <description>Škole se pripremaju za početak drugog polugodišta. U Zagrebu će osnovne škole na ulazu imati profesionalne zaštitare. Iza nas je još jedna rekordna turistička godina. Snijeg u Lici i Gorskom kotaru, probleme ponovno stvarali neodgovorni vozači. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 03 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2c/57/20250103-dnevne-novosti-35994386-20250103143049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.01. 2025-01-02</title>
     <link>https://api.hrt.hr/media/d6/e8/20250102-dnevne-novosti-35991299-20250102142513.mp3</link>
     <description>Vlada u ovoj godini najavljuje rast plaća i mirovina te povećanje zaposlenosti. Strateškim investicijskim projektom proglašena izgradnja četiri plinovoda koji će povezivati LNG terminal sa zemljama Srednje i Istočne Europe. Epilog zločina u Crnoj Gori, napadač ubio 12 ljudi i počinio samoubojstvo. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Otoci u Tihom oceanu ušli su u Novu godinu, u Hrvatskoj se slavi već od podneva. Dvojica predsjedničkih kandidata i danas su u kampanji. Sindikati državnih službi potpisali s Vladom dodatak Kolektivnom ugovoru, četiri sindikata javnih službi odbili ga potpisati. Urednica: Sanja Cota.</description>
     <pubDate>Tue, 31 Dec 2024 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/1c/20241231-dnevne-novosti-35986030-20241231144044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.12. 2024-12-30</title>
-    <link>https://api.hrt.hr/media/95/07/20241230-dnevne-novosti-35982827-20241230143509.mp3</link>
-    <description>Zoran Milanović i Dragan Primorac ulaze u drugi krug predsjedničkih izbora. Na birališta je izašlo 46,03 posto građana, 5,15 posto manje nego prije pet godina. U Ministarstvu znanosti i obrazovanja sastanak članova povjerenstva koji će predstaviti prvi nacrt sigurnosnih mjera i protokola za škole. Južnokorejske vlasti naredile hitnu provjeru sigurnosti više od 100 zrakoplova nakon nesreće u gradu Muanu u kojoj je poginulo 179-ero ljudi. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 30 Dec 2024 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/07/20241230-dnevne-novosti-35982827-20241230143509.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
