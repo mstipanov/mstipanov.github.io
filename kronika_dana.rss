@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Jan 2025 22:19:30 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 21:54:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.01. 2025-01-03</title>
+    <link>https://api.hrt.hr/media/3a/6e/20250103-kronika-dana-35995334-20250103214049.mp3</link>
+    <description>Od utorka nastava u svim školama u Hrvatskoj počinje pod drukčijim uvjetima, zaključavat će se školska vrata, osim prije početka nastave i nakon završetka.Slovačka će nastaviti slati struju Ukrajini unatoč sporu zbog plina. Nakon masakra u Cetinju, prosvjednici u Podgorici večeras traže smjenu vodstva u sustavu sigurnosti. Urednica: Mira Barić</description>
+    <pubDate>Fri, 03 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3a/6e/20250103-kronika-dana-35995334-20250103214049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.01. 2025-01-02</title>
     <link>https://api.hrt.hr/media/51/be/20250102-kronika-dana-35992253-20250102213514.mp3</link>
     <description>Vlada u ovoj godini najavljuje rast plaća i mirovina te povećanje zaposlenosti. U utorak, 7.-moga ovog mjeseca, na Hrvatskoj televiziji održat će se sučeljavanje predsjedničkih kandidata uoči drugog kruga izbora. Ministarstvo znanosti donijelo protokol o sigurnosti u školama. Epilog zločina u Crnoj Gori, napadač ubio 12-ero ljudi i počinio samoubojstvo. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Hrvatska će Novu godinu dočekati uz glazbu na trgovima mnogih gradova. Sve više zemalja u svijetu već ušlo u novu godinu. Uredio: Mario Krstanović</description>
     <pubDate>Tue, 31 Dec 2024 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/a4/20241231-kronika-dana-35986824-20241231220047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.12. 2024-12-30</title>
-    <link>https://api.hrt.hr/media/97/d2/20241230-kronika-dana-35983815-20241230213509.mp3</link>
-    <description>Zoran Milanović i Dragan Primorac 12. siječnja u drugom su krugu predsjedničkih izbora. Ispitan ubojica iz škole u Prečkom, sumnjiči se za 45 kaznenih djela. Liječnik iz Saudijske Arabije, koji je automobilom na božićnom sajmu u Njemačkoj ubio petero ljudi, prijetio je nasiljem još od 2013. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/97/d2/20241230-kronika-dana-35983815-20241230213509.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
