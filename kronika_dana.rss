@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 03 Jan 2025 21:54:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 21:58:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.01. 2025-01-04</title>
+    <link>https://api.hrt.hr/media/1e/93/20250104-kronika-dana-35997533-20250104213515.mp3</link>
+    <description>Dvojica kandidata u nastavku kampanje, može li Zoran Milanović zadržati golemu prednost, a Dragan Primorac preokrenuti rezultat iz prvog kruga. Nastava u utorak počinje uz novi sigurnosni Protokol u školama; sutra u Zagrebu prosvjed roditelja koji traže da se sigurnost regulira zakonom, a ne protokolom. Propali pregovori o sastavljanju austrijske koalicijske vlade. Kancelar Nehammer dao ostavku. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 04 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1e/93/20250104-kronika-dana-35997533-20250104213515.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.01. 2025-01-03</title>
     <link>https://api.hrt.hr/media/3a/6e/20250103-kronika-dana-35995334-20250103214049.mp3</link>
     <description>Od utorka nastava u svim školama u Hrvatskoj počinje pod drukčijim uvjetima, zaključavat će se školska vrata, osim prije početka nastave i nakon završetka.Slovačka će nastaviti slati struju Ukrajini unatoč sporu zbog plina. Nakon masakra u Cetinju, prosvjednici u Podgorici večeras traže smjenu vodstva u sustavu sigurnosti. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Muškarac u Crnoj Gori ubio sedmero ljudi, među njima i dvoje djece. Napad u New Orleansu istražuje se kao terorizam, muškarac automobilom i vatrenim oružjem ubio 10-ero ljudi, ozlijedio 35-ero. Jutros prekinut tranzit ruskog plina preko Ukrajine u zapadnoeuropske zemlje. Urednica: Sanja Cota</description>
     <pubDate>Wed, 01 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/06/03/20250101-kronika-dana-35989106-20250101214014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.12. 2024-12-31</title>
-    <link>https://api.hrt.hr/media/d3/a4/20241231-kronika-dana-35986824-20241231220047.mp3</link>
-    <description>Hrvatska će Novu godinu dočekati uz glazbu na trgovima mnogih gradova. Sve više zemalja u svijetu već ušlo u novu godinu. Uredio: Mario Krstanović</description>
-    <pubDate>Tue, 31 Dec 2024 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/a4/20241231-kronika-dana-35986824-20241231220047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
