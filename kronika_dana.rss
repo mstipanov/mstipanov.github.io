@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Jan 2025 21:58:54 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 22:02:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.01. 2025-01-05</title>
+    <link>https://api.hrt.hr/media/e3/2c/20250105-kronika-dana-35999824-20250105213534.mp3</link>
+    <description>Druga slalomska pobjeda Zrinke Ljutić u tjedan dana! Nakon pobjede u Kranjskoj Gori postala je vodeća skijašica svijeta. Gužve na graničnim prijelazima - na Bajakovu se čeka i tri sata. Vozači nervozni. Hamas je odobrio popis s 34-ero talaca za razmjenu ako uspije sporazum o prekidu vatre s Izraelom. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 05 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e3/2c/20250105-kronika-dana-35999824-20250105213534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.01. 2025-01-04</title>
     <link>https://api.hrt.hr/media/1e/93/20250104-kronika-dana-35997533-20250104213515.mp3</link>
     <description>Dvojica kandidata u nastavku kampanje, može li Zoran Milanović zadržati golemu prednost, a Dragan Primorac preokrenuti rezultat iz prvog kruga. Nastava u utorak počinje uz novi sigurnosni Protokol u školama; sutra u Zagrebu prosvjed roditelja koji traže da se sigurnost regulira zakonom, a ne protokolom. Propali pregovori o sastavljanju austrijske koalicijske vlade. Kancelar Nehammer dao ostavku. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Vlada u ovoj godini najavljuje rast plaća i mirovina te povećanje zaposlenosti. U utorak, 7.-moga ovog mjeseca, na Hrvatskoj televiziji održat će se sučeljavanje predsjedničkih kandidata uoči drugog kruga izbora. Ministarstvo znanosti donijelo protokol o sigurnosti u školama. Epilog zločina u Crnoj Gori, napadač ubio 12-ero ljudi i počinio samoubojstvo. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 02 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/51/be/20250102-kronika-dana-35992253-20250102213514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.01. 2025-01-01</title>
-    <link>https://api.hrt.hr/media/06/03/20250101-kronika-dana-35989106-20250101214014.mp3</link>
-    <description>Muškarac u Crnoj Gori ubio sedmero ljudi, među njima i dvoje djece. Napad u New Orleansu istražuje se kao terorizam, muškarac automobilom i vatrenim oružjem ubio 10-ero ljudi, ozlijedio 35-ero. Jutros prekinut tranzit ruskog plina preko Ukrajine u zapadnoeuropske zemlje. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 01 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/06/03/20250101-kronika-dana-35989106-20250101214014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
