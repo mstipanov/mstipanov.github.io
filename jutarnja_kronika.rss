@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Jan 2025 06:30:16 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 07:05:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.01. 2025-01-06</title>
+    <link>https://api.hrt.hr/media/a0/55/20250106-jutarnja-kronika-36000370-20250106063042.mp3</link>
+    <description>Druga slalomska pobjeda Zrinke Ljutić u tjedan dana! Nakon pobjede u Kranjskoj Gori postala je vodeća skijašica svijeta. Gužve na graničnim prijelazima - na Bajakovu se čeka i tri sata. Vozači nervozni. Hamas je odobrio popis s 34-ero talaca za razmjenu ako uspije sporazum o prekidu vatre s Izraelom. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 06 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a0/55/20250106-jutarnja-kronika-36000370-20250106063042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.01. 2025-01-05</title>
     <link>https://api.hrt.hr/media/c8/68/20250105-jutarnja-kronika-35998078-20250105062533.mp3</link>
     <description>U Zagrebu prosvjed roditelja koji traže da se sigurnost u odgojno-obrazovnim ustanovama regulira zakonom, a ne protokolom. Propali pregovori o sastavljanju austrijske koalicijske vlade. Kancelar Nehammer dao ostavku. Zrinka Ljutić u Kranjskoj Gori vozi slalom, prva vožnja u 10 sati. Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednik: Silvio Šop</description>
     <pubDate>Fri, 03 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/34/2f/20250103-jutarnja-kronika-35992814-20250103063038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.01. 2025-01-02</title>
-    <link>https://api.hrt.hr/media/2f/44/20250102-jutarnja-kronika-35989712-20250102070016.mp3</link>
-    <description>Muškarac u Crnoj Gori ubio dvanaestero ljudi, među njima i dvoje djece. Opkoljen policijom, presudio je sebi. Napad u New Orleansu istražuje se kao terorizam, muškarac automobilom i vatrenim oružjem ubio 15-ero ljudi, ozlijedio najmanje 36-ero. Vlada će održati prvu sjednicu u ovoj godini. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 02 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2f/44/20250102-jutarnja-kronika-35989712-20250102070016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
