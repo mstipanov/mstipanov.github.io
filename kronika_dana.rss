@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Jan 2025 22:02:57 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 21:38:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.01. 2025-01-06</title>
+    <link>https://api.hrt.hr/media/2f/26/20250106-kronika-dana-36002437-20250106213539.mp3</link>
+    <description>Uz nove sigurnosne mjere sutra počinje drugo polugodište za oko 450 tisuća učenika. Kanadski premijer Justin Trudeau dao ostavku na dužnost premijera i čelnika Liberalne stranke.Pet ljudi poginulo u velikoj zimskoj oluji koja je zahvatila središnji i istočni dio Sjedinjenih Država. Otkazane tisuće letova. Urednica: Mira Barić</description>
+    <pubDate>Mon, 06 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2f/26/20250106-kronika-dana-36002437-20250106213539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.01. 2025-01-05</title>
     <link>https://api.hrt.hr/media/e3/2c/20250105-kronika-dana-35999824-20250105213534.mp3</link>
     <description>Druga slalomska pobjeda Zrinke Ljutić u tjedan dana! Nakon pobjede u Kranjskoj Gori postala je vodeća skijašica svijeta. Gužve na graničnim prijelazima - na Bajakovu se čeka i tri sata. Vozači nervozni. Hamas je odobrio popis s 34-ero talaca za razmjenu ako uspije sporazum o prekidu vatre s Izraelom. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Od utorka nastava u svim školama u Hrvatskoj počinje pod drukčijim uvjetima, zaključavat će se školska vrata, osim prije početka nastave i nakon završetka.Slovačka će nastaviti slati struju Ukrajini unatoč sporu zbog plina. Nakon masakra u Cetinju, prosvjednici u Podgorici večeras traže smjenu vodstva u sustavu sigurnosti. Urednica: Mira Barić</description>
     <pubDate>Fri, 03 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3a/6e/20250103-kronika-dana-35995334-20250103214049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.01. 2025-01-02</title>
-    <link>https://api.hrt.hr/media/51/be/20250102-kronika-dana-35992253-20250102213514.mp3</link>
-    <description>Vlada u ovoj godini najavljuje rast plaća i mirovina te povećanje zaposlenosti. U utorak, 7.-moga ovog mjeseca, na Hrvatskoj televiziji održat će se sučeljavanje predsjedničkih kandidata uoči drugog kruga izbora. Ministarstvo znanosti donijelo protokol o sigurnosti u školama. Epilog zločina u Crnoj Gori, napadač ubio 12-ero ljudi i počinio samoubojstvo. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 02 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/51/be/20250102-kronika-dana-35992253-20250102213514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
