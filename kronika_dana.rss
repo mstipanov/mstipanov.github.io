@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 21:38:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 22:12:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.01. 2025-01-07</title>
+    <link>https://api.hrt.hr/media/16/85/20250107-kronika-dana-36005700-20250107215553.mp3</link>
+    <description>Drugo polugodište počelo uz pojačane sigurnosne mjere u školama.Inflacija u Hrvatskoj i dalje raste, u prosincu iznosila 3,4 posto.Najmanje 126 ljudi poginulo u snažnom potresu koji je pogodio Tibet.Urednica Mira Barić</description>
+    <pubDate>Tue, 07 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/85/20250107-kronika-dana-36005700-20250107215553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.01. 2025-01-06</title>
     <link>https://api.hrt.hr/media/2f/26/20250106-kronika-dana-36002437-20250106213539.mp3</link>
     <description>Uz nove sigurnosne mjere sutra počinje drugo polugodište za oko 450 tisuća učenika. Kanadski premijer Justin Trudeau dao ostavku na dužnost premijera i čelnika Liberalne stranke.Pet ljudi poginulo u velikoj zimskoj oluji koja je zahvatila središnji i istočni dio Sjedinjenih Država. Otkazane tisuće letova. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Dvojica kandidata u nastavku kampanje, može li Zoran Milanović zadržati golemu prednost, a Dragan Primorac preokrenuti rezultat iz prvog kruga. Nastava u utorak počinje uz novi sigurnosni Protokol u školama; sutra u Zagrebu prosvjed roditelja koji traže da se sigurnost regulira zakonom, a ne protokolom. Propali pregovori o sastavljanju austrijske koalicijske vlade. Kancelar Nehammer dao ostavku. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 04 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1e/93/20250104-kronika-dana-35997533-20250104213515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.01. 2025-01-03</title>
-    <link>https://api.hrt.hr/media/3a/6e/20250103-kronika-dana-35995334-20250103214049.mp3</link>
-    <description>Od utorka nastava u svim školama u Hrvatskoj počinje pod drukčijim uvjetima, zaključavat će se školska vrata, osim prije početka nastave i nakon završetka.Slovačka će nastaviti slati struju Ukrajini unatoč sporu zbog plina. Nakon masakra u Cetinju, prosvjednici u Podgorici večeras traže smjenu vodstva u sustavu sigurnosti. Urednica: Mira Barić</description>
-    <pubDate>Fri, 03 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3a/6e/20250103-kronika-dana-35995334-20250103214049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
