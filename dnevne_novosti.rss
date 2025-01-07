@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 15:07:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 14:41:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.01. 2025-01-07</title>
+    <link>https://api.hrt.hr/media/4b/c1/20250107-dnevne-novosti-36004785-20250107143103.mp3</link>
+    <description>Uz pojačane mjere sigurnosti, počelo drugo polugodište za oko 450 tisuća učenika. Inflacija se u eurozoni ubrzava, najsnažniji rast cijena u Hrvatskoj. Snažan potres u Tibetu, poginulo više od stotinu ljudi. Vjernici koji se ravnaju prema Julijanskom kalendaru slave Božić. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 07 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/c1/20250107-dnevne-novosti-36004785-20250107143103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.01. 2025-01-06</title>
     <link>https://api.hrt.hr/media/98/95/20250106-dnevne-novosti-36001639-20250106145537.mp3</link>
     <description>Sutra počinje drugo polugodište uz nove sigurnosne mjere u školama.Mandat za sastav nove austrijske vlade dobio vođa krajnje desne Slobodarske stranke. Zelenski traži čvrsta sigurnosna jamstva Sjedinjenih Država ako se budu vodili pregovori s Rusijom. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Oba predsjednička kandidata i danas u kampanji. Nastava u utorak počinje uz novi sigurnosni Protokol u školama. Za sutra najavljen prosvjed nezadovoljnih građana na glavnome zagrebačkom trgu. Urednica: Sanja Cota</description>
     <pubDate>Sat, 04 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6d/2c/20250104-dnevne-novosti-35996808-20250104142514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.01. 2025-01-03</title>
-    <link>https://api.hrt.hr/media/2c/57/20250103-dnevne-novosti-35994386-20250103143049.mp3</link>
-    <description>Škole se pripremaju za početak drugog polugodišta. U Zagrebu će osnovne škole na ulazu imati profesionalne zaštitare. Iza nas je još jedna rekordna turistička godina. Snijeg u Lici i Gorskom kotaru, probleme ponovno stvarali neodgovorni vozači. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 03 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2c/57/20250103-dnevne-novosti-35994386-20250103143049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
