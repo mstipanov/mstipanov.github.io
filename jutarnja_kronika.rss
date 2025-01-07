@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 07:05:38 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 06:39:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,15 +31,6 @@
     <description>Od utorka nastava u svim školama u Hrvatskoj počinje pod drukčijim uvjetima. Sutra u Zagrebu prosvjed za sigurnost djece. Amerikanci planiraju prodaju oružja Izraelu u vrijednosti od 8 milijardi dolara, neslužbeno prenose mediji. SAD će uskoro objaviti novu sigurnosnu pomoć Ukrajini. Nakon prve pobjede Zrinke Ljutić u slalomu u Semmeringu, s nestrpljenjem se iščekuju njezine utrke ovog vikenda u Kranjskoj Gori. : Mario Krstanović</description>
     <pubDate>Sat, 04 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/be/66/20250104-jutarnja-kronika-35995858-20250104063052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.01. 2025-01-03</title>
-    <link>https://api.hrt.hr/media/34/2f/20250103-jutarnja-kronika-35992814-20250103063038.mp3</link>
-    <description>Vlada u ovoj godini najavljuje rast plaća i mirovina te povećanje zaposlenosti. Uoči početka drugog polugodišta, škole podižu razinu zaštite, no ne ide sve glatko. Prekid isporuke ruskog plina Europi preko Ukrajine neće utjecati na opskrbu Hrvatske. Južnokorejske vlasti pokušavaju uhititi opozvanog predsjednika, sprječava ih predsjednička sigurnosna služba.
-Urednik: Silvio Šop</description>
-    <pubDate>Fri, 03 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/2f/20250103-jutarnja-kronika-35992814-20250103063038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
