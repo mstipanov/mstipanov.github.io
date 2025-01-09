@@ -6,10 +6,18 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Jan 2025 13:17:57 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 13:19:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.webp</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Rimska revolucija, III. dio 2025-01-09</title>
+    <link>https://api.hrt.hr/media/28/ec/20250109-povijest-cetvrtkom-35949663-20241220114033.mp3</link>
+    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
+    <pubDate>Thu, 09 Jan 2025 12:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/28/ec/20250109-povijest-cetvrtkom-35949663-20241220114033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Rimska revolucija, II. dio 2025-01-02</title>
     <link>https://api.hrt.hr/media/0f/2c/20250102-povijest-cetvrtkom-35949660-20241220113534.mp3</link>
     <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
@@ -83,14 +91,6 @@ O čemu je riječ? Zašto ih je bilo toliko mnogo? Zašto je onaj zadnji iz 1974
 </description>
     <pubDate>Thu, 07 Nov 2024 12:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/ec/20241107-povijest-cetvrtkom-35805825-20241106132542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Američki predsjednički Izbori, II. dio 2024-10-31</title>
-    <link>https://api.hrt.hr/media/d5/98/20241031-povijest-cetvrtkom-35783958-20241030130539.mp3</link>
-    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
-    <pubDate>Thu, 31 Oct 2024 12:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d5/98/20241031-povijest-cetvrtkom-35783958-20241030130539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
