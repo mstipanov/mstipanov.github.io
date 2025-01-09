@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 08 Jan 2025 21:46:41 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 21:50:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.01. 2025-01-09</title>
+    <link>https://api.hrt.hr/media/e4/4c/20250109-kronika-dana-36012536-20250109214545.mp3</link>
+    <description>Vatrogasci se i dalje bore s najrazornijim požarima u povijesti Los Angelesa. Dosad je najmanje petero ljudi poginulo, evakuirano ih gotovo 180 tisuća. Sljedeći bi tjedan mogao biti predstavljen osvježen popis artikala iz potrošačke košarice s ograničenim cijenama. Sve banke u Hrvatskoj od danas imaju obvezu pružanja usluge SEPA instant-plaćanja. Urednica: Mira Barić</description>
+    <pubDate>Thu, 09 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e4/4c/20250109-kronika-dana-36012536-20250109214545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.01. 2025-01-08</title>
     <link>https://api.hrt.hr/media/a5/a6/20250108-kronika-dana-36008928-20250108213538.mp3</link>
     <description>Katastrofalni požari na području Los Angelesa, najmanje je dvoje ljudi poginulo, tisuće evakuiranih. Ne zna se hoće li se sutra na nastavu vratiti djeca iz jedne pulske osnovne škole. Sport: Samuel Kolega treći u slalomu u Madonni di Campiglio. Urednica Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Uz nove sigurnosne mjere sutra počinje drugo polugodište za oko 450 tisuća učenika. Kanadski premijer Justin Trudeau dao ostavku na dužnost premijera i čelnika Liberalne stranke.Pet ljudi poginulo u velikoj zimskoj oluji koja je zahvatila središnji i istočni dio Sjedinjenih Država. Otkazane tisuće letova. Urednica: Mira Barić</description>
     <pubDate>Mon, 06 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/26/20250106-kronika-dana-36002437-20250106213539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.01. 2025-01-05</title>
-    <link>https://api.hrt.hr/media/e3/2c/20250105-kronika-dana-35999824-20250105213534.mp3</link>
-    <description>Druga slalomska pobjeda Zrinke Ljutić u tjedan dana! Nakon pobjede u Kranjskoj Gori postala je vodeća skijašica svijeta. Gužve na graničnim prijelazima - na Bajakovu se čeka i tri sata. Vozači nervozni. Hamas je odobrio popis s 34-ero talaca za razmjenu ako uspije sporazum o prekidu vatre s Izraelom. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 05 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e3/2c/20250105-kronika-dana-35999824-20250105213534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
