@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 08 Jan 2025 14:45:26 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 14:49:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.01. 2025-01-09</title>
+    <link>https://api.hrt.hr/media/dc/1e/20250109-dnevne-novosti-36011348-20250109142539.mp3</link>
+    <description>Vatra i dalje pustoši područje Los Angelesa, najmanje petero mrtvih. Kod Bobote pronađena grobnica s posmrtnim ostacima dviju muških osoba, obitelji nestalih čekaju identifikaciju. Ministarstvo gospodarstva priprema osvježen popis proizvoda s ograničenim cijenama. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 09 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/1e/20250109-dnevne-novosti-36011348-20250109142539.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.01. 2025-01-08</title>
     <link>https://api.hrt.hr/media/d2/1f/20250108-dnevne-novosti-36008057-20250108143018.mp3</link>
     <description>Veliki požar na području Los Angelesa, izgorjele cijele ulice, evakuirano 30 tisuća ljudi. Proglašeno je izvanredno stanje. Mnogo reakcija nakon sinoćnjeg sučeljavanja dvojice predsjedničkih kandidata na HRT-u. Dio roditelja učenika jedne osnovne škole u Puli ni danas nije poslao djecu na nastavu. U 91. godini umro skladatelj Stipica Kalogjera. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Sutra počinje drugo polugodište uz nove sigurnosne mjere u školama.Mandat za sastav nove austrijske vlade dobio vođa krajnje desne Slobodarske stranke. Zelenski traži čvrsta sigurnosna jamstva Sjedinjenih Država ako se budu vodili pregovori s Rusijom. Urednica: Sanja Cota</description>
     <pubDate>Mon, 06 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/98/95/20250106-dnevne-novosti-36001639-20250106145537.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.01. 2025-01-05</title>
-    <link>https://api.hrt.hr/media/9a/4e/20250105-dnevne-novosti-35998929-20250105143534.mp3</link>
-    <description>Zrinka Ljutić pobjednica je slaloma svjetskog kupa u Kranjskoj Gori. Trenutno je vodeća u ukupnom poretku. Uoči početka drugog polugodišta posljednje pripreme kako bi se učenici i nastavnici u školi osjećali sigurno. Politička kriza u Austriji nakon što su propali pregovori sastavljanju vlade. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 05 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/4e/20250105-dnevne-novosti-35998929-20250105143534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
