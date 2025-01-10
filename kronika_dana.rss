@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Jan 2025 21:50:50 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 21:58:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Drugo polugodište počelo uz pojačane sigurnosne mjere u školama.Inflacija u Hrvatskoj i dalje raste, u prosincu iznosila 3,4 posto.Najmanje 126 ljudi poginulo u snažnom potresu koji je pogodio Tibet.Urednica Mira Barić</description>
     <pubDate>Tue, 07 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/16/85/20250107-kronika-dana-36005700-20250107215553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.01. 2025-01-06</title>
-    <link>https://api.hrt.hr/media/2f/26/20250106-kronika-dana-36002437-20250106213539.mp3</link>
-    <description>Uz nove sigurnosne mjere sutra počinje drugo polugodište za oko 450 tisuća učenika. Kanadski premijer Justin Trudeau dao ostavku na dužnost premijera i čelnika Liberalne stranke.Pet ljudi poginulo u velikoj zimskoj oluji koja je zahvatila središnji i istočni dio Sjedinjenih Država. Otkazane tisuće letova. Urednica: Mira Barić</description>
-    <pubDate>Mon, 06 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2f/26/20250106-kronika-dana-36002437-20250106213539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
