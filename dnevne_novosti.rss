@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Jan 2025 14:49:36 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 14:53:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.01. 2025-01-10</title>
+    <link>https://api.hrt.hr/media/2f/41/20250110-dnevne-novosti-36014923-20250110143051.mp3</link>
+    <description>Zadnji je dan predsjedničke kampanje. U nedjelju drugi krug izbora. Još nisu pod nadzorom razorni požari u Los Angelesu. Dosad poginulo desetero ljudi, vatra progutala gotovo 13 tisuća hektara i cijele četvrti pretvorila u prah i pepeo. U unutrašnjosti zemlje pada snijeg ili susnježica. Zasad nema većih problema u prometu. Urednica: Mira Barić</description>
+    <pubDate>Fri, 10 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2f/41/20250110-dnevne-novosti-36014923-20250110143051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.01. 2025-01-09</title>
     <link>https://api.hrt.hr/media/dc/1e/20250109-dnevne-novosti-36011348-20250109142539.mp3</link>
     <description>Vatra i dalje pustoši područje Los Angelesa, najmanje petero mrtvih. Kod Bobote pronađena grobnica s posmrtnim ostacima dviju muških osoba, obitelji nestalih čekaju identifikaciju. Ministarstvo gospodarstva priprema osvježen popis proizvoda s ograničenim cijenama. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Uz pojačane mjere sigurnosti, počelo drugo polugodište za oko 450 tisuća učenika. Inflacija se u eurozoni ubrzava, najsnažniji rast cijena u Hrvatskoj. Snažan potres u Tibetu, poginulo više od stotinu ljudi. Vjernici koji se ravnaju prema Julijanskom kalendaru slave Božić. Urednik: Silvio Šop</description>
     <pubDate>Tue, 07 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4b/c1/20250107-dnevne-novosti-36004785-20250107143103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.01. 2025-01-06</title>
-    <link>https://api.hrt.hr/media/98/95/20250106-dnevne-novosti-36001639-20250106145537.mp3</link>
-    <description>Sutra počinje drugo polugodište uz nove sigurnosne mjere u školama.Mandat za sastav nove austrijske vlade dobio vođa krajnje desne Slobodarske stranke. Zelenski traži čvrsta sigurnosna jamstva Sjedinjenih Država ako se budu vodili pregovori s Rusijom. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 06 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/98/95/20250106-dnevne-novosti-36001639-20250106145537.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
