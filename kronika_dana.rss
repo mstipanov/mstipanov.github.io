@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 10 Jan 2025 21:58:54 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 22:59:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.01. 2025-01-10</title>
+    <link>https://api.hrt.hr/media/a9/7b/20250110-kronika-dana-36015981-20250110223544.mp3</link>
+    <description>Vatrena stihija i dalje guta Los Angeles, ali se vjetar smiruje. Dosad poginulo desetero ljudi, šteta će iznositi stotine milijardi dolara. U ponoć završava predsjednička kampanja uoči drugog izbornog kruga u nedjelju.Novi protokol ulaska u škole otvorio je i pitanje radničkih prava zaposlenika dežurnih na vratima.	Mladen Orešić dobitnik je nagrade za životno djelo Hrvatskoga dizajnerskog društva.
+Urednik: Silvio Šop</description>
+    <pubDate>Fri, 10 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/7b/20250110-kronika-dana-36015981-20250110223544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.01. 2025-01-09</title>
     <link>https://api.hrt.hr/media/e4/4c/20250109-kronika-dana-36012536-20250109214545.mp3</link>
     <description>Vatrogasci se i dalje bore s najrazornijim požarima u povijesti Los Angelesa. Dosad je najmanje petero ljudi poginulo, evakuirano ih gotovo 180 tisuća. Sljedeći bi tjedan mogao biti predstavljen osvježen popis artikala iz potrošačke košarice s ograničenim cijenama. Sve banke u Hrvatskoj od danas imaju obvezu pružanja usluge SEPA instant-plaćanja. Urednica: Mira Barić</description>
