@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 10 Jan 2025 06:52:19 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 07:00:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.01. 2025-01-11</title>
+    <link>https://api.hrt.hr/media/0d/0d/20250111-jutarnja-kronika-36016587-20250111063548.mp3</link>
+    <description>SAD uvodi nove sankcije Rusiji i njezinoj naftnoj industriji. Cijene nafte na međunarodnom tržištu odmah porasle na 79 eura. Zahvaljujući slabljenju vjetra, očekuje se da bi požari u Los Angelesu tijekom vikenda mogli biti zaustavljeni. Počela izborna šutnja uoči drugog kruga predsjedničkih izbora. Urednica: Mira Barić</description>
+    <pubDate>Sat, 11 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/0d/20250111-jutarnja-kronika-36016587-20250111063548.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.01. 2025-01-09</title>
     <link>https://api.hrt.hr/media/61/f6/20250109-jutarnja-kronika-36009525-20250109064041.mp3</link>
     <description>Katastrofalni požar pustoši područje Los Angelesa, najmanje je petero ljudi poginulo, više od stotinu tisuća evakuirano. U Nijemcima nastavljen prosvjed poljoprivrednika nezadovoljnih raspodjelom državne zemlje. Još je neizvjestan povratak na nastavu djece iz razreda jedne pulske osnovne škole, ne dolaze zbog problematičnog učenika premještenog u njihovu školu. Sport: Prvo postolje u karijeri Samuela Kolege - treći u slalomu u Madonni di Campiglio. Urednik Silvio Šop</description>
@@ -23,14 +31,6 @@
     <description>Na HRT-u sinoć održano jedino sučeljavanje uoči drugog kruga predsjedničkih izbora u nedjelju. Drugo polugodište počelo uz pojačane sigurnosne mjere u školama. Inflacija u Hrvatskoj i dalje raste, u prosincu prošle godine bila je 3,4 posto. Veliki požar bjesni luksuznim dijelom Los Angelesa uništavajući kuće, evakuirano 30 tisuća ljudi. Urednik Silvio Šop</description>
     <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/45/20250108-jutarnja-kronika-36006273-20250108063100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.01. 2025-01-07</title>
-    <link>https://api.hrt.hr/media/e0/3e/20250107-jutarnja-kronika-36002965-20250107063549.mp3</link>
-    <description>Uz nove sigurnosne mjere u školama počinje drugo polugodište za oko 450 tisuća učenika. Uoči nedjeljnih izbora za predsjednika Republike, Hrvatska radiotelevizija večeras organizira sučeljavanje kandidata drugog kruga - Zorana Milanovića i Dragana Primorca. Najmanje pedeset mrtvih u snažnom potresu u Tibetu. Kanadski premijer Justin Trudeau dao ostavku. U Austriji prosvjed jer je predsjednik države dao mandat za sastavljanje vlade ekstremnom desničaru Herbertu Kicklu. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e0/3e/20250107-jutarnja-kronika-36002965-20250107063549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
