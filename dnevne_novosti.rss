@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Jan 2025 15:12:35 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 14:49:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Izborna je šutnja uoči sutrašnjeg drugog kruga predsjedničkih izbora. Požari pustoše Los Angeles četvrti dan, najmanje je 11 žrtava. Nove sankcije Rusiji podignule cijene nafte na međunarodnim tržištima, od utorka više cijene goriva u Hrvatskoj. Završava WinOS, najveća vinska manifestacija istočne Hrvatske. Urednik: Silvio Šop</description>
     <pubDate>Sat, 11 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/74/27/20250111-dnevne-novosti-36017359-20250111142549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.01. 2025-01-10</title>
-    <link>https://api.hrt.hr/media/2f/41/20250110-dnevne-novosti-36014923-20250110143051.mp3</link>
-    <description>Zadnji je dan predsjedničke kampanje. U nedjelju drugi krug izbora. Još nisu pod nadzorom razorni požari u Los Angelesu. Dosad poginulo desetero ljudi, vatra progutala gotovo 13 tisuća hektara i cijele četvrti pretvorila u prah i pepeo. U unutrašnjosti zemlje pada snijeg ili susnježica. Zasad nema većih problema u prometu. Urednica: Mira Barić</description>
-    <pubDate>Fri, 10 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2f/41/20250110-dnevne-novosti-36014923-20250110143051.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
