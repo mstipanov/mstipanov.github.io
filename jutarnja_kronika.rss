@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Jan 2025 07:10:49 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 06:46:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.01. 2025-01-14</title>
+    <link>https://api.hrt.hr/media/ae/6b/20250114-jutarnja-kronika-36024144-20250114062553.mp3</link>
+    <description>Nastavlja se tvrda kohabitacija. Premijer i predsjednik Sabora neće doći na inauguraciju novog-starog predsjednika. Danas u našičkoj vojarni primopredaja prvih obnovljenih borbenih vozila pješaštva Bradley Hrvatskoj vojsci. U Los Angelesu jačaju vjetrovi Santa Ana. Najavljeni udari do 120 kilometara na sat. Očekuje se nova vatrena stihija. Zbog orkanske bure za sav promet jutors zatvorena autocesta A1 između Svetog Roka i Posedarja i Jadranska magistrala između Karlobaga i Svete Marije Magdalene.: Mislav Togonal.</description>
+    <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/6b/20250114-jutarnja-kronika-36024144-20250114062553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.01. 2025-01-13</title>
     <link>https://api.hrt.hr/media/88/5b/20250113-jutarnja-kronika-36020698-20250113063117.mp3</link>
     <description>Zoran Milanović - uvjerljivi pobjednik drugog kruga predsjedničkih izbora, dobio gotovo 75 posto glasova birača.	Broj poginulih u požarima na području Los Angelesa porastao na 24. Evakuirano gotovo 200 tisuća ljudi. Urednik: Grgo Mrvica</description>
