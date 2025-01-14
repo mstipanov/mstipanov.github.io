@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 13 Jan 2025 22:14:25 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 21:50:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.01. 2025-01-14</title>
+    <link>https://api.hrt.hr/media/63/fc/20250114-kronika-dana-36026845-20250114213554.mp3</link>
+    <description>Predsjedniku Milanoviću stigla čestitka s Kaptola, iz HDZ-a bojkot svečane inauguracije. Izrael i Hamas sve bliži sporazumu o primirju u Gazi i oslobađanju talaca. Američka administracija na odlasku ima plan za poslijeratno upravljanje Pojasom Gaze, vodila bi ga reformirana Palestinska samouprava. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 14 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/63/fc/20250114-kronika-dana-36026845-20250114213554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.01. 2025-01-13</title>
     <link>https://api.hrt.hr/media/9c/2e/20250113-kronika-dana-36023600-20250113213554.mp3</link>
     <description>Nadmoćna pobjeda Zorana Milanovića za drugi mandat predsjednika države! Predsjednici Vlade i Sabora neće ići na Milanovićevu inauguraciju. Glavni tajnik NATO-a Mark Rutte pozvao Europljane da više troše na obranu, u suprotnom - poručuje - treba učiti ruski jezik ili otići na Novi Zeland. Urednica: Sanja Cota.</description>
@@ -31,15 +39,6 @@
     <description>Sutra, u drugom krugu, biramo hrvatskog predsjednika. Još najmanje četiri požara haraju područjem Los Angelesa. Sljedeći mjesec izbori u Njemačkoj. Trenutačno najveća potpora Kršćansko-demokratskoj uniji, druga Alternativa za Njemačku. Urednica: Sanja Cota</description>
     <pubDate>Sat, 11 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/00/86/20250111-kronika-dana-36018135-20250111213550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.01. 2025-01-10</title>
-    <link>https://api.hrt.hr/media/a9/7b/20250110-kronika-dana-36015981-20250110223544.mp3</link>
-    <description>Vatrena stihija i dalje guta Los Angeles, ali se vjetar smiruje. Dosad poginulo desetero ljudi, šteta će iznositi stotine milijardi dolara. U ponoć završava predsjednička kampanja uoči drugog izbornog kruga u nedjelju.Novi protokol ulaska u škole otvorio je i pitanje radničkih prava zaposlenika dežurnih na vratima.	Mladen Orešić dobitnik je nagrade za životno djelo Hrvatskoga dizajnerskog društva.
-Urednik: Silvio Šop</description>
-    <pubDate>Fri, 10 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a9/7b/20250110-kronika-dana-36015981-20250110223544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
