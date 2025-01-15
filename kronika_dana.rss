@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 15 Jan 2025 21:54:37 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 22:24:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.01. 2025-01-15</title>
+    <link>https://api.hrt.hr/media/d8/cb/20250115-kronika-dana-36030283-20250115214054.mp3</link>
+    <description>Izrael i Hamas dogovorili povijesni mir u Gazi, trebao bi stupiti na snagu u nedjelju. Aktualnim prijepodnevom počela nova saborska sjednica. Vlada sutra utvrđuje novi popis proizvoda s ograničenom cijenom. Rusija izvela veliki raketni napad na ukrajinsku energetsku infrastrukturu. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 15 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d8/cb/20250115-kronika-dana-36030283-20250115214054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.01. 2025-01-14</title>
     <link>https://api.hrt.hr/media/63/fc/20250114-kronika-dana-36026845-20250114213554.mp3</link>
     <description>Predsjedniku Milanoviću stigla čestitka s Kaptola, iz HDZ-a bojkot svečane inauguracije. Izrael i Hamas sve bliži sporazumu o primirju u Gazi i oslobađanju talaca. Američka administracija na odlasku ima plan za poslijeratno upravljanje Pojasom Gaze, vodila bi ga reformirana Palestinska samouprava. Urednica: Sanja Cota</description>
