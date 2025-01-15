@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 14 Jan 2025 21:50:23 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 21:54:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Zoran Milanović - uvjerljivi pobjednik drugog kruga predsjedničkih izbora, dobio gotovo 75 posto glasova birača. Dragan Primorac obratio se javnosti, no ni on, ni premijer Plenković nisu čestitali Milanoviću na pobjedi. Politički analitičari ne očekuju promjenu odnosa između Pantovčaka i Banskih dvora. I šesti dan borba s požarima u Los Angelesu, ponovno se najavljuje jačanje olujnih vjetrova. Urednica: Mira Barić</description>
     <pubDate>Sun, 12 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3f/5a/20250112-kronika-dana-36020167-20250112214015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.01. 2025-01-11</title>
-    <link>https://api.hrt.hr/media/00/86/20250111-kronika-dana-36018135-20250111213550.mp3</link>
-    <description>Sutra, u drugom krugu, biramo hrvatskog predsjednika. Još najmanje četiri požara haraju područjem Los Angelesa. Sljedeći mjesec izbori u Njemačkoj. Trenutačno najveća potpora Kršćansko-demokratskoj uniji, druga Alternativa za Njemačku. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 11 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/00/86/20250111-kronika-dana-36018135-20250111213550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
