@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 15 Jan 2025 14:53:22 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 14:57:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.01. 2025-01-16</title>
+    <link>https://api.hrt.hr/media/91/e7/20250116-dnevne-novosti-36032744-20250116142554.mp3</link>
+    <description>Nestalo dijete u koritu Save u Zagrebu traži više od 50 ljudi, majka uhićena. Zbog prijetnje studenta na društvenim mrežama, otkazana nastava na splitskome Filozofskom fakultetu, on uhićen. Vlada održava sastanak s predstavnicima trgovačkih lanaca, distributerima i proizvođačima, utvrdit će se novi popis proizvoda s ograničenom cijenom. Nakon objave sporazuma o prekidu vatre s Izraelom, u pojasu Gaze ubijeno više od 70 ljudi. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 16 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/91/e7/20250116-dnevne-novosti-36032744-20250116142554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.01. 2025-01-15</title>
     <link>https://api.hrt.hr/media/ce/d2/20250115-dnevne-novosti-36029203-20250115143013.mp3</link>
     <description>Burnim aktualnim prijepodnevom počela nova saborska sjednica. Pobjeda Zorana Milanovića i inflacija bile glavne teme. Dok teče američki rok za izbacivanje Rusa iz vlasništva naftne industrije Srbije, Janaf ne predviđa kolika je moguća šteta. Rusija izvela jake zračne napade diljem Ukrajine. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nadmoćna pobjeda Zorana Milanovića u drugom krugu predsjedničkih izbora. Osvojio gotovo 75 % potpore birača! Dragan Primorac tri puta manje, a nakon poraza nije čestitao pobjedniku. Orkanski vjetar zatvorio autocestu prema Dalmaciji. Pijavica poharala Novigrad. 24-ero ljudi poginulo u požarima u Los Angelesu. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 13 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b3/3e/20250113-dnevne-novosti-36022525-20250113143121.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.01. 2025-01-12</title>
-    <link>https://api.hrt.hr/media/d6/b8/20250112-dnevne-novosti-36019422-20250112142553.mp3</link>
-    <description>Do 11 i 30 na predsjedničke izbore izašlo 13,8 posto birača. Oko 21 sat već bismo mogli znati tko je hrvatski predsjednik - Zoran Milanović ili Dragan Primorac. U požarima u Los Angelesu potvrđena smrt 16 ljudi. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 12 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d6/b8/20250112-dnevne-novosti-36019422-20250112142553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
