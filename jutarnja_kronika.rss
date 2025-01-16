@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Jan 2025 06:56:09 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 08:26:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.01. 2025-01-16</title>
+    <link>https://api.hrt.hr/media/af/2b/20250116-jutarnja-kronika-36030983-20250116080058.mp3</link>
+    <description>Slavlje u Gazi! Izrael i Hamas dogovorili povijesni prekid vatre. Vlada će s trgovcima dogovoriti novi popis proizvoda s ograničenom cijenom. Hrvatski rukometaši pobjedom počeli Svjetsko prvenstvo u zagrebačkoj Areni. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 16 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/af/2b/20250116-jutarnja-kronika-36030983-20250116080058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.01. 2025-01-15</title>
     <link>https://api.hrt.hr/media/97/0e/20250115-jutarnja-kronika-36027401-20250115063506.mp3</link>
     <description>Aktualnim prijepodnevom počinje redovita saborska sjednica, prva nakon predsjedničkih izbora. Izrael i Hamas sve bliži sporazumu o primirju u Gazi i oslobađanju talaca. Počelo je Svjetsko rukometno prvenstvo. Hrvatska u Zagrebu večeras igra s Bahreinom. Urednik: Grgo Mrvica</description>
