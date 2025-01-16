@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 15 Jan 2025 22:24:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 21:59:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nadmoćna pobjeda Zorana Milanovića za drugi mandat predsjednika države! Predsjednici Vlade i Sabora neće ići na Milanovićevu inauguraciju. Glavni tajnik NATO-a Mark Rutte pozvao Europljane da više troše na obranu, u suprotnom - poručuje - treba učiti ruski jezik ili otići na Novi Zeland. Urednica: Sanja Cota.</description>
     <pubDate>Mon, 13 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9c/2e/20250113-kronika-dana-36023600-20250113213554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.01. 2025-01-12</title>
-    <link>https://api.hrt.hr/media/3f/5a/20250112-kronika-dana-36020167-20250112214015.mp3</link>
-    <description>Zoran Milanović - uvjerljivi pobjednik drugog kruga predsjedničkih izbora, dobio gotovo 75 posto glasova birača. Dragan Primorac obratio se javnosti, no ni on, ni premijer Plenković nisu čestitali Milanoviću na pobjedi. Politički analitičari ne očekuju promjenu odnosa između Pantovčaka i Banskih dvora. I šesti dan borba s požarima u Los Angelesu, ponovno se najavljuje jačanje olujnih vjetrova. Urednica: Mira Barić</description>
-    <pubDate>Sun, 12 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/5a/20250112-kronika-dana-36020167-20250112214015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
