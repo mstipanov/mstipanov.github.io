@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Jan 2025 17:50:11 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 17:28:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>POVIJEST LINDARA 2025-01-16</title>
+    <link>https://api.hrt.hr/media/dd/a1/20250116-historia-histriae-8146634-20250116165552.mp3</link>
+    <description>Danas pričamo o zanimljivoj povijesti Lindara. Naš gost - Kristijan Žgaljardić</description>
+    <pubDate>Thu, 16 Jan 2025 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/a1/20250116-historia-histriae-8146634-20250116165552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>KRISTIJAN ŽGALJARDIĆ 09.01.2025 2025-01-09</title>
     <link>https://api.hrt.hr/media/72/eb/20250109-historia-histriae-8144362-20250109172050.mp3</link>
     <description>Pričamo o istaknutom narodnom preporoditelju iz Pićna, Šimi Kureliću. Naš gost je povjesničar Kristijan Žgaljardić</description>
@@ -79,14 +87,6 @@
     <description>U goste nam dolazi kvizaš Antonio Božić. Postavlja Vam intrigantna pitanja koja se tiču povijesti Istre, a za one koji znaju odgovore imamo i nagrade! Budite se nama u 17.15 minuta </description>
     <pubDate>Thu, 24 Oct 2024 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/85/72/20241024-historia-histriae-8118185-20241024160559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Slaven Bertosa za Historiu 2024-10-17</title>
-    <link>https://api.hrt.hr/media/d7/94/20241017-historia-histriae-8115970-20241017160019.mp3</link>
-    <description>U goste nam dolazi dr. Slaven Bertoša, a pričamo o povijesti pulske škole Šijana</description>
-    <pubDate>Thu, 17 Oct 2024 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d7/94/20241017-historia-histriae-8115970-20241017160019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
