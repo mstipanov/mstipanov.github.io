@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Jan 2025 21:59:09 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 22:29:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.01. 2025-01-16</title>
+    <link>https://api.hrt.hr/media/d3/2e/20250116-kronika-dana-36033832-20250116215553.mp3</link>
+    <description>Sutra će se nastaviti potraga za trogodišnjom djevojčicom koja je jučer poslijepodne nestala u rijeci Savi u Zagrebu. Njezina majka uhićena zbog sumnje na teško ubojstvo.Do kraja mjeseca znat će se novi popis 50 proizvoda s ograničenim cijenama.Umro David Lynch, američki redatelj, oskarovac i tvorac kultne serije Twin Peaks.
+Urednica: Mira Barić</description>
+    <pubDate>Thu, 16 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d3/2e/20250116-kronika-dana-36033832-20250116215553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.01. 2025-01-15</title>
     <link>https://api.hrt.hr/media/d8/cb/20250115-kronika-dana-36030283-20250115214054.mp3</link>
     <description>Izrael i Hamas dogovorili povijesni mir u Gazi, trebao bi stupiti na snagu u nedjelju. Aktualnim prijepodnevom počela nova saborska sjednica. Vlada sutra utvrđuje novi popis proizvoda s ograničenom cijenom. Rusija izvela veliki raketni napad na ukrajinsku energetsku infrastrukturu. Urednik: Silvio Šop</description>
