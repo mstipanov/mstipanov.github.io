@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Jan 2025 22:29:15 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 21:36:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Predsjedniku Milanoviću stigla čestitka s Kaptola, iz HDZ-a bojkot svečane inauguracije. Izrael i Hamas sve bliži sporazumu o primirju u Gazi i oslobađanju talaca. Američka administracija na odlasku ima plan za poslijeratno upravljanje Pojasom Gaze, vodila bi ga reformirana Palestinska samouprava. Urednica: Sanja Cota</description>
     <pubDate>Tue, 14 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/63/fc/20250114-kronika-dana-36026845-20250114213554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.01. 2025-01-13</title>
-    <link>https://api.hrt.hr/media/9c/2e/20250113-kronika-dana-36023600-20250113213554.mp3</link>
-    <description>Nadmoćna pobjeda Zorana Milanovića za drugi mandat predsjednika države! Predsjednici Vlade i Sabora neće ići na Milanovićevu inauguraciju. Glavni tajnik NATO-a Mark Rutte pozvao Europljane da više troše na obranu, u suprotnom - poručuje - treba učiti ruski jezik ili otići na Novi Zeland. Urednica: Sanja Cota.</description>
-    <pubDate>Mon, 13 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/2e/20250113-kronika-dana-36023600-20250113213554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
