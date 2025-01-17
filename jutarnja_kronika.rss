@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 16 Jan 2025 08:26:31 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 07:03:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.01. 2025-01-17</title>
+    <link>https://api.hrt.hr/media/e7/db/20250117-jutarnja-kronika-36034458-20250117063555.mp3</link>
+    <description>Nastavlja se potraga za trogodišnjom djevojčicom koja je prekjučer nestala u Savi u Zagrebu. Njezina majka uhićena je zbog sumnje na teško ubojstvo. Do kraja mjeseca znat će se novi popis 50 proizvoda s ograničenim cijenama. Ured izraelskog premijera Benjamina Netanjahua objavio je da je pregovarački tim Izraela s Hamasom potpisao sporazum o primirju u Gazi i oslobađanju talaca. Rođendan je umjetnosti, Hrvatski radio slavi od 20 do 22 sata na Trećem programu. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 17 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e7/db/20250117-jutarnja-kronika-36034458-20250117063555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.01. 2025-01-16</title>
     <link>https://api.hrt.hr/media/af/2b/20250116-jutarnja-kronika-36030983-20250116080058.mp3</link>
     <description>Slavlje u Gazi! Izrael i Hamas dogovorili povijesni prekid vatre. Vlada će s trgovcima dogovoriti novi popis proizvoda s ograničenom cijenom. Hrvatski rukometaši pobjedom počeli Svjetsko prvenstvo u zagrebačkoj Areni. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Nastavlja se tvrda kohabitacija. Premijer i predsjednik Sabora neće doći na inauguraciju novog-starog predsjednika. Danas u našičkoj vojarni primopredaja prvih obnovljenih borbenih vozila pješaštva Bradley Hrvatskoj vojsci. U Los Angelesu jačaju vjetrovi Santa Ana. Najavljeni udari do 120 kilometara na sat. Očekuje se nova vatrena stihija. Zbog orkanske bure za sav promet jutors zatvorena autocesta A1 između Svetog Roka i Posedarja i Jadranska magistrala između Karlobaga i Svete Marije Magdalene.: Mislav Togonal.</description>
     <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/6b/20250114-jutarnja-kronika-36024144-20250114062553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.01. 2025-01-13</title>
-    <link>https://api.hrt.hr/media/88/5b/20250113-jutarnja-kronika-36020698-20250113063117.mp3</link>
-    <description>Zoran Milanović - uvjerljivi pobjednik drugog kruga predsjedničkih izbora, dobio gotovo 75 posto glasova birača.	Broj poginulih u požarima na području Los Angelesa porastao na 24. Evakuirano gotovo 200 tisuća ljudi. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 13 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/88/5b/20250113-jutarnja-kronika-36020698-20250113063117.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
