@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 18 Jan 2025 07:08:18 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 06:42:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.01. 2025-01-19</title>
+    <link>https://api.hrt.hr/media/5c/fc/20250119-jutarnja-kronika-36040595-20250119063044.mp3</link>
+    <description>Za pola sata počinje povijesni prekid vatre Izraela i Hamasa u Gazi. Prvi taoci trebali bi se vratiti svojim kućama. Dan prije inauguracije, Donald Trump će u središtu Washingtona održati pobjednički skup s pristašama, uz poruku: Učinite Ameriku ponovno velikom! Donna Vekić zaustavljena u četvrtom kolu Australian Opena. Rukometaši večeras protiv Egipta za prvo mjesto u skupini. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 19 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5c/fc/20250119-jutarnja-kronika-36040595-20250119063044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.01. 2025-01-18</title>
     <link>https://api.hrt.hr/media/25/05/20250118-jutarnja-kronika-36038092-20250118063540.mp3</link>
     <description>Ministar Josip Dabro dao noćas ostavku, nakon objavljene snimke na kojoj pištoljem puca iz automobila u vožnji. Izraelska vlada prihvatila noćas dogovor o prekidu vatre s Hamasom! Protiv odluke bila su osmorica ministara. Dio radnika INA-e prosvjedovat će ispred upravne zgrade u Zagrebu. Nova uvjerljiva pobjeda hrvatskih rukometaša. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Slavlje u Gazi! Izrael i Hamas dogovorili povijesni prekid vatre. Vlada će s trgovcima dogovoriti novi popis proizvoda s ograničenom cijenom. Hrvatski rukometaši pobjedom počeli Svjetsko prvenstvo u zagrebačkoj Areni. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 16 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/af/2b/20250116-jutarnja-kronika-36030983-20250116080058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.01. 2025-01-15</title>
-    <link>https://api.hrt.hr/media/97/0e/20250115-jutarnja-kronika-36027401-20250115063506.mp3</link>
-    <description>Aktualnim prijepodnevom počinje redovita saborska sjednica, prva nakon predsjedničkih izbora. Izrael i Hamas sve bliži sporazumu o primirju u Gazi i oslobađanju talaca. Počelo je Svjetsko rukometno prvenstvo. Hrvatska u Zagrebu večeras igra s Bahreinom. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/97/0e/20250115-jutarnja-kronika-36027401-20250115063506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
