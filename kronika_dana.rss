@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 18 Jan 2025 22:10:51 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 21:44:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.01. 2025-01-19</title>
+    <link>https://api.hrt.hr/media/52/7e/20250119-kronika-dana-36042319-20250119213543.mp3</link>
+    <description>U pojasu Gaze traje prekid vatre, Hamas iz zatočeništva oslobodio tri Izraelke. Sutra inauguracija američkog predsjednika Donalda Trumpa. Zbog previsokih cijena društvenim mrežama širi se poziv na bojkot trgovina u petak, 24-og ovog mjeseca. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 19 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/52/7e/20250119-kronika-dana-36042319-20250119213543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.01. 2025-01-18</title>
     <link>https://api.hrt.hr/media/93/d3/20250118-kronika-dana-36039982-20250118214050.mp3</link>
     <description>Nakon što je u medije procurila snimka na kojoj iz automobila puca pištoljem, Josip Dabro dao ostavku na dužnost ministra poljoprivrede. Ni četvrtog dana potrage za djevojčicom nestalom u Savi nije otkriven nikakav trag. Muškarac poginuo u naletu vlaka u Unešiću. Uoči sutrašnjeg stupanja na snagu prekida vatre Izraela i Hamasa, premijer Netanyahu izjavio da Izrael zadržava pravo na nastavak rata u svakom trenutku. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Thu, 16 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/2e/20250116-kronika-dana-36033832-20250116215553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.01. 2025-01-15</title>
-    <link>https://api.hrt.hr/media/d8/cb/20250115-kronika-dana-36030283-20250115214054.mp3</link>
-    <description>Izrael i Hamas dogovorili povijesni mir u Gazi, trebao bi stupiti na snagu u nedjelju. Aktualnim prijepodnevom počela nova saborska sjednica. Vlada sutra utvrđuje novi popis proizvoda s ograničenom cijenom. Rusija izvela veliki raketni napad na ukrajinsku energetsku infrastrukturu. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 15 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d8/cb/20250115-kronika-dana-36030283-20250115214054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
