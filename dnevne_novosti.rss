@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 19 Jan 2025 14:43:36 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 14:47:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 20.01. 2025-01-20</title>
+    <link>https://api.hrt.hr/media/ba/af/20250120-dnevne-novosti-36044608-20250120143052.mp3</link>
+    <description>Još tri sata do svečane inauguracije novog američkog predsjednika Donalda Trumpa. Tko će biti novi ministar poljoprivrede? Bivši ministar Dabro podnio zahtjev za aktiviranje zastupničkog mandata. Sve je više poziva na bojkot trgovina u petak. Danas je najdepresivniji dan u godini. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 20 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ba/af/20250120-dnevne-novosti-36044608-20250120143052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 19.01. 2025-01-19</title>
     <link>https://api.hrt.hr/media/fb/58/20250119-dnevne-novosti-36041361-20250119142543.mp3</link>
     <description>Počela provedba sporazuma o prekidu vatre Izraela i Hamasa. Uoči sutrašnje predsjedničke inauguracije, Donald Trump u Washingtonu će održati pobjednički skup u areni Capital One. Peti je dan potrage za trogodišnjom djevojčicom koja je u srijedu nestala u Savi. Društvenim mrežama širi se poziv na bojkot hrvatskih trgovina u petak, 24-og ovog mjeseca. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Sve manje nade da će u rijeci Savi biti pronađeno tijelo trogodišnje djevojčice, njezinoj majci određen jednomjesečni istražni zatvor. Izraelski sigurnosni kabinet potvrdio sporazum o prekidu vatre u Gazi, prvi taoci trebali bi se vratiti u Izrael u nedjelju. Hrvatskoj ratnoj mornarici predan novi ophodni brod, izgrađen u Brodosplitu. Urednica: Mira Barić</description>
     <pubDate>Fri, 17 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/aa/76/20250117-dnevne-novosti-36036301-20250117143021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 16.01. 2025-01-16</title>
-    <link>https://api.hrt.hr/media/91/e7/20250116-dnevne-novosti-36032744-20250116142554.mp3</link>
-    <description>Nestalo dijete u koritu Save u Zagrebu traži više od 50 ljudi, majka uhićena. Zbog prijetnje studenta na društvenim mrežama, otkazana nastava na splitskome Filozofskom fakultetu, on uhićen. Vlada održava sastanak s predstavnicima trgovačkih lanaca, distributerima i proizvođačima, utvrdit će se novi popis proizvoda s ograničenom cijenom. Nakon objave sporazuma o prekidu vatre s Izraelom, u pojasu Gaze ubijeno više od 70 ljudi. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 16 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/91/e7/20250116-dnevne-novosti-36032744-20250116142554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
