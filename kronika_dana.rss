@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 19 Jan 2025 21:44:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 21:49:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.01. 2025-01-20</title>
+    <link>https://api.hrt.hr/media/7d/a2/20250120-kronika-dana-36045732-20250120214049.mp3</link>
+    <description>Donald Trump prisegnuo za 47-mog predsjednika Sjedinjenih Država. U prvom govoru poručio da od danas počinje zlatno doba Amerike. Ime novog ministra poljoprivrede iz kvote Domovinskog pokreta trebalo bi se znati do kraja tjedna. Studenskim prosvjedima u Beogradu potporu dali i učitelji od kojih je dio od danas u štrajku. Urednica: Mira Barić</description>
+    <pubDate>Mon, 20 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7d/a2/20250120-kronika-dana-36045732-20250120214049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.01. 2025-01-19</title>
     <link>https://api.hrt.hr/media/52/7e/20250119-kronika-dana-36042319-20250119213543.mp3</link>
     <description>U pojasu Gaze traje prekid vatre, Hamas iz zatočeništva oslobodio tri Izraelke. Sutra inauguracija američkog predsjednika Donalda Trumpa. Zbog previsokih cijena društvenim mrežama širi se poziv na bojkot trgovina u petak, 24-og ovog mjeseca. Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>Josip Dabro pucao iz pištolja iz automobila u vožnji, tvrdi da tada nije bio u Vladi, DORH i policija istražit će slučaj. Tijelo trogodišnje djevojčice nije pronađeno, njezina majka branila se šutnjom, u istražnom je zatvoru. Predsjednik Milanović predložio premijeru Plenkoviću sazivanje sjednice Vijeća za obranu. Urednica: Sanja Cota</description>
     <pubDate>Fri, 17 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/d4/20250117-kronika-dana-36037431-20250117215017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.01. 2025-01-16</title>
-    <link>https://api.hrt.hr/media/d3/2e/20250116-kronika-dana-36033832-20250116215553.mp3</link>
-    <description>Sutra će se nastaviti potraga za trogodišnjom djevojčicom koja je jučer poslijepodne nestala u rijeci Savi u Zagrebu. Njezina majka uhićena zbog sumnje na teško ubojstvo.Do kraja mjeseca znat će se novi popis 50 proizvoda s ograničenim cijenama.Umro David Lynch, američki redatelj, oskarovac i tvorac kultne serije Twin Peaks.
-Urednica: Mira Barić</description>
-    <pubDate>Thu, 16 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/2e/20250116-kronika-dana-36033832-20250116215553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
