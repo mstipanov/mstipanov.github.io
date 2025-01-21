@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 20 Jan 2025 06:46:18 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 06:51:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 21.01. 2025-01-21</title>
+    <link>https://api.hrt.hr/media/df/f7/20250121-jutarnja-kronika-36046366-20250121063544.mp3</link>
+    <description>Donald Trump prisegnuo na početku svojeg drugog mandata u Bijeloj kući. Bivši ministar Dabro dao iskaz u Uskoku zbog stanja u Hrvatskim šumama. U Saboru danas rasprava o izmjenama Zakona o vlasništvu, kojim će se građanima država članica OECD-a omogućiti kupnja nekretnina u Hrvatskoj.
+Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 21 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/f7/20250121-jutarnja-kronika-36046366-20250121063544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 20.01. 2025-01-20</title>
     <link>https://api.hrt.hr/media/55/3d/20250120-jutarnja-kronika-36042888-20250120063050.mp3</link>
     <description>Danas inauguracija Donalda Trumpa. USKOK u Hrvatskim šumama istražuje otkup drvne mase. Društvenim mrežama širi se poziv na bojkot trgovina u petak zbog divljanja cijena. Nakon prvih talaca koje je oslobodio Hamas, pušteni i prvi palestinci iz izraelskih zatvora. Urednik: Mislav Togonal</description>
@@ -31,14 +40,6 @@
     <description>Ministar Josip Dabro dao noćas ostavku, nakon objavljene snimke na kojoj pištoljem puca iz automobila u vožnji. Izraelska vlada prihvatila noćas dogovor o prekidu vatre s Hamasom! Protiv odluke bila su osmorica ministara. Dio radnika INA-e prosvjedovat će ispred upravne zgrade u Zagrebu. Nova uvjerljiva pobjeda hrvatskih rukometaša. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 18 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/05/20250118-jutarnja-kronika-36038092-20250118063540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 17.01. 2025-01-17</title>
-    <link>https://api.hrt.hr/media/e7/db/20250117-jutarnja-kronika-36034458-20250117063555.mp3</link>
-    <description>Nastavlja se potraga za trogodišnjom djevojčicom koja je prekjučer nestala u Savi u Zagrebu. Njezina majka uhićena je zbog sumnje na teško ubojstvo. Do kraja mjeseca znat će se novi popis 50 proizvoda s ograničenim cijenama. Ured izraelskog premijera Benjamina Netanjahua objavio je da je pregovarački tim Izraela s Hamasom potpisao sporazum o primirju u Gazi i oslobađanju talaca. Rođendan je umjetnosti, Hrvatski radio slavi od 20 do 22 sata na Trećem programu. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 17 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e7/db/20250117-jutarnja-kronika-36034458-20250117063555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
