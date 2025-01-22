@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 21 Jan 2025 14:52:35 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 14:56:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.01. 2025-01-22</title>
+    <link>https://api.hrt.hr/media/a3/76/20250122-dnevne-novosti-36052107-20250122143059.mp3</link>
+    <description>Inauguracija predsjednika Milanovića bit će na Pantovčaku 18. veljače. Prvi potezi Donalda Trumpa, odnosno najave uvođenja carina, neke od tema na Gospodarskom forumu u Davosu. Županijsko državno odvjetništvo u Vukovaru potvrdilo da istražuje nove snimke na kojima Josip Dabro ilegalno oružje daje maloljetnicima.
+Urednica: Mira Barić</description>
+    <pubDate>Wed, 22 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a3/76/20250122-dnevne-novosti-36052107-20250122143059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.01. 2025-01-21</title>
     <link>https://api.hrt.hr/media/93/f8/20250121-dnevne-novosti-36048256-20250121143052.mp3</link>
     <description>Najmanje 66 ljudi poginulo, a više od 50 ozlijeđeno u požaru u hotelu na skijalištu na sjeverozapadu Turske. Dan nakon inauguracije Donald Trump povlači prve poteze - uz ostalo opozvao 78 uredbi svojeg prethodnika. Ni nakon današnjeg sastanka vladajuće koalicije nema naznaka tko će zamijeniti Josipa Dabru na mjestu ministra poljoprivrede. Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Počela provedba sporazuma o prekidu vatre Izraela i Hamasa. Uoči sutrašnje predsjedničke inauguracije, Donald Trump u Washingtonu će održati pobjednički skup u areni Capital One. Peti je dan potrage za trogodišnjom djevojčicom koja je u srijedu nestala u Savi. Društvenim mrežama širi se poziv na bojkot hrvatskih trgovina u petak, 24-og ovog mjeseca. Urednik: Silvio Šop</description>
     <pubDate>Sun, 19 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fb/58/20250119-dnevne-novosti-36041361-20250119142543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.01. 2025-01-18</title>
-    <link>https://api.hrt.hr/media/ab/f2/20250118-dnevne-novosti-36039173-20250118142537.mp3</link>
-    <description>Nakon snimke na kojoj puca iz pištolja, Josip Dabro dao ostavku na dužnost ministra poljoprivrede. Još nema traga djevojčici nestaloj u rijeci Savi. Izraelska vlada noćas prihvatila dogovor o prekidu vatre s Hamasom.: Sanja Cota</description>
-    <pubDate>Sat, 18 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ab/f2/20250118-dnevne-novosti-36039173-20250118142537.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
