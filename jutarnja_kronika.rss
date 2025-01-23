@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 22 Jan 2025 06:55:21 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 06:59:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.01. 2025-01-23</title>
+    <link>https://api.hrt.hr/media/1c/70/20250123-jutarnja-kronika-36053734-20250123063502.mp3</link>
+    <description>Na Gospodarskom forumu u Davosu jedna od tema bila je uvođenje carina Europskoj uniji i Kini, što je najavio američki predsjednik Donald Trump. On će se danas sudionicima skupa obratiti videolinkom. Inauguracija predsjednika Zorana Milanovića bit će 18. sljedećeg mjeseca na Pantovčaku. Zbog nove snimke bivšeg ministra Josipa Dabre, vukovarsko Županijsko državno odvjetništvo provodi izvide. Objavit će se nominacije za Oscare, na takozvanoj "short listi" za kratki film je i "Čovjek koji nije mogao šutjeti" Nebojše Slijepčevića. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 23 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/70/20250123-jutarnja-kronika-36053734-20250123063502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.01. 2025-01-22</title>
     <link>https://api.hrt.hr/media/4a/82/20250122-jutarnja-kronika-36050039-20250122063059.mp3</link>
     <description>U Davosu se održava godišnji sastanak Svjetskoga gospodarskog foruma, sudjeluje i premijer Andrej Plenković. Još se ne zna tko će zamijeniti Josipa Dabru na mjestu ministra poljoprivrede. Najmanje 76-ero ljudi poginulo, a više od 50 ozlijeđeno u požaru u hotelu u Turskoj. U zemlji je dan žalosti. Večeras premijera predstave "Slijepi vode slijepe", prve suradnje Montažstroja i kazališta Gavella. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ Urednik: Mislav Togonal</description>
     <description>Danas inauguracija Donalda Trumpa. USKOK u Hrvatskim šumama istražuje otkup drvne mase. Društvenim mrežama širi se poziv na bojkot trgovina u petak zbog divljanja cijena. Nakon prvih talaca koje je oslobodio Hamas, pušteni i prvi palestinci iz izraelskih zatvora. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/55/3d/20250120-jutarnja-kronika-36042888-20250120063050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.01. 2025-01-19</title>
-    <link>https://api.hrt.hr/media/5c/fc/20250119-jutarnja-kronika-36040595-20250119063044.mp3</link>
-    <description>Za pola sata počinje povijesni prekid vatre Izraela i Hamasa u Gazi. Prvi taoci trebali bi se vratiti svojim kućama. Dan prije inauguracije, Donald Trump će u središtu Washingtona održati pobjednički skup s pristašama, uz poruku: Učinite Ameriku ponovno velikom! Donna Vekić zaustavljena u četvrtom kolu Australian Opena. Rukometaši večeras protiv Egipta za prvo mjesto u skupini. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 19 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/fc/20250119-jutarnja-kronika-36040595-20250119063044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
