@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 22 Jan 2025 21:58:04 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 22:02:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.01. 2025-01-23</title>
+    <link>https://api.hrt.hr/media/b0/de/20250123-kronika-dana-36057062-20250123214012.mp3</link>
+    <description>Donald Trump videovezom sudjelovao na konferenciji u Davosu, svjetskoj poslovnoj eliti poručio - proizvodite u SAD-u ako želite izbjeći carine. Ministarstvo vanjskih poslova preporučilo odgodu putovanja u Srbiju. Zbog previsokih cijena, građani će sutra prvi put bojkotirati trgovine. Uredila: Sanja Cota</description>
+    <pubDate>Thu, 23 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/de/20250123-kronika-dana-36057062-20250123214012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.01. 2025-01-22</title>
     <link>https://api.hrt.hr/media/3f/0f/20250122-kronika-dana-36053103-20250122214056.mp3</link>
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump prisegnuo za 47-mog predsjednika Sjedinjenih Država. U prvom govoru poručio da od danas počinje zlatno doba Amerike. Ime novog ministra poljoprivrede iz kvote Domovinskog pokreta trebalo bi se znati do kraja tjedna. Studenskim prosvjedima u Beogradu potporu dali i učitelji od kojih je dio od danas u štrajku. Urednica: Mira Barić</description>
     <pubDate>Mon, 20 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7d/a2/20250120-kronika-dana-36045732-20250120214049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.01. 2025-01-19</title>
-    <link>https://api.hrt.hr/media/52/7e/20250119-kronika-dana-36042319-20250119213543.mp3</link>
-    <description>U pojasu Gaze traje prekid vatre, Hamas iz zatočeništva oslobodio tri Izraelke. Sutra inauguracija američkog predsjednika Donalda Trumpa. Zbog previsokih cijena društvenim mrežama širi se poziv na bojkot trgovina u petak, 24-og ovog mjeseca. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 19 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/52/7e/20250119-kronika-dana-36042319-20250119213543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
