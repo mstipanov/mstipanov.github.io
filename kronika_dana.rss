@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 28 Jan 2025 21:53:37 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 22:14:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.01. 2025-01-29</title>
+    <link>https://api.hrt.hr/media/ad/f4/20250129-kronika-dana-36077102-20250129214044.mp3</link>
+    <description>Ukrajinski premijer Denis Šmihal u Zagrebu rekao da je zahvalan Vladi i Saboru na potpori Ukrajini. Sutra sastanak pedstavnika Vlade i trgovačkih lanaca, ali i novi bojkot trgovina. Za sutrašnje rukometno polufinale ulaznica više nema, no vrtoglavo im rastu cijene u oglasnicima. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 29 Jan 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ad/f4/20250129-kronika-dana-36077102-20250129214044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.01. 2025-01-28</title>
     <link>https://api.hrt.hr/media/f7/52/20250128-kronika-dana-36073214-20250128214537.mp3</link>
     <description>Pobjeda nad Mađarima u posljednjoj sekundi utakmice, Hrvatska će u polufinalu Svjetskog rukometnog prvenstva igrati protiv Francuske. David Vlajčić kandidat je Domovinskog pokreta za ministra poljoprivrede, glasovanje u petak. Nema rješenja u čakovečkoj bolnici, kirurzi sprmni tražiti novi posao. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Kandidat Domovinskog pokreta za novog ministra poljoprivrede bit će David Vlajčić, dosadašnji državni tajnik u Ministarstvu prostornog uređenja, graditeljstva i državne imovine. Kolumbija odbila prihvatiti dva američka zrakoplova s deportiranim migrantima. Donald Trump nameće joj visoke carine i sankcije. U petak novi bojkot trgovina - pojedinosti će biti objavljene sutra. Platforma Halo inspektore podnosi prijave zbog lažne Facebook grupe. Hrvatska rukometna reprezentacija izborila je plasman u četvrtfinale Svjetskog prvenstva. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 26 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5f/fb/20250126-kronika-dana-36065563-20250126213525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.01. 2025-01-25</title>
-    <link>https://api.hrt.hr/media/81/8b/20250125-kronika-dana-36063155-20250125214023.mp3</link>
-    <description>Bojkot trgovina zbog visokih cijena prepolovio dnevnu potrošnju. Hoće li biti još akcija? U Čakovcu građani prosvjedom pred bolnicom dali potporu kirurzima, nakon što je njih desetero, nezadovoljno kadroviranjem nove uprave, dalo otkaz. Još četiri izraelske taokinje oslobođene iz zatočeništva Hamasa. U njemačkim gradovima prosvjedi protiv uspona krajnje desnice. Urednica: Sanja Rabuzin.</description>
-    <pubDate>Sat, 25 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/81/8b/20250125-kronika-dana-36063155-20250125214023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
