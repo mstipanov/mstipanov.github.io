@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 29 Jan 2025 22:14:12 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 21:48:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Na Marjanu pronađen maloljetnik za kojim se tragalo cijeli dan; prevezen u bolnicu.Najavljen novi bojkot - od četvrtka na tjedan dana triju trgovačkih lanaca i triju proizvoda, u petak svih trgovina, kafića, banaka i dostave.Studenti u Beogradu na 24 sata blokiraju važno prometno čvorište. Predsjednik Aleksandar Vučić najavio hitnu rekonstrukciju vlade. Urednica: Mira Barić</description>
     <pubDate>Mon, 27 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/6c/20250127-kronika-dana-36069363-20250127214033.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.01. 2025-01-26</title>
-    <link>https://api.hrt.hr/media/5f/fb/20250126-kronika-dana-36065563-20250126213525.mp3</link>
-    <description>Kandidat Domovinskog pokreta za novog ministra poljoprivrede bit će David Vlajčić, dosadašnji državni tajnik u Ministarstvu prostornog uređenja, graditeljstva i državne imovine. Kolumbija odbila prihvatiti dva američka zrakoplova s deportiranim migrantima. Donald Trump nameće joj visoke carine i sankcije. U petak novi bojkot trgovina - pojedinosti će biti objavljene sutra. Platforma Halo inspektore podnosi prijave zbog lažne Facebook grupe. Hrvatska rukometna reprezentacija izborila je plasman u četvrtfinale Svjetskog prvenstva. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 26 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5f/fb/20250126-kronika-dana-36065563-20250126213525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
