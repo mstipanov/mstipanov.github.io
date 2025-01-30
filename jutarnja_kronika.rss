@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 29 Jan 2025 06:41:16 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 06:45:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.01. 2025-01-30</title>
+    <link>https://api.hrt.hr/media/f1/12/20250130-jutarnja-kronika-36077818-20250130063543.mp3</link>
+    <description>Hrvatski rukometaši počinju borbu za medalje! Za finale Svjetskog prvenstva moraju pobijediti - Francusku. Od jutros novi bojkot trgovina. Premijer Plenković sastaje se s predstavnicima trgovačkih lanaca i proizvođača. Putnički zrakoplov sudario se s vojnim helikopterom blizu washingtonske zračne luke. Neslužbeno, pronađeno je 18 tijela. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f1/12/20250130-jutarnja-kronika-36077818-20250130063543.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.01. 2025-01-29</title>
     <link>https://api.hrt.hr/media/4f/38/20250129-jutarnja-kronika-36073870-20250129063540.mp3</link>
     <description>Vladajuća koalicija jednoglasno prihvatila kandidata Domovinskog pokreta Davida Vlajčića za novoga ministra poljoprivrede. U posjet Hrvatskoj dolazi ukrajinski premijer Denis Šmihal. Nakon pada srbijanske Vlade, predsjednik Vučić poručio - ili nova Vlada ili izvanredni izbori, odlučit će u roku od 10 dana. SPORT: Pobjedom nad Mađarima u posljednjoj sekundi utakmice, Hrvatska je osigurala polufinale Svjetskoga rukometnog prvenstva. Večeras na Maksimiru Milan - Dinamo. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@ U Srbiji nastavak velikih prosvjeda, Vučić najavio rekonstrukciju vlade. Hrvat
     <description>Novi ministar poljoprivrede iz redova Domovinskog pokreta bit će dosadašnji državni tajnik David Vlajčić. Novi bojkot trgovina najavljen za petak, pojedinosti će biti objavljene danas u 5 do 12. Kolumbija prvo odbila prihvatiti dva američka vojna zrakoplova s deportiranim migrantima, pa se nakon Trumpova uvođenja snakcija brzo predomislila. Osamdeseta je godišnjica oslobođenja logora smrti Auschwitz-Birkenau i Međunarodni dan sjećenja na holokaust. Hrvatska u četvrtfinalu svjetskog rukometnog prvenstva. Sutra utakmica odluke protiv Mađarske. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/9f/20250127-jutarnja-kronika-36066225-20250127063034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.01. 2025-01-26</title>
-    <link>https://api.hrt.hr/media/38/ef/20250126-jutarnja-kronika-36063710-20250126064524.mp3</link>
-    <description>Bojkot trgovina zbog visokih cijena prepolovio dnevnu potrošnju. Trgovci izgubili 32 milijuna eura prometa. U utorak poskupljuje benzin. Američki predsjednik Trump pregovara s mogućim kupcima Tik Toka kako bi ta aplikacija mogla nastaviti raditi u SAD-u. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 26 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/ef/20250126-jutarnja-kronika-36063710-20250126064524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
