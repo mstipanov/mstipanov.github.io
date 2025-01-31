@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 30 Jan 2025 14:47:34 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 14:53:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 31.01. 2025-01-31</title>
+    <link>https://api.hrt.hr/media/0f/73/20250131-dnevne-novosti-36083932-20250131144052.mp3</link>
+    <description>Hrvatski rukometaši otputovali u Oslo na finale Svjetskog prvenstva. Opći bojkot i trgovina i usluga, građani bojkotiraju trgovačke lance, kafiće, banke... Pred nama 20.-ta, jubilarna Noć muzeja. Urednica: Mira Barić</description>
+    <pubDate>Fri, 31 Jan 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/73/20250131-dnevne-novosti-36083932-20250131144052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 30.01. 2025-01-30</title>
     <link>https://api.hrt.hr/media/e2/c9/20250130-dnevne-novosti-36079464-20250130143052.mp3</link>
     <description>Strahuje se da je poginulo svih 67 ljudi u sudaru putničkog zrakoplova i vojnog helikoptera blizu zračne luke u Washingtonu. Predstavljeno 70 novih proizvoda s ograničenim cijenama, istodobno počeo bojkot kupnje u trima trgovačkim lancima. U zagrebačkoj Areni večeras hrvatski rukometaši igraju protiv Francuske za finale Svjetskog prvenstva. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U tijeku je sastanak vladajuće koalicije na kojem se predstavlja kandidat Domovinskog pokreta za ministra poljoprivrede David Vlajčić. Nakon gotovo tromjesečnih svakodnevnih prosvjeda u Srbiji, premijer Miloš Vučević i gradonačelnik Novog Sada Milan Đurić dali ostavke. Propali pregovori kirurga i ravnatelja bolnice u Čakovcu. Sport: hrvatska rukometna reprezentacija od 18 sati protiv Mađarske igra utakmicu za ulazak u polufinale Svjetskog prvenstva. Urednik: Silvio Šop</description>
     <pubDate>Tue, 28 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/79/27/20250128-dnevne-novosti-36072151-20250128142533.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 27.01. 2025-01-27</title>
-    <link>https://api.hrt.hr/media/df/31/20250127-dnevne-novosti-36067955-20250127143037.mp3</link>
-    <description>Poziv na novi bojkot - od četvrtka tri proizvoda i tri trgovačka lanca na tjedan dana, a u petak svih trgovina, kafića, banaka i dostave. Ministar unutarnjih poslova opovrgnuo da postoje optužbe za nasilje na račun Davida Vlajčića kojeg Domovinski pokret predlaže za ministra poljoprivrede. 80-a je obljetnica oslobođenja nacističkoga logora smrti Auschwitza. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 27 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/31/20250127-dnevne-novosti-36067955-20250127143037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
