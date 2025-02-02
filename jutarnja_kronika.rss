@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Feb 2025 06:55:53 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 07:00:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hrvatski rukometaši počinju borbu za medalje! Za finale Svjetskog prvenstva moraju pobijediti - Francusku. Od jutros novi bojkot trgovina. Premijer Plenković sastaje se s predstavnicima trgovačkih lanaca i proizvođača. Putnički zrakoplov sudario se s vojnim helikopterom blizu washingtonske zračne luke. Neslužbeno, pronađeno je 18 tijela. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f1/12/20250130-jutarnja-kronika-36077818-20250130063543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.01. 2025-01-29</title>
-    <link>https://api.hrt.hr/media/4f/38/20250129-jutarnja-kronika-36073870-20250129063540.mp3</link>
-    <description>Vladajuća koalicija jednoglasno prihvatila kandidata Domovinskog pokreta Davida Vlajčića za novoga ministra poljoprivrede. U posjet Hrvatskoj dolazi ukrajinski premijer Denis Šmihal. Nakon pada srbijanske Vlade, predsjednik Vučić poručio - ili nova Vlada ili izvanredni izbori, odlučit će u roku od 10 dana. SPORT: Pobjedom nad Mađarima u posljednjoj sekundi utakmice, Hrvatska je osigurala polufinale Svjetskoga rukometnog prvenstva. Večeras na Maksimiru Milan - Dinamo. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4f/38/20250129-jutarnja-kronika-36073870-20250129063540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
