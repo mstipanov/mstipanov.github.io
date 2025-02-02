@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Feb 2025 07:00:03 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 07:30:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.02. 2025-02-02</title>
+    <link>https://api.hrt.hr/media/59/c8/20250202-jutarnja-kronika-36087880-20250202070025.mp3</link>
+    <description>Hrvatska rukometna reprezentacija večeras u Oslu protiv Danske igra za svjetsko zlato. Valpovo - grad rekorder bojkota potrošnje, odazvalo se više od 60 posto građana. Velik prosvjed u Novom Sadu, tri mjeseca nakon pogibije 15-ero ljudi na željezničkom kolodvoru. Počinje 1053. Festa svetoga Vlaha. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 02 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/59/c8/20250202-jutarnja-kronika-36087880-20250202070025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.02. 2025-02-01</title>
     <link>https://api.hrt.hr/media/3b/cb/20250201-jutarnja-kronika-36085477-20250201063552.mp3</link>
     <description>Bojkot trgovina jučer je bio slabiji nego prošloga petka. Vlada objavila ograničene cijene za 70 proizvoda. Zbog krize u čakovečkoj bolnici građani će mirno prosvjedovati. Tri mjeseca od tragedije u Novom Sadu - studenti će blokirati tri mosta u tom gradu. Hrvatski će se rukometaši za zlato boriti protiv Danske. Urednik: Mario Krstanović</description>
