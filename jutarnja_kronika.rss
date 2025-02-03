@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Feb 2025 07:30:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 07:05:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.02. 2025-02-03</title>
+    <link>https://api.hrt.hr/media/bd/3b/20250203-jutarnja-kronika-36090241-20250203063525.mp3</link>
+    <description>Srebrni rukometaši na Trg bana Jelačića dolaze oko 16 sati. Danas objava izviješća o nesreći trajekta Lastovo. Donald Trump uvodi carine Kanadi, Meksiku i Kini. Kada je na redu Europska unija?
+Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/3b/20250203-jutarnja-kronika-36090241-20250203063525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.02. 2025-02-02</title>
     <link>https://api.hrt.hr/media/59/c8/20250202-jutarnja-kronika-36087880-20250202070025.mp3</link>
     <description>Hrvatska rukometna reprezentacija večeras u Oslu protiv Danske igra za svjetsko zlato. Valpovo - grad rekorder bojkota potrošnje, odazvalo se više od 60 posto građana. Velik prosvjed u Novom Sadu, tri mjeseca nakon pogibije 15-ero ljudi na željezničkom kolodvoru. Počinje 1053. Festa svetoga Vlaha. Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>Hrvatska je u finalu Svjetskog rukometnog prvenstva. Zrinka Ljutić upisala je treću pobjedu u slalomu. Nakon bojkota trgovačkih lanaca - danas bojkot i trgovina i usluga. Vlada će objaviti ograničene cijene 70 proizvoda. O novom ministru poljoprivrede Sabor će glasovati za 12 dana. Večeras diljem zemlje Noć muzeja. Urednik: Grgo Mrvica.</description>
     <pubDate>Fri, 31 Jan 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/08/4b/20250131-jutarnja-kronika-36081753-20250131063549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.01. 2025-01-30</title>
-    <link>https://api.hrt.hr/media/f1/12/20250130-jutarnja-kronika-36077818-20250130063543.mp3</link>
-    <description>Hrvatski rukometaši počinju borbu za medalje! Za finale Svjetskog prvenstva moraju pobijediti - Francusku. Od jutros novi bojkot trgovina. Premijer Plenković sastaje se s predstavnicima trgovačkih lanaca i proizvođača. Putnički zrakoplov sudario se s vojnim helikopterom blizu washingtonske zračne luke. Neslužbeno, pronađeno je 18 tijela. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f1/12/20250130-jutarnja-kronika-36077818-20250130063543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
