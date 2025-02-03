@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Feb 2025 21:39:21 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 22:09:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.02. 2025-02-03</title>
+    <link>https://api.hrt.hr/media/b9/61/20250203-kronika-dana-36093311-20250203214532.mp3</link>
+    <description>Deseci tisuća ljudi na glavnome zagrebačkom trgu dočekali hrvatske rukometaše.Objavljeni rezultati istrage: za nesreću na trajektu Lastovo odgovorni su Jadrolinija, predsjednik njezine Uprave te zapovjednik broda. Na neformalnom sastanku u Briselu predsjednici država ili vlada raspravljaju o izdvajanju za obranu te o najavljenom uvođenju američkih carina na proizvode iz Europske unije. Urednica: Mira Barić</description>
+    <pubDate>Mon, 03 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b9/61/20250203-kronika-dana-36093311-20250203214532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.02. 2025-02-02</title>
     <link>https://api.hrt.hr/media/06/ae/20250202-kronika-dana-36089646-20250202214026.mp3</link>
     <description>Hrvatska osvojila srebro, u finalu Svjetskog rukometnog prvenstva u Oslu reprezentacija izgubila od Danske s 26-32. Sutra se objavljuju izvješća o uzrocima nesreće na trajektu Lastovo i pogibiji trojice pomoraca. Europa još ne zna pojedinosti o carinama koje ustrajno najavljuje američki predsjednik. Urednica: Sanja Cota</description>
