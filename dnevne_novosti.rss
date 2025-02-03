@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Feb 2025 15:02:07 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 14:37:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hrvatski rukometaši otputovali u Oslo na finale Svjetskog prvenstva. Opći bojkot i trgovina i usluga, građani bojkotiraju trgovačke lance, kafiće, banke... Pred nama 20.-ta, jubilarna Noć muzeja. Urednica: Mira Barić</description>
     <pubDate>Fri, 31 Jan 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/73/20250131-dnevne-novosti-36083932-20250131144052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.01. 2025-01-30</title>
-    <link>https://api.hrt.hr/media/e2/c9/20250130-dnevne-novosti-36079464-20250130143052.mp3</link>
-    <description>Strahuje se da je poginulo svih 67 ljudi u sudaru putničkog zrakoplova i vojnog helikoptera blizu zračne luke u Washingtonu. Predstavljeno 70 novih proizvoda s ograničenim cijenama, istodobno počeo bojkot kupnje u trima trgovačkim lancima. U zagrebačkoj Areni večeras hrvatski rukometaši igraju protiv Francuske za finale Svjetskog prvenstva. Urednica: Mira Barić</description>
-    <pubDate>Thu, 30 Jan 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e2/c9/20250130-dnevne-novosti-36079464-20250130143052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
