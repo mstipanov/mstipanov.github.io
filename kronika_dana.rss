@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Feb 2025 22:04:04 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 21:39:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Građani su bojkotirali trgovine i usluge, nešto slabiji odaziv nego prošli petak. Vlada ograničila cijene 70 proizvoda. Američki predsjednik Trump sutra uvodi carine od 25 posto Meksiku i Kanadi i 10 posto na robu iz Kine. Rukometašima u ponedjeljak Hrvatska priređuje svečani doček u Zagrebu. Urednica: Sanja Cota</description>
     <pubDate>Fri, 31 Jan 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/91/20250131-kronika-dana-36084951-20250131214054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.01. 2025-01-30</title>
-    <link>https://api.hrt.hr/media/a0/6f/20250130-kronika-dana-36080965-20250130215048.mp3</link>
-    <description>Hrvatska rukometna reprezentacija pobijedila Francusku rezultatom 31:28 i plasirala se u finale Svjetskog prvenstva! Zrinka Ljutić pobijedila u slalomu u francuskom Courchevelu! Nema preživjelih u sudaru putničkog zrakoplova i vojnog helikoptera u zračnoj luci u Washingtonu. Do sada pronađeno 28-mero poginulih. David Vlajčić dobio potporu saborskog Odbora za poljoprivredu, objavljena nova snimka njegova prethodnika Josipa Dabre s kalašnjikovom u kukuruzu. Na popisu proizvoda s ograničenim cijenama sada je 70 artikala, istodobno počeo bojkot kupnje u trima trgovačkim lancima. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 30 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/6f/20250130-kronika-dana-36080965-20250130215048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
