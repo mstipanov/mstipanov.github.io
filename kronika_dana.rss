@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Feb 2025 22:09:28 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 21:45:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.02. 2025-02-04</title>
+    <link>https://api.hrt.hr/media/d2/98/20250204-kronika-dana-36096763-20250204213531.mp3</link>
+    <description>U napadu na školu za odrasle u Švedskoj desetero mrtvih! Ubojica, 35-godišnjak, dosad nepoznat policiji.
+Vlada smjenjuje upravu Jadrolinije. Od Rijeke do Mostara dočeci srebrnih rukometaša. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 04 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d2/98/20250204-kronika-dana-36096763-20250204213531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.02. 2025-02-03</title>
     <link>https://api.hrt.hr/media/b9/61/20250203-kronika-dana-36093311-20250203214532.mp3</link>
     <description>Deseci tisuća ljudi na glavnome zagrebačkom trgu dočekali hrvatske rukometaše.Objavljeni rezultati istrage: za nesreću na trajektu Lastovo odgovorni su Jadrolinija, predsjednik njezine Uprave te zapovjednik broda. Na neformalnom sastanku u Briselu predsjednici država ili vlada raspravljaju o izdvajanju za obranu te o najavljenom uvođenju američkih carina na proizvode iz Europske unije. Urednica: Mira Barić</description>
@@ -31,14 +40,6 @@
     <description>Donald Trump ponovno najavljuje carine Europskoj uniji. Istodobno, američki predsjednik izdao prvu vojnu naredbu - zračne napade na baze ISIL-a u Somaliji. Veliki prosvjed u Novom Sadu, tri mjeseca nakon pogibije 15-ero ljudi na željezničkom kolodvoru. Od sedam županija u kojima je tijekom bojkota potrošnja smanjena više od 50 posto, četiri su slavonske. Urednica: Sanja Cota</description>
     <pubDate>Sat, 01 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/46/20250201-kronika-dana-36087303-20250201214021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.01. 2025-01-31</title>
-    <link>https://api.hrt.hr/media/df/91/20250131-kronika-dana-36084951-20250131214054.mp3</link>
-    <description>Građani su bojkotirali trgovine i usluge, nešto slabiji odaziv nego prošli petak. Vlada ograničila cijene 70 proizvoda. Američki predsjednik Trump sutra uvodi carine od 25 posto Meksiku i Kanadi i 10 posto na robu iz Kine. Rukometašima u ponedjeljak Hrvatska priređuje svečani doček u Zagrebu. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 31 Jan 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/91/20250131-kronika-dana-36084951-20250131214054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
