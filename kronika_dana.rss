@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 04 Feb 2025 21:45:05 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 21:50:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.02. 2025-02-05</title>
+    <link>https://api.hrt.hr/media/5d/a6/20250205-kronika-dana-36100333-20250205214546.mp3</link>
+    <description>U petak ponovno opći bojkot kupnje. Zbog poskupljenja ugrožena i turistička sezona. Donald Trump ponovno šokira svijet, ovaj put predlaže da pojas Gaze postane američka turistička rivijera. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 05 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5d/a6/20250205-kronika-dana-36100333-20250205214546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.02. 2025-02-04</title>
     <link>https://api.hrt.hr/media/d2/98/20250204-kronika-dana-36096763-20250204213531.mp3</link>
     <description>U napadu na školu za odrasle u Švedskoj desetero mrtvih! Ubojica, 35-godišnjak, dosad nepoznat policiji.
@@ -32,14 +40,6 @@ Vlada smjenjuje upravu Jadrolinije. Od Rijeke do Mostara dočeci srebrnih rukome
     <description>Hrvatska osvojila srebro, u finalu Svjetskog rukometnog prvenstva u Oslu reprezentacija izgubila od Danske s 26-32. Sutra se objavljuju izvješća o uzrocima nesreće na trajektu Lastovo i pogibiji trojice pomoraca. Europa još ne zna pojedinosti o carinama koje ustrajno najavljuje američki predsjednik. Urednica: Sanja Cota</description>
     <pubDate>Sun, 02 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/06/ae/20250202-kronika-dana-36089646-20250202214026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.02. 2025-02-01</title>
-    <link>https://api.hrt.hr/media/0f/46/20250201-kronika-dana-36087303-20250201214021.mp3</link>
-    <description>Donald Trump ponovno najavljuje carine Europskoj uniji. Istodobno, američki predsjednik izdao prvu vojnu naredbu - zračne napade na baze ISIL-a u Somaliji. Veliki prosvjed u Novom Sadu, tri mjeseca nakon pogibije 15-ero ljudi na željezničkom kolodvoru. Od sedam županija u kojima je tijekom bojkota potrošnja smanjena više od 50 posto, četiri su slavonske. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 01 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0f/46/20250201-kronika-dana-36087303-20250201214021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
