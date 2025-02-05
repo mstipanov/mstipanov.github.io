@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 04 Feb 2025 14:43:30 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 14:48:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.02. 2025-02-05</title>
+    <link>https://api.hrt.hr/media/bc/8c/20250205-dnevne-novosti-36099144-20250205143544.mp3</link>
+    <description>Iz cijelog svijeta reakcije na Trumpovu izjavu da će Sjedinjene Države preuzeti pojas Gaze. Nijedna zemlja kojoj konkuriramo u turizmu nije imala tako ubrzan rast cijena kao Hrvatska. Iz platforme Halo, inspektore tvrde da je u ovotjednom bojkotu trgovačkih lanaca potrošnja pala za više od 42 milijuna eura.U petak ponovno opći bojkot. Urednica: Mira Barić</description>
+    <pubDate>Wed, 05 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bc/8c/20250205-dnevne-novosti-36099144-20250205143544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.02. 2025-02-04</title>
     <link>https://api.hrt.hr/media/cb/45/20250204-dnevne-novosti-36095756-20250204142532.mp3</link>
     <description>Premijer Plenković odlučio smijeniti cijelu Upravu Jadrolinije. Kina odmah istom mjerom odgovorila na Trampovo uvođenje carina na kineske proizvode. Petero ljudi ustrijeljeno u školi u švedskom gradu &amp;Ouml;rebrou. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Hrvatski rukometaši idu po svjetsko zlato! U Oslu je sve spremno za veliki finale protiv Danske. U norvešku prijestolnicu stiglo mnoštvo hrvatskih navijača. Kanada, Meksiko i Kina brzo odgovorile Donaldu Trumpu. Najavile protumjere uvođenju carina. U Dubrovniku počinje Festa svetoga Vlaha. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 02 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/88/a6/20250202-dnevne-novosti-36088775-20250202144035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.02. 2025-02-01</title>
-    <link>https://api.hrt.hr/media/73/98/20250201-dnevne-novosti-36086457-20250201143010.mp3</link>
-    <description>Bojkot trgovina jučer je bio slabiji nego prošloga petka. Vlada objavila ograničene cijene za 70 proizvoda. Zbog krize u čakovečkoj bolnici građani će mirno prosvjedovati. Tri mjeseca od tragedije u Novom Sadu - studenti će blokirati tri mosta u tom gradu. Hrvatski će se rukometaši za zlato boriti protiv Danske. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 01 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/73/98/20250201-dnevne-novosti-36086457-20250201143010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
