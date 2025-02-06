@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 30 Jan 2025 17:18:09 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 17:04:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Vedran Dukovski 2025-02-06</title>
+    <link>https://api.hrt.hr/media/10/1a/20250206-historia-histriae-8153166-20250206165556.mp3</link>
+    <description>Pričamo o kulturnim prilikama u Puli od 1945. do 1949. godine uz povjesničara Vedrana Dukovskog. </description>
+    <pubDate>Thu, 06 Feb 2025 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/10/1a/20250206-historia-histriae-8153166-20250206165556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Daniela Doblanović Šuran 2025-01-30</title>
     <link>https://api.hrt.hr/media/b2/9a/20250130-historia-histriae-8151127-20250130170053.mp3</link>
     <description>Pričamo o osobnim imenima u Istri u ranom novom vijeku uz dr.sc. Danijelu Doblanović Šuran </description>
@@ -79,14 +87,6 @@
     <description>Povjesničar Kristijan Žgaljardić ovog nas puta vodi u Gračišće....upoznajemo mističnu, bogatu i burnu povijest ovog istarskog gradića. </description>
     <pubDate>Thu, 14 Nov 2024 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/46/ee/20241114-historia-histriae-8125182-20241114165514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Elmo Cvek (R) 2024-11-07</title>
-    <link>https://api.hrt.hr/media/85/d7/20241107-historia-histriae-8122630-20241107171552.mp3</link>
-    <description>Prisjećamo se gostovanja poznatog Puležana i izdavača Elma Cveka koji nas je napustio prošlog tjedna. U našoj je emisiji gostovao 2018. kada je predstavio svoju knjigu o austrougarskoj Puli - "Naredba br. 12 - Pula u doba Austrije"</description>
-    <pubDate>Thu, 07 Nov 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/85/d7/20241107-historia-histriae-8122630-20241107171552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
