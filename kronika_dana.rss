@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Feb 2025 22:05:55 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 21:40:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.02. 2025-02-07</title>
+    <link>https://api.hrt.hr/media/44/9e/20250207-kronika-dana-36107667-20250207213516.mp3</link>
+    <description>Slabiji odaziv na bojkot trgovina nego prošlog petka. Nakon smjene uprave u Hrvatskim šumama i Josip Dabro glasovat će za novog ministra poljoprivrede. Nakon što je Trump rekao kako želi da Ukrajina opskrbljuje SAD rijetkim metalima, Zelenski uzvraća - idemo sklopiti dogovor, sklopimo posao. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 07 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/44/9e/20250207-kronika-dana-36107667-20250207213516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.02. 2025-02-06</title>
     <link>https://api.hrt.hr/media/04/e9/20250206-kronika-dana-36103910-20250206214104.mp3</link>
     <description>85 srednjih škola diljem Hrvatske primilo prijetnje o postavljenim bombama. Vlada smijenila Upravu Hrvatskih šuma. Sutra novi opći bojkot svih proizvoda i usluga, od subote i jednog trgovačkog lanca na tjedan dana. Na grčkom otoku Santoriniju tlo se i dalje trese. Uvedeno je izvanredno stanje.: Grgo Mrvica</description>
@@ -32,14 +40,6 @@
 Vlada smjenjuje upravu Jadrolinije. Od Rijeke do Mostara dočeci srebrnih rukometaša. Urednica: Sanja Cota</description>
     <pubDate>Tue, 04 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/98/20250204-kronika-dana-36096763-20250204213531.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.02. 2025-02-03</title>
-    <link>https://api.hrt.hr/media/b9/61/20250203-kronika-dana-36093311-20250203214532.mp3</link>
-    <description>Deseci tisuća ljudi na glavnome zagrebačkom trgu dočekali hrvatske rukometaše.Objavljeni rezultati istrage: za nesreću na trajektu Lastovo odgovorni su Jadrolinija, predsjednik njezine Uprave te zapovjednik broda. Na neformalnom sastanku u Briselu predsjednici država ili vlada raspravljaju o izdvajanju za obranu te o najavljenom uvođenju američkih carina na proizvode iz Europske unije. Urednica: Mira Barić</description>
-    <pubDate>Mon, 03 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b9/61/20250203-kronika-dana-36093311-20250203214532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
