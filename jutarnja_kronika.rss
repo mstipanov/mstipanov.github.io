@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Feb 2025 06:52:02 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 06:37:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.02. 2025-02-07</title>
+    <link>https://api.hrt.hr/media/1c/c6/20250207-jutarnja-kronika-36104515-20250207063514.mp3</link>
+    <description>Danas novi opći bojkot svih proizvoda i usluga; prema Vladinoj odluci, u trgovinama moraju biti vidljive police s proizvodima ograničenih cijena. Vlada smijenila tročlanu Upravu Hrvatskih šuma. Donald Trump potpisao uredbu o sankcioniranju Međunarodnog kaznenog suda. Urednica: Mira Barić</description>
+    <pubDate>Fri, 07 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/c6/20250207-jutarnja-kronika-36104515-20250207063514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.02. 2025-02-06</title>
     <link>https://api.hrt.hr/media/86/fc/20250206-jutarnja-kronika-36100906-20250206063559.mp3</link>
     <description>Potrošači odlučili - bojkotirat ćemo Konzum sedam dana! Traži se ukidanje mjere rada za opće dobro bez naknade, koja kaže da osobe koje primaju socijalnu pomoć moraju besplatno raditi 60 do 90 sati na mjesec kako ne bi izgubile minimalnu naknadu od 160 eura. Umjetnici Opere HNK u Splitu uputit će apel za spas Opere. Urednik: Mario Krstanović</description>
@@ -31,15 +39,6 @@
     <description>Objavljeni rezultati istrage: za tragediju u Malom Lošinju odgovorni Jadrolinija, predsjednik njezine Uprave i zapovjednik broda Lastovo. Donald Trump ipak popustio - Sjedinjene Američke Države na mjesec dana odgodile uvođenje carina Maksiku i Kanadi. Nakon veličanstvenog dočeka u Zagrebu, i mnogi drugi gradovi dočekat će svoje srebrne rukometaše. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/d8/20250204-jutarnja-kronika-36093886-20250204063032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.02. 2025-02-03</title>
-    <link>https://api.hrt.hr/media/bd/3b/20250203-jutarnja-kronika-36090241-20250203063525.mp3</link>
-    <description>Srebrni rukometaši na Trg bana Jelačića dolaze oko 16 sati. Danas objava izviješća o nesreći trajekta Lastovo. Donald Trump uvodi carine Kanadi, Meksiku i Kini. Kada je na redu Europska unija?
-Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bd/3b/20250203-jutarnja-kronika-36090241-20250203063525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
