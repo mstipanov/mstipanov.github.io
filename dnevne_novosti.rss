@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Feb 2025 14:39:11 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 14:43:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.02. 2025-02-08</title>
+    <link>https://api.hrt.hr/media/17/48/20250208-dnevne-novosti-36109186-20250208143025.mp3</link>
+    <description>Što su nam donijeli bojkoti i zamrznute cijene, i danas smo pitali građane i ekonomiste. Oslobođena još trojica talaca koje je zatočio Hamas. Trump u zamjenu za američku financijsku potporu od Ukrajine želi rijetke metale, Zelenski odgovara da je otvoren za dogovor. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 08 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/17/48/20250208-dnevne-novosti-36109186-20250208143025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.02. 2025-02-07</title>
     <link>https://api.hrt.hr/media/17/31/20250207-dnevne-novosti-36106443-20250207143522.mp3</link>
     <description>Počeo opći bojkot kupnje. Od trgovačkih lanaca, sutra je prvi na redu Konzum. Od danas svi proizvodi s ograničenim cijenama moraju biti na istaknutom mjestu u trgovinama. Nakon smjene uprave u Hrvatskim šumama neupitna je većina za izglasavanje novog ministra poljoprivrede u utorak. Ponovno pucnjava u Briselu. Jedna je osoba ubijena. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Iz cijelog svijeta reakcije na Trumpovu izjavu da će Sjedinjene Države preuzeti pojas Gaze. Nijedna zemlja kojoj konkuriramo u turizmu nije imala tako ubrzan rast cijena kao Hrvatska. Iz platforme Halo, inspektore tvrde da je u ovotjednom bojkotu trgovačkih lanaca potrošnja pala za više od 42 milijuna eura.U petak ponovno opći bojkot. Urednica: Mira Barić</description>
     <pubDate>Wed, 05 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bc/8c/20250205-dnevne-novosti-36099144-20250205143544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.02. 2025-02-04</title>
-    <link>https://api.hrt.hr/media/cb/45/20250204-dnevne-novosti-36095756-20250204142532.mp3</link>
-    <description>Premijer Plenković odlučio smijeniti cijelu Upravu Jadrolinije. Kina odmah istom mjerom odgovorila na Trampovo uvođenje carina na kineske proizvode. Petero ljudi ustrijeljeno u školi u švedskom gradu &amp;Ouml;rebrou. Urednica: Mira Barić</description>
-    <pubDate>Tue, 04 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cb/45/20250204-dnevne-novosti-36095756-20250204142532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
