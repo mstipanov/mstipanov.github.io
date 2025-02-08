@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Feb 2025 06:37:33 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 06:42:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.02. 2025-02-08</title>
+    <link>https://api.hrt.hr/media/df/39/20250208-jutarnja-kronika-36108163-20250208063520.mp3</link>
+    <description>Slabiji odaziv na bojkot trgovina nego prošlog petka. Danas počinje bojkot Konzuma. Nakon smjene uprave Hrvatskih šuma, i Josip Dabro glasovat će za novog ministra poljoprivrede. Pronađen zrakoplov cesna za kojim se tragalo na Aljasci. Svih 9 putnika i pilot su poginuli. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/39/20250208-jutarnja-kronika-36108163-20250208063520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.02. 2025-02-07</title>
     <link>https://api.hrt.hr/media/1c/c6/20250207-jutarnja-kronika-36104515-20250207063514.mp3</link>
     <description>Danas novi opći bojkot svih proizvoda i usluga; prema Vladinoj odluci, u trgovinama moraju biti vidljive police s proizvodima ograničenih cijena. Vlada smijenila tročlanu Upravu Hrvatskih šuma. Donald Trump potpisao uredbu o sankcioniranju Međunarodnog kaznenog suda. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nakon razgovara s Netanyahuom, Trump iznio plan za Bliski istok - želi trajno raseliti Palestince i od Gaze napraviti rivijeru. Vlada smjenjuje upravu Jadrolinije.Danas zadnji dan tjednog bojkota triju trgovačkih lanaca. Sastaje se Nacionalno vijeće za upravljanje razvojem turizma, razgovarat će o omjeru cijene i kvalitete turističke ponude. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d7/ee/20250205-jutarnja-kronika-36097318-20250205063534.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.02. 2025-02-04</title>
-    <link>https://api.hrt.hr/media/0f/d8/20250204-jutarnja-kronika-36093886-20250204063032.mp3</link>
-    <description>Objavljeni rezultati istrage: za tragediju u Malom Lošinju odgovorni Jadrolinija, predsjednik njezine Uprave i zapovjednik broda Lastovo. Donald Trump ipak popustio - Sjedinjene Američke Države na mjesec dana odgodile uvođenje carina Maksiku i Kanadi. Nakon veličanstvenog dočeka u Zagrebu, i mnogi drugi gradovi dočekat će svoje srebrne rukometaše. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0f/d8/20250204-jutarnja-kronika-36093886-20250204063032.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
