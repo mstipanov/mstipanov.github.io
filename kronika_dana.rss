@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Feb 2025 21:45:14 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 21:52:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.02. 2025-02-09</title>
+    <link>https://api.hrt.hr/media/f3/d1/20250209-kronika-dana-36112312-20250209214030.mp3</link>
+    <description>Trump šalje Muska da otkrije zlouporabe milijarda dolara u Pentagonu. U tijeku je najveća masovna deportacija ilegalnih imigranata u američkoj povijesti. Kako urediti rad liječnika u javnom i privatnom zdravstvu? Sto dana nakon tragedije u Novom Sadu u Srbiji i dalje prosvjedi i blokade. U Dubrovniku završila Festa svetog Vlaha. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 09 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f3/d1/20250209-kronika-dana-36112312-20250209214030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.02. 2025-02-08</title>
     <link>https://api.hrt.hr/media/c7/2d/20250208-kronika-dana-36110034-20250208214025.mp3</link>
     <description>Interes za bojkot kupnje polako slabi. Počela akcija "Svaki tjedan - lanac jedan" u kojoj će se tjedan dana bojkotirati Konzum.Sutkinja istrage u Zadru ispitala maloljetnika, osumnjičenog za napad nožem na 45-godišnju ženu na zadarskoj šetnici.U Madridu skup čelnika europske desnice pod sloganom "Učinimo ponovno Europu velikom". Hamas u Gazi oslobodio trojicu izraelskih talaca. Izrael zauzvrat pustio 183-oje palestinskih zatvorenika.Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>85 srednjih škola diljem Hrvatske primilo prijetnje o postavljenim bombama. Vlada smijenila Upravu Hrvatskih šuma. Sutra novi opći bojkot svih proizvoda i usluga, od subote i jednog trgovačkog lanca na tjedan dana. Na grčkom otoku Santoriniju tlo se i dalje trese. Uvedeno je izvanredno stanje.: Grgo Mrvica</description>
     <pubDate>Thu, 06 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/04/e9/20250206-kronika-dana-36103910-20250206214104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.02. 2025-02-05</title>
-    <link>https://api.hrt.hr/media/5d/a6/20250205-kronika-dana-36100333-20250205214546.mp3</link>
-    <description>U petak ponovno opći bojkot kupnje. Zbog poskupljenja ugrožena i turistička sezona. Donald Trump ponovno šokira svijet, ovaj put predlaže da pojas Gaze postane američka turistička rivijera. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 05 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5d/a6/20250205-kronika-dana-36100333-20250205214546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
