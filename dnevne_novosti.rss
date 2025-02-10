@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Feb 2025 14:51:18 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 14:56:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.02. 2025-02-10</title>
+    <link>https://api.hrt.hr/media/7b/7d/20250210-dnevne-novosti-36114452-20250210143530.mp3</link>
+    <description>Hoće li Donald Trump nametnuti carine i Europskoj uniji? Sabor bi sutra trebao potvrditi novog ministra poljoprivrede. Oporba proziva HDZ i Domovinski pokret - za trgovinu i podjelu plijena. Od ponoći jeftinije gorivo. Urednik: Mario Krstanović</description>
+    <pubDate>Mon, 10 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7b/7d/20250210-dnevne-novosti-36114452-20250210143530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.02. 2025-02-09</title>
     <link>https://api.hrt.hr/media/c0/52/20250209-dnevne-novosti-36111518-20250209143028.mp3</link>
     <description>Trump potvrdio razgovore s Putinom o završetku rata, Zelenski uvjeren da Rusija nije spremna za mir, nego za nastavak rata. Masovnim prosvjedima u Srbiji obilježava se 100 dana od tragedije u Novom Sadu. Cijene u maloprodaji samo su karika u lancu inflacije, smatraju ekonomisti, organizatori bojkota nastavljaju s akcijama. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Počeo opći bojkot kupnje. Od trgovačkih lanaca, sutra je prvi na redu Konzum. Od danas svi proizvodi s ograničenim cijenama moraju biti na istaknutom mjestu u trgovinama. Nakon smjene uprave u Hrvatskim šumama neupitna je većina za izglasavanje novog ministra poljoprivrede u utorak. Ponovno pucnjava u Briselu. Jedna je osoba ubijena. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 07 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/17/31/20250207-dnevne-novosti-36106443-20250207143522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.02. 2025-02-06</title>
-    <link>https://api.hrt.hr/media/b2/76/20250206-dnevne-novosti-36102544-20250206143115.mp3</link>
-    <description>Više od 70 hrvatskih srednjih škola evakuirano zbog prijetnji o postavljenim bombama - islamističke prijetnje poslane sa servera u Africi. U istrazi sudjeluje i Europol. Visoki kazneni sud potvrdio - Ivo Sanader nije ratni profiter, oslobođen optužbi u aferi Hypo. Vlada smjenila cijelu upravu Hrvatskih šuma. Ivan Penava bit će na inauguraciji predsjednika Milanovića. Požar na obroncima Učke još nije ugašen, vatrogascima pomaže i kanader. Urednica: Mira Barić</description>
-    <pubDate>Thu, 06 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/76/20250206-dnevne-novosti-36102544-20250206143115.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
