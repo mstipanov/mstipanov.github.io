@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 10 Feb 2025 07:25:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 06:59:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.02. 2025-02-11</title>
+    <link>https://api.hrt.hr/media/ac/a5/20250211-jutarnja-kronika-36116206-20250211063037.mp3</link>
+    <description>Danas u Saboru glasovanje o novom ministru poljoprivrede Davidu Vlajčiću. Nacional objavio video u kojem Josip Dabro puca iz kalašnjikova u kukuruzištu. Danas Skupština Jadrolinije i smjena uprave te kompanije. Hamas se povukao iz sporazuma s Izraelom o prekidu vatre i oslobađanju talaca. Trump poručio da će, ako svi taoci ne budu slobodni do subote u podne, u Gazi nastati pakao. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 11 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ac/a5/20250211-jutarnja-kronika-36116206-20250211063037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.02. 2025-02-10</title>
     <link>https://api.hrt.hr/media/56/9a/20250210-jutarnja-kronika-36112988-20250210071532.mp3</link>
     <description>U teškoj prometnoj nesreći kod Karlovca poginula jedna osoba. Ministarstvo zdravstva ograničit će rad u privatnom sektoru liječnicima kojima su u javnim bolnicama liste čekanja dulje od 60 dana. Donald Trump danas objavljuje carine na uvoz čelika i aluminija u SAD. Središnja proslava Stepinčeva bit će na trgu ispred zagrebačke katedrale. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Slabiji odaziv na bojkot trgovina nego prošlog petka. Danas počinje bojkot Konzuma. Nakon smjene uprave Hrvatskih šuma, i Josip Dabro glasovat će za novog ministra poljoprivrede. Pronađen zrakoplov cesna za kojim se tragalo na Aljasci. Svih 9 putnika i pilot su poginuli. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/39/20250208-jutarnja-kronika-36108163-20250208063520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.02. 2025-02-07</title>
-    <link>https://api.hrt.hr/media/1c/c6/20250207-jutarnja-kronika-36104515-20250207063514.mp3</link>
-    <description>Danas novi opći bojkot svih proizvoda i usluga; prema Vladinoj odluci, u trgovinama moraju biti vidljive police s proizvodima ograničenih cijena. Vlada smijenila tročlanu Upravu Hrvatskih šuma. Donald Trump potpisao uredbu o sankcioniranju Međunarodnog kaznenog suda. Urednica: Mira Barić</description>
-    <pubDate>Fri, 07 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1c/c6/20250207-jutarnja-kronika-36104515-20250207063514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
