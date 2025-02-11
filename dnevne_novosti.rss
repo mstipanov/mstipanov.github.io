@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 10 Feb 2025 14:56:47 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 15:01:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.02. 2025-02-11</title>
+    <link>https://api.hrt.hr/media/6d/62/20250211-dnevne-novosti-36117966-20250211143042.mp3</link>
+    <description>U protukorupcijskoj akciji USKOK-a i policije u Varaždinu i Zagrebu uhićeno 14 osoba, među kojima i SDP-ova saborska zastupnica Barbara Antolić Vupora. U Saboru sa 76 glasova potvrđen novi ministar poljoprivrede David Vlajčić. Donald Trump zaprijetio Hamasu da do subote oslobodi sve taoce, u suprotnom najavio pakao. Urednica: Mira Barić</description>
+    <pubDate>Tue, 11 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6d/62/20250211-dnevne-novosti-36117966-20250211143042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.02. 2025-02-10</title>
     <link>https://api.hrt.hr/media/7b/7d/20250210-dnevne-novosti-36114452-20250210143530.mp3</link>
     <description>Hoće li Donald Trump nametnuti carine i Europskoj uniji? Sabor bi sutra trebao potvrditi novog ministra poljoprivrede. Oporba proziva HDZ i Domovinski pokret - za trgovinu i podjelu plijena. Od ponoći jeftinije gorivo. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Što su nam donijeli bojkoti i zamrznute cijene, i danas smo pitali građane i ekonomiste. Oslobođena još trojica talaca koje je zatočio Hamas. Trump u zamjenu za američku financijsku potporu od Ukrajine želi rijetke metale, Zelenski odgovara da je otvoren za dogovor. Urednica: Sanja Cota</description>
     <pubDate>Sat, 08 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/17/48/20250208-dnevne-novosti-36109186-20250208143025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.02. 2025-02-07</title>
-    <link>https://api.hrt.hr/media/17/31/20250207-dnevne-novosti-36106443-20250207143522.mp3</link>
-    <description>Počeo opći bojkot kupnje. Od trgovačkih lanaca, sutra je prvi na redu Konzum. Od danas svi proizvodi s ograničenim cijenama moraju biti na istaknutom mjestu u trgovinama. Nakon smjene uprave u Hrvatskim šumama neupitna je većina za izglasavanje novog ministra poljoprivrede u utorak. Ponovno pucnjava u Briselu. Jedna je osoba ubijena. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 07 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/17/31/20250207-dnevne-novosti-36106443-20250207143522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
