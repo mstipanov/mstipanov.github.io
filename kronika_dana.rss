@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 10 Feb 2025 21:58:10 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 22:02:55 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.02. 2025-02-11</title>
+    <link>https://api.hrt.hr/media/70/f5/20250211-kronika-dana-36119074-20250211214042.mp3</link>
+    <description>Malo prije 19 sati potres jakosti 4,8 zatresao zadarsko područje. U velikoj antikorupcijskoj akciji uhićena i saborska zastupnica SDP-a Barbara Antolić Vupora. Benjamin Netanyahu prijeti nastavkom rata ako Hamas do subote u podne ne oslobodi taoce. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 11 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/70/f5/20250211-kronika-dana-36119074-20250211214042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.02. 2025-02-10</title>
     <link>https://api.hrt.hr/media/4a/7b/20250210-kronika-dana-36115687-20250210214034.mp3</link>
     <description>Ponovno dojave o bombama. Poruke prijetećeg sadržaja stigle su u zagrebačku srednju školu i zadarsko kazalište lutaka. Objekti pregledani, dojave lažne.Iz Ureda predsjednika Milanovića demantirali da će na inauguraciji biti izvedena Thompsonova pjesma "Ako ne znaš šta je bilo".U Parizu dvodnevni sastanak posvećen umjetnoj inteligenciji. Okupili se čelnici država i vlada te direktori tehnoloških tvrtki i znanstvenici. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Interes za bojkot kupnje polako slabi. Počela akcija "Svaki tjedan - lanac jedan" u kojoj će se tjedan dana bojkotirati Konzum.Sutkinja istrage u Zadru ispitala maloljetnika, osumnjičenog za napad nožem na 45-godišnju ženu na zadarskoj šetnici.U Madridu skup čelnika europske desnice pod sloganom "Učinimo ponovno Europu velikom". Hamas u Gazi oslobodio trojicu izraelskih talaca. Izrael zauzvrat pustio 183-oje palestinskih zatvorenika.Urednica Mira Barić</description>
     <pubDate>Sat, 08 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c7/2d/20250208-kronika-dana-36110034-20250208214025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.02. 2025-02-07</title>
-    <link>https://api.hrt.hr/media/44/9e/20250207-kronika-dana-36107667-20250207213516.mp3</link>
-    <description>Slabiji odaziv na bojkot trgovina nego prošlog petka. Nakon smjene uprave u Hrvatskim šumama i Josip Dabro glasovat će za novog ministra poljoprivrede. Nakon što je Trump rekao kako želi da Ukrajina opskrbljuje SAD rijetkim metalima, Zelenski uzvraća - idemo sklopiti dogovor, sklopimo posao. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 07 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/9e/20250207-kronika-dana-36107667-20250207213516.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
