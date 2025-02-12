@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Feb 2025 06:36:32 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 07:06:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.02. 2025-02-12</title>
+    <link>https://api.hrt.hr/media/72/9d/20250212-jutarnja-kronika-36119701-20250212063537.mp3</link>
+    <description>Zasad nema dojava o šteti u potresu koji je sinoć pogodio srednju Dalmaciju. U USKOK-u će biti ispitano 14-ero jučer uhićenih u protukorupcijskoj akciji među kojima je i saborska zastupnica SDP-a Barbara Antolić Vupora. Benjamin Netanyahu prijeti nastavkom rata ako Hamas do subote u podne ne oslobodi taoce.Urednica: Mira Barić</description>
+    <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/72/9d/20250212-jutarnja-kronika-36119701-20250212063537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.02. 2025-02-11</title>
     <link>https://api.hrt.hr/media/ac/a5/20250211-jutarnja-kronika-36116206-20250211063037.mp3</link>
     <description>Danas u Saboru glasovanje o novom ministru poljoprivrede Davidu Vlajčiću. Nacional objavio video u kojem Josip Dabro puca iz kalašnjikova u kukuruzištu. Danas Skupština Jadrolinije i smjena uprave te kompanije. Hamas se povukao iz sporazuma s Izraelom o prekidu vatre i oslobađanju talaca. Trump poručio da će, ako svi taoci ne budu slobodni do subote u podne, u Gazi nastati pakao. Urednik: Mislav Togonal</description>
