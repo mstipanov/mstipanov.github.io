@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Feb 2025 06:59:52 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 06:36:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Interes za bojkot kupnje polako slabi. Organizator ipak smatra da su kupci poslali jasnu poruku trgovcima. Uhićen i ispitan maloljetnik koji je u Zadru nožem napao ženu. Hamas oslobodio trojicu izraelskih talaca. Izrael zauzvrat pustio 183-oje palestinskih zatvorenika. Završava Festa svetog Vlaha. Urednik Grgo Mrvica.</description>
     <pubDate>Sun, 09 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/58/45/20250209-jutarnja-kronika-36110602-20250209063026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 08.02. 2025-02-08</title>
-    <link>https://api.hrt.hr/media/df/39/20250208-jutarnja-kronika-36108163-20250208063520.mp3</link>
-    <description>Slabiji odaziv na bojkot trgovina nego prošlog petka. Danas počinje bojkot Konzuma. Nakon smjene uprave Hrvatskih šuma, i Josip Dabro glasovat će za novog ministra poljoprivrede. Pronađen zrakoplov cesna za kojim se tragalo na Aljasci. Svih 9 putnika i pilot su poginuli. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/39/20250208-jutarnja-kronika-36108163-20250208063520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
