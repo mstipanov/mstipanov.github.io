@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Feb 2025 14:39:41 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 14:49:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Hoće li Donald Trump nametnuti carine i Europskoj uniji? Sabor bi sutra trebao potvrditi novog ministra poljoprivrede. Oporba proziva HDZ i Domovinski pokret - za trgovinu i podjelu plijena. Od ponoći jeftinije gorivo. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 10 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/7d/20250210-dnevne-novosti-36114452-20250210143530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.02. 2025-02-09</title>
-    <link>https://api.hrt.hr/media/c0/52/20250209-dnevne-novosti-36111518-20250209143028.mp3</link>
-    <description>Trump potvrdio razgovore s Putinom o završetku rata, Zelenski uvjeren da Rusija nije spremna za mir, nego za nastavak rata. Masovnim prosvjedima u Srbiji obilježava se 100 dana od tragedije u Novom Sadu. Cijene u maloprodaji samo su karika u lancu inflacije, smatraju ekonomisti, organizatori bojkota nastavljaju s akcijama. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 09 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c0/52/20250209-dnevne-novosti-36111518-20250209143028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
