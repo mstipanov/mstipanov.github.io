@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 12 Feb 2025 07:06:40 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 06:46:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.02. 2025-02-13</title>
+    <link>https://api.hrt.hr/media/5d/b3/20250213-jutarnja-kronika-36123830-20250213064010.mp3</link>
+    <description>Trump i Putin sat i pol telefonski razgovarali o pokretanju pregovora za završetak rata u Ukrajini. I europske sile žele sudjelovati u mirovnim pregovorima, navodi se u zajedničkoj izjavi sedam europskih zemalja. Uskok zatražio istražni zatvor za 11 od 14 uhićenih u protukorupcijskoj akciji. činje Berlinski filmski festival. Svjetski je dan radija. Urednik: Grgo Mrvica.</description>
+    <pubDate>Thu, 13 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5d/b3/20250213-jutarnja-kronika-36123830-20250213064010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.02. 2025-02-12</title>
     <link>https://api.hrt.hr/media/72/9d/20250212-jutarnja-kronika-36119701-20250212063537.mp3</link>
     <description>Zasad nema dojava o šteti u potresu koji je sinoć pogodio srednju Dalmaciju. U USKOK-u će biti ispitano 14-ero jučer uhićenih u protukorupcijskoj akciji među kojima je i saborska zastupnica SDP-a Barbara Antolić Vupora. Benjamin Netanyahu prijeti nastavkom rata ako Hamas do subote u podne ne oslobodi taoce.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>U teškoj prometnoj nesreći kod Karlovca poginula jedna osoba. Ministarstvo zdravstva ograničit će rad u privatnom sektoru liječnicima kojima su u javnim bolnicama liste čekanja dulje od 60 dana. Donald Trump danas objavljuje carine na uvoz čelika i aluminija u SAD. Središnja proslava Stepinčeva bit će na trgu ispred zagrebačke katedrale. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/56/9a/20250210-jutarnja-kronika-36112988-20250210071532.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.02. 2025-02-09</title>
-    <link>https://api.hrt.hr/media/58/45/20250209-jutarnja-kronika-36110602-20250209063026.mp3</link>
-    <description>Interes za bojkot kupnje polako slabi. Organizator ipak smatra da su kupci poslali jasnu poruku trgovcima. Uhićen i ispitan maloljetnik koji je u Zadru nožem napao ženu. Hamas oslobodio trojicu izraelskih talaca. Izrael zauzvrat pustio 183-oje palestinskih zatvorenika. Završava Festa svetog Vlaha. Urednik Grgo Mrvica.</description>
-    <pubDate>Sun, 09 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/58/45/20250209-jutarnja-kronika-36110602-20250209063026.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
