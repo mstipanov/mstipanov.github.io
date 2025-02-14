@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Feb 2025 21:51:31 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 21:57:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 14.02. 2025-02-14</title>
+    <link>https://api.hrt.hr/media/56/3e/20250214-kronika-dana-36131096-20250214214017.mp3</link>
+    <description>Američki potpredsjednik JD Vance sastao se s ukrajinskim predsjednikom Volodimirom Zelenskim na marginama minhenske konferencije o sigurnosti. 15 osoba pod istragom za ekološki kriminal. 35 tisuća tona medicinskog i drugog otpada nepropisno odlagali diljem zemlje. Pokrenuta istraga protiv zapovjednika broda Lastovo te prvog časnika i vođe palube. Pomorci šokirani. Danas bojkot pekarskih proizvoda. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 14 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/56/3e/20250214-kronika-dana-36131096-20250214214017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 13.02. 2025-02-13</title>
     <link>https://api.hrt.hr/media/d3/89/20250213-kronika-dana-36127212-20250213214012.mp3</link>
     <description>Donald Trump i Vladimir Putin sastat će se najvjerojatnije u Saudijskoj Arabiji, Zelenski i Europska unija poručuju - nema mirovnih pregovora bez njih. Vlada predložila novu upravu Jadrolinije. Zbog enormnih poskupljenja sutra mladi pozivaju na bojkot pekarnica. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Malo prije 19 sati potres jakosti 4,8 zatresao zadarsko područje. U velikoj antikorupcijskoj akciji uhićena i saborska zastupnica SDP-a Barbara Antolić Vupora. Benjamin Netanyahu prijeti nastavkom rata ako Hamas do subote u podne ne oslobodi taoce. Urednica: Sanja Cota</description>
     <pubDate>Tue, 11 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/f5/20250211-kronika-dana-36119074-20250211214042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 10.02. 2025-02-10</title>
-    <link>https://api.hrt.hr/media/4a/7b/20250210-kronika-dana-36115687-20250210214034.mp3</link>
-    <description>Ponovno dojave o bombama. Poruke prijetećeg sadržaja stigle su u zagrebačku srednju školu i zadarsko kazalište lutaka. Objekti pregledani, dojave lažne.Iz Ureda predsjednika Milanovića demantirali da će na inauguraciji biti izvedena Thompsonova pjesma "Ako ne znaš šta je bilo".U Parizu dvodnevni sastanak posvećen umjetnoj inteligenciji. Okupili se čelnici država i vlada te direktori tehnoloških tvrtki i znanstvenici. Urednica: Mira Barić</description>
-    <pubDate>Mon, 10 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4a/7b/20250210-kronika-dana-36115687-20250210214034.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
