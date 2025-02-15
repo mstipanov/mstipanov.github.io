@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 14 Feb 2025 21:57:34 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 22:06:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.02. 2025-02-15</title>
+    <link>https://api.hrt.hr/media/ab/86/20250215-kronika-dana-36133396-20250215214022.mp3</link>
+    <description>Na konferenciji o sigurnosti u Munchenu nova američka administracija šokirala europske NATO saveznike porukom da Europa neće biti dio pregovora o miru u Ukrajini. U austrijskom Villachu 23-godišnji Sirijac nožem izbo petero ljudi na ulici, smrtno stradao 14-godišnjak. U Munchenu umrle majka i kći ozlijeđene u napadu automobilom. Zbog nelegalnog uvoza i odlaganja medicinskog otpada dvoje u pritvoru, petero će se braniti sa slobode. Ministar Šime Erlić odlazi iz Vlade radi kandidature za gradonačelnika Zadra. Dalibor Paus ostaje na čelu IDS-a. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 15 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ab/86/20250215-kronika-dana-36133396-20250215214022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.02. 2025-02-14</title>
     <link>https://api.hrt.hr/media/56/3e/20250214-kronika-dana-36131096-20250214214017.mp3</link>
     <description>Američki potpredsjednik JD Vance sastao se s ukrajinskim predsjednikom Volodimirom Zelenskim na marginama minhenske konferencije o sigurnosti. 15 osoba pod istragom za ekološki kriminal. 35 tisuća tona medicinskog i drugog otpada nepropisno odlagali diljem zemlje. Pokrenuta istraga protiv zapovjednika broda Lastovo te prvog časnika i vođe palube. Pomorci šokirani. Danas bojkot pekarskih proizvoda. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Trump razgovarao s Putinom i Zelenskim, najavljuje se pokretanje pregovora za završetak rata. Uskok zatražio istražni zatvor za 11 od 14 uhićenih u antikorupcijskoj akciji, odluka o SDP-ovoj zastupnici sutra. Prijetnje dvjema zagrebačkim školama na arapskom jeziku - poslao maloljetnik. Urednica: Sanja Cota</description>
     <pubDate>Wed, 12 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cd/10/20250212-kronika-dana-36123173-20250212214054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.02. 2025-02-11</title>
-    <link>https://api.hrt.hr/media/70/f5/20250211-kronika-dana-36119074-20250211214042.mp3</link>
-    <description>Malo prije 19 sati potres jakosti 4,8 zatresao zadarsko područje. U velikoj antikorupcijskoj akciji uhićena i saborska zastupnica SDP-a Barbara Antolić Vupora. Benjamin Netanyahu prijeti nastavkom rata ako Hamas do subote u podne ne oslobodi taoce. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 11 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/f5/20250211-kronika-dana-36119074-20250211214042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
