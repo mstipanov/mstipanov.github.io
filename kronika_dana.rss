@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Feb 2025 22:06:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 21:47:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Donald Trump i Vladimir Putin sastat će se najvjerojatnije u Saudijskoj Arabiji, Zelenski i Europska unija poručuju - nema mirovnih pregovora bez njih. Vlada predložila novu upravu Jadrolinije. Zbog enormnih poskupljenja sutra mladi pozivaju na bojkot pekarnica. Urednica: Sanja Cota</description>
     <pubDate>Thu, 13 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/89/20250213-kronika-dana-36127212-20250213214012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.02. 2025-02-12</title>
-    <link>https://api.hrt.hr/media/cd/10/20250212-kronika-dana-36123173-20250212214054.mp3</link>
-    <description>Trump razgovarao s Putinom i Zelenskim, najavljuje se pokretanje pregovora za završetak rata. Uskok zatražio istražni zatvor za 11 od 14 uhićenih u antikorupcijskoj akciji, odluka o SDP-ovoj zastupnici sutra. Prijetnje dvjema zagrebačkim školama na arapskom jeziku - poslao maloljetnik. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 12 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/10/20250212-kronika-dana-36123173-20250212214054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
