@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 15 Feb 2025 15:04:28 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 14:45:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Brojne reakcije europskih čelnika na najavu američkog i ruskog predsjednika da će početi pregovore kako bi završio rat u Ukrajini.Najmanje 28-ero ljudi je ozlijeđeno u naletu automobila na prosvjednu povorku u Minhenu.Svjetski je dan radija. Podaci govore da 70 posto ljudi svaki dan sluša radio i da mu najviše vjeruju.Urednica Mira Barić</description>
     <pubDate>Thu, 13 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/3b/20250213-dnevne-novosti-36126087-20250213151511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.02. 2025-02-12</title>
-    <link>https://api.hrt.hr/media/ea/c1/20250212-dnevne-novosti-36121669-20250212143054.mp3</link>
-    <description>Uhićeni u Varaždinu i Zagrebu čekaju odluku o pokretanju istrage i mogućem pritvoru. Potres magnitude 4 cijela 8 prema Richteru sinoć uznemirio građane u Dalmaciji i Lici. Zabilježena manja materijalna šteta. Jutros snažni ruski raketni napad na Kijev. Moskva odbila ukrajinski mirovni prijedlog. Urednik Grgo Mrvica</description>
-    <pubDate>Wed, 12 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ea/c1/20250212-dnevne-novosti-36121669-20250212143054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
