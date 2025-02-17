@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 16 Feb 2025 07:10:21 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 06:49:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.02. 2025-02-17</title>
+    <link>https://api.hrt.hr/media/c5/ac/20250217-jutarnja-kronika-36136234-20250217064046.mp3</link>
+    <description>Nakon početnog šoka Amerika ipak mijenja plan da s Moskvom održi samo bilateralne pregovore, državni tajnik Rubio poručio da će u mirovni plan biti uključene i Ukrajina i Europska unija. Danas u Parizu Macron sazvao čelnike najvećih europskih zemalja na sastanak o sigurnosti. Na Pantovčaku teku posljednje pripreme za inauguraciju predsjednika Milanovića sutra u podne. Noćas oko ponoći dva slaba potresa u Hrvatskoj - jedan kod Kraljevca na Sutli i drugi kod Benkovca. Sezona gripe na vrhuncu, zabilježeno oko 25 tisuća oboljelih - stvarni broj mogao bi biti znatno veći. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c5/ac/20250217-jutarnja-kronika-36136234-20250217064046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.02. 2025-02-16</title>
     <link>https://api.hrt.hr/media/83/d5/20250216-jutarnja-kronika-36134021-20250216063048.mp3</link>
     <description>Europa neće biti dio ukrajinskih mirovnih pregovora, poručio Trumpov izaslanik za Ukrajinu. Europski čelnici hitno se sastaju sljedeći tjedan. Napad nožem u Austriji - ubijen 14-godišnji dječak i još petero ozlijeđenih. Večeras na Berlinaleu svjetska premijera hrvatskog filma "Zečji nasip". Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@
 Urednica: Snježana Kralj</description>
     <pubDate>Fri, 14 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/63/2f/20250214-jutarnja-kronika-36127816-20250214063510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 13.02. 2025-02-13</title>
-    <link>https://api.hrt.hr/media/5d/b3/20250213-jutarnja-kronika-36123830-20250213064010.mp3</link>
-    <description>Trump i Putin sat i pol telefonski razgovarali o pokretanju pregovora za završetak rata u Ukrajini. I europske sile žele sudjelovati u mirovnim pregovorima, navodi se u zajedničkoj izjavi sedam europskih zemalja. Uskok zatražio istražni zatvor za 11 od 14 uhićenih u protukorupcijskoj akciji. činje Berlinski filmski festival. Svjetski je dan radija. Urednik: Grgo Mrvica.</description>
-    <pubDate>Thu, 13 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5d/b3/20250213-jutarnja-kronika-36123830-20250213064010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
