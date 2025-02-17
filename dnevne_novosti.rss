@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 16 Feb 2025 15:15:08 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 14:53:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.02. 2025-02-17</title>
+    <link>https://api.hrt.hr/media/a1/1c/20250217-dnevne-novosti-36137976-20250217143546.mp3</link>
+    <description>Nakon dramatičnog pooštravanja odnosa s Washingtonom u Parizu večeras sastanak nekoliko europskih čelnika. Sutra inauguracija hrvatskog predsjednika Zorana Milanovića. Počeo je novi krug upisa trezorskih zapisa. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 17 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/1c/20250217-dnevne-novosti-36137976-20250217143546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.02. 2025-02-16</title>
     <link>https://api.hrt.hr/media/88/ac/20250216-dnevne-novosti-36134896-20250216145044.mp3</link>
     <description>Posebni američki izaslanik za Ukrajinu Keith Kellog iz Muenchena poručio da Europa neće dobiti mjesto za pregovaračkim stolom u mirovnim pregovorima Sjedinjenih Država, Rusije i Ukrajine.Nove akcije potrošačke platforme Halo, inspektore usmjerene prema Hrvatskoj narodnoj banci, ostalim bankama i teleoperatorima.Dva dana uoči inauguracije predsjednika Milanovića provjerili smo kako teku završne pripreme i doznali da je svoj dolazak potvrdilo 115 uzvanika.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Svjetski politički i vojni čelnici okupili se u Minhenu na sigurnosnoj konferenciji. Rusi ne sudjeluju, a ukoro počinje sastanak američkog potpredsjednika Vancea i ukrajinskog predsjednika Zelenskog. Zbog nesreće broda Lastovo pokreće se istraga protiv zapovjednika broda, prvog časnika palube i vođe palube; uprava netaknuta, pomorci ogorčeni. Urednica: Sanja Cota</description>
     <pubDate>Fri, 14 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/a2/20250214-dnevne-novosti-36129805-20250214143020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.02. 2025-02-13</title>
-    <link>https://api.hrt.hr/media/33/3b/20250213-dnevne-novosti-36126087-20250213151511.mp3</link>
-    <description>Brojne reakcije europskih čelnika na najavu američkog i ruskog predsjednika da će početi pregovore kako bi završio rat u Ukrajini.Najmanje 28-ero ljudi je ozlijeđeno u naletu automobila na prosvjednu povorku u Minhenu.Svjetski je dan radija. Podaci govore da 70 posto ljudi svaki dan sluša radio i da mu najviše vjeruju.Urednica Mira Barić</description>
-    <pubDate>Thu, 13 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/33/3b/20250213-dnevne-novosti-36126087-20250213151511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
