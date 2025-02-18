@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 17 Feb 2025 06:49:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 06:59:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.02. 2025-02-18</title>
+    <link>https://api.hrt.hr/media/91/9c/20250218-jutarnja-kronika-36140167-20250218063549.mp3</link>
+    <description>Predsjednik Republike Zoran Milanović prisegnut će u podne za drugi petogodišnji mandat. Na inauguraciji neće biti nitko iz Vlade. U Rijadu počinju rusko-američki pregovori o završetku rata u Ukrajini. Premijer Plenković s egipatskim državnim vrhom, na poslovnom forumu u Kairu 20-ak hrvatskih tvrtki. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/91/9c/20250218-jutarnja-kronika-36140167-20250218063549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.02. 2025-02-17</title>
     <link>https://api.hrt.hr/media/c5/ac/20250217-jutarnja-kronika-36136234-20250217064046.mp3</link>
     <description>Nakon početnog šoka Amerika ipak mijenja plan da s Moskvom održi samo bilateralne pregovore, državni tajnik Rubio poručio da će u mirovni plan biti uključene i Ukrajina i Europska unija. Danas u Parizu Macron sazvao čelnike najvećih europskih zemalja na sastanak o sigurnosti. Na Pantovčaku teku posljednje pripreme za inauguraciju predsjednika Milanovića sutra u podne. Noćas oko ponoći dva slaba potresa u Hrvatskoj - jedan kod Kraljevca na Sutli i drugi kod Benkovca. Sezona gripe na vrhuncu, zabilježeno oko 25 tisuća oboljelih - stvarni broj mogao bi biti znatno veći. Urednik: Mislav Togonal</description>
@@ -31,15 +39,6 @@
     <description>Američki potpredsjednik u M&amp;uuml;nchen izvrijeđao Europu. Nije otkrio mirovni plan Bijele kuće za Ukrajinu. U podne istječe rok do kojega Hamas mora nastaviti oslobađati taoce. Zrinka Ljutić napada slalomsku medalju na Svjetskom prvenstvu. Ima startni broj 6. Zbog olujnog vjetra zatvorena autocesta A1 od Svetog Roka do Posedarja. : Mario Krstanović</description>
     <pubDate>Sat, 15 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/49/d4/20250215-jutarnja-kronika-36131650-20250215064019.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.02. 2025-02-14</title>
-    <link>https://api.hrt.hr/media/63/2f/20250214-jutarnja-kronika-36127816-20250214063510.mp3</link>
-    <description>Američki i ruski dužnosnici sastat će se u Minhenu na sigurnosnoj konferenciji, najavio Donald Trump. Pozvana je i Ukrajina. SDP-ovoj zastupnici Barbari Antolić Vupori određen jednomjesečni istražni zatvor! Za varaždinski SDP riječ je o predstavi glavnoga državnog odvjetnika. Nastavlja se potrošački bojkot. Na prijedlog srednjoškolaca uključene pekarnice i pekarski proizvodi!
-Urednica: Snježana Kralj</description>
-    <pubDate>Fri, 14 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/63/2f/20250214-jutarnja-kronika-36127816-20250214063510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
