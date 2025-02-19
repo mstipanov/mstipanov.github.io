@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Feb 2025 06:34:04 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 07:04:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.02. 2025-02-19</title>
+    <link>https://api.hrt.hr/media/3d/40/20250219-jutarnja-kronika-36143645-20250219063507.mp3</link>
+    <description>Prvi je radni dan predsjednika Zorana Milanovića u novom mandatu. Trump ignorira zabrinutost Ukrajine što je isključena iz pregovora s Rusijom - poručio im da taj sukob nisu trebali ni početi. Papi Franji dijagnosticiran početak obostrane upale pluća. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3d/40/20250219-jutarnja-kronika-36143645-20250219063507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.02. 2025-02-18</title>
     <link>https://api.hrt.hr/media/91/9c/20250218-jutarnja-kronika-36140167-20250218063549.mp3</link>
     <description>Predsjednik Republike Zoran Milanović prisegnut će u podne za drugi petogodišnji mandat. Na inauguraciji neće biti nitko iz Vlade. U Rijadu počinju rusko-američki pregovori o završetku rata u Ukrajini. Premijer Plenković s egipatskim državnim vrhom, na poslovnom forumu u Kairu 20-ak hrvatskih tvrtki. Urednik: Mario Krstanović</description>
