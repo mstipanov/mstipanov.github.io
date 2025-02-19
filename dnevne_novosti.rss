@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Feb 2025 15:00:55 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 14:35:42 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.02. 2025-02-19</title>
+    <link>https://api.hrt.hr/media/b6/19/20250219-dnevne-novosti-36145487-20250219143015.mp3</link>
+    <description>Poslijepodne još jedan sastanak europskih čelnika o Ukrajini, američki predsjednik Donald Trump Ukrajinu okrivio za rat. Prvi slučaj afričke svinjske kuge u Slavoniji ovu godinu, u Nijemcima usmrćeno stotinjak svinja. Vizionar godine u kulturi redatelj Nebojša Slijepčević, čiji je film "Čovjek koji nije mogao šutjeti" nominiran za Oscara. Urednica: Mira Barić</description>
+    <pubDate>Wed, 19 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/19/20250219-dnevne-novosti-36145487-20250219143015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.02. 2025-02-18</title>
     <link>https://api.hrt.hr/media/b6/61/20250218-dnevne-novosti-36141892-20250218143010.mp3</link>
     <description>Zoran Milanović svečano je prisegnuo za drugi mandat predsjednika Republike. U Rijadu održan sastanak Rusije i Sjedinjenih Države koji su vodili šefovi diplomacija Lavrov i Rubio, iz Kremlja kažu da se sastanak Putina i Trampa neće dogoditi sljedeći tjedan. Jedna osoba poginula, druga teško ozlijeđena u prometnoj nesreći kada je na Jadranskoj magistrali na kombi pala stijena koja se odlomila sa Srđa. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Posebni američki izaslanik za Ukrajinu Keith Kellog iz Muenchena poručio da Europa neće dobiti mjesto za pregovaračkim stolom u mirovnim pregovorima Sjedinjenih Država, Rusije i Ukrajine.Nove akcije potrošačke platforme Halo, inspektore usmjerene prema Hrvatskoj narodnoj banci, ostalim bankama i teleoperatorima.Dva dana uoči inauguracije predsjednika Milanovića provjerili smo kako teku završne pripreme i doznali da je svoj dolazak potvrdilo 115 uzvanika.Urednica: Mira Barić</description>
     <pubDate>Sun, 16 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/88/ac/20250216-dnevne-novosti-36134896-20250216145044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.02. 2025-02-15</title>
-    <link>https://api.hrt.hr/media/93/95/20250215-dnevne-novosti-36132549-20250215143021.mp3</link>
-    <description>Oštar odgovor njemačkog kancelara Olafa Scholza američkom potpredsjedniku JD Vanceu na konferenciji o sigurnosti u Minhenu: "Nećemo prihvatiti da se ljudi izvana upleću u našu demokraciju". Novi krug razmjene talaca i zarobljenika između Hamasa i Izraela. Na Županijskom sudu u Zagrebu traje ročište o istražnom zatvoru za osumnjičene za kaznena djela ilegalnog uvoza opasnog otpada iz Italije, Slovenije i Njemačke u Hrvatsku. Urednica: Mira Barić</description>
-    <pubDate>Sat, 15 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/95/20250215-dnevne-novosti-36132549-20250215143021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
