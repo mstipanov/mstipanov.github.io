@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Feb 2025 06:59:14 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 06:34:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Europa neće biti dio ukrajinskih mirovnih pregovora, poručio Trumpov izaslanik za Ukrajinu. Europski čelnici hitno se sastaju sljedeći tjedan. Napad nožem u Austriji - ubijen 14-godišnji dječak i još petero ozlijeđenih. Večeras na Berlinaleu svjetska premijera hrvatskog filma "Zečji nasip". Urednik: Mario Krstanović</description>
     <pubDate>Sun, 16 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/83/d5/20250216-jutarnja-kronika-36134021-20250216063048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.02. 2025-02-15</title>
-    <link>https://api.hrt.hr/media/49/d4/20250215-jutarnja-kronika-36131650-20250215064019.mp3</link>
-    <description>Američki potpredsjednik u M&amp;uuml;nchen izvrijeđao Europu. Nije otkrio mirovni plan Bijele kuće za Ukrajinu. U podne istječe rok do kojega Hamas mora nastaviti oslobađati taoce. Zrinka Ljutić napada slalomsku medalju na Svjetskom prvenstvu. Ima startni broj 6. Zbog olujnog vjetra zatvorena autocesta A1 od Svetog Roka do Posedarja. : Mario Krstanović</description>
-    <pubDate>Sat, 15 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/d4/20250215-jutarnja-kronika-36131650-20250215064019.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
