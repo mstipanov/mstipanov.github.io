@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 13 Feb 2025 17:20:33 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 17:41:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>SERGIO GOBBO EMISIJA 2025-02-20</title>
+    <link>https://api.hrt.hr/media/25/1d/20250220-historia-histriae-8157959-20250220171020.mp3</link>
+    <description>U goste nam dolazi kolekcionar Sergio Gobbo, a naša tema je kolekcija posvećena austrougarskoj mornarici. </description>
+    <pubDate>Thu, 20 Feb 2025 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/1d/20250220-historia-histriae-8157959-20250220171020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Historia Histriae(R) 2025-02-13</title>
     <link>https://api.hrt.hr/media/a3/a5/20250213-historia-histriae-8155304-20250213162013.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -79,14 +87,6 @@
     <description>Danas učimo mnogo toga novoga o povijesti Šumbera uz Kristijana Žgaljardića! Budite s nama!</description>
     <pubDate>Thu, 05 Dec 2024 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/9f/20241205-historia-histriae-8132261-20241205173000.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Historia Histriae 21.11.2024. 2024-11-21</title>
-    <link>https://api.hrt.hr/media/c6/18/20241121-historia-histriae-8127562-20241121170016.mp3</link>
-    <description>Idemo u Kršan i učimo o njegovoj povijesti uz našeg Kristijana Žgaljardića!</description>
-    <pubDate>Thu, 21 Nov 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/18/20241121-historia-histriae-8127562-20241121170016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
