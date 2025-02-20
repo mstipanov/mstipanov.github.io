@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Feb 2025 22:07:11 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 21:42:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Parizu održan sastanak europskih čelnika, u Rijadu za sutra najavljen početak rusko-američkih pregovora. Pripreme završene, generalna proba održana - sve je spremno za inauguraciju predsjednika Milanovića sutra na Pantovčaku. Zbog komplikacija povezanih s gripom - u zagrebačkoj Klinici za infektivne bolesti umrlo šestogodišnje dijete. Urednica: Mira Barić</description>
     <pubDate>Mon, 17 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/af/20250217-kronika-dana-36139161-20250217214052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.02. 2025-02-16</title>
-    <link>https://api.hrt.hr/media/0e/a9/20250216-kronika-dana-36135707-20250216232047.mp3</link>
-    <description>Francuski predsjednik okuplja europske čelnike, tema - sigurnost u svjetlu novog smjera američke administracije. SAD za sljedeći tjedan najavljuje pregovore s Rusijom u Saudijskoj Arabiji. Američki državni tajnik iz Jeruzalema poručio: Hamas mora biti uništen. U punom jeku pripreme za inauguraciju predsjednika Milanovića u utorak na Pantovčaku. Sezona gripe na vrhuncu. Još nije kasno za cijepljenje. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 16 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0e/a9/20250216-kronika-dana-36135707-20250216232047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
