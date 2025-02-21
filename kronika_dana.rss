@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 20 Feb 2025 22:12:25 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 21:48:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.02. 2025-02-21</title>
+    <link>https://api.hrt.hr/media/b5/d4/20250221-kronika-dana-36153964-20250221213520.mp3</link>
+    <description>Trump ponovno napada Zelenskog, a ukrajinski obavještajci tvrde da Rusija u ponedjeljak namjerava proglasiti pobjedu. Sastali se predstavnici platforme Halo, inspektore i HNB-a. Predstavljen projekt novog stadiona Maksimir; trebao bi biti izgrađen do 2029. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 21 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b5/d4/20250221-kronika-dana-36153964-20250221213520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.02. 2025-02-20</title>
     <link>https://api.hrt.hr/media/4e/60/20250220-kronika-dana-36150192-20250220214018.mp3</link>
     <description>Ukrajinski predsjednik Zelenski nakon sastanka s posebnim izaslanikom Keithom Kelloggom poručio da je Ukrajina spremna s američkim predsjednikom potpisati sporazum o ulaganjima i sigurnosti. Ministar Bačić kaže da bi Vlada, nakon dorade nekih dokumenata, mogla prihvatiti poziv predsjednika Milanovića da se održi sjednica Vijeća za obranu. Prosvjed ispred Hrvatske narodne banke koju potrošači smatraju odgovornom za rast cijena. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Zoran Milanović drugi put prisegnuo za predsjednika Republike.Rusija i Sjedinjene Države na sastanku u Rijadu počeli pregovore o miru u Ukrajini bez Ukrajine. U Parizu sutra novi sastanak o Ukrajini i europskoj sigurnosti. Papi Franji dijagnosticiran početak obostrane upale pluća. Urednica: Sanja Cota</description>
     <pubDate>Tue, 18 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7e/ca/20250218-kronika-dana-36143039-20250218213506.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.02. 2025-02-17</title>
-    <link>https://api.hrt.hr/media/a0/af/20250217-kronika-dana-36139161-20250217214052.mp3</link>
-    <description>U Parizu održan sastanak europskih čelnika, u Rijadu za sutra najavljen početak rusko-američkih pregovora. Pripreme završene, generalna proba održana - sve je spremno za inauguraciju predsjednika Milanovića sutra na Pantovčaku. Zbog komplikacija povezanih s gripom - u zagrebačkoj Klinici za infektivne bolesti umrlo šestogodišnje dijete. Urednica: Mira Barić</description>
-    <pubDate>Mon, 17 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a0/af/20250217-kronika-dana-36139161-20250217214052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
