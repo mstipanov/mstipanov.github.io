@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 21:48:03 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 22:22:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.02. 2025-02-22</title>
+    <link>https://api.hrt.hr/media/25/b9/20250222-kronika-dana-36156180-20250222214014.mp3</link>
+    <description>Vatikan večeras objavio da se pogoršalo zdravstveno stanje Pape.Ankete uoči sutrašnjih izbora u Njemačkoj pokazuju da su demokršćanska Unija CDU/CSU i njezin kandidat za kancelara Friedrich Merz i dalje u vodstvu. Norveški film "Dreams (Sex Love)" pobjednik je 75-oga međunarodnog filmskog festivala u Berlinu.
+Urednica: Mira Barić</description>
+    <pubDate>Sat, 22 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/b9/20250222-kronika-dana-36156180-20250222214014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.02. 2025-02-21</title>
     <link>https://api.hrt.hr/media/b5/d4/20250221-kronika-dana-36153964-20250221213520.mp3</link>
     <description>Trump ponovno napada Zelenskog, a ukrajinski obavještajci tvrde da Rusija u ponedjeljak namjerava proglasiti pobjedu. Sastali se predstavnici platforme Halo, inspektore i HNB-a. Predstavljen projekt novog stadiona Maksimir; trebao bi biti izgrađen do 2029. Urednica: Sanja Cota</description>
@@ -31,14 +40,6 @@
     <description>Trump nazvao Zelenskog diktatorom, ukrajinskom predsjedniku potporu izražavaju europski državnici. Čelnici europskih država razgovarali videovezom, premijer Plenković ponovio - zauzimamo se za kraj rata, pravedan mir i cjelovitost Ukrajine. Zdravstveno stanje pape Franje stabilno, uz blago poboljšanje. Urednica: Sanja Cota</description>
     <pubDate>Wed, 19 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ec/ad/20250219-kronika-dana-36146539-20250219214013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.02. 2025-02-18</title>
-    <link>https://api.hrt.hr/media/7e/ca/20250218-kronika-dana-36143039-20250218213506.mp3</link>
-    <description>Zoran Milanović drugi put prisegnuo za predsjednika Republike.Rusija i Sjedinjene Države na sastanku u Rijadu počeli pregovore o miru u Ukrajini bez Ukrajine. U Parizu sutra novi sastanak o Ukrajini i europskoj sigurnosti. Papi Franji dijagnosticiran početak obostrane upale pluća. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 18 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7e/ca/20250218-kronika-dana-36143039-20250218213506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
