@@ -6,7 +6,7 @@
         <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Feb 2025 07:19:56 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 09:20:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/4a/c0/inventura-tjedan-pod-povecalom-20220324112020.webp</url><title>Inventura - tjedan pod povećalom</title><link>https://radio.hrt.hr/slusaonica/inventura-tjedan-pod-povecalom</link></image>
         <item>
@@ -40,14 +40,6 @@ Na svečanoj inauguraciji na Pantovčaku, na drugi mandat prisegnuo je predsjedn
     <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
     <pubDate>Sat, 01 Feb 2025 06:30:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8f/8a/20250201-inventura-tjedan-pod-povecalom-36084447-20250131180054.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Inventura, 25 01 2025 2025-01-25</title>
-    <link>https://api.hrt.hr/media/46/f4/20250125-inventura-tjedan-pod-povecalom-36060315-20250124183513.mp3</link>
-    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
-    <pubDate>Sat, 25 Jan 2025 08:05:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/f4/20250125-inventura-tjedan-pod-povecalom-36060315-20250124183513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
