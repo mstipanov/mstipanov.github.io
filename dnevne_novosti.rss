@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 14:46:33 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 14:51:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.02. 2025-02-22</title>
+    <link>https://api.hrt.hr/media/13/59/20250222-dnevne-novosti-36155378-20250222142508.mp3</link>
+    <description>Uoči treće godišnjice ruske agresije na Ukrajinu u Zagrebu održan skup potpore toj zemlji. Hamas oslobodio još petoricu izraelskih talaca. Promet u trgovinama jučer je bio dva posto manji nego prošlog petka kad je također bio bojkot kupnje. U Rijeci u 17.45 igraju Rijeka - Dinamo, policija izdala posebne upute navijačima i proglasila susret utakmicom visokog rizika. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 22 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/13/59/20250222-dnevne-novosti-36155378-20250222142508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.02. 2025-02-21</title>
     <link>https://api.hrt.hr/media/22/ca/20250221-dnevne-novosti-36152791-20250221143025.mp3</link>
     <description>Washington ustraje u zahtjevu da se Kijev otvori za američka ulaganja u ukrajinska prirodna bogatstva. Ukrajinski predsjednik to odbija. Predstavljen projekt novog stadiona Maksimir: stajat će 175 milijuna eura, trebao bi biti gotov do 2029. Među 15-ak zakona izglasovanih u Saboru i onaj o strancima, iznimnim mjerama kontrole cijena te o rodiljnim i roditeljskim potporama. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Poslijepodne još jedan sastanak europskih čelnika o Ukrajini, američki predsjednik Donald Trump Ukrajinu okrivio za rat. Prvi slučaj afričke svinjske kuge u Slavoniji ovu godinu, u Nijemcima usmrćeno stotinjak svinja. Vizionar godine u kulturi redatelj Nebojša Slijepčević, čiji je film "Čovjek koji nije mogao šutjeti" nominiran za Oscara. Urednica: Mira Barić</description>
     <pubDate>Wed, 19 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b6/19/20250219-dnevne-novosti-36145487-20250219143015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.02. 2025-02-18</title>
-    <link>https://api.hrt.hr/media/b6/61/20250218-dnevne-novosti-36141892-20250218143010.mp3</link>
-    <description>Zoran Milanović svečano je prisegnuo za drugi mandat predsjednika Republike. U Rijadu održan sastanak Rusije i Sjedinjenih Države koji su vodili šefovi diplomacija Lavrov i Rubio, iz Kremlja kažu da se sastanak Putina i Trampa neće dogoditi sljedeći tjedan. Jedna osoba poginula, druga teško ozlijeđena u prometnoj nesreći kada je na Jadranskoj magistrali na kombi pala stijena koja se odlomila sa Srđa. Urednica: Mira Barić</description>
-    <pubDate>Tue, 18 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b6/61/20250218-dnevne-novosti-36141892-20250218143010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
