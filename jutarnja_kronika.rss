@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 06:44:45 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 07:19:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.02. 2025-02-22</title>
+    <link>https://api.hrt.hr/media/47/5a/20250222-jutarnja-kronika-36154513-20250222063507.mp3</link>
+    <description>Banke, nakon prosvjeda potrošača i razgovora u HNB-u, odustaju od podizanja bankarskih naknada. Trump očekuje da će Ukrajina uskoro potpisati sporazum o mineralima kako bi Americi nadoknadila dobivenu pomoć. Izrael priprema preuzimanje dodatnih 6 talaca iz Gaze u zamjenu za stotine palestinskih zatvorenika. Urednica: Marija Gerbec Njavro.</description>
+    <pubDate>Sat, 22 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/47/5a/20250222-jutarnja-kronika-36154513-20250222063507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.02. 2025-02-21</title>
     <link>https://api.hrt.hr/media/68/fc/20250221-jutarnja-kronika-36150932-20250221063516.mp3</link>
     <description>Ukrajinski predsjednik Zelenski nakon sastanka s posebnim izaslanikom Keithom Kelloggom poručio da je Ukrajina spremna s američkim predsjednikom potpisati sporazum o ulaganjima i sigurnosti. Nakon bojkota trgovačkih lanaca platforma Halo inspektore za inflaciju proziva i Hrvatsku narodnu banku. Večeras počinje tradicionalni Samoborski fašnik. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Prvi je radni dan predsjednika Zorana Milanovića u novom mandatu. Trump ignorira zabrinutost Ukrajine što je isključena iz pregovora s Rusijom - poručio im da taj sukob nisu trebali ni početi. Papi Franji dijagnosticiran početak obostrane upale pluća. Urednica: Sanja Cota</description>
     <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3d/40/20250219-jutarnja-kronika-36143645-20250219063507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.02. 2025-02-18</title>
-    <link>https://api.hrt.hr/media/91/9c/20250218-jutarnja-kronika-36140167-20250218063549.mp3</link>
-    <description>Predsjednik Republike Zoran Milanović prisegnut će u podne za drugi petogodišnji mandat. Na inauguraciji neće biti nitko iz Vlade. U Rijadu počinju rusko-američki pregovori o završetku rata u Ukrajini. Premijer Plenković s egipatskim državnim vrhom, na poslovnom forumu u Kairu 20-ak hrvatskih tvrtki. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/91/9c/20250218-jutarnja-kronika-36140167-20250218063549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
