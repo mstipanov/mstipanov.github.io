@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Feb 2025 22:22:40 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 21:57:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.02. 2025-02-23</title>
+    <link>https://api.hrt.hr/media/08/7c/20250223-kronika-dana-36158684-20250223214020.mp3</link>
+    <description>Demokršćanska unija pobjednik je njemačkih izbora. Krajnje desni AFD ostvario povijesni uspjeh, a SPD kancelara Šolca povijesni neuspjeh. Zelenski poručio da je za mir ili članstvo u Nato-u - spreman odstupiti s dužnosti predsjednika. Zdravstveno stanje pape Franje i dalje kritično. Zrinka Ljutić drugim mjestom u Sestriereu preuzela vodstvo u poretku najboljih slalomašica. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 23 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/7c/20250223-kronika-dana-36158684-20250223214020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.02. 2025-02-22</title>
     <link>https://api.hrt.hr/media/25/b9/20250222-kronika-dana-36156180-20250222214014.mp3</link>
     <description>Vatikan večeras objavio da se pogoršalo zdravstveno stanje Pape.Ankete uoči sutrašnjih izbora u Njemačkoj pokazuju da su demokršćanska Unija CDU/CSU i njezin kandidat za kancelara Friedrich Merz i dalje u vodstvu. Norveški film "Dreams (Sex Love)" pobjednik je 75-oga međunarodnog filmskog festivala u Berlinu.
@@ -32,14 +40,6 @@ Urednica: Mira Barić</description>
     <description>Ukrajinski predsjednik Zelenski nakon sastanka s posebnim izaslanikom Keithom Kelloggom poručio da je Ukrajina spremna s američkim predsjednikom potpisati sporazum o ulaganjima i sigurnosti. Ministar Bačić kaže da bi Vlada, nakon dorade nekih dokumenata, mogla prihvatiti poziv predsjednika Milanovića da se održi sjednica Vijeća za obranu. Prosvjed ispred Hrvatske narodne banke koju potrošači smatraju odgovornom za rast cijena. Urednica: Mira Barić</description>
     <pubDate>Thu, 20 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4e/60/20250220-kronika-dana-36150192-20250220214018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.02. 2025-02-19</title>
-    <link>https://api.hrt.hr/media/ec/ad/20250219-kronika-dana-36146539-20250219214013.mp3</link>
-    <description>Trump nazvao Zelenskog diktatorom, ukrajinskom predsjedniku potporu izražavaju europski državnici. Čelnici europskih država razgovarali videovezom, premijer Plenković ponovio - zauzimamo se za kraj rata, pravedan mir i cjelovitost Ukrajine. Zdravstveno stanje pape Franje stabilno, uz blago poboljšanje. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 19 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/ad/20250219-kronika-dana-36146539-20250219214013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
