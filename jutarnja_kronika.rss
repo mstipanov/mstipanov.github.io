@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Feb 2025 06:54:19 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 06:58:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.02. 2025-02-24</title>
+    <link>https://api.hrt.hr/media/40/2c/20250224-jutarnja-kronika-36159265-20250224063546.mp3</link>
+    <description>Demokršćanska unija pobjednik je njemačkih izbora. Krajnje desni AFD ostvario povijesni uspjeh, a SPD kancelara Šolca povijesni neuspjeh. Zelenski poručio da je za mir ili članstvo u Nato-u - spreman odstupiti s dužnosti predsjednika. Zdravstveno stanje pape Franje i dalje kritično. Zrinka Ljutić drugim mjestom u Sestriereu preuzela vodstvo u poretku najboljih slalomašica. Urednik: Mislav Togonal</description>
+    <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/2c/20250224-jutarnja-kronika-36159265-20250224063546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.02. 2025-02-23</title>
     <link>https://api.hrt.hr/media/2b/a3/20250223-jutarnja-kronika-36156760-20250223063018.mp3</link>
     <description>Vatikan sinoć objavio da se pogoršalo Papino zdravstveno stanje. Izbori u Njemačkoj - ankete daju prednosti CDU/CSU i Friedrichu Merzu. Norveški film "Dreams (Sex Love)" pobjednik je 75-oga međunarodnog filmskog festivala u Berlinu. Velike pobjede Rijeke i Hajduka - čak po četiri gola protiv Dinama i Osijeka. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinski predsjednik Zelenski nakon sastanka s posebnim izaslanikom Keithom Kelloggom poručio da je Ukrajina spremna s američkim predsjednikom potpisati sporazum o ulaganjima i sigurnosti. Nakon bojkota trgovačkih lanaca platforma Halo inspektore za inflaciju proziva i Hrvatsku narodnu banku. Večeras počinje tradicionalni Samoborski fašnik. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 21 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/68/fc/20250221-jutarnja-kronika-36150932-20250221063516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.02. 2025-02-20</title>
-    <link>https://api.hrt.hr/media/13/02/20250220-jutarnja-kronika-36147134-20250220063511.mp3</link>
-    <description>Trump Zelenskog nazvao - diktatorom! Poboljšava se zdravstveno stanje pape Franje. Nova akcija protiv divljanja cijena - potrošači pozvani na prosvjed ispred banaka i HNB-a. U Bednji jutros izmjereno -11 stupnjeva. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 20 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/13/02/20250220-jutarnja-kronika-36147134-20250220063511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
