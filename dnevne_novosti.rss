@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Feb 2025 14:55:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 15:00:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.02. 2025-02-24</title>
+    <link>https://api.hrt.hr/media/e1/7e/20250224-dnevne-novosti-36161051-20250224143056.mp3</link>
+    <description>Tri godine krvavog rata u Ukrajini, u Kijevu međunarodni sastanak na vrhu, Europska unija najavila je 3 i pol milijarde eura nove pomoći Ukrajini. I nakon prijevremenih izbora u Njemačkoj mnoga pitanja otvorena, novi kancelar nedvojbeno CDU-ov Fridrich Merz. Europska komisija otvorila istragu o državnim potporama koje su dodijeljene Hrvatskim šumama.Mandatno imunitetno povjerenstvo primilo zahtjev DORH-a za ukidanje imuniteta Josipu Dabri. Urednica: Mira Barić</description>
+    <pubDate>Mon, 24 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/7e/20250224-dnevne-novosti-36161051-20250224143056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.02. 2025-02-23</title>
     <link>https://api.hrt.hr/media/bf/3e/20250223-dnevne-novosti-36157657-20250223143020.mp3</link>
     <description>U Njemačkoj se održavaju prijevremeni parlamentarni izbori, odmah nakon zatvaranja birališta u 18 sati prve izlazne ankete. Uoči treće godišnjice rata u Ukrajini papa Franjo iz bolničkog kreveta poslao poruku. Zrinka Ljutić osvojila drugo mjesto u slalomu Svjetskog kupa u talijanskom zimovalištu Sestriereu i preuzela vodstvo u poretku najboljih slalomašica. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Washington ustraje u zahtjevu da se Kijev otvori za američka ulaganja u ukrajinska prirodna bogatstva. Ukrajinski predsjednik to odbija. Predstavljen projekt novog stadiona Maksimir: stajat će 175 milijuna eura, trebao bi biti gotov do 2029. Među 15-ak zakona izglasovanih u Saboru i onaj o strancima, iznimnim mjerama kontrole cijena te o rodiljnim i roditeljskim potporama. Urednica: Mira Barić</description>
     <pubDate>Fri, 21 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/22/ca/20250221-dnevne-novosti-36152791-20250221143025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.02. 2025-02-20</title>
-    <link>https://api.hrt.hr/media/a2/cb/20250220-dnevne-novosti-36148995-20250220143025.mp3</link>
-    <description>Dok Trump oštro napada Zelenskog, posebni američki izaslanik za Ukrajinu stigao je u Kijev. Oporba u Saboru optužuje Vladu da nije ništa poduzela protiv inflacije. Prosvjedna akcija građana ovaj put usmjerena na banke i HNB. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/cb/20250220-dnevne-novosti-36148995-20250220143025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
