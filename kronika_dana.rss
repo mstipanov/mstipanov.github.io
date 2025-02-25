@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Feb 2025 22:31:52 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 22:06:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.02. 2025-02-25</title>
+    <link>https://api.hrt.hr/media/4c/48/20250225-kronika-dana-36165813-20250225213553.mp3</link>
+    <description>Sabor sutra glasuje o ukidanju imuniteta zastupniku Domovinskog pokreta Josipu Dabri. Sutra izricanje presude Miloradu Dodiku, međunarodni dužnosnici u Sarajevu poručuju da će spriječiti svaki pokušaj destabilizacije BiH.Papa Franjo i dalje u kritičnom stanju, ali stabilno!Urednica: Sanja Cota</description>
+    <pubDate>Tue, 25 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4c/48/20250225-kronika-dana-36165813-20250225213553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.02. 2025-02-24</title>
     <link>https://api.hrt.hr/media/72/62/20250224-kronika-dana-36162150-20250224213548.mp3</link>
     <description>Treća je godišnjica ruske agresije na Ukrajinu. Donesena rezolucija UN-a o Ukrajini, SAD i Rusija glasovali protiv. Zbog posjedovanja nedopuštenog oružja, Državno odvjetništvo traži ukidanje saborskog imuniteta Josipu Dabri te određivanje istražnog zatvora. Domovinski pokret tome se protivi. Zdravstveno stanje pape Franje malo bolje, no još je u životnoj opasnosti. Hrvatska gorska služba spašavanja obilježila 75-u obljetnicu rada. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Sat, 22 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/b9/20250222-kronika-dana-36156180-20250222214014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.02. 2025-02-21</title>
-    <link>https://api.hrt.hr/media/b5/d4/20250221-kronika-dana-36153964-20250221213520.mp3</link>
-    <description>Trump ponovno napada Zelenskog, a ukrajinski obavještajci tvrde da Rusija u ponedjeljak namjerava proglasiti pobjedu. Sastali se predstavnici platforme Halo, inspektore i HNB-a. Predstavljen projekt novog stadiona Maksimir; trebao bi biti izgrađen do 2029. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 21 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/d4/20250221-kronika-dana-36153964-20250221213520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
