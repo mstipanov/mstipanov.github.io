@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 25 Feb 2025 22:06:20 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 21:41:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.02. 2025-02-26</title>
+    <link>https://api.hrt.hr/media/b6/04/20250226-kronika-dana-36169544-20250226214014.mp3</link>
+    <description>Josip Dabro večeras ispitan u Državnom odvjetnišvu u Osijeku i vraćen u pritvor u Vinkovce.. Kuća strave u Brčkom. Otkriveni krijumčari djece. Šestero djece s hrvatskim dokumentima. Milorad Dodik osuđen na godinu dana zatvora i šest godina zabrane obnašanja dužnosti predsjednika Republike Srpske.Trump potvrdio - Zelenski dolazi u petak u Washington. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 26 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/04/20250226-kronika-dana-36169544-20250226214014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.02. 2025-02-25</title>
     <link>https://api.hrt.hr/media/4c/48/20250225-kronika-dana-36165813-20250225213553.mp3</link>
     <description>Sabor sutra glasuje o ukidanju imuniteta zastupniku Domovinskog pokreta Josipu Dabri. Sutra izricanje presude Miloradu Dodiku, međunarodni dužnosnici u Sarajevu poručuju da će spriječiti svaki pokušaj destabilizacije BiH.Papa Franjo i dalje u kritičnom stanju, ali stabilno!Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>Demokršćanska unija pobjednik je njemačkih izbora. Krajnje desni AFD ostvario povijesni uspjeh, a SPD kancelara Šolca povijesni neuspjeh. Zelenski poručio da je za mir ili članstvo u Nato-u - spreman odstupiti s dužnosti predsjednika. Zdravstveno stanje pape Franje i dalje kritično. Zrinka Ljutić drugim mjestom u Sestriereu preuzela vodstvo u poretku najboljih slalomašica. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sun, 23 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/08/7c/20250223-kronika-dana-36158684-20250223214020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.02. 2025-02-22</title>
-    <link>https://api.hrt.hr/media/25/b9/20250222-kronika-dana-36156180-20250222214014.mp3</link>
-    <description>Vatikan večeras objavio da se pogoršalo zdravstveno stanje Pape.Ankete uoči sutrašnjih izbora u Njemačkoj pokazuju da su demokršćanska Unija CDU/CSU i njezin kandidat za kancelara Friedrich Merz i dalje u vodstvu. Norveški film "Dreams (Sex Love)" pobjednik je 75-oga međunarodnog filmskog festivala u Berlinu.
-Urednica: Mira Barić</description>
-    <pubDate>Sat, 22 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/b9/20250222-kronika-dana-36156180-20250222214014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
