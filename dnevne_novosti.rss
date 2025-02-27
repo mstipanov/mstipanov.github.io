@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Feb 2025 14:39:43 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 14:46:19 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.02. 2025-02-27</title>
+    <link>https://api.hrt.hr/media/f1/a6/20250227-dnevne-novosti-36171939-20250227143514.mp3</link>
+    <description>USKOK pokrenuo istragu protiv varaždinskoga gradonačelnika Nevena Bosilja. Na osječkom sudu se očekuje odluka o istražnom zatvoru za Josipa Dabru. Hrvatski rast BDP-a lani 3,8 posto, drugi najveći u eurozoni. Legendarni holivudski glumac Gene Hackman sa suprugom pronađen mrtav u svojoj kući u Santa Feu. Urednik: Mislav Togonal</description>
+    <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f1/a6/20250227-dnevne-novosti-36171939-20250227143514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.02. 2025-02-26</title>
     <link>https://api.hrt.hr/media/6a/1f/20250226-dnevne-novosti-36168379-20250226142510.mp3</link>
     <description>Josip Dabro ostao bez zastupničkog imuniteta i otišao u Slavoniju, ne zna se hoće li se predati policiji. U Brčkom pronađeno 31 dijete, navodno imaju hrvatske putovnice, sumnja se na trgovinu ljudima. Milorad Dodik osuđen na godinu dana zatvora i šest godina zabrane obnašanja dužnosti predsjednika Republike Srpske. Trump očekuje da će u petak sa Zelenskim potpisati sporazum o mineralima. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Tri godine krvavog rata u Ukrajini, u Kijevu međunarodni sastanak na vrhu, Europska unija najavila je 3 i pol milijarde eura nove pomoći Ukrajini. I nakon prijevremenih izbora u Njemačkoj mnoga pitanja otvorena, novi kancelar nedvojbeno CDU-ov Fridrich Merz. Europska komisija otvorila istragu o državnim potporama koje su dodijeljene Hrvatskim šumama.Mandatno imunitetno povjerenstvo primilo zahtjev DORH-a za ukidanje imuniteta Josipu Dabri. Urednica: Mira Barić</description>
     <pubDate>Mon, 24 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e1/7e/20250224-dnevne-novosti-36161051-20250224143056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.02. 2025-02-23</title>
-    <link>https://api.hrt.hr/media/bf/3e/20250223-dnevne-novosti-36157657-20250223143020.mp3</link>
-    <description>U Njemačkoj se održavaju prijevremeni parlamentarni izbori, odmah nakon zatvaranja birališta u 18 sati prve izlazne ankete. Uoči treće godišnjice rata u Ukrajini papa Franjo iz bolničkog kreveta poslao poruku. Zrinka Ljutić osvojila drugo mjesto u slalomu Svjetskog kupa u talijanskom zimovalištu Sestriereu i preuzela vodstvo u poretku najboljih slalomašica. Urednica: Mira Barić</description>
-    <pubDate>Sun, 23 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bf/3e/20250223-dnevne-novosti-36157657-20250223143020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
