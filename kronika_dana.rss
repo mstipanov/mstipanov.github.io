@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Feb 2025 21:41:05 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 21:48:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.02. 2025-02-27</title>
+    <link>https://api.hrt.hr/media/3c/24/20250227-kronika-dana-36173129-20250227214018.mp3</link>
+    <description>Josipu Dabri određeno mjesec dana istražnog zatvora. Osmero uhićenih nakon što su u Brčkom pronađena djeca, žrtve trgovanja ljudima. U Bijeloj kući razgovarali Donald Trump i britanski premijer Keir Starmer, sutra u Vašington dolazi Volodimir Zelenski. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 27 Feb 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/24/20250227-kronika-dana-36173129-20250227214018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.02. 2025-02-26</title>
     <link>https://api.hrt.hr/media/b6/04/20250226-kronika-dana-36169544-20250226214014.mp3</link>
     <description>Josip Dabro večeras ispitan u Državnom odvjetnišvu u Osijeku i vraćen u pritvor u Vinkovce.. Kuća strave u Brčkom. Otkriveni krijumčari djece. Šestero djece s hrvatskim dokumentima. Milorad Dodik osuđen na godinu dana zatvora i šest godina zabrane obnašanja dužnosti predsjednika Republike Srpske.Trump potvrdio - Zelenski dolazi u petak u Washington. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Treća je godišnjica ruske agresije na Ukrajinu. Donesena rezolucija UN-a o Ukrajini, SAD i Rusija glasovali protiv. Zbog posjedovanja nedopuštenog oružja, Državno odvjetništvo traži ukidanje saborskog imuniteta Josipu Dabri te određivanje istražnog zatvora. Domovinski pokret tome se protivi. Zdravstveno stanje pape Franje malo bolje, no još je u životnoj opasnosti. Hrvatska gorska služba spašavanja obilježila 75-u obljetnicu rada. Urednik: Silvio Šop</description>
     <pubDate>Mon, 24 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/62/20250224-kronika-dana-36162150-20250224213548.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.02. 2025-02-23</title>
-    <link>https://api.hrt.hr/media/08/7c/20250223-kronika-dana-36158684-20250223214020.mp3</link>
-    <description>Demokršćanska unija pobjednik je njemačkih izbora. Krajnje desni AFD ostvario povijesni uspjeh, a SPD kancelara Šolca povijesni neuspjeh. Zelenski poručio da je za mir ili članstvo u Nato-u - spreman odstupiti s dužnosti predsjednika. Zdravstveno stanje pape Franje i dalje kritično. Zrinka Ljutić drugim mjestom u Sestriereu preuzela vodstvo u poretku najboljih slalomašica. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sun, 23 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/08/7c/20250223-kronika-dana-36158684-20250223214020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
