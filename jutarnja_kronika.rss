@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 26 Feb 2025 07:08:02 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 06:42:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 27.02. 2025-02-27</title>
+    <link>https://api.hrt.hr/media/4d/45/20250227-jutarnja-kronika-36170136-20250227063512.mp3</link>
+    <description>Josip Dabro sinoć ispitan u Državnom odvjetnišvu u Osijeku i vraćen u pritvor u Vinkovce. Jutros će pred suca istrage. U kući u Brčkom otkriveni krijumčari djece. Od 30-ak djece šestero ima hrvatske dokumente. Američki predsjednik Donald Trump uvodi carine od 25 posto na uvoz iz Europske unije. Završnica Super sport nogometnog kupa ove godine bez Dinama i Hajduka. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 27 Feb 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4d/45/20250227-jutarnja-kronika-36170136-20250227063512.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 26.02. 2025-02-26</title>
     <link>https://api.hrt.hr/media/dd/50/20250226-jutarnja-kronika-36166523-20250226063013.mp3</link>
     <description>Sabor glasuje o ukidanju imuniteta zastupniku Domovinskog pokreta Josipu Dabri. Predsjednik Zoran Milanović za prvi službeni inozemni posjet u drugom mandatu - baš kao i u prvom - odabrao Ljubljanu. Sjedinjene Države i Ukrajina dogovorili su uvjete sporazuma o rijetkim mineralima. Zbog nepoštovanja odluka visokog predstavnika, sud Bosne i Hercegovine izriče presudu predsjedniku Republike Srpske Miloradu Dodiku. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Demokršćanska unija pobjednik je njemačkih izbora. Krajnje desni AFD ostvario povijesni uspjeh, a SPD kancelara Šolca povijesni neuspjeh. Zelenski poručio da je za mir ili članstvo u Nato-u - spreman odstupiti s dužnosti predsjednika. Zdravstveno stanje pape Franje i dalje kritično. Zrinka Ljutić drugim mjestom u Sestriereu preuzela vodstvo u poretku najboljih slalomašica. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/2c/20250224-jutarnja-kronika-36159265-20250224063546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 23.02. 2025-02-23</title>
-    <link>https://api.hrt.hr/media/2b/a3/20250223-jutarnja-kronika-36156760-20250223063018.mp3</link>
-    <description>Vatikan sinoć objavio da se pogoršalo Papino zdravstveno stanje. Izbori u Njemačkoj - ankete daju prednosti CDU/CSU i Friedrichu Merzu. Norveški film "Dreams (Sex Love)" pobjednik je 75-oga međunarodnog filmskog festivala u Berlinu. Velike pobjede Rijeke i Hajduka - čak po četiri gola protiv Dinama i Osijeka. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 23 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2b/a3/20250223-jutarnja-kronika-36156760-20250223063018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
