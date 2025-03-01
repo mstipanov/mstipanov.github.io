@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Feb 2025 14:51:40 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 14:56:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 01.03. 2025-03-01</title>
+    <link>https://api.hrt.hr/media/a4/0a/20250301-dnevne-novosti-36178385-20250301143036.mp3</link>
+    <description>Neviđene scene svađe iz Bijele kuće. Zelenski napustio Ovalni ured pritisnut optužbama Trumpa i Vancea da ne želi mir. Papa Franjo nakon jučerašnje krize danas stabilno. U Zagrebu prosvjed Bloka umirovljenici zajedno. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 01 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/0a/20250301-dnevne-novosti-36178385-20250301143036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 28.02. 2025-02-28</title>
     <link>https://api.hrt.hr/media/93/0a/20250228-dnevne-novosti-36175708-20250228142516.mp3</link>
     <description>Zelenski stigao u Vashington na sastanak s Trumpom, na stolu je sporazum o rijetkim mineralima. Nakon pritvaranja Josipa Dabre, Ivan Penava kaže da mu je žao da državu vode cirkusanti. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Josip Dabro ostao bez zastupničkog imuniteta i otišao u Slavoniju, ne zna se hoće li se predati policiji. U Brčkom pronađeno 31 dijete, navodno imaju hrvatske putovnice, sumnja se na trgovinu ljudima. Milorad Dodik osuđen na godinu dana zatvora i šest godina zabrane obnašanja dužnosti predsjednika Republike Srpske. Trump očekuje da će u petak sa Zelenskim potpisati sporazum o mineralima. Urednica: Sanja Cota</description>
     <pubDate>Wed, 26 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6a/1f/20250226-dnevne-novosti-36168379-20250226142510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 25.02. 2025-02-25</title>
-    <link>https://api.hrt.hr/media/34/e8/20250225-dnevne-novosti-36164760-20250225142551.mp3</link>
-    <description>Saborsko Mandatno-imunitetno povjerenstvo predložilo ukidanje imuniteta Josipu Dabri, sutra o tome glasa Sabor. Potres jakosti 4 prema Richteru pogodio Banovinu. Kremlj osporio tvrdnju američkog predsjednika Donalda Trumpa da bi Rusija prihvatila europske mirovne snaSaborsko Mandatno-imunitetno povjerenstvo predložilo ukidanje imuniteta Josipu Dabri, sutra o tome glasa Sabor. Potres jakosti 4 prema Richteru pogodio Banovinu. Kremlj osporio tvrdnju američkog predsjednika Donalda Trumpa da bi Rusija prihvatila europske mirovne snage u Ukrajini. U 97. godiSaborsko Mandatno-imunitetno povjerenstvo predložilo ukidanje imuniteta Josipu Dabri, sutra o tome glasa Sabor. Potres jakosti 4 prema Richteru pogodio Banovinu. Kremlj osporio tvrdnju američkog predsjednika Donalda Trumpa da bi Rusija prihvatila europske mirovne snage u Ukrajini. U 97. godini umro baletni plesač, pedagog, koreograf, redatelj i dramaturg Milko Šparemblek. Urednik: Silvio Šopni umro baletni plesač, pedagog, koreograf, redatelj i dramaturg Milko Šparemblek. Urednik: Silvio Šopge u Ukrajini. U 97. godini umro baletni plesač, pedagog, koreograf, redatelj i dramaturg Milko Šparemblek. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 25 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/34/e8/20250225-dnevne-novosti-36164760-20250225142551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
