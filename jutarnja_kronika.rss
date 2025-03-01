@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Feb 2025 06:50:04 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 06:55:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.03. 2025-03-01</title>
+    <link>https://api.hrt.hr/media/7f/36/20250301-jutarnja-kronika-36177289-20250301063025.mp3</link>
+    <description>Zelenski nakon burne svađe s Trumpom napustio Bijelu kuću - sporazum nisu potpisali! Papa Franjo ponovno imao problema s disanjem. Film Nebojše Slijepčevića "Čovjek koji nije mogao šutjeti" osvojio i prestižnu nagradu C&amp;eacute;sar. Urednik: Mario Krstanović</description>
+    <pubDate>Sat, 01 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7f/36/20250301-jutarnja-kronika-36177289-20250301063025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.02. 2025-02-28</title>
     <link>https://api.hrt.hr/media/27/33/20250228-jutarnja-kronika-36173803-20250228063023.mp3</link>
     <description>Američki predsjednik Donald Trump sastaje se u Bijeloj kući s ukrajinskim predsjednikom Zelenskim. Osmero uhićenih nakon što su u Brčkom pronađena djeca, žrtve trgovanja ljudima. Josipu Dabri određeno mjesec dana istražnog zatvora. Oporba tvrdi: vladajući u Saboru nemaju većinu.
@@ -32,14 +40,6 @@ Posljednji je dan za podnošenje poreznih prijava. U Opatiji večeras druga polu
     <description>Sabor glasuje o ukidanju imuniteta zastupniku Domovinskog pokreta Josipu Dabri. Predsjednik Zoran Milanović za prvi službeni inozemni posjet u drugom mandatu - baš kao i u prvom - odabrao Ljubljanu. Sjedinjene Države i Ukrajina dogovorili su uvjete sporazuma o rijetkim mineralima. Zbog nepoštovanja odluka visokog predstavnika, sud Bosne i Hercegovine izriče presudu predsjedniku Republike Srpske Miloradu Dodiku. Urednik: Silvio Šop</description>
     <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dd/50/20250226-jutarnja-kronika-36166523-20250226063013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.02. 2025-02-25</title>
-    <link>https://api.hrt.hr/media/ec/c8/20250225-jutarnja-kronika-36162732-20250225062550.mp3</link>
-    <description>Danas odluka o skidanju imuniteta zastupniku Josipu Dabri za kojega DORH traži istražni zatvor. Penava tvrdi - bez Dabre nema saborske većine. U Ujedinjenim narodima prihvaćena rezolucija kojom se osuđuje agresija na Ukrajinu, protiv njezina prihvaćanja glasovale Sjedinjene Države i Rusija. Zdravstveno stanje pape Franje malo bolje, no još je u životnoj opasnosti. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 25 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ec/c8/20250225-jutarnja-kronika-36162732-20250225062550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
