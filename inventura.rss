@@ -6,10 +6,18 @@
         <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Feb 2025 09:20:19 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 07:25:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/4a/c0/inventura-tjedan-pod-povecalom-20220324112020.webp</url><title>Inventura - tjedan pod povećalom</title><link>https://radio.hrt.hr/slusaonica/inventura-tjedan-pod-povecalom</link></image>
         <item>
+    <title>Inventura 01.03.25. 2025-03-01</title>
+    <link>https://api.hrt.hr/media/fa/c8/20250301-inventura-tjedan-pod-povecalom-36176295-20250228173020.mp3</link>
+    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
+    <pubDate>Sat, 01 Mar 2025 06:30:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fa/c8/20250301-inventura-tjedan-pod-povecalom-36176295-20250228173020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Inventura, 22.02.25. 2025-02-22</title>
     <link>https://api.hrt.hr/media/2b/55/20250222-inventura-tjedan-pod-povecalom-36153949-20250221212519.mp3</link>
     <description>Inauguracija, eskalacija, malverzacija, aplikacija – tako je ukratko izgledao tjedan u rimama! 
@@ -32,14 +40,6 @@ Na svečanoj inauguraciji na Pantovčaku, na drugi mandat prisegnuo je predsjedn
     <description>Tjedan je prošao u znaku smjena - najprije je najavljena smjena Uprave Jadrolinije, nakon što je istraga utvrdila odgovornost kompanije za tragediju u kojoj je život izgubilo troje pomoraca. Onda je iznenada Vlada smijenila i Upravu Hrvatskih šuma na čelu s HDZ-ovcem Dujićem, na čijoj su smjeni inzistirali Domovinci otkako je iz ministarske fotelje izletio bećar Dabro. Potrošači su se pak u petak odazvali još jednoj jednodnevnoj smjeni bojkota kupnje, a da nas turisti ne bi smijenili s liste najpoželjnijih destinacija, poziva se na obuzdavanje cijena i u turizmu.</description>
     <pubDate>Sat, 08 Feb 2025 06:30:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/86/46/20250208-inventura-tjedan-pod-povecalom-36107263-20250207182020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Inventura 01.02.2025. 2025-02-01</title>
-    <link>https://api.hrt.hr/media/8f/8a/20250201-inventura-tjedan-pod-povecalom-36084447-20250131180054.mp3</link>
-    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
-    <pubDate>Sat, 01 Feb 2025 06:30:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8f/8a/20250201-inventura-tjedan-pod-povecalom-36084447-20250131180054.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
