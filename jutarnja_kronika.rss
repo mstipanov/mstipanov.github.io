@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 01 Mar 2025 06:55:14 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 07:00:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.03. 2025-03-02</title>
+    <link>https://api.hrt.hr/media/4e/11/20250302-jutarnja-kronika-36179670-20250302063039.mp3</link>
+    <description>U Londonu se očekuje sastanak o Ukrajini i sigurnosti Europe. Izrael pristao na američki plan o privremenom prekidu vatre u Gazi u vrijeme Ramazana i Pesaha. Čeka se odluka Hamasa. U Los Angelesu - oskarovska noć. Može li hrvatski film "Čovjek koji nije mogao šutjeti" osvojiti najprestižniju nagradu? Finale Dore u Opatiji - Hrvatska bira pjesmu za Eurosong. Na Maksimiru vječiti derbi Dinama i Hajduka, jubilarni 110.! Dinamo ima 49 pobjeda, Hajduk 32, a 28 susreta završilo je bez pobjednika. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 02 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4e/11/20250302-jutarnja-kronika-36179670-20250302063039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.03. 2025-03-01</title>
     <link>https://api.hrt.hr/media/7f/36/20250301-jutarnja-kronika-36177289-20250301063025.mp3</link>
     <description>Zelenski nakon burne svađe s Trumpom napustio Bijelu kuću - sporazum nisu potpisali! Papa Franjo ponovno imao problema s disanjem. Film Nebojše Slijepčevića "Čovjek koji nije mogao šutjeti" osvojio i prestižnu nagradu C&amp;eacute;sar. Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@ Posljednji je dan za podnošenje poreznih prijava. U Opatiji večeras druga polu
     <description>Josip Dabro sinoć ispitan u Državnom odvjetnišvu u Osijeku i vraćen u pritvor u Vinkovce. Jutros će pred suca istrage. U kući u Brčkom otkriveni krijumčari djece. Od 30-ak djece šestero ima hrvatske dokumente. Američki predsjednik Donald Trump uvodi carine od 25 posto na uvoz iz Europske unije. Završnica Super sport nogometnog kupa ove godine bez Dinama i Hajduka. Urednik: Silvio Šop</description>
     <pubDate>Thu, 27 Feb 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/45/20250227-jutarnja-kronika-36170136-20250227063512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.02. 2025-02-26</title>
-    <link>https://api.hrt.hr/media/dd/50/20250226-jutarnja-kronika-36166523-20250226063013.mp3</link>
-    <description>Sabor glasuje o ukidanju imuniteta zastupniku Domovinskog pokreta Josipu Dabri. Predsjednik Zoran Milanović za prvi službeni inozemni posjet u drugom mandatu - baš kao i u prvom - odabrao Ljubljanu. Sjedinjene Države i Ukrajina dogovorili su uvjete sporazuma o rijetkim mineralima. Zbog nepoštovanja odluka visokog predstavnika, sud Bosne i Hercegovine izriče presudu predsjedniku Republike Srpske Miloradu Dodiku. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dd/50/20250226-jutarnja-kronika-36166523-20250226063013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
