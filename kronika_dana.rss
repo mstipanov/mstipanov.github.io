@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Mar 2025 22:05:27 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 21:41:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Zelenski nakon burne svađe s Trumpom napustio Bijelu kuću - nema sporazuma o rijetkim mineralima. Papa Franjo poslijepodne imao krizu disanja. SDP i Možemo! zajedno na lokalne izbore u Zagrebu. Tomislav Tomašević kandidat za gradonačelnika. Urednica: Sanja Rabuzin</description>
     <pubDate>Fri, 28 Feb 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/52/20250228-kronika-dana-36176725-20250228214022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.02. 2025-02-27</title>
-    <link>https://api.hrt.hr/media/3c/24/20250227-kronika-dana-36173129-20250227214018.mp3</link>
-    <description>Josipu Dabri određeno mjesec dana istražnog zatvora. Osmero uhićenih nakon što su u Brčkom pronađena djeca, žrtve trgovanja ljudima. U Bijeloj kući razgovarali Donald Trump i britanski premijer Keir Starmer, sutra u Vašington dolazi Volodimir Zelenski. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 27 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3c/24/20250227-kronika-dana-36173129-20250227214018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
