@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 02 Mar 2025 15:02:23 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 14:39:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.03. 2025-03-03</title>
+    <link>https://api.hrt.hr/media/6a/45/20250303-dnevne-novosti-36183578-20250303142537.mp3</link>
+    <description>Ukrajinski predsjednik Volodimir Zelenski smatra da može popraviti odnos s američkim kolegom Donaldom Trumpom. Saborski zastupnik Domovinskog pokreta Josip Dabro uskoro bi trebao biti pušten iz pritvora u Osijeku. Uhićen osumnjičenik za jučerašnje ubojstvo 26-godišnjaka u Zadru. Film "Anora" s pet zlatnih kipića dominirao ovogodišnjim Oscarima, "Čovjek koji nije mogao šutjeti" bez Oscara. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 03 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6a/45/20250303-dnevne-novosti-36183578-20250303142537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.03. 2025-03-02</title>
     <link>https://api.hrt.hr/media/e3/90/20250302-dnevne-novosti-36180473-20250302143036.mp3</link>
     <description>U Londonu sastanak članica Europske unije i NATO saveza o ratu u Ukrajini i europskoj sigurnosti. Večeras 75-a dodjela nagrade Oscar, u konkurenciji kratkog filma je i "Čovjek koji nije mogao šutjeti" Nebojše Slijepčevića. Završna je večer Dore u Opatiji. Sport: Na Maksimiru derbi svih derbija hrvatske nogometne lige: Dinamo - Hajduk. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Zelenski stigao u Vashington na sastanak s Trumpom, na stolu je sporazum o rijetkim mineralima. Nakon pritvaranja Josipa Dabre, Ivan Penava kaže da mu je žao da državu vode cirkusanti. Urednica: Sanja Cota</description>
     <pubDate>Fri, 28 Feb 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/0a/20250228-dnevne-novosti-36175708-20250228142516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 27.02. 2025-02-27</title>
-    <link>https://api.hrt.hr/media/f1/a6/20250227-dnevne-novosti-36171939-20250227143514.mp3</link>
-    <description>USKOK pokrenuo istragu protiv varaždinskoga gradonačelnika Nevena Bosilja. Na osječkom sudu se očekuje odluka o istražnom zatvoru za Josipa Dabru. Hrvatski rast BDP-a lani 3,8 posto, drugi najveći u eurozoni. Legendarni holivudski glumac Gene Hackman sa suprugom pronađen mrtav u svojoj kući u Santa Feu. Urednik: Mislav Togonal</description>
-    <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f1/a6/20250227-dnevne-novosti-36171939-20250227143514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
