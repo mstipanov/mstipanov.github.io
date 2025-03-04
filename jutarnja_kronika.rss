@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Mar 2025 07:07:56 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 06:43:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.03. 2025-03-04</title>
+    <link>https://api.hrt.hr/media/74/2f/20250304-jutarnja-kronika-36185171-20250304063027.mp3</link>
+    <description>Prekinuta američka vojna pomoć Ukrajini, odlučio predsjednik Donald Trump. Američka administracija privremeno zaustavila put Hrvatske prema članstvu u OECD-u. Hrvatska prvi put domaćin međunarodne konferencije o geotermalnoj energiji. Svjetski je dan debljine - oko 65 posto hrvatskih građana ima prekomjernu težinu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/74/2f/20250304-jutarnja-kronika-36185171-20250304063027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.03. 2025-03-03</title>
     <link>https://api.hrt.hr/media/38/c4/20250303-jutarnja-kronika-36181816-20250303064038.mp3</link>
     <description>Na sastanku na vrhu u Londonu donesena odluka o brzom naoružavanju Europe. 26-godišnjak ubijen u Zadru ubodom u prsa. Film "Anora" apsolutni pobjednik dodjele Oscara. Marko Bošnjak predstavljat će Hrvatsku na Eurosongu u Baselu. Urednik: Mislav Togonal</description>
@@ -31,15 +39,6 @@
     <description>Zelenski nakon burne svađe s Trumpom napustio Bijelu kuću - sporazum nisu potpisali! Papa Franjo ponovno imao problema s disanjem. Film Nebojše Slijepčevića "Čovjek koji nije mogao šutjeti" osvojio i prestižnu nagradu C&amp;eacute;sar. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 01 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7f/36/20250301-jutarnja-kronika-36177289-20250301063025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.02. 2025-02-28</title>
-    <link>https://api.hrt.hr/media/27/33/20250228-jutarnja-kronika-36173803-20250228063023.mp3</link>
-    <description>Američki predsjednik Donald Trump sastaje se u Bijeloj kući s ukrajinskim predsjednikom Zelenskim. Osmero uhićenih nakon što su u Brčkom pronađena djeca, žrtve trgovanja ljudima. Josipu Dabri određeno mjesec dana istražnog zatvora. Oporba tvrdi: vladajući u Saboru nemaju većinu.
-Posljednji je dan za podnošenje poreznih prijava. U Opatiji večeras druga polufinalna večer Dore - hrvatskog izbora za pjesmu Eurovizije. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 28 Feb 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/33/20250228-jutarnja-kronika-36173803-20250228063023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
