@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 03 Mar 2025 22:12:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 21:46:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.03. 2025-03-04</title>
+    <link>https://api.hrt.hr/media/57/32/20250304-kronika-dana-36188033-20250304214037.mp3</link>
+    <description>Ukrajinski predsjednik Volodimir Zelenski izjavio da je spreman popisati sporazum o mineralima i sigurnosti sa SAD-om. Očekuje se noćašnji Trampov govor u Kongresu. Europa planira naoružavanje kakvog nije bilo još od hladnog rata. Nova akcija USKOK-a. Diljem zemlje deseci uhićeni zbog korupcije. Kaos u srbijanskoj skupštini - oporbeni zastupnici bacili dimne bombe i suzavac. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 04 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/32/20250304-kronika-dana-36188033-20250304214037.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.03. 2025-03-03</title>
     <link>https://api.hrt.hr/media/83/df/20250303-kronika-dana-36184589-20250303214006.mp3</link>
     <description>Američka administracija privremeno zaustavila put Hrvatske prema članstvu u OECD-u. Predsjednica Europske komisije sutra će državama Europske unije poslati Plan o ponovnom naoružavanju Europe.
@@ -32,14 +40,6 @@ Papa Franjo danas imao dvije krize, liječnička prognoza i dalje rezervirana.Ur
     <description>Ukrajinski predsjednik Volodimir Zelenski objavio da je potpora Donalda Trumpa i dalje ključna za Ukrajinu, unatoč njegovoj žestokoj raspravi s američkim kolegom u Bijeloj kući. U Zagrebu održan prosvjed Bloka umirovljenici zajedno protiv siromaštva, a za veće mirovine. Split dobio regionalni centar kompetentnosti u turizmu i ugostiteljstvu. U 88-moj godini umro je veliki hrvatski pijanist i pedagog Vladimir Krpan. Urednik: Silvio Šop</description>
     <pubDate>Sat, 01 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8d/c3/20250301-kronika-dana-36179112-20250301214037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.02. 2025-02-28</title>
-    <link>https://api.hrt.hr/media/11/52/20250228-kronika-dana-36176725-20250228214022.mp3</link>
-    <description>Zelenski nakon burne svađe s Trumpom napustio Bijelu kuću - nema sporazuma o rijetkim mineralima. Papa Franjo poslijepodne imao krizu disanja. SDP i Možemo! zajedno na lokalne izbore u Zagrebu. Tomislav Tomašević kandidat za gradonačelnika. Urednica: Sanja Rabuzin</description>
-    <pubDate>Fri, 28 Feb 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/11/52/20250228-kronika-dana-36176725-20250228214022.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
