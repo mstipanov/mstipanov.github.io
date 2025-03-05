@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 04 Mar 2025 14:45:22 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 14:50:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.03. 2025-03-05</title>
+    <link>https://api.hrt.hr/media/b4/a7/20250305-dnevne-novosti-36190611-20250305142525.mp3</link>
+    <description>Počelo je Â´zlatno doba AmerikeÂ´, najavio u govoru predsjednik Trump. Nakon vojne pomoći, Amerika Ukrajini uskratila i obavještajne podatke. Rast gospodarstva omogućuje Hrvatskoj veća ulaganja u obranu, rekao premijer Plenković. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 05 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b4/a7/20250305-dnevne-novosti-36190611-20250305142525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.03. 2025-03-04</title>
     <link>https://api.hrt.hr/media/ea/3b/20250304-dnevne-novosti-36186956-20250304142537.mp3</link>
     <description>Donald Trump odlučio zaustaviti vojnu pomoć Ukrajini. U Bruxellesu predstavljen plan za naoružavanje Europe. Potvrđena optužnica protiv bivšeg šefa JANAF-a Dragana Kovačevića. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U Londonu sastanak članica Europske unije i NATO saveza o ratu u Ukrajini i europskoj sigurnosti. Večeras 75-a dodjela nagrade Oscar, u konkurenciji kratkog filma je i "Čovjek koji nije mogao šutjeti" Nebojše Slijepčevića. Završna je večer Dore u Opatiji. Sport: Na Maksimiru derbi svih derbija hrvatske nogometne lige: Dinamo - Hajduk. Urednik: Silvio Šop</description>
     <pubDate>Sun, 02 Mar 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e3/90/20250302-dnevne-novosti-36180473-20250302143036.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.03. 2025-03-01</title>
-    <link>https://api.hrt.hr/media/a4/0a/20250301-dnevne-novosti-36178385-20250301143036.mp3</link>
-    <description>Neviđene scene svađe iz Bijele kuće. Zelenski napustio Ovalni ured pritisnut optužbama Trumpa i Vancea da ne želi mir. Papa Franjo nakon jučerašnje krize danas stabilno. U Zagrebu prosvjed Bloka umirovljenici zajedno. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 01 Mar 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/0a/20250301-dnevne-novosti-36178385-20250301143036.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
