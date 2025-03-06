@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 27 Feb 2025 17:46:57 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 17:25:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Kristijan Žgaljardić - Povijest Gologorice 2025-03-06</title>
+    <link>https://api.hrt.hr/media/12/35/20250306-historia-histriae-8162224-20250306165554.mp3</link>
+    <description>U goste nam se vraća povjesničar Kristijan Žgaljardić, a pričamo o povijesti Gologorice!</description>
+    <pubDate>Thu, 06 Mar 2025 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/12/35/20250306-historia-histriae-8162224-20250306165554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Goran Prodan 2025-02-27</title>
     <link>https://api.hrt.hr/media/49/f8/20250227-historia-histriae-8159947-20250227171017.mp3</link>
     <description>U goste nam dolazi poznati novinar i urednik Goran Prodan, a pričamo o povijesti satire i legendarnog tjednika LaKost. </description>
@@ -79,14 +87,6 @@
     <description>U ovom izdanju emisije prisjećamo se dragog gosta Franka Lukeža koji je s nama podijelio poslovice o blagdanskim jelima. Emisija je snimljena 16. listopada 2020. godine. </description>
     <pubDate>Thu, 02 Jan 2025 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/a1/20250102-historia-histriae-8141985-20250102164513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Nuša Hauser o Antoniu Smareglii 2024-12-12</title>
-    <link>https://api.hrt.hr/media/71/1b/20241212-historia-histriae-8135780-20241212161510.mp3</link>
-    <description>Nuša Hauser o Antoniu Smareglii</description>
-    <pubDate>Thu, 12 Dec 2024 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/71/1b/20241212-historia-histriae-8135780-20241212161510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
