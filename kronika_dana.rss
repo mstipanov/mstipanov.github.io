@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 05 Mar 2025 21:51:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 21:57:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.03. 2025-03-06</title>
+    <link>https://api.hrt.hr/media/68/c3/20250306-kronika-dana-36195108-20250306214603.mp3</link>
+    <description>Na summitu europskih čelnika svi su prihvatili zaključke o jačanju europske obrane, a zaključke o Ukrajini odbio je poduprijeti Viktor Orban. Papa Franjo nakon tri tjedna liječenja iz bolnice poslao audio poruku zahvale. Nije uspjelo mirenje s Vladom, u štrajk idu školski sindikat Preporod i Nezavisni sindikat zaposlenih u srednjim školama i Nezavisni sindikat znanosti i visokog obrazovanja . Urednica: Sanja Cota</description>
+    <pubDate>Thu, 06 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/68/c3/20250306-kronika-dana-36195108-20250306214603.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.03. 2025-03-05</title>
     <link>https://api.hrt.hr/media/b7/78/20250305-kronika-dana-36191752-20250305213539.mp3</link>
     <description>Nakon prekida vojne pomoći, Sjedinjene Države Ukrajini uskratile i obavještajne podatke. Predsjednik Milanović i premijer Plenković napokon počeli usklađivati stajališta o vanjskoj politici. Rast gospodarstva omogućuje Hrvatskoj veća ulaganja u obranu, rekao premijer Plenković. Nakon što je smijenio svoju zamjenicu, riječki gradonačelnik Marko Filipović riješio se i Vojka Obersnela. Urednik: Grgo Mrvica</description>
@@ -32,14 +40,6 @@
 Papa Franjo danas imao dvije krize, liječnička prognoza i dalje rezervirana.Urednica: Sanja Cota.</description>
     <pubDate>Mon, 03 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/83/df/20250303-kronika-dana-36184589-20250303214006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.03. 2025-03-02</title>
-    <link>https://api.hrt.hr/media/95/3f/20250302-kronika-dana-36181213-20250302213534.mp3</link>
-    <description>Završen je sastanak u Londonu, među glavnim zaključcima - nastavak slanja vojne pomoći Ukrajini i sprječavanje bilo kakve buduće ruske invazije. Europa će se ubrzano naoružavati. Stanje pape Franje večeras je stabilno. Pred nama je noć Oscara, u konkurenciji i hrvatski film "Čovjek koji nije mogao šutjeti". Urednica: Sanja Cota</description>
-    <pubDate>Sun, 02 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/3f/20250302-kronika-dana-36181213-20250302213534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
