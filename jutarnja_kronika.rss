@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 05 Mar 2025 07:18:39 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 06:53:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.03. 2025-03-06</title>
+    <link>https://api.hrt.hr/media/44/ca/20250306-jutarnja-kronika-36192305-20250306063025.mp3</link>
+    <description>U Bruxellesu izvanredni sastanak na vrhu, a dvije su glavne teme - Ukrajina i europska obrana, odnosno plan za naoružavanje Europe. Uoči summita, telefonom razgovarali predsjednik Milanović i premijer Plenković. Donald Trump zaprijetio Hamasu i zatražio da odmah oslobodi sve izraelske taoce. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 06 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/44/ca/20250306-jutarnja-kronika-36192305-20250306063025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.03. 2025-03-05</title>
     <link>https://api.hrt.hr/media/33/bf/20250305-jutarnja-kronika-36188629-20250305063544.mp3</link>
     <description>Trump održao najdulji predsjednički govor o stanju nacije u povijesti, u njemu najavio stvaranje najdominantnije civilizacije koja je ikad postojala, a Ukrajinu samo kratko spomenuo. Europa planira naoružavanje kakvog nije bilo još od hladnog rata. Uhićeni u jednoj od najmasovnijih akcija USKOK-a danas bi trebali izaći pred suca istrage. Pepelnica je ili čista srijeda kojom počinje korizma - priprema za Uskrs. Urednica Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Na sastanku na vrhu u Londonu donesena odluka o brzom naoružavanju Europe. 26-godišnjak ubijen u Zadru ubodom u prsa. Film "Anora" apsolutni pobjednik dodjele Oscara. Marko Bošnjak predstavljat će Hrvatsku na Eurosongu u Baselu. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 03 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/c4/20250303-jutarnja-kronika-36181816-20250303064038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.03. 2025-03-02</title>
-    <link>https://api.hrt.hr/media/4e/11/20250302-jutarnja-kronika-36179670-20250302063039.mp3</link>
-    <description>U Londonu se očekuje sastanak o Ukrajini i sigurnosti Europe. Izrael pristao na američki plan o privremenom prekidu vatre u Gazi u vrijeme Ramazana i Pesaha. Čeka se odluka Hamasa. U Los Angelesu - oskarovska noć. Može li hrvatski film "Čovjek koji nije mogao šutjeti" osvojiti najprestižniju nagradu? Finale Dore u Opatiji - Hrvatska bira pjesmu za Eurosong. Na Maksimiru vječiti derbi Dinama i Hajduka, jubilarni 110.! Dinamo ima 49 pobjeda, Hajduk 32, a 28 susreta završilo je bez pobjednika. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 02 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4e/11/20250302-jutarnja-kronika-36179670-20250302063039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
