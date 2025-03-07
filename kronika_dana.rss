@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Mar 2025 21:57:02 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 22:01:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.03. 2025-03-07</title>
+    <link>https://api.hrt.hr/media/da/95/20250307-kronika-dana-36198786-20250307213553.mp3</link>
+    <description>Požar kuće u romskom naselju u Međimurju, u kojem je poginulo troje djece, izazvalo zapaljenje otpada u plastičnoj kanti. Pomorci u Rijeci i Splitu dali potporu kolegama protiv kojih se vodi istraga zbog tragedije na trajektu "Lastovo". Vlada šalje u Sabor konačni prijedlog Zakona o igrama na sreću - zabranjuje se promidžba kockanja, postavljanje automata za klađenje u kafićima i povećava oporezivanje dobitaka. Neočekivani zaokret američkog predsjednika Trumpa - zbog masovnih napada na Ukrajinu razmatra uvođenje novih sankcija i carina Rusiji. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 07 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/da/95/20250307-kronika-dana-36198786-20250307213553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.03. 2025-03-06</title>
     <link>https://api.hrt.hr/media/68/c3/20250306-kronika-dana-36195108-20250306214603.mp3</link>
     <description>Na summitu europskih čelnika svi su prihvatili zaključke o jačanju europske obrane, a zaključke o Ukrajini odbio je poduprijeti Viktor Orban. Papa Franjo nakon tri tjedna liječenja iz bolnice poslao audio poruku zahvale. Nije uspjelo mirenje s Vladom, u štrajk idu školski sindikat Preporod i Nezavisni sindikat zaposlenih u srednjim školama i Nezavisni sindikat znanosti i visokog obrazovanja . Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>Ukrajinski predsjednik Volodimir Zelenski izjavio da je spreman popisati sporazum o mineralima i sigurnosti sa SAD-om. Očekuje se noćašnji Trampov govor u Kongresu. Europa planira naoružavanje kakvog nije bilo još od hladnog rata. Nova akcija USKOK-a. Diljem zemlje deseci uhićeni zbog korupcije. Kaos u srbijanskoj skupštini - oporbeni zastupnici bacili dimne bombe i suzavac. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 04 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/57/32/20250304-kronika-dana-36188033-20250304214037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.03. 2025-03-03</title>
-    <link>https://api.hrt.hr/media/83/df/20250303-kronika-dana-36184589-20250303214006.mp3</link>
-    <description>Američka administracija privremeno zaustavila put Hrvatske prema članstvu u OECD-u. Predsjednica Europske komisije sutra će državama Europske unije poslati Plan o ponovnom naoružavanju Europe.
-Papa Franjo danas imao dvije krize, liječnička prognoza i dalje rezervirana.Urednica: Sanja Cota.</description>
-    <pubDate>Mon, 03 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/df/20250303-kronika-dana-36184589-20250303214006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
