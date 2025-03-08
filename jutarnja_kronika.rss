@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Mar 2025 06:58:45 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 06:33:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Trump održao najdulji predsjednički govor o stanju nacije u povijesti, u njemu najavio stvaranje najdominantnije civilizacije koja je ikad postojala, a Ukrajinu samo kratko spomenuo. Europa planira naoružavanje kakvog nije bilo još od hladnog rata. Uhićeni u jednoj od najmasovnijih akcija USKOK-a danas bi trebali izaći pred suca istrage. Pepelnica je ili čista srijeda kojom počinje korizma - priprema za Uskrs. Urednica Marija Gerbec Njavro</description>
     <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/bf/20250305-jutarnja-kronika-36188629-20250305063544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.03. 2025-03-04</title>
-    <link>https://api.hrt.hr/media/74/2f/20250304-jutarnja-kronika-36185171-20250304063027.mp3</link>
-    <description>Prekinuta američka vojna pomoć Ukrajini, odlučio predsjednik Donald Trump. Američka administracija privremeno zaustavila put Hrvatske prema članstvu u OECD-u. Hrvatska prvi put domaćin međunarodne konferencije o geotermalnoj energiji. Svjetski je dan debljine - oko 65 posto hrvatskih građana ima prekomjernu težinu. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/74/2f/20250304-jutarnja-kronika-36185171-20250304063027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
