@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 07 Mar 2025 22:01:46 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 22:06:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.03. 2025-03-08</title>
+    <link>https://api.hrt.hr/media/0d/c6/20250308-kronika-dana-36201145-20250308214023.mp3</link>
+    <description>Umro predsjednik Vrhovnog suda Radovan Dobronić. Rusi žestoko napadaju ukrajinske gradove. U utorak u Saudijskoj Arabiji ukrajinsko-američki razgovori o mirovnim prijedlozima. Na Međunarodni dan žena ponovno upozoreno na njihovu neravnopravnost u radnom i privatnom životu. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 08 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/c6/20250308-kronika-dana-36201145-20250308214023.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.03. 2025-03-07</title>
     <link>https://api.hrt.hr/media/da/95/20250307-kronika-dana-36198786-20250307213553.mp3</link>
     <description>Požar kuće u romskom naselju u Međimurju, u kojem je poginulo troje djece, izazvalo zapaljenje otpada u plastičnoj kanti. Pomorci u Rijeci i Splitu dali potporu kolegama protiv kojih se vodi istraga zbog tragedije na trajektu "Lastovo". Vlada šalje u Sabor konačni prijedlog Zakona o igrama na sreću - zabranjuje se promidžba kockanja, postavljanje automata za klađenje u kafićima i povećava oporezivanje dobitaka. Neočekivani zaokret američkog predsjednika Trumpa - zbog masovnih napada na Ukrajinu razmatra uvođenje novih sankcija i carina Rusiji. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon prekida vojne pomoći, Sjedinjene Države Ukrajini uskratile i obavještajne podatke. Predsjednik Milanović i premijer Plenković napokon počeli usklađivati stajališta o vanjskoj politici. Rast gospodarstva omogućuje Hrvatskoj veća ulaganja u obranu, rekao premijer Plenković. Nakon što je smijenio svoju zamjenicu, riječki gradonačelnik Marko Filipović riješio se i Vojka Obersnela. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 05 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/78/20250305-kronika-dana-36191752-20250305213539.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.03. 2025-03-04</title>
-    <link>https://api.hrt.hr/media/57/32/20250304-kronika-dana-36188033-20250304214037.mp3</link>
-    <description>Ukrajinski predsjednik Volodimir Zelenski izjavio da je spreman popisati sporazum o mineralima i sigurnosti sa SAD-om. Očekuje se noćašnji Trampov govor u Kongresu. Europa planira naoružavanje kakvog nije bilo još od hladnog rata. Nova akcija USKOK-a. Diljem zemlje deseci uhićeni zbog korupcije. Kaos u srbijanskoj skupštini - oporbeni zastupnici bacili dimne bombe i suzavac. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 04 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/32/20250304-kronika-dana-36188033-20250304214037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
