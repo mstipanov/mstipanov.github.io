@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Mar 2025 15:09:46 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 15:39:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.03. 2025-03-09</title>
+    <link>https://api.hrt.hr/media/27/7d/20250309-dnevne-novosti-36202710-20250309152026.mp3</link>
+    <description>Sjedinjene Države i Europa imaju različite poglede u mnogočemu, ali zajednički interesi uvijek prevagnu - rekla je u Bruxellesu u povodu 100 dana nove Europske komisije njezina predsjednica Ursula von der Leyen. Ukrajinski predsjednik Zelenski idući tjedan putuje u Saudijsku Arabiju na pregovore s američkim izaslanstvom o miru u Ukrajini. Krvoproliće u Siriji. Islamističke vlasti ubile gotovo tisuću civila, pristaša bivšeg režima. Počinju nacionalni ispiti za učenike osnovnih škola. Zrinka Ljutić završila na desetom mjestu u predzadnjem slalomu sezone. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 09 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/7d/20250309-dnevne-novosti-36202710-20250309152026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.03. 2025-03-08</title>
     <link>https://api.hrt.hr/media/df/aa/20250308-dnevne-novosti-36200218-20250308142519.mp3</link>
     <description>Umro je predsjednik Vrhovnog suda Radovan Dobronić. Rusija i prošle noći žestoko napala Ukrajinu, poginulo je najmanje 20 ljudi. Međunarodni je dan žena, i ove godine u znaku osvještavanja rodne ravnopravnosti. Urednik: Silvio Šop</description>
