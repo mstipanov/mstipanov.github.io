@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Mar 2025 22:06:26 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 21:41:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.03. 2025-03-09</title>
+    <link>https://api.hrt.hr/media/67/7d/20250309-kronika-dana-36203320-20250309214026.mp3</link>
+    <description>Uoči ključnih ukrajinsko-američkih pregovora o završetku rata, Trump oštro kritizirao Zelenskog. Zbog ubojstava civila u Siriji, SAD i Rusija traže sjednicu Vijeća sigurnosti. Izrael prekida dostavu električne energije Gazi koja se njome korsiti za proizvodnju pitke vode. Od sutra u osnovnim školama počinje provedba nacionalnih ispita. Kako će se na njih odraziti najavljeni štrajk? Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 09 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/67/7d/20250309-kronika-dana-36203320-20250309214026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.03. 2025-03-08</title>
     <link>https://api.hrt.hr/media/0d/c6/20250308-kronika-dana-36201145-20250308214023.mp3</link>
     <description>Umro predsjednik Vrhovnog suda Radovan Dobronić. Rusi žestoko napadaju ukrajinske gradove. U utorak u Saudijskoj Arabiji ukrajinsko-američki razgovori o mirovnim prijedlozima. Na Međunarodni dan žena ponovno upozoreno na njihovu neravnopravnost u radnom i privatnom životu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Na summitu europskih čelnika svi su prihvatili zaključke o jačanju europske obrane, a zaključke o Ukrajini odbio je poduprijeti Viktor Orban. Papa Franjo nakon tri tjedna liječenja iz bolnice poslao audio poruku zahvale. Nije uspjelo mirenje s Vladom, u štrajk idu školski sindikat Preporod i Nezavisni sindikat zaposlenih u srednjim školama i Nezavisni sindikat znanosti i visokog obrazovanja . Urednica: Sanja Cota</description>
     <pubDate>Thu, 06 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/68/c3/20250306-kronika-dana-36195108-20250306214603.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.03. 2025-03-05</title>
-    <link>https://api.hrt.hr/media/b7/78/20250305-kronika-dana-36191752-20250305213539.mp3</link>
-    <description>Nakon prekida vojne pomoći, Sjedinjene Države Ukrajini uskratile i obavještajne podatke. Predsjednik Milanović i premijer Plenković napokon počeli usklađivati stajališta o vanjskoj politici. Rast gospodarstva omogućuje Hrvatskoj veća ulaganja u obranu, rekao premijer Plenković. Nakon što je smijenio svoju zamjenicu, riječki gradonačelnik Marko Filipović riješio se i Vojka Obersnela. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 05 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/78/20250305-kronika-dana-36191752-20250305213539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
