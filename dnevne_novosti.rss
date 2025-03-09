@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Mar 2025 14:34:55 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 15:09:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Čelnici Europske unije u Bruxellesu razmatraju najveći plan naoružavanja Europe od hladnog rata. Na sastanak stigao i ukrajinski predsjednik Zelenski. Pozitivne reakcije na razgovor Milanovića i Plenkovića o usklađivanju vanjske politike. Za još šestoricu sudionika najnovije korupcijske afere određen jednomjesečni istražni zatvor. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 06 Mar 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/81/75/20250306-dnevne-novosti-36193981-20250306143035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.03. 2025-03-05</title>
-    <link>https://api.hrt.hr/media/b4/a7/20250305-dnevne-novosti-36190611-20250305142525.mp3</link>
-    <description>Počelo je Â´zlatno doba AmerikeÂ´, najavio u govoru predsjednik Trump. Nakon vojne pomoći, Amerika Ukrajini uskratila i obavještajne podatke. Rast gospodarstva omogućuje Hrvatskoj veća ulaganja u obranu, rekao premijer Plenković. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 05 Mar 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b4/a7/20250305-dnevne-novosti-36190611-20250305142525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
