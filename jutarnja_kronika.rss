@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Mar 2025 07:33:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 06:38:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.03. 2025-03-09</title>
+    <link>https://api.hrt.hr/media/20/ef/20250309-jutarnja-kronika-36201733-20250309063024.mp3</link>
+    <description>Rusi silovito napadaju ukrajinske gradove. Preksutra u Saudijskoj Arabiji ukrajinsko-američki razgovori o mirovnim prijedlozima. Umro predsjednik Vrhovnoga suda Radovan Dobronić. Na Međunarodni dan žena ponovno upozoreno na njihovu neravnopravnost u radnom i privatnom životu. Počinje Svjetski tjedan glaukoma, vodećeg svjetskog uzroka nepovratnog gubitka vida. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 09 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/20/ef/20250309-jutarnja-kronika-36201733-20250309063024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.03. 2025-03-08</title>
     <link>https://api.hrt.hr/media/b3/5d/20250308-jutarnja-kronika-36199393-20250308071056.mp3</link>
     <description>Požar kuće u romskom naselju u Međimurju, u kojem je poginulo troje djece, izazvao zapaljeni otpad u plastičnoj kanti. Trump, uoči razgovora s Ukrajinom o prekidu vatre, poručio da mu se lakše nositi s Rusima nego s Ukrajincima. Međunarodni je dan žena. Unatoč godinama borbe za prava, brojke i dalje porazne - žene zarađuju 14 posto manje od muškaraca, a svaka 4 doživjela je fizičko ili seksualno nasilje. U Kerempuhu premijera duologije Mate Matišića "U ime Oca, Sina i Duha Svetog". Urednica: Marija Gerbec Njavro.</description>
@@ -31,14 +39,6 @@
     <description>U Bruxellesu izvanredni sastanak na vrhu, a dvije su glavne teme - Ukrajina i europska obrana, odnosno plan za naoružavanje Europe. Uoči summita, telefonom razgovarali predsjednik Milanović i premijer Plenković. Donald Trump zaprijetio Hamasu i zatražio da odmah oslobodi sve izraelske taoce. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 06 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/44/ca/20250306-jutarnja-kronika-36192305-20250306063025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.03. 2025-03-05</title>
-    <link>https://api.hrt.hr/media/33/bf/20250305-jutarnja-kronika-36188629-20250305063544.mp3</link>
-    <description>Trump održao najdulji predsjednički govor o stanju nacije u povijesti, u njemu najavio stvaranje najdominantnije civilizacije koja je ikad postojala, a Ukrajinu samo kratko spomenuo. Europa planira naoružavanje kakvog nije bilo još od hladnog rata. Uhićeni u jednoj od najmasovnijih akcija USKOK-a danas bi trebali izaći pred suca istrage. Pepelnica je ili čista srijeda kojom počinje korizma - priprema za Uskrs. Urednica Marija Gerbec Njavro</description>
-    <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/33/bf/20250305-jutarnja-kronika-36188629-20250305063544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
