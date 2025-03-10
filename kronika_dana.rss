@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 09 Mar 2025 21:41:26 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 21:46:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.03. 2025-03-10</title>
+    <link>https://api.hrt.hr/media/de/30/20250310-kronika-dana-36206533-20250310214033.mp3</link>
+    <description>Tragedija na zagrebačkom Zapadnom kolodvoru. 14-godišnji dječak poginuo u naletu vlaka. U Vukovaru identificirani posmrtni ostaci 12 osoba. Većina pronađena na Petrovačkoj doli. Volodimir Zelenski stigao u Saudijsku Arabiju, sutra prvi službeni razgovori između američkih i ukrajinskih dužnosnika nakon neuspješnog sastanka u Bijeloj kući. Urednica Mira Barić</description>
+    <pubDate>Mon, 10 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/de/30/20250310-kronika-dana-36206533-20250310214033.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.03. 2025-03-09</title>
     <link>https://api.hrt.hr/media/67/7d/20250309-kronika-dana-36203320-20250309214026.mp3</link>
     <description>Uoči ključnih ukrajinsko-američkih pregovora o završetku rata, Trump oštro kritizirao Zelenskog. Zbog ubojstava civila u Siriji, SAD i Rusija traže sjednicu Vijeća sigurnosti. Izrael prekida dostavu električne energije Gazi koja se njome korsiti za proizvodnju pitke vode. Od sutra u osnovnim školama počinje provedba nacionalnih ispita. Kako će se na njih odraziti najavljeni štrajk? Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Požar kuće u romskom naselju u Međimurju, u kojem je poginulo troje djece, izazvalo zapaljenje otpada u plastičnoj kanti. Pomorci u Rijeci i Splitu dali potporu kolegama protiv kojih se vodi istraga zbog tragedije na trajektu "Lastovo". Vlada šalje u Sabor konačni prijedlog Zakona o igrama na sreću - zabranjuje se promidžba kockanja, postavljanje automata za klađenje u kafićima i povećava oporezivanje dobitaka. Neočekivani zaokret američkog predsjednika Trumpa - zbog masovnih napada na Ukrajinu razmatra uvođenje novih sankcija i carina Rusiji. Urednik: Silvio Šop</description>
     <pubDate>Fri, 07 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/95/20250307-kronika-dana-36198786-20250307213553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.03. 2025-03-06</title>
-    <link>https://api.hrt.hr/media/68/c3/20250306-kronika-dana-36195108-20250306214603.mp3</link>
-    <description>Na summitu europskih čelnika svi su prihvatili zaključke o jačanju europske obrane, a zaključke o Ukrajini odbio je poduprijeti Viktor Orban. Papa Franjo nakon tri tjedna liječenja iz bolnice poslao audio poruku zahvale. Nije uspjelo mirenje s Vladom, u štrajk idu školski sindikat Preporod i Nezavisni sindikat zaposlenih u srednjim školama i Nezavisni sindikat znanosti i visokog obrazovanja . Urednica: Sanja Cota</description>
-    <pubDate>Thu, 06 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/68/c3/20250306-kronika-dana-36195108-20250306214603.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
