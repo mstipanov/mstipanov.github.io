@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 10 Mar 2025 14:44:59 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 14:49:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.03. 2025-03-11</title>
+    <link>https://api.hrt.hr/media/c6/e0/20250311-dnevne-novosti-36208789-20250311143041.mp3</link>
+    <description>Crnogorska vojska iz mora kod Ulcinja spasila Ivicu Kostelića i jednoga francuskog državljanina. U Jeddi počeo sastanak američkog i ukrajinskog izaslanstva, SAD očekuje ustupke i od ukrajinske i od ruske strane kako bi rat napokon završio. Tri obrazovna sindikata najavila štrajk sljedeći tjedan, ministar Piletić kaže da im neće biti plaćen. Urednica: Mira Barić</description>
+    <pubDate>Tue, 11 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c6/e0/20250311-dnevne-novosti-36208789-20250311143041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.03. 2025-03-10</title>
     <link>https://api.hrt.hr/media/67/06/20250310-dnevne-novosti-36205583-20250310142530.mp3</link>
     <description>Ukrajinsko i američko izaslanstvo sutra će u Saudijskoj Arabiji razgovarati o prekidu vatre u Ukrajini. Počela provedba nacionalnih ispita u osnovnim školama, nevezano za ispite prosvjetari najavljuju štrajk. Do imenovanja novog predsjednika Vrhovnog suda, sud će voditi zamjenica pokojnog Dobronića Gordana Jalšovečki. Od ponoći benzin jeftiniji 6, a dizel 5 centi. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Umro je predsjednik Vrhovnog suda Radovan Dobronić. Rusija i prošle noći žestoko napala Ukrajinu, poginulo je najmanje 20 ljudi. Međunarodni je dan žena, i ove godine u znaku osvještavanja rodne ravnopravnosti. Urednik: Silvio Šop</description>
     <pubDate>Sat, 08 Mar 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/aa/20250308-dnevne-novosti-36200218-20250308142519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.03. 2025-03-07</title>
-    <link>https://api.hrt.hr/media/a8/71/20250307-dnevne-novosti-36197601-20250307142552.mp3</link>
-    <description>Požar zahvatio kuću u romskom naselju, troje djece poginulo, roditelji i još jedno dijete spašeni. Mirna okupljanja pomoraca u Rijeci i Splitu, potpora njihovim kolegama protiv kojih se vodi istraga zbog tragedije na trajektu Lastovo. Rusija nastavlja s uništavanjem ukrajinske infrastrukture. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 07 Mar 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a8/71/20250307-dnevne-novosti-36197601-20250307142552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
