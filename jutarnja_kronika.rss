@@ -6,39 +6,40 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 11 Mar 2025 07:18:14 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 19:20:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
-    <title>JUTARNJA KRONIKA 11.03. 2025-03-11</title>
-    <link>https://api.hrt.hr/media/be/05/20250311-jutarnja-kronika-36207107-20250311063537.mp3</link>
-    <description>Školski sindikati počeli pripreme za štrajk. U Vukovaru su identificirani posmrtni ostatci 12 osoba ubijenih u srpskoj agresiji na Hrvatsku. U Saudijskoj Arabiji sastanak američkog i ukrajinskog izaslanstva. 27 hrvatskih tvrtki danas će u Bruxellesu predstaviti svoje kapacitete za vojnu proizvodnju. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/be/05/20250311-jutarnja-kronika-36207107-20250311063537.mp3" length="" type="audio/mpeg"/>
+    <title>JUTARNJA KRONIKA 18.03. 2025-03-18</title>
+    <link>https://api.hrt.hr/media/19/dd/20250318-jutarnja-kronika-36229530-20250318064024.mp3</link>
+    <description>Prekinuto primirje u pojasu Gaze, u izraelskim noćašnjim napadima najmanje 220 poginulih. Danas najavljen telefonski razgovor Donalda Trumpa i Vladimira Putina.požara u Kočanima u kojemu je poginulo 59 ljudi, uhićeno 14 osoba i određen im je dvodnevni pritvor. Sutra štrajk u više od tisuću škola i na fakultetima. Urednica: Ana-Bella Leikauff</description>
+    <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/19/dd/20250318-jutarnja-kronika-36229530-20250318064024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 <item>
-    <title>JUTARNJA KRONIKA 10.03. 2025-03-10</title>
-    <link>https://api.hrt.hr/media/b8/11/20250310-jutarnja-kronika-36203837-20250310063528.mp3</link>
-    <description>Državno sudbeno vijeće u podne će na čelo Vrhovnoga suda imenovati privremenog nasljednika pokojnog Radovana Dobronića. U osnovnim školama danas počinje provedba nacionalnih ispita. Još je nejasno kako će se oni dovršiti bude li najavljenog štrajka u školstvu.zbog štrajka u njemačkim zračnim lukama. Danas se očekuje otkazivanje više od tri tisuće letova.prosvjedi u Bukureštu nakon što je izborno povjerenstvio zabranilo kandidaturu favoritu na rumunjskim predsjedničkim izborima.: Mislav Togonal</description>
-    <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/11/20250310-jutarnja-kronika-36203837-20250310063528.mp3" length="" type="audio/mpeg"/>
+    <title>JUTARNJA KRONIKA 17.03. 2025-03-17</title>
+    <link>https://api.hrt.hr/media/ec/ca/20250317-jutarnja-kronika-36225883-20250317063008.mp3</link>
+    <description>U tragediji u makedonskom noćnom klubu poginulo je 59 mladih ljudi. Četvero stradalih dolazi na liječenje u hrvatske bolnice.rastu vodostaji rijeka, ne očekuju se veći problemi s poplavama.za predsjednika Vrhovnog suda Radovana Dobronića u Maloj dvorani Lisinski u podne. Sutra razgovor Trumpa i Putina o završetku rata u Ukrajini. Rijeka pobjedom protiv Hajduka preuzela vrh nogometne ljestvice. Urednik Mislav Togonal</description>
+    <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ec/ca/20250317-jutarnja-kronika-36225883-20250317063008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 <item>
-    <title>JUTARNJA KRONIKA 09.03. 2025-03-09</title>
-    <link>https://api.hrt.hr/media/20/ef/20250309-jutarnja-kronika-36201733-20250309063024.mp3</link>
-    <description>Rusi silovito napadaju ukrajinske gradove. Preksutra u Saudijskoj Arabiji ukrajinsko-američki razgovori o mirovnim prijedlozima. Umro predsjednik Vrhovnoga suda Radovan Dobronić. Na Međunarodni dan žena ponovno upozoreno na njihovu neravnopravnost u radnom i privatnom životu. Počinje Svjetski tjedan glaukoma, vodećeg svjetskog uzroka nepovratnog gubitka vida. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 09 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/20/ef/20250309-jutarnja-kronika-36201733-20250309063024.mp3" length="" type="audio/mpeg"/>
+    <title>JUTARNJA KRONIKA 16.03. 2025-03-16</title>
+    <link>https://api.hrt.hr/media/e6/dd/20250316-jutarnja-kronika-36223752-20250316063503.mp3</link>
+    <description>Prosvjed u Beogradu zbog izgreda završen prije planiranog, Aleksandar Vučić rekao da je razumio poruku.Premijer Plenković nakon operacijskog zahvata izašao iz bolnice, sutra nastavlja redovite aktivnosti. Rusija i Ukrajina noćas nastavile međusobne zračne napade, sudbina predloženog prekida vatre i dalje neizvjesna.
+Urednica Mira Barić</description>
+    <pubDate>Sun, 16 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/dd/20250316-jutarnja-kronika-36223752-20250316063503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 <item>
-    <title>JUTARNJA KRONIKA 08.03. 2025-03-08</title>
-    <link>https://api.hrt.hr/media/b3/5d/20250308-jutarnja-kronika-36199393-20250308071056.mp3</link>
-    <description>Požar kuće u romskom naselju u Međimurju, u kojem je poginulo troje djece, izazvao zapaljeni otpad u plastičnoj kanti. Trump, uoči razgovora s Ukrajinom o prekidu vatre, poručio da mu se lakše nositi s Rusima nego s Ukrajincima. Međunarodni je dan žena. Unatoč godinama borbe za prava, brojke i dalje porazne - žene zarađuju 14 posto manje od muškaraca, a svaka 4 doživjela je fizičko ili seksualno nasilje. U Kerempuhu premijera duologije Mate Matišića "U ime Oca, Sina i Duha Svetog". Urednica: Marija Gerbec Njavro.</description>
-    <pubDate>Sat, 08 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b3/5d/20250308-jutarnja-kronika-36199393-20250308071056.mp3" length="" type="audio/mpeg"/>
+    <title>JUTARNJA KRONIKA 15.03. 2025-03-15</title>
+    <link>https://api.hrt.hr/media/78/16/20250315-jutarnja-kronika-36221345-20250315063528.mp3</link>
+    <description>Tisuće studenata stiglo u Beograd na prosvjed koji će se održati u 16 sati. Građani ih dočekali ovacijama, vlast dovela zloglasne Crvene beretke. Trump zabrinut za ukrajinske vojnike u Kursku. Zelenski kaže da nisu u obruču, već su se povukli na rezervne položaje. U Zagrebu će pred Hrvatskim zavodom za zdravstveno osiguranje prosvjedovati liječnici. U srijedu štrajk prosvjetara. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 15 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/78/16/20250315-jutarnja-kronika-36221345-20250315063528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

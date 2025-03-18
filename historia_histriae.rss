@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 06 Mar 2025 17:25:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 19:20:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Povijest Paza 2025-03-13</title>
+    <link>https://api.hrt.hr/media/54/ee/20250313-historia-histriae-8164259-20250313170058.mp3</link>
+    <description>Ovog puta s Kristijanom Žgaljardićem govorimo o povijesti jednog naselja koje podsjeća na orlovsko gnijezdo - Paz! </description>
+    <pubDate>Thu, 13 Mar 2025 16:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/ee/20250313-historia-histriae-8164259-20250313170058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kristijan Žgaljardić - Povijest Gologorice 2025-03-06</title>
     <link>https://api.hrt.hr/media/12/35/20250306-historia-histriae-8162224-20250306165554.mp3</link>
     <description>U goste nam se vraća povjesničar Kristijan Žgaljardić, a pričamo o povijesti Gologorice!</description>
@@ -79,14 +87,6 @@
     <description>Pričamo o istaknutom narodnom preporoditelju iz Pićna, Šimi Kureliću. Naš gost je povjesničar Kristijan Žgaljardić</description>
     <pubDate>Thu, 09 Jan 2025 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/eb/20250109-historia-histriae-8144362-20250109172050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>FRANKO LUKEZ (blagdanska repriza) 2025-01-02</title>
-    <link>https://api.hrt.hr/media/e4/a1/20250102-historia-histriae-8141985-20250102164513.mp3</link>
-    <description>U ovom izdanju emisije prisjećamo se dragog gosta Franka Lukeža koji je s nama podijelio poslovice o blagdanskim jelima. Emisija je snimljena 16. listopada 2020. godine. </description>
-    <pubDate>Thu, 02 Jan 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e4/a1/20250102-historia-histriae-8141985-20250102164513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

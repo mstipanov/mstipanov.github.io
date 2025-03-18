@@ -6,10 +6,18 @@
         <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 08 Mar 2025 17:35:36 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 19:20:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/4a/c0/inventura-tjedan-pod-povecalom-20220324112020.webp</url><title>Inventura - tjedan pod povećalom</title><link>https://radio.hrt.hr/slusaonica/inventura-tjedan-pod-povecalom</link></image>
         <item>
+    <title>Inventura, 15 03 2025 2025-03-15</title>
+    <link>https://api.hrt.hr/media/8a/23/20250315-inventura-tjedan-pod-povecalom-36220398-20250314183039.mp3</link>
+    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
+    <pubDate>Sat, 15 Mar 2025 06:30:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8a/23/20250315-inventura-tjedan-pod-povecalom-36220398-20250314183039.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Inventura 08.03.25. 2025-03-08</title>
     <link>https://api.hrt.hr/media/96/76/20250308-inventura-tjedan-pod-povecalom-36198117-20250308170024.mp3</link>
     <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
@@ -32,14 +40,6 @@
 Na svečanoj inauguraciji na Pantovčaku, na drugi mandat prisegnuo je predsjednik Milanović. Eskalirao je pak Trumpov bijes prema Zelenskom, kojeg je nazvao diktatorom. Zbog malverzacije s 35 tisuća tona otpada osumnjičeno 10 osoba, beskrupulozni poduzetnici napravili ekocid. A Vlada u rat s inflacijom krenula – aplikacijom.</description>
     <pubDate>Sat, 22 Feb 2025 06:30:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2b/55/20250222-inventura-tjedan-pod-povecalom-36153949-20250221212519.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Inventura 15. 02. 2025. 2025-02-15</title>
-    <link>https://api.hrt.hr/media/92/27/20250215-inventura-tjedan-pod-povecalom-36130474-20250214170021.mp3</link>
-    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
-    <pubDate>Sat, 15 Feb 2025 06:30:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/92/27/20250215-inventura-tjedan-pod-povecalom-36130474-20250214170021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
