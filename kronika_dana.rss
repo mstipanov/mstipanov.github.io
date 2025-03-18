@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Mar 2025 19:20:26 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 21:51:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.03. 2025-03-18</title>
+    <link>https://api.hrt.hr/media/c8/c1/20250318-kronika-dana-36232509-20250318214025.mp3</link>
+    <description>Trump i Putin telefonski razgovarali. Putin pristao na 30 dana zaustaviti udare na ukrajinsku energetsku infrastrukturu. Unatoč najavi da štrajk neće biti plaćen onima koji ne budu radili, tri obrazovna sindikata od njega ne odustaju. Ministarstvo dalo jasne upute ravnateljima i roditeljima - djeca moraju u školu. U izraelskim napadima na pojas Gaze poginulo više od 400 ljudi. Urednica: Mira Barić</description>
+    <pubDate>Tue, 18 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c8/c1/20250318-kronika-dana-36232509-20250318214025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.03. 2025-03-17</title>
     <link>https://api.hrt.hr/media/03/ae/20250317-kronika-dana-36228914-20250317214021.mp3</link>
     <description>Velika tuga i nasilni prosvjedi dok se privode osumnjičeni za tragediju i smrt 59-ero mladih u Sjevernoj Makedoniji. Sutra telefonski razgovor Trump - Putin. U srijedu štrajk u više od tisuću škola i na fakultetima. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U Beogradu masovni prosvjed protiv vlasti, procjenu policije od 107 tisuća sudionika organizatori smatraju podcijenjenom. Bilo nekoliko incidenata. Premijer Plenković nakon operacijskog zahvata u KBC-u Zagreb izašao iz bolnice. U ponedjeljak nastavlja redovite aktivnosti. Prosvjed obiteljskih liječnika - traže dijalog s Hrvatskim zavodom za zdravstveno osiguranje. Prosvjetari za srijedu najavili štrajk upozorenja. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 15 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/3c/20250315-kronika-dana-36223150-20250315214053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.03. 2025-03-14</title>
-    <link>https://api.hrt.hr/media/a7/e1/20250314-kronika-dana-36220787-20250314214041.mp3</link>
-    <description>Beograd na nogama uoči sutrašnjeg masovnog prosvjeda. U grad stižu tisuće studenata iz cijele zemlje, na ulicama traktori i betonske prepreke.Ukrajinski predsjednik Zelenski optužio Moskvu da odugovlači pregovore o prekidu vatre.U sklopu Nacionalnog programa prevencije raka debelog crijeva uskoro novi testovi koji bi trebali povećati odaziv građana.Urednica: Mira Barić</description>
-    <pubDate>Fri, 14 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a7/e1/20250314-kronika-dana-36220787-20250314214041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
