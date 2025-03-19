@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 18 Mar 2025 21:51:01 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 21:56:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.03. 2025-03-19</title>
+    <link>https://api.hrt.hr/media/c7/c1/20250319-kronika-dana-36236315-20250319214027.mp3</link>
+    <description>Prema prvim podacima, u jednodnevnom štrajku upozorenja u obrazovanju sudjelovalo oko 37 tisuća zaposlenika. Dan u štrajku neće im biti plaćen. Europa se naoružava, Komisija predstavila najveći obrambeni plan u povijesti Unije. Nakon telefonskog razgovora Trump - Zelenski, oba predsjednika vrlo zadovoljna.Urednica: Sanja Cota.</description>
+    <pubDate>Wed, 19 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/c1/20250319-kronika-dana-36236315-20250319214027.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.03. 2025-03-18</title>
     <link>https://api.hrt.hr/media/c8/c1/20250318-kronika-dana-36232509-20250318214025.mp3</link>
     <description>Trump i Putin telefonski razgovarali. Putin pristao na 30 dana zaustaviti udare na ukrajinsku energetsku infrastrukturu. Unatoč najavi da štrajk neće biti plaćen onima koji ne budu radili, tri obrazovna sindikata od njega ne odustaju. Ministarstvo dalo jasne upute ravnateljima i roditeljima - djeca moraju u školu. U izraelskim napadima na pojas Gaze poginulo više od 400 ljudi. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Tragičan požar u noćnom klubu u Sjevernoj Makedoniji - poginulo 59 mladih osoba, više od 150 ih je ozlijeđeno. Dan nakon najmasovnijeg prosvjeda u Beogradu - je li vlast uporabila zabranjeni zvučni top? Hrvatski rukometaši pobjedom nad Češkom osigurali plasman na Euro. Rijeka pobjedom protiv Hajduka preuzela vrh nogometne ljestvice. Urednica: Sanja Rabuzin</description>
     <pubDate>Sun, 16 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2b/c5/20250316-kronika-dana-36225327-20250316214008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.03. 2025-03-15</title>
-    <link>https://api.hrt.hr/media/59/3c/20250315-kronika-dana-36223150-20250315214053.mp3</link>
-    <description>U Beogradu masovni prosvjed protiv vlasti, procjenu policije od 107 tisuća sudionika organizatori smatraju podcijenjenom. Bilo nekoliko incidenata. Premijer Plenković nakon operacijskog zahvata u KBC-u Zagreb izašao iz bolnice. U ponedjeljak nastavlja redovite aktivnosti. Prosvjed obiteljskih liječnika - traže dijalog s Hrvatskim zavodom za zdravstveno osiguranje. Prosvjetari za srijedu najavili štrajk upozorenja. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 15 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/3c/20250315-kronika-dana-36223150-20250315214053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
