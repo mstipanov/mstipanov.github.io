@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 19 Mar 2025 21:56:24 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 22:31:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.03. 2025-03-20</title>
+    <link>https://api.hrt.hr/media/dc/3f/20250320-kronika-dana-36240395-20250320214550.mp3</link>
+    <description>Ministarstvo obrazovanja i sindikalisti iznose oprečne podatke o odazivu na jučerašnji štrajk. Brisel nastavlja vojnu i gospodarsku potporu Ukrajini, glavni tajnik UN-a za Ukrajinu traži pravedan mir. Urednica: Sanaj Cota</description>
+    <pubDate>Thu, 20 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dc/3f/20250320-kronika-dana-36240395-20250320214550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.03. 2025-03-19</title>
     <link>https://api.hrt.hr/media/c7/c1/20250319-kronika-dana-36236315-20250319214027.mp3</link>
     <description>Prema prvim podacima, u jednodnevnom štrajku upozorenja u obrazovanju sudjelovalo oko 37 tisuća zaposlenika. Dan u štrajku neće im biti plaćen. Europa se naoružava, Komisija predstavila najveći obrambeni plan u povijesti Unije. Nakon telefonskog razgovora Trump - Zelenski, oba predsjednika vrlo zadovoljna.Urednica: Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>Velika tuga i nasilni prosvjedi dok se privode osumnjičeni za tragediju i smrt 59-ero mladih u Sjevernoj Makedoniji. Sutra telefonski razgovor Trump - Putin. U srijedu štrajk u više od tisuću škola i na fakultetima. Urednica: Sanja Cota</description>
     <pubDate>Mon, 17 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/ae/20250317-kronika-dana-36228914-20250317214021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.03. 2025-03-16</title>
-    <link>https://api.hrt.hr/media/2b/c5/20250316-kronika-dana-36225327-20250316214008.mp3</link>
-    <description>Tragičan požar u noćnom klubu u Sjevernoj Makedoniji - poginulo 59 mladih osoba, više od 150 ih je ozlijeđeno. Dan nakon najmasovnijeg prosvjeda u Beogradu - je li vlast uporabila zabranjeni zvučni top? Hrvatski rukometaši pobjedom nad Češkom osigurali plasman na Euro. Rijeka pobjedom protiv Hajduka preuzela vrh nogometne ljestvice. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 16 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2b/c5/20250316-kronika-dana-36225327-20250316214008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
