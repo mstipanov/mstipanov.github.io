@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 21 Mar 2025 21:57:50 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 22:02:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.03. 2025-03-22</title>
+    <link>https://api.hrt.hr/media/fb/52/20250322-kronika-dana-36246029-20250322214005.mp3</link>
+    <description>Prije pet godina Zagreb i okolicu pogodio razoran potres, obnova će trajati još pet godina.	Papa Franjo sutra bi trebao biti otpušten iz bolnice. čelnik Istanbula na ispitivanju zbog optužbi za korupciju i povezanost s terorizmom, policija se sukobila s njegovim pristašama. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 22 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fb/52/20250322-kronika-dana-36246029-20250322214005.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.03. 2025-03-21</title>
     <link>https://api.hrt.hr/media/2a/6a/20250321-kronika-dana-36243829-20250321214553.mp3</link>
     <description>Sutra će biti pet godina od velikoga zagrebačkog potresa. Na obnovu dosad utrošeno više od 2 milijarde eura.Sjedinjene Države organiziraju pregovore između Rusije i Ukrajine na razini stručnjaka u ponedjeljak u Saudijskoj Arabiji. Zračna luka Heathrow djelomično otvorena nakon što je zbog požara ostala bez električne energije i cijeli dan bila zatvorena. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Prema prvim podacima, u jednodnevnom štrajku upozorenja u obrazovanju sudjelovalo oko 37 tisuća zaposlenika. Dan u štrajku neće im biti plaćen. Europa se naoružava, Komisija predstavila najveći obrambeni plan u povijesti Unije. Nakon telefonskog razgovora Trump - Zelenski, oba predsjednika vrlo zadovoljna.Urednica: Sanja Cota.</description>
     <pubDate>Wed, 19 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c7/c1/20250319-kronika-dana-36236315-20250319214027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.03. 2025-03-18</title>
-    <link>https://api.hrt.hr/media/c8/c1/20250318-kronika-dana-36232509-20250318214025.mp3</link>
-    <description>Trump i Putin telefonski razgovarali. Putin pristao na 30 dana zaustaviti udare na ukrajinsku energetsku infrastrukturu. Unatoč najavi da štrajk neće biti plaćen onima koji ne budu radili, tri obrazovna sindikata od njega ne odustaju. Ministarstvo dalo jasne upute ravnateljima i roditeljima - djeca moraju u školu. U izraelskim napadima na pojas Gaze poginulo više od 400 ljudi. Urednica: Mira Barić</description>
-    <pubDate>Tue, 18 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c8/c1/20250318-kronika-dana-36232509-20250318214025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
