@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Mar 2025 14:36:34 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 15:06:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 23.03. 2025-03-23</title>
+    <link>https://api.hrt.hr/media/9a/3d/20250323-dnevne-novosti-36247528-20250323144018.mp3</link>
+    <description>Papa Franjo izašao iz bolnice. Istanbulski gradonačelnik u pritvoru, očekuju se još veći prosvjedi diljem Turske. "Spasimo ušće Cetine", Omišani prosvjedovali protiv devastacije toga dijela grada. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 23 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9a/3d/20250323-dnevne-novosti-36247528-20250323144018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 22.03. 2025-03-22</title>
     <link>https://api.hrt.hr/media/da/93/20250322-dnevne-novosti-36245256-20250322143104.mp3</link>
     <description>Pet godina od zagrebačkog potresa, obnova će trajati još pet. Papa Franjo sutra će se, prvi put nakon pet tjedana u bolnici Gemelli, pojaviti u javnosti. Svjetski je dan voda. Hrvatska po zalihama prva među zemljama Europske unije. Urednica: Mira Barić</description>
