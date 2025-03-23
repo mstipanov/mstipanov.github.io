@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 22 Mar 2025 07:29:40 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 07:04:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U jednodnevnom štrajku upozorenja u obrazovanju sudjelovalo oko 37 tisuća zaposlenika. Dan u štrajku neće im biti plaćen. Optužno Vijeće zagrebačkog Županijskog suda trebalo bi odlučiti o osnovanosti optužnice protiv bivših ministara Darka Horvata, Josipa Aladrović i Tomislava Tolušića te bivšeg potpredsjednika Vlade Borisa Miloševića. Počinje najveća pjesnička manifestacija - 62. Goranovo proljeće. SPORT: Večeras na splitskom Poljudu četvrtfinalna utakmica Lige nacija Hrvatska - Francuska. Urednik: Silvio Šop.</description>
     <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/60/20250320-jutarnja-kronika-36237041-20250320063525.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.03. 2025-03-19</title>
-    <link>https://api.hrt.hr/media/ca/29/20250319-jutarnja-kronika-36233070-20250319063522.mp3</link>
-    <description>Danas jednodnevni štrajk u školama i na fakultetima. Europska komisija objavit će Bijelu knjigu o budućnosti europske obrane. Povijesni razgovor Trumpa i Putina, dogovoren jednomjesečni prekid napada na energetsku infrastrukturu. Novi pregovori o primirju najavljeni za nedjelju. U Zagrebu počinje Festival svjetla. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ca/29/20250319-jutarnja-kronika-36233070-20250319063522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
