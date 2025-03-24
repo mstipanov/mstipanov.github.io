@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 23 Mar 2025 07:34:16 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 07:09:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 24.03. 2025-03-24</title>
+    <link>https://api.hrt.hr/media/45/b2/20250324-jutarnja-kronika-36248992-20250324063517.mp3</link>
+    <description>Nakon pet tjedana papa Franjo izašao iz bolnice. Uz blagoslov, okupljenim vjernicima uputio nekoliko riječi. U Saudijskoj Arabiji počeo novi krug pregovora o primirju u Ukrajini. Koordinacija obiteljske medicine prijavila HZZO Agenciji za zaštitu osobnih podataka zbog, kako kaže, zadiranja u privatnost pacijenata. Urednik: Mislav Togonal.</description>
+    <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/45/b2/20250324-jutarnja-kronika-36248992-20250324063517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 23.03. 2025-03-23</title>
     <link>https://api.hrt.hr/media/fc/2b/20250323-jutarnja-kronika-36246652-20250323070513.mp3</link>
     <description>Papa Franjo izlazi iz bolnice i vraća se u Vatikan. Čeka se odluka o pritvoru za gradonačelnika Istanbula i najljućeg Erdoganova protivnika Ekrema Imamoglua, zbog čijeg se uhićenja i sinoć prosvjedovalo. Nakon pobjede 2:0 u Splitu, Hrvatska se večeras protiv Francuske u Parizu bori za polufinale Lige nacija. : Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Brisel nastavlja vojnu i gospodarsku potporu Ukrajini, zbog protivljenja Mađarske nisu doneseni zajednički zaključci, nego samo izjava. Najveća londonska zračna luka Heathrow bit će zatvorena cijeli dan, do ponoći. U zagrebačkom HNK-u večeras premijera klasika "Zločin i kazna". SPORT: U prvoj utakmici četvrtfinala Lige nacija Hrvatska na Poljudu pobijedila Francusku 2:0. Urednik: Silvio Šop</description>
     <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/99/8e/20250321-jutarnja-kronika-36241154-20250321063552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.03. 2025-03-20</title>
-    <link>https://api.hrt.hr/media/54/60/20250320-jutarnja-kronika-36237041-20250320063525.mp3</link>
-    <description>U jednodnevnom štrajku upozorenja u obrazovanju sudjelovalo oko 37 tisuća zaposlenika. Dan u štrajku neće im biti plaćen. Optužno Vijeće zagrebačkog Županijskog suda trebalo bi odlučiti o osnovanosti optužnice protiv bivših ministara Darka Horvata, Josipa Aladrović i Tomislava Tolušića te bivšeg potpredsjednika Vlade Borisa Miloševića. Počinje najveća pjesnička manifestacija - 62. Goranovo proljeće. SPORT: Večeras na splitskom Poljudu četvrtfinalna utakmica Lige nacija Hrvatska - Francuska. Urednik: Silvio Šop.</description>
-    <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/54/60/20250320-jutarnja-kronika-36237041-20250320063525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
