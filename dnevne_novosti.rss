@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 24 Mar 2025 14:42:21 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 14:48:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 25.03. 2025-03-25</title>
+    <link>https://api.hrt.hr/media/16/4a/20250325-dnevne-novosti-36254026-20250325142532.mp3</link>
+    <description>Ministar obrane Ivan Anušić u Parizu s francuskim kolegom razgovarao o programu REarm Europe, preksutra na sastanak tzv. koalicije voljnih dolazi premijer Andrej Plenković. Dok se borbe i na ruskom i na ukrajinskom teritoriju nastavljaju, u Rijadu završio još jedan krug ukrajinsko-američkih razgovora o primirju. Vlada će na sljedećoj sjednici donijeti novi paket mjera pomoći građanima. Predsjednik Republike Srpske Milorad Dodik, bez obzira na policijsku tjeralicu, napustio Bosnu i Hercegovinu. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 25 Mar 2025 14:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/16/4a/20250325-dnevne-novosti-36254026-20250325142532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 24.03. 2025-03-24</title>
     <link>https://api.hrt.hr/media/f4/58/20250324-dnevne-novosti-36250732-20250324143027.mp3</link>
     <description>Više od 20 osoba, od kojih jedna teško, ozlijeđeno u sudaru dvaju autobusa javnoga gradskog prijevoza u Osijeku. Obrazovni sindikati traže novi postupak mirenja, a ne bude li dogovora, najavljuju nove štrajkove. Ministar Fuchs kaže da je mirenje odrađeno. Više od tisuću 100 ljudi uhićeno diljem Turske u prosvjedima koje je potaknulo pritvaranje istanbulskoga gradonačelnika Ekrema Imamoglua - glavnog protivnika predsjednika Erdogana. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Pet godina od zagrebačkog potresa, obnova će trajati još pet. Papa Franjo sutra će se, prvi put nakon pet tjedana u bolnici Gemelli, pojaviti u javnosti. Svjetski je dan voda. Hrvatska po zalihama prva među zemljama Europske unije. Urednica: Mira Barić</description>
     <pubDate>Sat, 22 Mar 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/93/20250322-dnevne-novosti-36245256-20250322143104.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 21.03. 2025-03-21</title>
-    <link>https://api.hrt.hr/media/01/23/20250321-dnevne-novosti-36243025-20250321143553.mp3</link>
-    <description>Utvrđuju se uzroci požara na trafostanici u londonskoj zračnoj luci Heathrowu. Zračni promet prekinut do kraja dana. Rusi noćas snažno napali crnomorsku luku Odesu. Trump ima nove uvjete za pristup ukrajinskim mineralima, no najavljuje potpisivanje sporazuma. 19.- godišnji maturant šesnaesta je žrtva pada nanstrešnice u Novom Sadu. Umro je nakon gotovo pet mjeseci borbe za život. Sjajna pobjeda Hrvatske nogometne reprezentacije u prvoj utakmici četvrtfinala Lige nacija protiv Francuske u Splitu. Uzvratna se igra u nedjelju u Parizu. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 21 Mar 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/01/23/20250321-dnevne-novosti-36243025-20250321143553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
