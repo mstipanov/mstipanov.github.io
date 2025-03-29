@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Mar 2025 21:32:04 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 22:02:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.03. 2025-03-29</title>
+    <link>https://api.hrt.hr/media/f3/36/20250329-kronika-dana-36268552-20250329214013.mp3</link>
+    <description>Vodostaji rijeka su visoki, no montažno-demontažni sustav u Hrvatskoj Kostajnici odolijeva pritiscima Une, a stanje u Slavoniji je bolje. Teško stanje u Mjanmaru, i prije razornog potresa 19 milijuna ljudi, od ukupno 53 milijuna, trebalo je humanitarnu pomoć. Noćas počinje ljetno računanje vremena, u 2 sata bit će 3. Urednica: Sanja Cota.</description>
+    <pubDate>Sat, 29 Mar 2025 21:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f3/36/20250329-kronika-dana-36268552-20250329214013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.03. 2025-03-28</title>
     <link>https://api.hrt.hr/media/9e/3f/20250328-kronika-dana-36266125-20250328214506.mp3</link>
     <description>65-godišnji pljačkaš banke, ubijen u Splitu, deportiran iz Australije gdje je odslužio kaznu za pljačku i ubojstvo. U više županija izvanredno stanje obrane od poplava. Razoran potres u Mianmaru. "Potreban nam je Grenland, to je vrlo važno za međunarodnu sigurnost", izjavio Donald Trump. Urednica: Sanja Cota</description>
