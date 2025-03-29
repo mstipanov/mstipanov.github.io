@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 28 Mar 2025 21:57:33 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 21:32:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Uoči sutrašnjeg sastanka 'Koalicije voljnih' u Parizu predsjednik Milanović izjavio da je to fikcija u kojoj hrvatski vojnici neće sudjelovati. Francuski predsjednik Macron najavio nove dvije milijarde eura vojne pomoći Ukrajini. Vlada odlučila - cijene energenata ostaju nepromijenjene idućih 6 mjeseci, umirovljenicima uskrsnica od 50 eura. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 26 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/f9/20250326-kronika-dana-36258697-20250326213556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.03. 2025-03-25</title>
-    <link>https://api.hrt.hr/media/60/ee/20250325-kronika-dana-36255014-20250325214100.mp3</link>
-    <description>Vlada će na sutrašnjoj sjednici donijeti novi, osmi paket pomoći građanima i poduzetnicima. Cijene struje i plina idućih šest mjeseci ostaju iste.Amerika i Rusija dogovorile sigurnu plovidbu Crnim morem, s time se složila i Ukrajina.Milorad Dodik unatoč tjeralici napustio Bosnu i Hercegovinu i stigao u Izrael.Uredila: Mira Barić</description>
-    <pubDate>Tue, 25 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/60/ee/20250325-kronika-dana-36255014-20250325214100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
