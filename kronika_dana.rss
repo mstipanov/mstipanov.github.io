@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Mar 2025 22:02:11 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 20:36:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Nakon 19 godina ponovno imamo najbolju slalomašicu svijeta - Zrinka Ljutić osvojila je Mali kristalni globus! Europski čelnici složni o dugoročnoj potpori Ukrajini, ali ne i o sigurnosnim jamstvima postigne li se mirovni sporazum s Moskvom. Propalo drugo mirenje triju obrazovnih sindikata i Vlade, počinju regionalni cirkularni štrajkovi, prvi je 1. travnja u Dalmaciji. Provedeno istraživanje o prisutnosti tragova droga u otpadnim vodama - i u Europi i u Hrvatskoj najviše se konzumira kokain. Urednik: Silvio Šop</description>
     <pubDate>Thu, 27 Mar 2025 21:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/42/ab/20250327-kronika-dana-36262685-20250327214006.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.03. 2025-03-26</title>
-    <link>https://api.hrt.hr/media/70/f9/20250326-kronika-dana-36258697-20250326213556.mp3</link>
-    <description>Uoči sutrašnjeg sastanka 'Koalicije voljnih' u Parizu predsjednik Milanović izjavio da je to fikcija u kojoj hrvatski vojnici neće sudjelovati. Francuski predsjednik Macron najavio nove dvije milijarde eura vojne pomoći Ukrajini. Vlada odlučila - cijene energenata ostaju nepromijenjene idućih 6 mjeseci, umirovljenicima uskrsnica od 50 eura. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 26 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/70/f9/20250326-kronika-dana-36258697-20250326213556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
