@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 29 Mar 2025 15:00:47 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 14:05:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.03. 2025-03-30</title>
+    <link>https://api.hrt.hr/media/b8/44/20250330-dnevne-novosti-36269930-20250330133015.mp3</link>
+    <description>Vodostaji Korane i Kupe na karlovačkom području od jutros lagano padaju, kao i vodostaj Une u Hrvatskoj Kostajnici. Najmanje tisuću 700 poginulih i na tisuće ranjenih nakon potresa u Mjanmaru. Tlo još podrhtava. Sutra je posljednji dan za prijavu poreza na nekretnine. Urednik: Grgo Mrvica</description>
+    <pubDate>Sun, 30 Mar 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b8/44/20250330-dnevne-novosti-36269930-20250330133015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.03. 2025-03-29</title>
     <link>https://api.hrt.hr/media/18/11/20250329-dnevne-novosti-36267593-20250329143012.mp3</link>
     <description>Obilna kiša podignula razine rijeka, na području Hrvatske Kostajnice, Karlovca i Jasenovca izvanredno stanje. U snažnim potresima u Mjanmaru, prema posljednjim informacijama, poginulo je više od tisuću ljudi. Prema istraživanju na četiri Županijska suda, jedna petina presuda za korupciju zamijenjena je radom za opće dobro. Noćas prelazimo na ljetno računanje vremena, vrijeme u 2 računa se kao 3 sata. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Koalicija voljnih nastavit će pomagati Ukrajini, na sastanku u Parizu bio i premijer Plenković. Trump uvodi carine od 25 posto na uvoz automobila koji nisu proizvedeni u Sjedinjenim Državama. SDP u saborsku proceduru poslao prijedlog za razrješenje Ivana Turudića. Urednica: Sanja Cota</description>
     <pubDate>Thu, 27 Mar 2025 14:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/aa/ee/20250327-dnevne-novosti-36261312-20250327143502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.03. 2025-03-26</title>
-    <link>https://api.hrt.hr/media/75/8e/20250326-dnevne-novosti-36257490-20250326143100.mp3</link>
-    <description>Vlada nastavlja pomagati građanima i gospodarstvu, štiteći ih od rasta cijena. Vlada donijela i Nacionalni plan stambene politike. Predsjednik Milanović u posjetu Crnoj Gori. Armenski parlament pokreće postupak pristupanja Europskoj uniji. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 26 Mar 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/75/8e/20250326-dnevne-novosti-36257490-20250326143100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
