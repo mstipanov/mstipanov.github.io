@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 30 Mar 2025 06:03:53 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 06:08:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 31.03. 2025-03-31</title>
+    <link>https://api.hrt.hr/media/9d/30/20250331-jutarnja-kronika-36271410-20250331053513.mp3</link>
+    <description>Vodostaji Une, Kupe i Korane padaju. Saniraju se posljedice poplava. Posljednji je dan za dostavu podataka važnih za prijavu poreza na nekretnine. Tlo i dalje podrhtava u potresom razorenom Mjanmaru, potvrđeno više od tisuću i 700 poginulih. U zagrebačkoj Scenoteci večeras premijera predstave "Kako je tabu tražio slobodu" Kazališta za slijepe. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 31 Mar 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9d/30/20250331-jutarnja-kronika-36271410-20250331053513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.03. 2025-03-30</title>
     <link>https://api.hrt.hr/media/e0/80/20250330-jutarnja-kronika-36269091-20250330053014.mp3</link>
     <description>Vodostaji rijeka i dalje su visoki, ali je stanje pod nadzorom. Gotovo tisuću i 700 ljudi poginulo u potresu u Mjanmaru, zbog uništenih cesta pomoć se teško probija. Janaf drugi put dobio jednomjesečnu licenciju za dopremu nafte u rafineriju u Pančevu, koja je zbog ruskog većinskog vlasništva pod američkim sankcijama. Počinje 21. ZagrebDox.Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Nakon 19 godina ponovno imamo najbolju slalomašicu svijeta - Zrinka Ljutić osvojila je Mali kristalni globus! Zbog obilne kiše sinoć u Orahovici poplava. Voda ušla u kuće. Europski čelnici složni o dugoročnoj potpori Ukrajini, ali ne i o sigurnosnim jamstvima postigne li se mirovni sporazum s Moskvom. Propalo drugo mirenje triju obrazovnih sindikata i Vlade, počinju regionalni cirkularni štrajkovi - prvi je 1. travnja u Dalmaciji. Večeras u Karlovcu dodjela Porina. Urednik:Grgo Mrvica</description>
     <pubDate>Fri, 28 Mar 2025 06:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/96/f2/20250328-jutarnja-kronika-36263388-20250328063505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.03. 2025-03-27</title>
-    <link>https://api.hrt.hr/media/5d/20/20250327-jutarnja-kronika-36259384-20250327063601.mp3</link>
-    <description>Francuski predsjednik Macron domaćin sastanka na vrhu "koalicije voljnih" u Parizu. Sudjeluje i premijer Plenković. Prvi sastanak mirenja Vlade i sindikata, uoči najavljenih štrajkova u školama i na fakultetima. Velik dan za Zrinku Ljutić - mogla bi osvojiti Mali kristalni globus u slalomu, prvi u karijeri. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5d/20/20250327-jutarnja-kronika-36259384-20250327063601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
