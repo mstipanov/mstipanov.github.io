@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Apr 2025 20:51:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 21:02:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.04. 2025-04-02</title>
+    <link>https://api.hrt.hr/media/a1/fa/20250402-kronika-dana-36281127-20250402204055.mp3</link>
+    <description>Donald Trump uskoro objavljuje uvođenje carina na sve proizvode koje Sjedinjene Države uvoze.
+Razbijena jedna od najvećih pedofilskih mreža, u Hrvatskoj osumnjičene dvije osobe.U 90-toj godini umro veliki skladatelj Alfi Kabiljo. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 02 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/fa/20250402-kronika-dana-36281127-20250402204055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.04. 2025-04-01</title>
     <link>https://api.hrt.hr/media/03/2b/20250401-kronika-dana-36277509-20250401203530.mp3</link>
     <description>Nakon što je ispitan u USKOK-u, Ivan Lesandrić, suprug kandidatkinje za splitsko-dalmatinsku županicu Ivane Ninčević Lesandrić, pušten da se brani sa slobode. Referentu Draganu Pivčeviću, koji je Lesandriću omogućio iznajmljivanje bespravno izgrađene kuće, određen jednomjesečni pritvor. Od Zadra do Dubrovnika prvi od pet regionalnih štrajkova u školama, sindikati tvrde - odaziv oko 80 posto. Sutra na snagu stupaju nove američke carine na uvoz iz svih zemalja. Prodaja dodatnih ulaznica za Thompsonov koncert na zagrebačkom Hipodromu nastavlja se preksutra. Urednik: Silvio Šop</description>
@@ -31,14 +40,6 @@
     <description>I dalje padaju vodostaji Une, Kupe i Korane. Saniraju se posljedice poplava. Donald Trump zaprijetio da će uvesti sekundarne carine od 25 do 50 posto na svu rusku naftu ako se ne postigne sporazum o Ukrajini. Za Thompsonov koncert početkom srpnja, na Zagrebačkom hipodromu, u manje od 24 sata prodano malo više od 280 tisuća ulaznica. Urednica: Mira Barić</description>
     <pubDate>Sun, 30 Mar 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/39/6e/20250330-kronika-dana-36270879-20250330204014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.03. 2025-03-29</title>
-    <link>https://api.hrt.hr/media/f3/36/20250329-kronika-dana-36268552-20250329214013.mp3</link>
-    <description>Vodostaji rijeka su visoki, no montažno-demontažni sustav u Hrvatskoj Kostajnici odolijeva pritiscima Une, a stanje u Slavoniji je bolje. Teško stanje u Mjanmaru, i prije razornog potresa 19 milijuna ljudi, od ukupno 53 milijuna, trebalo je humanitarnu pomoć. Noćas počinje ljetno računanje vremena, u 2 sata bit će 3. Urednica: Sanja Cota.</description>
-    <pubDate>Sat, 29 Mar 2025 21:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f3/36/20250329-kronika-dana-36268552-20250329214013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
