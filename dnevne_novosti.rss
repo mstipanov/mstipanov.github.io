@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Apr 2025 13:49:03 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 14:00:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.04. 2025-04-02</title>
+    <link>https://api.hrt.hr/media/d2/03/20250402-dnevne-novosti-36279972-20250402133551.mp3</link>
+    <description>Ministarstvo i školski sindikati iznijeli potpuno različite podatke o odazivu na jučerašnji štrajk u Dalmaciji. Svijet u strahu od sve snažnijega trgovinskog rata čeka nove carine koje danas uvodi američki predsjednik Donald Trump. Nesuglasice među članovima Povjerenstva za odlučivanje o sukobu interesa. Umro je veliki skladatelj, dirigent i aranžer Alfi Kabiljo. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 02 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d2/03/20250402-dnevne-novosti-36279972-20250402133551.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.04. 2025-04-01</title>
     <link>https://api.hrt.hr/media/bb/83/20250401-dnevne-novosti-36276390-20250401133035.mp3</link>
     <description>Od Zadra do Dubrovnika prvi od pet regionalnih štrajkova u školama, sindikati tvrde - odaziv oko 80 posto. antikorupcijskoj akciji USKOK-a priveden Ivan Lesandrić, suprug nezavisne kandidatkinje za splitsko-dalmatinsku županicu Ivane Ninčević Lesandrić. Očekuje se da će Donald Trump sutra objaviti plan za uvođenje recipročnih carina gotovo svim američkim trgovinskim partnerima. Urednica: Mira Barić</description>
@@ -23,14 +31,6 @@
     <description>Vodostaji Korane i Kupe na karlovačkom području od jutros lagano padaju, kao i vodostaj Une u Hrvatskoj Kostajnici. Najmanje tisuću 700 poginulih i na tisuće ranjenih nakon potresa u Mjanmaru. Tlo još podrhtava. Sutra je posljednji dan za prijavu poreza na nekretnine. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 30 Mar 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/44/20250330-dnevne-novosti-36269930-20250330133015.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.03. 2025-03-29</title>
-    <link>https://api.hrt.hr/media/18/11/20250329-dnevne-novosti-36267593-20250329143012.mp3</link>
-    <description>Obilna kiša podignula razine rijeka, na području Hrvatske Kostajnice, Karlovca i Jasenovca izvanredno stanje. U snažnim potresima u Mjanmaru, prema posljednjim informacijama, poginulo je više od tisuću ljudi. Prema istraživanju na četiri Županijska suda, jedna petina presuda za korupciju zamijenjena je radom za opće dobro. Noćas prelazimo na ljetno računanje vremena, vrijeme u 2 računa se kao 3 sata. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 29 Mar 2025 14:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/18/11/20250329-dnevne-novosti-36267593-20250329143012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
