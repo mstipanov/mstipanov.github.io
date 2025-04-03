@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Apr 2025 20:36:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 21:06:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.04. 2025-04-03</title>
+    <link>https://api.hrt.hr/media/ed/ed/20250403-kronika-dana-36284816-20250403203554.mp3</link>
+    <description>Ne stišavaju se reakcije na nove Trumpove carine, Macron najavio da bi Francuska mogla prekinuti američke investicije. Održan štrajk u školama u Slavoniji. Sindikati kažu da se odazvalo pet tisuća zaposlenika, dok iz Vlade ponavljaju da razloga za štrajk nema. Prodano gotovo pola milijuna karata za Thompsonov koncert na Hipodromu 5. srpnja. Urednica: Mira Barić</description>
+    <pubDate>Thu, 03 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ed/ed/20250403-kronika-dana-36284816-20250403203554.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.04. 2025-04-02</title>
     <link>https://api.hrt.hr/media/a1/fa/20250402-kronika-dana-36281127-20250402204055.mp3</link>
     <description>Donald Trump uskoro objavljuje uvođenje carina na sve proizvode koje Sjedinjene Države uvoze.
