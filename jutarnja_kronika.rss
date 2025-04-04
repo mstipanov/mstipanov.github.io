@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Apr 2025 06:03:51 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 05:41:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.04. 2025-04-04</title>
+    <link>https://api.hrt.hr/media/5b/40/20250404-jutarnja-kronika-36285602-20250404053556.mp3</link>
+    <description>Ne stišavaju se reakcije na nove Trumpove carine. Održan štrajk u školama u Slavoniji. Sindikati kažu da se odazvalo pet tisuća zaposlenika, dok iz Vlade ponavljaju da razloga za štrajk nema. U prodaju puštene dodatne ulaznice za Thompsonov koncert na zagrebačkom hipodromu 5. srpnja. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 04 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5b/40/20250404-jutarnja-kronika-36285602-20250404053556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.04. 2025-04-03</title>
     <link>https://api.hrt.hr/media/86/4f/20250403-jutarnja-kronika-36281792-20250403053552.mp3</link>
     <description>Američki predsjednik Donald Trump uveo carine na sve proizvode koje uvoze Sjedinjene Države. Za Europsku uniju su 20 posto. Ostatak svijeta najavljuje protumjere, analitičari se slažu - to je kraj svjetske ekonomije kakvu poznajemo. Cirkularni štrajk triju obrazovnih sindikata, nakon Dalmacije, danas u Slavoniji. U Saboru rasprava o izmjenama Zakona o igrama na sreću, drastično će promijeniti industriju. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Obrazovni sindikati u četiri jadranske županije počinju prvi od pet najavljenih štrajkova. Vlada produljila odluku o neplaćanju vremena provedenog u štrajku. Presudu za pronevjeru europskog novca Marine Le Pen nazvala političkom odlukom. Ruski predsjednik Vladimir Putin donio odluku o novačenju još 160 tisuća vojnika, što je najveća mobilizacija u posljednjih 13 godina. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 01 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/07/a1/20250401-jutarnja-kronika-36274595-20250401053032.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 31.03. 2025-03-31</title>
-    <link>https://api.hrt.hr/media/9d/30/20250331-jutarnja-kronika-36271410-20250331053513.mp3</link>
-    <description>Vodostaji Une, Kupe i Korane padaju. Saniraju se posljedice poplava. Posljednji je dan za dostavu podataka važnih za prijavu poreza na nekretnine. Tlo i dalje podrhtava u potresom razorenom Mjanmaru, potvrđeno više od tisuću i 700 poginulih. U zagrebačkoj Scenoteci večeras premijera predstave "Kako je tabu tražio slobodu" Kazališta za slijepe. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 31 Mar 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/30/20250331-jutarnja-kronika-36271410-20250331053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
