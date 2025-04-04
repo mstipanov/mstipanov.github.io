@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Apr 2025 13:35:15 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 13:42:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.04. 2025-04-04</title>
+    <link>https://api.hrt.hr/media/cd/ad/20250404-dnevne-novosti-36287548-20250404133102.mp3</link>
+    <description>Peking odgovorio - Kina uvodi carine od 34 posto Sjedinjenim Državama. Visoki kazneni sud odbio žalbu bivše ministrice Žalac i potvrdio - poruke iz mobitela, u kojima se spominje AP, zakonit su dokaz. Teško ozlijeđen mladi restaurator na arheološkim iskopinama Dioklecijanove palače. Urednica: Mira Barić</description>
+    <pubDate>Fri, 04 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cd/ad/20250404-dnevne-novosti-36287548-20250404133102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.04. 2025-04-03</title>
     <link>https://api.hrt.hr/media/ed/91/20250403-dnevne-novosti-36283796-20250403133059.mp3</link>
     <description>Donald Trump uvodi najmanje 10 posto carina na sav uvoz u SAD, Kini su carine 54 posto, Europskoj uniji 20, Rusija nije na popisu. Nakon snažnog udara na svjetsku ekomomiju, mnoge zemlje najavljuju protumjere. Hrvatska ne očekuje da će biti ugrožena. Sindikati zadovoljni tvrde da se na cirkularni štrajk u Slavoniji odazvalo 5000 zaposlenika u obrazovanju. Urednica: Sanja Cota</description>
