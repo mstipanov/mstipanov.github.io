@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 04 Apr 2025 21:17:26 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 20:53:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.04. 2025-04-05</title>
+    <link>https://api.hrt.hr/media/bb/99/20250405-kronika-dana-36290495-20250405203601.mp3</link>
+    <description>Stupile na snagu nove američke osnovne carine od 10 posto, dodatne se uvode za nekoliko dana. Rih u Ukrajini proglasio trodnevnu žalost, Rusi u napadu ubili i devetero djece. Vojni rok će biti uveden najesen, očekuje ministar Anušić. Urednica: Sanja Cota.</description>
+    <pubDate>Sat, 05 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/99/20250405-kronika-dana-36290495-20250405203601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.04. 2025-04-04</title>
     <link>https://api.hrt.hr/media/57/06/20250404-kronika-dana-36288454-20250404205107.mp3</link>
     <description>Kina uzvraća, Sjedinjenim Državama uvodi carine od 34 posto. Identificirani posmrtni ostaci još 16 branitelja i civila, ekshumiranih iz masovne grobnice na Petrovačkoj doli. napali Krivij Rih, rodni grad Volodimira Zelenskog, ubijeno šestero djece.Urednica Sanja Cota.</description>
@@ -32,14 +40,6 @@
 Razbijena jedna od najvećih pedofilskih mreža, u Hrvatskoj osumnjičene dvije osobe.U 90-toj godini umro veliki skladatelj Alfi Kabiljo. Urednica: Sanja Cota</description>
     <pubDate>Wed, 02 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a1/fa/20250402-kronika-dana-36281127-20250402204055.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.04. 2025-04-01</title>
-    <link>https://api.hrt.hr/media/03/2b/20250401-kronika-dana-36277509-20250401203530.mp3</link>
-    <description>Nakon što je ispitan u USKOK-u, Ivan Lesandrić, suprug kandidatkinje za splitsko-dalmatinsku županicu Ivane Ninčević Lesandrić, pušten da se brani sa slobode. Referentu Draganu Pivčeviću, koji je Lesandriću omogućio iznajmljivanje bespravno izgrađene kuće, određen jednomjesečni pritvor. Od Zadra do Dubrovnika prvi od pet regionalnih štrajkova u školama, sindikati tvrde - odaziv oko 80 posto. Sutra na snagu stupaju nove američke carine na uvoz iz svih zemalja. Prodaja dodatnih ulaznica za Thompsonov koncert na zagrebačkom Hipodromu nastavlja se preksutra. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 01 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/03/2b/20250401-kronika-dana-36277509-20250401203530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
