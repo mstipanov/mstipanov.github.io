@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Apr 2025 20:53:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 20:58:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.04. 2025-04-06</title>
+    <link>https://api.hrt.hr/media/ef/08/20250406-kronika-dana-36292497-20250406205503.mp3</link>
+    <description>Hladna fronta stigla u Hrvatsku, temperature pale i do 15 stupnjeva, voćari na mukama. Europska komisija u srijedu donosi protumjere na američke sankcije. Papa Franjo prvi put nakon izlaska iz bolnice pojavio se među vjernicima na Trgu svetog Petra. Urednica: Marija Gerbec Njavro.</description>
+    <pubDate>Sun, 06 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ef/08/20250406-kronika-dana-36292497-20250406205503.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.04. 2025-04-05</title>
     <link>https://api.hrt.hr/media/bb/99/20250405-kronika-dana-36290495-20250405203601.mp3</link>
     <description>Stupile na snagu nove američke osnovne carine od 10 posto, dodatne se uvode za nekoliko dana. Rih u Ukrajini proglasio trodnevnu žalost, Rusi u napadu ubili i devetero djece. Vojni rok će biti uveden najesen, očekuje ministar Anušić. Urednica: Sanja Cota.</description>
@@ -31,15 +39,6 @@
     <description>Ne stišavaju se reakcije na nove Trumpove carine, Macron najavio da bi Francuska mogla prekinuti američke investicije. Održan štrajk u školama u Slavoniji. Sindikati kažu da se odazvalo pet tisuća zaposlenika, dok iz Vlade ponavljaju da razloga za štrajk nema. Prodano gotovo pola milijuna karata za Thompsonov koncert na Hipodromu 5. srpnja. Urednica: Mira Barić</description>
     <pubDate>Thu, 03 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/ed/20250403-kronika-dana-36284816-20250403203554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.04. 2025-04-02</title>
-    <link>https://api.hrt.hr/media/a1/fa/20250402-kronika-dana-36281127-20250402204055.mp3</link>
-    <description>Donald Trump uskoro objavljuje uvođenje carina na sve proizvode koje Sjedinjene Države uvoze.
-Razbijena jedna od najvećih pedofilskih mreža, u Hrvatskoj osumnjičene dvije osobe.U 90-toj godini umro veliki skladatelj Alfi Kabiljo. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 02 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a1/fa/20250402-kronika-dana-36281127-20250402204055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
