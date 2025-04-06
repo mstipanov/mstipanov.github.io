@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Apr 2025 13:51:52 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 13:57:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.04. 2025-04-06</title>
+    <link>https://api.hrt.hr/media/54/91/20250406-dnevne-novosti-36291813-20250406133007.mp3</link>
+    <description>Ukrajina silovito napadnuta ruskim balističkim raketama, Poljska i NATO-saveznici podignuli vojne zrakoplove. Europska komisija u srijedu donosi protumjere na američke sankcije. Netanjahu prvi čelnik koji se zbog carina sutra osobno sastaje s Trumpom. Papa Franjo pojavio se među vjernicima na Trgu svetog Petra. Zbog olujnog vjetra ograničenja u prometu, sutra slabiji vjetar, ali jutro hladno uz mraz. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 06 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/54/91/20250406-dnevne-novosti-36291813-20250406133007.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.04. 2025-04-05</title>
     <link>https://api.hrt.hr/media/8b/40/20250405-dnevne-novosti-36289795-20250405132600.mp3</link>
     <description>Stupile na snagu nove američke carine, neke su zemlje već uzvratile. Carine bi trebao potvrditi Kongres, smatraju Demokrati. 18 poginulih, među njima devetero djece, u noćašnjem ruskom napadu na ukrajinski grad Krivij Rih. Akrobatska skupina Krila Oluje slavi 20-tu obljetnicu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump uvodi najmanje 10 posto carina na sav uvoz u SAD, Kini su carine 54 posto, Europskoj uniji 20, Rusija nije na popisu. Nakon snažnog udara na svjetsku ekomomiju, mnoge zemlje najavljuju protumjere. Hrvatska ne očekuje da će biti ugrožena. Sindikati zadovoljni tvrde da se na cirkularni štrajk u Slavoniji odazvalo 5000 zaposlenika u obrazovanju. Urednica: Sanja Cota</description>
     <pubDate>Thu, 03 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/91/20250403-dnevne-novosti-36283796-20250403133059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.04. 2025-04-02</title>
-    <link>https://api.hrt.hr/media/d2/03/20250402-dnevne-novosti-36279972-20250402133551.mp3</link>
-    <description>Ministarstvo i školski sindikati iznijeli potpuno različite podatke o odazivu na jučerašnji štrajk u Dalmaciji. Svijet u strahu od sve snažnijega trgovinskog rata čeka nove carine koje danas uvodi američki predsjednik Donald Trump. Nesuglasice među članovima Povjerenstva za odlučivanje o sukobu interesa. Umro je veliki skladatelj, dirigent i aranžer Alfi Kabiljo. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 02 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d2/03/20250402-dnevne-novosti-36279972-20250402133551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
