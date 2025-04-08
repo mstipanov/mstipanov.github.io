@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 07 Apr 2025 06:00:12 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 06:06:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.04. 2025-04-08</title>
+    <link>https://api.hrt.hr/media/df/b7/20250408-jutarnja-kronika-36296345-20250408053523.mp3</link>
+    <description>Zbog carina, koje svima uvodi američki predsjednik Donald Trump, na svim svjetskim burzama zabilježen snažan pad vrijednosti dionica. U Saboru rasprava o izmjenama Zakona o društveno poticanoj stanogradnji. Štrajk prosvjetnih djelatnika jučer održan u Primorsko-goranskoj, Ličko-senjskoj i Istarskoj županiji. U Zagrebu počinje Jadranska vojna i zrakoplovna izložba i konferencija - najveća izložba vojne opreme i oružja na ovim prostorima. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 08 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/df/b7/20250408-jutarnja-kronika-36296345-20250408053523.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 07.04. 2025-04-07</title>
     <link>https://api.hrt.hr/media/e9/73/20250407-jutarnja-kronika-36293042-20250407054008.mp3</link>
     <description>Danas štrajk prosvjetara u Istarskoj, Primorsko-goranskoj i Ličko-senjskoj županiji. U Ministarstvu hrvatskih branitelja identifikacija sedam žrtava srpske agresije na Hrvatsku, čiji su posmrtni ostaci pronađeni u masovnoj grobnici Petrovačka dola. Jutros velik pad azijskih burzi zbog američkih carina. Ulagači strahuju od istog scenarija kada se otvori Wall Street. Voćari jutros strahuju od jutarnjeg mraza koji može desetkovati urod u voćnjacima. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Ruske snage balističkim projektilom napale rodni grad ukrajinskog predsjednika Zelenskog, najmanje 16 ubijenih, među njima šestero djece. Na snagu stupa Trumpova odluka o jedinstvenoj carini od 10 posto na sav američki uvoz. Od utorka poskupljuje gorivo. Eurosuper za tri centa, a dizel za 2 centa po litri. Baletom "Prekinute veze" u Zagrebu počinje 33. Muzički biennale. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 05 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7c/40/20250405-jutarnja-kronika-36288966-20250405053101.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.04. 2025-04-04</title>
-    <link>https://api.hrt.hr/media/5b/40/20250404-jutarnja-kronika-36285602-20250404053556.mp3</link>
-    <description>Ne stišavaju se reakcije na nove Trumpove carine. Održan štrajk u školama u Slavoniji. Sindikati kažu da se odazvalo pet tisuća zaposlenika, dok iz Vlade ponavljaju da razloga za štrajk nema. U prodaju puštene dodatne ulaznice za Thompsonov koncert na zagrebačkom hipodromu 5. srpnja. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 04 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5b/40/20250404-jutarnja-kronika-36285602-20250404053556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
