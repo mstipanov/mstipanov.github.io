@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Apr 2025 06:12:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 05:52:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.04. 2025-04-10</title>
+    <link>https://api.hrt.hr/media/a0/5a/20250410-jutarnja-kronika-36303158-20250410053512.mp3</link>
+    <description>Donald Trump na 90 dana odgodio carine svim zemljama, Kini ih podignuo na čak 125 posto. Prosvjedna nota Srbiji zbog sve više protjeranih hrvatskih državljana. U e-savjetovanje poslan je novi Zakon o mirovinskom osiguranju koji predviđa novu formulu za usklađivanje mirovina. U Zagrebu počinje Festival kave. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 10 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a0/5a/20250410-jutarnja-kronika-36303158-20250410053512.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.04. 2025-04-09</title>
     <link>https://api.hrt.hr/media/68/85/20250409-jutarnja-kronika-36299688-20250409053558.mp3</link>
     <description>Sjedinjene su Države na robu iz Kine uvele rekordne carine od 104 posto. Danas se očekuje odgovor Europske unije. Sedmorica jučer uhićenih zaposlenika Ministarstva vanjskih poslova priznalo krivnju za lažiranje putnih troškova. Najmanje 79 ljudi poginulo, više od 150 ozlijeđeno u urušavanju krova noćnog kluba u Santo Domingu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Danas štrajk prosvjetara u Istarskoj, Primorsko-goranskoj i Ličko-senjskoj županiji. U Ministarstvu hrvatskih branitelja identifikacija sedam žrtava srpske agresije na Hrvatsku, čiji su posmrtni ostaci pronađeni u masovnoj grobnici Petrovačka dola. Jutros velik pad azijskih burzi zbog američkih carina. Ulagači strahuju od istog scenarija kada se otvori Wall Street. Voćari jutros strahuju od jutarnjeg mraza koji može desetkovati urod u voćnjacima. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 07 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e9/73/20250407-jutarnja-kronika-36293042-20250407054008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.04. 2025-04-06</title>
-    <link>https://api.hrt.hr/media/b7/dc/20250406-jutarnja-kronika-36291083-20250406054502.mp3</link>
-    <description>Prosvjedi diljem Amerike zbog Trumpovih carina, dodatne se uvode za nekoliko dana. Krivi Rih u Ukrajini proglasio trodnevnu žalost, Rusi u napadu ubili i devetero djece.	Vojni rok bit će uveden najesen, očekuje ministar Anušić. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 06 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/dc/20250406-jutarnja-kronika-36291083-20250406054502.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
