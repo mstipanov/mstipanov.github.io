@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Apr 2025 20:49:19 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 21:00:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.04. 2025-04-10</title>
+    <link>https://api.hrt.hr/media/a4/7e/20250410-kronika-dana-36306343-20250410203520.mp3</link>
+    <description>Razbijena međunarodna narkoskupina, 45 uhićenih, zaplijenjeno 8 tona droga. Donald Trump još podignuo carine Kini na ukupno 145 posto. Ministar Šime Erlić dao ostavku, ide u utrku za zadarskoga gradonačelnika. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 10 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/7e/20250410-kronika-dana-36306343-20250410203520.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.04. 2025-04-09</title>
     <link>https://api.hrt.hr/media/8f/6d/20250409-kronika-dana-36302479-20250409204107.mp3</link>
     <description>Kina uzvratila s ukupno 84 posto carina na proizvode iz Sjedinjenih Država. Europska unija dogovorila protumjere na američke carine za aluminij i čelik. Hrvatska će Srbiji poslati prosvjednu notu zbog učestalog protjerivanja hrvatskih državljana. Fabio Cannavaro više nije trener Dinama. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump zaprijetio Kini dodatnim carinama od 50 posto. Na svim svjetskim burzama snažan pad vrijednosti dionica.Sve je spremno za početak provedbe temeljnog vojnog osposobljavanja ili - obveznog služenja vojnog roka.Nakon Dalmacije i Slavonije, danas se štrajkalo u osnovnim i srednjim školama te na fakultetima u Primorsko-goranskoj, Ličko-senjskoj i Istarskoj županiji. Urednica: Mira Barić</description>
     <pubDate>Mon, 07 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/89/db/20250407-kronika-dana-36295723-20250407204022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.04. 2025-04-06</title>
-    <link>https://api.hrt.hr/media/ef/08/20250406-kronika-dana-36292497-20250406205503.mp3</link>
-    <description>Hladna fronta stigla u Hrvatsku, temperature pale i do 15 stupnjeva, voćari na mukama. Europska komisija u srijedu donosi protumjere na američke sankcije. Papa Franjo prvi put nakon izlaska iz bolnice pojavio se među vjernicima na Trgu svetog Petra. Urednica: Marija Gerbec Njavro.</description>
-    <pubDate>Sun, 06 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ef/08/20250406-kronika-dana-36292497-20250406205503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
