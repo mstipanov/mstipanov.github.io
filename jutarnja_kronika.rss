@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Apr 2025 05:52:21 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 06:05:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.04. 2025-04-11</title>
+    <link>https://api.hrt.hr/media/b0/3b/20250411-jutarnja-kronika-36306986-20250411053542.mp3</link>
+    <description>Danas posljednji u nizu štrakova prosvjetnih djelatnika prije prosvjeda najavljenog za kraj mjeseca. Nastavlja se ispitivanje sudionika narkoafere u kojoj je uhićeno četrdesetak osoba. Carinski rat SAD-a s ostatkom svijeta se ne smiruje. U Beogradu se sinoć prosvjedovalo zbog protjerivanja hrvatske državljanke. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 11 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/3b/20250411-jutarnja-kronika-36306986-20250411053542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.04. 2025-04-10</title>
     <link>https://api.hrt.hr/media/a0/5a/20250410-jutarnja-kronika-36303158-20250410053512.mp3</link>
     <description>Donald Trump na 90 dana odgodio carine svim zemljama, Kini ih podignuo na čak 125 posto. Prosvjedna nota Srbiji zbog sve više protjeranih hrvatskih državljana. U e-savjetovanje poslan je novi Zakon o mirovinskom osiguranju koji predviđa novu formulu za usklađivanje mirovina. U Zagrebu počinje Festival kave. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Zbog carina, koje svima uvodi američki predsjednik Donald Trump, na svim svjetskim burzama zabilježen snažan pad vrijednosti dionica. U Saboru rasprava o izmjenama Zakona o društveno poticanoj stanogradnji. Štrajk prosvjetnih djelatnika jučer održan u Primorsko-goranskoj, Ličko-senjskoj i Istarskoj županiji. U Zagrebu počinje Jadranska vojna i zrakoplovna izložba i konferencija - najveća izložba vojne opreme i oružja na ovim prostorima. Urednik: Silvio Šop</description>
     <pubDate>Tue, 08 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/df/b7/20250408-jutarnja-kronika-36296345-20250408053523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.04. 2025-04-07</title>
-    <link>https://api.hrt.hr/media/e9/73/20250407-jutarnja-kronika-36293042-20250407054008.mp3</link>
-    <description>Danas štrajk prosvjetara u Istarskoj, Primorsko-goranskoj i Ličko-senjskoj županiji. U Ministarstvu hrvatskih branitelja identifikacija sedam žrtava srpske agresije na Hrvatsku, čiji su posmrtni ostaci pronađeni u masovnoj grobnici Petrovačka dola. Jutros velik pad azijskih burzi zbog američkih carina. Ulagači strahuju od istog scenarija kada se otvori Wall Street. Voćari jutros strahuju od jutarnjeg mraza koji može desetkovati urod u voćnjacima. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 07 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/73/20250407-jutarnja-kronika-36293042-20250407054008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
