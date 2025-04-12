@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 05:39:39 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 06:09:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 12.04. 2025-04-12</title>
+    <link>https://api.hrt.hr/media/4f/80/20250412-jutarnja-kronika-36310425-20250412054048.mp3</link>
+    <description>Uhićeni pjevač Mile Kekin, ispitan u USKOK-u pa pušten na slobodu, opovrgnuo optužbe za zloporabe sa zemljištem u Istri. U Saboru odbijen prijedlog o razrješenju glavnoga državnog odvjetnika Ivana Turudića. Dovršena istraga nad 45 osumnjičenika za krijumčarenje više od devet tona droge, za 38 zatražen pritvor. Nastavlja se carinski rat SAD-a i Kine, u Srbiji veliki Vučićev skup, u Omanu američko-iranski pregovori o iranskom nuklearnom programu. Urednica: Ana-Bella Leikauff</description>
+    <pubDate>Sat, 12 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4f/80/20250412-jutarnja-kronika-36310425-20250412054048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 11.04. 2025-04-11</title>
     <link>https://api.hrt.hr/media/b0/3b/20250411-jutarnja-kronika-36306986-20250411053542.mp3</link>
     <description>Danas posljednji u nizu štrakova prosvjetnih djelatnika prije prosvjeda najavljenog za kraj mjeseca. Nastavlja se ispitivanje sudionika narkoafere u kojoj je uhićeno četrdesetak osoba. Carinski rat SAD-a s ostatkom svijeta se ne smiruje. U Beogradu se sinoć prosvjedovalo zbog protjerivanja hrvatske državljanke. Urednik: Grgo Mrvica</description>
