@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 06:09:46 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 05:46:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.04. 2025-04-13</title>
+    <link>https://api.hrt.hr/media/27/84/20250413-jutarnja-kronika-36312909-20250413053547.mp3</link>
+    <description>Slučaj Momjan - Županijski sud u Rijeci za troje osumnjičenih odredio jednomjesečni istražni zatvor. Američki predsjednik Donald Trump izuzeo pametne telefone, računala i druge elektroničke uređaje iz novog paketa carina. Projektom "Hrvatska - Klimaraznolikost" naša zemlja predstavlja se na Svjetskoj izložbi EXPO 2025 u Osaki. Cvjetna je nedjelja, početak uskrsnog Velikog tjedna. Urednik Silvio Šop</description>
+    <pubDate>Sun, 13 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/84/20250413-jutarnja-kronika-36312909-20250413053547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.04. 2025-04-12</title>
     <link>https://api.hrt.hr/media/4f/80/20250412-jutarnja-kronika-36310425-20250412054048.mp3</link>
     <description>Uhićeni pjevač Mile Kekin, ispitan u USKOK-u pa pušten na slobodu, opovrgnuo optužbe za zloporabe sa zemljištem u Istri. U Saboru odbijen prijedlog o razrješenju glavnoga državnog odvjetnika Ivana Turudića. Dovršena istraga nad 45 osumnjičenika za krijumčarenje više od devet tona droge, za 38 zatražen pritvor. Nastavlja se carinski rat SAD-a i Kine, u Srbiji veliki Vučićev skup, u Omanu američko-iranski pregovori o iranskom nuklearnom programu. Urednica: Ana-Bella Leikauff</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump na 90 dana odgodio carine svim zemljama, Kini ih podignuo na čak 125 posto. Prosvjedna nota Srbiji zbog sve više protjeranih hrvatskih državljana. U e-savjetovanje poslan je novi Zakon o mirovinskom osiguranju koji predviđa novu formulu za usklađivanje mirovina. U Zagrebu počinje Festival kave. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 10 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a0/5a/20250410-jutarnja-kronika-36303158-20250410053512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.04. 2025-04-09</title>
-    <link>https://api.hrt.hr/media/68/85/20250409-jutarnja-kronika-36299688-20250409053558.mp3</link>
-    <description>Sjedinjene su Države na robu iz Kine uvele rekordne carine od 104 posto. Danas se očekuje odgovor Europske unije. Sedmorica jučer uhićenih zaposlenika Ministarstva vanjskih poslova priznalo krivnju za lažiranje putnih troškova. Najmanje 79 ljudi poginulo, više od 150 ozlijeđeno u urušavanju krova noćnog kluba u Santo Domingu. Urednica: Mira Barić</description>
-    <pubDate>Wed, 09 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/68/85/20250409-jutarnja-kronika-36299688-20250409053558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
