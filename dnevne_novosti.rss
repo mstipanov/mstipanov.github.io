@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 13:41:08 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 13:47:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.04. 2025-04-13</title>
+    <link>https://api.hrt.hr/media/82/e3/20250413-dnevne-novosti-36313833-20250413133052.mp3</link>
+    <description>Najmanje 32-oje ljudi ubijeno, više od 80-ero ozlijeđeno u ruskom raketnom napadu na ukrajinski grad Sumi.Nešto više od mjesec dana do lokalnih izbora, kampanja se ozbiljno zahuktala. Posebice će zanimljivo biti u Rijeci, Zadru i Splitu. Blagdan je Cvjetnice, početak Velikog tjedna, papa Franjo pred vjernicima na Trgu svetog Petra. Urednica Mira Barić</description>
+    <pubDate>Sun, 13 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/82/e3/20250413-dnevne-novosti-36313833-20250413133052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.04. 2025-04-12</title>
     <link>https://api.hrt.hr/media/ac/96/20250412-dnevne-novosti-36311436-20250412133047.mp3</link>
     <description>USKOK pokrenuo istragu protiv šest osoba zbog sumnje na malverzacije s nekretninama u Istri.U Zagrebu prosvjed zaposlenih u dječjim vrtićima. Bijela kuća tvrdi da dobiva ponude za postizanje sporazuma o carinama, Kina svoje carine Americi više neće podizati. Urednica Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Uhićeno 40-ak osoba u sedam županija koje se sumnjiči za krijumčarenje i preprodaju droga. Zbog protjerivanja hrvatskih državljana, Hrvatska Srbiji poslala prosvjednu notu, o svemu obaviještena i Europska unija. Nakon Trumpove odluke da odgodi primjenu carina svima osim Kini, financijska tržišta zabilježila veliki rast. Kini carine podignuo na čak 125 posto i izazvao oštre reakcije drugoga gospodarstva svijeta. Urednica: Mira Barić</description>
     <pubDate>Thu, 10 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9e/57/20250410-dnevne-novosti-36305023-20250410133023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.04. 2025-04-09</title>
-    <link>https://api.hrt.hr/media/46/36/20250409-dnevne-novosti-36301591-20250409133103.mp3</link>
-    <description>Nastavlja se carinski rat Sjedinjenih Država i Kine. Nakon američkih 104 posto Kina najavila dodatne carine od 50 posto na američku robu U Saboru rasprava o SDP-ovoj inicijativi za smjenu glavnoga državnog odvjetnika Turudića. Grad Split postao vlasnik Spaladium Arene. Fabio Cannavaro više nije trener Dinama. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 09 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/36/20250409-dnevne-novosti-36301591-20250409133103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
