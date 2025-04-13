@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 21:12:33 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 20:51:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.04. 2025-04-13</title>
+    <link>https://api.hrt.hr/media/ef/7b/20250413-kronika-dana-36314662-20250413204053.mp3</link>
+    <description>U ruskom napadu balističkim raketama na grad Sumi na sjeveroistoku Ukrajine ubijene najmanje 34 osobe, među njima i dvoje djece, 117 ranjenih. Uhićenje Mile Kekina nije bilo politički motivirano, kaže glavni državni odvjetnik Ivan Turudić. Blagdan je Cvjetnice, početak Velikog tjedna, papa Franjo pred vjernicima na Trgu svetog Petra. Zvonimir Boban vraća se u Dinamo, potvrdila večeras Uprava kluba. Urednica: Ana-Bella Leikauff</description>
+    <pubDate>Sun, 13 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ef/7b/20250413-kronika-dana-36314662-20250413204053.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.04. 2025-04-12</title>
     <link>https://api.hrt.hr/media/14/5e/20250412-kronika-dana-36312349-20250412205546.mp3</link>
     <description>USKOK pokrenuo istragu protiv šest osoba zbog sumnje na malverzacije s nekretninama u Istri. Županijski sud u Rijeci za troje odredio jednomjesečni istražni zatvor. Američki predsjednik Donald Trump izuzeo pametne telefone, računala i druge elektroničke uređaje iz novog paketa carina. U Zagrebu održan prosvjed zaposlenih u dječjim vrtićima. Umro je legendarni pjevač Crvenih koralja - Boris Babarović. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Razbijena međunarodna narkoskupina, 45 uhićenih, zaplijenjeno 8 tona droga. Donald Trump još podignuo carine Kini na ukupno 145 posto. Ministar Šime Erlić dao ostavku, ide u utrku za zadarskoga gradonačelnika. Urednica: Sanja Cota</description>
     <pubDate>Thu, 10 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a4/7e/20250410-kronika-dana-36306343-20250410203520.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.04. 2025-04-09</title>
-    <link>https://api.hrt.hr/media/8f/6d/20250409-kronika-dana-36302479-20250409204107.mp3</link>
-    <description>Kina uzvratila s ukupno 84 posto carina na proizvode iz Sjedinjenih Država. Europska unija dogovorila protumjere na američke carine za aluminij i čelik. Hrvatska će Srbiji poslati prosvjednu notu zbog učestalog protjerivanja hrvatskih državljana. Fabio Cannavaro više nije trener Dinama. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 09 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8f/6d/20250409-kronika-dana-36302479-20250409204107.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
