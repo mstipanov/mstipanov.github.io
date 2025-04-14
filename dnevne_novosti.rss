@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 13 Apr 2025 13:47:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 13:54:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.04. 2025-04-14</title>
+    <link>https://api.hrt.hr/media/61/3f/20250414-dnevne-novosti-36317180-20250414133055.mp3</link>
+    <description>Vlada raspisala lokalne izbore za 18. svibnja. Otkazana sjednica zagrebačke Gradske skupštine o izmjenama GUP-a. Predsjednik Skupštine Joško Klisović optužio državu za blokadu grada. Odvjetnik Anto Nobilo osnovao stranku Novi SDP. Zagrebački gradonačelnik Tomašević tvrdi - razlog je 50 milijuna eura izmaknute dobiti. Zvonimir Boban se vraća u Dinamo. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 14 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/61/3f/20250414-dnevne-novosti-36317180-20250414133055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.04. 2025-04-13</title>
     <link>https://api.hrt.hr/media/82/e3/20250413-dnevne-novosti-36313833-20250413133052.mp3</link>
     <description>Najmanje 32-oje ljudi ubijeno, više od 80-ero ozlijeđeno u ruskom raketnom napadu na ukrajinski grad Sumi.Nešto više od mjesec dana do lokalnih izbora, kampanja se ozbiljno zahuktala. Posebice će zanimljivo biti u Rijeci, Zadru i Splitu. Blagdan je Cvjetnice, početak Velikog tjedna, papa Franjo pred vjernicima na Trgu svetog Petra. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Uhićen pjevač Mile Kekin, sumnja se da je u Istri kupio zemljište po znatno nižoj cijeni. U Saboru odbijen prijedlog o razrješenju Ivana Turudića! U pet županija i Gradu Zagrebu štrajka više od 12 tisuća zaposlenih u obrazovanju. Kina američku robu carini sa 125 posto te istodobno jača trgovinske veze s Europom. Urednica: Sanja Cota</description>
     <pubDate>Fri, 11 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c3/36/20250411-dnevne-novosti-36308934-20250411133044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.04. 2025-04-10</title>
-    <link>https://api.hrt.hr/media/9e/57/20250410-dnevne-novosti-36305023-20250410133023.mp3</link>
-    <description>Uhićeno 40-ak osoba u sedam županija koje se sumnjiči za krijumčarenje i preprodaju droga. Zbog protjerivanja hrvatskih državljana, Hrvatska Srbiji poslala prosvjednu notu, o svemu obaviještena i Europska unija. Nakon Trumpove odluke da odgodi primjenu carina svima osim Kini, financijska tržišta zabilježila veliki rast. Kini carine podignuo na čak 125 posto i izazvao oštre reakcije drugoga gospodarstva svijeta. Urednica: Mira Barić</description>
-    <pubDate>Thu, 10 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9e/57/20250410-dnevne-novosti-36305023-20250410133023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
