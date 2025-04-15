@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Apr 2025 13:54:13 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 14:00:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.04. 2025-04-15</title>
+    <link>https://api.hrt.hr/media/a4/c2/20250415-dnevne-novosti-36320499-20250415132555.mp3</link>
+    <description>U ponoć počinju teći izborni rokovi za lokalne izbore. Od danas nova naredba Ministarstva poljoprivrede o ranom otkrivanju i suzbijanju slinavke i šapa. Poljski predsjednik Andrzej Duda, koji je u službenom posjetu našoj zemlji, pozvao Hrvatsku da poveća broj svojih vojnika u NATO-voj misiji u Poljskoj. Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 15 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/c2/20250415-dnevne-novosti-36320499-20250415132555.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.04. 2025-04-14</title>
     <link>https://api.hrt.hr/media/61/3f/20250414-dnevne-novosti-36317180-20250414133055.mp3</link>
     <description>Vlada raspisala lokalne izbore za 18. svibnja. Otkazana sjednica zagrebačke Gradske skupštine o izmjenama GUP-a. Predsjednik Skupštine Joško Klisović optužio državu za blokadu grada. Odvjetnik Anto Nobilo osnovao stranku Novi SDP. Zagrebački gradonačelnik Tomašević tvrdi - razlog je 50 milijuna eura izmaknute dobiti. Zvonimir Boban se vraća u Dinamo. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>USKOK pokrenuo istragu protiv šest osoba zbog sumnje na malverzacije s nekretninama u Istri.U Zagrebu prosvjed zaposlenih u dječjim vrtićima. Bijela kuća tvrdi da dobiva ponude za postizanje sporazuma o carinama, Kina svoje carine Americi više neće podizati. Urednica Sanja Cota</description>
     <pubDate>Sat, 12 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ac/96/20250412-dnevne-novosti-36311436-20250412133047.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.04. 2025-04-11</title>
-    <link>https://api.hrt.hr/media/c3/36/20250411-dnevne-novosti-36308934-20250411133044.mp3</link>
-    <description>Uhićen pjevač Mile Kekin, sumnja se da je u Istri kupio zemljište po znatno nižoj cijeni. U Saboru odbijen prijedlog o razrješenju Ivana Turudića! U pet županija i Gradu Zagrebu štrajka više od 12 tisuća zaposlenih u obrazovanju. Kina američku robu carini sa 125 posto te istodobno jača trgovinske veze s Europom. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 11 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c3/36/20250411-dnevne-novosti-36308934-20250411133044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
