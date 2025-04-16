@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 15 Apr 2025 14:00:31 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 13:36:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.04. 2025-04-16</title>
+    <link>https://api.hrt.hr/media/0d/77/20250416-dnevne-novosti-36324062-20250416133103.mp3</link>
+    <description>Slovački premijer Robert Fico u posjetu Hrvatskoj. Kina može biti pogođena carinom od čak 245 posto, stoji među novim izvršnim uredbama američkog predsjednika. Sindikati izračunali - najjeftinija uskrsna košarica za tročlanu obitelj 122 eura, najskuplja 435. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 16 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/77/20250416-dnevne-novosti-36324062-20250416133103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.04. 2025-04-15</title>
     <link>https://api.hrt.hr/media/a4/c2/20250415-dnevne-novosti-36320499-20250415132555.mp3</link>
     <description>U ponoć počinju teći izborni rokovi za lokalne izbore. Od danas nova naredba Ministarstva poljoprivrede o ranom otkrivanju i suzbijanju slinavke i šapa. Poljski predsjednik Andrzej Duda, koji je u službenom posjetu našoj zemlji, pozvao Hrvatsku da poveća broj svojih vojnika u NATO-voj misiji u Poljskoj. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Najmanje 32-oje ljudi ubijeno, više od 80-ero ozlijeđeno u ruskom raketnom napadu na ukrajinski grad Sumi.Nešto više od mjesec dana do lokalnih izbora, kampanja se ozbiljno zahuktala. Posebice će zanimljivo biti u Rijeci, Zadru i Splitu. Blagdan je Cvjetnice, početak Velikog tjedna, papa Franjo pred vjernicima na Trgu svetog Petra. Urednica Mira Barić</description>
     <pubDate>Sun, 13 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/82/e3/20250413-dnevne-novosti-36313833-20250413133052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.04. 2025-04-12</title>
-    <link>https://api.hrt.hr/media/ac/96/20250412-dnevne-novosti-36311436-20250412133047.mp3</link>
-    <description>USKOK pokrenuo istragu protiv šest osoba zbog sumnje na malverzacije s nekretninama u Istri.U Zagrebu prosvjed zaposlenih u dječjim vrtićima. Bijela kuća tvrdi da dobiva ponude za postizanje sporazuma o carinama, Kina svoje carine Americi više neće podizati. Urednica Sanja Cota</description>
-    <pubDate>Sat, 12 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ac/96/20250412-dnevne-novosti-36311436-20250412133047.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
