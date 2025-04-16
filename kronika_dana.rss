@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 15 Apr 2025 21:01:51 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 21:07:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.04. 2025-04-16</title>
+    <link>https://api.hrt.hr/media/fe/03/20250416-kronika-dana-36325074-20250416203557.mp3</link>
+    <description>Slovački premijer Robert Fico u posjetu Hrvatskoj. U privatnom domu kod Rijeke vlasnik nestao te stare i nemoćne korisnike ostavio zaključane bez nadzora i skrbi. Sindikati izračunali - najjeftinija uskrsna košarica za tročlanu obitelj 122 eura, najskuplja 435.</description>
+    <pubDate>Wed, 16 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fe/03/20250416-kronika-dana-36325074-20250416203557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.04. 2025-04-15</title>
     <link>https://api.hrt.hr/media/40/94/20250415-kronika-dana-36321424-20250415205104.mp3</link>
     <description>U Stuttgartu pronađena djevojčica iz Hrvatske za kojom se tragalo tri dana. Ukrajinske snage uništile rusku raketnu brigadu koja je izvela krvavi napad na grad Sumi.tajnik NATO-a iznenada posjetio Ukrajinu. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U ruskom napadu balističkim raketama na grad Sumi na sjeveroistoku Ukrajine ubijene najmanje 34 osobe, među njima i dvoje djece, 117 ranjenih. Uhićenje Mile Kekina nije bilo politički motivirano, kaže glavni državni odvjetnik Ivan Turudić. Blagdan je Cvjetnice, početak Velikog tjedna, papa Franjo pred vjernicima na Trgu svetog Petra. Zvonimir Boban vraća se u Dinamo, potvrdila večeras Uprava kluba. Urednica: Ana-Bella Leikauff</description>
     <pubDate>Sun, 13 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ef/7b/20250413-kronika-dana-36314662-20250413204053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.04. 2025-04-12</title>
-    <link>https://api.hrt.hr/media/14/5e/20250412-kronika-dana-36312349-20250412205546.mp3</link>
-    <description>USKOK pokrenuo istragu protiv šest osoba zbog sumnje na malverzacije s nekretninama u Istri. Županijski sud u Rijeci za troje odredio jednomjesečni istražni zatvor. Američki predsjednik Donald Trump izuzeo pametne telefone, računala i druge elektroničke uređaje iz novog paketa carina. U Zagrebu održan prosvjed zaposlenih u dječjim vrtićima. Umro je legendarni pjevač Crvenih koralja - Boris Babarović. Urednik Silvio Šop</description>
-    <pubDate>Sat, 12 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/14/5e/20250412-kronika-dana-36312349-20250412205546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
