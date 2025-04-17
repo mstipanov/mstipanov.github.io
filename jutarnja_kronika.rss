@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Apr 2025 05:39:19 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 06:09:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 17.04. 2025-04-17</title>
+    <link>https://api.hrt.hr/media/51/a4/20250417-jutarnja-kronika-36325743-20250417054102.mp3</link>
+    <description>Slovački premijer Robert Fico posjetio je jučer Hrvatsku - istaknuti su dobri odnosi dviju država, ali i različita stajališta o ratu u Ukrajini. Strašan događaj u privatnom domu kod Rijeke - vlasnik nestao, a stare i nemoćne korisnike ostavio zaključane bez nadzora i skrbi. Kreću prve isplate uvećanih rodiljnih i roditeljskih naknada. Velikim četvrtkom kršćani ulaze u sveto trodnevlje koje završava Uskrsom. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 17 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/51/a4/20250417-jutarnja-kronika-36325743-20250417054102.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 16.04. 2025-04-16</title>
     <link>https://api.hrt.hr/media/73/d2/20250416-jutarnja-kronika-36322145-20250416054057.mp3</link>
     <description>U posjet Hrvatskoj dolazi slovački premijer Robert Fico. Počeli su teći rokovi za kandidature na lokalnim izborima, koji će se održati 18. svibnja. Nikad skuplja uskrsna košarica, očekuje se potrošnja od gotovo dvije milijarde eura. Ukrajinske snage uništile rusku raketnu brigadu koja je izvela krvavi napad na grad Sumi. Urednik: Silvio Šop</description>
