@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Apr 2025 20:42:51 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 22:43:14 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.04. 2025-04-17</title>
+    <link>https://api.hrt.hr/media/3e/54/20250417-kronika-dana-36328756-20250417222558.mp3</link>
+    <description>U Washingtonu se sastali Donald Trump i Giorgia Meloni. Premijer Plenković poslao predsjedniku Milanoviću nacrt Strategije obrane i Plana razvoja vojske. Na Hvaru po kiši i jakom jugu krenula procesija Za križen. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 17 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3e/54/20250417-kronika-dana-36328756-20250417222558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.04. 2025-04-16</title>
     <link>https://api.hrt.hr/media/fe/03/20250416-kronika-dana-36325074-20250416203557.mp3</link>
     <description>Slovački premijer Robert Fico u posjetu Hrvatskoj. U privatnom domu kod Rijeke vlasnik nestao te stare i nemoćne korisnike ostavio zaključane bez nadzora i skrbi. Sindikati izračunali - najjeftinija uskrsna košarica za tročlanu obitelj 122 eura, najskuplja 435.</description>
