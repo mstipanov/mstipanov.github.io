@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Apr 2025 16:29:19 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 16:12:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Mirjana Margetić 2025-04-17</title>
+    <link>https://api.hrt.hr/media/38/48/20250417-historia-histriae-8175004-20250417153559.mp3</link>
+    <description>Pričamo o uskršnjim običajima u Istri uz Mirjanu Margetić iz Etnografskog muzeja u Pazinu. </description>
+    <pubDate>Thu, 17 Apr 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/38/48/20250417-historia-histriae-8175004-20250417153559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Narodna predaja 2025-04-10</title>
     <link>https://api.hrt.hr/media/9c/2d/20250410-historia-histriae-8172685-20250410160520.mp3</link>
     <description>Poslušajte zaboravljene priče i štorice koje čine mozaik istarske narodne predaje uz našeg Kristijana Žgaljardića</description>
@@ -79,14 +87,6 @@
     <description>Pričamo o osobnim imenima u Istri u ranom novom vijeku uz dr.sc. Danijelu Doblanović Šuran </description>
     <pubDate>Thu, 30 Jan 2025 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b2/9a/20250130-historia-histriae-8151127-20250130170053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Historia Histriae 23.01.2025. 2025-01-23</title>
-    <link>https://api.hrt.hr/media/79/31/20250123-historia-histriae-8148719-20250123165012.mp3</link>
-    <description>Priče iz nacističkih logora uz Igora Jovanovića i Igora Šaponju. </description>
-    <pubDate>Thu, 23 Jan 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/31/20250123-historia-histriae-8148719-20250123165012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
