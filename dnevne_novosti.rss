@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Apr 2025 13:41:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 14:11:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.04. 2025-04-17</title>
+    <link>https://api.hrt.hr/media/b6/a1/20250417-dnevne-novosti-36327521-20250417135600.mp3</link>
+    <description>Sinoć i jutros četvero poginulih na našim cestama. Narančasti meteoalarm za Jadran. Zbog jakog juga problemi u pomorskom prometu. čki državni tajnik Rubio u Parizu s europskim čelnicima razgovara o mirovnom planu za Ukrajinu. Veliki je četvrtak, vjernici s velikim zanimanjem iščekuju hoće li Papa sudjelovati na Misi večere Gospodnje i obredu pranja nogu. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 17 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b6/a1/20250417-dnevne-novosti-36327521-20250417135600.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.04. 2025-04-16</title>
     <link>https://api.hrt.hr/media/0d/77/20250416-dnevne-novosti-36324062-20250416133103.mp3</link>
     <description>Slovački premijer Robert Fico u posjetu Hrvatskoj. Kina može biti pogođena carinom od čak 245 posto, stoji među novim izvršnim uredbama američkog predsjednika. Sindikati izračunali - najjeftinija uskrsna košarica za tročlanu obitelj 122 eura, najskuplja 435. Urednica: Sanja Cota</description>
