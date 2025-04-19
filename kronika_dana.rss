@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 19 Apr 2025 20:52:32 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 21:22:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.04. 2025-04-19</title>
+    <link>https://api.hrt.hr/media/c7/fd/20250419-kronika-dana-36334212-20250419211020.mp3</link>
+    <description>Ruski predsjednik Vladimir Putin proglasio uskrsno primirje u sukobu u Ukrajini, koje je počelo večeras i trajat će do nedjelje u ponoć. Policija objavila pojedinosti teške prometne nesreće u Karlovcu u kojoj je poginuo bivši nogometni reprezentativac Nikola Pokrivač.U crkvama večeras vazmena bdjenja i vrhunac svetog trodnevlja. Papa Franjo nakratko se pojavio u bazilici svetog Petra. Urednica: Mira Barić</description>
+    <pubDate>Sat, 19 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/fd/20250419-kronika-dana-36334212-20250419211020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.04. 2025-04-18</title>
     <link>https://api.hrt.hr/media/27/91/20250418-kronika-dana-36332132-20250418205023.mp3</link>
     <description>Branimir Glavaš najavio povratak u politiku - kandidirat će se za župana Osječko-baranjske županije. Prvi ročnici obveznoga vojnog roka trebali bi biti u vojarnama krajem ove ili početkom iduće godine. Procurio američki plan za kraj rata: Ukrajina gubi teritorije koje je osvojila Rusija i neće ući u NATO, a Rusija će dobiti blaže sankcije. Veliki je petak - spomen na muku i Isusovu smrt na križu. Urednik: Silvio Šop</description>
