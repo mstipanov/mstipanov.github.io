@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Apr 2025 05:44:31 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 05:49:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.04. 2025-04-19</title>
+    <link>https://api.hrt.hr/media/a2/ef/20250419-jutarnja-kronika-36332638-20250419053021.mp3</link>
+    <description>U teškoj prometnoj nesreći sinoć u Karlovcu poginuo bivši nogometni reprezentativac, igrač Dinama Nikola Pokrivač. Procurio američki plan za kraj rata: Ukrajina gubi teritorije koje je osvojila Rusija i neće ući u NATO, a Rusija će dobiti blaže sankcije. Na Veliku subotu u crkvama vazmeno bdijenje. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 19 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a2/ef/20250419-jutarnja-kronika-36332638-20250419053021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.04. 2025-04-18</title>
     <link>https://api.hrt.hr/media/79/41/20250418-jutarnja-kronika-36329550-20250418053513.mp3</link>
     <description>U Washingtonu se sastali Donald Trump i Giorgia Meloni. Trump pristao na službeni posjet Rimu. Premijer Plenković poslao predsjedniku Milanoviću nacrt Strategije obrane i Plana razvoja vojske. Veliki je petak, dan muke Kristove, diljem zemlje dijelit će se riblji doručak na otvorenom. Na Hvaru održana tradicionalna procesija za križen.</description>
@@ -31,14 +39,6 @@
     <description>U posjet Hrvatskoj dolazi slovački premijer Robert Fico. Počeli su teći rokovi za kandidature na lokalnim izborima, koji će se održati 18. svibnja. Nikad skuplja uskrsna košarica, očekuje se potrošnja od gotovo dvije milijarde eura. Ukrajinske snage uništile rusku raketnu brigadu koja je izvela krvavi napad na grad Sumi. Urednik: Silvio Šop</description>
     <pubDate>Wed, 16 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/73/d2/20250416-jutarnja-kronika-36322145-20250416054057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.04. 2025-04-15</title>
-    <link>https://api.hrt.hr/media/d3/4f/20250415-jutarnja-kronika-36318862-20250415054057.mp3</link>
-    <description>Danas isplata 50 eura uskrsnice svim umirovljenicima. Loklani izbori raspisani za nedjelju, 18 svibnja. Vlada nakon slučaja Kekin mijenja Zakon o pravima samostalnih umjetnika i neće više uplaćivati doprinose o trošku poreznih obveznika onima koji odlično zarađuju. Poljski predsjednik Duda u Zagrebu. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 15 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/4f/20250415-jutarnja-kronika-36318862-20250415054057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
