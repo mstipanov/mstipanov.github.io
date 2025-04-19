@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Apr 2025 13:46:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 13:51:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 19.04. 2025-04-19</title>
+    <link>https://api.hrt.hr/media/78/e0/20250419-dnevne-novosti-36333422-20250419133020.mp3</link>
+    <description>Četverostruki sudar u kojemu je sinoć poginuo nogometaš Nikola Pokrivač skrivio je slovenski državljanin pretičući preko pune crte. I danas potencijalni kandidati na lokalnim izborima skupljaju potpise građana. Sjedinjene Države spremne su priznati ruski nadzor nad Krimom kao dio prijedloga za završetak rata u Ukrajini. Velika je subota, dan spokoja uoči Uskrsa. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 19 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/78/e0/20250419-dnevne-novosti-36333422-20250419133020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 18.04. 2025-04-18</title>
     <link>https://api.hrt.hr/media/bc/c2/20250418-dnevne-novosti-36331208-20250418134017.mp3</link>
     <description>Sjednica Vijeća za obranu održat će se sljedeći mjesec, predsjednik Milanović složio se s prijedlogom premijera Plenkovića. Amerika prijeti povlačenjem iz pregovora o ratu u Ukrajini. Veliki je petak - spomen na muku i Isusovu smrt na križu! Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Slovački premijer Robert Fico u posjetu Hrvatskoj. Kina može biti pogođena carinom od čak 245 posto, stoji među novim izvršnim uredbama američkog predsjednika. Sindikati izračunali - najjeftinija uskrsna košarica za tročlanu obitelj 122 eura, najskuplja 435. Urednica: Sanja Cota</description>
     <pubDate>Wed, 16 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0d/77/20250416-dnevne-novosti-36324062-20250416133103.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 15.04. 2025-04-15</title>
-    <link>https://api.hrt.hr/media/a4/c2/20250415-dnevne-novosti-36320499-20250415132555.mp3</link>
-    <description>U ponoć počinju teći izborni rokovi za lokalne izbore. Od danas nova naredba Ministarstva poljoprivrede o ranom otkrivanju i suzbijanju slinavke i šapa. Poljski predsjednik Andrzej Duda, koji je u službenom posjetu našoj zemlji, pozvao Hrvatsku da poveća broj svojih vojnika u NATO-voj misiji u Poljskoj. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 15 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a4/c2/20250415-dnevne-novosti-36320499-20250415132555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
