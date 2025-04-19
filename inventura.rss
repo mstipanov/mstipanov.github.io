@@ -6,7 +6,7 @@
         <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 06:39:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 06:49:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/4a/c0/inventura-tjedan-pod-povecalom-20220324112020.webp</url><title>Inventura - tjedan pod povećalom</title><link>https://radio.hrt.hr/slusaonica/inventura-tjedan-pod-povecalom</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
     <pubDate>Sat, 29 Mar 2025 06:30:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/c6/20250329-inventura-tjedan-pod-povecalom-36265813-20250328192505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Inventura 22.03.25. 2025-03-22</title>
-    <link>https://api.hrt.hr/media/dd/1a/20250322-inventura-tjedan-pod-povecalom-36243265-20250321162552.mp3</link>
-    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
-    <pubDate>Sat, 22 Mar 2025 06:30:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dd/1a/20250322-inventura-tjedan-pod-povecalom-36243265-20250321162552.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
