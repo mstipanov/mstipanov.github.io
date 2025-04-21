@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 20 Apr 2025 13:56:01 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 14:01:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.04. 2025-04-21</title>
+    <link>https://api.hrt.hr/media/0f/ea/20250421-dnevne-novosti-36338055-20250421134026.mp3</link>
+    <description>Katolički vjernici diljem svijeta tuguju, a čelnici mnogih država ističu da je bio papa najranjivijih. Datum pogreba još se ne zna, prema želji pape Franje bit će skromniji i u bazilici Sv Marije Velike. I još o vremenu sutra: na Jadranu uglavnom sunčano, u unutrašnjosti mjestimice pljuskovi; i dalje toplo, s temperaturom do 25 stupnjeva. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 21 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/ea/20250421-dnevne-novosti-36338055-20250421134026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.04. 2025-04-20</title>
     <link>https://api.hrt.hr/media/25/1b/20250420-dnevne-novosti-36335762-20250420132520.mp3</link>
     <description>Diljem zemlje svečane mise i blagdanske poruke mira i nade. U Vatikanu papa Franjo pojavio se u kolicima na lođi bazilike svetog Petra, vjernicima čestitao Uskrs i uputio blagoslov. Poruku gradu i svijetu pročitao njegov izaslanik. Ove godine svi kršćani slave Uskrs isti dan, što je prava rijetkost. Unatoč proglašenom blagdanskom primirju u Ukrajini, obje strane međusobno se prozivaju za njegovo kršenje. Ruski patrijarh Kiril pozvao na obnovu Rusije u granicama nekadašnjeg carstva. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Sjednica Vijeća za obranu održat će se sljedeći mjesec, predsjednik Milanović složio se s prijedlogom premijera Plenkovića. Amerika prijeti povlačenjem iz pregovora o ratu u Ukrajini. Veliki je petak - spomen na muku i Isusovu smrt na križu! Urednica: Sanja Cota</description>
     <pubDate>Fri, 18 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/bc/c2/20250418-dnevne-novosti-36331208-20250418134017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.04. 2025-04-17</title>
-    <link>https://api.hrt.hr/media/b6/a1/20250417-dnevne-novosti-36327521-20250417135600.mp3</link>
-    <description>Sinoć i jutros četvero poginulih na našim cestama. Narančasti meteoalarm za Jadran. Zbog jakog juga problemi u pomorskom prometu. čki državni tajnik Rubio u Parizu s europskim čelnicima razgovara o mirovnom planu za Ukrajinu. Veliki je četvrtak, vjernici s velikim zanimanjem iščekuju hoće li Papa sudjelovati na Misi večere Gospodnje i obredu pranja nogu. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 17 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b6/a1/20250417-dnevne-novosti-36327521-20250417135600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
