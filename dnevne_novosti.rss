@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 21 Apr 2025 14:01:49 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 13:36:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.04. 2025-04-22</title>
+    <link>https://api.hrt.hr/media/95/17/20250422-dnevne-novosti-36341180-20250422133527.mp3</link>
+    <description>Pogreb pape Franje bit će u subotu, taj dan u Hrvatskoj - Dan žalosti. Tijelo pape Franje sutra će biti prevezeno u Baziliku svetoga Petra, ondje će se od njega oprostiti tisuće vjernika koji dolaze u Vatikan.Cijeli državni vrh na komemoraciji u Jasenovcu - 80 godina od proboja logoraša iz ustaškog koncentracijskog logora. Urednica: Mira Barić.</description>
+    <pubDate>Tue, 22 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/17/20250422-dnevne-novosti-36341180-20250422133527.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.04. 2025-04-21</title>
     <link>https://api.hrt.hr/media/0f/ea/20250421-dnevne-novosti-36338055-20250421134026.mp3</link>
     <description>Katolički vjernici diljem svijeta tuguju, a čelnici mnogih država ističu da je bio papa najranjivijih. Datum pogreba još se ne zna, prema želji pape Franje bit će skromniji i u bazilici Sv Marije Velike. I još o vremenu sutra: na Jadranu uglavnom sunčano, u unutrašnjosti mjestimice pljuskovi; i dalje toplo, s temperaturom do 25 stupnjeva. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Četverostruki sudar u kojemu je sinoć poginuo nogometaš Nikola Pokrivač skrivio je slovenski državljanin pretičući preko pune crte. I danas potencijalni kandidati na lokalnim izborima skupljaju potpise građana. Sjedinjene Države spremne su priznati ruski nadzor nad Krimom kao dio prijedloga za završetak rata u Ukrajini. Velika je subota, dan spokoja uoči Uskrsa. Urednik: Silvio Šop</description>
     <pubDate>Sat, 19 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/78/e0/20250419-dnevne-novosti-36333422-20250419133020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.04. 2025-04-18</title>
-    <link>https://api.hrt.hr/media/bc/c2/20250418-dnevne-novosti-36331208-20250418134017.mp3</link>
-    <description>Sjednica Vijeća za obranu održat će se sljedeći mjesec, predsjednik Milanović složio se s prijedlogom premijera Plenkovića. Amerika prijeti povlačenjem iz pregovora o ratu u Ukrajini. Veliki je petak - spomen na muku i Isusovu smrt na križu! Urednica: Sanja Cota</description>
-    <pubDate>Fri, 18 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/bc/c2/20250418-dnevne-novosti-36331208-20250418134017.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
