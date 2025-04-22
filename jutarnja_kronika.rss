@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 21 Apr 2025 06:00:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 05:35:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U teškoj prometnoj nesreći sinoć u Karlovcu poginuo bivši nogometni reprezentativac, igrač Dinama Nikola Pokrivač. Procurio američki plan za kraj rata: Ukrajina gubi teritorije koje je osvojila Rusija i neće ući u NATO, a Rusija će dobiti blaže sankcije. Na Veliku subotu u crkvama vazmeno bdijenje. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 19 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a2/ef/20250419-jutarnja-kronika-36332638-20250419053021.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.04. 2025-04-18</title>
-    <link>https://api.hrt.hr/media/79/41/20250418-jutarnja-kronika-36329550-20250418053513.mp3</link>
-    <description>U Washingtonu se sastali Donald Trump i Giorgia Meloni. Trump pristao na službeni posjet Rimu. Premijer Plenković poslao predsjedniku Milanoviću nacrt Strategije obrane i Plana razvoja vojske. Veliki je petak, dan muke Kristove, diljem zemlje dijelit će se riblji doručak na otvorenom. Na Hvaru održana tradicionalna procesija za križen.</description>
-    <pubDate>Fri, 18 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/79/41/20250418-jutarnja-kronika-36329550-20250418053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
