@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 21 Apr 2025 21:03:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 20:56:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 22.04. 2025-04-22</title>
+    <link>https://api.hrt.hr/media/75/14/20250422-kronika-dana-36342168-20250422203535.mp3</link>
+    <description>Pogreb pape Franje - u subotu u 10 sati. U našoj zemlji bit će dan žalosti. Uoči sutrašnjih razgovora u Londonu, Zelenski poručuje - Ukrajina ne priznaje okupaciju Krima, o tome nema razgovora. Komemoracija u Jasenovcu na 80-tu godišnjicu proboja iz ustaškoga koncentracijskog logora. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 22 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/75/14/20250422-kronika-dana-36342168-20250422203535.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 21.04. 2025-04-21</title>
     <link>https://api.hrt.hr/media/0c/85/20250421-kronika-dana-36339000-20250421203523.mp3</link>
     <description>Na Trgu svetog Petra molitveno bdjenje za papu Franju. Vatikan objavio da je umro od moždanog udara i zastoja srca. Svijet se oprašta od pape Franje. Vjernici, vjerski poglavari te državnici ističu da u njegovu nasljeđu ostaje predanost najranjivijima. Vladimir Putin kaže da je otvoren za izravne pregovore s Ukrajinom te da je spreman i na 30 dana primirja. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Ruski predsjednik Vladimir Putin proglasio uskrsno primirje u sukobu u Ukrajini, koje je počelo večeras i trajat će do nedjelje u ponoć. Policija objavila pojedinosti teške prometne nesreće u Karlovcu u kojoj je poginuo bivši nogometni reprezentativac Nikola Pokrivač.U crkvama večeras vazmena bdjenja i vrhunac svetog trodnevlja. Papa Franjo nakratko se pojavio u bazilici svetog Petra. Urednica: Mira Barić</description>
     <pubDate>Sat, 19 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c7/fd/20250419-kronika-dana-36334212-20250419211020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 18.04. 2025-04-18</title>
-    <link>https://api.hrt.hr/media/27/91/20250418-kronika-dana-36332132-20250418205023.mp3</link>
-    <description>Branimir Glavaš najavio povratak u politiku - kandidirat će se za župana Osječko-baranjske županije. Prvi ročnici obveznoga vojnog roka trebali bi biti u vojarnama krajem ove ili početkom iduće godine. Procurio američki plan za kraj rata: Ukrajina gubi teritorije koje je osvojila Rusija i neće ući u NATO, a Rusija će dobiti blaže sankcije. Veliki je petak - spomen na muku i Isusovu smrt na križu. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 18 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/91/20250418-kronika-dana-36332132-20250418205023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
