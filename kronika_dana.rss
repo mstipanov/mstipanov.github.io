@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 22 Apr 2025 20:56:52 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 20:32:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vjernici diljem zemlje i svijeta slave Uskrs, s balkona Bazilike svetoga Petra - uskrsnu čestitku uputio papa Franjo. Rusija i Ukrajina međusobno se optužuju za kršenje uskrsnog primirja. Urednica: Mira Barić</description>
     <pubDate>Sun, 20 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/53/e3/20250420-kronika-dana-36336411-20250420204023.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.04. 2025-04-19</title>
-    <link>https://api.hrt.hr/media/c7/fd/20250419-kronika-dana-36334212-20250419211020.mp3</link>
-    <description>Ruski predsjednik Vladimir Putin proglasio uskrsno primirje u sukobu u Ukrajini, koje je počelo večeras i trajat će do nedjelje u ponoć. Policija objavila pojedinosti teške prometne nesreće u Karlovcu u kojoj je poginuo bivši nogometni reprezentativac Nikola Pokrivač.U crkvama večeras vazmena bdjenja i vrhunac svetog trodnevlja. Papa Franjo nakratko se pojavio u bazilici svetog Petra. Urednica: Mira Barić</description>
-    <pubDate>Sat, 19 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/fd/20250419-kronika-dana-36334212-20250419211020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
