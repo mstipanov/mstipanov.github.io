@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Apr 2025 21:02:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 20:41:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Na Trgu svetog Petra molitveno bdjenje za papu Franju. Vatikan objavio da je umro od moždanog udara i zastoja srca. Svijet se oprašta od pape Franje. Vjernici, vjerski poglavari te državnici ističu da u njegovu nasljeđu ostaje predanost najranjivijima. Vladimir Putin kaže da je otvoren za izravne pregovore s Ukrajinom te da je spreman i na 30 dana primirja. Urednica: Mira Barić</description>
     <pubDate>Mon, 21 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0c/85/20250421-kronika-dana-36339000-20250421203523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 20.04. 2025-04-20</title>
-    <link>https://api.hrt.hr/media/53/e3/20250420-kronika-dana-36336411-20250420204023.mp3</link>
-    <description>Vjernici diljem zemlje i svijeta slave Uskrs, s balkona Bazilike svetoga Petra - uskrsnu čestitku uputio papa Franjo. Rusija i Ukrajina međusobno se optužuju za kršenje uskrsnog primirja. Urednica: Mira Barić</description>
-    <pubDate>Sun, 20 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/e3/20250420-kronika-dana-36336411-20250420204023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
