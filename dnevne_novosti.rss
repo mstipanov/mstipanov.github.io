@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Apr 2025 14:01:03 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 13:39:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 24.04. 2025-04-24</title>
+    <link>https://api.hrt.hr/media/bd/4d/20250424-dnevne-novosti-36348259-20250424133519.mp3</link>
+    <description>Cijelu su noć pokraj odra pape Franje prolazile tisuće vjernika. Skupina siromašnih ljudi uputit će mu posljednji pozdrav prije ukopa, Papa je zbog njih i izabrao ime Franjo.Razoran ruski napad na Kijev. Za postizanje mira Ukrajina želi jači pristisak na Rusiju, a ne samo na Ukrajinu.: Sanja Cota</description>
+    <pubDate>Thu, 24 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/4d/20250424-dnevne-novosti-36348259-20250424133519.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 23.04. 2025-04-23</title>
     <link>https://api.hrt.hr/media/da/1b/20250423-dnevne-novosti-36344665-20250423132544.mp3</link>
     <description>Tijelo pape Franje jutros je preneseno u baziliku svetog Petra, vjernici mu mogu odati posljednju počast do preksutra. Na pogreb Svetog Oca u subotu idu predsjednik države i Vlade, Zoran Milanović i Andrej Plenković. Saborsko Aktualno prijepodne - više pitanja ministrima nego premijeru. Istanbul zatresla serija snažnih potresa, stanari evakuirani iz zgrada. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Katolički vjernici diljem svijeta tuguju, a čelnici mnogih država ističu da je bio papa najranjivijih. Datum pogreba još se ne zna, prema želji pape Franje bit će skromniji i u bazilici Sv Marije Velike. I još o vremenu sutra: na Jadranu uglavnom sunčano, u unutrašnjosti mjestimice pljuskovi; i dalje toplo, s temperaturom do 25 stupnjeva. Urednica: Sanja Cota</description>
     <pubDate>Mon, 21 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/ea/20250421-dnevne-novosti-36338055-20250421134026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 20.04. 2025-04-20</title>
-    <link>https://api.hrt.hr/media/25/1b/20250420-dnevne-novosti-36335762-20250420132520.mp3</link>
-    <description>Diljem zemlje svečane mise i blagdanske poruke mira i nade. U Vatikanu papa Franjo pojavio se u kolicima na lođi bazilike svetog Petra, vjernicima čestitao Uskrs i uputio blagoslov. Poruku gradu i svijetu pročitao njegov izaslanik. Ove godine svi kršćani slave Uskrs isti dan, što je prava rijetkost. Unatoč proglašenom blagdanskom primirju u Ukrajini, obje strane međusobno se prozivaju za njegovo kršenje. Ruski patrijarh Kiril pozvao na obnovu Rusije u granicama nekadašnjeg carstva. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 20 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/1b/20250420-dnevne-novosti-36335762-20250420132520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
