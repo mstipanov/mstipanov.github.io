@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Apr 2025 16:12:03 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 17:10:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Anđela Jeličić Krajcar 2025-04-24</title>
+    <link>https://api.hrt.hr/media/62/0d/20250424-historia-histriae-8176739-20250424163514.mp3</link>
+    <description>Iz Rima nam se javlja Anđela Jeličić Krajcar, a pričamo o smrti pape Franje i procesu izbora novog Petrovog nasljednika. </description>
+    <pubDate>Thu, 24 Apr 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/62/0d/20250424-historia-histriae-8176739-20250424163514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Mirjana Margetić 2025-04-17</title>
     <link>https://api.hrt.hr/media/38/48/20250417-historia-histriae-8175004-20250417153559.mp3</link>
     <description>Pričamo o uskršnjim običajima u Istri uz Mirjanu Margetić iz Etnografskog muzeja u Pazinu. </description>
@@ -79,14 +87,6 @@
     <description>Pričamo o kulturnim prilikama u Puli od 1945. do 1949. godine uz povjesničara Vedrana Dukovskog. </description>
     <pubDate>Thu, 06 Feb 2025 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/10/1a/20250206-historia-histriae-8153166-20250206165556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Daniela Doblanović Šuran 2025-01-30</title>
-    <link>https://api.hrt.hr/media/b2/9a/20250130-historia-histriae-8151127-20250130170053.mp3</link>
-    <description>Pričamo o osobnim imenima u Istri u ranom novom vijeku uz dr.sc. Danijelu Doblanović Šuran </description>
-    <pubDate>Thu, 30 Jan 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b2/9a/20250130-historia-histriae-8151127-20250130170053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
