@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 23 Apr 2025 05:59:14 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 05:37:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Posljednji je dan produljenog vikenda u kojem se poklopio katolički i pravoslavni Uskrs. Očekuju se velike gužve na cestama i graničnim prijelazima. Strancima u Hrvatskoj u prva tri mjeseca izdano 3 posto više dozvola za rad nego u istome razdoblju lani. Zelenski optužio Rusiju da je prekršila uskrsno primirje više od dvije tisuće puta. Kinezi zbog novih carina vratili američki Boeing 737, koji je naručio njihov avioprijevoznik. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 21 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e7/7c/20250421-jutarnja-kronika-36336926-20250421053523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 20.04. 2025-04-20</title>
-    <link>https://api.hrt.hr/media/23/f1/20250420-jutarnja-kronika-36334777-20250420053520.mp3</link>
-    <description>Ove godine svi kršćani slave najveći blagdan Uskrsa na isti dan. Zagrebački nadbiskup Dražen Kutleša u uskrsnoj čestitki poručio da smo pozvani graditi društvo u kojem će svaki ljudski život biti zaštićen, cijenjen i promican. Istraživanje HRejting za Zagreb uoči lokalnih izbora - aktualni gradonačelnik Tomislav Tomašević ne pobjeđuje u prvom krugu. Ruski predsjednik Vladimir Putin proglasio uskrsno primirje. Ruska topnička paljba nije prestala, izjavio ukrajinski predsjednik Volodimir Zelenski. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 20 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/23/f1/20250420-jutarnja-kronika-36334777-20250420053520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
