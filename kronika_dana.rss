@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Apr 2025 20:41:34 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 21:11:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 24.04. 2025-04-24</title>
+    <link>https://api.hrt.hr/media/ad/e0/20250424-kronika-dana-36349335-20250424204017.mp3</link>
+    <description>Bazilika Svetog Petra i noćas će biti otvorena kako bi se vjernici oprostili od pape Franje. Najmanje 12-ero ljudi poginulo, više od 90-ero ranjeno u jednom od najrazornijih ruskih napada na Kijev. Diljem svijeta obilježen Jom hašoa - Dan sjećanja na žrtve holokausta. Urednica: Mira Barić</description>
+    <pubDate>Thu, 24 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ad/e0/20250424-kronika-dana-36349335-20250424204017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 23.04. 2025-04-23</title>
     <link>https://api.hrt.hr/media/b2/c7/20250423-kronika-dana-36345716-20250423204046.mp3</link>
     <description>Tisuće vjernika odaju počast papi Franji. Ukrajina u mirovnim pregovorima ne želi raspravljati o Krimu, Trump napisao: ili će dobiti mir ili izgubiti cijelu zemlju. Neuspješan pokušaj privođenja Milorada Dodika. Urednica: Sanja Cota</description>
