@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Apr 2025 21:11:44 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 20:55:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 25.04. 2025-04-25</title>
+    <link>https://api.hrt.hr/media/78/b1/20250425-kronika-dana-36352711-20250425204022.mp3</link>
+    <description>Zatvoren lijes pape Franje, na Trgu svetoga Petra večeras se obavljaju posljednje pripreme za sutrašnji pogreb. Hrvatska od danas ima potpunu eskadrilu borbenih aviona. U Zagreb sletio i posljednji, 12-i Rafal.Ekološki izgred na Hvaru. Iz spremnika Inine postaje u more iscurilo 17 tona nafte. Urednica Mira Barić</description>
+    <pubDate>Fri, 25 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/78/b1/20250425-kronika-dana-36352711-20250425204022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 24.04. 2025-04-24</title>
     <link>https://api.hrt.hr/media/ad/e0/20250424-kronika-dana-36349335-20250424204017.mp3</link>
     <description>Bazilika Svetog Petra i noćas će biti otvorena kako bi se vjernici oprostili od pape Franje. Najmanje 12-ero ljudi poginulo, više od 90-ero ranjeno u jednom od najrazornijih ruskih napada na Kijev. Diljem svijeta obilježen Jom hašoa - Dan sjećanja na žrtve holokausta. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Pogreb pape Franje - u subotu u 10 sati. U našoj zemlji bit će dan žalosti. Uoči sutrašnjih razgovora u Londonu, Zelenski poručuje - Ukrajina ne priznaje okupaciju Krima, o tome nema razgovora. Komemoracija u Jasenovcu na 80-tu godišnjicu proboja iz ustaškoga koncentracijskog logora. Urednica: Sanja Cota</description>
     <pubDate>Tue, 22 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/75/14/20250422-kronika-dana-36342168-20250422203535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 21.04. 2025-04-21</title>
-    <link>https://api.hrt.hr/media/0c/85/20250421-kronika-dana-36339000-20250421203523.mp3</link>
-    <description>Na Trgu svetog Petra molitveno bdjenje za papu Franju. Vatikan objavio da je umro od moždanog udara i zastoja srca. Svijet se oprašta od pape Franje. Vjernici, vjerski poglavari te državnici ističu da u njegovu nasljeđu ostaje predanost najranjivijima. Vladimir Putin kaže da je otvoren za izravne pregovore s Ukrajinom te da je spreman i na 30 dana primirja. Urednica: Mira Barić</description>
-    <pubDate>Mon, 21 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0c/85/20250421-kronika-dana-36339000-20250421203523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
