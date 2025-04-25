@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Apr 2025 06:07:16 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 05:52:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 25.04. 2025-04-25</title>
+    <link>https://api.hrt.hr/media/e8/4e/20250425-jutarnja-kronika-36349948-20250425053516.mp3</link>
+    <description>Mnoštvo vjernika i noćas se u bazilici svetog Petra oprostilo od pape Franje. Najmanje 12-ero ljudi poginulo, više od 90-ero ranjeno u jednom od najrazornijih ruskih napada na Kijev. Nakon gotovo 40 godina Gogoljeva "Ženidba" ponovno u zagrebačkom Kerempuhu. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 25 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e8/4e/20250425-jutarnja-kronika-36349948-20250425053516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 24.04. 2025-04-24</title>
     <link>https://api.hrt.hr/media/f0/d1/20250424-jutarnja-kronika-36346371-20250424054102.mp3</link>
     <description>Tisuće vjernika odaju počast papi Franji prolazeći pokraj njegova odra u bazilici svetoga Petra. U 19 sati misa zadušnica za Papu bit će služena u Bogoslužnom prostoru blaženog Alojzija Stepinca u Zagrebu. Američi predsjednik Donald Trump o mirovnim pregovorima: Ukrajina će ili dobiti mir ili u sljedeće tri godine izgubiti cijelu zemlju. Židovi diljem svijeta obilježavaju dan stradanja i junaštva - Jom hašou. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
     <pubDate>Tue, 22 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1e/ed/20250422-jutarnja-kronika-36339561-20250422054028.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 21.04. 2025-04-21</title>
-    <link>https://api.hrt.hr/media/e7/7c/20250421-jutarnja-kronika-36336926-20250421053523.mp3</link>
-    <description>Posljednji je dan produljenog vikenda u kojem se poklopio katolički i pravoslavni Uskrs. Očekuju se velike gužve na cestama i graničnim prijelazima. Strancima u Hrvatskoj u prva tri mjeseca izdano 3 posto više dozvola za rad nego u istome razdoblju lani. Zelenski optužio Rusiju da je prekršila uskrsno primirje više od dvije tisuće puta. Kinezi zbog novih carina vratili američki Boeing 737, koji je naručio njihov avioprijevoznik. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 21 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e7/7c/20250421-jutarnja-kronika-36336926-20250421053523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
