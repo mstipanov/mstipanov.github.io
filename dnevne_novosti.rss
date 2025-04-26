@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Apr 2025 13:54:08 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 13:50:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.04. 2025-04-26</title>
+    <link>https://api.hrt.hr/media/6d/2e/20250426-dnevne-novosti-36354033-20250426133549.mp3</link>
+    <description>Na trgu Sv. Petra od Pape se oprostilo oko 250 tisuća ljudi, nekoliko tisuća svećenika i mnogobrojni svjetski državnici. Mnoštvo ljudi pratilo je i zadnji Papin put, dug 5 i pol kilometra između dviju bazilika. Cota.</description>
+    <pubDate>Sat, 26 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6d/2e/20250426-dnevne-novosti-36354033-20250426133549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.04. 2025-04-25</title>
     <link>https://api.hrt.hr/media/d2/61/20250425-dnevne-novosti-36351660-20250425133024.mp3</link>
     <description>Cijeli svijet odaje počast papi Franji koji nas je napustio na Uskrsni ponedjeljak. Počast papi Franji vjernici u Vatikanu mogu odati do 19 sati kada se zatvaraju vrata bazilike sv. Petra. Pogreb Svetog Oca sutra u 10 sati. Stotine tisuća hodočasnika bit će u Rimu, a milijuni ljudi diljem svijeta pratit će ispraćaj putem elektroničkih medija. Ekološki izgred u Hvaru, u Kružnoj luci tone nafte izlile se u more. Zahuktava se kampanja uoči lokalnih izbora; Pavliček kazneno prijavio Penavu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Tijelo pape Franje jutros je preneseno u baziliku svetog Petra, vjernici mu mogu odati posljednju počast do preksutra. Na pogreb Svetog Oca u subotu idu predsjednik države i Vlade, Zoran Milanović i Andrej Plenković. Saborsko Aktualno prijepodne - više pitanja ministrima nego premijeru. Istanbul zatresla serija snažnih potresa, stanari evakuirani iz zgrada. Urednik: Silvio Šop</description>
     <pubDate>Wed, 23 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/1b/20250423-dnevne-novosti-36344665-20250423132544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.04. 2025-04-22</title>
-    <link>https://api.hrt.hr/media/95/17/20250422-dnevne-novosti-36341180-20250422133527.mp3</link>
-    <description>Pogreb pape Franje bit će u subotu, taj dan u Hrvatskoj - Dan žalosti. Tijelo pape Franje sutra će biti prevezeno u Baziliku svetoga Petra, ondje će se od njega oprostiti tisuće vjernika koji dolaze u Vatikan.Cijeli državni vrh na komemoraciji u Jasenovcu - 80 godina od proboja logoraša iz ustaškog koncentracijskog logora. Urednica: Mira Barić.</description>
-    <pubDate>Tue, 22 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/95/17/20250422-dnevne-novosti-36341180-20250422133527.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
