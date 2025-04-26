@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Apr 2025 20:55:25 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 20:52:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.04. 2025-04-26</title>
+    <link>https://api.hrt.hr/media/a2/42/20250426-kronika-dana-36354694-20250426204057.mp3</link>
+    <description>Papa Franjo pokopan u bazilici Svete Marije Velike u Rimu. Ispratilo ga 400 tisuća ljudi. Na posljednjem ispraćaju Pape mnogi svjetski državnici - predsjednici, premijeri, kraljevske obitelji! U Rimu su, prvi put od svađe u Bijeloj kući, razgovarali Donald Trump i Volodimir Zelenski. Jedinstvena utrka po dubrovačkim gradskim zidinama okupila trkače iz cijelog svijeta. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sat, 26 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a2/42/20250426-kronika-dana-36354694-20250426204057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.04. 2025-04-25</title>
     <link>https://api.hrt.hr/media/78/b1/20250425-kronika-dana-36352711-20250425204022.mp3</link>
     <description>Zatvoren lijes pape Franje, na Trgu svetoga Petra večeras se obavljaju posljednje pripreme za sutrašnji pogreb. Hrvatska od danas ima potpunu eskadrilu borbenih aviona. U Zagreb sletio i posljednji, 12-i Rafal.Ekološki izgred na Hvaru. Iz spremnika Inine postaje u more iscurilo 17 tona nafte. Urednica Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Tisuće vjernika odaju počast papi Franji. Ukrajina u mirovnim pregovorima ne želi raspravljati o Krimu, Trump napisao: ili će dobiti mir ili izgubiti cijelu zemlju. Neuspješan pokušaj privođenja Milorada Dodika. Urednica: Sanja Cota</description>
     <pubDate>Wed, 23 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b2/c7/20250423-kronika-dana-36345716-20250423204046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.04. 2025-04-22</title>
-    <link>https://api.hrt.hr/media/75/14/20250422-kronika-dana-36342168-20250422203535.mp3</link>
-    <description>Pogreb pape Franje - u subotu u 10 sati. U našoj zemlji bit će dan žalosti. Uoči sutrašnjih razgovora u Londonu, Zelenski poručuje - Ukrajina ne priznaje okupaciju Krima, o tome nema razgovora. Komemoracija u Jasenovcu na 80-tu godišnjicu proboja iz ustaškoga koncentracijskog logora. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 22 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/75/14/20250422-kronika-dana-36342168-20250422203535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
