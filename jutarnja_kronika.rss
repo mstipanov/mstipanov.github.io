@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 25 Apr 2025 05:52:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 05:57:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.04. 2025-04-26</title>
+    <link>https://api.hrt.hr/media/a6/a5/20250426-jutarnja-kronika-36353251-20250426053504.mp3</link>
+    <description>U 10 sati pogreb pape Franje. U Vatikan, uz mnoštvo vjernika, stigli čelnici država i vlada te vladajući europski monarsi. Grgo Mrvica</description>
+    <pubDate>Sat, 26 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a6/a5/20250426-jutarnja-kronika-36353251-20250426053504.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.04. 2025-04-25</title>
     <link>https://api.hrt.hr/media/e8/4e/20250425-jutarnja-kronika-36349948-20250425053516.mp3</link>
     <description>Mnoštvo vjernika i noćas se u bazilici svetog Petra oprostilo od pape Franje. Najmanje 12-ero ljudi poginulo, više od 90-ero ranjeno u jednom od najrazornijih ruskih napada na Kijev. Nakon gotovo 40 godina Gogoljeva "Ženidba" ponovno u zagrebačkom Kerempuhu. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Tijelo pape Franje od danas u bazilici svetog Petra, gdje će mu vjernici moći odati počast. Aktualnim prijepodnevom Sabor počinje novu sjednicu. Najmanje 26 turista poginulo u terorističkom napadu u Kašmiru. Urednica: Mira Barić</description>
     <pubDate>Wed, 23 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a1/25/20250423-jutarnja-kronika-36342741-20250423054044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.04. 2025-04-22</title>
-    <link>https://api.hrt.hr/media/1e/ed/20250422-jutarnja-kronika-36339561-20250422054028.mp3</link>
-    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Tue, 22 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1e/ed/20250422-jutarnja-kronika-36339561-20250422054028.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
