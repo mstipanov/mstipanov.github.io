@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 29 Apr 2025 20:58:15 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 21:02:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.04. 2025-04-30</title>
+    <link>https://api.hrt.hr/media/6a/d8/20250430-kronika-dana-36367055-20250430203542.mp3</link>
+    <description>Afera Hipodrom - za svu trojicu osumnjičenika, od kojih je jedan nedostupan, zatražen istražni zatvor. Sumnjiči ih se da su lažiranjem zaštitarskih radnih sati oštetili zagrebački proračun za oko dva milijuna eura. U Savi u Beogradu pronađeno je tijelo trogodišnje djevojčice koju je majka početkom godine unijela u rijeku kod zagrebačkoga Jankomirskog mosta. Svećeniku iz Hrašćine, osumnjičenom za podvođenje maloljetnika, određen jednomjesečni pritvor. Ukrajina i Sjedinjene Države blizu su potpisivanja sporazuma o rijetkim mineralima. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 30 Apr 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6a/d8/20250430-kronika-dana-36367055-20250430203542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.04. 2025-04-29</title>
     <link>https://api.hrt.hr/media/9a/de/20250429-kronika-dana-36363456-20250429204040.mp3</link>
     <description>Još se do ponoći primaju kandidacijske liste za lokalne izbore. Pod sumnjom za spolno zlostavljanje maloljetnika - uhićen svećenik u Hrašćini. Hrvatska preuzima predsjedanje Inicijativom triju mora. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Vjernici od jutra obilaze grob pape Franje u rimskoj bazilici Svete Marije Velike. Priprema se konklava za izbor novog pape. Najmanje jedanaestero ljudi poginulo u naletu vozila u mnoštvo na uličnom festivalu u Vancouveru. Kandidati na lokalnim izborima i ovaj vikend prikupljali potpise. Rok za predaju kandidatura utorak u ponoć. Porazi Hajduka i Rijeke doveli Dinamo na samo bod zaostatka u borbi za nogometnog prvaka Hrvatske. Uredila: Sanja Rabuzin</description>
     <pubDate>Sun, 27 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/76/47/20250427-kronika-dana-36356905-20250427204012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.04. 2025-04-26</title>
-    <link>https://api.hrt.hr/media/a2/42/20250426-kronika-dana-36354694-20250426204057.mp3</link>
-    <description>Papa Franjo pokopan u bazilici Svete Marije Velike u Rimu. Ispratilo ga 400 tisuća ljudi. Na posljednjem ispraćaju Pape mnogi svjetski državnici - predsjednici, premijeri, kraljevske obitelji! U Rimu su, prvi put od svađe u Bijeloj kući, razgovarali Donald Trump i Volodimir Zelenski. Jedinstvena utrka po dubrovačkim gradskim zidinama okupila trkače iz cijelog svijeta. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sat, 26 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/42/20250426-kronika-dana-36354694-20250426204057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
