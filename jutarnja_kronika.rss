@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 29 Apr 2025 05:55:13 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 05:59:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.04. 2025-04-30</title>
+    <link>https://api.hrt.hr/media/b2/e3/20250430-jutarnja-kronika-36364260-20250430055047.mp3</link>
+    <description>U ponoć istekao rok za predaju kandidatura za lokalne izbore. Provjera će trajati 48 sati. Hrvatska preuzela predsjedanje Inicijativom triju mora. napetost između Indije i Pakistana nakon napada na turiste u Kašmiru 22-og ovog mjeseca. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 30 Apr 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b2/e3/20250430-jutarnja-kronika-36364260-20250430055047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.04. 2025-04-29</title>
     <link>https://api.hrt.hr/media/d1/a4/20250429-jutarnja-kronika-36360439-20250429053544.mp3</link>
     <description>Još se ne zna uzrok nestanka struje u Španjolskoj i Portugalu, ne isključuje se ni sabotaža. Konklava za izbor novog Pape počinje 7. svibnja. Putin predložio novo primirje uoči Dana pobjede. U ponoć istječe rok za predaju kandidatura za lokalne izbore. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>400 tisuća ljudi na posljednjem ispraćaju pape Franje. Bazilika svete Marije Velike u Rimu, gdje je pokopan, od danas otvorena za javnost. U Vatikanu devetodnevna žalost i pripreme za izbor novoga Pape. Nakon jučerašnjeg razgovora Trumpa i Zelenskog u bazilice Svetog Petra svi se pitaju nazire li se kraj rata u Ukrajini. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 27 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/17/20250427-jutarnja-kronika-36355271-20250427053058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.04. 2025-04-26</title>
-    <link>https://api.hrt.hr/media/a6/a5/20250426-jutarnja-kronika-36353251-20250426053504.mp3</link>
-    <description>U 10 sati pogreb pape Franje. U Vatikan, uz mnoštvo vjernika, stigli čelnici država i vlada te vladajući europski monarsi. Grgo Mrvica</description>
-    <pubDate>Sat, 26 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a6/a5/20250426-jutarnja-kronika-36353251-20250426053504.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
