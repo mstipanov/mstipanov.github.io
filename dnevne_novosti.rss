@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 29 Apr 2025 13:56:50 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 13:31:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.04. 2025-04-30</title>
+    <link>https://api.hrt.hr/media/3c/a5/20250430-dnevne-novosti-36366061-20250430133046.mp3</link>
+    <description>Policija uhitila ravnatelja Hipodroma , Kostu Kostanjevića te suvlasnika zaštitarske tvrtke Domagoja Galića.Nakon što je istekao rok za kandidature za lokalne izbore, nekim izbornim povjerenstvima trebalo svega nekoliko minuta da provjere i objave pravovaljane kandidature. Uhićen osumnjičenik za jučerašnje trostruko ubojstvo u švedskom gradu Uppsali. Navodno je riječ o 16-godišnjem mladiću. Urednica: Mira Barić</description>
+    <pubDate>Wed, 30 Apr 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/a5/20250430-dnevne-novosti-36366061-20250430133046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.04. 2025-04-29</title>
     <link>https://api.hrt.hr/media/c1/43/20250429-dnevne-novosti-36362202-20250429133031.mp3</link>
     <description>U izborna povjerenstva županija, gradova i općina, poduprte odgovarajućim brojem potpisa, do ponoći trebaju stići kandidacijske liste i kandidature za lokalne izbore 18. svibnja. Sabor raspravio izmjene Zakona o obveznom zdravstvenom osiguranju. Povećavaju se najniža i najviša naknada plaće za vrijeme dugotrajnog bolovanja na teret Zavoda za zdravstveno osiguranje. Albanija i Crna Gora nove su članice Inicijative triju mora, predsjedanje preuzima Hrvatska. U Kući karikature Otto Reisinger u Zagrebu otvara se jubilarna 30. Međunarodna izložba karikature. Urednik: Silvio Šop</description>
@@ -33,14 +41,6 @@ Urednica: Mira Barić</description>
 Urednica: Mira Barić</description>
     <pubDate>Sun, 27 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/d1/20250427-dnevne-novosti-36356124-20250427133013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.04. 2025-04-26</title>
-    <link>https://api.hrt.hr/media/6d/2e/20250426-dnevne-novosti-36354033-20250426133549.mp3</link>
-    <description>Na trgu Sv. Petra od Pape se oprostilo oko 250 tisuća ljudi, nekoliko tisuća svećenika i mnogobrojni svjetski državnici. Mnoštvo ljudi pratilo je i zadnji Papin put, dug 5 i pol kilometra između dviju bazilika. Cota.</description>
-    <pubDate>Sat, 26 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6d/2e/20250426-dnevne-novosti-36354033-20250426133549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
