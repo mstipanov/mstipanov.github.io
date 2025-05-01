@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 May 2025 05:34:17 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 06:04:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.05. 2025-05-01</title>
+    <link>https://api.hrt.hr/media/8a/33/20250501-jutarnja-kronika-36367810-20250501054601.mp3</link>
+    <description>Međunarodni je praznik rada, u mnogim gradovima i mjestima tradicionalno će se dijeliti grah. Afera Hipodrom - za svu trojicu osumnjičenika, od kojih je jedan nedostupan, zatražen istražni zatvor. Obilježava se 30. obljetnica operacije Bljesak. Ukrajina i Sjedinjene Američke Države potpisale sporazum o rijetkim mineralima. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 01 May 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/8a/33/20250501-jutarnja-kronika-36367810-20250501054601.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 30.04. 2025-04-30</title>
     <link>https://api.hrt.hr/media/b2/e3/20250430-jutarnja-kronika-36364260-20250430055047.mp3</link>
     <description>U ponoć istekao rok za predaju kandidatura za lokalne izbore. Provjera će trajati 48 sati. Hrvatska preuzela predsjedanje Inicijativom triju mora. napetost između Indije i Pakistana nakon napada na turiste u Kašmiru 22-og ovog mjeseca. Urednik: Grgo Mrvica</description>
