@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 30 Apr 2025 05:59:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 05:34:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Vatikanu se jutros peti put od smrti pape Franje sastaju kardinali. Moguća je objava datuma početka konklave. Jubilarni deseti sastanak Inicijative triju mora održat će se u Varšavi, sudjeluje premijer Andrej Plenković. Američki predsjednik Donald Trump izjavio kako misli da je ukrajinski predsjednik Volodimir Zelenski spreman odreći se Krima, u sklopu mirovnog dogovora. Napad automobilom u Kanadi na festivalu filipinske kulture, u kojem je poginulo 11 osoba, nije bio teroristički čin, tvrdi policija. Uredio: Silvio Šop</description>
     <pubDate>Mon, 28 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/77/75/20250428-jutarnja-kronika-36357457-20250428053513.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 27.04. 2025-04-27</title>
-    <link>https://api.hrt.hr/media/c2/17/20250427-jutarnja-kronika-36355271-20250427053058.mp3</link>
-    <description>400 tisuća ljudi na posljednjem ispraćaju pape Franje. Bazilika svete Marije Velike u Rimu, gdje je pokopan, od danas otvorena za javnost. U Vatikanu devetodnevna žalost i pripreme za izbor novoga Pape. Nakon jučerašnjeg razgovora Trumpa i Zelenskog u bazilice Svetog Petra svi se pitaju nazire li se kraj rata u Ukrajini. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 27 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/17/20250427-jutarnja-kronika-36355271-20250427053058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
