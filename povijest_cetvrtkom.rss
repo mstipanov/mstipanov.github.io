@@ -6,10 +6,18 @@
         <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 24 Apr 2025 12:39:12 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 12:38:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/87/52/povijest-cetvrtkom-219680854-copy-20211206223641.webp</url><title>Povijest četvrtkom</title><link>https://radio.hrt.hr/slusaonica/povijest-cetvrtkom</link></image>
         <item>
+    <title>Kraj samostalnog hrvatskog kraljevstva, III. dio 2025-05-01</title>
+    <link>https://api.hrt.hr/media/24/a7/20250501-povijest-cetvrtkom-36365219-20250430105047.mp3</link>
+    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
+    <pubDate>Thu, 01 May 2025 11:10:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/24/a7/20250501-povijest-cetvrtkom-36365219-20250430105047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kraj samostalnog hrvatskog kraljevstva, II. dio 2025-04-24</title>
     <link>https://api.hrt.hr/media/bd/86/20250424-povijest-cetvrtkom-36344126-20250423121547.mp3</link>
     <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
@@ -87,14 +95,6 @@ Kako su nastale tajne akcije? Zašto je Hladni rat razdoblje u kojemu su nastale
  </description>
     <pubDate>Thu, 27 Feb 2025 12:10:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/af/83/20250227-povijest-cetvrtkom-36167909-20250226131012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Koreja od Olimpijskih igara u Seulu do danas, III. dio 2025-02-20</title>
-    <link>https://api.hrt.hr/media/9d/f3/20250220-povijest-cetvrtkom-36145006-20250219130511.mp3</link>
-    <description>Tko je i kada nešto otkrio i tko je i kada ta otkrića ukrao? Kako nastaju i kako nestaju civilizacije? Što više pokreće ljude: nada i ljubav ili sila i strah? Jesu li velikani uistinu tako veliki i jesu li negativci uvijek samo negativni? Kako se stvaraju urote i kako propadaju države?</description>
-    <pubDate>Thu, 20 Feb 2025 12:10:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9d/f3/20250220-povijest-cetvrtkom-36145006-20250219130511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
