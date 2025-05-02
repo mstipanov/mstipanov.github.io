@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 May 2025 21:09:46 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 21:17:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.05. 2025-05-02</title>
+    <link>https://api.hrt.hr/media/cc/1e/20250502-kronika-dana-36373115-20250502204008.mp3</link>
+    <description>Sjedinjene Države povlače se iz mirovnih pregovora između Ukrajine i Rusije. Vlada donijela dodatne mjere nadzora maloprodajnih cijena. Županijski sud u Zagrebu blokirao imovinu okrivljenicima u aferi Hipodrom. Počele pripreme za konklavu - na krov Sikstinske kapele postavljen dimnjak. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 02 May 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/1e/20250502-kronika-dana-36373115-20250502204008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.05. 2025-05-01</title>
     <link>https://api.hrt.hr/media/ff/79/20250501-kronika-dana-36369936-20250501204103.mp3</link>
     <description>Sudac istrage trojici osumnjičenih u aferi Hipodrom odredio jednomjesečni zatvor, jedan od njih i dalje u bijegu. U Bijeloj kući velike promjene - napušta je Trumpov savjetnik za nacionalnu sigurnost Mike Waltz, jedan od pregovarača s Rusijom. Prosvjedima diljem svijeta obilježen Međunarodni Praznik rada.U Hrvatskoj i ove godine bez prosvjednih povorki, samo besplatni grah. Državni vrh u Okučanima na proslavi 30-e obljetnice vojno-redarstvene operacije Bljesak. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Još se do ponoći primaju kandidacijske liste za lokalne izbore. Pod sumnjom za spolno zlostavljanje maloljetnika - uhićen svećenik u Hrašćini. Hrvatska preuzima predsjedanje Inicijativom triju mora. Urednica: Sanja Cota</description>
     <pubDate>Tue, 29 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9a/de/20250429-kronika-dana-36363456-20250429204040.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.04. 2025-04-28</title>
-    <link>https://api.hrt.hr/media/5b/dd/20250428-kronika-dana-36359907-20250428204015.mp3</link>
-    <description>Konklava za izbor novog Pape počinje 7. svibnja. Još se ne zna što je izazvalo nestanak struje koji je paralizirao Španjolsku i Portugal. Putin najavljuje trodnevni prekid vatre za Dan pobjede, Zelenski ne vidi smisao ako će se poslije nastaviti ubijanje. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 28 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5b/dd/20250428-kronika-dana-36359907-20250428204015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
