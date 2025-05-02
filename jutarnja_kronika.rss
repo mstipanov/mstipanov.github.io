@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 01 May 2025 06:04:23 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 05:41:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.05. 2025-05-02</title>
+    <link>https://api.hrt.hr/media/cc/58/20250502-jutarnja-kronika-36370582-20250502053009.mp3</link>
+    <description>Dvojica osumnjičenih u aferi Hipodrom u jednomjesečnom istražnom zatvoru. Treći osumnjičenik i dalje je nedostupan vlastima. Savjetnik američkog predsjednika Trumpa za nacionalnu sigurnost Mike Waltz, ujedno i jedan od pregovarača s Rusijom, napušta Bijelu kuću. Obilježen Međunarodni praznik rada. U svijetu prosvjedima, u Hrvatskoj uz besplatan grah. U Borovu i Vinkovcima obilježit će se 34. godišnjica stradanja dvanaestorice hrvatskih redarstvenika. Zagreb će obilježiti 30. godišnjicu raketiranja. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 02 May 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/58/20250502-jutarnja-kronika-36370582-20250502053009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.05. 2025-05-01</title>
     <link>https://api.hrt.hr/media/8a/33/20250501-jutarnja-kronika-36367810-20250501054601.mp3</link>
     <description>Međunarodni je praznik rada, u mnogim gradovima i mjestima tradicionalno će se dijeliti grah. Afera Hipodrom - za svu trojicu osumnjičenika, od kojih je jedan nedostupan, zatražen istražni zatvor. Obilježava se 30. obljetnica operacije Bljesak. Ukrajina i Sjedinjene Američke Države potpisale sporazum o rijetkim mineralima. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Još se ne zna uzrok nestanka struje u Španjolskoj i Portugalu, ne isključuje se ni sabotaža. Konklava za izbor novog Pape počinje 7. svibnja. Putin predložio novo primirje uoči Dana pobjede. U ponoć istječe rok za predaju kandidatura za lokalne izbore. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 29 Apr 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d1/a4/20250429-jutarnja-kronika-36360439-20250429053544.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.04. 2025-04-28</title>
-    <link>https://api.hrt.hr/media/77/75/20250428-jutarnja-kronika-36357457-20250428053513.mp3</link>
-    <description>U Vatikanu se jutros peti put od smrti pape Franje sastaju kardinali. Moguća je objava datuma početka konklave. Jubilarni deseti sastanak Inicijative triju mora održat će se u Varšavi, sudjeluje premijer Andrej Plenković. Američki predsjednik Donald Trump izjavio kako misli da je ukrajinski predsjednik Volodimir Zelenski spreman odreći se Krima, u sklopu mirovnog dogovora. Napad automobilom u Kanadi na festivalu filipinske kulture, u kojem je poginulo 11 osoba, nije bio teroristički čin, tvrdi policija. Uredio: Silvio Šop</description>
-    <pubDate>Mon, 28 Apr 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/77/75/20250428-jutarnja-kronika-36357457-20250428053513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
