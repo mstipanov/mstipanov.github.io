@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 May 2025 21:17:24 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 20:53:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.05. 2025-05-03</title>
+    <link>https://api.hrt.hr/media/40/1b/20250503-kronika-dana-36375226-20250503204011.mp3</link>
+    <description>Dinamo na Poljudu pobijedio Hajduk 3:1. Sukobi navijača i neredi prije i poslije utakmice. Prosvjed Zagrepčana zbog odlagališta smeća na Jakuševcu. Traktorima zapriječili ulaz na odlagalište. Ukrajinski predsjednik Zelenski kaže da ne jamči sigurnost stranim državnicima koji na Dan pobjede dolaze u Moskvu. Urednica: Mira Barić</description>
+    <pubDate>Sat, 03 May 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/40/1b/20250503-kronika-dana-36375226-20250503204011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.05. 2025-05-02</title>
     <link>https://api.hrt.hr/media/cc/1e/20250502-kronika-dana-36373115-20250502204008.mp3</link>
     <description>Sjedinjene Države povlače se iz mirovnih pregovora između Ukrajine i Rusije. Vlada donijela dodatne mjere nadzora maloprodajnih cijena. Županijski sud u Zagrebu blokirao imovinu okrivljenicima u aferi Hipodrom. Počele pripreme za konklavu - na krov Sikstinske kapele postavljen dimnjak. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Afera Hipodrom - za svu trojicu osumnjičenika, od kojih je jedan nedostupan, zatražen istražni zatvor. Sumnjiči ih se da su lažiranjem zaštitarskih radnih sati oštetili zagrebački proračun za oko dva milijuna eura. U Savi u Beogradu pronađeno je tijelo trogodišnje djevojčice koju je majka početkom godine unijela u rijeku kod zagrebačkoga Jankomirskog mosta. Svećeniku iz Hrašćine, osumnjičenom za podvođenje maloljetnika, određen jednomjesečni pritvor. Ukrajina i Sjedinjene Države blizu su potpisivanja sporazuma o rijetkim mineralima. Urednik: Silvio Šop</description>
     <pubDate>Wed, 30 Apr 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6a/d8/20250430-kronika-dana-36367055-20250430203542.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.04. 2025-04-29</title>
-    <link>https://api.hrt.hr/media/9a/de/20250429-kronika-dana-36363456-20250429204040.mp3</link>
-    <description>Još se do ponoći primaju kandidacijske liste za lokalne izbore. Pod sumnjom za spolno zlostavljanje maloljetnika - uhićen svećenik u Hrašćini. Hrvatska preuzima predsjedanje Inicijativom triju mora. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 29 Apr 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9a/de/20250429-kronika-dana-36363456-20250429204040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
