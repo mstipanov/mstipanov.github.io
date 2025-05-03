@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 02 May 2025 13:46:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 13:50:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.05. 2025-05-03</title>
+    <link>https://api.hrt.hr/media/ca/48/20250503-dnevne-novosti-36374599-20250503133507.mp3</link>
+    <description>Masovna tučnjava navijača jutros u Splitu uoči derbija Hajduka i Dinama. Policija privela stotinjak osoba. Dan je sjećanja na djecu ubijenu i stradalu u Domovinskom ratu. Počast im je odana u Slavonskome Brodu, gdje ih je poginulo 28-ero. Objavljene liste kandidata za lokalne izbore. Predizborna kampanja je u punom jeku. Ukrajinski predsjednik Volodimir Zelenski kaže da ne jamči sigurnost stranim državnicima 9. svibnja u Moskvi.Svjetski je dan slobode medija. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 03 May 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/48/20250503-dnevne-novosti-36374599-20250503133507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.05. 2025-05-02</title>
     <link>https://api.hrt.hr/media/16/8c/20250502-dnevne-novosti-36372265-20250502133010.mp3</link>
     <description>Sjedinjene Države povlače se iz mirovnih pregovora između Ukrajine i Rusije. Vlada odlučila trgovcima uvesti dodatnu obvezu ažuriranja cijena. Počele tehničke pripreme za konklavu - na krovu Sikstinske kapele postavljen dimnjak koji će služiti za objavu rezultata glasovanja za izbor novoga Pape. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Policija uhitila ravnatelja Hipodroma , Kostu Kostanjevića te suvlasnika zaštitarske tvrtke Domagoja Galića.Nakon što je istekao rok za kandidature za lokalne izbore, nekim izbornim povjerenstvima trebalo svega nekoliko minuta da provjere i objave pravovaljane kandidature. Uhićen osumnjičenik za jučerašnje trostruko ubojstvo u švedskom gradu Uppsali. Navodno je riječ o 16-godišnjem mladiću. Urednica: Mira Barić</description>
     <pubDate>Wed, 30 Apr 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/3c/a5/20250430-dnevne-novosti-36366061-20250430133046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.04. 2025-04-29</title>
-    <link>https://api.hrt.hr/media/c1/43/20250429-dnevne-novosti-36362202-20250429133031.mp3</link>
-    <description>U izborna povjerenstva županija, gradova i općina, poduprte odgovarajućim brojem potpisa, do ponoći trebaju stići kandidacijske liste i kandidature za lokalne izbore 18. svibnja. Sabor raspravio izmjene Zakona o obveznom zdravstvenom osiguranju. Povećavaju se najniža i najviša naknada plaće za vrijeme dugotrajnog bolovanja na teret Zavoda za zdravstveno osiguranje. Albanija i Crna Gora nove su članice Inicijative triju mora, predsjedanje preuzima Hrvatska. U Kući karikature Otto Reisinger u Zagrebu otvara se jubilarna 30. Međunarodna izložba karikature. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 29 Apr 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c1/43/20250429-dnevne-novosti-36362202-20250429133031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
