@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 04 May 2025 21:01:20 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 21:07:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.05. 2025-05-05</title>
+    <link>https://api.hrt.hr/media/e1/6d/20250505-kronika-dana-36380718-20250505204530.mp3</link>
+    <description>Vozač autobusa i vozač osobnog vozila prijavljeni zbog izazivanja prometne nesreće na autocesti, u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Hrana u Hrvatskoj skuplja 8 posto od europskog prosjeka. Nakon cjelovite obnove poslije potresa, u Zagrebu otvorene zgrade Arhitektonskoga, Građevinskog i Geodetskog fakulteta. Svi kardinali stigli u Vatikan, konklava počinje preksutra. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 05 May 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e1/6d/20250505-kronika-dana-36380718-20250505204530.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.05. 2025-05-04</title>
     <link>https://api.hrt.hr/media/0d/35/20250504-kronika-dana-36377495-20250504203512.mp3</link>
     <description>Dvije osobe poginule, a 31-a ozlijeđena u prometnoj nesreći kod Popovače. Autobus naletio na vozilo koje se ispriječilo na autocesti. Oba vozača uhićena.Izraelski premijer Netanyahu najavio osvetu hutistima i Iranu nakon što je projektilom pogođena zračna luka Ben Gurion. Dva tjedna do lokalnih izbora - počelo tiskanje oko 13 milijuna glasačkih listića.Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Sjedinjene Države povlače se iz mirovnih pregovora između Ukrajine i Rusije. Vlada donijela dodatne mjere nadzora maloprodajnih cijena. Županijski sud u Zagrebu blokirao imovinu okrivljenicima u aferi Hipodrom. Počele pripreme za konklavu - na krov Sikstinske kapele postavljen dimnjak. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 02 May 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/cc/1e/20250502-kronika-dana-36373115-20250502204008.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.05. 2025-05-01</title>
-    <link>https://api.hrt.hr/media/ff/79/20250501-kronika-dana-36369936-20250501204103.mp3</link>
-    <description>Sudac istrage trojici osumnjičenih u aferi Hipodrom odredio jednomjesečni zatvor, jedan od njih i dalje u bijegu. U Bijeloj kući velike promjene - napušta je Trumpov savjetnik za nacionalnu sigurnost Mike Waltz, jedan od pregovarača s Rusijom. Prosvjedima diljem svijeta obilježen Međunarodni Praznik rada.U Hrvatskoj i ove godine bez prosvjednih povorki, samo besplatni grah. Državni vrh u Okučanima na proslavi 30-e obljetnice vojno-redarstvene operacije Bljesak. Urednica: Mira Barić</description>
-    <pubDate>Thu, 01 May 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/79/20250501-kronika-dana-36369936-20250501204103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
