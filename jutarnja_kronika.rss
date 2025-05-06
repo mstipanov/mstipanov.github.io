@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 May 2025 06:04:34 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 05:39:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 06.05. 2025-05-06</title>
+    <link>https://api.hrt.hr/media/07/3f/20250506-jutarnja-kronika-36381316-20250506053529.mp3</link>
+    <description>Istražni zatvor za dvojicu vozača koji su izazvali nesreću na autocesti A3 kod Popovače. Hrana u Hrvatskoj 8 posto skuplja od europskog prosjeka. U Vatikanu sve spremno za početak konklave i izbor novog pape. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 06 May 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/3f/20250506-jutarnja-kronika-36381316-20250506053529.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.05. 2025-05-05</title>
     <link>https://api.hrt.hr/media/c7/5c/20250505-jutarnja-kronika-36378038-20250505053515.mp3</link>
     <description>Nakon tragičnog sudara autobusa i automobila uhićena dvojica vozača. Na autocesti ipak nije bilo srne. Danas svečano otvorenje zgrade Arhitektonskoga, Građevinskoga i Geodetskog fakulteta Sveučilišta u Zagrebu. Euroskeptik Simion relativni je pobjednik prvog kruga ponovljenih rumunjskih predsjedničkih izbora. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>Policija spremna za veliki derbi na Poljudu. Hajduk i Dinamo razdvaja samo jedan jedini bod! U Slavonskom Brodu Dan sjećanja na djecu ubijenu u Domovinskom ratu. Washington se povlači iz mirovnih pregovora između Kijeva i Moskve. Srbijanskom predsjedniku Vučiću pozlilo, pa prekinuo posjet SAD-u. Svjetski je dan slobode medija. Urednik: Mario Krstanović</description>
     <pubDate>Sat, 03 May 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/26/23/20250503-jutarnja-kronika-36373679-20250503053010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.05. 2025-05-02</title>
-    <link>https://api.hrt.hr/media/cc/58/20250502-jutarnja-kronika-36370582-20250502053009.mp3</link>
-    <description>Dvojica osumnjičenih u aferi Hipodrom u jednomjesečnom istražnom zatvoru. Treći osumnjičenik i dalje je nedostupan vlastima. Savjetnik američkog predsjednika Trumpa za nacionalnu sigurnost Mike Waltz, ujedno i jedan od pregovarača s Rusijom, napušta Bijelu kuću. Obilježen Međunarodni praznik rada. U svijetu prosvjedima, u Hrvatskoj uz besplatan grah. U Borovu i Vinkovcima obilježit će se 34. godišnjica stradanja dvanaestorice hrvatskih redarstvenika. Zagreb će obilježiti 30. godišnjicu raketiranja. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 02 May 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/58/20250502-jutarnja-kronika-36370582-20250502053009.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
