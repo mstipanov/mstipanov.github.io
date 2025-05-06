@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 May 2025 21:07:27 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 20:41:57 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.05. 2025-05-06</title>
+    <link>https://api.hrt.hr/media/71/6a/20250506-kronika-dana-36383909-20250506204050.mp3</link>
+    <description>Nevrijeme u Istri, dijelovi Medulina pod vodom. Iz drugog pokušaja Njemačka dobila novog kancerala - Friedricha Merza.Sutra u Vatikanu počinje izbor novoga Pape.: Sanja Cota</description>
+    <pubDate>Tue, 06 May 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/71/6a/20250506-kronika-dana-36383909-20250506204050.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.05. 2025-05-05</title>
     <link>https://api.hrt.hr/media/e1/6d/20250505-kronika-dana-36380718-20250505204530.mp3</link>
     <description>Vozač autobusa i vozač osobnog vozila prijavljeni zbog izazivanja prometne nesreće na autocesti, u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Hrana u Hrvatskoj skuplja 8 posto od europskog prosjeka. Nakon cjelovite obnove poslije potresa, u Zagrebu otvorene zgrade Arhitektonskoga, Građevinskog i Geodetskog fakulteta. Svi kardinali stigli u Vatikan, konklava počinje preksutra. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dinamo na Poljudu pobijedio Hajduk 3:1. Sukobi navijača i neredi prije i poslije utakmice. Prosvjed Zagrepčana zbog odlagališta smeća na Jakuševcu. Traktorima zapriječili ulaz na odlagalište. Ukrajinski predsjednik Zelenski kaže da ne jamči sigurnost stranim državnicima koji na Dan pobjede dolaze u Moskvu. Urednica: Mira Barić</description>
     <pubDate>Sat, 03 May 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/40/1b/20250503-kronika-dana-36375226-20250503204011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.05. 2025-05-02</title>
-    <link>https://api.hrt.hr/media/cc/1e/20250502-kronika-dana-36373115-20250502204008.mp3</link>
-    <description>Sjedinjene Države povlače se iz mirovnih pregovora između Ukrajine i Rusije. Vlada donijela dodatne mjere nadzora maloprodajnih cijena. Županijski sud u Zagrebu blokirao imovinu okrivljenicima u aferi Hipodrom. Počele pripreme za konklavu - na krov Sikstinske kapele postavljen dimnjak. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 02 May 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/1e/20250502-kronika-dana-36373115-20250502204008.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
