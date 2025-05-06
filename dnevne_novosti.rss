@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 05 May 2025 13:36:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 14:10:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.05. 2025-05-06</title>
+    <link>https://api.hrt.hr/media/c8/80/20250506-dnevne-novosti-36382912-20250506133057.mp3</link>
+    <description>Njemačka ipak nije potvrdila novog kancerala Friedricha Merza. Sutra u Vatikanu počinje konklava - izbor novoga Pape.Nevrijeme s tučom u Slavoniji, velike su štete.Bivša SDP-ova županica Marina Lovrić Merzel priznala da je županijski novac trošila u privatne svrhe, osuđena na 7 mjeseci zatvora.Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 06 May 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c8/80/20250506-dnevne-novosti-36382912-20250506133057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.05. 2025-05-05</title>
     <link>https://api.hrt.hr/media/ed/ac/20250505-dnevne-novosti-36379704-20250505133024.mp3</link>
     <description>Policija prijavila oba vozača zbog izazivanja jučerašnje prometne nesreće u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Zašto nam je hrana 8 posto skuplja od europskog prosjeka? Istodobno je uvoz veći od 6 milijardi eura. Kandidat desnice Đorđe Simion pobijedio u prvom krugu predsjedničkih izbora u Rumunjskoj. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Masovna tučnjava navijača jutros u Splitu uoči derbija Hajduka i Dinama. Policija privela stotinjak osoba. Dan je sjećanja na djecu ubijenu i stradalu u Domovinskom ratu. Počast im je odana u Slavonskome Brodu, gdje ih je poginulo 28-ero. Objavljene liste kandidata za lokalne izbore. Predizborna kampanja je u punom jeku. Ukrajinski predsjednik Volodimir Zelenski kaže da ne jamči sigurnost stranim državnicima 9. svibnja u Moskvi.Svjetski je dan slobode medija. Urednik: Grgo Mrvica</description>
     <pubDate>Sat, 03 May 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/48/20250503-dnevne-novosti-36374599-20250503133507.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.05. 2025-05-02</title>
-    <link>https://api.hrt.hr/media/16/8c/20250502-dnevne-novosti-36372265-20250502133010.mp3</link>
-    <description>Sjedinjene Države povlače se iz mirovnih pregovora između Ukrajine i Rusije. Vlada odlučila trgovcima uvesti dodatnu obvezu ažuriranja cijena. Počele tehničke pripreme za konklavu - na krovu Sikstinske kapele postavljen dimnjak koji će služiti za objavu rezultata glasovanja za izbor novoga Pape. Urednica: Mira Barić</description>
-    <pubDate>Fri, 02 May 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/16/8c/20250502-dnevne-novosti-36372265-20250502133010.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
