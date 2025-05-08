@@ -6,7 +6,7 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 07 May 2025 13:45:41 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 13:50:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Policija prijavila oba vozača zbog izazivanja jučerašnje prometne nesreće u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Zašto nam je hrana 8 posto skuplja od europskog prosjeka? Istodobno je uvoz veći od 6 milijardi eura. Kandidat desnice Đorđe Simion pobijedio u prvom krugu predsjedničkih izbora u Rumunjskoj. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 05 May 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/ac/20250505-dnevne-novosti-36379704-20250505133024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.05. 2025-05-04</title>
-    <link>https://api.hrt.hr/media/03/6d/20250504-dnevne-novosti-36376842-20250504133511.mp3</link>
-    <description>Teška nesreća na autocesti kod Popovače. Dvoje mrtvih i 31 ozlijeđeni u sudaru autobusa i osobnog automobila. Desetak ima teže ozljede. Epilog derbija na Poljudu - privedeno gotovo 200 navijača, 21 policajac lakše ozlijeđen. Ruski predsjednik Putin nada se da neće biti potrebe za upotrebom nuklearnog oružja u Ukrajini. U Rumunjskoj se ponavljaju predsjednički izbori. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 04 May 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/03/6d/20250504-dnevne-novosti-36376842-20250504133511.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
