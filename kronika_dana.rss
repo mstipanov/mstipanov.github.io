@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 07 May 2025 20:47:08 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 20:52:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vozač autobusa i vozač osobnog vozila prijavljeni zbog izazivanja prometne nesreće na autocesti, u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Hrana u Hrvatskoj skuplja 8 posto od europskog prosjeka. Nakon cjelovite obnove poslije potresa, u Zagrebu otvorene zgrade Arhitektonskoga, Građevinskog i Geodetskog fakulteta. Svi kardinali stigli u Vatikan, konklava počinje preksutra. Urednik: Silvio Šop</description>
     <pubDate>Mon, 05 May 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e1/6d/20250505-kronika-dana-36380718-20250505204530.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.05. 2025-05-04</title>
-    <link>https://api.hrt.hr/media/0d/35/20250504-kronika-dana-36377495-20250504203512.mp3</link>
-    <description>Dvije osobe poginule, a 31-a ozlijeđena u prometnoj nesreći kod Popovače. Autobus naletio na vozilo koje se ispriječilo na autocesti. Oba vozača uhićena.Izraelski premijer Netanyahu najavio osvetu hutistima i Iranu nakon što je projektilom pogođena zračna luka Ben Gurion. Dva tjedna do lokalnih izbora - počelo tiskanje oko 13 milijuna glasačkih listića.Urednica: Mira Barić</description>
-    <pubDate>Sun, 04 May 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/35/20250504-kronika-dana-36377495-20250504203512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
