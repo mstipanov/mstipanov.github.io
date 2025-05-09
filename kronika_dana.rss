@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 May 2025 21:22:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 21:02:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.05. 2025-05-09</title>
+    <link>https://api.hrt.hr/media/34/76/20250509-kronika-dana-36394178-20250509204101.mp3</link>
+    <description>U Sikstinskoj kapeli misa pape Lava Četrnaestog i kardinala koji su ga izabrali.30-ak svjetskih čelnika na Putinovoj proslavi 80-te obljetnice pobjede nad fašizmom.U Zagrebu održan prosvjed triju obrazovnih sindikata.Urednica Sanja Cota</description>
+    <pubDate>Fri, 09 May 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/34/76/20250509-kronika-dana-36394178-20250509204101.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.05. 2025-05-08</title>
     <link>https://api.hrt.hr/media/fd/8e/20250508-kronika-dana-36390421-20250508205557.mp3</link>
     <description>69-godišnji Robert Francis Prevost, iz Sjedinjenih Američkih Država, izabran je za papu. Njegovo je papinsko ime Lav Četrnaesti. Urednica Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Nevrijeme u Istri, dijelovi Medulina pod vodom. Iz drugog pokušaja Njemačka dobila novog kancerala - Friedricha Merza.Sutra u Vatikanu počinje izbor novoga Pape.: Sanja Cota</description>
     <pubDate>Tue, 06 May 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/71/6a/20250506-kronika-dana-36383909-20250506204050.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.05. 2025-05-05</title>
-    <link>https://api.hrt.hr/media/e1/6d/20250505-kronika-dana-36380718-20250505204530.mp3</link>
-    <description>Vozač autobusa i vozač osobnog vozila prijavljeni zbog izazivanja prometne nesreće na autocesti, u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Hrana u Hrvatskoj skuplja 8 posto od europskog prosjeka. Nakon cjelovite obnove poslije potresa, u Zagrebu otvorene zgrade Arhitektonskoga, Građevinskog i Geodetskog fakulteta. Svi kardinali stigli u Vatikan, konklava počinje preksutra. Urednik: Silvio Šop</description>
-    <pubDate>Mon, 05 May 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e1/6d/20250505-kronika-dana-36380718-20250505204530.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
