@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 May 2025 14:20:50 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 13:58:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.05. 2025-05-09</title>
+    <link>https://api.hrt.hr/media/ee/fa/20250509-dnevne-novosti-36392883-20250509133105.mp3</link>
+    <description>Papa Lav Četrnaesti priv dan počeo misom s kardinalima u Sikstinskoj kapeli. U Moskvi održana vojna parada kojom je obilježena 80-a obljetnica pobjede nad fašizmom. Tri školska sindikata prosvjeduju na zagrebačkom Trgu bana Jelačića. Dan je Europe, obilježava se u mnogim hrvatskim gradovima. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 09 May 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ee/fa/20250509-dnevne-novosti-36392883-20250509133105.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.05. 2025-05-08</title>
     <link>https://api.hrt.hr/media/bd/7c/20250508-dnevne-novosti-36389429-20250508135556.mp3</link>
     <description>Crni dim i jutros u Vatikanu. Novi papa još nije izabran. Drugi krug glasovanja je poslijepodne od 17 i 30. Nastavljen crni niz na našim cestama - sinoć i jutros četvero poginulih. Indija i Pakistan i sinoć su razmjenjivali vatru duž granice u Kašmiru. Europa slavi Dan pobjede savezničkih snaga nad nacističkom Njemačkom u Drugom svjetskom ratu. U Zagrebu održana svečana akademija. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Njemačka ipak nije potvrdila novog kancerala Friedricha Merza. Sutra u Vatikanu počinje konklava - izbor novoga Pape.Nevrijeme s tučom u Slavoniji, velike su štete.Bivša SDP-ova županica Marina Lovrić Merzel priznala da je županijski novac trošila u privatne svrhe, osuđena na 7 mjeseci zatvora.Urednik: Mario Krstanović</description>
     <pubDate>Tue, 06 May 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c8/80/20250506-dnevne-novosti-36382912-20250506133057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.05. 2025-05-05</title>
-    <link>https://api.hrt.hr/media/ed/ac/20250505-dnevne-novosti-36379704-20250505133024.mp3</link>
-    <description>Policija prijavila oba vozača zbog izazivanja jučerašnje prometne nesreće u kojoj su poginule dvije osobe, a ozlijeđena je 31-na. Zašto nam je hrana 8 posto skuplja od europskog prosjeka? Istodobno je uvoz veći od 6 milijardi eura. Kandidat desnice Đorđe Simion pobijedio u prvom krugu predsjedničkih izbora u Rumunjskoj. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 05 May 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ed/ac/20250505-dnevne-novosti-36379704-20250505133024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
