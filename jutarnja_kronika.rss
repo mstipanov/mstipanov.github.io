@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 May 2025 05:49:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 05:56:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.05. 2025-05-09</title>
+    <link>https://api.hrt.hr/media/ae/ac/20250509-jutarnja-kronika-36391028-20250509053558.mp3</link>
+    <description>Svijet s nestrpljenjem očekuje prve poteze novoga pape Lava Četrnaestog, njegova je prva misa u Sikstinskoj kapeli u 11 sati. Zagrebački gradonačelnik Tomislav Tomašević trebao bi u USKOK-u svjedočiti o aferi Hipodrom. Tri školska sindikata u 14 sati organiziraju prosvjed na zagrebačkom Trgu bana Jelačića. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 09 May 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/ac/20250509-jutarnja-kronika-36391028-20250509053558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.05. 2025-05-08</title>
     <link>https://api.hrt.hr/media/a0/da/20250508-jutarnja-kronika-36387836-20250508053556.mp3</link>
     <description>Troje poginulih u teškoj prometnoj nesreći kod Opuzena. U Vatikanu sinoć pušten crni dim, danas novi krugovi glasovanja u izboru pape. Svijet poziva na mir između Indije i Pakistana. U Moskvi počinje obilježavanje Dana pobjede, kod Putina stiglo 25 svjetskih čelnika. Urednica: Ana-Bella Leikauff</description>
@@ -31,14 +39,6 @@
     <description>Istražni zatvor za dvojicu vozača koji su izazvali nesreću na autocesti A3 kod Popovače. Hrana u Hrvatskoj 8 posto skuplja od europskog prosjeka. U Vatikanu sve spremno za početak konklave i izbor novog pape. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 06 May 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/07/3f/20250506-jutarnja-kronika-36381316-20250506053529.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.05. 2025-05-05</title>
-    <link>https://api.hrt.hr/media/c7/5c/20250505-jutarnja-kronika-36378038-20250505053515.mp3</link>
-    <description>Nakon tragičnog sudara autobusa i automobila uhićena dvojica vozača. Na autocesti ipak nije bilo srne. Danas svečano otvorenje zgrade Arhitektonskoga, Građevinskoga i Geodetskog fakulteta Sveučilišta u Zagrebu. Euroskeptik Simion relativni je pobjednik prvog kruga ponovljenih rumunjskih predsjedničkih izbora. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 05 May 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c7/5c/20250505-jutarnja-kronika-36378038-20250505053515.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
