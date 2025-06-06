@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Jun 2025 09:47:41 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 20:43:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.06. 2025-06-06</title>
+    <link>https://api.hrt.hr/media/a2/da/20250606-kronika-dana-36478448-20250606203517.mp3</link>
+    <description>Nastavlja se proces mirenja Vlade i obrazovnih sindikata, obje strane malo zadovoljnije. Novi pravilnik postrožit će liječnicima mogućnost za dopunski rad u privatnim zdravstvenim ustanovama. Rusija napadom na Kijev odgovorila na ukrajinsku akciju uništenja zrakoplova u ruskim bazama. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 06 Jun 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a2/da/20250606-kronika-dana-36478448-20250606203517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.06. 2025-06-05</title>
     <link>https://api.hrt.hr/media/ab/6d/20250605-kronika-dana-36474789-20250605204019.mp3</link>
     <description>SDP raspušta stranačka tijela u četiri grada - Zagrebu, Rijeci, Splitu i Osijeku. USKOK je počeo istragu protiv svih 10-ero uhićenih zbog korupcije u zagrebačkoj bolnici Sveti Duh. Države članice NATO-a složile se o jačanju obrambenih sposobnosti, uključujući zračnu obranu, zrakoplove, tenkove i bespilotne letjelice. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Prvi sastanak vladajuće koalicije nakon lokalnih izbora. Poraz vladajučih u Vukovaru neće utjecati na stabilnost koalicije. Nakon višemjesečnog pada inflacija ponovo raste, 3 i pol posto u svibnju. Jedan od pokretača rast domaće potrošnje. Izraelci ponovo napali Palestince koji su došli po hranu. I sutra sunčano s temperaturama do 32 stupnja. Urednik je Grgo Mrvica</description>
     <pubDate>Tue, 03 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e3/4b/20250603-kronika-dana-36467894-20250603204053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.06. 2025-06-02</title>
-    <link>https://api.hrt.hr/media/1f/d6/20250602-kronika-dana-36464646-20250602203540.mp3</link>
-    <description>Lokalni izbori pokazali su da je oporbena politika plašenja birača HDZ-om doživjela potpuni potop, ustvrdio premijer Plenković. U Istanbulu brzo završili pregovori, Rusi i Ukrajinci bez dogovora o primirju.U Zagrebu otvoren Animafest, najvažniji hrvatski međunarodni festival.Urednica Sanja Cota.</description>
-    <pubDate>Mon, 02 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1f/d6/20250602-kronika-dana-36464646-20250602203540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
