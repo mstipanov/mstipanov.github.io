@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 06 Jun 2025 09:47:40 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 14:09:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.06. 2025-06-06</title>
+    <link>https://api.hrt.hr/media/72/08/20250606-dnevne-novosti-36477294-20250606133518.mp3</link>
+    <description>U 16 sati novi pokušaj mirenja Vlade i obrazovnih sindikata. Slijedi li ipak štrajk u srednjim školama u zadnjem tjednu nastave? Na Thompsonovu koncertu 5. srpnja šank dug dva kilometra i pokretna bolnica.Rusija tijekom noći izvela jedan od najvećih napada bespilotnim letjelicama i raketama na glavni grad Ukrajine. Žestoka svađa dojučerašnjih suradnika Donalda Trumpa i Elona Muska. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 06 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/72/08/20250606-dnevne-novosti-36477294-20250606133518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.06. 2025-06-05</title>
     <link>https://api.hrt.hr/media/d9/e0/20250605-dnevne-novosti-36473592-20250605133514.mp3</link>
     <description>Sindikati će idući tjedan dobiti poziv na pregovore o dodatku kolektivnog ugovora, objavila Vlada. U Saboru izvješće o obnovi od potresa, ministar Bačić najavio da će kompletno biti gotova 2030. godine. Ministri obrane zemalja NATO saveza na sastanku u Briselu. U Zagrebu počinje festival Cest is d'Best. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Saboru godišnje izvješće o obrani i stanju u Oružanim snagama. Inflacija se u Hrvatskoj prošli mjesec ubrzala na 3 i pol posto. Više od 50 posto članova sindikata u srednjim školama spremno štrajkati. Najmanje 27 poginulih u Gazi u izraelskom napadu na ljude koji su čekali podjelu hrane. Urednik: Silvio Šop</description>
     <pubDate>Tue, 03 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d8/9f/20250603-dnevne-novosti-36466872-20250603133027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.06. 2025-06-02</title>
-    <link>https://api.hrt.hr/media/87/9d/20250602-dnevne-novosti-36463621-20250602133055.mp3</link>
-    <description>Nakon drugog kruga lokalnih izbora, Tomislav Tomašević ponovno izabran za zagrebačkoga gradonačelnika, preokret u Rijeci, Splitu, Vukovaru i Puli. Od preostalih 12 županija, HDZ samostalno osvojio 8, SDP dvije. Zagrebački župan Stjepan Kožić pobijedio je uz potporu HDZ-a, a Boris Miletić izabran je za istarskog župana. Karol Nawrocki novi je poljski predsjednik. U Istanbulu još jedan krug ukrajinsko-ruskih mirovnih pregovora. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 02 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/87/9d/20250602-dnevne-novosti-36463621-20250602133055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
