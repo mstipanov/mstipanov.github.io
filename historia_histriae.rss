@@ -6,10 +6,42 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 08 May 2025 15:51:09 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 11:32:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Zoran Karlić 2025-06-05</title>
+    <link>https://api.hrt.hr/media/19/ee/20250605-historia-histriae-8189034-20250605164518.mp3</link>
+    <description>U goste nam dolazi jedan od najpoznatijih istarskih kantadura i svirača - Zoran Karlić!</description>
+    <pubDate>Thu, 05 Jun 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/19/ee/20250605-historia-histriae-8189034-20250605164518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>NINOSLAV MOGOROVIĆ (R) 2025-05-29</title>
+    <link>https://api.hrt.hr/media/f6/4c/20250529-historia-histriae-8187014-20250529142536.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 29 May 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f6/4c/20250529-historia-histriae-8187014-20250529142536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Historia za 22.5. 2025-05-22</title>
+    <link>https://api.hrt.hr/media/95/55/20250522-historia-histriae-8185180-20250522151031.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 22 May 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/95/55/20250522-historia-histriae-8185180-20250522151031.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Josip Iskra (R) 2025-05-15</title>
+    <link>https://api.hrt.hr/media/86/08/20250515-historia-histriae-8182699-20250515160524.mp3</link>
+    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
+    <pubDate>Thu, 15 May 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/86/08/20250515-historia-histriae-8182699-20250515160524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>ĐINO MATOŠIĆ (r) 2025-05-08</title>
     <link>https://api.hrt.hr/media/be/3c/20250508-historia-histriae-8180774-20250508151100.mp3</link>
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
@@ -55,38 +87,6 @@
     <description>Ovog puta s Kristijanom Žgaljardićem govorimo o povijesti jednog naselja koje podsjeća na orlovsko gnijezdo - Paz! </description>
     <pubDate>Thu, 13 Mar 2025 16:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/54/ee/20250313-historia-histriae-8164259-20250313170058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kristijan Žgaljardić - Povijest Gologorice 2025-03-06</title>
-    <link>https://api.hrt.hr/media/12/35/20250306-historia-histriae-8162224-20250306165554.mp3</link>
-    <description>U goste nam se vraća povjesničar Kristijan Žgaljardić, a pričamo o povijesti Gologorice!</description>
-    <pubDate>Thu, 06 Mar 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/12/35/20250306-historia-histriae-8162224-20250306165554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Goran Prodan 2025-02-27</title>
-    <link>https://api.hrt.hr/media/49/f8/20250227-historia-histriae-8159947-20250227171017.mp3</link>
-    <description>U goste nam dolazi poznati novinar i urednik Goran Prodan, a pričamo o povijesti satire i legendarnog tjednika LaKost. </description>
-    <pubDate>Thu, 27 Feb 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/49/f8/20250227-historia-histriae-8159947-20250227171017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>SERGIO GOBBO EMISIJA 2025-02-20</title>
-    <link>https://api.hrt.hr/media/25/1d/20250220-historia-histriae-8157959-20250220171020.mp3</link>
-    <description>U goste nam dolazi kolekcionar Sergio Gobbo, a naša tema je kolekcija posvećena austrougarskoj mornarici. </description>
-    <pubDate>Thu, 20 Feb 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/25/1d/20250220-historia-histriae-8157959-20250220171020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Historia Histriae(R) 2025-02-13</title>
-    <link>https://api.hrt.hr/media/a3/a5/20250213-historia-histriae-8155304-20250213162013.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 13 Feb 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a3/a5/20250213-historia-histriae-8155304-20250213162013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
