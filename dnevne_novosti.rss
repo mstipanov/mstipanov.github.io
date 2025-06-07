@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 07 Jun 2025 06:06:11 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 13:49:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 07.06. 2025-06-07</title>
+    <link>https://api.hrt.hr/media/f4/0f/20250607-dnevne-novosti-36479869-20250607133024.mp3</link>
+    <description>U dvjema prometnim nesrećama sinoć poginulo troje ljudi. Pojačan promet prema moru. Hrvatska narodna banka u ljetnim predviđanjima najavljuje sporiji rast BDP-a, ali i inflacije. Najmanje je petero poginulih i više od 20 ranjenih u noćašnjem napadu na ukrajinske gradove Harkiv i Herson. Nakon mnogobrojnih prijava o nepravilnostima, Državno izborno povjerenstvo odbacilo kritike i ističe da su birački odbori educirani. Urednik: Grgo Mrvica</description>
+    <pubDate>Sat, 07 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f4/0f/20250607-dnevne-novosti-36479869-20250607133024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 06.06. 2025-06-06</title>
     <link>https://api.hrt.hr/media/72/08/20250606-dnevne-novosti-36477294-20250606133518.mp3</link>
     <description>U 16 sati novi pokušaj mirenja Vlade i obrazovnih sindikata. Slijedi li ipak štrajk u srednjim školama u zadnjem tjednu nastave? Na Thompsonovu koncertu 5. srpnja šank dug dva kilometra i pokretna bolnica.Rusija tijekom noći izvela jedan od najvećih napada bespilotnim letjelicama i raketama na glavni grad Ukrajine. Žestoka svađa dojučerašnjih suradnika Donalda Trumpa i Elona Muska. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U Kliničkoj bolnici Sveti Duh u Zagrebu zbog korupcije uhićeno 10 osoba. Među njima su liječnici, medicinske sestre i tehničari. Objavljene pojedinosti vojnog osposobljavanja koje bi trebalo početi potkraj ove ili početkom iduće godine. Za žene nije obvezno, ali se mogu prijaviti. Stupile na snagu udvostručene američke carine na čelik i aluminij. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 04 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9d/c0/20250604-dnevne-novosti-36470263-20250604133100.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 03.06. 2025-06-03</title>
-    <link>https://api.hrt.hr/media/d8/9f/20250603-dnevne-novosti-36466872-20250603133027.mp3</link>
-    <description>U Saboru godišnje izvješće o obrani i stanju u Oružanim snagama. Inflacija se u Hrvatskoj prošli mjesec ubrzala na 3 i pol posto. Više od 50 posto članova sindikata u srednjim školama spremno štrajkati. Najmanje 27 poginulih u Gazi u izraelskom napadu na ljude koji su čekali podjelu hrane. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 03 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d8/9f/20250603-dnevne-novosti-36466872-20250603133027.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
