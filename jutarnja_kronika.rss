@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 10 Jun 2025 20:02:26 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 06:00:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.06. 2025-06-11</title>
+    <link>https://api.hrt.hr/media/9b/60/20250611-jutarnja-kronika-36490104-20250611053559.mp3</link>
+    <description>U Austriji prvi od tri dana žalosti proglašenih zbog tragedije u školi u Grazu. Ukupan broj žrtava, uključujući napadača, je jedanaest. Školski sindikati i Vlada dogovorili tekst sporazuma o kojem će se članstvo tek izjasniti, tako da je štrajk u srednjim školama i dalje moguć. Gradonačelnica Los Angelesa uvela je policijski sat u središtu grada. Slovačka prijeti vetom na novi paket sankcija Europske unije Rusiji. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 11 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9b/60/20250611-jutarnja-kronika-36490104-20250611053559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.06. 2025-06-10</title>
     <link>https://api.hrt.hr/media/1d/98/20250610-jutarnja-kronika-36486645-20250610054032.mp3</link>
     <description>Danas novi krug mirenja Vlade i sindikata. U 9 sati počinje konstituirajuća sjednica zagrebačke Gradske skupštine. U Los Angeles stiže 700 marinaca zbog suzbijanja nereda. Hrvatska u Osijeku pregazila Češku 5:1 u kvalifikacijskoj utakmici za Svjetsko nogometno prvenstvo. Vrijeme danas: sunčano i vruće uz najvišu temperaturu do 30 stupnjeva. Urednik: Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>I sinoć dvoje poginulih na hrvatskim cestama. Zbog izbora za varaždinskog župana SDP će se žaliti Ustavnom sudu. Dodjelom nagrada u Zagrebu sinoć završio Anima fest, a danas počinje Festival kratke priče. Portugal i Španjolska u 21 sat u Minhenu igraju za pobjednika Lige nacija. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 08 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/19/2e/20250608-jutarnja-kronika-36481189-20250608053550.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.06. 2025-06-07</title>
-    <link>https://api.hrt.hr/media/dc/d6/20250607-jutarnja-kronika-36479019-20250607060025.mp3</link>
-    <description>Nastavlja se mirenje Vlade i obrazovnih sindikata, do utorka ne može početi štrajk u srednjim školama. Stroža pravila za liječnike koji žele raditi u privatnim klinikama. Antunovski hod u Zagrebu. Očekuje se više od 15 tisuća mladih vjernika. Uvjerljiva pobjeda Hrvatske protiv Gibraltara 7:0 na početku kvalifikacija za Svjetsko nogometno prvenstvo. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 07 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/dc/d6/20250607-jutarnja-kronika-36479019-20250607060025.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
