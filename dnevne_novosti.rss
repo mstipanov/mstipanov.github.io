@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 11 Jun 2025 20:09:51 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 13:48:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.06. 2025-06-12</title>
+    <link>https://api.hrt.hr/media/fa/b9/20250612-dnevne-novosti-36495066-20250612133528.mp3</link>
+    <description>Zrakoplov tvrtke Air India s 242-oje putnika srušio se samo nekoliko minuta nakon polijetanja iz indijskoga grada Ahmedabada. Zbog zloporabe položaja u aferi "softver" bivša ministrica Gabrijela Žalac nepravomoćno osuđena na dvije godine zatvora. Od sljedećeg mjeseca poskupljuju cigarete i svi duhanski proizvodi. Trošarine rastu za više od 5 posto. Urednica: Mira Barić</description>
+    <pubDate>Thu, 12 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fa/b9/20250612-dnevne-novosti-36495066-20250612133528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.06. 2025-06-11</title>
     <link>https://api.hrt.hr/media/50/da/20250611-dnevne-novosti-36491738-20250611132523.mp3</link>
     <description>USKOK ponovno u akciji. Uhićenja diljem zemlje zbog korupcije, ali i preprodaje droga. Petorica zatvorenika splitskog zatvora, koja su stradala u požaru, i dalje životno ugrožena. U petak konačna odluka o štrajku u školama. Novi snažni ruski napad na Harkiv, među ranjenima osmero djece.U Austriji žalost zbog poginulih u jučerašnjem masakru u školi u Grazu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Zbog jučerašnje nezgode u zagrebačkoj zračnoj luci otkazano gotovo 60 letova, promet danas teče normalno. Mirnije u Los Angelesu - prosvjednici se povukli iz središta grada.se opraštaju od Matije Dedića.	Urednica: Sanja Cota</description>
     <pubDate>Mon, 09 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/70/54/20250609-dnevne-novosti-36485043-20250609132545.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.06. 2025-06-08</title>
-    <link>https://api.hrt.hr/media/35/e8/20250608-dnevne-novosti-36482182-20250608133041.mp3</link>
-    <description>Neredi na ulicama Los Angelesa zbog uhićenja ilegalnih imigranata. Trump šalje 2000 pripadnika Nacionalne garde da uguši prosvjede. Ruska vojska otvorila novo bojište - prvi put napadnuta regija kod Donjecka. U tjedan dana na hrvatskim cestama poginulo 12 ljudi. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 08 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/35/e8/20250608-dnevne-novosti-36482182-20250608133041.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
