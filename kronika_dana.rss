@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 11 Jun 2025 21:05:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 20:52:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Promet u zagrebačkoj zračnoj luci je normaliziran, zbog jučerašnje nezgode Cesne pri slijetanju otkazano je 59 letova. Sutra novi krug mirenja školskih sindikata i Vlade. Kalifornijski guverner tužio predsjednika Donalda Trumpa, tvrdi da je neustavno rasporedio nacionalnu gardu u Los Angelesu. SPORT: Hrvatska nogometna reprezentacija večeras u Osijeku igra protiv Češke u sklopu kvalifikacija za Svjetsko prvenstvo. Trenutačni je rezultat 5:1 za Hrvatsku! Urednik: Silvio Šop</description>
     <pubDate>Mon, 09 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5f/43/20250609-kronika-dana-36486014-20250609204053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.06. 2025-06-08</title>
-    <link>https://api.hrt.hr/media/a2/ca/20250608-kronika-dana-36482919-20250608203537.mp3</link>
-    <description>U 53. godini umro Matija Dedić, skladatelji i jedan od najpoznatijih hrvatskih jazz-pijanista. Zbog slijetanja malog zrakoplova s piste od poslijepodne zatvorena zagrebačka zračna luka. U Los Angelesu prosvjedi protiv uhićenja imigranata, Trump poslao Nacionalnu gardu. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 08 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a2/ca/20250608-kronika-dana-36482919-20250608203537.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
