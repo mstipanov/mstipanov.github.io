@@ -6,10 +6,18 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 07 Jun 2025 06:06:16 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 16:18:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Soški front 2025-06-12</title>
+    <link>https://api.hrt.hr/media/3e/5e/20250612-historia-histriae-8191022-20250612155528.mp3</link>
+    <description>Pričamo o jednoj od najstrašnijih epizoda u Prvom svjetskom ratu - o Soškom frontu.....naš gost je Kristijan Žgaljardić! </description>
+    <pubDate>Thu, 12 Jun 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3e/5e/20250612-historia-histriae-8191022-20250612155528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Zoran Karlić 2025-06-05</title>
     <link>https://api.hrt.hr/media/19/ee/20250605-historia-histriae-8189034-20250605164518.mp3</link>
     <description>U goste nam dolazi jedan od najpoznatijih istarskih kantadura i svirača - Zoran Karlić!</description>
@@ -79,14 +87,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 03 Apr 2025 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4b/7c/20250403-historia-histriae-8170329-20250403160554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Povijest Paza 2025-03-13</title>
-    <link>https://api.hrt.hr/media/54/ee/20250313-historia-histriae-8164259-20250313170058.mp3</link>
-    <description>Ovog puta s Kristijanom Žgaljardićem govorimo o povijesti jednog naselja koje podsjeća na orlovsko gnijezdo - Paz! </description>
-    <pubDate>Thu, 13 Mar 2025 16:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/54/ee/20250313-historia-histriae-8164259-20250313170058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
