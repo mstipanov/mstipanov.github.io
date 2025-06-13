@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Jun 2025 00:08:49 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 20:35:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U pucnjavi u srednjoj školi u Grazu - jedanaestero mrtvih. Napadač, bivši učenik te škole, počinio samoubojstvo. Požar u zatvoru na splitskim Bilicama - šest osoba hospitalizirano, petero ih se bori za život. Ministar pravosuđa Damir Habjan kaže: pravosudna policija spriječila veću tragediju. Obrazovni sindikati i Vlada dogovorili tekst sporazuma o kojem će se članstvo tek izjasniti. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 10 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/65/90/20250610-kronika-dana-36489473-20250610203558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.06. 2025-06-09</title>
-    <link>https://api.hrt.hr/media/5f/43/20250609-kronika-dana-36486014-20250609204053.mp3</link>
-    <description>Promet u zagrebačkoj zračnoj luci je normaliziran, zbog jučerašnje nezgode Cesne pri slijetanju otkazano je 59 letova. Sutra novi krug mirenja školskih sindikata i Vlade. Kalifornijski guverner tužio predsjednika Donalda Trumpa, tvrdi da je neustavno rasporedio nacionalnu gardu u Los Angelesu. SPORT: Hrvatska nogometna reprezentacija večeras u Osijeku igra protiv Češke u sklopu kvalifikacija za Svjetsko prvenstvo. Trenutačni je rezultat 5:1 za Hrvatsku! Urednik: Silvio Šop</description>
-    <pubDate>Mon, 09 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5f/43/20250609-kronika-dana-36486014-20250609204053.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
