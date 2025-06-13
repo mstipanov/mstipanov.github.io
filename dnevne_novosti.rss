@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Jun 2025 13:33:22 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 13:48:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.06. 2025-06-13</title>
+    <link>https://api.hrt.hr/media/07/a6/20250613-dnevne-novosti-36498507-20250613133552.mp3</link>
+    <description>Izrael napao iranska nuklearna postrojenja i eliminirao pripadnike iranskoga vojnog vrha te nuklearne znanstvenike. Poslušajte i razgovor s našim veleposlanikom u Teheranu. U zagrebačkim bolnicama umrlo još dvoje radnika teško ozlijeđenih u jučerašnjoj eksploziji u Čazmi. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 13 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/a6/20250613-dnevne-novosti-36498507-20250613133552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.06. 2025-06-12</title>
     <link>https://api.hrt.hr/media/fa/b9/20250612-dnevne-novosti-36495066-20250612133528.mp3</link>
     <description>Zrakoplov tvrtke Air India s 242-oje putnika srušio se samo nekoliko minuta nakon polijetanja iz indijskoga grada Ahmedabada. Zbog zloporabe položaja u aferi "softver" bivša ministrica Gabrijela Žalac nepravomoćno osuđena na dvije godine zatvora. Od sljedećeg mjeseca poskupljuju cigarete i svi duhanski proizvodi. Trošarine rastu za više od 5 posto. Urednica: Mira Barić</description>
