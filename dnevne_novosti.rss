@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 13 Jun 2025 14:03:36 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jun 2025 13:46:27 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.06. 2025-06-14</title>
+    <link>https://api.hrt.hr/media/56/ec/20250614-dnevne-novosti-36500937-20250614133104.mp3</link>
+    <description>Nastavljaju se izraelski napadi na Iran koji prijeti zapadnim zemljama, Tel Aviv poručio da će Teheran gorjeti.Energetski stručnjaci zasad ne očekuju rast cijena goriva, no koliku štetu globalnom tržištu nanosi rat Irana i Izraela, vidjet ćemo u ponedjeljak kad se otvore burze. Zagrebačka policija traga za ubojicom žene i muškarca čija su tijela sinoć pronađena u automobilu u garaži. Urednica: Mira Barić.</description>
+    <pubDate>Sat, 14 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/56/ec/20250614-dnevne-novosti-36500937-20250614133104.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.06. 2025-06-13</title>
     <link>https://api.hrt.hr/media/07/a6/20250613-dnevne-novosti-36498507-20250613133552.mp3</link>
     <description>Izrael napao iranska nuklearna postrojenja i eliminirao pripadnike iranskoga vojnog vrha te nuklearne znanstvenike. Poslušajte i razgovor s našim veleposlanikom u Teheranu. U zagrebačkim bolnicama umrlo još dvoje radnika teško ozlijeđenih u jučerašnjoj eksploziji u Čazmi. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>USKOK ponovno u akciji. Uhićenja diljem zemlje zbog korupcije, ali i preprodaje droga. Petorica zatvorenika splitskog zatvora, koja su stradala u požaru, i dalje životno ugrožena. U petak konačna odluka o štrajku u školama. Novi snažni ruski napad na Harkiv, među ranjenima osmero djece.U Austriji žalost zbog poginulih u jučerašnjem masakru u školi u Grazu. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 11 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/50/da/20250611-dnevne-novosti-36491738-20250611132523.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.06. 2025-06-10</title>
-    <link>https://api.hrt.hr/media/99/51/20250610-dnevne-novosti-36488370-20250610133036.mp3</link>
-    <description>Pucnjava u srednjoj školi u Grazu - desetero mrtvih, uključujući napadača. Rusija je protekle noći bespilotnim letjelicama i projektilima napala civilne ciljeve u Kijevu i Odesi, pogođeno i rodilište. Pregovori školskih sindikata i Vlade - hoće li biti štrajka? Požar u zatvoru na splitskim Bilicama - šest osoba hospitalizirano, petero životno ugroženo. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 10 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/99/51/20250610-dnevne-novosti-36488370-20250610133036.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
