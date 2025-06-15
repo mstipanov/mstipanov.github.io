@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Jun 2025 05:51:55 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 06:22:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 15.06. 2025-06-15</title>
+    <link>https://api.hrt.hr/media/34/b7/20250615-jutarnja-kronika-36502428-20250615060521.mp3</link>
+    <description>Iran i Izrael nastavili međusobne zračne napade. Poginulih i ranjenih ima na objema stranama.Trumpovu vojnu paradu zasjenjenili val nasilja i masovni prosvjedi. Još traje potraga za čovjekom koji je ubio zastupnicu Demokratske stranke Melissu Hortman i njezina supruga. Mjuziklom Ptica čarobnih krila u Šibeniku otvoren Međunarodni dječji festival. Urednica: Mira Barić.</description>
+    <pubDate>Sun, 15 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/34/b7/20250615-jutarnja-kronika-36502428-20250615060521.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 14.06. 2025-06-14</title>
     <link>https://api.hrt.hr/media/ca/85/20250614-jutarnja-kronika-36500055-20250614053555.mp3</link>
     <description>Dvostruko ubojstvo u Zagrebu - policija traga za počiniteljem. Iran odgovorio na izraelske napade te napadom zaprijetio i zemljama koje pokušaju braniti Izrael.
