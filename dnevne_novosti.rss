@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 14 Jun 2025 20:03:15 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 13:53:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.06. 2025-06-15</title>
+    <link>https://api.hrt.hr/media/e4/ab/20250615-dnevne-novosti-36503280-20250615133026.mp3</link>
+    <description>Izraelska vojska izvela je nove napade na vojne i nuklearne ciljeve u Iranu dok su iranske snage uzvratile raketiranjem izraelskih gradova. Vojnu paradu američkog predsjednika Donalda Trumpa zasjenili val nasilja i masovni prosvjedi. Još traje potraga za ubojicom zastupnice Demokratske stranke Melisse Hortman i njezina supruga. U teškoj prometnoj nesreći rano jutros u Požegi pet osoba ozlijeđeno.Sinoć održana tradicionalna novigradska "Dagnjada". Urednik: Silvio Šop</description>
+    <pubDate>Sun, 15 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e4/ab/20250615-dnevne-novosti-36503280-20250615133026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.06. 2025-06-14</title>
     <link>https://api.hrt.hr/media/56/ec/20250614-dnevne-novosti-36500937-20250614133104.mp3</link>
     <description>Nastavljaju se izraelski napadi na Iran koji prijeti zapadnim zemljama, Tel Aviv poručio da će Teheran gorjeti.Energetski stručnjaci zasad ne očekuju rast cijena goriva, no koliku štetu globalnom tržištu nanosi rat Irana i Izraela, vidjet ćemo u ponedjeljak kad se otvore burze. Zagrebačka policija traga za ubojicom žene i muškarca čija su tijela sinoć pronađena u automobilu u garaži. Urednica: Mira Barić.</description>
@@ -31,14 +39,6 @@
     <description>Zrakoplov tvrtke Air India s 242-oje putnika srušio se samo nekoliko minuta nakon polijetanja iz indijskoga grada Ahmedabada. Zbog zloporabe položaja u aferi "softver" bivša ministrica Gabrijela Žalac nepravomoćno osuđena na dvije godine zatvora. Od sljedećeg mjeseca poskupljuju cigarete i svi duhanski proizvodi. Trošarine rastu za više od 5 posto. Urednica: Mira Barić</description>
     <pubDate>Thu, 12 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fa/b9/20250612-dnevne-novosti-36495066-20250612133528.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.06. 2025-06-11</title>
-    <link>https://api.hrt.hr/media/50/da/20250611-dnevne-novosti-36491738-20250611132523.mp3</link>
-    <description>USKOK ponovno u akciji. Uhićenja diljem zemlje zbog korupcije, ali i preprodaje droga. Petorica zatvorenika splitskog zatvora, koja su stradala u požaru, i dalje životno ugrožena. U petak konačna odluka o štrajku u školama. Novi snažni ruski napad na Harkiv, među ranjenima osmero djece.U Austriji žalost zbog poginulih u jučerašnjem masakru u školi u Grazu. Urednik: Grgo Mrvica</description>
-    <pubDate>Wed, 11 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/50/da/20250611-dnevne-novosti-36491738-20250611132523.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
