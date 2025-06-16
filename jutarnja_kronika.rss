@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Jun 2025 19:21:39 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 05:36:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.06. 2025-06-16</title>
+    <link>https://api.hrt.hr/media/39/b6/20250616-jutarnja-kronika-36504576-20250616053025.mp3</link>
+    <description>Izrael i Iran ne prestaju s međusobnim napadima. Iranski ministar vanjskih poslova izjavio je da je njegova zemlja spremna prekinuti napade ako Izrael zaustavi agresiju. Zbog tragične pogibije troje radnika Drvne industrije prošlog tjedna, u Čazmi je Dan žalosti. Sabor ovaj tjedan zasjeda do srijede, rad nastavlja raspravom o prijedlogu Zakona o javnobilježničkim pristojbama. Otvara se prvi hotel poznatog lanca Hilton na našim otocima - "Preko, Curio Collection by Hilton". Urednik: Silvio Šop</description>
+    <pubDate>Mon, 16 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/39/b6/20250616-jutarnja-kronika-36504576-20250616053025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.06. 2025-06-15</title>
     <link>https://api.hrt.hr/media/34/b7/20250615-jutarnja-kronika-36502428-20250615060521.mp3</link>
     <description>Iran i Izrael nastavili međusobne zračne napade. Poginulih i ranjenih ima na objema stranama.Trumpovu vojnu paradu zasjenjenili val nasilja i masovni prosvjedi. Još traje potraga za čovjekom koji je ubio zastupnicu Demokratske stranke Melissu Hortman i njezina supruga. Mjuziklom Ptica čarobnih krila u Šibeniku otvoren Međunarodni dječji festival. Urednica: Mira Barić.</description>
@@ -32,14 +40,6 @@ U Šibeniku počinje međunarodni dječji festival. Urednica: Marija Gerbec Njav
     <description>Izrael napao Iran, tvrde da su gađali postrojenja za obogaćivanje uranija, eksplozije odjekuju i u Teheranu. Iran najavio osvetu. Traje potraga za poginulima u padu indijskog zrakoplova, službenih informacija o uzrocima pada zasad nema. Tragedija jučer u Čazmi. Jedna je radnica poginula, a dvoje radnika teško je ozlijeđeno u eksploziji i požaru u pilani. Obrazovni sindikati trebali bi objaviti konačnu odluku o tome idu li u štrajk. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 13 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/da/5a/20250613-jutarnja-kronika-36496970-20250613053058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.06. 2025-06-12</title>
-    <link>https://api.hrt.hr/media/e6/b8/20250612-jutarnja-kronika-36493548-20250612053525.mp3</link>
-    <description>Zbog sumnje na korupciju uhićen bivši šef Hrvatskih cesta Josip Škorić, direktor u istoj tvrtci Silvio Čamber te još nekoliko osoba. Mito uključivalo večere, građevinske radove i zrakoplovne karte. Na sjednici saborskog Odbora za pravosuđe predstavit će se troje kandidata za predsjednika Vrhovnog suda. U Odesi održan sastanak na vrhu Jugoistočna Europa - Ukrajina. Počinje 18. Festival Mediteranskog filma u Splitu. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 12 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e6/b8/20250612-jutarnja-kronika-36493548-20250612053525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
