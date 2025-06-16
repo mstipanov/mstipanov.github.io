@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 15 Jun 2025 19:21:38 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 13:38:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.06. 2025-06-16</title>
+    <link>https://api.hrt.hr/media/bd/cf/20250616-dnevne-novosti-36506132-20250616133028.mp3</link>
+    <description>Raste broj poginulih u najnovijem ratnom sukobu između Izraela i Irana. Iran se povlači iz nuklearnog sporazuma. Hrvatska diplomacija nastoji izvući naše državljane s ratnih područja. Još jedno iznenađenje lokalnih izbora, u trećem krugu u Baškoj Vodi nakon osam mandata HDZ-a, za načelnika izabran Vjekoslav Radić, kandidat Nezavisne liste mladih i SDP-a. U Preku na otoku Ugljanu otvoren luksuzni hotel Hilton. : Grgo Mrvica</description>
+    <pubDate>Mon, 16 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/cf/20250616-dnevne-novosti-36506132-20250616133028.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.06. 2025-06-15</title>
     <link>https://api.hrt.hr/media/e4/ab/20250615-dnevne-novosti-36503280-20250615133026.mp3</link>
     <description>Izraelska vojska izvela je nove napade na vojne i nuklearne ciljeve u Iranu dok su iranske snage uzvratile raketiranjem izraelskih gradova. Vojnu paradu američkog predsjednika Donalda Trumpa zasjenili val nasilja i masovni prosvjedi. Još traje potraga za ubojicom zastupnice Demokratske stranke Melisse Hortman i njezina supruga. U teškoj prometnoj nesreći rano jutros u Požegi pet osoba ozlijeđeno.Sinoć održana tradicionalna novigradska "Dagnjada". Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Izrael napao iranska nuklearna postrojenja i eliminirao pripadnike iranskoga vojnog vrha te nuklearne znanstvenike. Poslušajte i razgovor s našim veleposlanikom u Teheranu. U zagrebačkim bolnicama umrlo još dvoje radnika teško ozlijeđenih u jučerašnjoj eksploziji u Čazmi. Urednica: Sanja Cota</description>
     <pubDate>Fri, 13 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/07/a6/20250613-dnevne-novosti-36498507-20250613133552.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.06. 2025-06-12</title>
-    <link>https://api.hrt.hr/media/fa/b9/20250612-dnevne-novosti-36495066-20250612133528.mp3</link>
-    <description>Zrakoplov tvrtke Air India s 242-oje putnika srušio se samo nekoliko minuta nakon polijetanja iz indijskoga grada Ahmedabada. Zbog zloporabe položaja u aferi "softver" bivša ministrica Gabrijela Žalac nepravomoćno osuđena na dvije godine zatvora. Od sljedećeg mjeseca poskupljuju cigarete i svi duhanski proizvodi. Trošarine rastu za više od 5 posto. Urednica: Mira Barić</description>
-    <pubDate>Thu, 12 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fa/b9/20250612-dnevne-novosti-36495066-20250612133528.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
