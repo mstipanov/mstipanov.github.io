@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 17 Jun 2025 09:13:39 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jun 2025 20:40:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -32,14 +32,6 @@ Urednica: Mira Barić</description>
     <description>Iran i Izrael nastavljaju međusobne zračne napade. Poginulo je više od 80 ljudi. Iran razmišlja o zatvaranju Hormuškog tjesnaca, kojim prolazi oko 20 posto globalne potrošnje naftnih derivata. U američkoj saveznoj državi Minesoti ubijena demokratska zastupnica i njezin suprug, u drugom napadu demokratski zastupnik i njegova supruga ranjeni. Zagrebačka policija još traga za ubojicom žene i muškarca čija su tijela sinoć pronađena u automobilu u garaži. U Zagrebu održan Pride, u Splitu Hod za život. Urednik: Silvio Šop</description>
     <pubDate>Sat, 14 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b1/0f/20250614-kronika-dana-36501821-20250614205109.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.06. 2025-06-13</title>
-    <link>https://api.hrt.hr/media/aa/ab/20250613-kronika-dana-36499527-20250613204055.mp3</link>
-    <description>Iran uzvratio na izraelske napade. Iranske balističke rakete padaju na središte Tel Aviva. Umrlo još dvoje radnika, teško ozlijeđenih u jučerašnjoj eksploziji u Čazmi. Sindikati i Vlada potpisali sporazum, neće biti štrajka u školama. Urednica: Mira Barić</description>
-    <pubDate>Fri, 13 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/aa/ab/20250613-kronika-dana-36499527-20250613204055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
