@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 17 Jun 2025 20:40:48 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 13:31:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.06. 2025-06-18</title>
+    <link>https://api.hrt.hr/media/87/03/20250618-dnevne-novosti-36512256-20250618133010.mp3</link>
+    <description>Indijski premijer Narendra Modi stigao u službeni posjet našoj zemlji. Hrvatska je odlučila evakuirati službenike veleposlanstava u Teheranu i Tel Avivu. Osumnjičeni za zločin u Markuševcu terete se za kazneno djelo teškog ubojstva. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 18 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/87/03/20250618-dnevne-novosti-36512256-20250618133010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.06. 2025-06-17</title>
     <link>https://api.hrt.hr/media/e9/80/20250617-dnevne-novosti-36509162-20250617133007.mp3</link>
     <description>Dvojica uhićenih za ubojstvo u Zagrebu, jedan od njih pripadnik Počasno-zaštitne bojne s Pantovčaka, odnosno Oružanih snaga. Ispred zadarske luke spašeni putnici i posada s katamarana u koji je prodrlo more. Vladajuća koalicija neće poduprijeti Sandru Artuković Kunšt, kandidatkinju predsjednika Republike za predsjednicu Vrhovnog suda. U Izraelu tvrde da su ubili zapovjednika iranske vojske, a Iran da su pogodili sjedište Mossada. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Izraelska vojska izvela je nove napade na vojne i nuklearne ciljeve u Iranu dok su iranske snage uzvratile raketiranjem izraelskih gradova. Vojnu paradu američkog predsjednika Donalda Trumpa zasjenili val nasilja i masovni prosvjedi. Još traje potraga za ubojicom zastupnice Demokratske stranke Melisse Hortman i njezina supruga. U teškoj prometnoj nesreći rano jutros u Požegi pet osoba ozlijeđeno.Sinoć održana tradicionalna novigradska "Dagnjada". Urednik: Silvio Šop</description>
     <pubDate>Sun, 15 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/ab/20250615-dnevne-novosti-36503280-20250615133026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.06. 2025-06-14</title>
-    <link>https://api.hrt.hr/media/56/ec/20250614-dnevne-novosti-36500937-20250614133104.mp3</link>
-    <description>Nastavljaju se izraelski napadi na Iran koji prijeti zapadnim zemljama, Tel Aviv poručio da će Teheran gorjeti.Energetski stručnjaci zasad ne očekuju rast cijena goriva, no koliku štetu globalnom tržištu nanosi rat Irana i Izraela, vidjet ćemo u ponedjeljak kad se otvore burze. Zagrebačka policija traga za ubojicom žene i muškarca čija su tijela sinoć pronađena u automobilu u garaži. Urednica: Mira Barić.</description>
-    <pubDate>Sat, 14 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/56/ec/20250614-dnevne-novosti-36500937-20250614133104.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
