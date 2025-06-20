@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Jun 2025 20:41:54 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 20:38:37 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 20.06. 2025-06-20</title>
+    <link>https://api.hrt.hr/media/e6/f5/20250620-kronika-dana-36518859-20250620203518.mp3</link>
+    <description>Iran ne smije imati nuklearno oružje, rekao britanski ministar vanjskih poslova iranskom kolegi na pregovorima u Ženevi. Rusi i Ukrajinci su jedan narod, Rusiji pripada cijela Ukrajina, izjavio Vladimir Putin. Ministarstvo zdravstva tvrdi da zbog velikog angažmana oko Thompsonova koncerta neće biti ugroženi svi drugi koji trebaju medicinsku pomoć. Urednica Sanja Cota.</description>
+    <pubDate>Fri, 20 Jun 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e6/f5/20250620-kronika-dana-36518859-20250620203518.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 19.06. 2025-06-19</title>
     <link>https://api.hrt.hr/media/78/11/20250619-kronika-dana-36515810-20250619203513.mp3</link>
     <description>U iduća dva tjedna Donald Trump odlučit će hoće li se Amerika uključiti u sukob s Iranom.Teška prometna nesreća kod Drniša, planuli požari kod Omiša i Makarske.Produljeni vikend donio gužve na cestama.Urednica: Sanja Cota</description>
@@ -31,15 +39,6 @@
     <description>Jedan od dvojice uhićenih za dvostruko ubojstvo u Zagrebu, djelatna je vojna osoba. Motivi ubojstva se istražuju. Američki predsjednik poručuje da imaju potpuni nadzor nad nebom iznad Irana.Nakon burne prošle noći na moru, poslijepodne spašena i dvojica maloljetnih Čeha. Urednica Sanja Cota.</description>
     <pubDate>Tue, 17 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7b/04/20250617-kronika-dana-36510237-20250617204007.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 16.06. 2025-06-16</title>
-    <link>https://api.hrt.hr/media/29/c2/20250616-kronika-dana-36507036-20250617081559.mp3</link>
-    <description>Snažno nevrijeme zahvatilo Istru, sedam osoba ozlijeđeno, najveće posljedice u Rovinju i Puli. Ne prestaju međusobni zračni napadi Izraela i Irana. U Teheranu pogođena zgrada državne televizije.U USKOK-ovoj akciji uhićenja u Zadru, Pagu i Zagrebu. Među uhićenima donedavni paški gradonačelnik Ante Fabijanić.
-Urednica: Mira Barić</description>
-    <pubDate>Mon, 16 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/29/c2/20250616-kronika-dana-36507036-20250617081559.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
