@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 20 Jun 2025 20:08:33 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jun 2025 13:49:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 21.06. 2025-06-21</title>
+    <link>https://api.hrt.hr/media/07/b8/20250621-dnevne-novosti-36520310-20250621133021.mp3</link>
+    <description>Pod nadzorom požari kod Omiša, gorjele kuće i automobili, stanovnici i turisti evakuirani. Policija ima dokaze da se požari podmeću.Izrael i Iran nastavljaju s napadima. Teheran ne želi zaustaviti program obogaćivanja uranija. Spektaklom vrijednim 300 tisuća eura večeras se u Splitu otvara novouređeni kompleks na Žnjanu.Urednica Mira Barić</description>
+    <pubDate>Sat, 21 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/b8/20250621-dnevne-novosti-36520310-20250621133021.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 20.06. 2025-06-20</title>
     <link>https://api.hrt.hr/media/1a/0d/20250620-dnevne-novosti-36518007-20250620133034.mp3</link>
     <description>Izrael i Iran nastavljaju međusobne zračne napade. U Ženevi prvi diplomatski pokušaj smirivanja napetosti. Neslužbeno doznajemo - od prvog srpnja mirovine rastu za više od 6 posto. Propao je prvi pokušaj konstituiranja splitskoga Gradskog vijeća. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Indijski premijer Narendra Modi stigao u službeni posjet našoj zemlji. Hrvatska je odlučila evakuirati službenike veleposlanstava u Teheranu i Tel Avivu. Osumnjičeni za zločin u Markuševcu terete se za kazneno djelo teškog ubojstva. Urednica: Sanja Cota</description>
     <pubDate>Wed, 18 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/87/03/20250618-dnevne-novosti-36512256-20250618133010.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 17.06. 2025-06-17</title>
-    <link>https://api.hrt.hr/media/e9/80/20250617-dnevne-novosti-36509162-20250617133007.mp3</link>
-    <description>Dvojica uhićenih za ubojstvo u Zagrebu, jedan od njih pripadnik Počasno-zaštitne bojne s Pantovčaka, odnosno Oružanih snaga. Ispred zadarske luke spašeni putnici i posada s katamarana u koji je prodrlo more. Vladajuća koalicija neće poduprijeti Sandru Artuković Kunšt, kandidatkinju predsjednika Republike za predsjednicu Vrhovnog suda. U Izraelu tvrde da su ubili zapovjednika iranske vojske, a Iran da su pogodili sjedište Mossada. Urednica: Mira Barić</description>
-    <pubDate>Tue, 17 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/80/20250617-dnevne-novosti-36509162-20250617133007.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
