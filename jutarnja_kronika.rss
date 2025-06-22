@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 21 Jun 2025 17:02:04 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jun 2025 05:52:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 22.06. 2025-06-22</title>
+    <link>https://api.hrt.hr/media/1d/cb/20250622-jutarnja-kronika-36521725-20250622053022.mp3</link>
+    <description>Američke snage noćas izvele zračne napade na ključna iranska nuklearna postrojenja .Donald Trump prijeti i poručuje da Teheran sada mora pristati na mir inače će SAD napasti druge ciljeve u Iranu. Američki napad na Iran glavni tajnik UN-a Antonio Guterres proglasio "opasnom eskalacijom u regiji koja je već na rubu". Dan je antifašističke borbe, u spomen na 84. godišnjicu osnutka Prvog sisačkog partizanskog odreda. Urednica: Mira Barić</description>
+    <pubDate>Sun, 22 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1d/cb/20250622-jutarnja-kronika-36521725-20250622053022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 21.06. 2025-06-21</title>
     <link>https://api.hrt.hr/media/13/b2/20250621-jutarnja-kronika-36519389-20250621053020.mp3</link>
     <description>Iran i Izrael i prošle noći razmjenjivali raketne napade. Rusi i Ukrajinci su jedan narod, Rusiji pripada cijela Ukrajina, izjavio predsjednik Vladimir Putin. Ministarstvo zdravstva tvrdi da zbog velikog angažmana vezanog za Thompsonov koncert neće biti ugroženi svi ostali koji trebaju medicinsku pomoć. Spektaklom vrijednim 300 tisuća eura večeras se u Splitu otvara novouređeni kompleks na Žnjanu. Urednik Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Dvojici osumnjičenih za ubojstvo muškarca i žene u Zagrebu određen istražni zatvor. U službenom posjetu Hrvatskoj bio je indijski premijer Narendra Modi. Iran i Izrael nastavljaju međusobne napade. Sada je glavno pitanje hoće li se u napade na iranska nuklearna postrojenja uključiti i američke snage. Blagdan je Tijelova, svetkovina Presvetog Tijela i Krvi Kristove. Urednik Silvio Šop</description>
     <pubDate>Thu, 19 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/8c/6e/20250619-jutarnja-kronika-36513840-20250619054512.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 18.06. 2025-06-18</title>
-    <link>https://api.hrt.hr/media/1f/b9/20250618-jutarnja-kronika-36510769-20250618053509.mp3</link>
-    <description>Ispitani osumnjičenici za dvostruko ubojstvo u zagrebačkome Markuševcu. 59 ubijenih i više od 220 ranjenih u tenkovskoj paljbi na skupinu Palestinaca, koja je pokušavala doći po pomoć u Gazi. U prvi posjet Hrvatskoj stiže indijski premijer Narendra Modi. Urednik Grgo Mrvica.</description>
-    <pubDate>Wed, 18 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1f/b9/20250618-jutarnja-kronika-36510769-20250618053509.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
