@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 22 Jun 2025 20:34:09 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 05:57:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.06. 2025-06-23</title>
+    <link>https://api.hrt.hr/media/d2/92/20250623-jutarnja-kronika-36524153-20250623052526.mp3</link>
+    <description>Amerika tvrdi da je uništen iranski nuklearni program, Iranci poručuju - igra još nije gotova. Premijer Andrej Plenković u Sloveniji će se sastati s kolegom Robertom Golobom. Nakon katastrofalnog požara kod Omiša zbrajaju se štete, a policija istražuje dojave o mogućim piromanima. Na zagrebačkom Jarunu počinje 17. INmusic festival. Urednik: Silvio Šop</description>
+    <pubDate>Mon, 23 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d2/92/20250623-jutarnja-kronika-36524153-20250623052526.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.06. 2025-06-22</title>
     <link>https://api.hrt.hr/media/1d/cb/20250622-jutarnja-kronika-36521725-20250622053022.mp3</link>
     <description>Američke snage noćas izvele zračne napade na ključna iranska nuklearna postrojenja .Donald Trump prijeti i poručuje da Teheran sada mora pristati na mir inače će SAD napasti druge ciljeve u Iranu. Američki napad na Iran glavni tajnik UN-a Antonio Guterres proglasio "opasnom eskalacijom u regiji koja je već na rubu". Dan je antifašističke borbe, u spomen na 84. godišnjicu osnutka Prvog sisačkog partizanskog odreda. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump u sljedeća bi dva tjedna mogao odlučiti hoće li se Amerika uključiti u izraelsko-iranski sukob. Čak 10 požara sinoć buknulo kod Brela i Makarske - sumnja se da su podmetnuti. Nakon više od 30 godina polazi prvi izravni vlak koji će povezati Zagreb, Ljubljanu i Pulu. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 20 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/63/20250620-jutarnja-kronika-36516498-20250620053515.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.06. 2025-06-19</title>
-    <link>https://api.hrt.hr/media/8c/6e/20250619-jutarnja-kronika-36513840-20250619054512.mp3</link>
-    <description>Dvojici osumnjičenih za ubojstvo muškarca i žene u Zagrebu određen istražni zatvor. U službenom posjetu Hrvatskoj bio je indijski premijer Narendra Modi. Iran i Izrael nastavljaju međusobne napade. Sada je glavno pitanje hoće li se u napade na iranska nuklearna postrojenja uključiti i američke snage. Blagdan je Tijelova, svetkovina Presvetog Tijela i Krvi Kristove. Urednik Silvio Šop</description>
-    <pubDate>Thu, 19 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8c/6e/20250619-jutarnja-kronika-36513840-20250619054512.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
