@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Jun 2025 14:05:04 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 20:40:38 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.06. 2025-06-26</title>
+    <link>https://api.hrt.hr/media/83/a2/20250626-kronika-dana-36535848-20250626203540.mp3</link>
+    <description>Jutros kod Ogulina poginuo pirotehničar. U središtu najnovije USKOK-ove istrage je djelatnik Zagrebparkinga koji je policijske podatke prosljeđivao pripadnicima kriminalnog miljea. Dogovorena regulacija prometa u Zagrebu na dan Thompsonova koncerta. Crveni meteoalarm izdan za središnji i istočni dio zemlje. Snažno nevrijeme zahvatilo Austriju. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 26 Jun 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/83/a2/20250626-kronika-dana-36535848-20250626203540.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.06. 2025-06-25</title>
     <link>https://api.hrt.hr/media/00/ff/20250625-kronika-dana-36532675-20250625204538.mp3</link>
     <description>Do 2035. godine države članice NATO-saveza obvezale su se na povećanje izdvajanja za obranu na 5 posto BDP-a. Bliski istok i ostale aktualnosti bit će teme sutrašnjeg sastanka Europskog vijeća u Bruxellesu, sudjeluje i premijer Andrej Plenković. Zbog sumnja na korupciju pri javnoj nabavi u zdravstvu, uhićenja u nekoliko gradova, istražitelji i na zagrebačkom Rebru. Vladimir Crnković dobitnik je nagrade za životno djelo Društva povjesničara umjetnosti Hrvatske. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Iran napao američku vojnu bazu u Kataru. Raste zabrinutost što će biti s cijenom nafte kao Iran zatvori Hormuški tjesnac. Veliki požar u omiškom primorju još nije službeno proglašen ugašenim. Hrvatska i Slovenija potpisale ugovor o održavanju 23-iju mostova kako bi olakšale život stanovnicima uz granicu. Zvjezdarnica "Vera Rubin" u Čileu objavila je prve snimke novoga snažnog teleskopa, koji je zavirio u dosad neviđene dijelove svemira.: Grgo Mrvica</description>
     <pubDate>Mon, 23 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/92/d1/20250623-kronika-dana-36526477-20250623205038.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.06. 2025-06-22</title>
-    <link>https://api.hrt.hr/media/21/ba/20250622-kronika-dana-36523681-20250622215524.mp3</link>
-    <description>Sjedinjene Američke Države u akciji "Ponoćni čekić" napale iranska nuklearna postrojenja. Iran tvrdi da i dalje ima obogaćeni uranij. Dan nakon katastrofalnog požara kod Omiša zbrajaju se štete, a policija istražuje dojave o mogućim piromanima. Obilježen Dan antifašističke borbe. Urednica: Sanja Rabuzin</description>
-    <pubDate>Sun, 22 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/21/ba/20250622-kronika-dana-36523681-20250622215524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
