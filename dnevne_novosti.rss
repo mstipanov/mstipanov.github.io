@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 26 Jun 2025 14:05:03 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 13:50:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.06. 2025-06-27</title>
+    <link>https://api.hrt.hr/media/d5/82/20250627-dnevne-novosti-36538015-20250627133042.mp3</link>
+    <description>Objavljena posebna prometna regulacija zbog koncerta Thompsona na zagrebačkom Hipodromu. Bit će zatvoren veći dio grada. Amerika poslala novi prijedlog Europskoj uniji o carinama. Trump produljio rok za pregovore do 9. sljedećeg mjeseca. Od utorka poskupljuju cigarete i gorivo. Urednica: Mira Barić</description>
+    <pubDate>Fri, 27 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d5/82/20250627-dnevne-novosti-36538015-20250627133042.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.06. 2025-06-26</title>
     <link>https://api.hrt.hr/media/a8/33/20250626-dnevne-novosti-36534834-20250626133539.mp3</link>
     <description>Nova akcija USKOK-a na području Zagreba i Splita, više osoba sumnjiči se za korupciju. Hrvatska na vrhuncu toplinskog vala, temperature više od 35 stupnjeva! Obrana i sigurnost, stanje na Bliskom istoku, potpora Ukrajini, konkurentnost i trgovinski pregovori sa Sjedinjenim Američkim Državama - u središtu su sastanka Europskog vijeća u Briselu. Završio je 17. INmusic festival. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Američki predsjednik Trump objavio primirje između Izraela i Irana. U Hagu sastanak na vrhu NATO-a. Očekuje se prihvaćanje odluke o izdvajanju 5 posto BDP-a za obranu. Bivši suprug ubijene uhićen zbog ubojstva bračnog para u zagrebačkom naselju Markuševcu. Iduća četiri dana Zagreb je u znaku festivala performansa i izvedbenih umjetnosti - Perforacija. Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 24 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c5/bc/20250624-dnevne-novosti-36528718-20250624132535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.06. 2025-06-23</title>
-    <link>https://api.hrt.hr/media/80/1b/20250623-dnevne-novosti-36525401-20250623133031.mp3</link>
-    <description>Izrael tvrdi da neviđenom snagom napada Teheran. Iran je gađao američku vojnu bazu u Siriji. Moskva poručuje: ,,Spremni smo pomoći Iranu". Strah od rasta cijena nafte ako se zatvori Hormuški tjesnac. Astronomski spektakl - Tehnički muzej u Zagrebu uživo će prenositi prvi pogled kroz najnapredniji teleskop današnjice iz opservatorija u Čileu. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 23 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/80/1b/20250623-dnevne-novosti-36525401-20250623133031.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
