@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 27 Jun 2025 13:50:08 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 20:09:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 28.06. 2025-06-28</title>
+    <link>https://api.hrt.hr/media/2d/6b/20250628-dnevne-novosti-36540359-20250628133546.mp3</link>
+    <description>Novinari na Hipodromu tjedan dana uoči Thompsonova koncerta. Prosvjed mladih fizioterapeuta, optužuju strukovnu komoru da im ne dopušta rad. U Teheranu mnoštvo ljudi na ispraćaju 16 znanstvenika, 10 visokih časnika i 30-ak civila poginulih u izraelskom napadu. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 28 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2d/6b/20250628-dnevne-novosti-36540359-20250628133546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 27.06. 2025-06-27</title>
     <link>https://api.hrt.hr/media/d5/82/20250627-dnevne-novosti-36538015-20250627133042.mp3</link>
     <description>Objavljena posebna prometna regulacija zbog koncerta Thompsona na zagrebačkom Hipodromu. Bit će zatvoren veći dio grada. Amerika poslala novi prijedlog Europskoj uniji o carinama. Trump produljio rok za pregovore do 9. sljedećeg mjeseca. Od utorka poskupljuju cigarete i gorivo. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Odluka u Hagu: članice NATO-a obvezale se na povećanje izdvajanja za obranu na 5 posto BDP-a do 2035. godine. Iran tvrdi da njegovi nuklearni kapaciteti nisu uništeni, Međunarodna agencija za atomsku energiju nastoji utvrditi stvarno stanje. Uhićenja u Zagrebu, Šibeniku, Crikvenici i na Pagu, sumnja na korupciju pri javnoj nabavi u zdravstvu. Urednica: Sanja Cota</description>
     <pubDate>Wed, 25 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0f/48/20250625-dnevne-novosti-36531815-20250625133037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 24.06. 2025-06-24</title>
-    <link>https://api.hrt.hr/media/c5/bc/20250624-dnevne-novosti-36528718-20250624132535.mp3</link>
-    <description>Američki predsjednik Trump objavio primirje između Izraela i Irana. U Hagu sastanak na vrhu NATO-a. Očekuje se prihvaćanje odluke o izdvajanju 5 posto BDP-a za obranu. Bivši suprug ubijene uhićen zbog ubojstva bračnog para u zagrebačkom naselju Markuševcu. Iduća četiri dana Zagreb je u znaku festivala performansa i izvedbenih umjetnosti - Perforacija. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 24 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c5/bc/20250624-dnevne-novosti-36528718-20250624132535.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
