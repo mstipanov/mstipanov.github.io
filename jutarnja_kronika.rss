@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 27 Jun 2025 06:47:05 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 06:14:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.06. 2025-06-28</title>
+    <link>https://api.hrt.hr/media/07/7f/20250628-jutarnja-kronika-36539432-20250628060045.mp3</link>
+    <description>Nakon unutrašnjosti, danas toplinski val duž Jadrana, za cijelu obalu na snazi crveni meteoalarm. Vrhovni sud SAD-a omogućio Donaldu Trumpu da provede svoju namjeru da ograniči pravo na američko državljanstvo po rođenju. U Beogradu za danas najavljen veliki prosvjed studenata i građana protiv Vučićeva režima. Sljedeću subotu na zagrebačkom Hipodromu koncert Marka Perkovića Thompsona. Grad Zagreb objavio detalje posebne regulacije prometa. Urednica: Mira Barić.</description>
+    <pubDate>Sat, 28 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/7f/20250628-jutarnja-kronika-36539432-20250628060045.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.06. 2025-06-27</title>
     <link>https://api.hrt.hr/media/e7/5a/20250627-jutarnja-kronika-36536404-20250627053541.mp3</link>
     <description>Čelnici država Europske unije na sastanku Europskog vijeća potvrdili su odlučnost za preuzimanje veće odgovornosti za sigurnost i obranu. Amerika poslala novi prijedlog Europskoj uniji za pregovore o carinama. Sabor glasuje o prijedlogu predsjednika Republike da se za predsjednicu Vrhovnog suda izabere Sandra Artuković Kunšt. Prema najavama, neće biti izabrana. U Zagrebu najveći arhitektonski skup u regiji - Dani Orisa. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Na sastanku na vrhu NATO-a u Hagu očekuje se prihvaćanje odluke o izdvajanju 5 posto BDP-a za obranu. Na samitu će govoriti i američki predsjednik Donald Trump. Hrvatska se neće morati dodatno zaduživati kako bi ispunila nove uvjete NATO-a o izdvajanju za obranu, kaže ministar obrane Ivan Anušić. Primirje između Irana i Izraela uglavnom se poštuje. Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 25 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d9/a1/20250625-jutarnja-kronika-36530279-20250625053037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.06. 2025-06-24</title>
-    <link>https://api.hrt.hr/media/41/dd/20250624-jutarnja-kronika-36527367-20250624070035.mp3</link>
-    <description>Donald Trump objavio: Iran i Izrael dogovorili primirje. Rat je gotov! Iz Irana poručili neće napadati ako Izrael zaustavi agresiju.dan samita NATO-a. Glavna tema - obrambena potrošnja. Na sastanku ministri obrane i vanjskih poslova i predsjednik države Zoran Milanović. Uoči glasovanja u petak, u Saboru rasprava o predsjednikovoj kandidatkinji za čelnicu Vrhovnoga suda Sandri Artuković Kunšt. Vladajući najavili - nema njihovu potporu! U pulskoj Areni koncert legendarnog Toma Jonesa. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 24 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/41/dd/20250624-jutarnja-kronika-36527367-20250624070035.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
