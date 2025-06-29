@@ -6,10 +6,19 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Jun 2025 03:47:33 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 21:27:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.06. 2025-06-29</title>
+    <link>https://api.hrt.hr/media/1c/75/20250629-kronika-dana-36543263-20250629204049.mp3</link>
+    <description>Hrvatske autoceste i HAK pripremaju se za idući vikend kada će zbog koncerta i smjene turista biti goleme gužve u prometu. I večeras se prosvjeduje diljem Srbije. Donald Trump ne vjeruje da je Iran premjestio obogaćen uranij prije američkih napada na njihova nuklearna postrojenja.
+Urednica: Sanja Cota.</description>
+    <pubDate>Sun, 29 Jun 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1c/75/20250629-kronika-dana-36543263-20250629204049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.06. 2025-06-28</title>
     <link>https://api.hrt.hr/media/2c/36/20250628-kronika-dana-36541160-20250628205052.mp3</link>
     <description>Organizatori objavili pojedinosti velikog Tomsonova koncerta sljedeće subote. Pod nadzorom je požar koji je poslijepodne buknuo na južnim padinama Kozjaka iznad Kaštel Sućurca. Stravično ubojstvo u Dalmaciji - mladić ubio očuha. U Beogradu traje prosvjed studenata. Državni pogreb u Iranu pretvorio se u protuamerički prosvjed. Urednik: Grgo Mrvica</description>
@@ -31,14 +40,6 @@
     <description>Jutros kod Ogulina poginuo pirotehničar. U središtu najnovije USKOK-ove istrage je djelatnik Zagrebparkinga koji je policijske podatke prosljeđivao pripadnicima kriminalnog miljea. Dogovorena regulacija prometa u Zagrebu na dan Thompsonova koncerta. Crveni meteoalarm izdan za središnji i istočni dio zemlje. Snažno nevrijeme zahvatilo Austriju. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 26 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/83/a2/20250626-kronika-dana-36535848-20250626203540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.06. 2025-06-25</title>
-    <link>https://api.hrt.hr/media/00/ff/20250625-kronika-dana-36532675-20250625204538.mp3</link>
-    <description>Do 2035. godine države članice NATO-saveza obvezale su se na povećanje izdvajanja za obranu na 5 posto BDP-a. Bliski istok i ostale aktualnosti bit će teme sutrašnjeg sastanka Europskog vijeća u Bruxellesu, sudjeluje i premijer Andrej Plenković. Zbog sumnja na korupciju pri javnoj nabavi u zdravstvu, uhićenja u nekoliko gradova, istražitelji i na zagrebačkom Rebru. Vladimir Crnković dobitnik je nagrade za životno djelo Društva povjesničara umjetnosti Hrvatske. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 25 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/00/ff/20250625-kronika-dana-36532675-20250625204538.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
