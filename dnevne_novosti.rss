@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Jun 2025 13:51:32 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 14:28:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.06. 2025-06-30</title>
+    <link>https://api.hrt.hr/media/12/8b/20250630-dnevne-novosti-36544955-20250630132550.mp3</link>
+    <description>U Europi najtopliji lipanj u povijesti mjerenja.Od sutra skuplje gorivo.U Srbiji i danas prosvjedi, policija privodi studente. Urednica Sanja Cota.</description>
+    <pubDate>Mon, 30 Jun 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/12/8b/20250630-dnevne-novosti-36544955-20250630132550.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.06. 2025-06-29</title>
     <link>https://api.hrt.hr/media/37/4f/20250629-dnevne-novosti-36542560-20250629133048.mp3</link>
     <description>Deseci ozlijeđenih i osamdesetak uhićenih nakon sinoćnjeg prosvjeda u Beogradu. U noćašnjem velikom ruskom napadu na Ukrajinu poginuo pilot, a uništen je zrakoplov F-16. Od sljedećeg tjedna stroži uvjeti kredita za građane. Uoči Thompsonova koncerta iduće subote na zagrebačkom hipodromu Hrvatske autoceste objavile posebno upozorenje vozačima. Večeras u Splitu - Melodije Jadrana. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Objavljena posebna prometna regulacija zbog koncerta Thompsona na zagrebačkom Hipodromu. Bit će zatvoren veći dio grada. Amerika poslala novi prijedlog Europskoj uniji o carinama. Trump produljio rok za pregovore do 9. sljedećeg mjeseca. Od utorka poskupljuju cigarete i gorivo. Urednica: Mira Barić</description>
     <pubDate>Fri, 27 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d5/82/20250627-dnevne-novosti-36538015-20250627133042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.06. 2025-06-26</title>
-    <link>https://api.hrt.hr/media/a8/33/20250626-dnevne-novosti-36534834-20250626133539.mp3</link>
-    <description>Nova akcija USKOK-a na području Zagreba i Splita, više osoba sumnjiči se za korupciju. Hrvatska na vrhuncu toplinskog vala, temperature više od 35 stupnjeva! Obrana i sigurnost, stanje na Bliskom istoku, potpora Ukrajini, konkurentnost i trgovinski pregovori sa Sjedinjenim Američkim Državama - u središtu su sastanka Europskog vijeća u Briselu. Završio je 17. INmusic festival. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 26 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a8/33/20250626-dnevne-novosti-36534834-20250626133539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
