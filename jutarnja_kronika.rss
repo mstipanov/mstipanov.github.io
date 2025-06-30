@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Jun 2025 05:49:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 08:53:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 30.06. 2025-06-30</title>
+    <link>https://api.hrt.hr/media/b0/1b/20250630-jutarnja-kronika-36543806-20250630053525.mp3</link>
+    <description>Prosvjedi protiv vlasti diljem Srbije, studenti traže puštanje uhićenih kolega. Hrvatske autoceste i HAK pripremaju se za sljedeći vikend kada će, zbog koncerta i smjene turista, u prometu biti goleme gužve. Svjetski poznat violinist i dirigent Julian Rachlin večeras na zagrebačkom Tomislavcu. Urednik: Grgo Mrvica</description>
+    <pubDate>Mon, 30 Jun 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b0/1b/20250630-jutarnja-kronika-36543806-20250630053525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 29.06. 2025-06-29</title>
     <link>https://api.hrt.hr/media/80/83/20250629-jutarnja-kronika-36541714-20250629053048.mp3</link>
     <description>Prosvjed u Beogradu završio sukobom policije i prosvjednika, ima ozlijeđenih i privedenih.Tisuće ljudi prosvjedovale su u Sofiji protiv odluke vlade o uvođenju eura. Organizatori objavili pojedinosti Thompsonova koncerta na zagrebačkom Hipodromu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Čelnici država Europske unije na sastanku Europskog vijeća potvrdili su odlučnost za preuzimanje veće odgovornosti za sigurnost i obranu. Amerika poslala novi prijedlog Europskoj uniji za pregovore o carinama. Sabor glasuje o prijedlogu predsjednika Republike da se za predsjednicu Vrhovnog suda izabere Sandra Artuković Kunšt. Prema najavama, neće biti izabrana. U Zagrebu najveći arhitektonski skup u regiji - Dani Orisa. Urednik: Silvio Šop</description>
     <pubDate>Fri, 27 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e7/5a/20250627-jutarnja-kronika-36536404-20250627053541.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 26.06. 2025-06-26</title>
-    <link>https://api.hrt.hr/media/de/28/20250626-jutarnja-kronika-36533243-20250626053039.mp3</link>
-    <description>Donald Trump obrušio se na sudsku vlast u Izraelu, koja progoni premijera Netanjahua zbog sumnje na mito, prijevaru i zlouporabu povjerenja.U Hagu prihvaćena rezolucija: članice NATO-a povećat će izdvajanje za obranu na 5 posto BDP-a u idućih deset godina.36-ogodišnjem muškarcu, koji se sumnjiči da je naručio ubojstvo bivše supruge u zagrebačkom naselju Markuševcu, sinoć određen istražni zatvor. Hrvatska je na vrhuncu toplinskog vala. Urednica Mira Barić</description>
-    <pubDate>Thu, 26 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/28/20250626-jutarnja-kronika-36533243-20250626053039.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
