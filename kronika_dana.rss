@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 29 Jun 2025 21:27:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 21:13:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 30.06. 2025-06-30</title>
+    <link>https://api.hrt.hr/media/5b/56/20250630-kronika-dana-36545915-20250630204025.mp3</link>
+    <description>Požar koji je jutros buknuo na odlagalištu Dubravica kod Metkovića još nije lokaliziran. Europa u paklenom toplinskom valu, temperature dosegnule i 46 stupnjeva! Turistički rezultati odlični - u prva tri mjeseca ove godine prihodi od stranih turista 54 milijuna eura viši nego lani! Od ponoći benzin skuplji 3, a dizel 8 centi po litri. Urednik Silvio Šop</description>
+    <pubDate>Mon, 30 Jun 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/5b/56/20250630-kronika-dana-36545915-20250630204025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 29.06. 2025-06-29</title>
     <link>https://api.hrt.hr/media/1c/75/20250629-kronika-dana-36543263-20250629204049.mp3</link>
     <description>Hrvatske autoceste i HAK pripremaju se za idući vikend kada će zbog koncerta i smjene turista biti goleme gužve u prometu. I večeras se prosvjeduje diljem Srbije. Donald Trump ne vjeruje da je Iran premjestio obogaćen uranij prije američkih napada na njihova nuklearna postrojenja.
@@ -32,14 +40,6 @@ Urednica: Sanja Cota.</description>
     <description>Objavljena posebna prometna regulacija zbog koncerta na Hipodromu te preporuke Zavoda za javno zdravstvo. Nakon što je NATO dogovorio više novca za obranu zbog ruske prijetnje, Putin uzvraća - Rusija od iduće godine planira smanjiti izdvajanja za obranu. Donald Trump prekinuo sve trgovinske pregovore s Kanadom. Urednica: Sanja Cota</description>
     <pubDate>Fri, 27 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/03/ed/20250627-kronika-dana-36538889-20250627204043.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.06. 2025-06-26</title>
-    <link>https://api.hrt.hr/media/83/a2/20250626-kronika-dana-36535848-20250626203540.mp3</link>
-    <description>Jutros kod Ogulina poginuo pirotehničar. U središtu najnovije USKOK-ove istrage je djelatnik Zagrebparkinga koji je policijske podatke prosljeđivao pripadnicima kriminalnog miljea. Dogovorena regulacija prometa u Zagrebu na dan Thompsonova koncerta. Crveni meteoalarm izdan za središnji i istočni dio zemlje. Snažno nevrijeme zahvatilo Austriju. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 26 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/83/a2/20250626-kronika-dana-36535848-20250626203540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
