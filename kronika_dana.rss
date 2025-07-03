@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Jul 2025 01:27:17 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 20:51:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 03.07. 2025-07-03</title>
+    <link>https://api.hrt.hr/media/76/e3/20250703-kronika-dana-36555583-20250703203546.mp3</link>
+    <description>Najveća moguća kazna, 50 godina zatvora, za ubojicu šestero ljudi u Domu za starije u Daruvaru. Telefonski razgovarali Trump i Putin, Rusija neće odustati od svojih ciljeva u Ukrajini.Sport: Marin Čilić u drugom kolu Wimbledona pobijedio četvrtog tenisača svijeta, Jacka Drapera!Urednica: Sanja Cota</description>
+    <pubDate>Thu, 03 Jul 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/76/e3/20250703-kronika-dana-36555583-20250703203546.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 02.07. 2025-07-02</title>
     <link>https://api.hrt.hr/media/2b/1b/20250702-kronika-dana-36552440-20250702204011.mp3</link>
     <description>Policija, vatrogasci, hitna medicina i ZET predstavili su kako će sve funkcionirati u Zagrebu ovog vikenda uoči i za vrijeme Thompsonova megakoncerta. Ivan Penava ipak dobio svoje povjerenstvo, istraživat će komunističke zločine. Prve žrtve vrućine na jugu Europe. Urednik: Grgo Mrvica</description>
@@ -31,15 +39,6 @@
     <description>Požar koji je jutros buknuo na odlagalištu Dubravica kod Metkovića još nije lokaliziran. Europa u paklenom toplinskom valu, temperature dosegnule i 46 stupnjeva! Turistički rezultati odlični - u prva tri mjeseca ove godine prihodi od stranih turista 54 milijuna eura viši nego lani! Od ponoći benzin skuplji 3, a dizel 8 centi po litri. Urednik Silvio Šop</description>
     <pubDate>Mon, 30 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5b/56/20250630-kronika-dana-36545915-20250630204025.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.06. 2025-06-29</title>
-    <link>https://api.hrt.hr/media/1c/75/20250629-kronika-dana-36543263-20250629204049.mp3</link>
-    <description>Hrvatske autoceste i HAK pripremaju se za idući vikend kada će zbog koncerta i smjene turista biti goleme gužve u prometu. I večeras se prosvjeduje diljem Srbije. Donald Trump ne vjeruje da je Iran premjestio obogaćen uranij prije američkih napada na njihova nuklearna postrojenja.
-Urednica: Sanja Cota.</description>
-    <pubDate>Sun, 29 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1c/75/20250629-kronika-dana-36543263-20250629204049.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
