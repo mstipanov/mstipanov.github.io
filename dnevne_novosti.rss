@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Jul 2025 15:00:30 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 01:27:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.07. 2025-07-02</title>
+    <link>https://api.hrt.hr/media/46/af/20250702-dnevne-novosti-36551523-20250702133541.mp3</link>
+    <description>Premijer Plenković potvrdio da će Ivan Penava biti imenovan na čelo povjerenstva koje će istraživati komunističke zločine Drugoga svjetskog rata i poraća. Tri dana do Thompsonova koncerta dogovaraju se posljednji detalji,pred policijom najzahtjevnije osiguranje javnoga okupljanja. Sjedinjene Države zaustavit će već dogovorene isporuke oružja Ukrajini zbog, kako se navodi, vlastitih nedovoljnih zaliha. Vrućine odnijele prve žrtve na jugu Europe. Urednica: Mira Barić</description>
+    <pubDate>Wed, 02 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/46/af/20250702-dnevne-novosti-36551523-20250702133541.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.07. 2025-07-01</title>
     <link>https://api.hrt.hr/media/27/4e/20250701-dnevne-novosti-36548052-20250701133024.mp3</link>
     <description>Inflacija u Hrvatskoj u lipnju porasla na 3,7 posto. Usluge skuplje 6,7, a hrana i piće 5,2 posto. Još se ne zna koju bi dužnost trebao preuzeti predsjednik Domovinskog pokreta Ivan Penava. Slovački predsjednik Peter Pelegrini u posjetu Hrvatskoj. Trgovinska razmjena dviju zemalja brzo raste i premašila je milijardu i pol eura na godinu. Izraelski ministar obrane izjavio kako se bliži kraj rata u pojasu Gaze. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Deseci ozlijeđenih i osamdesetak uhićenih nakon sinoćnjeg prosvjeda u Beogradu. U noćašnjem velikom ruskom napadu na Ukrajinu poginuo pilot, a uništen je zrakoplov F-16. Od sljedećeg tjedna stroži uvjeti kredita za građane. Uoči Thompsonova koncerta iduće subote na zagrebačkom hipodromu Hrvatske autoceste objavile posebno upozorenje vozačima. Večeras u Splitu - Melodije Jadrana. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 29 Jun 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/37/4f/20250629-dnevne-novosti-36542560-20250629133048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.06. 2025-06-28</title>
-    <link>https://api.hrt.hr/media/2d/6b/20250628-dnevne-novosti-36540359-20250628133546.mp3</link>
-    <description>Novinari na Hipodromu tjedan dana uoči Thompsonova koncerta. Prosvjed mladih fizioterapeuta, optužuju strukovnu komoru da im ne dopušta rad. U Teheranu mnoštvo ljudi na ispraćaju 16 znanstvenika, 10 visokih časnika i 30-ak civila poginulih u izraelskom napadu. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 28 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2d/6b/20250628-dnevne-novosti-36540359-20250628133546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

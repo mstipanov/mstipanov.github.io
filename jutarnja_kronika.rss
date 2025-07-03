@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Jul 2025 15:00:35 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 01:27:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.07. 2025-07-02</title>
+    <link>https://api.hrt.hr/media/2d/b6/20250702-jutarnja-kronika-36549864-20250702053022.mp3</link>
+    <description>U naletu vlaka na kamion u Donjim Andrijevcima poginuo vozač teretnog vozila, ozlijeđeno sedmero ljudi. Inflacija je u našoj zemlji, u lipnju, porasla drugi mjesec zaredom. Najviše su poskupjele usluge, hrana i piće. Izrael pristao na uvjete za konačan dogovor o 60-dnevnom prekidu vatre u Gazi, objavio američki predsjednik Donald Trump. Na Zagreb Classicu praizvedba oratorija Mateja Meštrovića "Anno Domini 925. Kralj Tomislav". Urednik: Silvio Šop</description>
+    <pubDate>Wed, 02 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2d/b6/20250702-jutarnja-kronika-36549864-20250702053022.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.07. 2025-07-01</title>
     <link>https://api.hrt.hr/media/13/28/20250701-jutarnja-kronika-36546512-20250701053027.mp3</link>
     <description>Podignuta optužnica za zločin u osnovnoj školi u Prečkom u prosincu prošle godine. 19-godišnjaka se tereti za teško ubojstvo djeteta, ali i za još 54 teška kaznena djela. Od danas stroži uvjeti kreditiranja za građane. U posjet Hrvatskoj dolazi slovački predsjednik Peter Pellegrin. Urednik je Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Prosvjed u Beogradu završio sukobom policije i prosvjednika, ima ozlijeđenih i privedenih.Tisuće ljudi prosvjedovale su u Sofiji protiv odluke vlade o uvođenju eura. Organizatori objavili pojedinosti Thompsonova koncerta na zagrebačkom Hipodromu. Urednica: Mira Barić</description>
     <pubDate>Sun, 29 Jun 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/80/83/20250629-jutarnja-kronika-36541714-20250629053048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.06. 2025-06-28</title>
-    <link>https://api.hrt.hr/media/07/7f/20250628-jutarnja-kronika-36539432-20250628060045.mp3</link>
-    <description>Nakon unutrašnjosti, danas toplinski val duž Jadrana, za cijelu obalu na snazi crveni meteoalarm. Vrhovni sud SAD-a omogućio Donaldu Trumpu da provede svoju namjeru da ograniči pravo na američko državljanstvo po rođenju. U Beogradu za danas najavljen veliki prosvjed studenata i građana protiv Vučićeva režima. Sljedeću subotu na zagrebačkom Hipodromu koncert Marka Perkovića Thompsona. Grad Zagreb objavio detalje posebne regulacije prometa. Urednica: Mira Barić.</description>
-    <pubDate>Sat, 28 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/07/7f/20250628-jutarnja-kronika-36539432-20250628060045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

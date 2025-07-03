@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 01 Jul 2025 21:20:18 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 01:27:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 02.07. 2025-07-02</title>
+    <link>https://api.hrt.hr/media/2b/1b/20250702-kronika-dana-36552440-20250702204011.mp3</link>
+    <description>Policija, vatrogasci, hitna medicina i ZET predstavili su kako će sve funkcionirati u Zagrebu ovog vikenda uoči i za vrijeme Thompsonova megakoncerta. Ivan Penava ipak dobio svoje povjerenstvo, istraživat će komunističke zločine. Prve žrtve vrućine na jugu Europe. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 02 Jul 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2b/1b/20250702-kronika-dana-36552440-20250702204011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 01.07. 2025-07-01</title>
     <link>https://api.hrt.hr/media/ab/25/20250701-kronika-dana-36549313-20250701204043.mp3</link>
     <description>U naletu vlaka na kamion u Donjim Andrijevcima poginuo vozač teretnog vozila, ozlijeđeni strojovođa i putnici iz vlaka. Inflacija je u našoj zemlji, u lipnju, porasla drugi mjesec zaredom. Najviše poskupjele usluge, hrana i piće. Putin i Macron razgovarali telefonom nakon tri godine. U Splitu umro književnik, scenarist i novinar Renato Baretić.Urednica: Mira Barić</description>
@@ -32,14 +40,6 @@
 Urednica: Sanja Cota.</description>
     <pubDate>Sun, 29 Jun 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1c/75/20250629-kronika-dana-36543263-20250629204049.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 28.06. 2025-06-28</title>
-    <link>https://api.hrt.hr/media/2c/36/20250628-kronika-dana-36541160-20250628205052.mp3</link>
-    <description>Organizatori objavili pojedinosti velikog Tomsonova koncerta sljedeće subote. Pod nadzorom je požar koji je poslijepodne buknuo na južnim padinama Kozjaka iznad Kaštel Sućurca. Stravično ubojstvo u Dalmaciji - mladić ubio očuha. U Beogradu traje prosvjed studenata. Državni pogreb u Iranu pretvorio se u protuamerički prosvjed. Urednik: Grgo Mrvica</description>
-    <pubDate>Sat, 28 Jun 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2c/36/20250628-kronika-dana-36541160-20250628205052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
