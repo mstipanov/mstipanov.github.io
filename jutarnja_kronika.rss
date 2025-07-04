@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Jul 2025 05:58:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 05:57:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.07. 2025-07-04</title>
+    <link>https://api.hrt.hr/media/88/35/20250704-jutarnja-kronika-36556193-20250704053602.mp3</link>
+    <description>Zagreb spremno dočekuje gotovo pola milijuna posjetitelja Thompsonova koncerta. Preporuka organizatora: krenite već danas. Sinoć na Hipodromu popularni pjevač održao tonsku probu. Višestruki ubojica iz Daruvara Krešimir Pahoki osuđen na 50 godina zatvora. Studenti u Srbiji za danas najavili nove prosvjede i blokade. Večeras svečano otvorenje Đakovačkih vezova. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 04 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/88/35/20250704-jutarnja-kronika-36556193-20250704053602.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.07. 2025-07-03</title>
     <link>https://api.hrt.hr/media/57/77/20250703-jutarnja-kronika-36553030-20250703053053.mp3</link>
     <description>Policija, vatrogasci, hitne medicinske službe i ZET predstavili su kako će sve funkcionirati u Zagrebu ovog vikenda uoči i za vrijeme Thompsonova megakoncerta na Hipodromu. Predsjednik Domovinskog pokreta Ivan Penava na čelu povjerenstva koje će istraživati komunističke zločine. Odlični turistički rezultati - rast u dolascima i noćenjima, u usporedbi s prvom polovicom prošle godine, je 4 posto. Hamas još razmatra hoće li prihvatiti prijedlog šezdesetodnevnog primirja u Gazi. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Podignuta optužnica za zločin u osnovnoj školi u Prečkom u prosincu prošle godine. 19-godišnjaka se tereti za teško ubojstvo djeteta, ali i za još 54 teška kaznena djela. Od danas stroži uvjeti kreditiranja za građane. U posjet Hrvatskoj dolazi slovački predsjednik Peter Pellegrin. Urednik je Grgo Mrvica</description>
     <pubDate>Tue, 01 Jul 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/13/28/20250701-jutarnja-kronika-36546512-20250701053027.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 30.06. 2025-06-30</title>
-    <link>https://api.hrt.hr/media/b0/1b/20250630-jutarnja-kronika-36543806-20250630053525.mp3</link>
-    <description>Prosvjedi protiv vlasti diljem Srbije, studenti traže puštanje uhićenih kolega. Hrvatske autoceste i HAK pripremaju se za sljedeći vikend kada će, zbog koncerta i smjene turista, u prometu biti goleme gužve. Svjetski poznat violinist i dirigent Julian Rachlin večeras na zagrebačkom Tomislavcu. Urednik: Grgo Mrvica</description>
-    <pubDate>Mon, 30 Jun 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b0/1b/20250630-jutarnja-kronika-36543806-20250630053525.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
