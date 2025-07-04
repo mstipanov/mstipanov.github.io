@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 03 Jul 2025 14:51:27 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 14:06:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.07. 2025-07-04</title>
+    <link>https://api.hrt.hr/media/db/a6/20250704-dnevne-novosti-36557650-20250704135009.mp3</link>
+    <description>Sve je spremno za sutrašnji Thompsonov koncert na Hipodromu. Na obližnjem Bundeku fan zona otvara se u 16 sati. Užas u Pakoštanima - uhićen Slovak koji je do smrti pretukao partnericu. Afrička svinjska kuga opet se pojavila u trima naseljima Vukovarsko-srijemske županije. Rusija je zasula Ukrajinu s više od pet stotina bespilotnih letjelica i projektila u najvećem napadu od početka sukoba. Zbog srušenog dalekovoda velik dio Češke ostao bez struje. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 04 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/db/a6/20250704-dnevne-novosti-36557650-20250704135009.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.07. 2025-07-03</title>
     <link>https://api.hrt.hr/media/18/48/20250703-dnevne-novosti-36554556-20250703133105.mp3</link>
     <description>Za masakr u Domu za starije i nemoćne u Daruvaru Krešimir Pahoki, umirovljeni vojni policajac, osuđen na maksimalnu kaznu zatvora od 50 godina. Objavljene pojedinosti svih sigurnosnih mjera na Thompsonovu koncertu - osiguravat će ga 6500 policajaca i 5000 redara. Nogometni svijet oprašta se od Dioga Jote, 28-godišnjeg portugalskog reprezentativca i nogometaša Liverpoola, koji je poginuo u prometnoj nesreći. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Inflacija u Hrvatskoj u lipnju porasla na 3,7 posto. Usluge skuplje 6,7, a hrana i piće 5,2 posto. Još se ne zna koju bi dužnost trebao preuzeti predsjednik Domovinskog pokreta Ivan Penava. Slovački predsjednik Peter Pelegrini u posjetu Hrvatskoj. Trgovinska razmjena dviju zemalja brzo raste i premašila je milijardu i pol eura na godinu. Izraelski ministar obrane izjavio kako se bliži kraj rata u pojasu Gaze. Urednik: Silvio Šop</description>
     <pubDate>Tue, 01 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/4e/20250701-dnevne-novosti-36548052-20250701133024.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.06. 2025-06-30</title>
-    <link>https://api.hrt.hr/media/12/8b/20250630-dnevne-novosti-36544955-20250630132550.mp3</link>
-    <description>U Europi najtopliji lipanj u povijesti mjerenja.Od sutra skuplje gorivo.U Srbiji i danas prosvjedi, policija privodi studente. Urednica Sanja Cota.</description>
-    <pubDate>Mon, 30 Jun 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/12/8b/20250630-dnevne-novosti-36544955-20250630132550.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
