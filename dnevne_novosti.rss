@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 05 Jul 2025 20:52:36 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jul 2025 14:00:10 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.07. 2025-07-06</title>
+    <link>https://api.hrt.hr/media/e5/00/20250706-dnevne-novosti-36562369-20250706134052.mp3</link>
+    <description>Koncert Marka Perkovića Thompsona na zagrebačkom Hipodromu, koji je okupio pola milijuna ljudi, prošao bez većih problema. Policija privela 123 osobe, najviše zbog pirotehnike, a liječnici zbrinuli tisuću 179-ero ljudi. U mjestu Pleškovcu u Međimurju rano jutros žena ubijena, muškarac teško ozlijeđen i bori se za život. Stotine spasilaca tragaju za preživjelima u Teksasu, nakon što je u bujičnim poplavama poginula najmanje 51-dna osoba, među kojima 15-ero djece. Urednik: Silvio Šop</description>
+    <pubDate>Sun, 06 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e5/00/20250706-dnevne-novosti-36562369-20250706134052.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.07. 2025-07-05</title>
     <link>https://api.hrt.hr/media/e2/e8/20250705-dnevne-novosti-36559942-20250705133541.mp3</link>
     <description>Manje od šest sati do početka Thompsonova koncerta rijeke ljudi slijevaju se prema zagrebačkom Hipodromu. MUP-ov stožer s druge strane Save prati svaki detalj. Promet u gradu Zagrebu i na državnim cestama bez većih zastoja. U poplavama u središnjem Teksasu poginule su 24 osobe, a najmanje 25 djevojčica koje su bile u kršćanskom ljetnom kampu smatra se nestalima. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Za masakr u Domu za starije i nemoćne u Daruvaru Krešimir Pahoki, umirovljeni vojni policajac, osuđen na maksimalnu kaznu zatvora od 50 godina. Objavljene pojedinosti svih sigurnosnih mjera na Thompsonovu koncertu - osiguravat će ga 6500 policajaca i 5000 redara. Nogometni svijet oprašta se od Dioga Jote, 28-godišnjeg portugalskog reprezentativca i nogometaša Liverpoola, koji je poginuo u prometnoj nesreći. Urednica: Mira Barić</description>
     <pubDate>Thu, 03 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/18/48/20250703-dnevne-novosti-36554556-20250703133105.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.07. 2025-07-02</title>
-    <link>https://api.hrt.hr/media/46/af/20250702-dnevne-novosti-36551523-20250702133541.mp3</link>
-    <description>Premijer Plenković potvrdio da će Ivan Penava biti imenovan na čelo povjerenstva koje će istraživati komunističke zločine Drugoga svjetskog rata i poraća. Tri dana do Thompsonova koncerta dogovaraju se posljednji detalji,pred policijom najzahtjevnije osiguranje javnoga okupljanja. Sjedinjene Države zaustavit će već dogovorene isporuke oružja Ukrajini zbog, kako se navodi, vlastitih nedovoljnih zaliha. Vrućine odnijele prve žrtve na jugu Europe. Urednica: Mira Barić</description>
-    <pubDate>Wed, 02 Jul 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/af/20250702-dnevne-novosti-36551523-20250702133541.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
