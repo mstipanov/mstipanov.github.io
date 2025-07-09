@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 08 Jul 2025 11:21:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 22:43:01 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.07. 2025-07-09</title>
+    <link>https://api.hrt.hr/media/05/2b/20250709-jutarnja-kronika-36569904-20250709053014.mp3</link>
+    <description>Nakon nezapamćenog nevremena u Splitu se zbrajaju štete, a građani ih mogu prijaviti do sutra. Ispitan osumnjičeni za brutalno ubojstvo u zagrebačkoj Dubravi - branio se šutnjom! Trump najavio je nove carine u sklopu sve šireg globalnog trgovinskog rata. 99 hrvatskih restorana uvršteno u ovogodišnji Mišlenov gastronomski vodič. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Wed, 09 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/05/2b/20250709-jutarnja-kronika-36569904-20250709053014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.07. 2025-07-08</title>
     <link>https://api.hrt.hr/media/de/0c/20250708-jutarnja-kronika-36566894-20250708054057.mp3</link>
     <description>Promjena vremena, praćena snažnim vjetrom, u unutrašnjosti rušila stabla i odnosila krovove. Na moru pijavice. Sabor će raspravljati o zakonu koji će građanima omogućiti besplatan bankovni račun za redovita primanja. Američki predsjednk Donald Trump uvodi nove carine - uz ostale Bosni i Hercegovini 30, a Srbiji 35 posto. Večeras počinje jubilarno 40. Zagrebačko histrionsko ljeto. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Koncert kakav Hrvatska nije vidjela, s više od pola milijuna ljudi, završio sigurno i bez većih problema. Policija privela 123 osobe, najviše zbog pirotehnike, a liječnici odradili 245 intervencija, najveći problem - alkohol. poplavama u Teksasu stradalo 50 ljudi, 29-ero nestalo. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 06 Jul 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/9f/d4/20250706-jutarnja-kronika-36561561-20250706053052.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.07. 2025-07-05</title>
-    <link>https://api.hrt.hr/media/64/ca/20250705-jutarnja-kronika-36559074-20250705054040.mp3</link>
-    <description>U Zagrebu večeras spektakularni koncert Marka Perkovića Thompsona s pola milijuna ljudi. Hipodrom vrata otvara u 10 sati. Iako se očekivala gužva na prilazima Zagrebu, veći dio noći nije bilo problema ni pojačanog prometa. Milorad Dodik predao se sudu Bosne i Hercegovine, ukinuta mu je mjera pritvora. Poplave u Teksasu - najmanje 24 mrtvih i 25 nestalih djevojčica iz ljetnog kampa. Urednik: Mario Krstanović</description>
-    <pubDate>Sat, 05 Jul 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/64/ca/20250705-jutarnja-kronika-36559074-20250705054040.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

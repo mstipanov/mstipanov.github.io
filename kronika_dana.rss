@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 08 Jul 2025 21:25:42 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 22:43:00 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 09.07. 2025-07-09</title>
+    <link>https://api.hrt.hr/media/35/d8/20250709-kronika-dana-36572328-20250709203514.mp3</link>
+    <description>Kandidatkinja za novu ministricu regionalnog razvoja je Nataša Mikuš-Žigman iz Podravke.dvjema slavonskim županijama velike štete na usjevima nakon jučerašnjeg nevremena, a Splićani još sutra mogu prijavljivati štetu. SAD će nastaviti dostavljati oružje Ukrajini, a Donald Trump ne isključuje ni dodatne sankcije Rusiji. Urednica: Sanja Cota.</description>
+    <pubDate>Wed, 09 Jul 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/35/d8/20250709-kronika-dana-36572328-20250709203514.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 08.07. 2025-07-08</title>
     <link>https://api.hrt.hr/media/2d/a8/20250708-kronika-dana-36569363-20250708205011.mp3</link>
     <description>Split se oporavlja od nezapamćene oluje koja je poharala velik dio grada. Dvije osobe teško su ozlijeđene, više od 20 lakše. Šteta je golema. Unatoč intezivnoj potrazi na rijeci Dravi u Belišću 9-ogodišnji dječak nije pronađen.Požari bjesne u Španjolskoj i Francuskoj, vatra zahvatila rubne dijelove Marseillea, zatvorena zračna luka. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Dan nakon Thompsonova koncerta Zagreb se vratio u normalu. Sve službe sjajno odradile posao.U zagrebačkoj Dubravi usred dana ubijen muškarac, policija traga za počiniteljem. Raste broj žrtava bujičnih poplava u središnjem Teksasu. Poginulo najmanje 67-ero ljudi.Urednica: Mira Barić</description>
     <pubDate>Sun, 06 Jul 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/a5/03/20250706-kronika-dana-36563248-20250706203554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.07. 2025-07-05</title>
-    <link>https://api.hrt.hr/media/e9/b0/20250705-kronika-dana-36560833-20250705203549.mp3</link>
-    <description>U tijeku koncert Marka Perkovića Thompsona na zagrebačkom Hipodromu, najveći glazbeni događaj u povijesti Hrvatske. Zasad se zna da su privedene 44 osobe, a 63 je zatražilo liječničku pomoć. U poplavama u američkoj državi Teksasu poginulo je najmanje 27-ero ljudi, a isto toliko djevojčica koje su bile u ljetnom kampu smatra se nestalima. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 05 Jul 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e9/b0/20250705-kronika-dana-36560833-20250705203549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
