@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Jul 2025 22:43:01 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 21:01:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 10.07. 2025-07-10</title>
+    <link>https://api.hrt.hr/media/25/54/20250710-jutarnja-kronika-36572923-20250710053516.mp3</link>
+    <description>Splićani štetu od nevremena mogu prijaviti još danas do 16 sati. U dvjema slavonskim županijama velike su štete na usjevima. Kandidatkinja za novu ministricu regionalnog razvoja je Nataša Mikuš-Žigman, dolazi iz Podravke. U Rimu Konferencija o obnovi Ukrajine, očekuje se 5 tisuća sudionika. Počinju 76. Dubrovačke ljetne igre i 72. Pulski filmski festival. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 10 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/25/54/20250710-jutarnja-kronika-36572923-20250710053516.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 09.07. 2025-07-09</title>
     <link>https://api.hrt.hr/media/05/2b/20250709-jutarnja-kronika-36569904-20250709053014.mp3</link>
     <description>Nakon nezapamćenog nevremena u Splitu se zbrajaju štete, a građani ih mogu prijaviti do sutra. Ispitan osumnjičeni za brutalno ubojstvo u zagrebačkoj Dubravi - branio se šutnjom! Trump najavio je nove carine u sklopu sve šireg globalnog trgovinskog rata. 99 hrvatskih restorana uvršteno u ovogodišnji Mišlenov gastronomski vodič. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>U zagrebačkoj Dubravi usred dana ubijen muškarac, policija traga za počiniteljem.Nakon cjelodnevne potrage u Međimurju uhićen mladić koji je ubio majku i teško ranio očuha i polubrata. Raste broj žrtava bujičnih poplava u središnjem Teksasu. Poginulo najmanje 80 ljudi, među kojima 28 djece. Marin Čilić u podne protiv Talijana Flavija Cobollija za četvrtfinale Wimbledona. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 07 Jul 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b7/f7/20250707-jutarnja-kronika-36563783-20250707052554.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 06.07. 2025-07-06</title>
-    <link>https://api.hrt.hr/media/9f/d4/20250706-jutarnja-kronika-36561561-20250706053052.mp3</link>
-    <description>Koncert kakav Hrvatska nije vidjela, s više od pola milijuna ljudi, završio sigurno i bez većih problema. Policija privela 123 osobe, najviše zbog pirotehnike, a liječnici odradili 245 intervencija, najveći problem - alkohol. poplavama u Teksasu stradalo 50 ljudi, 29-ero nestalo. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 06 Jul 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9f/d4/20250706-jutarnja-kronika-36561561-20250706053052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

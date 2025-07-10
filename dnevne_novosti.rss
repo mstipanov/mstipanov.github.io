@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 09 Jul 2025 22:42:58 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 21:01:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.07. 2025-07-10</title>
+    <link>https://api.hrt.hr/media/72/bc/20250710-dnevne-novosti-36574416-20250710133018.mp3</link>
+    <description>Iduće godine počinje temeljno vojno osposobljavanje, Vlada u Sabor uputila izmjene Zakona o obrani te o službi u Oružanim snagama. Slabije punjenje proračuna u prvih pet mjeseci, deficit se povećao na gotovo milijardu i 900 milijuna eura. U Dravi pronađeno tijelo, nema službene potvrde je li riječ o devetogodišnjem dječaku. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 10 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/72/bc/20250710-dnevne-novosti-36574416-20250710133018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.07. 2025-07-09</title>
     <link>https://api.hrt.hr/media/ed/e6/20250709-dnevne-novosti-36571474-20250709133514.mp3</link>
     <description>U Splitu nastavljena sanacija nakon jučerašnjeg nevremena. Ozlijeđeno je 26 osoba, dvije teže. Nova ministrica regionalnog razvoja bit će Nataša Mikuš-Žigman. Sabor raspravlja o prijedlogu dijela oporbe da se osnuje povjerenstvo koje bi ispitalo poslovanje Hrvatskih šuma. Rusija prošle noći lansirala 728 bespilotnih letjelica na ciljeve u Ukrajini. Urednik: Silvio Šop</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Mon, 07 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/92/6a/20250707-dnevne-novosti-36565339-20250707133556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.07. 2025-07-06</title>
-    <link>https://api.hrt.hr/media/e5/00/20250706-dnevne-novosti-36562369-20250706134052.mp3</link>
-    <description>Koncert Marka Perkovića Thompsona na zagrebačkom Hipodromu, koji je okupio pola milijuna ljudi, prošao bez većih problema. Policija privela 123 osobe, najviše zbog pirotehnike, a liječnici zbrinuli tisuću 179-ero ljudi. U mjestu Pleškovcu u Međimurju rano jutros žena ubijena, muškarac teško ozlijeđen i bori se za život. Stotine spasilaca tragaju za preživjelima u Teksasu, nakon što je u bujičnim poplavama poginula najmanje 51-dna osoba, među kojima 15-ero djece. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 06 Jul 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e5/00/20250706-dnevne-novosti-36562369-20250706134052.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
