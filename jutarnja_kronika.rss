@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 10 Jul 2025 21:01:11 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 05:49:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.07. 2025-07-11</title>
+    <link>https://api.hrt.hr/media/4e/a5/20250711-jutarnja-kronika-36576091-20250711053528.mp3</link>
+    <description>Počinje 18. Dubrovnik forum, ove godine pod nazivom "Usmjeravanje promjene". Predao se Hrvoje Petrač, osumnjičen u aferi "Mikroskopi" zajedno s bivšim ministrom Vilijem Berošem. Trideseta je obljetnica najvećeg zločina u Europi nakon Drugog svjetskog rata - genocida u Srebrenici. U Splitu počinje Ultra Europe, jedan od najvećih svjetskih festivala elektroničke glazbe. Urednik: Silvio Šop</description>
+    <pubDate>Fri, 11 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4e/a5/20250711-jutarnja-kronika-36576091-20250711053528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.07. 2025-07-10</title>
     <link>https://api.hrt.hr/media/25/54/20250710-jutarnja-kronika-36572923-20250710053516.mp3</link>
     <description>Splićani štetu od nevremena mogu prijaviti još danas do 16 sati. U dvjema slavonskim županijama velike su štete na usjevima. Kandidatkinja za novu ministricu regionalnog razvoja je Nataša Mikuš-Žigman, dolazi iz Podravke. U Rimu Konferencija o obnovi Ukrajine, očekuje se 5 tisuća sudionika. Počinju 76. Dubrovačke ljetne igre i 72. Pulski filmski festival. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Promjena vremena, praćena snažnim vjetrom, u unutrašnjosti rušila stabla i odnosila krovove. Na moru pijavice. Sabor će raspravljati o zakonu koji će građanima omogućiti besplatan bankovni račun za redovita primanja. Američki predsjednk Donald Trump uvodi nove carine - uz ostale Bosni i Hercegovini 30, a Srbiji 35 posto. Večeras počinje jubilarno 40. Zagrebačko histrionsko ljeto. Urednik: Silvio Šop</description>
     <pubDate>Tue, 08 Jul 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/0c/20250708-jutarnja-kronika-36566894-20250708054057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.07. 2025-07-07</title>
-    <link>https://api.hrt.hr/media/b7/f7/20250707-jutarnja-kronika-36563783-20250707052554.mp3</link>
-    <description>U zagrebačkoj Dubravi usred dana ubijen muškarac, policija traga za počiniteljem.Nakon cjelodnevne potrage u Međimurju uhićen mladić koji je ubio majku i teško ranio očuha i polubrata. Raste broj žrtava bujičnih poplava u središnjem Teksasu. Poginulo najmanje 80 ljudi, među kojima 28 djece. Marin Čilić u podne protiv Talijana Flavija Cobollija za četvrtfinale Wimbledona. Urednik: Mislav Togonal</description>
-    <pubDate>Mon, 07 Jul 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b7/f7/20250707-jutarnja-kronika-36563783-20250707052554.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
