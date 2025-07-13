@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Jul 2025 22:20:31 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 22:38:16 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.07. 2025-07-13</title>
+    <link>https://api.hrt.hr/media/44/a5/20250713-dnevne-novosti-36581843-20250713133038.mp3</link>
+    <description>Čelnici Europske unije spremni uzvratiti istom mjerom na najavljene Trumpove carine od 30 posto. Još se ne zna što je uzrok pomora goveda u Dalmatinskoj zagori. Na Dubrovačkim ljetnim igrama večeras prva premijera - Goldonijeve "Ribarske svađe". Urednica: Mira Barić</description>
+    <pubDate>Sun, 13 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/44/a5/20250713-dnevne-novosti-36581843-20250713133038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.07. 2025-07-12</title>
     <link>https://api.hrt.hr/media/3c/e2/20250712-dnevne-novosti-36579843-20250712133035.mp3</link>
     <description>Bilo bi razumno izbjeći carinski rat SAD-a i Europske unije, ako bi se dvije strane dogovorile o rastu ulaganja u obranu do 2035. godine, izjavio premijer na Dubrovačkom forumu. Nove snimke iz zrakoplova Air Indije u kojem je poginulo 260 ljudi, piloti se pitaju tko je prekinuo dotok goriva.
@@ -32,14 +40,6 @@ Rusija i dalje snažno napada Ukrajinu, Sergej Lavrov u Sjevernoj Koreji. Uredni
     <description>Iduće godine počinje temeljno vojno osposobljavanje, Vlada u Sabor uputila izmjene Zakona o obrani te o službi u Oružanim snagama. Slabije punjenje proračuna u prvih pet mjeseci, deficit se povećao na gotovo milijardu i 900 milijuna eura. U Dravi pronađeno tijelo, nema službene potvrde je li riječ o devetogodišnjem dječaku. Urednica: Sanja Cota</description>
     <pubDate>Thu, 10 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/bc/20250710-dnevne-novosti-36574416-20250710133018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.07. 2025-07-09</title>
-    <link>https://api.hrt.hr/media/ed/e6/20250709-dnevne-novosti-36571474-20250709133514.mp3</link>
-    <description>U Splitu nastavljena sanacija nakon jučerašnjeg nevremena. Ozlijeđeno je 26 osoba, dvije teže. Nova ministrica regionalnog razvoja bit će Nataša Mikuš-Žigman. Sabor raspravlja o prijedlogu dijela oporbe da se osnuje povjerenstvo koje bi ispitalo poslovanje Hrvatskih šuma. Rusija prošle noći lansirala 728 bespilotnih letjelica na ciljeve u Ukrajini. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 09 Jul 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ed/e6/20250709-dnevne-novosti-36571474-20250709133514.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

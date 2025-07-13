@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 12 Jul 2025 22:20:34 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 22:38:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 13.07. 2025-07-13</title>
+    <link>https://api.hrt.hr/media/01/c9/20250713-jutarnja-kronika-36581108-20250713053537.mp3</link>
+    <description>Nakon Trumpove najave o uvođenju carina od 30 posto čeka se odgovor Europske unije - sutra će se sastati Vijeće za vanjske poslove. Na Dubrovačkim ljetnim igrama večeras je na rasporedu prva dramska premijera - Goldonijeve Ribarske svađe. Urednica: Marija Gerbec Njavro.</description>
+    <pubDate>Sun, 13 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/01/c9/20250713-jutarnja-kronika-36581108-20250713053537.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 12.07. 2025-07-12</title>
     <link>https://api.hrt.hr/media/03/b5/20250712-jutarnja-kronika-36579045-20250712055033.mp3</link>
     <description>Utvrđen je razlog pada indijskog zrakoplova, u kojem je poginulo 260 ljudi - odmah nakon polijetanja isključeni su prekidači za dotok goriva. Hrvoje Petrač navodno priznao krivnju za uključenost u aferu Mikroskopi, a za što je osumnjičen i bivši ministar Beroš. Svjetsko prvenstvo u Singapuru barakude otvorile utakmicom protiv Kine. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Splićani štetu od nevremena mogu prijaviti još danas do 16 sati. U dvjema slavonskim županijama velike su štete na usjevima. Kandidatkinja za novu ministricu regionalnog razvoja je Nataša Mikuš-Žigman, dolazi iz Podravke. U Rimu Konferencija o obnovi Ukrajine, očekuje se 5 tisuća sudionika. Počinju 76. Dubrovačke ljetne igre i 72. Pulski filmski festival. Urednik: Silvio Šop</description>
     <pubDate>Thu, 10 Jul 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/25/54/20250710-jutarnja-kronika-36572923-20250710053516.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 09.07. 2025-07-09</title>
-    <link>https://api.hrt.hr/media/05/2b/20250709-jutarnja-kronika-36569904-20250709053014.mp3</link>
-    <description>Nakon nezapamćenog nevremena u Splitu se zbrajaju štete, a građani ih mogu prijaviti do sutra. Ispitan osumnjičeni za brutalno ubojstvo u zagrebačkoj Dubravi - branio se šutnjom! Trump najavio je nove carine u sklopu sve šireg globalnog trgovinskog rata. 99 hrvatskih restorana uvršteno u ovogodišnji Mišlenov gastronomski vodič. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 09 Jul 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/05/2b/20250709-jutarnja-kronika-36569904-20250709053014.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
