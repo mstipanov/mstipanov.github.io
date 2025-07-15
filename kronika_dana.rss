@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 14 Jul 2025 22:00:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 21:53:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 15.07. 2025-07-15</title>
+    <link>https://api.hrt.hr/media/1f/ee/20250715-kronika-dana-36588557-20250715204026.mp3</link>
+    <description>Nakon što je Putinu dao 50 dana da dogovori mir u Ukrajini, a Kijevu obećao novo oružje, američki predsjednik Trump poručuje da Ukrajina ne smije gađati Moskvu. Slovačka blokirala novi paket europskih sankcija Rusiji. Hrvatska je među članicama koje se protive suspenziji sporazuma Europske unije i Izraela. Sabor potvrdio Natašu Mikuš Žigman za novu ministricu europskih fondova. Ona za HRT poručila da se do kraja mandata želi povući sav dostupan europski novac. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 15 Jul 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/ee/20250715-kronika-dana-36588557-20250715204026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 14.07. 2025-07-14</title>
     <link>https://api.hrt.hr/media/a3/56/20250714-kronika-dana-36585708-20250714204023.mp3</link>
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>Donald Trump najavio carine od 30 posto za uvoz iz Europske unije i Meksika. Ne uspiju li pregovori, Europa spremna i na proporcionalne protumjere. Odnosi Europe i Sjedinjenih Država jedna od tema Dubrovačkog foruma. Pod nadzorom je požar koji je poslijepodne buknuo u Podstrani. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 12 Jul 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/88/b0/20250712-kronika-dana-36580543-20250712204035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 11.07. 2025-07-11</title>
-    <link>https://api.hrt.hr/media/ff/c6/20250711-kronika-dana-36578469-20250711211531.mp3</link>
-    <description>Trideset je godina prošlo od genocida u Srebrenici.Hrvoje Petrač ispitan u USKOK-u, neslužbeno - priznao je krivnju u aferi "mikroskopi". Ukrajina snažno odgovorila na ruske napade bespilotnim letjelicama. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 11 Jul 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ff/c6/20250711-kronika-dana-36578469-20250711211531.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
