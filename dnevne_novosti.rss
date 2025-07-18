@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Jul 2025 10:09:04 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 14:11:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.07. 2025-07-18</title>
+    <link>https://api.hrt.hr/media/bb/be/20250718-dnevne-novosti-36596254-20250718133100.mp3</link>
+    <description>Lokaliziran požar koji je noćas buknuo iznad Bola na Braču, zbog kojeg su bili evakuirani gosti iz obližnjeg hotela i kampa. Poslije tajnoga glasovanja u Splitu konstituirano Gradsko vijeće. Nakon što je Slovačka povukla svoj veto, Europska unija dogovorila 18., dosad najveći paket sankcija protiv Rusije. Urednica: Mira Barić</description>
+    <pubDate>Fri, 18 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bb/be/20250718-dnevne-novosti-36596254-20250718133100.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.07. 2025-07-17</title>
     <link>https://api.hrt.hr/media/a1/4d/20250717-dnevne-novosti-36593436-20250717133017.mp3</link>
     <description>U Slatini održana sjednica Savjeta za Slavoniju, Baranju i Srijem, prije nje dodijeljeno je više od stotinu ugovora u vrijednosti od oko 100 milijuna eura. Dogovorom Hrvatskih suverenista i HDZ-a iz drugog pokušaja konstituirano je Gradsko vijeće Vukovara. Izraelska vojska ubila je najmanje 22-oje ljudi u napadima na pojas Gaze, pogođena je i crkva Svete Obitelji, jedina katolička u enklavi. U Grožnjanu večeras počinje 26. festival "Jazz iz back B.P." Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>U Saboru prisegnula nova ministrica regionalnog razvoja i fondova Europske unije Nataša Mikuš Žigman. Cijene goriva neznatno su se promijenile nakon što je Vlada prestala s ograničavanjem cijena. Trumpove prijetnje su ozbiljne i za analizu, odgovorila je Rusija nakon što je američki predsjednik zaprijetio carinama i dao rok od 50 dana za zaustavljanje rata. Urednica: Sanja Cota</description>
     <pubDate>Tue, 15 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/93/20250715-dnevne-novosti-36587551-20250715133026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.07. 2025-07-14</title>
-    <link>https://api.hrt.hr/media/f0/26/20250714-dnevne-novosti-36584627-20250714133056.mp3</link>
-    <description>Vlada više neće regulirati cijene goriva pa od ponoći ne vrijede nešto niže cijene. Uoči sutrašnjega glasovanja u Saboru, kandidatkinja za novu ministricu regionalnog razvoja i fondova Europske unije Nataša Mikuš Žigman uspješno saslušana na matičnome Odboru. Donald Trump Ukrajini šalje proturaketni sustav Patriot. Urednica: Mira Barić</description>
-    <pubDate>Mon, 14 Jul 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f0/26/20250714-dnevne-novosti-36584627-20250714133056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
