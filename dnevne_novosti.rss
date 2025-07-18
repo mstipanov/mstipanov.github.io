@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 16 Jul 2025 13:57:31 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 10:09:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 17.07. 2025-07-17</title>
+    <link>https://api.hrt.hr/media/a1/4d/20250717-dnevne-novosti-36593436-20250717133017.mp3</link>
+    <description>U Slatini održana sjednica Savjeta za Slavoniju, Baranju i Srijem, prije nje dodijeljeno je više od stotinu ugovora u vrijednosti od oko 100 milijuna eura. Dogovorom Hrvatskih suverenista i HDZ-a iz drugog pokušaja konstituirano je Gradsko vijeće Vukovara. Izraelska vojska ubila je najmanje 22-oje ljudi u napadima na pojas Gaze, pogođena je i crkva Svete Obitelji, jedina katolička u enklavi. U Grožnjanu večeras počinje 26. festival "Jazz iz back B.P." Urednik: Silvio Šop</description>
+    <pubDate>Thu, 17 Jul 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a1/4d/20250717-dnevne-novosti-36593436-20250717133017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 16.07. 2025-07-16</title>
     <link>https://api.hrt.hr/media/74/48/20250716-dnevne-novosti-36590647-20250716133029.mp3</link>
     <description>USKOK podignuo optužnicu protiv bivšeg ministra Beroša i još sedmorice u aferi "mikroskopi", tereti ih za niz kaznenih djela - od zločinačkog udruživanja i mita do nezakonitog pogodovanja. Domovinski pokret prijavio strani trgovački lanac Državnom inspektoratu i Vijeću za hrvatski jezik zbog reklama na jeziku koji se govori na Filipinima. Pobjedom protiv Grčke, hrvatska vaterpolska reprezentacija ušla u četvrtfinale Svjetskog prvenstva. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Vlada više neće regulirati cijene goriva pa od ponoći ne vrijede nešto niže cijene. Uoči sutrašnjega glasovanja u Saboru, kandidatkinja za novu ministricu regionalnog razvoja i fondova Europske unije Nataša Mikuš Žigman uspješno saslušana na matičnome Odboru. Donald Trump Ukrajini šalje proturaketni sustav Patriot. Urednica: Mira Barić</description>
     <pubDate>Mon, 14 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f0/26/20250714-dnevne-novosti-36584627-20250714133056.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 13.07. 2025-07-13</title>
-    <link>https://api.hrt.hr/media/44/a5/20250713-dnevne-novosti-36581843-20250713133038.mp3</link>
-    <description>Čelnici Europske unije spremni uzvratiti istom mjerom na najavljene Trumpove carine od 30 posto. Još se ne zna što je uzrok pomora goveda u Dalmatinskoj zagori. Na Dubrovačkim ljetnim igrama večeras prva premijera - Goldonijeve "Ribarske svađe". Urednica: Mira Barić</description>
-    <pubDate>Sun, 13 Jul 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/a5/20250713-dnevne-novosti-36581843-20250713133038.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 

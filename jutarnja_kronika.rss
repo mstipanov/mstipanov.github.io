@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 17 Jul 2025 07:09:33 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 10:09:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.07. 2025-07-18</title>
+    <link>https://api.hrt.hr/media/aa/7c/20250718-jutarnja-kronika-36594964-20250718053558.mp3</link>
+    <description>Veliki požar buknuo noćas iznad Bola na Braču. Gore deseci hektara borove šume. Nastavlja se pomor stoke u Dalmatinskoj zagori. Ogorčeni stočari traže od mjerodavnih službi da konačno otkriju njegov uzrok. Danas pokušaji konstituiranja gradskih vijeća Splita i Zadra. Slovačka odustaje od blokade novog paketa sankcija Rusiji. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 18 Jul 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/aa/7c/20250718-jutarnja-kronika-36594964-20250718053558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.07. 2025-07-17</title>
     <link>https://api.hrt.hr/media/01/25/20250717-jutarnja-kronika-36592142-20250717054032.mp3</link>
     <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>Posljednji je dan proljetnog zasjedanja Sabora, zastupnici odlaze na dvomjesečnu stanku. Nakon tri godine, Vlada više neće određivati cijene goriva. Američki predsjednik Donald Trump poručio Rusiji da zaustavi rat u 50 dana, inače će joj uvesti stopostotne carine. Praizvedbom opere "Dioklecijan" otvoreno je 71. Splitsko ljeto. Urednik: Silvio Šop</description>
     <pubDate>Tue, 15 Jul 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f9/96/20250715-jutarnja-kronika-36586244-20250715053524.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.07. 2025-07-14</title>
-    <link>https://api.hrt.hr/media/81/32/20250714-jutarnja-kronika-36583079-20250714053553.mp3</link>
-    <description>Premijer na mjerodavnom saborskom odboru predstavlja novu ministricu Natašu Mikuš Žigman. U sabornici - rasprava o uvođenju vojnog roka. Uginula goveda kod Vrlike, sumnja se na trovanje. Europska unija odgodila uvođenje pripremljenih recipročnih carina SAD-u. Daje priliku dodatnim pregovorima do početka sljedećeg mjeseca. Počinje Splitsko ljeto. Urednica: Snježana Kralj</description>
-    <pubDate>Mon, 14 Jul 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/81/32/20250714-jutarnja-kronika-36583079-20250714053553.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
