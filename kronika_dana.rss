@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 18 Jul 2025 10:09:05 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 01:22:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.07. 2025-07-18</title>
+    <link>https://api.hrt.hr/media/2b/cb/20250718-kronika-dana-36597032-20250718203559.mp3</link>
+    <description>Kod jedne uginule krave iz Maovica potvrđena zarazna bolest bedrenica. U Splitu utemeljeno Gradsko vijeće, glasovanje je bilo tajno. U središtu afere Epstin našao se američki predsjednik Trump.Urednica: Sanja Cota</description>
+    <pubDate>Fri, 18 Jul 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2b/cb/20250718-kronika-dana-36597032-20250718203559.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.07. 2025-07-17</title>
     <link>https://api.hrt.hr/media/70/a1/20250717-kronika-dana-36594382-20250717204006.mp3</link>
     <description>U Slatini održana sjednica Savjeta za Slavoniju, Baranju i Srijem. Vlada dodijelila ugovore vrijedne 96 milijuna eura gradovima i općinama u pet županija na istoku zemlje. Stočari iz Dalmatinske zagore i dalje svaki dan broje uginula goveda. Ogorčeni su jer uzrok uginuća još nije poznat. Velika Britanija i Njemačka potpisale povijesni sporazum o suradnji u područjima od obrane do prijevoza, čime je obilježen prvi posjet kancelara Fridriha Merza Londonu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nakon što je Putinu dao 50 dana da dogovori mir u Ukrajini, a Kijevu obećao novo oružje, američki predsjednik Trump poručuje da Ukrajina ne smije gađati Moskvu. Slovačka blokirala novi paket europskih sankcija Rusiji. Hrvatska je među članicama koje se protive suspenziji sporazuma Europske unije i Izraela. Sabor potvrdio Natašu Mikuš Žigman za novu ministricu europskih fondova. Ona za HRT poručila da se do kraja mandata želi povući sav dostupan europski novac. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 15 Jul 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/ee/20250715-kronika-dana-36588557-20250715204026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.07. 2025-07-14</title>
-    <link>https://api.hrt.hr/media/a3/56/20250714-kronika-dana-36585708-20250714204023.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Mon, 14 Jul 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/a3/56/20250714-kronika-dana-36585708-20250714204023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
