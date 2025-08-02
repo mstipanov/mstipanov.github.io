@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Aug 2025 05:34:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 20:36:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Generalnom probom zračnih snaga završile pripreme za sutrašnji vojni mimohod u Zagrebu. Ministar poljoprivrede najavio 2 milijuna eura za obnovu stočnog fonda na području ugroženom bedrenicom. Potres magnitude 8 cijelih 8 pogodio poluotok Kamčatku. Rijeka porazom u Bugarskoj 3:1 svoj europski put nastavlja u Konferencijskoj ligi.Urednica: Marija Gerbec Njavro</description>
     <pubDate>Wed, 30 Jul 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e4/7c/20250730-kronika-dana-36628576-20250730203546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 29.07. 2025-07-29</title>
-    <link>https://api.hrt.hr/media/8c/e3/20250729-kronika-dana-36625939-20250729203533.mp3</link>
-    <description>Večeras održana generalna proba vojnog mimohoda u Zagrebu. Velika Britanija priznat će palestinsku državnost u rujnu ako Izrael ne završi rat u pojasu Gaze. Hrvatskoj iz Unije stiže gotovo 836 milijuna eura iz Mehanizma za oporavak i otpornost. U Veloj Luci, koncert za Olivera - Trag u beskraju. Urednica Marija Gerbec Njavro</description>
-    <pubDate>Tue, 29 Jul 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8c/e3/20250729-kronika-dana-36625939-20250729203533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
