@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Aug 2025 21:06:57 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Aug 2025 20:43:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>U Zagrebu održan svečani vojni mimohod, kojim je obilježena 30. obljetnica vojno-redarstvene operacije Oluje. Istodobno s mimohodom u Zagrebu, održan mimoplov Hrvatske ratne mornarice južno od otoka Šolte. Bivši premijer Ivo Sanader, koji je služio kaznu od 18 godina zatvora, pušten na uvjetnu slobodu. U Gazi ljudi i dalje umiru od gladi. U redovima za podjelu hrane ubijena 91-dna osoba. Urednik: Silvio Šop</description>
     <pubDate>Thu, 31 Jul 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/de/b0/20250731-kronika-dana-36631109-20250731204013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 30.07. 2025-07-30</title>
-    <link>https://api.hrt.hr/media/e4/7c/20250730-kronika-dana-36628576-20250730203546.mp3</link>
-    <description>Generalnom probom zračnih snaga završile pripreme za sutrašnji vojni mimohod u Zagrebu. Ministar poljoprivrede najavio 2 milijuna eura za obnovu stočnog fonda na području ugroženom bedrenicom. Potres magnitude 8 cijelih 8 pogodio poluotok Kamčatku. Rijeka porazom u Bugarskoj 3:1 svoj europski put nastavlja u Konferencijskoj ligi.Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 30 Jul 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e4/7c/20250730-kronika-dana-36628576-20250730203546.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
