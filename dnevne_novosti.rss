@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 02 Aug 2025 13:35:37 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Aug 2025 13:40:20 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.08. 2025-08-03</title>
+    <link>https://api.hrt.hr/media/4b/e2/20250803-dnevne-novosti-36637596-20250803132553.mp3</link>
+    <description>Ministar obrane Ivan Anušić o zapovijedi predsjednika i vrhovnog zapovjednika Oružanih snaga Zorana Milanovića o prekidu vojne suradnje s Izraelom - Hrvatska niti ima, niti je imala, a i ne planira vojnu suradnju s Izraelom. Istodobno, prosvjedi u svijetu koji pozivaju na mir i dostavu hrane u razoren pojas Gaze. Rim u znaku Jubileja mladih, sinoć na bdijenju uz papu Lava Četrnaestog njih više od milijun. Nakon Bare i Čoje, danas trka 310-e Sinjske alke.Urednik: Silvio Šop</description>
+    <pubDate>Sun, 03 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/e2/20250803-dnevne-novosti-36637596-20250803132553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.08. 2025-08-02</title>
     <link>https://api.hrt.hr/media/e8/da/20250802-dnevne-novosti-36635187-20250802133051.mp3</link>
     <description>U Kninu najavljena velika proslava trideset godina Oluje.Udarni je turistički vikend.Večeras se u Rimu na bdijenju s papom Lavom Četrnaestim, prema neslužbenim procjenama, očekuje više od pola milijuna mladih.Urednik: Mario Krstanović</description>
@@ -32,14 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 31 Jul 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f5/24/20250731-dnevne-novosti-36630089-20250731133102.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 30.07. 2025-07-30</title>
-    <link>https://api.hrt.hr/media/1d/5f/20250730-dnevne-novosti-36627673-20250730133048.mp3</link>
-    <description>Razorni potres jakosti 8,8 prema Richteru pogodio ruski poluotok Kamčatku. Upozorenja na cunami izdana diljem Tihog oceana. Ministar poljoprivrede David Vlajčić u Vrlici će održati sastanak zbog bedrenice. Na području Osječko-baranjske županije širi se afrička svinjska kuga. Dodijeljena 54 ugovora za rekonstrukciju i opremanje škola i vrtića. Sutra je svečani vojni mimohod u Zagrebu, jučer održana generalna proba. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 30 Jul 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1d/5f/20250730-dnevne-novosti-36627673-20250730133048.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
