@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Aug 2025 05:38:54 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 05:45:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 04.08. 2025-08-04</title>
+    <link>https://api.hrt.hr/media/44/bf/20250804-jutarnja-kronika-36638871-20250804053556.mp3</link>
+    <description>Jutarnja kronika, ponedjeljak, 4. 8. 2025. Urednik je Mislav Togonal.
+današnji dan prije 30 godina počela Oluja. U sinoćnjem olujnom nevremenu u viškom akvatoriju havarija triju plovila. Spašeno 16 ljudi. Hrvatska ne kupuje oružje od Izraela, poručio premijer i tako odgovorio na zahtjev predsjednika Republike da se s tom zemljom prekine vojna suradnja. VRIJEME DANAS: Promjenjivo uz sunčana razdoblja. Još ponegdje moguća kiša, na jugu pljuskovi s grmljavinom. Na Jadranu bura.</description>
+    <pubDate>Mon, 04 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/44/bf/20250804-jutarnja-kronika-36638871-20250804053556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 03.08. 2025-08-03</title>
     <link>https://api.hrt.hr/media/2e/d5/20250803-jutarnja-kronika-36636715-20250803053553.mp3</link>
     <description>Predsjednik Milanović pozvao Vladu da prekine trgovinu oružjem s Izraelom. Više od milijun mladih vjernika na molitvenom bdjenju s Papom u Rimu. U Sinju se očekuje vrhunac 310. Alke. Urednik: Mario Krstanović</description>
@@ -32,14 +41,6 @@
 U Sinju počinju alkarske svečanosti. Grad se priprema i za Thompsonov koncert na kojem se očekuje 150 tisuća posjetitelja. Urednik: Grgo Mrvica</description>
     <pubDate>Fri, 01 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d4/42/20250801-jutarnja-kronika-36631685-20250801053543.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 31.07. 2025-07-31</title>
-    <link>https://api.hrt.hr/media/97/a1/20250731-jutarnja-kronika-36629165-20250731053558.mp3</link>
-    <description>Mimohod počinje u 17 sati, a sve pratite u programima Hrvatske radiotelevizije. Nakon Francuske te Ujedinjenog Kraljevstva, i Kanada najavljuje da će priznati palestinsku državu. Rijeka nije uspjela proći u 3. pretkolo nogometne Lige prvaka. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 31 Jul 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/97/a1/20250731-jutarnja-kronika-36629165-20250731053558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
