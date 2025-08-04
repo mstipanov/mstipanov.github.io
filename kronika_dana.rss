@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 03 Aug 2025 21:13:53 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 20:48:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.08. 2025-08-04</title>
+    <link>https://api.hrt.hr/media/94/f1/20250804-kronika-dana-36640961-20250804204010.mp3</link>
+    <description>Knin spreman za proslavu 30-te obljetnice oslobodilačke operacije Oluja. Zbog kilometarskih kolona Thompsonov koncert u Sinju kasnio više od sat vremena. Bivši premijer Ivo Sanader pušten na uvjetnu slobodu.Izraelski premijer Netanjahu najavio nove vojne akcije u Pojasu Gaze, UNICEF objavio da u toj enklavi svaki dan prosječno umire 28-ero djece. Urednica: Mira Barić</description>
+    <pubDate>Mon, 04 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/f1/20250804-kronika-dana-36640961-20250804204010.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.08. 2025-08-03</title>
     <link>https://api.hrt.hr/media/fd/7a/20250803-kronika-dana-36638318-20250803204558.mp3</link>
     <description>Jako nevrijeme pogodilo Split i okolne otoke - a zbog jake kiše za iduću nedjelju odgođena 310-ta Sinjska alka. Hrvatska ne kupuje oružje od Izraela, poručio premijer i tako odgovorio na zahtjev predsjednika Republike da se s tom zemljom prekine vojna suradnja.Hamas objavio video dvojice izgladnjelih talaca od kojih jedan sam sebi kopa grob.Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Američki predsjednik Trump naredio raspoređivanje nuklearnih podmornica blizu Rusije. Inflacija se u Hrvatskoj u srpnju ubrzala na 4,1 posto, najviše poskupjeli hrana, piće i duhan.Grad Zagreb potvrdio da mu je iz četvrtog pokušaja konačno odobren GUP. U Splitu novi prosvjed zbog broda s azbestom.Urednik: Mario Krstanović</description>
     <pubDate>Fri, 01 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/37/ae/20250801-kronika-dana-36633746-20250801204044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.07. 2025-07-31</title>
-    <link>https://api.hrt.hr/media/de/b0/20250731-kronika-dana-36631109-20250731204013.mp3</link>
-    <description>U Zagrebu održan svečani vojni mimohod, kojim je obilježena 30. obljetnica vojno-redarstvene operacije Oluje. Istodobno s mimohodom u Zagrebu, održan mimoplov Hrvatske ratne mornarice južno od otoka Šolte. Bivši premijer Ivo Sanader, koji je služio kaznu od 18 godina zatvora, pušten na uvjetnu slobodu. U Gazi ljudi i dalje umiru od gladi. U redovima za podjelu hrane ubijena 91-dna osoba. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 31 Jul 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/de/b0/20250731-kronika-dana-36631109-20250731204013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
