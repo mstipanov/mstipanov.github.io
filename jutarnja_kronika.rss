@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Aug 2025 05:45:21 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 05:50:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.08. 2025-08-05</title>
+    <link>https://api.hrt.hr/media/c6/94/20250805-jutarnja-kronika-36641510-20250805053510.mp3</link>
+    <description>Na današnji dan u Oluji prije 30 godina oslobođen Knin. Glavna proslava Dana pobjede i domovinske zahvalnosti u Kninu uz pokaznu vježbu specijalnih postrojbi i nadlijetanje Rafala. 150 tisuća ljudi na koncertu Marka Perkovića Thompsona u Sinju. Bivši premijer Sanader nakon 11 godina pušten iz zatvora. Izraelski mediji javljaju da Netanyahu navodno planira potpunu okupaciju Pojasa Gaze. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 05 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c6/94/20250805-jutarnja-kronika-36641510-20250805053510.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.08. 2025-08-04</title>
     <link>https://api.hrt.hr/media/44/bf/20250804-jutarnja-kronika-36638871-20250804053556.mp3</link>
     <description>Jutarnja kronika, ponedjeljak, 4. 8. 2025. Urednik je Mislav Togonal.
@@ -32,15 +40,6 @@ današnji dan prije 30 godina počela Oluja. U sinoćnjem olujnom nevremenu u vi
     <description>Prvog kolovoškog vikenda kilometarske gužve na autocestama. Američki predsjednik Trump naredio da se nuklearne podmornice rasporede blizu Rusije. Nakon uhićenja Vučiću bliskih ljudi - devet mjeseci poslije novosadske tragedije - on za danas sazvao hitnu sjednicu Vijeća za nacionalnu sigurnost. Papa Lav 14. sastaje se s mladima iz cijeloga svijeta u Rimu. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Sat, 02 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5c/dd/20250802-jutarnja-kronika-36634311-20250802053549.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.08. 2025-08-01</title>
-    <link>https://api.hrt.hr/media/d4/42/20250801-jutarnja-kronika-36631685-20250801053543.mp3</link>
-    <description>U Zagrebu održan spektakularni vojni mimohod u povodu 30. - te obljetnie vojno-redarstvene operacije Oluje. Bivši premijer Ivo Sanader, koji je služio kaznu od 18 godina zatvora, pušten na uvjetnu slobodu. U Gazi ljudi i dalje umiru od gladi. U redovima za podjelu hrane ubijena 91-na osoba.
-U Sinju počinju alkarske svečanosti. Grad se priprema i za Thompsonov koncert na kojem se očekuje 150 tisuća posjetitelja. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 01 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d4/42/20250801-jutarnja-kronika-36631685-20250801053543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
