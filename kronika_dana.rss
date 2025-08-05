@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Aug 2025 20:48:39 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 20:55:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Najavio zločin na društvenoj mreži pa u Bereku kod Bjelovara automatskom puškom ubio novog partnera svoje bivše djevojke. Prvi je vikend kolovoza, vrhunac turističke sezone. U Hrvatskoj je više od milijun turista. Predsjednik Zoran Milanović još je u svibnju zapovijedio Oružanim snagama prekid svakog oblika suradnje s izraelskom vojskom. Jure Domazet Lošo pobjednik "Čoje" ovogodišnje Sinjske alke. Urednik: Silvio Šop</description>
     <pubDate>Sat, 02 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ed/d6/20250802-kronika-dana-36636111-20250802210057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.08. 2025-08-01</title>
-    <link>https://api.hrt.hr/media/37/ae/20250801-kronika-dana-36633746-20250801204044.mp3</link>
-    <description>Američki predsjednik Trump naredio raspoređivanje nuklearnih podmornica blizu Rusije. Inflacija se u Hrvatskoj u srpnju ubrzala na 4,1 posto, najviše poskupjeli hrana, piće i duhan.Grad Zagreb potvrdio da mu je iz četvrtog pokušaja konačno odobren GUP. U Splitu novi prosvjed zbog broda s azbestom.Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 01 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/37/ae/20250801-kronika-dana-36633746-20250801204044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
