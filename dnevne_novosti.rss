@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 04 Aug 2025 13:48:40 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 13:53:47 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 05.08. 2025-08-05</title>
+    <link>https://api.hrt.hr/media/d7/18/20250805-dnevne-novosti-36642516-20250805133513.mp3</link>
+    <description>Spektakularni preleti Rafaela oduševili desetke tisuća ljudi na središnjoj proslavi u Kninu.Prometni kaos prije i poslije Thompsonova koncerta u Sinju. Deseci tisuća automobila do ranog jutra čekali da izađu iz grada.Moskva kritizirala Trumpovu najavu da će Indiji povisiti carine zbog kupnje ruske nafte. Urednica: Mira Barić</description>
+    <pubDate>Tue, 05 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/d7/18/20250805-dnevne-novosti-36642516-20250805133513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 04.08. 2025-08-04</title>
     <link>https://api.hrt.hr/media/b0/fc/20250804-dnevne-novosti-36640110-20250804133557.mp3</link>
     <description>Hrvatska sutra slavi 30-u obljetnicu vojno-redarstvene operacije Oluje koja je označila konačnu pobjedu i privela kraju Domovinski rat. U Knin već pristižu gosti iz cijele zemlje, a bruse se posljednji detalji proslave. Bivši premijer Ivo Sanader pušten na uvjetnu slobodu. Američki izaslanik Steve Witkoff sastao se s obiteljima talaca koje Hamas i dalje drži u zatočeništvu. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>U Kninu najavljena velika proslava trideset godina Oluje.Udarni je turistički vikend.Večeras se u Rimu na bdijenju s papom Lavom Četrnaestim, prema neslužbenim procjenama, očekuje više od pola milijuna mladih.Urednik: Mario Krstanović</description>
     <pubDate>Sat, 02 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/da/20250802-dnevne-novosti-36635187-20250802133051.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 01.08. 2025-08-01</title>
-    <link>https://api.hrt.hr/media/32/d5/20250801-dnevne-novosti-36632922-20250801133046.mp3</link>
-    <description>U Zagrebu održan spektakularni vojni mimohod u povodu 30. obljetnice vojno-redarstvene operacije Oluje. Inflacija se u srpnju ubrzala na 4,1 posto. U Splitu novi prosvjed zbog broda s azbestom u tamošnjem brodogradilištu, Državni inspektorat počeo nadzor. Žalbeno vijeće Suda Bosne i Hercegovine pravomoćno osudilo predsjednika Republike Srpske Milorada Dodika na godinu dana zatvora i šest godina zabrane političkog djelovanja. Urednik: Silvio Šop</description>
-    <pubDate>Fri, 01 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/32/d5/20250801-dnevne-novosti-36632922-20250801133046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
