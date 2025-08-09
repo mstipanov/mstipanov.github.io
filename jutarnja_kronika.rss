@@ -6,40 +6,39 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 05 Aug 2025 05:50:45 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 03:50:09 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 08.08. 2025-08-08</title>
+    <link>https://api.hrt.hr/media/46/66/20250808-jutarnja-kronika-36649235-20250808053038.mp3</link>
+    <description>Počele pripreme za povijesni sastanak Donalda Trumpa i Vladimira Putina, prvi od početka rata u Ukrajini.Izraelski sigurnosni kabineto odobrio plan premijera Netanyahua za preuzimanje nadzora nad Pojasom Gaze.Na Splitskom ljetu večeras premijera Shakespeareove tragedije "Julije Cezar".Urednica Mira Barić</description>
+    <pubDate>Fri, 08 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/46/66/20250808-jutarnja-kronika-36649235-20250808053038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>JUTARNJA KRONIKA 07.08. 2025-08-07</title>
+    <link>https://api.hrt.hr/media/78/0a/20250807-jutarnja-kronika-36646552-20250807053536.mp3</link>
+    <description>Treći i posljednji pokušaj da se u Rijeci sastavi Gradsko vijeće. Ako ne bude uspjeha, slijede novi izbori! Trump sljedećeg se tjedna planira sastati s Vladimirom Putinom, a nakon toga i s Volodimirom Zelenskim, objavio New York Times. Srpanj je bio treći najtopliji na Zemlji od početka mjerenja. Rekord u Turskoj - 50 i pol stupnjeva! Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 07 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/78/0a/20250807-jutarnja-kronika-36646552-20250807053536.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>JUTARNJA KRONIKA 06.08. 2025-08-06</title>
+    <link>https://api.hrt.hr/media/27/e9/20250806-jutarnja-kronika-36643888-20250806054017.mp3</link>
+    <description>Središnjom proslavom Oluje u Kninu obilježen Dan pobjede i domovinske zahvalnosti. U Istri se na osam lokacija pojavila bolest plavog jezika. Uginulo 60-ak ovaca. U Japanu komemoracija za žrtve atomskih bombi u Hirošimi i Nagasakiju. Nagađa se da će Netanyahu sutra donijeti odluku o potpunoj okupaciji Gaze.Urednik - Mislav Togonal.</description>
+    <pubDate>Wed, 06 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/e9/20250806-jutarnja-kronika-36643888-20250806054017.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 05.08. 2025-08-05</title>
     <link>https://api.hrt.hr/media/c6/94/20250805-jutarnja-kronika-36641510-20250805053510.mp3</link>
     <description>Na današnji dan u Oluji prije 30 godina oslobođen Knin. Glavna proslava Dana pobjede i domovinske zahvalnosti u Kninu uz pokaznu vježbu specijalnih postrojbi i nadlijetanje Rafala. 150 tisuća ljudi na koncertu Marka Perkovića Thompsona u Sinju. Bivši premijer Sanader nakon 11 godina pušten iz zatvora. Izraelski mediji javljaju da Netanyahu navodno planira potpunu okupaciju Pojasa Gaze. Urednik: Mislav Togonal</description>
     <pubDate>Tue, 05 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c6/94/20250805-jutarnja-kronika-36641510-20250805053510.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.08. 2025-08-04</title>
-    <link>https://api.hrt.hr/media/44/bf/20250804-jutarnja-kronika-36638871-20250804053556.mp3</link>
-    <description>Jutarnja kronika, ponedjeljak, 4. 8. 2025. Urednik je Mislav Togonal.
-današnji dan prije 30 godina počela Oluja. U sinoćnjem olujnom nevremenu u viškom akvatoriju havarija triju plovila. Spašeno 16 ljudi. Hrvatska ne kupuje oružje od Izraela, poručio premijer i tako odgovorio na zahtjev predsjednika Republike da se s tom zemljom prekine vojna suradnja. VRIJEME DANAS: Promjenjivo uz sunčana razdoblja. Još ponegdje moguća kiša, na jugu pljuskovi s grmljavinom. Na Jadranu bura.</description>
-    <pubDate>Mon, 04 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/bf/20250804-jutarnja-kronika-36638871-20250804053556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.08. 2025-08-03</title>
-    <link>https://api.hrt.hr/media/2e/d5/20250803-jutarnja-kronika-36636715-20250803053553.mp3</link>
-    <description>Predsjednik Milanović pozvao Vladu da prekine trgovinu oružjem s Izraelom. Više od milijun mladih vjernika na molitvenom bdjenju s Papom u Rimu. U Sinju se očekuje vrhunac 310. Alke. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 03 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2e/d5/20250803-jutarnja-kronika-36636715-20250803053553.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 02.08. 2025-08-02</title>
-    <link>https://api.hrt.hr/media/5c/dd/20250802-jutarnja-kronika-36634311-20250802053549.mp3</link>
-    <description>Prvog kolovoškog vikenda kilometarske gužve na autocestama. Američki predsjednik Trump naredio da se nuklearne podmornice rasporede blizu Rusije. Nakon uhićenja Vučiću bliskih ljudi - devet mjeseci poslije novosadske tragedije - on za danas sazvao hitnu sjednicu Vijeća za nacionalnu sigurnost. Papa Lav 14. sastaje se s mladima iz cijeloga svijeta u Rimu. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Sat, 02 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5c/dd/20250802-jutarnja-kronika-36634311-20250802053549.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
