@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Aug 2025 03:50:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 05:50:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Središnjom proslavom Oluje u Kninu obilježen Dan pobjede i domovinske zahvalnosti. U Istri se na osam lokacija pojavila bolest plavog jezika. Uginulo 60-ak ovaca. U Japanu komemoracija za žrtve atomskih bombi u Hirošimi i Nagasakiju. Nagađa se da će Netanyahu sutra donijeti odluku o potpunoj okupaciji Gaze.Urednik - Mislav Togonal.</description>
     <pubDate>Wed, 06 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/27/e9/20250806-jutarnja-kronika-36643888-20250806054017.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 05.08. 2025-08-05</title>
-    <link>https://api.hrt.hr/media/c6/94/20250805-jutarnja-kronika-36641510-20250805053510.mp3</link>
-    <description>Na današnji dan u Oluji prije 30 godina oslobođen Knin. Glavna proslava Dana pobjede i domovinske zahvalnosti u Kninu uz pokaznu vježbu specijalnih postrojbi i nadlijetanje Rafala. 150 tisuća ljudi na koncertu Marka Perkovića Thompsona u Sinju. Bivši premijer Sanader nakon 11 godina pušten iz zatvora. Izraelski mediji javljaju da Netanyahu navodno planira potpunu okupaciju Pojasa Gaze. Urednik: Mislav Togonal</description>
-    <pubDate>Tue, 05 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c6/94/20250805-jutarnja-kronika-36641510-20250805053510.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
