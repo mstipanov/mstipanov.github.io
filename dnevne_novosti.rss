@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Aug 2025 03:50:08 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 13:51:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.08. 2025-08-09</title>
+    <link>https://api.hrt.hr/media/2f/0c/20250809-dnevne-novosti-36652774-20250809133044.mp3</link>
+    <description>Nakon gotovo dvije godine kapetan Marko Bekavac pušten iz zatvora u Turskoj i vratio se u Hrvatsku. Sastanak Trumpa i Putina održat će se sljedeći petak na Aljasci. Zelenski, koji nije pozvan, poručuje - ne pristajemo na teritorijalne ustupke. Maraton lađa na Neretvi, 33 ekipe veslat će od Metkovića do Ploča na ruti dugoj 22 i pol kilometra. Urednica: Mira Barić</description>
+    <pubDate>Sat, 09 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/2f/0c/20250809-dnevne-novosti-36652774-20250809133044.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.08. 2025-08-08</title>
     <link>https://api.hrt.hr/media/d3/69/20250808-dnevne-novosti-36650500-20250808133043.mp3</link>
     <description>Manje turista u srpnju! No u sedam mjeseci turizam je u plusu. Netanyahu najavio potpunu okupaciju grada Gaze. Zapad ga poziva da ponovno razmisli. Njemačka prekinula isporuku oružja Izraelu. U ponedjeljak ponovno prosvjed Splićana zbog broda s azbestom. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Petrinja i Slunj oslobođeni prije 30 godina, dan poslije slavlja u Kninu.Milorad Dodik više nije predsjednik Republike Srpske - Izborno povjerenstvo Bosne i Hercegovine oduzelo mu mandat.Moskvu stigao posebni američki izaslanik Steve Witkoff i sastao se s ruskim predsjednikom Putinom.Hrvatski radio Knin slavi 30. rođendan.Urednik: Mario Krstanović</description>
     <pubDate>Wed, 06 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5b/32/20250806-dnevne-novosti-36645053-20250806133518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.08. 2025-08-05</title>
-    <link>https://api.hrt.hr/media/d7/18/20250805-dnevne-novosti-36642516-20250805133513.mp3</link>
-    <description>Spektakularni preleti Rafaela oduševili desetke tisuća ljudi na središnjoj proslavi u Kninu.Prometni kaos prije i poslije Thompsonova koncerta u Sinju. Deseci tisuća automobila do ranog jutra čekali da izađu iz grada.Moskva kritizirala Trumpovu najavu da će Indiji povisiti carine zbog kupnje ruske nafte. Urednica: Mira Barić</description>
-    <pubDate>Tue, 05 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d7/18/20250805-dnevne-novosti-36642516-20250805133513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
