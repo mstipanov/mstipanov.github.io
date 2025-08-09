@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Aug 2025 03:50:09 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 20:38:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Lokaliziran požar između Škabrnje i Galovca, koji je u jednom trenutku zaprijetio kućama. Miloradu Dodiku oduzet mandat predsjednika Republike Srpske, on najavljuje referendum. Veliki šumski požar na jugu Francuske, u Španjolskoj zbog požara evakuirani gosti iz hotela i kampova. 30. obljetnica oslobođenja mnogih naših gradova - Petrinje, Gline, Slunja, ali i rođendan Radija Knin. Urednica: Mira Barić</description>
     <pubDate>Wed, 06 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/95/66/20250806-kronika-dana-36645866-20250806204535.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 05.08. 2025-08-05</title>
-    <link>https://api.hrt.hr/media/3f/1b/20250805-kronika-dana-36643402-20250805213015.mp3</link>
-    <description>Središnjom proslavom u Kninu Hrvatska je obilježila Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja i 30. obljetnicu Oluje. Novi slučajevi bolesti plavog jezika kod ovaca u Istri i na Krku, svinjska kuga širi se istokom zemlje. Izraelski premijer Benjamin Netanyahu na sastanku sigurnosnog kabineta predložio potpunu okupaciju pojasa Gaze. SPORT: Josip Glasnović zlatni, a Giovanni Cernogoraz srebrni u trapu solo na Europskom prvenstvu u Francuskoj. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 05 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3f/1b/20250805-kronika-dana-36643402-20250805213015.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
