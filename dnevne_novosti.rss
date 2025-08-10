@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 09 Aug 2025 13:51:51 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 13:41:30 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.08. 2025-08-10</title>
+    <link>https://api.hrt.hr/media/08/ca/20250810-dnevne-novosti-36654830-20250810133545.mp3</link>
+    <description>Temperature u Hrvatskoj blizu 40 stupnjeva! U Sinju se trči odgođena Sinjska alka. Izraelska vojska i tenkovi premještaju se na granicu s Gazom. Sutra godinu dana od tragedije Jadrolinijina trajekta na Lošinju. : Mario Krstanović</description>
+    <pubDate>Sun, 10 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/ca/20250810-dnevne-novosti-36654830-20250810133545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.08. 2025-08-09</title>
     <link>https://api.hrt.hr/media/2f/0c/20250809-dnevne-novosti-36652774-20250809133044.mp3</link>
     <description>Nakon gotovo dvije godine kapetan Marko Bekavac pušten iz zatvora u Turskoj i vratio se u Hrvatsku. Sastanak Trumpa i Putina održat će se sljedeći petak na Aljasci. Zelenski, koji nije pozvan, poručuje - ne pristajemo na teritorijalne ustupke. Maraton lađa na Neretvi, 33 ekipe veslat će od Metkovića do Ploča na ruti dugoj 22 i pol kilometra. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Moskva potvrdila da će se idućih dana sastati Vladimir Putim i Donald Trump. Na snagu stupile nove, više američke carine. U trećem pokušaju konstituirano riječko Gradsko vijeće. Presudan bio glas Stefana Mataje Mafricija s liste bivšega gradonačelnika Filipovića. Jugom Francuske hara najveći šumski požar u posljednjih 80 godina. Urednica: Mira Barić</description>
     <pubDate>Thu, 07 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/10/d1/20250807-dnevne-novosti-36647586-20250807133037.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.08. 2025-08-06</title>
-    <link>https://api.hrt.hr/media/5b/32/20250806-dnevne-novosti-36645053-20250806133518.mp3</link>
-    <description>Petrinja i Slunj oslobođeni prije 30 godina, dan poslije slavlja u Kninu.Milorad Dodik više nije predsjednik Republike Srpske - Izborno povjerenstvo Bosne i Hercegovine oduzelo mu mandat.Moskvu stigao posebni američki izaslanik Steve Witkoff i sastao se s ruskim predsjednikom Putinom.Hrvatski radio Knin slavi 30. rođendan.Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 06 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/5b/32/20250806-dnevne-novosti-36645053-20250806133518.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
