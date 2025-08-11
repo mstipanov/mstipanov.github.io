@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Aug 2025 20:46:57 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 21:17:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.08. 2025-08-11</title>
+    <link>https://api.hrt.hr/media/6f/aa/20250811-kronika-dana-36657989-20250811205049.mp3</link>
+    <description>Ministarstvo mora naredilo talijanskome brodu s azbestom da napusti Hrvatsku u roku sedam dana. I večeras vatrogasci dežuraju kod Krila Jesenica i Sumpetra, izgorjelo gotovo 300 hektara površine. Odlazak glazbene dive, u 90-oj godini umrla Gabi Novak. Urednica: Sanja Cota</description>
+    <pubDate>Mon, 11 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/6f/aa/20250811-kronika-dana-36657989-20250811205049.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.08. 2025-08-10</title>
     <link>https://api.hrt.hr/media/7c/6e/20250810-kronika-dana-36655581-20250810204045.mp3</link>
     <description>Frano Talaja slavodobitnik 310-te Sinjske alke. Izraelski premijer Netanyahu tvrdi - cilj ofenzive u gradu Gazi je brzi završetak rata.U Dubrovniku oštećena tek obnovljena Mala Onofrijeva fontana. Hrvatsku grije toplinski val. Urednica: Sanja Rabuzin</description>
