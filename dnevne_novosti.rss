@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 10 Aug 2025 13:41:30 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 13:45:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.08. 2025-08-11</title>
+    <link>https://api.hrt.hr/media/12/d7/20250811-dnevne-novosti-36657200-20250811133048.mp3</link>
+    <description>Pod nadzorom požar u Jesenicama između Splita i Omiša, vatrogasci uspjeli obraniti kuće. U zračnom napadu na Gazu Izrael ubio jednog od najpoznatijih novinara al-Jazeere, Anasa al-Šarifa, i još petoricu članova novinarske ekipe. U Zagrebu u 90-oj godini umrla Gabi Novak. Vrhunac je opasnoga toplinskog vala, paklene vrućine imat ćemo do kraja tjedna. Urednica: Mira Barić</description>
+    <pubDate>Mon, 11 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/12/d7/20250811-dnevne-novosti-36657200-20250811133048.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.08. 2025-08-10</title>
     <link>https://api.hrt.hr/media/08/ca/20250810-dnevne-novosti-36654830-20250810133545.mp3</link>
     <description>Temperature u Hrvatskoj blizu 40 stupnjeva! U Sinju se trči odgođena Sinjska alka. Izraelska vojska i tenkovi premještaju se na granicu s Gazom. Sutra godinu dana od tragedije Jadrolinijina trajekta na Lošinju. : Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Manje turista u srpnju! No u sedam mjeseci turizam je u plusu. Netanyahu najavio potpunu okupaciju grada Gaze. Zapad ga poziva da ponovno razmisli. Njemačka prekinula isporuku oružja Izraelu. U ponedjeljak ponovno prosvjed Splićana zbog broda s azbestom. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 08 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d3/69/20250808-dnevne-novosti-36650500-20250808133043.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.08. 2025-08-07</title>
-    <link>https://api.hrt.hr/media/10/d1/20250807-dnevne-novosti-36647586-20250807133037.mp3</link>
-    <description>Moskva potvrdila da će se idućih dana sastati Vladimir Putim i Donald Trump. Na snagu stupile nove, više američke carine. U trećem pokušaju konstituirano riječko Gradsko vijeće. Presudan bio glas Stefana Mataje Mafricija s liste bivšega gradonačelnika Filipovića. Jugom Francuske hara najveći šumski požar u posljednjih 80 godina. Urednica: Mira Barić</description>
-    <pubDate>Thu, 07 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/10/d1/20250807-dnevne-novosti-36647586-20250807133037.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
