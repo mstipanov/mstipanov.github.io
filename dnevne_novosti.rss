@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Aug 2025 13:45:45 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 13:51:25 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.08. 2025-08-12</title>
+    <link>https://api.hrt.hr/media/a8/df/20250812-dnevne-novosti-36659630-20250812133549.mp3</link>
+    <description>Teška prometna nesreća blizu Zagreba, jedna osoba poginula, četiri ozlijeđene. Vrućina ne popušta, crveni meteoalarm produljen do subote. Sutra temperature do 38 stupnjeva. Šibenčani se opraštaju od glazbene dive Gabi Novak i obitelji Dedić. Urednik: Mario Krstanović</description>
+    <pubDate>Tue, 12 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a8/df/20250812-dnevne-novosti-36659630-20250812133549.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.08. 2025-08-11</title>
     <link>https://api.hrt.hr/media/12/d7/20250811-dnevne-novosti-36657200-20250811133048.mp3</link>
     <description>Pod nadzorom požar u Jesenicama između Splita i Omiša, vatrogasci uspjeli obraniti kuće. U zračnom napadu na Gazu Izrael ubio jednog od najpoznatijih novinara al-Jazeere, Anasa al-Šarifa, i još petoricu članova novinarske ekipe. U Zagrebu u 90-oj godini umrla Gabi Novak. Vrhunac je opasnoga toplinskog vala, paklene vrućine imat ćemo do kraja tjedna. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Nakon gotovo dvije godine kapetan Marko Bekavac pušten iz zatvora u Turskoj i vratio se u Hrvatsku. Sastanak Trumpa i Putina održat će se sljedeći petak na Aljasci. Zelenski, koji nije pozvan, poručuje - ne pristajemo na teritorijalne ustupke. Maraton lađa na Neretvi, 33 ekipe veslat će od Metkovića do Ploča na ruti dugoj 22 i pol kilometra. Urednica: Mira Barić</description>
     <pubDate>Sat, 09 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2f/0c/20250809-dnevne-novosti-36652774-20250809133044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.08. 2025-08-08</title>
-    <link>https://api.hrt.hr/media/d3/69/20250808-dnevne-novosti-36650500-20250808133043.mp3</link>
-    <description>Manje turista u srpnju! No u sedam mjeseci turizam je u plusu. Netanyahu najavio potpunu okupaciju grada Gaze. Zapad ga poziva da ponovno razmisli. Njemačka prekinula isporuku oružja Izraelu. U ponedjeljak ponovno prosvjed Splićana zbog broda s azbestom. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 08 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d3/69/20250808-dnevne-novosti-36650500-20250808133043.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
