@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 11 Aug 2025 21:17:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 20:53:22 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.08. 2025-08-12</title>
+    <link>https://api.hrt.hr/media/c7/09/20250812-kronika-dana-36660442-20250812203544.mp3</link>
+    <description>Danas se gasilo na 25 mjesta, svi su požari pod nadzorom. Teritorijalni ustupci ne dolaze u obzir, ponavlja ukrajinski predsjednik uoči sastanka Trumpa i Putina. Policija u Širokom Brijegu zabranila muslimanski vjerski skup dan uoči Velike Gospe. Crveni meteoalarm produljen do subote. Sutra temperatura do 38 stupnjeva. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 12 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c7/09/20250812-kronika-dana-36660442-20250812203544.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.08. 2025-08-11</title>
     <link>https://api.hrt.hr/media/6f/aa/20250811-kronika-dana-36657989-20250811205049.mp3</link>
     <description>Ministarstvo mora naredilo talijanskome brodu s azbestom da napusti Hrvatsku u roku sedam dana. I večeras vatrogasci dežuraju kod Krila Jesenica i Sumpetra, izgorjelo gotovo 300 hektara površine. Odlazak glazbene dive, u 90-oj godini umrla Gabi Novak. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Kapetan Marko Bekavac pušten iz zatvora u Turskoj i vratio se u Hrvatsku. Uoči sastanka Trumpa i Putina na Aljasci - razgovarali su američki, europski i ukrajinski dužnosnici. Zelenski ne pristaje na teritorijalne ustupke. Udruga lađara Zagreb četvrti put za redom pobjednik Maratona lađa na Neretvi. Urednica: Sanja Rabuzin</description>
     <pubDate>Sat, 09 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/30/dd/20250809-kronika-dana-36653469-20250809204547.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.08. 2025-08-08</title>
-    <link>https://api.hrt.hr/media/57/e1/20250808-kronika-dana-36651188-20250808203539.mp3</link>
-    <description>Unatoč srpanjskom smanjenju dolazaka i noćenja, turizam na razini sedam mjeseci u plusu! Na ponovljenom javnom pozivu za predsjednika Vrhovnog suda - samo jedna kandidatura. Na potezu predsjednik države! Nakon najave o okupaciji Gaze, Njemačka obustavila izvoz oružja Izraelu. U ponedjeljak ponovno prosvjed Splićana zbog broda s azbestom. Urednica: Sanja Rabuzin</description>
-    <pubDate>Fri, 08 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/57/e1/20250808-kronika-dana-36651188-20250808203539.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
