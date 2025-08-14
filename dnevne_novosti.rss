@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Aug 2025 13:56:16 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 13:36:49 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.08. 2025-08-14</title>
+    <link>https://api.hrt.hr/media/86/f2/20250814-dnevne-novosti-36664753-20250814133103.mp3</link>
+    <description>Dan uoči sastanka s Putinom na Aljasci, iz Bijele kuće najavljuju da Trump namjerava razgovarati isključivo o ratu u Ukrajini. Predsjednik Milanović neće predložiti nikoga od prijavljenih kandidata za predsjednika Vrhovnog suda. Policija privela Sanina Musu - inicijatora zabranjenoga masovnog klanjanja muslimana u Širokom Brijegu. Urednica: Mira Barić</description>
+    <pubDate>Thu, 14 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/86/f2/20250814-dnevne-novosti-36664753-20250814133103.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.08. 2025-08-13</title>
     <link>https://api.hrt.hr/media/15/71/20250813-dnevne-novosti-36662120-20250813133056.mp3</link>
     <description>Ukrajinski predsjednik i europski čelnici iz Berlina zajedno sudjeluju u videopozivu s američkim predsjednikom Trumpom. Požari u Istri, prvi se sinoć proširio sa zapaljenog automobila. I danas poziv darivateljima krvi jer nedostaje svih krvnih grupa. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Pod nadzorom požar u Jesenicama između Splita i Omiša, vatrogasci uspjeli obraniti kuće. U zračnom napadu na Gazu Izrael ubio jednog od najpoznatijih novinara al-Jazeere, Anasa al-Šarifa, i još petoricu članova novinarske ekipe. U Zagrebu u 90-oj godini umrla Gabi Novak. Vrhunac je opasnoga toplinskog vala, paklene vrućine imat ćemo do kraja tjedna. Urednica: Mira Barić</description>
     <pubDate>Mon, 11 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/12/d7/20250811-dnevne-novosti-36657200-20250811133048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.08. 2025-08-10</title>
-    <link>https://api.hrt.hr/media/08/ca/20250810-dnevne-novosti-36654830-20250810133545.mp3</link>
-    <description>Temperature u Hrvatskoj blizu 40 stupnjeva! U Sinju se trči odgođena Sinjska alka. Izraelska vojska i tenkovi premještaju se na granicu s Gazom. Sutra godinu dana od tragedije Jadrolinijina trajekta na Lošinju. : Mario Krstanović</description>
-    <pubDate>Sun, 10 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/08/ca/20250810-dnevne-novosti-36654830-20250810133545.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
