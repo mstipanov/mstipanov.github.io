@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 13 Aug 2025 05:54:53 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 05:35:23 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 14.08. 2025-08-14</title>
+    <link>https://api.hrt.hr/media/46/81/20250814-jutarnja-kronika-36663655-20250814053101.mp3</link>
+    <description>Uoči sastanka na Aljasci, Trump poslao upozorenje Putinu. Europski čelnici složni da nema dogovora s Rusijom ako ne sudjeluje i Ukrajina. Majci iz Rogotina, koju se sumnjiči za ubojstvo novoređenčeta, određen jednomjesečni istražni zatvor. Zbog visokih temperatura požari diljem Europe.Dodjelom nagrade Judita večeras završava Splitsko ljeto. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 14 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/46/81/20250814-jutarnja-kronika-36663655-20250814053101.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 13.08. 2025-08-13</title>
     <link>https://api.hrt.hr/media/e6/92/20250813-jutarnja-kronika-36661006-20250813053048.mp3</link>
     <description>Bijela kuća potvrdila da će američki predsjednik Trump održati virtualni sastanak s ukrajinskim predsjednikom Zelenskim i europskim saveznicima. Rusi tvrde da Kijev sprema sabotažu sastanka Trumpa i Putina. Hrvatska gorska služba spašavanja tijekom vikenda spasila 17 ljudi. Vatrogasci jučer gasili više od 25 požara. Nogometaši Rijeke izborili play-off Europske lige i osigurali europsku jesen. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Veliki požar kod Krila Jesenice, ugrožene su i kuće! U Splitu novi prosvjed protiv broda s azbestom. Može li Đakovo izbjeći nove izbore i iz trećeg pokušaja sastaviti Gradsko Vijeće? Trump će odlučiti hoće li na sastanak s Putinom na Aljasci pozvati i Zelenskog. Frano Talaja slavodobitnik 310-te Sinjske alke. Urednik: Mario Krstanović</description>
     <pubDate>Mon, 11 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d4/bd/20250811-jutarnja-kronika-36656144-20250811053546.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.08. 2025-08-10</title>
-    <link>https://api.hrt.hr/media/45/35/20250810-jutarnja-kronika-36654077-20250810053543.mp3</link>
-    <description>Veliki uspjeh tihe diplomacije - kapetan Marko Bekavac, osuđen na 30 godina zatvora u Turskoj, pušten i vratio se u Hrvatsku. Uoči sastanka američkog i ruskog predsjednika na Aljasci - razgovarali su američki, europski i ukrajinski dužnosnici. Ukrajinski predsjednik Volodimir Zelenski ne pristaje na teritorijalne ustupke. Trči se prošle nedjelje zbog obilne kiše odgođena 310. Sinjska alka. Udruga lađara Zagreb četvrti put zaredom pobjednik Maratona lađa na Neretvi. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 10 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/45/35/20250810-jutarnja-kronika-36654077-20250810053543.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
