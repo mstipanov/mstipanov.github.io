@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 15 Aug 2025 05:39:46 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 05:45:56 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Bijela kuća potvrdila da će američki predsjednik Trump održati virtualni sastanak s ukrajinskim predsjednikom Zelenskim i europskim saveznicima. Rusi tvrde da Kijev sprema sabotažu sastanka Trumpa i Putina. Hrvatska gorska služba spašavanja tijekom vikenda spasila 17 ljudi. Vatrogasci jučer gasili više od 25 požara. Nogometaši Rijeke izborili play-off Europske lige i osigurali europsku jesen. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 13 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e6/92/20250813-jutarnja-kronika-36661006-20250813053048.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.08. 2025-08-12</title>
-    <link>https://api.hrt.hr/media/48/67/20250812-jutarnja-kronika-36658520-20250812055548.mp3</link>
-    <description>Ministarstvo mora naredilo - talijanski brod s azbestom u roku od sedam dana mora napustiti Brodosplit i naše teritorijalne vode. Splićani prosvjed pretvorili u slavlje. Hrvatska na udaru toplinskog vala. Riječko, splitsko, dubrovačko i kninsko područje pod crvenim alarmom. U Đakovu ni iz trećeg pokušaja nije izabrano Gradsko vijeće. Slijede novi izbori. Uoči sastanka Trumpa i Putina na Aljasci u petak, Zelenski poručio: Rusija se sprema za nove ofenzive, a ne za zaustavljanje rata. Urednica: Snježana Kralj</description>
-    <pubDate>Tue, 12 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/48/67/20250812-jutarnja-kronika-36658520-20250812055548.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
