@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 16 Aug 2025 20:48:30 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 17 Aug 2025 20:54:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 17.08. 2025-08-17</title>
+    <link>https://api.hrt.hr/media/02/81/20250817-kronika-dana-36672124-20250817204024.mp3</link>
+    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Sun, 17 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/02/81/20250817-kronika-dana-36672124-20250817204024.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 16.08. 2025-08-16</title>
     <link>https://api.hrt.hr/media/72/64/20250816-kronika-dana-36670111-20250816204022.mp3</link>
     <description>Nakon sastanka s Putinom na Aljasci, Trump, umjesto prekida vatre u Ukrajini, zagovara trajni mir. Zelenski u ponedjeljak putuje u Washington. Ne smiruju se prosvjedi u Srbiji. Hrvat uhićen u Beogradu vratio se u zemlju, preporuka Ministarstva vanjskih poslova - ne putujte u Srbiju ako nije nužno. Vikend u znaku gužvi na cestama. Urednica Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
     <pubDate>Thu, 14 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e8/7f/20250814-kronika-dana-36665626-20250814203601.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 13.08. 2025-08-13</title>
-    <link>https://api.hrt.hr/media/c4/40/20250813-kronika-dana-36663106-20250813203555.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Wed, 13 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c4/40/20250813-kronika-dana-36663106-20250813203555.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
