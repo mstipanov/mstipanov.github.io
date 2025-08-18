@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Aug 2025 20:54:08 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 21:04:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 18.08. 2025-08-18</title>
+    <link>https://api.hrt.hr/media/55/e4/20250818-kronika-dana-36674652-20250818205029.mp3</link>
+    <description>Trump i Zelenski u Bijeloj kući - Trump Ukrajini najavio sigurnosna jamstva. Na trajektu Lošinjanka tijekom pristajanja u Šibeniku zaglavila se rampa. Putnici sigurno izašli na bočni izlaz. Za 15 dana produljen rok za odlazak talijanskog broda s azbestom iz Splita. Trgovački centar umjesto tvornice, ruše se Varteksove zgrade u Varaždinu. Urednik: Grgo Mrvica.</description>
+    <pubDate>Mon, 18 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/55/e4/20250818-kronika-dana-36674652-20250818205029.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 17.08. 2025-08-17</title>
     <link>https://api.hrt.hr/media/02/81/20250817-kronika-dana-36672124-20250817204024.mp3</link>
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>Svijet čeka ishod sastanka Trump - Putin na Aljasci. Ministarstvo vanjskih poslova nema informacija o navodno uhićenom hrvatskom državljaninu na prosvjedu u Beogradu. U marijanskim svetištima proslavljen blagdan Velike Gospe. Urednica: Sanja Rabuzin.</description>
     <pubDate>Fri, 15 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c2/ad/20250815-kronika-dana-36668160-20250815204004.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 14.08. 2025-08-14</title>
-    <link>https://api.hrt.hr/media/e8/7f/20250814-kronika-dana-36665626-20250814203601.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Thu, 14 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e8/7f/20250814-kronika-dana-36665626-20250814203601.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
