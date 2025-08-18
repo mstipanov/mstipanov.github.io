@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Aug 2025 13:52:55 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 13:33:04 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 18.08. 2025-08-18</title>
+    <link>https://api.hrt.hr/media/cc/fd/20250818-dnevne-novosti-36673820-20250818132526.mp3</link>
+    <description>U Bijeloj kući večeras sastanak Trump - Zelenski, ukrajinskog predsjednika prati nekoliko europskih čelnika i glavni tajnik NATO-a. Predsjednik Milanović ponavlja - hrvatski vojnici neće sudjelovati u tuđim ratovima. U Varaždinu počinje rušenje proizvodnih pogona i zgrada Varteksa, na mjestu tvornice, osnovane 1918., gradit će se trgovački centar. Urednica: Sanja Cota.</description>
+    <pubDate>Mon, 18 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cc/fd/20250818-dnevne-novosti-36673820-20250818132526.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 17.08. 2025-08-17</title>
     <link>https://api.hrt.hr/media/9e/ee/20250817-dnevne-novosti-36671491-20250817133025.mp3</link>
     <description>Sve više europskih čelnika i predsjednica Komisije potvrdili da sutra putuju u Vašington na sastanak Trump - Zelenski. Tisuće Izraelaca na prosvjedima traže sporazum o prekidu vatre, Hamas odbacuje izraelski plan za preseljenje stanovnika Gaze. U sedam mjeseci izdano 115 tisuća radnih dozvola strancima. Urednica: Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>Večeras na Aljasci sastanak Trump - Putin. Veliki ulozi, objavio uoči puta američki predsjednik. Blagdan je Velike Gospe. Lokaliziran požar na Braču izazvan udarom groma. Urednica: Sanja Cota</description>
     <pubDate>Fri, 15 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fe/8c/20250815-dnevne-novosti-36667326-20250815133503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 14.08. 2025-08-14</title>
-    <link>https://api.hrt.hr/media/86/f2/20250814-dnevne-novosti-36664753-20250814133103.mp3</link>
-    <description>Dan uoči sastanka s Putinom na Aljasci, iz Bijele kuće najavljuju da Trump namjerava razgovarati isključivo o ratu u Ukrajini. Predsjednik Milanović neće predložiti nikoga od prijavljenih kandidata za predsjednika Vrhovnog suda. Policija privela Sanina Musu - inicijatora zabranjenoga masovnog klanjanja muslimana u Širokom Brijegu. Urednica: Mira Barić</description>
-    <pubDate>Thu, 14 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/86/f2/20250814-dnevne-novosti-36664753-20250814133103.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
