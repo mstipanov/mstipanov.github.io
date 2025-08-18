@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 17 Aug 2025 05:50:15 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 05:57:13 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 18.08. 2025-08-18</title>
+    <link>https://api.hrt.hr/media/db/69/20250818-jutarnja-kronika-36672726-20250818054528.mp3</link>
+    <description>Zelenski se danas sastaje s Tumpom u Bijeloj kući. S njim u Washington putuju i europski čelnici. Talijanski brod s azbestom još u splitskom škveru, istječe rok koji mu je resorno ministarstvo dalo da napusti brodogradilište i hrvatske teritorijalne vode. U konkurenciji parova Nikola Mektić i Amerikanac Ram osvojili ATP tisuću turnir u Sinsinatiju. Urednica: Mira Barić.</description>
+    <pubDate>Mon, 18 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/db/69/20250818-jutarnja-kronika-36672726-20250818054528.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 17.08. 2025-08-17</title>
     <link>https://api.hrt.hr/media/31/29/20250817-jutarnja-kronika-36670678-20250817053522.mp3</link>
     <description>Ukrajinski predsjednik Zelenski osudio rusko odbijanje prekida vatre, sutra putuje u Washington. Ne smiruju se prosvjedi u Srbiji. Naše ministarstvo vanjskih poslova ponovno upozorilo građane da ne putuju u tu zemlju. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Sastanak Trumpa i Putina na Aljasci, prema našem vremenu večeras u 21 i 30. U sinoćnjim prosvjedima u Srbiji deseci ozlijeđenih i uhićenih, policija prosvjednike rastjerala suzavcem i topovskim udarima. Blagdan je Velike Gospe, tisuće vjernika hodočaste u marijanska svetišta diljem zemlje. Urednica: Mira Barić</description>
     <pubDate>Fri, 15 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e7/83/20250815-jutarnja-kronika-36666249-20250815053503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 14.08. 2025-08-14</title>
-    <link>https://api.hrt.hr/media/46/81/20250814-jutarnja-kronika-36663655-20250814053101.mp3</link>
-    <description>Uoči sastanka na Aljasci, Trump poslao upozorenje Putinu. Europski čelnici složni da nema dogovora s Rusijom ako ne sudjeluje i Ukrajina. Majci iz Rogotina, koju se sumnjiči za ubojstvo novoređenčeta, određen jednomjesečni istražni zatvor. Zbog visokih temperatura požari diljem Europe.Dodjelom nagrade Judita večeras završava Splitsko ljeto. Urednik: Grgo Mrvica</description>
-    <pubDate>Thu, 14 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/81/20250814-jutarnja-kronika-36663655-20250814053101.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
