@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Aug 2025 05:36:05 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 06:06:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 19.08. 2025-08-19</title>
+    <link>https://api.hrt.hr/media/66/d3/20250819-jutarnja-kronika-36675269-20250819053532.mp3</link>
+    <description>Trump razgovarao sa Zelenskim. O razgovorima izvijestio i Putina, te se dogovaraju izravni razgovori Ukrajine i Rusije. Počelo rušenje dijela Varteksovih zgrada u Varaždinu - umjesto tvornice - trgovački centar. Produljen rok za odlazak talijanskog broda s azbestom iz Splita. Iz Građanske inicijative najavljuju novi prosvjed. Urednica Snježana Kralj</description>
+    <pubDate>Tue, 19 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/66/d3/20250819-jutarnja-kronika-36675269-20250819053532.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 18.08. 2025-08-18</title>
     <link>https://api.hrt.hr/media/db/69/20250818-jutarnja-kronika-36672726-20250818054528.mp3</link>
     <description>Zelenski se danas sastaje s Tumpom u Bijeloj kući. S njim u Washington putuju i europski čelnici. Talijanski brod s azbestom još u splitskom škveru, istječe rok koji mu je resorno ministarstvo dalo da napusti brodogradilište i hrvatske teritorijalne vode. U konkurenciji parova Nikola Mektić i Amerikanac Ram osvojili ATP tisuću turnir u Sinsinatiju. Urednica: Mira Barić.</description>
