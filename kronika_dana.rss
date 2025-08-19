@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Aug 2025 21:04:29 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 20:39:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 19.08. 2025-08-19</title>
+    <link>https://api.hrt.hr/media/fb/5d/20250819-kronika-dana-36677178-20250819203533.mp3</link>
+    <description>Sjedinjene će Države pružiti sigurnosna jamstva, ali neće slati vojnike u Ukrajinu, kaže Donald Trump.Zbog slučaja Derifaj, glavni državni odvjetnik Ivan Turudić najavio izvanredni nadzor Općinskog državnog odvjetništva u Splitu.Mjesec i pol nakon Thompsonova koncerta - počela sanacija zagrebačkog hipodroma. Urednica Mira Barić</description>
+    <pubDate>Tue, 19 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fb/5d/20250819-kronika-dana-36677178-20250819203533.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 18.08. 2025-08-18</title>
     <link>https://api.hrt.hr/media/55/e4/20250818-kronika-dana-36674652-20250818205029.mp3</link>
     <description>Trump i Zelenski u Bijeloj kući - Trump Ukrajini najavio sigurnosna jamstva. Na trajektu Lošinjanka tijekom pristajanja u Šibeniku zaglavila se rampa. Putnici sigurno izašli na bočni izlaz. Za 15 dana produljen rok za odlazak talijanskog broda s azbestom iz Splita. Trgovački centar umjesto tvornice, ruše se Varteksove zgrade u Varaždinu. Urednik: Grgo Mrvica.</description>
@@ -31,14 +39,6 @@
     <description>Nakon sastanka s Putinom na Aljasci, Trump, umjesto prekida vatre u Ukrajini, zagovara trajni mir. Zelenski u ponedjeljak putuje u Washington. Ne smiruju se prosvjedi u Srbiji. Hrvat uhićen u Beogradu vratio se u zemlju, preporuka Ministarstva vanjskih poslova - ne putujte u Srbiju ako nije nužno. Vikend u znaku gužvi na cestama. Urednica Sanja Rabuzin</description>
     <pubDate>Sat, 16 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/64/20250816-kronika-dana-36670111-20250816204022.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 15.08. 2025-08-15</title>
-    <link>https://api.hrt.hr/media/c2/ad/20250815-kronika-dana-36668160-20250815204004.mp3</link>
-    <description>Svijet čeka ishod sastanka Trump - Putin na Aljasci. Ministarstvo vanjskih poslova nema informacija o navodno uhićenom hrvatskom državljaninu na prosvjedu u Beogradu. U marijanskim svetištima proslavljen blagdan Velike Gospe. Urednica: Sanja Rabuzin.</description>
-    <pubDate>Fri, 15 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c2/ad/20250815-kronika-dana-36668160-20250815204004.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
