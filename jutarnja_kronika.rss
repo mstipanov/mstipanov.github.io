@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 18 Aug 2025 05:57:13 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 05:36:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Sastanak Trampa i Putina završio bez konkretnih prijedloga o tome kako završiti rat u Ukrajini. Dvojica čelnika razgovore ocijenila pozitivnima.zajedničkoj konferenciji za novinare pitanja nisu bila dopuštena. Policija u Beogradu oklopnim vozilima i suzavcem rastjerivala prosvjednike. : Grgo Mrvica</description>
     <pubDate>Sat, 16 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1f/4b/20250816-jutarnja-kronika-36668789-20250816061046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 15.08. 2025-08-15</title>
-    <link>https://api.hrt.hr/media/e7/83/20250815-jutarnja-kronika-36666249-20250815053503.mp3</link>
-    <description>Sastanak Trumpa i Putina na Aljasci, prema našem vremenu večeras u 21 i 30. U sinoćnjim prosvjedima u Srbiji deseci ozlijeđenih i uhićenih, policija prosvjednike rastjerala suzavcem i topovskim udarima. Blagdan je Velike Gospe, tisuće vjernika hodočaste u marijanska svetišta diljem zemlje. Urednica: Mira Barić</description>
-    <pubDate>Fri, 15 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/e7/83/20250815-jutarnja-kronika-36666249-20250815053503.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
