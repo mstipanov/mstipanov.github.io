@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 19 Aug 2025 06:06:12 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 05:44:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 20.08. 2025-08-20</title>
+    <link>https://api.hrt.hr/media/10/93/20250820-jutarnja-kronika-36677725-20250820053035.mp3</link>
+    <description>Sjedinjene će Države pružiti sigurnosna jamstva, ali neće slati vojnike u Ukrajinu, kaže Donald Trump. U Splitu večeras ponovno prosvjed protiv talijanskog broda s azbestom u Brodosplitu. Zbog slučaja Derifaj, glavni državni odvjetnik Ivan Turudić najavio izvanredni nadzor Općinskoga državnog odvjetništva u Splitu. Na Dubrovačkim ljetnim igrama posljednja ovogodišnja dramska pemijera - Čehovljev "Galeb". Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 20 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/10/93/20250820-jutarnja-kronika-36677725-20250820053035.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 19.08. 2025-08-19</title>
     <link>https://api.hrt.hr/media/66/d3/20250819-jutarnja-kronika-36675269-20250819053532.mp3</link>
     <description>Trump razgovarao sa Zelenskim. O razgovorima izvijestio i Putina, te se dogovaraju izravni razgovori Ukrajine i Rusije. Počelo rušenje dijela Varteksovih zgrada u Varaždinu - umjesto tvornice - trgovački centar. Produljen rok za odlazak talijanskog broda s azbestom iz Splita. Iz Građanske inicijative najavljuju novi prosvjed. Urednica Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>Ukrajinski predsjednik Zelenski osudio rusko odbijanje prekida vatre, sutra putuje u Washington. Ne smiruju se prosvjedi u Srbiji. Naše ministarstvo vanjskih poslova ponovno upozorilo građane da ne putuju u tu zemlju. Urednik: Grgo Mrvica</description>
     <pubDate>Sun, 17 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/29/20250817-jutarnja-kronika-36670678-20250817053522.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 16.08. 2025-08-16</title>
-    <link>https://api.hrt.hr/media/1f/4b/20250816-jutarnja-kronika-36668789-20250816061046.mp3</link>
-    <description>Sastanak Trampa i Putina završio bez konkretnih prijedloga o tome kako završiti rat u Ukrajini. Dvojica čelnika razgovore ocijenila pozitivnima.zajedničkoj konferenciji za novinare pitanja nisu bila dopuštena. Policija u Beogradu oklopnim vozilima i suzavcem rastjerivala prosvjednike. : Grgo Mrvica</description>
-    <pubDate>Sat, 16 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1f/4b/20250816-jutarnja-kronika-36668789-20250816061046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
