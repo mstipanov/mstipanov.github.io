@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 20 Aug 2025 21:01:56 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 20:44:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 21.08. 2025-08-21</title>
+    <link>https://api.hrt.hr/media/67/03/20250821-kronika-dana-36682432-20250821203557.mp3</link>
+    <description>Objavljeni Putinovi uvjeti za mir. Traži Donbas, neutralnu Ukrajinu bez zapadnih vojnika i odricanje od ulaska u NATO. Premijer Plenković ponavlja - Hrvatska neće slati vojnike u Ukrajinu. Nevrijeme zahvatilo Osijek i okolicu. Urednica: Sanja Cota</description>
+    <pubDate>Thu, 21 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/67/03/20250821-kronika-dana-36682432-20250821203557.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 20.08. 2025-08-20</title>
     <link>https://api.hrt.hr/media/46/ae/20250820-kronika-dana-36679705-20250820203555.mp3</link>
     <description>Desetak zemalja spremno je poslati vojsku u Ukrajinu, Rusija nezadovoljna jer se bez nje razgovara o sigurnosnim jamstvima. Izraelska vojska razmjestila snage oko grada Gaze, počinje nova faza operacije. Splićani ponovno prosvjedovali zbog broda s azbestom. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Trump i Zelenski u Bijeloj kući - Trump Ukrajini najavio sigurnosna jamstva. Na trajektu Lošinjanka tijekom pristajanja u Šibeniku zaglavila se rampa. Putnici sigurno izašli na bočni izlaz. Za 15 dana produljen rok za odlazak talijanskog broda s azbestom iz Splita. Trgovački centar umjesto tvornice, ruše se Varteksove zgrade u Varaždinu. Urednik: Grgo Mrvica.</description>
     <pubDate>Mon, 18 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/55/e4/20250818-kronika-dana-36674652-20250818205029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 17.08. 2025-08-17</title>
-    <link>https://api.hrt.hr/media/02/81/20250817-kronika-dana-36672124-20250817204024.mp3</link>
-    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Sun, 17 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/02/81/20250817-kronika-dana-36672124-20250817204024.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
