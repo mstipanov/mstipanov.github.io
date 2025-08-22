@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 21 Aug 2025 13:39:07 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 13:51:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 22.08. 2025-08-22</title>
+    <link>https://api.hrt.hr/media/f9/b5/20250822-dnevne-novosti-36684380-20250822132558.mp3</link>
+    <description>U pojasu Gaze proglašena glad. Rusi raketirali američku tvornicu u Ukrajini. Štete od sinoćnjeg nevremena u Osijeku, no nije bilo katastrofalno. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 22 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f9/b5/20250822-dnevne-novosti-36684380-20250822132558.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 21.08. 2025-08-21</title>
     <link>https://api.hrt.hr/media/b0/c1/20250821-dnevne-novosti-36681553-20250821133058.mp3</link>
     <description>Prva vladina sjednica nakon ljetnog odmora, premijer Plenković ponovio - Hrvatska neće slati vojnike u Ukrajinu. Izrael počeo ofenzivu na grad Gazu. Troje ozlijeđenih, među njima i dvogodišnje dijete, u teškoj prometnoj nesreći na zagrebačkoj obilaznici. Snažno nevrijeme sinoć poharalo Istru.: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Tue, 19 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/5f/2e/20250819-dnevne-novosti-36676382-20250819132533.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 18.08. 2025-08-18</title>
-    <link>https://api.hrt.hr/media/cc/fd/20250818-dnevne-novosti-36673820-20250818132526.mp3</link>
-    <description>U Bijeloj kući večeras sastanak Trump - Zelenski, ukrajinskog predsjednika prati nekoliko europskih čelnika i glavni tajnik NATO-a. Predsjednik Milanović ponavlja - hrvatski vojnici neće sudjelovati u tuđim ratovima. U Varaždinu počinje rušenje proizvodnih pogona i zgrada Varteksa, na mjestu tvornice, osnovane 1918., gradit će se trgovački centar. Urednica: Sanja Cota.</description>
-    <pubDate>Mon, 18 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cc/fd/20250818-dnevne-novosti-36673820-20250818132526.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
