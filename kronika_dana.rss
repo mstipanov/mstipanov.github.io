@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Aug 2025 20:54:26 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 21:01:12 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 23.08. 2025-08-23</title>
+    <link>https://api.hrt.hr/media/26/c8/20250823-kronika-dana-36687217-20250823204003.mp3</link>
+    <description>U Sošicama pokopano 814 žrtava ekshumiranih iz jame Jazovke. Prije zauzimanja grada Gaze Izrael planira preseliti oko milijun stanovnika, izgladnjeli Palestinci teško se evakuiraju. Stručni tim policije odlazi u Benkovac, sinoć sukob zbog festivala "Nosi se". Urednica: Sanja Cota.</description>
+    <pubDate>Sat, 23 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/26/c8/20250823-kronika-dana-36687217-20250823204003.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 22.08. 2025-08-22</title>
     <link>https://api.hrt.hr/media/1d/c1/20250822-kronika-dana-36685076-20250822204557.mp3</link>
     <description>Ruski predsjednik Putin ne namjerava se uskoro sastati s ukrajinskim predsjednikom. U pojasu Gaze prvi je put službeno proglašena glad. Izraelski premijer Netanyahu ocijenio da je UN-ovo izvješće o gladi u Gazi "bestidna laž".Dodjelom nagrada završen Sarajevski filmski festival. Srce Sarajeva za najbolji igrani film dobio "Vjetre, pričaj sa mnom" u režiji Stefana Đorđevića. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Desetak zemalja spremno je poslati vojsku u Ukrajinu, Rusija nezadovoljna jer se bez nje razgovara o sigurnosnim jamstvima. Izraelska vojska razmjestila snage oko grada Gaze, počinje nova faza operacije. Splićani ponovno prosvjedovali zbog broda s azbestom. Urednica: Sanja Cota</description>
     <pubDate>Wed, 20 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/46/ae/20250820-kronika-dana-36679705-20250820203555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 19.08. 2025-08-19</title>
-    <link>https://api.hrt.hr/media/fb/5d/20250819-kronika-dana-36677178-20250819203533.mp3</link>
-    <description>Sjedinjene će Države pružiti sigurnosna jamstva, ali neće slati vojnike u Ukrajinu, kaže Donald Trump.Zbog slučaja Derifaj, glavni državni odvjetnik Ivan Turudić najavio izvanredni nadzor Općinskog državnog odvjetništva u Splitu.Mjesec i pol nakon Thompsonova koncerta - počela sanacija zagrebačkog hipodroma. Urednica Mira Barić</description>
-    <pubDate>Tue, 19 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/fb/5d/20250819-kronika-dana-36677178-20250819203533.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
