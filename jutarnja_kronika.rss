@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 22 Aug 2025 05:47:56 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 05:56:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 23.08. 2025-08-23</title>
+    <link>https://api.hrt.hr/media/84/96/20250823-jutarnja-kronika-36685585-20250823053059.mp3</link>
+    <description>Ruski predsjednik Putin ne namjerava se uskoro sastati s ukrajinskim predsjednikom. U pojasu Gaze i službeno proglašena glad. Izraelski premijer Netanyahu UN-ovo izvješće nazvao "bestidnom laži". Dan je sjećanja za žrtve totalitarnih režima. U Šibeniku počeo Festival dalmatinske šansone.: Grgo Mrvica</description>
+    <pubDate>Sat, 23 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/84/96/20250823-jutarnja-kronika-36685585-20250823053059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 22.08. 2025-08-22</title>
     <link>https://api.hrt.hr/media/da/9f/20250822-jutarnja-kronika-36683092-20250822053556.mp3</link>
     <description>Nakon jučerašnjega jakog nevremena, u Osijeku se stanje postupno normalizira. Premijer Plenković ponovio je na Vladinoj sjednici, prvoj nakon ljetne stanke, da Hrvatska neće slati vojnike u Ukrajinu. Rusija traži od Ukrajine da odustane od cijelog Donbasa i priključenja NATO-u. Izraelski premijer Netanyahu želi pregovore o oslobđanju preostalih talaca, ali prema njegovim uvjetima. Večeras u Varaždinu počinje Špancirfest. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Sjedinjene će Države pružiti sigurnosna jamstva, ali neće slati vojnike u Ukrajinu, kaže Donald Trump. U Splitu večeras ponovno prosvjed protiv talijanskog broda s azbestom u Brodosplitu. Zbog slučaja Derifaj, glavni državni odvjetnik Ivan Turudić najavio izvanredni nadzor Općinskoga državnog odvjetništva u Splitu. Na Dubrovačkim ljetnim igrama posljednja ovogodišnja dramska pemijera - Čehovljev "Galeb". Urednik: Grgo Mrvica</description>
     <pubDate>Wed, 20 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/10/93/20250820-jutarnja-kronika-36677725-20250820053035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 19.08. 2025-08-19</title>
-    <link>https://api.hrt.hr/media/66/d3/20250819-jutarnja-kronika-36675269-20250819053532.mp3</link>
-    <description>Trump razgovarao sa Zelenskim. O razgovorima izvijestio i Putina, te se dogovaraju izravni razgovori Ukrajine i Rusije. Počelo rušenje dijela Varteksovih zgrada u Varaždinu - umjesto tvornice - trgovački centar. Produljen rok za odlazak talijanskog broda s azbestom iz Splita. Iz Građanske inicijative najavljuju novi prosvjed. Urednica Snježana Kralj</description>
-    <pubDate>Tue, 19 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/66/d3/20250819-jutarnja-kronika-36675269-20250819053532.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
