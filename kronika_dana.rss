@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Aug 2025 21:15:46 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 20:51:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 26.08. 2025-08-26</title>
+    <link>https://api.hrt.hr/media/e3/0a/20250826-kronika-dana-36694389-20250826203509.mp3</link>
+    <description>U Zagrebu su se okupili hrvatski veleposlanici i konzuli, za 89 novih diplomata čeka se dogovor predsjednika i premijera. Stručni tim Ravnateljstva policije utvrdio da policija u Benkovcu nije učinila propust. Nakon 20-ero ubijenih ljudi, od kojih su petero novinari, izraelska istraga utvrdila - gađali smo Hamasovu kameru. Urednica je Sanja Cota.</description>
+    <pubDate>Tue, 26 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e3/0a/20250826-kronika-dana-36694389-20250826203509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 25.08. 2025-08-25</title>
     <link>https://api.hrt.hr/media/ae/a4/20250825-kronika-dana-36691750-20250825204506.mp3</link>
     <description>Iako je festival u Benkovcu otkazan, branitelji su se i večeras okupili. Među dvadeset ubijenih u Gazi i pet novinara, Netanyahu to nazvao tragičnom nesrećom. Donald Trump izjavio da Putin izbjegava Zelenskog jer mu se ne sviđa. Urednica: Sanja Cota</description>
@@ -32,14 +40,6 @@ Urednica: Mira Barić</description>
     <description>U Sošicama pokopano 814 žrtava ekshumiranih iz jame Jazovke. Prije zauzimanja grada Gaze Izrael planira preseliti oko milijun stanovnika, izgladnjeli Palestinci teško se evakuiraju. Stručni tim policije odlazi u Benkovac, sinoć sukob zbog festivala "Nosi se". Urednica: Sanja Cota.</description>
     <pubDate>Sat, 23 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/26/c8/20250823-kronika-dana-36687217-20250823204003.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 22.08. 2025-08-22</title>
-    <link>https://api.hrt.hr/media/1d/c1/20250822-kronika-dana-36685076-20250822204557.mp3</link>
-    <description>Ruski predsjednik Putin ne namjerava se uskoro sastati s ukrajinskim predsjednikom. U pojasu Gaze prvi je put službeno proglašena glad. Izraelski premijer Netanyahu ocijenio da je UN-ovo izvješće o gladi u Gazi "bestidna laž".Dodjelom nagrada završen Sarajevski filmski festival. Srce Sarajeva za najbolji igrani film dobio "Vjetre, pričaj sa mnom" u režiji Stefana Đorđevića. Urednica: Mira Barić</description>
-    <pubDate>Fri, 22 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1d/c1/20250822-kronika-dana-36685076-20250822204557.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
