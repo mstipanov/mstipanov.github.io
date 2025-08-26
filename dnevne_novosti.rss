@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Aug 2025 14:11:53 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 13:49:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 26.08. 2025-08-26</title>
+    <link>https://api.hrt.hr/media/ea/27/20250826-dnevne-novosti-36693533-20250826133008.mp3</link>
+    <description>Godišnja konferencija hrvatskih veleposlanika u Zagrebu. O imenovanju novih veleposlanika još nema konačnog dogovora predsjednika i premijera. Izraelu veliki prosvjedi za prekid rata i povratak talaca. USKOK podignuo optužnicu protiv bivšeg pomoćnika ministra financija Branka Šegona i nekadašnjeg zamjenika ravnateljice Porezne uprave Tihomira Kralja. Od bjegunca Zdravka Mamića tražili 500 tisuća eura mita kako bi utjecali na to da presuda bude u njegovu korist. Iako je festival "Nosi se" u Benkovcu otkazan, udruga branitelja i sinoć prosvjedovala. Jos&amp;eacute; Carreras večeras u pulskoj Areni.</description>
+    <pubDate>Tue, 26 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ea/27/20250826-dnevne-novosti-36693533-20250826133008.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 25.08. 2025-08-25</title>
     <link>https://api.hrt.hr/media/94/bc/20250825-dnevne-novosti-36691032-20250825134006.mp3</link>
     <description>U izraelskim napadima na bolnicu u Gazi najmanje 20-ero ljudi ubijeno, među njima i pet novinara. Gotovo 600 tisuća ljudi evakuirano zbog tajfuna Kađiki koji je pogodio Vijetnam. U Benkovcu odgođen festival "Nosi se", organizator kaže da je sigurnosni rizik prevelik. Uoči zatvaranja Dubrovačkih ljetnih igara, dodijeljene nagrade Orlando Hrvatske radiotelevizije. Grand prix Orlando dobila redateljica Ivica Boban. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
     <pubDate>Sat, 23 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/0d/82/20250823-dnevne-novosti-36686429-20250823133600.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 22.08. 2025-08-22</title>
-    <link>https://api.hrt.hr/media/f9/b5/20250822-dnevne-novosti-36684380-20250822132558.mp3</link>
-    <description>U pojasu Gaze proglašena glad. Rusi raketirali američku tvornicu u Ukrajini. Štete od sinoćnjeg nevremena u Osijeku, no nije bilo katastrofalno. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 22 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f9/b5/20250822-dnevne-novosti-36684380-20250822132558.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
