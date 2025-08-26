@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 25 Aug 2025 05:39:11 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 05:47:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 26.08. 2025-08-26</title>
+    <link>https://api.hrt.hr/media/ae/0f/20250826-jutarnja-kronika-36692379-20250826054508.mp3</link>
+    <description>U Benkovcu otkazan festival "Nosi se". Unatoč tome okupili se branitelji. U izraelskim napadima na bolnicu u Gazi ubijeno i pet novinara. Netanyahu to nazvao tragičnom nesrećom. Zašto Putin ne želi sjesti sa Zelenskim? Jer mu se ne sviđa - odgovorio Trump. Završene Dubrovačke ljetne igre. U Opatiji počinje Liburnia Film Festival. Urednica: Snježana Kralj</description>
+    <pubDate>Tue, 26 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/0f/20250826-jutarnja-kronika-36692379-20250826054508.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 25.08. 2025-08-25</title>
     <link>https://api.hrt.hr/media/44/96/20250825-jutarnja-kronika-36689933-20250825053505.mp3</link>
     <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -32,14 +40,6 @@ U Barbanu poslijepodne Trka na prstenac. Urednik: Grgo Mrvica</description>
     <description>Ruski predsjednik Putin ne namjerava se uskoro sastati s ukrajinskim predsjednikom. U pojasu Gaze i službeno proglašena glad. Izraelski premijer Netanyahu UN-ovo izvješće nazvao "bestidnom laži". Dan je sjećanja za žrtve totalitarnih režima. U Šibeniku počeo Festival dalmatinske šansone.: Grgo Mrvica</description>
     <pubDate>Sat, 23 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/84/96/20250823-jutarnja-kronika-36685585-20250823053059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 22.08. 2025-08-22</title>
-    <link>https://api.hrt.hr/media/da/9f/20250822-jutarnja-kronika-36683092-20250822053556.mp3</link>
-    <description>Nakon jučerašnjega jakog nevremena, u Osijeku se stanje postupno normalizira. Premijer Plenković ponovio je na Vladinoj sjednici, prvoj nakon ljetne stanke, da Hrvatska neće slati vojnike u Ukrajinu. Rusija traži od Ukrajine da odustane od cijelog Donbasa i priključenja NATO-u. Izraelski premijer Netanyahu želi pregovore o oslobđanju preostalih talaca, ali prema njegovim uvjetima. Večeras u Varaždinu počinje Špancirfest. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 22 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/da/9f/20250822-jutarnja-kronika-36683092-20250822053556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
