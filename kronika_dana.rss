@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Aug 2025 20:51:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 20:57:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 27.08. 2025-08-27</title>
+    <link>https://api.hrt.hr/media/24/18/20250827-kronika-dana-36697125-20250827204056.mp3</link>
+    <description>Umirovljenicima od idućeg mjeseca rastu mirovine za gotovo 6 i pol posto. Hrvatski vojni pilot i njegova partnerica s Kosova ispitani zbog sumnje u špijunažu u korist Srbije! Palestinska šefica diplomacije u Zagrebu. Premijer najavio novu pomoć Gazi, predsjednik pozvao Vladu da pokrene postupak priznanja Palestine. U Vukovaru otvoren 19. filmski festival. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Wed, 27 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/24/18/20250827-kronika-dana-36697125-20250827204056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 26.08. 2025-08-26</title>
     <link>https://api.hrt.hr/media/e3/0a/20250826-kronika-dana-36694389-20250826203509.mp3</link>
     <description>U Zagrebu su se okupili hrvatski veleposlanici i konzuli, za 89 novih diplomata čeka se dogovor predsjednika i premijera. Stručni tim Ravnateljstva policije utvrdio da policija u Benkovcu nije učinila propust. Nakon 20-ero ubijenih ljudi, od kojih su petero novinari, izraelska istraga utvrdila - gađali smo Hamasovu kameru. Urednica je Sanja Cota.</description>
@@ -32,14 +40,6 @@
 Urednica: Mira Barić</description>
     <pubDate>Sun, 24 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c0/67/20250824-kronika-dana-36689273-20250824203503.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 23.08. 2025-08-23</title>
-    <link>https://api.hrt.hr/media/26/c8/20250823-kronika-dana-36687217-20250823204003.mp3</link>
-    <description>U Sošicama pokopano 814 žrtava ekshumiranih iz jame Jazovke. Prije zauzimanja grada Gaze Izrael planira preseliti oko milijun stanovnika, izgladnjeli Palestinci teško se evakuiraju. Stručni tim policije odlazi u Benkovac, sinoć sukob zbog festivala "Nosi se". Urednica: Sanja Cota.</description>
-    <pubDate>Sat, 23 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/26/c8/20250823-kronika-dana-36687217-20250823204003.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
