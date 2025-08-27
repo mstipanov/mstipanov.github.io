@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 26 Aug 2025 13:49:41 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 13:55:50 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 27.08. 2025-08-27</title>
+    <link>https://api.hrt.hr/media/08/80/20250827-dnevne-novosti-36696316-20250827133556.mp3</link>
+    <description>BDP u drugom tromjesečju porastao za 3,4 posto. To je 18-ti kvartal zaredom da gospodarstvo raste. Predsjednik Zoran Milanović pozvao Vladu i Sabor da pokrenu postupak priznanja palestinske države. Večeras počinje Venecijanski filmski festival. Urednik: Grgo Mrvica</description>
+    <pubDate>Wed, 27 Aug 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/08/80/20250827-dnevne-novosti-36696316-20250827133556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 26.08. 2025-08-26</title>
     <link>https://api.hrt.hr/media/ea/27/20250826-dnevne-novosti-36693533-20250826133008.mp3</link>
     <description>Godišnja konferencija hrvatskih veleposlanika u Zagrebu. O imenovanju novih veleposlanika još nema konačnog dogovora predsjednika i premijera. Izraelu veliki prosvjedi za prekid rata i povratak talaca. USKOK podignuo optužnicu protiv bivšeg pomoćnika ministra financija Branka Šegona i nekadašnjeg zamjenika ravnateljice Porezne uprave Tihomira Kralja. Od bjegunca Zdravka Mamića tražili 500 tisuća eura mita kako bi utjecali na to da presuda bude u njegovu korist. Iako je festival "Nosi se" u Benkovcu otkazan, udruga branitelja i sinoć prosvjedovala. Jos&amp;eacute; Carreras večeras u pulskoj Areni.</description>
@@ -31,14 +39,6 @@
     <description>Ukrajina slavi 34. godišnjicu neovisnosti, čestitke prima od vodećih svjetskih državnika. Izraelski oporbeni političar Benny Gantz predlaže sastavljanje privremene vlade jedinstva koja bi omogućila prekid vatre kako bi se oslobodili taoci. U istarskom mjestu Barbanu održat će se Trka na prstenac. Urednica: Sanja Cota</description>
     <pubDate>Sun, 24 Aug 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/93/70/20250824-dnevne-novosti-36688519-20250824133003.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 23.08. 2025-08-23</title>
-    <link>https://api.hrt.hr/media/0d/82/20250823-dnevne-novosti-36686429-20250823133600.mp3</link>
-    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
-    <pubDate>Sat, 23 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/82/20250823-dnevne-novosti-36686429-20250823133600.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
