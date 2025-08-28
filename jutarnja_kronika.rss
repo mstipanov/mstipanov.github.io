@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 27 Aug 2025 05:53:46 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 05:59:21 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 28.08. 2025-08-28</title>
+    <link>https://api.hrt.hr/media/1f/eb/20250828-jutarnja-kronika-36697807-20250828053556.mp3</link>
+    <description>Hrvatska je u drugom kvartalu ove godine imala treći najveći rast BDP-a u eurozoni. S isplatom u rujnu rastu mirovine, u prosjeku za 38 eura. U splitskom Županijskom državnom odvjetništvu ispitan hrvatski vojni pilot i njegova partnerica zbog sumnje na špijunažu u korist Srbije. Palestinska šefica diplomacije u Zagrebu. Predsjednik pozvao Banske dvore da pokrenu postupak priznanja Palestine. Na današnjoj sjednici Vlade odluka o milijun eura humanitarne pomoći za Gazu. Tijekom noći veliki napad na Kijev. Prema prvim informacijama, srušila se peterokatnica. Urednik Mislav Togonal</description>
+    <pubDate>Thu, 28 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1f/eb/20250828-jutarnja-kronika-36697807-20250828053556.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 27.08. 2025-08-27</title>
     <link>https://api.hrt.hr/media/78/c0/20250827-jutarnja-kronika-36695067-20250827054010.mp3</link>
     <description>U Zagrebu se okupili hrvatski veleposlanici i konzuli, za 89 novih diplomata čeka se dogovor predsjednika i premijera. Stručni tim Ravnateljstva policije utvrdio da policija u Benkovcu nije učinila propust. Nakon 20 ubijenih ljudi, od kojih su petero novinari, izraelska istraga utvrdila - gađali smo Hamasovu kameru. Urednik: Mislav Togonal</description>
@@ -31,15 +39,6 @@
     <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
     <pubDate>Mon, 25 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/44/96/20250825-jutarnja-kronika-36689933-20250825053505.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 24.08. 2025-08-24</title>
-    <link>https://api.hrt.hr/media/0d/fe/20250824-jutarnja-kronika-36687775-20250824053502.mp3</link>
-    <description>Izraelski tenkovi ušli u još jednu četvrt grada Gaze. Stanovništvo iscrpljeno glađu nema snage za evakuaciju. Rusi zauzeli dva naselja na istoku Ukrajine.ravnatelj policije poslao je u Zadar stručni tim koji će utvrditi je li policija u Benkovcu tijekom braniteljskog prosvjeda postupila prema pravilima.
-U Barbanu poslijepodne Trka na prstenac. Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 24 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/0d/fe/20250824-jutarnja-kronika-36687775-20250824053502.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
