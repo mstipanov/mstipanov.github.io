@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 28 Aug 2025 05:59:21 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 05:35:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 29.08. 2025-08-29</title>
+    <link>https://api.hrt.hr/media/f3/e4/20250829-jutarnja-kronika-36700620-20250829053059.mp3</link>
+    <description>Hrvatski vojni pilot i njegova partnerica u istražnom su zatvoru zbog špijunaže. Ministar Medved sastao se s braniteljima iz Benkovca i Šibenika. Najmanje 21 žrtva noćašnjeg ruskog napada na Kijev. Urednik: Mislav Togonal</description>
+    <pubDate>Fri, 29 Aug 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f3/e4/20250829-jutarnja-kronika-36700620-20250829053059.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 28.08. 2025-08-28</title>
     <link>https://api.hrt.hr/media/1f/eb/20250828-jutarnja-kronika-36697807-20250828053556.mp3</link>
     <description>Hrvatska je u drugom kvartalu ove godine imala treći najveći rast BDP-a u eurozoni. S isplatom u rujnu rastu mirovine, u prosjeku za 38 eura. U splitskom Županijskom državnom odvjetništvu ispitan hrvatski vojni pilot i njegova partnerica zbog sumnje na špijunažu u korist Srbije. Palestinska šefica diplomacije u Zagrebu. Predsjednik pozvao Banske dvore da pokrenu postupak priznanja Palestine. Na današnjoj sjednici Vlade odluka o milijun eura humanitarne pomoći za Gazu. Tijekom noći veliki napad na Kijev. Prema prvim informacijama, srušila se peterokatnica. Urednik Mislav Togonal</description>
@@ -31,14 +39,6 @@
     <description>U Benkovcu otkazan festival "Nosi se". Unatoč tome okupili se branitelji. U izraelskim napadima na bolnicu u Gazi ubijeno i pet novinara. Netanyahu to nazvao tragičnom nesrećom. Zašto Putin ne želi sjesti sa Zelenskim? Jer mu se ne sviđa - odgovorio Trump. Završene Dubrovačke ljetne igre. U Opatiji počinje Liburnia Film Festival. Urednica: Snježana Kralj</description>
     <pubDate>Tue, 26 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ae/0f/20250826-jutarnja-kronika-36692379-20250826054508.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 25.08. 2025-08-25</title>
-    <link>https://api.hrt.hr/media/44/96/20250825-jutarnja-kronika-36689933-20250825053505.mp3</link>
-    <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
-    <pubDate>Mon, 25 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/44/96/20250825-jutarnja-kronika-36689933-20250825053505.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
