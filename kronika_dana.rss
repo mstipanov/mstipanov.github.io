@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 28 Aug 2025 21:03:19 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 20:38:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 29.08. 2025-08-29</title>
+    <link>https://api.hrt.hr/media/e9/0a/20250829-kronika-dana-36702786-20250829203502.mp3</link>
+    <description>Crveni alarm za Jadran i područje uz njega, DHMZ upozorio na moguće opasne vremenske uvjete. Suša i nevrijeme ratare doveli do ruba propasti, traže intervenciju države. U Hrvatskoj je u srpnju potrošnja u maloprodaji porasla već 28. mjesec zaredom na godišnjoj razini. Urednik: Grgo Mrvica</description>
+    <pubDate>Fri, 29 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/e9/0a/20250829-kronika-dana-36702786-20250829203502.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 28.08. 2025-08-28</title>
     <link>https://api.hrt.hr/media/36/c8/20250828-kronika-dana-36699932-20250828203558.mp3</link>
     <description>Hrvatski vojni pilot i njegova partnerica u istražnom su zatvoru zbog špijunaže. Najmanje 19-ero ljudi poginulo u noćašnjem ruskom napadu na Kijev. Izrael pojačava bombardiranje grada Gaze. Urednica Sanja Cota.</description>
@@ -31,14 +39,6 @@
     <description>U Zagrebu su se okupili hrvatski veleposlanici i konzuli, za 89 novih diplomata čeka se dogovor predsjednika i premijera. Stručni tim Ravnateljstva policije utvrdio da policija u Benkovcu nije učinila propust. Nakon 20-ero ubijenih ljudi, od kojih su petero novinari, izraelska istraga utvrdila - gađali smo Hamasovu kameru. Urednica je Sanja Cota.</description>
     <pubDate>Tue, 26 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/e3/0a/20250826-kronika-dana-36694389-20250826203509.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 25.08. 2025-08-25</title>
-    <link>https://api.hrt.hr/media/ae/a4/20250825-kronika-dana-36691750-20250825204506.mp3</link>
-    <description>Iako je festival u Benkovcu otkazan, branitelji su se i večeras okupili. Među dvadeset ubijenih u Gazi i pet novinara, Netanyahu to nazvao tragičnom nesrećom. Donald Trump izjavio da Putin izbjegava Zelenskog jer mu se ne sviđa. Urednica: Sanja Cota</description>
-    <pubDate>Mon, 25 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/a4/20250825-kronika-dana-36691750-20250825204506.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
