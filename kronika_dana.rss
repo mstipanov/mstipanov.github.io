@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 30 Aug 2025 20:43:56 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 31 Aug 2025 20:49:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 31.08. 2025-08-31</title>
+    <link>https://api.hrt.hr/media/27/b2/20250831-kronika-dana-36707418-20250831203534.mp3</link>
+    <description>Talijanski brod s azbestom u utorak napušta Split i Hrvatsku. Kineski predsjednik na povijesnom summitu okupio predsjednike Rusije, Indije, Irana i Turske. U Varaždinu završava Špancirfest. Festival dobrih emocija privukao nekoliko stotina tisuća posjetitelja. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 31 Aug 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/b2/20250831-kronika-dana-36707418-20250831203534.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.08. 2025-08-30</title>
     <link>https://api.hrt.hr/media/66/09/20250830-kronika-dana-36705159-20250830203503.mp3</link>
     <description>Na otoku Kornatu održana komemoracija u povodu 18-te godišnjice stradanja 12 vatrogasaca. U Sinju središnje obilježavanje Dana sjećanja na nestale u Domovinskom ratu. Premijer Plenković poručio da potraga neće prestati sve dok se ne bude doznala sudbina zadnjeg nestalog. Unatoč jakom nevremenu helikopter Hrvatskoga ratnog zrakoplovstva prevezao dijete s Korčule u KBC Split. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Hrvatski vojni pilot i njegova partnerica u istražnom su zatvoru zbog špijunaže. Najmanje 19-ero ljudi poginulo u noćašnjem ruskom napadu na Kijev. Izrael pojačava bombardiranje grada Gaze. Urednica Sanja Cota.</description>
     <pubDate>Thu, 28 Aug 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/36/c8/20250828-kronika-dana-36699932-20250828203558.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.08. 2025-08-27</title>
-    <link>https://api.hrt.hr/media/24/18/20250827-kronika-dana-36697125-20250827204056.mp3</link>
-    <description>Umirovljenicima od idućeg mjeseca rastu mirovine za gotovo 6 i pol posto. Hrvatski vojni pilot i njegova partnerica s Kosova ispitani zbog sumnje u špijunažu u korist Srbije! Palestinska šefica diplomacije u Zagrebu. Premijer najavio novu pomoć Gazi, predsjednik pozvao Vladu da pokrene postupak priznanja Palestine. U Vukovaru otvoren 19. filmski festival. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 27 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/24/18/20250827-kronika-dana-36697125-20250827204056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
