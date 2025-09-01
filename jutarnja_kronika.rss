@@ -6,10 +6,19 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 31 Aug 2025 06:15:53 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 05:47:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 01.09. 2025-09-01</title>
+    <link>https://api.hrt.hr/media/a9/af/20250901-jutarnja-kronika-36708048-20250901053501.mp3</link>
+    <description>Jutarnja kornika - 1. 9. 2025. Urednik Mislav Togonal
+Prijepodne u Split stiže tegljač s Malte koji će sutra otegliti brod s azbestom izvan hrvatskih teritorijalnih voda. Danas počinje ispitivanje novog sustava fiskalizacije koji stupa na snagu od početka sljedeće godine. Ove godine našim autocestama je prošlo dva milijuna vozila više nego lani. Kineski predsjednik Ši Đinping dočekao čelnike Rusije, Indije, Irana, Turske i još dvadesetak euroazijskih država na samitu Šangajske organizacije za suradnju. Razoran potres u Afganistanu. Strahuje se da su brojni ljudi zatrpani ispod ruševina. VRIJEME DANAS: Većinom sunčano i toplije, malo kiše moguće u Gorskom kotaru i na sjevernom Jadranu. Najviša temperatura do 29 stupnjeva.</description>
+    <pubDate>Mon, 01 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a9/af/20250901-jutarnja-kronika-36708048-20250901053501.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 31.08. 2025-08-31</title>
     <link>https://api.hrt.hr/media/ba/83/20250831-jutarnja-kronika-36705817-20250831060505.mp3</link>
     <description>Sinoć jaka kiša u Zagrebu, vatrogasci ispumpavali vodu iz podvožnjaka u zapadnom dijelu grada. Putin stigao u Kinu. Njegov vojni zapovjednik najavio novu jesensku ofenzivu u Ukrajini. Večeras u zagrebačkom HNK-u Festival svjetske književnosti. Urednik: Grgo Mrvica</description>
@@ -31,14 +40,6 @@
     <description>Hrvatski vojni pilot i njegova partnerica u istražnom su zatvoru zbog špijunaže. Ministar Medved sastao se s braniteljima iz Benkovca i Šibenika. Najmanje 21 žrtva noćašnjeg ruskog napada na Kijev. Urednik: Mislav Togonal</description>
     <pubDate>Fri, 29 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f3/e4/20250829-jutarnja-kronika-36700620-20250829053059.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.08. 2025-08-28</title>
-    <link>https://api.hrt.hr/media/1f/eb/20250828-jutarnja-kronika-36697807-20250828053556.mp3</link>
-    <description>Hrvatska je u drugom kvartalu ove godine imala treći najveći rast BDP-a u eurozoni. S isplatom u rujnu rastu mirovine, u prosjeku za 38 eura. U splitskom Županijskom državnom odvjetništvu ispitan hrvatski vojni pilot i njegova partnerica zbog sumnje na špijunažu u korist Srbije. Palestinska šefica diplomacije u Zagrebu. Predsjednik pozvao Banske dvore da pokrenu postupak priznanja Palestine. Na današnjoj sjednici Vlade odluka o milijun eura humanitarne pomoći za Gazu. Tijekom noći veliki napad na Kijev. Prema prvim informacijama, srušila se peterokatnica. Urednik Mislav Togonal</description>
-    <pubDate>Thu, 28 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/1f/eb/20250828-jutarnja-kronika-36697807-20250828053556.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
