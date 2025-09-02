@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 02 Sep 2025 13:59:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 14:29:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.09. 2025-09-02</title>
+    <link>https://api.hrt.hr/media/b3/a3/20250902-dnevne-novosti-36712482-20250902140547.mp3</link>
+    <description>Snažno nevrijeme i obilna kiša pogodili su jutros dijelove Istre, u manje od sat vremena palo je 100 litara kiše po četvornome metru, u dva sata zabilježeno gotovo 2000 udara groma. Inflacija u kolovozu, u odnosu prema istom mjesecu lani, 4,1 posto. U Europskoj uniji višu stopu inflacije ima samo Estonija. Talijanski brod Moby Drea, na kojem su azbestne ploče, tijekom dana trebao bi biti otegljen iz Brodosplita. Prema najnovijim podacima, broj poginulih u potresu u Afganistanu veći je od 1400. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 02 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b3/a3/20250902-dnevne-novosti-36712482-20250902140547.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.09. 2025-09-01</title>
     <link>https://api.hrt.hr/media/18/40/20250901-dnevne-novosti-36709390-20250901133001.mp3</link>
     <description>Više od 800 ljudi je poginulo, a gotovo tri tisuće ozlijeđeno u potresu magnitude 6 noćas u Afganistanu. Talijanski brod s azbestnim počama Moby Drea sutra napokon odlazi iz splitskeog brodogradilišta. Suočeno sa sve češćim uništavanjem umjetnina u javnom prostoru, Hrvatsko društvo likovnih umjetnika umjetnicima poslalo posebne preporuke. Urednik: Grgo Mrvica</description>
