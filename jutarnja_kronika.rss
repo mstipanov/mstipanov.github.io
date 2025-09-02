@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 01 Sep 2025 05:47:35 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 05:56:48 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.09. 2025-09-02</title>
+    <link>https://api.hrt.hr/media/3c/b0/20250902-jutarnja-kronika-36711023-20250902053047.mp3</link>
+    <description>Najmanje je 800 poginulih i tisuće ozlijeđenih u razornom potresu u Afganistanu. Talibanska vlada zatražila pomoć. Na Strateškom forumu na Bledu odjeknula izjava premijera Plenkovića da je Srbija na rubu građanskog rata. Odgovorila Ana Brnabić. Ministar obrane i načelnik Glavnog stožera Oružanih snaga na predstavljaju Bayraktara. Stigao tegljač s Malte! Brod s azbestnim pločama napušta Split!: Snježana Kralj</description>
+    <pubDate>Tue, 02 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3c/b0/20250902-jutarnja-kronika-36711023-20250902053047.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.09. 2025-09-01</title>
     <link>https://api.hrt.hr/media/a9/af/20250901-jutarnja-kronika-36708048-20250901053501.mp3</link>
     <description>Jutarnja kornika - 1. 9. 2025. Urednik Mislav Togonal
@@ -32,14 +40,6 @@ Prijepodne u Split stiže tegljač s Malte koji će sutra otegliti brod s azbest
     <description>Snažno nevrijeme poharalo sjeverozapadnu Istru. Danas crveni meteoalarm proglašen za Dalmaciju. Hrvatska poljoprivredna komora traži žurnu izmjenu Pravilnika o otkupu žitarica. čki žalbeni sud presudio da je većina Trumpovih carina nezakonita. Dan je sjećanja na nestale osobe. Hrvatska još traži 1744-ero ljudi nestalih u srpskoj agresiji. Urednik: Mislav Togonal.</description>
     <pubDate>Sat, 30 Aug 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/33/ea/20250830-jutarnja-kronika-36703438-20250830053502.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 29.08. 2025-08-29</title>
-    <link>https://api.hrt.hr/media/f3/e4/20250829-jutarnja-kronika-36700620-20250829053059.mp3</link>
-    <description>Hrvatski vojni pilot i njegova partnerica u istražnom su zatvoru zbog špijunaže. Ministar Medved sastao se s braniteljima iz Benkovca i Šibenika. Najmanje 21 žrtva noćašnjeg ruskog napada na Kijev. Urednik: Mislav Togonal</description>
-    <pubDate>Fri, 29 Aug 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f3/e4/20250829-jutarnja-kronika-36700620-20250829053059.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
