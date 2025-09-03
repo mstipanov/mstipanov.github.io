@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Sep 2025 05:33:44 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 06:03:52 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 03.09. 2025-09-03</title>
+    <link>https://api.hrt.hr/media/55/a8/20250903-jutarnja-kronika-36714041-20250903053056.mp3</link>
+    <description>Na vojnoj paradi u Pekingu kineska demonstracija vojne sile pred 26 šefova država. Večeras u Šibeniku počinje festival alternativne ljevice FALIŠ. Još se ne zna hoće li branitelji doći na otvorenje. Počinju prijave šteta nakon potopa u sjeverozapadnoj Istri. Na današnjoj sjednici splitskoga gradskog vijeća odluka o sudbini Brodosplita. Urednik: Mislav Togonal</description>
+    <pubDate>Wed, 03 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/55/a8/20250903-jutarnja-kronika-36714041-20250903053056.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 02.09. 2025-09-02</title>
     <link>https://api.hrt.hr/media/3c/b0/20250902-jutarnja-kronika-36711023-20250902053047.mp3</link>
     <description>Najmanje je 800 poginulih i tisuće ozlijeđenih u razornom potresu u Afganistanu. Talibanska vlada zatražila pomoć. Na Strateškom forumu na Bledu odjeknula izjava premijera Plenkovića da je Srbija na rubu građanskog rata. Odgovorila Ana Brnabić. Ministar obrane i načelnik Glavnog stožera Oružanih snaga na predstavljaju Bayraktara. Stigao tegljač s Malte! Brod s azbestnim pločama napušta Split!: Snježana Kralj</description>
