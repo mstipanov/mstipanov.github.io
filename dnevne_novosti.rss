@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Sep 2025 14:07:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 13:46:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 04.09. 2025-09-04</title>
+    <link>https://api.hrt.hr/media/cd/c8/20250904-dnevne-novosti-36718700-20250904133030.mp3</link>
+    <description>Raste broj poginulih u nesreći lisabonske uspinjače, trenutačno je 17. Ministarstvo vanjskih poslova objavilo da nema stradalih hrvatskih državljana. Predstavnici takozvane Koalicije voljnih, koja podupire Ukrajinu, okupili su se u Parizu. Na suđenju bivšem ministru Mariju Banožiću za prometnu nesreću svjedočili vještaci. Večeras počinje prvi "Zagrebački muzejski vikend", traje do nedjelje. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 04 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cd/c8/20250904-dnevne-novosti-36718700-20250904133030.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 03.09. 2025-09-03</title>
     <link>https://api.hrt.hr/media/6e/1b/20250903-dnevne-novosti-36715616-20250903133053.mp3</link>
     <description>U srpnju i kolovozu bilo je nešto manje turista nego lani, ali je potrošnja ipak bila veća.Na vojnoj paradi u Pekingu Kina predstavila moćni arsenal oružja.Splitsko Gradsko vijeće već nekoliko sati raspravlja o budućnosti Brodosplita.Vrijeme sutra - pretežno sunčano i malo toplije nego danas. Na istoku mogući pljuskovi. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Više od 800 ljudi je poginulo, a gotovo tri tisuće ozlijeđeno u potresu magnitude 6 noćas u Afganistanu. Talijanski brod s azbestnim počama Moby Drea sutra napokon odlazi iz splitskeog brodogradilišta. Suočeno sa sve češćim uništavanjem umjetnina u javnom prostoru, Hrvatsko društvo likovnih umjetnika umjetnicima poslalo posebne preporuke. Urednik: Grgo Mrvica</description>
     <pubDate>Mon, 01 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/18/40/20250901-dnevne-novosti-36709390-20250901133001.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 31.08. 2025-08-31</title>
-    <link>https://api.hrt.hr/media/8c/9b/20250831-dnevne-novosti-36706632-20250831133006.mp3</link>
-    <description>Kineski predsjednik okupio čelnike Rusije, Indije, Irana i Turske. Iz Malte u Split krenuo tegljač po brod s azbestom. Motociklisti u 17 sati kreću u vožnju upozorenja. Urednica: Sanja Cota</description>
-    <pubDate>Sun, 31 Aug 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/8c/9b/20250831-dnevne-novosti-36706632-20250831133006.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
