@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 03 Sep 2025 21:08:50 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 20:47:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 04.09. 2025-09-04</title>
+    <link>https://api.hrt.hr/media/28/dd/20250904-kronika-dana-36719515-20250904203531.mp3</link>
+    <description>Vlada je najavila postupno odustajanje od daljnjih mjera krizne pomoći stanovništvu i gospodarstvu. 26 zemalja spremno poslati postrojbe u Ukrajinu u misiju osiguranja mira. Treći snažan potres na jugozapadu Afganistana magnitude 6 cijelih 2. U potresima od nedjelje poginulo najmanje dvije tisuće 200 ljudi. 16 osoba poginulo u iskliznuću uspinjače u Lisabonu. Urednik: Grgo Mrvica</description>
+    <pubDate>Thu, 04 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/28/dd/20250904-kronika-dana-36719515-20250904203531.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 03.09. 2025-09-03</title>
     <link>https://api.hrt.hr/media/d0/8c/20250903-kronika-dana-36716520-20250903204018.mp3</link>
     <description>Tragedija u Lisabonu - iskočila poznata uspinjača Gloria, poginulo je 15-ero ljudi, 18 je ozlijeđeno. U srpnju i kolovozu u Hrvatskoj je bilo nešto manje turista nego lani, ali je potrošnja bila veća. Vijećnici Grada Splita, na sjednici o budućnosti brodogradnje i Brodosplita, donijeli jednoglasni zaključak kojim traže da se vlasniku škvera Tomislavu Debeljaku oduzme koncesija. Bez izgreda i prosvjeda u Šibeniku otvoren festival FALIŠ. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Najmanje je 800 ljudi poginulo, a gotovo tri tisuće ozlijeđeno u potresu u Afganistanu. Talibanska vlada zatražila pomoć. Na Strateškom forumu na Bledu premijer Andrej Plenković izjavio da je Srbija na rubu građanskog rata. Odgovorila mu predsjednica srbijanske Skupštine Ana Brnabić. Talijanski brod s azbestnim počama Moby Drea sutra bi napokon trebao otići iz splitskog brodogradilišta. Nakon čak 40 godina u Vinkovcima je otvoren novi dječji vrtić. Urednik: Silvio Šop</description>
     <pubDate>Mon, 01 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/72/5c/20250901-kronika-dana-36710379-20250901204002.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 31.08. 2025-08-31</title>
-    <link>https://api.hrt.hr/media/27/b2/20250831-kronika-dana-36707418-20250831203534.mp3</link>
-    <description>Talijanski brod s azbestom u utorak napušta Split i Hrvatsku. Kineski predsjednik na povijesnom summitu okupio predsjednike Rusije, Indije, Irana i Turske. U Varaždinu završava Špancirfest. Festival dobrih emocija privukao nekoliko stotina tisuća posjetitelja. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 31 Aug 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/27/b2/20250831-kronika-dana-36707418-20250831203534.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
