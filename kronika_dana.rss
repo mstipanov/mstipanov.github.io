@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 05 Sep 2025 20:52:58 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 20:57:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.09. 2025-09-06</title>
+    <link>https://api.hrt.hr/media/06/cf/20250906-kronika-dana-36724719-20250906204012.mp3</link>
+    <description>Performans u Benkovcu, izveli ga organizatori festivala "Nosi se" na mjestu gdje je festival trebao biti održan. Jedno novorođenče umrlo pri kućnom porodu blizanaca u Zagrebu. Uhićena 69-godišnja primalja iz Austrije. Zbog kazne od tri milijarde dolara izrečene Googleu, Donald Trump zaprijetio Europskoj uniji osvetom. : Mira Barić</description>
+    <pubDate>Sat, 06 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/06/cf/20250906-kronika-dana-36724719-20250906204012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.09. 2025-09-05</title>
     <link>https://api.hrt.hr/media/5f/a4/20250905-kronika-dana-36722352-20250905203558.mp3</link>
     <description>Nakon jučerašnjeg zaključka koalicije voljnih Putin zaprijetio da će sve zapadne vojnike u Ukrajini smatrati legitimnom metom. Premijer Plenković ponovio da Hrvatska neće slati vojnike u Ukrajinu. Mnogobrojne reakcije nakon jučerašnjeg pojavljivanja predsjednika Milanovića na festivalu FALIŠ u Šibeniku. Braniteljske udruge za nedjelju najavile prosvjed protiv javnog financiranja tog festivala. Film "Fiume o morte" Igora Bezinovića ovogodišnji je hrvatski kandidat za Oscara.Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Tragedija u Lisabonu - iskočila poznata uspinjača Gloria, poginulo je 15-ero ljudi, 18 je ozlijeđeno. U srpnju i kolovozu u Hrvatskoj je bilo nešto manje turista nego lani, ali je potrošnja bila veća. Vijećnici Grada Splita, na sjednici o budućnosti brodogradnje i Brodosplita, donijeli jednoglasni zaključak kojim traže da se vlasniku škvera Tomislavu Debeljaku oduzme koncesija. Bez izgreda i prosvjeda u Šibeniku otvoren festival FALIŠ. Urednik: Silvio Šop</description>
     <pubDate>Wed, 03 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d0/8c/20250903-kronika-dana-36716520-20250903204018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.09. 2025-09-02</title>
-    <link>https://api.hrt.hr/media/89/d3/20250902-kronika-dana-36713379-20250902204045.mp3</link>
-    <description>Inflacija u kolovozu, u odnosu prema istom mjesecu lani, 4 cijela 1 posto. U Europskoj uniji višu stopu inflacije ima samo Estonija. Afganistan pogodio novi snažan potres. Ukupan broj poginulih veći je od tisuću i 400. Obilna kiša jutros u dijelovima Istre - u Novigradu i Bujama više od 180 intervencija vatrogasaca. Talijanski brod s azbestnim pločama napustio Split. Urednik: Grgo Mrvica</description>
-    <pubDate>Tue, 02 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/89/d3/20250902-kronika-dana-36713379-20250902204045.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
