@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 05 Sep 2025 13:51:32 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 13:56:11 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 06.09. 2025-09-06</title>
+    <link>https://api.hrt.hr/media/9a/58/20250906-dnevne-novosti-36723847-20250906133012.mp3</link>
+    <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
+    <pubDate>Sat, 06 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/9a/58/20250906-dnevne-novosti-36723847-20250906133012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 05.09. 2025-09-05</title>
     <link>https://api.hrt.hr/media/6b/d1/20250905-dnevne-novosti-36721505-20250905132556.mp3</link>
     <description>Oštra poruka ruskog predsjednika Putina zemljama koje žele poslati svoje vojnike u Ukrajinu. Ako do toga dođe, smatrat će ih legitimnom metom. Najveća bolnica u Hrvatskoj, KBC Zagreb, dobila najmoderniju integriranu operacijsku salu. Film "Fiume o morte" Igora Bezinovića ovogodišnji je hrvatski kandidat za Oscara. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>U srpnju i kolovozu bilo je nešto manje turista nego lani, ali je potrošnja ipak bila veća.Na vojnoj paradi u Pekingu Kina predstavila moćni arsenal oružja.Splitsko Gradsko vijeće već nekoliko sati raspravlja o budućnosti Brodosplita.Vrijeme sutra - pretežno sunčano i malo toplije nego danas. Na istoku mogući pljuskovi. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 03 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6e/1b/20250903-dnevne-novosti-36715616-20250903133053.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 02.09. 2025-09-02</title>
-    <link>https://api.hrt.hr/media/b3/a3/20250902-dnevne-novosti-36712482-20250902140547.mp3</link>
-    <description>Snažno nevrijeme i obilna kiša pogodili su jutros dijelove Istre, u manje od sat vremena palo je 100 litara kiše po četvornome metru, u dva sata zabilježeno gotovo 2000 udara groma. Inflacija u kolovozu, u odnosu prema istom mjesecu lani, 4,1 posto. U Europskoj uniji višu stopu inflacije ima samo Estonija. Talijanski brod Moby Drea, na kojem su azbestne ploče, tijekom dana trebao bi biti otegljen iz Brodosplita. Prema najnovijim podacima, broj poginulih u potresu u Afganistanu veći je od 1400. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 02 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b3/a3/20250902-dnevne-novosti-36712482-20250902140547.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
