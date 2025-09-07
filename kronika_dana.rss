@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 06 Sep 2025 20:57:43 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 Sep 2025 20:32:03 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Vlada je najavila postupno odustajanje od daljnjih mjera krizne pomoći stanovništvu i gospodarstvu. 26 zemalja spremno poslati postrojbe u Ukrajinu u misiju osiguranja mira. Treći snažan potres na jugozapadu Afganistana magnitude 6 cijelih 2. U potresima od nedjelje poginulo najmanje dvije tisuće 200 ljudi. 16 osoba poginulo u iskliznuću uspinjače u Lisabonu. Urednik: Grgo Mrvica</description>
     <pubDate>Thu, 04 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/28/dd/20250904-kronika-dana-36719515-20250904203531.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.09. 2025-09-03</title>
-    <link>https://api.hrt.hr/media/d0/8c/20250903-kronika-dana-36716520-20250903204018.mp3</link>
-    <description>Tragedija u Lisabonu - iskočila poznata uspinjača Gloria, poginulo je 15-ero ljudi, 18 je ozlijeđeno. U srpnju i kolovozu u Hrvatskoj je bilo nešto manje turista nego lani, ali je potrošnja bila veća. Vijećnici Grada Splita, na sjednici o budućnosti brodogradnje i Brodosplita, donijeli jednoglasni zaključak kojim traže da se vlasniku škvera Tomislavu Debeljaku oduzme koncesija. Bez izgreda i prosvjeda u Šibeniku otvoren festival FALIŠ. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 03 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d0/8c/20250903-kronika-dana-36716520-20250903204018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
