@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 06 Sep 2025 05:54:39 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 Sep 2025 05:59:24 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 07.09. 2025-09-07</title>
+    <link>https://api.hrt.hr/media/4f/89/20250907-jutarnja-kronika-36725388-20250907053517.mp3</link>
+    <description>U Šibeniku u 17 sati prosvjed branitelja protiv financiranja festivala FALIŠ javnim novcem.noći se urušila piramidalna shema EG Investment Grupe, zbog čega su tisuće hrvatskih građana koji su u nju ulagali ostale bez novca. Zbog kazne od tri milijarde dolara izrečene Googleu, Donald Trump zaprijetio Europskoj uniji osvetom. Rusija dronovima napala Kijev. U Gornjoj Stubici najveći hrvatski aeromiting - Susreti za Rudija. Urednik: Mislav Togonal</description>
+    <pubDate>Sun, 07 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4f/89/20250907-jutarnja-kronika-36725388-20250907053517.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 06.09. 2025-09-06</title>
     <link>https://api.hrt.hr/media/a1/ae/20250906-jutarnja-kronika-36722957-20250906053512.mp3</link>
     <description>Bilo kakve strane vojnike u bilo kojoj misiji u Ukrajini Rusija će smatrati legitimnom metom, izjavio ruski predsjednik Vladimir Putin. Premijer Andrej Plenković ponovio da Hrvatska neće slati vojnike u Ukrajinu. Organizatori festivala "Nosi se" u Benkovcu najavili mirni prosvjed odnosno performans. Ponovno oštro reagirala Koordinacija braniteljskih udruga grada Benkovca i Zadarske županije. SPORT: Nogometna reprezentacija Hrvatske pobijedila Farske Otoke rezultatom 1:0. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Uspinjača u Lisabonu iskočila iz tračnica. Najmanje 15 mrtvih. U Parizu koalicija voljnih o sigurnosim jamstvima za Ukrajinu. Izraelski predsjednik kod pape Lava u Vatikanu. Splitski vijećnici traže da se vlasniku Brodosplita Tomislavu Debeljaku oduzme koncesija. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 04 Sep 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b5/97/20250904-jutarnja-kronika-36717194-20250904053029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 03.09. 2025-09-03</title>
-    <link>https://api.hrt.hr/media/55/a8/20250903-jutarnja-kronika-36714041-20250903053056.mp3</link>
-    <description>Na vojnoj paradi u Pekingu kineska demonstracija vojne sile pred 26 šefova država. Večeras u Šibeniku počinje festival alternativne ljevice FALIŠ. Još se ne zna hoće li branitelji doći na otvorenje. Počinju prijave šteta nakon potopa u sjeverozapadnoj Istri. Na današnjoj sjednici splitskoga gradskog vijeća odluka o sudbini Brodosplita. Urednik: Mislav Togonal</description>
-    <pubDate>Wed, 03 Sep 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/55/a8/20250903-jutarnja-kronika-36714041-20250903053056.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
