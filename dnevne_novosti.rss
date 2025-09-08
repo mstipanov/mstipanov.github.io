@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 07 Sep 2025 14:00:49 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 13:35:29 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.09. 2025-09-08</title>
+    <link>https://api.hrt.hr/media/15/30/20250908-dnevne-novosti-36729780-20250908133025.mp3</link>
+    <description>Počela nova nastavna godina, u školske klupe sjelo oko 445 tisuća učenika. Građanima od danas dostupno novo 13-to ulaganje u trezorske zapise. Najsmrtonosniji napad u Jeruzalemu u protekle dvije godine, u lokalnom autobusu dvojica Palestinca ubila šest osoba, a ranila 15. U Londonu prometni kaos zbog štrajka radnika podzemne željeznice. Urednica: Mira Barić</description>
+    <pubDate>Mon, 08 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/15/30/20250908-dnevne-novosti-36729780-20250908133025.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.09. 2025-09-07</title>
     <link>https://api.hrt.hr/media/6e/b8/20250907-dnevne-novosti-36726294-20250907133017.mp3</link>
     <description>Najmanje četiri osobe, među kojima i dvomjesečno dijete, poginule su u napadu na Kijev. Pogođena i zgrada Vlade, prvi put od početka rata. Najelitnija postrojba hrvatske policije, Antiteroristička jedinica Lučko, obilježava 35. godina od osnutka. Na nebu večeras jedan od najimpresivnijih astronomskih događaja desetljeća - potpuna pomrčina Mjeseca, fenomen popularno nazvan "krvavi Mjesec". Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Oštra poruka ruskog predsjednika Putina zemljama koje žele poslati svoje vojnike u Ukrajinu. Ako do toga dođe, smatrat će ih legitimnom metom. Najveća bolnica u Hrvatskoj, KBC Zagreb, dobila najmoderniju integriranu operacijsku salu. Film "Fiume o morte" Igora Bezinovića ovogodišnji je hrvatski kandidat za Oscara. Urednik: Mario Krstanović</description>
     <pubDate>Fri, 05 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/6b/d1/20250905-dnevne-novosti-36721505-20250905132556.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.09. 2025-09-04</title>
-    <link>https://api.hrt.hr/media/cd/c8/20250904-dnevne-novosti-36718700-20250904133030.mp3</link>
-    <description>Raste broj poginulih u nesreći lisabonske uspinjače, trenutačno je 17. Ministarstvo vanjskih poslova objavilo da nema stradalih hrvatskih državljana. Predstavnici takozvane Koalicije voljnih, koja podupire Ukrajinu, okupili su se u Parizu. Na suđenju bivšem ministru Mariju Banožiću za prometnu nesreću svjedočili vještaci. Večeras počinje prvi "Zagrebački muzejski vikend", traje do nedjelje. Urednik: Silvio Šop</description>
-    <pubDate>Thu, 04 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/cd/c8/20250904-dnevne-novosti-36718700-20250904133030.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
