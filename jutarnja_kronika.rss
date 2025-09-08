@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 07 Sep 2025 05:59:24 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 05:33:41 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Tijekom dana očekuje se objava prvih rezultata istrage nesreće uspinjače u Lisabonu, u kojoj je poginulo 16 osoba. Nakon što se dogovori mirovni sporazum, 26 zemalja spremno je poslati postrojbe u Ukrajinu u misiju osiguranja mira. Vlada je najavila postupno odustajanje od daljnjih mjera krizne pomoći stanovništvu i gospodarstvu. Večeras na Zagrebačkom velesajmu koncert legendarne synth-pop grupe Alphaville. Urednik: Silvio Šop</description>
     <pubDate>Fri, 05 Sep 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d2/e8/20250905-jutarnja-kronika-36720151-20250905053555.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 04.09. 2025-09-04</title>
-    <link>https://api.hrt.hr/media/b5/97/20250904-jutarnja-kronika-36717194-20250904053029.mp3</link>
-    <description>Uspinjača u Lisabonu iskočila iz tračnica. Najmanje 15 mrtvih. U Parizu koalicija voljnih o sigurnosim jamstvima za Ukrajinu. Izraelski predsjednik kod pape Lava u Vatikanu. Splitski vijećnici traže da se vlasniku Brodosplita Tomislavu Debeljaku oduzme koncesija. Urednik: Mario Krstanović</description>
-    <pubDate>Thu, 04 Sep 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b5/97/20250904-jutarnja-kronika-36717194-20250904053029.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
