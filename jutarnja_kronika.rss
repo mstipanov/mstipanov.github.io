@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 Sep 2025 05:39:36 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 06:09:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 09.09. 2025-09-09</title>
+    <link>https://api.hrt.hr/media/bd/b7/20250909-jutarnja-kronika-36731459-20250909054018.mp3</link>
+    <description>Pala francuska vlada! Predsjednik Macron pred izborom petog premijera u manje od dvije godine! U Zagrebu izraelski ministar vanjskih poslova. SDP-ov Forum mladih pozvao na priznanje Palestine bez odgađanja. Hrvatska domaćin svjetskog natjecanja u spašavanju u prometu i pružanju prve pomoći.Pobjedom nad Crnom Gorom hrvatski nogometaši napravili veliki korak prema Svjetskom prvenstvu. Urednica Snježana Kralj</description>
+    <pubDate>Tue, 09 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/bd/b7/20250909-jutarnja-kronika-36731459-20250909054018.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 08.09. 2025-09-08</title>
     <link>https://api.hrt.hr/media/38/8f/20250908-jutarnja-kronika-36727853-20250908053524.mp3</link>
     <description>Počinje nova nastavna godina za učenike osnovnih i srednjih škola. Od danas je građanima dostupno novo ulaganje u trezorske zapise. Rusija silovito napada Kijev, pogođena je zgrada ukrajinske Vlade. Američki predsjednik Donald Trump najavio nove sankcije Moskvi. SPORT: Hrvatska nogometna reprezentacija na zagrebačkom Maksimiru igra protiv Crne Gore. Urednik: Silvio Šop</description>
