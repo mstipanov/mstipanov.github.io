@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 09 Sep 2025 20:44:16 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 20:50:15 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 10.09. 2025-09-10</title>
+    <link>https://api.hrt.hr/media/fc/73/20250910-kronika-dana-36737607-20250910204058.mp3</link>
+    <description>Poljska srušila ruske dronove iznad svojeg teritorija. Evo, počinje! - reakcija je američkog predsjednika Donalda Trumpa. Predsjednica Europske komisije Ursula von der Leyen održala govor o stanju Europske unije. Uhićenja u Hrvatskim šumama i nekim tvrtkama koje s njima posluju. Potop na Kvarneru - do 17 sati pale 122 litre kiše po četvornome metru, prosjek za cijeli rujan je 175 litara! Urednik: Silvio Šop</description>
+    <pubDate>Wed, 10 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/fc/73/20250910-kronika-dana-36737607-20250910204058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 09.09. 2025-09-09</title>
     <link>https://api.hrt.hr/media/3c/f6/20250909-kronika-dana-36734256-20250909203522.mp3</link>
     <description>Oštra reakcija predsjednika Zorana Milanovića na dolazak izraelskog ministra vanjskih poslova u Zagreb. Izrael napao Katar. Hamasovo vodstvo koje je bilo meta - preživjelo. Francuski predsjednik za premijera imenovao dosadašnjeg ministra obrane, arhitekta velikog jačanja vojske. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>U ruskim napadima na Kijev pogođena zgrada ukrajinske Vlade. Donald Trump najavio nove sankcije Moskvi. Nakon ljetnih praznika, učenici sutra u školskim klupama. Carlo Acutis, tinejdžer koji je umro od leukemije, postao prvi katolički svetac milenijske generacije. Urednik: Mario Krstanović</description>
     <pubDate>Sun, 07 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/70/20250907-kronika-dana-36727176-20250907205018.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 06.09. 2025-09-06</title>
-    <link>https://api.hrt.hr/media/06/cf/20250906-kronika-dana-36724719-20250906204012.mp3</link>
-    <description>Performans u Benkovcu, izveli ga organizatori festivala "Nosi se" na mjestu gdje je festival trebao biti održan. Jedno novorođenče umrlo pri kućnom porodu blizanaca u Zagrebu. Uhićena 69-godišnja primalja iz Austrije. Zbog kazne od tri milijarde dolara izrečene Googleu, Donald Trump zaprijetio Europskoj uniji osvetom. : Mira Barić</description>
-    <pubDate>Sat, 06 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/06/cf/20250906-kronika-dana-36724719-20250906204012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
