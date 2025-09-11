@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 Sep 2025 05:46:14 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 05:51:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 11.09. 2025-09-11</title>
+    <link>https://api.hrt.hr/media/76/0d/20250911-jutarnja-kronika-36738294-20250911055014.mp3</link>
+    <description>Atentat u Americi - ubijen Charlie Kirk, utjecajni konzervativni aktivist blizak predsjedniku Trumpu. Potraga za ubojicom još traje. Poljska pronašla olupine 16 ruskih dronova srušenih iznad svojeg teritorija. Na sjednici zagrebačke Skupštine napokon izmjene GUP-a! Jaka kiša u Rijeci podignula šahtove. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 11 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/76/0d/20250911-jutarnja-kronika-36738294-20250911055014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 10.09. 2025-09-10</title>
     <link>https://api.hrt.hr/media/29/25/20250910-jutarnja-kronika-36734898-20250910053542.mp3</link>
     <description>Poljska vojska srušila bespilotne letjelice koje su ušle u njezin zračni prostor - sumnja se da su ruske. Podignuti poljski i NATO-ovi zrakoplovi. Ursula von der Leyen Europskom parlamentu podnosi izvješće o stanju Unije. U Zagrebu počinje jedan od najvećih i najutjecajnijih sajmova arhitekture i graditeljstva u regiji - ArhiBau. Urednica: Marija Gerbec Njavro</description>
@@ -31,14 +39,6 @@
     <description>Počinje nova nastavna godina za učenike osnovnih i srednjih škola. Od danas je građanima dostupno novo ulaganje u trezorske zapise. Rusija silovito napada Kijev, pogođena je zgrada ukrajinske Vlade. Američki predsjednik Donald Trump najavio nove sankcije Moskvi. SPORT: Hrvatska nogometna reprezentacija na zagrebačkom Maksimiru igra protiv Crne Gore. Urednik: Silvio Šop</description>
     <pubDate>Mon, 08 Sep 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/38/8f/20250908-jutarnja-kronika-36727853-20250908053524.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 07.09. 2025-09-07</title>
-    <link>https://api.hrt.hr/media/4f/89/20250907-jutarnja-kronika-36725388-20250907053517.mp3</link>
-    <description>U Šibeniku u 17 sati prosvjed branitelja protiv financiranja festivala FALIŠ javnim novcem.noći se urušila piramidalna shema EG Investment Grupe, zbog čega su tisuće hrvatskih građana koji su u nju ulagali ostale bez novca. Zbog kazne od tri milijarde dolara izrečene Googleu, Donald Trump zaprijetio Europskoj uniji osvetom. Rusija dronovima napala Kijev. U Gornjoj Stubici najveći hrvatski aeromiting - Susreti za Rudija. Urednik: Mislav Togonal</description>
-    <pubDate>Sun, 07 Sep 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4f/89/20250907-jutarnja-kronika-36725388-20250907053517.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
