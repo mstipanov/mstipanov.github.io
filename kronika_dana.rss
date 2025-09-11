@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 10 Sep 2025 20:50:15 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 20:55:26 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 11.09. 2025-09-11</title>
+    <link>https://api.hrt.hr/media/36/01/20250911-kronika-dana-36741237-20250911203542.mp3</link>
+    <description>Još traje potraga za atentatorom na Charlieja Kirka, američkog konzervativnog aktivista. Pronađeno oružje, FBI objavio fotografije osumnjičenog. Dug bolnica veledrogerijama narastao na 770 milijuna eura i nikad nije bio veći. U 40 bolnica stigle opomene. Nakon tri pokušaja, Skupština Grada Zagreba večeras donijela izmjene i dopune Generalnog urbanističkog plana. Urednica: Mira Barić</description>
+    <pubDate>Thu, 11 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/36/01/20250911-kronika-dana-36741237-20250911203542.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 10.09. 2025-09-10</title>
     <link>https://api.hrt.hr/media/fc/73/20250910-kronika-dana-36737607-20250910204058.mp3</link>
     <description>Poljska srušila ruske dronove iznad svojeg teritorija. Evo, počinje! - reakcija je američkog predsjednika Donalda Trumpa. Predsjednica Europske komisije Ursula von der Leyen održala govor o stanju Europske unije. Uhićenja u Hrvatskim šumama i nekim tvrtkama koje s njima posluju. Potop na Kvarneru - do 17 sati pale 122 litre kiše po četvornome metru, prosjek za cijeli rujan je 175 litara! Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Povratak u školu u koju je krenulo i 36 tisuća prvašića.Pad francuske vlade, predsjednik Makron imenovat će novog, petog premijera u manje od dvije godine. Zbog rata u Gazi stotine djelatnika filmske industrije pozvale na bojkot izraelskih filmskih institucija.Urednica Sanja Cota.</description>
     <pubDate>Mon, 08 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/87/63/20250908-kronika-dana-36730818-20250908204526.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 07.09. 2025-09-07</title>
-    <link>https://api.hrt.hr/media/c9/70/20250907-kronika-dana-36727176-20250907205018.mp3</link>
-    <description>U ruskim napadima na Kijev pogođena zgrada ukrajinske Vlade. Donald Trump najavio nove sankcije Moskvi. Nakon ljetnih praznika, učenici sutra u školskim klupama. Carlo Acutis, tinejdžer koji je umro od leukemije, postao prvi katolički svetac milenijske generacije. Urednik: Mario Krstanović</description>
-    <pubDate>Sun, 07 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/70/20250907-kronika-dana-36727176-20250907205018.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
