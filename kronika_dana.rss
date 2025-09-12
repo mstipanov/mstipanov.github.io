@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 Sep 2025 20:30:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 21:00:46 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.09. 2025-09-12</title>
+    <link>https://api.hrt.hr/media/ae/b7/20250912-kronika-dana-36744724-20250912204055.mp3</link>
+    <description>Nakon upada ruskih dronova u Poljsku, NATO pokreće operaciju "Istočna straža". UN prihvatio rezoluciju o rješenju izraelsko-palestinskog sukoba s dvjema državama. ZA glasovala i Hrvatska. Mladić uhićen za ubojstvo Charlieja Kirka, nije imao dosje, brani se šutnjom. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 12 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ae/b7/20250912-kronika-dana-36744724-20250912204055.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.09. 2025-09-11</title>
     <link>https://api.hrt.hr/media/36/01/20250911-kronika-dana-36741237-20250911203542.mp3</link>
     <description>Još traje potraga za atentatorom na Charlieja Kirka, američkog konzervativnog aktivista. Pronađeno oružje, FBI objavio fotografije osumnjičenog. Dug bolnica veledrogerijama narastao na 770 milijuna eura i nikad nije bio veći. U 40 bolnica stigle opomene. Nakon tri pokušaja, Skupština Grada Zagreba večeras donijela izmjene i dopune Generalnog urbanističkog plana. Urednica: Mira Barić</description>
