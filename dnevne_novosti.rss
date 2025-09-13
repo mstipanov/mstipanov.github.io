@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 12 Sep 2025 13:58:54 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 13:34:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 13.09. 2025-09-13</title>
+    <link>https://api.hrt.hr/media/dd/6a/20250913-dnevne-novosti-36746262-20250913133012.mp3</link>
+    <description>Agencija Standard &amp; Poor's potvrdila je dugoročni kreditni rejting Hrvatske A minus, uz pozitivne izglede. Ujedinjeni narodi prihvatili rezoluciju o rješenju izraelsko-palestinskog sukoba utemeljenom na dvjema državama. "ZA" glasovala i Hrvatska. NATO je pokrenuo operaciju "Istočni stražar", kojom se želi ojačati sigurnost cjelokupnog istočnog dijela saveza. U Zagrebačkom kazalištu mladih počinje 22. Festival svjetskog kazališta. Urednik: Silvio Šop</description>
+    <pubDate>Sat, 13 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/dd/6a/20250913-dnevne-novosti-36746262-20250913133012.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 12.09. 2025-09-12</title>
     <link>https://api.hrt.hr/media/c9/fc/20250912-dnevne-novosti-36743474-20250912133044.mp3</link>
     <description>Uhićen osumnjičeni za ubojstvo konzervativnog aktivista Charlieja Kirka, rekao Donald Trump u razgovoru za Fox News. Bez konkretnog dogovora sastanak ministrice zdravstva s predstavnicima veledrogerija zbog 770 milijuna eura duga bolnica. SDP smatra da će za sutra najavljeno Vladino postupno ukidanje mjera subvencije za struju i plin potaknuti rast inflacije. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Poljska srušila ruske dronove iznad svojeg teritorija, premijer Tusk tvrdi - to je namjeran ruski napad izveden iz Bjelorusije.Europa mora biti u stanju brinuti se za vlastitu obranu i sigurnost, poručila predsjednica Europske komisije Ursula von der Leyen u govoru o stanju Unije.Uhićenja u Hrvatskim šumama.Urednica: Sanja Cota</description>
     <pubDate>Wed, 10 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/a2/20250910-dnevne-novosti-36736605-20250910133044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 09.09. 2025-09-09</title>
-    <link>https://api.hrt.hr/media/f6/97/20250909-dnevne-novosti-36733276-20250909133513.mp3</link>
-    <description>Izraelski ministar vanjskih poslova Gideon Sa'ar u posjetu je Hrvatskoj. Oštra reakcija predsjednika Zorana Milanovića na posjet izraelskog ministra - u trenutku kada izraelska vojska protjeruje stanovnike i najavljuje napad na grad Gazu, sastajati se s članom te vlade potpora je izraelskoj politici nasilja, etničkog čišćenja i ratnih zločina. Broj samoubojstava u Hrvatskoj iz godine u godinu se smanjuje, ali zabrinjava porast broja djece do 18 godina koja si oduzmu život. Večeras počinje najveći regionalni festival dizajna, Zagreb Design Week. Urednik: Silvio Šop</description>
-    <pubDate>Tue, 09 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f6/97/20250909-dnevne-novosti-36733276-20250909133513.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
