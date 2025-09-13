@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Sep 2025 18:20:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 20:50:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 13.09. 2025-09-13</title>
+    <link>https://api.hrt.hr/media/ca/d5/20250913-kronika-dana-36747183-20250913204011.mp3</link>
+    <description>Agencija Standard &amp; Poor's potvrdila kreditni rejting Hrvatske. Zbog ruskih bespilotnih letjelica poljske i savezničke zračne snage raspoređene u "preventivnoj operaciji"; i Rumunjska podignula borbene zrakoplove. U Londonu više od sto tisuća ljudi prosvjedovalo protiv migranata. Urednica: Sanja Cota</description>
+    <pubDate>Sat, 13 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ca/d5/20250913-kronika-dana-36747183-20250913204011.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 12.09. 2025-09-12</title>
     <link>https://api.hrt.hr/media/ae/b7/20250912-kronika-dana-36744724-20250912204055.mp3</link>
     <description>Nakon upada ruskih dronova u Poljsku, NATO pokreće operaciju "Istočna straža". UN prihvatio rezoluciju o rješenju izraelsko-palestinskog sukoba s dvjema državama. ZA glasovala i Hrvatska. Mladić uhićen za ubojstvo Charlieja Kirka, nije imao dosje, brani se šutnjom. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Poljska srušila ruske dronove iznad svojeg teritorija. Evo, počinje! - reakcija je američkog predsjednika Donalda Trumpa. Predsjednica Europske komisije Ursula von der Leyen održala govor o stanju Europske unije. Uhićenja u Hrvatskim šumama i nekim tvrtkama koje s njima posluju. Potop na Kvarneru - do 17 sati pale 122 litre kiše po četvornome metru, prosjek za cijeli rujan je 175 litara! Urednik: Silvio Šop</description>
     <pubDate>Wed, 10 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/fc/73/20250910-kronika-dana-36737607-20250910204058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 09.09. 2025-09-09</title>
-    <link>https://api.hrt.hr/media/3c/f6/20250909-kronika-dana-36734256-20250909203522.mp3</link>
-    <description>Oštra reakcija predsjednika Zorana Milanovića na dolazak izraelskog ministra vanjskih poslova u Zagreb. Izrael napao Katar. Hamasovo vodstvo koje je bilo meta - preživjelo. Francuski predsjednik za premijera imenovao dosadašnjeg ministra obrane, arhitekta velikog jačanja vojske. Urednica: Sanja Cota</description>
-    <pubDate>Tue, 09 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/3c/f6/20250909-kronika-dana-36734256-20250909203522.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
