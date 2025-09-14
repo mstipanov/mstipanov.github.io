@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Sep 2025 18:20:17 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 13:39:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 14.09. 2025-09-14</title>
+    <link>https://api.hrt.hr/media/0d/93/20250914-dnevne-novosti-36748780-20250914133036.mp3</link>
+    <description>Nastavljaju se ruski napadi na Ukrajinu, ali i povrede zračnih prostora zemalja članica NATO-saveza. Nakon dva mjeseca ljetnog odmora aktualnim prijepodnevom sutra počinje jesensko zasjedanje Sabora. Papa Lav Četrnaesti slavi 70. rođendan, stižu mu čestitke iz cijeloga svijeta. Na zagrebačkome Strossmayerovu trgu večeras koncert u spomen na Gabi, Matiju i Arsena. Urednica: Mira Barić</description>
+    <pubDate>Sun, 14 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0d/93/20250914-dnevne-novosti-36748780-20250914133036.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 13.09. 2025-09-13</title>
     <link>https://api.hrt.hr/media/dd/6a/20250913-dnevne-novosti-36746262-20250913133012.mp3</link>
     <description>Agencija Standard &amp; Poor's potvrdila je dugoročni kreditni rejting Hrvatske A minus, uz pozitivne izglede. Ujedinjeni narodi prihvatili rezoluciju o rješenju izraelsko-palestinskog sukoba utemeljenom na dvjema državama. "ZA" glasovala i Hrvatska. NATO je pokrenuo operaciju "Istočni stražar", kojom se želi ojačati sigurnost cjelokupnog istočnog dijela saveza. U Zagrebačkom kazalištu mladih počinje 22. Festival svjetskog kazališta. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Još nije uhićen ubojica američkog konzervativnog aktivista, bliskog predsjedniku Trumpu.Zbog ruskih dronova Poljska ograničila zračni promet i zatražila hitnu sjednicu Vijeća sigurnosti.Vlada najavila skoro popuštanje mjera i prelazak na tržišne cijene struje i plina.Urednica: Sanja Cota</description>
     <pubDate>Thu, 11 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/31/77/20250911-dnevne-novosti-36740018-20250911133042.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 10.09. 2025-09-10</title>
-    <link>https://api.hrt.hr/media/c9/a2/20250910-dnevne-novosti-36736605-20250910133044.mp3</link>
-    <description>Poljska srušila ruske dronove iznad svojeg teritorija, premijer Tusk tvrdi - to je namjeran ruski napad izveden iz Bjelorusije.Europa mora biti u stanju brinuti se za vlastitu obranu i sigurnost, poručila predsjednica Europske komisije Ursula von der Leyen u govoru o stanju Unije.Uhićenja u Hrvatskim šumama.Urednica: Sanja Cota</description>
-    <pubDate>Wed, 10 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/a2/20250910-dnevne-novosti-36736605-20250910133044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
