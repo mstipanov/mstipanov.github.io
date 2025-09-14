@@ -6,7 +6,7 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Sep 2025 18:20:17 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 05:37:31 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>Atentat u Americi - ubijen Charlie Kirk, utjecajni konzervativni aktivist blizak predsjedniku Trumpu. Potraga za ubojicom još traje. Poljska pronašla olupine 16 ruskih dronova srušenih iznad svojeg teritorija. Na sjednici zagrebačke Skupštine napokon izmjene GUP-a! Jaka kiša u Rijeci podignula šahtove. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 11 Sep 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/76/0d/20250911-jutarnja-kronika-36738294-20250911055014.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 10.09. 2025-09-10</title>
-    <link>https://api.hrt.hr/media/29/25/20250910-jutarnja-kronika-36734898-20250910053542.mp3</link>
-    <description>Poljska vojska srušila bespilotne letjelice koje su ušle u njezin zračni prostor - sumnja se da su ruske. Podignuti poljski i NATO-ovi zrakoplovi. Ursula von der Leyen Europskom parlamentu podnosi izvješće o stanju Unije. U Zagrebu počinje jedan od najvećih i najutjecajnijih sajmova arhitekture i graditeljstva u regiji - ArhiBau. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Wed, 10 Sep 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/29/25/20250910-jutarnja-kronika-36734898-20250910053542.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
