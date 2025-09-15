@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 14 Sep 2025 19:13:47 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 13:44:17 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 15.09. 2025-09-15</title>
+    <link>https://api.hrt.hr/media/3a/ba/20250915-dnevne-novosti-36751846-20250915133046.mp3</link>
+    <description>Nakon dva mjeseca ljetne stanke, aktualnim prijepodnevom počelo zasjedanje Sabora. Dominirao pozdrav "Za dom spremni", zastupnici razmjenjivali uvrede i optužbe. U Kataru se održava hitan sastanak arapskih zemalja, kao odgovor na izraelski zračni napad na čelnike Hamasa u Dohi. Humoristično-satirična serija "Studio" apsolutni je pobjednik dodjele televizijskih nagrada Emmy, održane noćas u Los Angelesu. Urednica: Mira Barić</description>
+    <pubDate>Mon, 15 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/3a/ba/20250915-dnevne-novosti-36751846-20250915133046.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 14.09. 2025-09-14</title>
     <link>https://api.hrt.hr/media/0d/93/20250914-dnevne-novosti-36748780-20250914133036.mp3</link>
     <description>Nastavljaju se ruski napadi na Ukrajinu, ali i povrede zračnih prostora zemalja članica NATO-saveza. Nakon dva mjeseca ljetnog odmora aktualnim prijepodnevom sutra počinje jesensko zasjedanje Sabora. Papa Lav Četrnaesti slavi 70. rođendan, stižu mu čestitke iz cijeloga svijeta. Na zagrebačkome Strossmayerovu trgu večeras koncert u spomen na Gabi, Matiju i Arsena. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Uhićen osumnjičeni za ubojstvo konzervativnog aktivista Charlieja Kirka, rekao Donald Trump u razgovoru za Fox News. Bez konkretnog dogovora sastanak ministrice zdravstva s predstavnicima veledrogerija zbog 770 milijuna eura duga bolnica. SDP smatra da će za sutra najavljeno Vladino postupno ukidanje mjera subvencije za struju i plin potaknuti rast inflacije. Urednica: Mira Barić</description>
     <pubDate>Fri, 12 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c9/fc/20250912-dnevne-novosti-36743474-20250912133044.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 11.09. 2025-09-11</title>
-    <link>https://api.hrt.hr/media/31/77/20250911-dnevne-novosti-36740018-20250911133042.mp3</link>
-    <description>Još nije uhićen ubojica američkog konzervativnog aktivista, bliskog predsjedniku Trumpu.Zbog ruskih dronova Poljska ograničila zračni promet i zatražila hitnu sjednicu Vijeća sigurnosti.Vlada najavila skoro popuštanje mjera i prelazak na tržišne cijene struje i plina.Urednica: Sanja Cota</description>
-    <pubDate>Thu, 11 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/31/77/20250911-dnevne-novosti-36740018-20250911133042.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
