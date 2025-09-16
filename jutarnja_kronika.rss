@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Sep 2025 06:12:39 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 05:47:43 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 16.09. 2025-09-16</title>
+    <link>https://api.hrt.hr/media/c2/9a/20250916-jutarnja-kronika-36753489-20250916053513.mp3</link>
+    <description>Vlada će danas donijeti novi paket mjera pomoći stanovništvu i gospodarstvu. Izrael noćas počeo napad na grad Gazu. Danas se obilježava obljetnica bitke za Šibenik, poznatije kao Rujanski rat. Vrijeme danas: postupna naoblaka sa sjevera, uglavnom od sredine dana u unutrašnjosti i na sjevernom Jadranu mjestimice kiša, ponegdje i jaki pljuskovi s grmljavinom; u Dalmaciji sunčanije. Urednik: Mislav Togonal</description>
+    <pubDate>Tue, 16 Sep 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c2/9a/20250916-jutarnja-kronika-36753489-20250916053513.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 15.09. 2025-09-15</title>
     <link>https://api.hrt.hr/media/d9/98/20250915-jutarnja-kronika-36750340-20250915054037.mp3</link>
     <description>Nakon ljetne stanke Sabor aktualnim prijepodnevom počinje jesensko zasjedanje. U Zadru počinje Infobit Shift, najveća developerska konferencija u jugoistočnoj Europi. Mjere za samozapošljavanje pun pogodak - čak 88 posto poslovnih subjekata aktivno je i nakon isteka potpora. U Kataru izvanredni arapsko-islamski sastanak na vrhu. Glavna tema nedavni izraelski napad na članove Hamasa u Dohi. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Agencija Standard &amp; Poor's potvrdila kreditni rejting Hrvatske A-, uz pozitivne izglede. UN prihvatio rezoluciju o rješenju izraelsko-palestinskog sukoba utemeljenom na dvjema državama. "ZA" glasovala i Hrvatska. Nakon ruskog upada u poljski zračni prostor NATO pokreće operaciju "Istočna straža". Urednica: Mira Barić</description>
     <pubDate>Sat, 13 Sep 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/37/d8/20250913-jutarnja-kronika-36745366-20250913053511.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 12.09. 2025-09-12</title>
-    <link>https://api.hrt.hr/media/53/18/20250912-jutarnja-kronika-36741861-20250912053544.mp3</link>
-    <description>FBI još traži atentatora na Charlieja Kirka. Objavljena snimka na kojoj se vidi kako ubojica bježi nakon pucnjave. Bivši brazilski predsjednik Bolsonaro osuđen na 27 godina zatvora. Nikad veći dug bolnica veledrogerijama - 770 milijuna eura. Zagrebačka skupština donijela izmjene GUP-a. Počinju 60. Vinkovačke jeseni, a u Zagrebu popularni PIF. Urednik: Mario Krstanović</description>
-    <pubDate>Fri, 12 Sep 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/53/18/20250912-jutarnja-kronika-36741861-20250912053544.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
