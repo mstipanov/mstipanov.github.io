@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Sep 2025 13:44:17 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 13:49:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 16.09. 2025-09-16</title>
+    <link>https://api.hrt.hr/media/93/13/20250916-dnevne-novosti-36755262-20250916133015.mp3</link>
+    <description>Vlada novim paketom mjera djelomično ukida energetske subvencije. Izraelske oružane snage pokrenule kopnenu ofenzivu za zauzimanje grada Gaze. Predsjednik Zoran Milanović izjavio da Hrvatska treba priznati Palestinu, ali inzistira da to učini Sabor, a ne Vlada. Hrvatski radio - Radio Rijeka slavi 80 godina emitiranja. Urednik: Silvio Šop</description>
+    <pubDate>Tue, 16 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/93/13/20250916-dnevne-novosti-36755262-20250916133015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 15.09. 2025-09-15</title>
     <link>https://api.hrt.hr/media/3a/ba/20250915-dnevne-novosti-36751846-20250915133046.mp3</link>
     <description>Nakon dva mjeseca ljetne stanke, aktualnim prijepodnevom počelo zasjedanje Sabora. Dominirao pozdrav "Za dom spremni", zastupnici razmjenjivali uvrede i optužbe. U Kataru se održava hitan sastanak arapskih zemalja, kao odgovor na izraelski zračni napad na čelnike Hamasa u Dohi. Humoristično-satirična serija "Studio" apsolutni je pobjednik dodjele televizijskih nagrada Emmy, održane noćas u Los Angelesu. Urednica: Mira Barić</description>
@@ -31,14 +39,6 @@
     <description>Agencija Standard &amp; Poor's potvrdila je dugoročni kreditni rejting Hrvatske A minus, uz pozitivne izglede. Ujedinjeni narodi prihvatili rezoluciju o rješenju izraelsko-palestinskog sukoba utemeljenom na dvjema državama. "ZA" glasovala i Hrvatska. NATO je pokrenuo operaciju "Istočni stražar", kojom se želi ojačati sigurnost cjelokupnog istočnog dijela saveza. U Zagrebačkom kazalištu mladih počinje 22. Festival svjetskog kazališta. Urednik: Silvio Šop</description>
     <pubDate>Sat, 13 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/dd/6a/20250913-dnevne-novosti-36746262-20250913133012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 12.09. 2025-09-12</title>
-    <link>https://api.hrt.hr/media/c9/fc/20250912-dnevne-novosti-36743474-20250912133044.mp3</link>
-    <description>Uhićen osumnjičeni za ubojstvo konzervativnog aktivista Charlieja Kirka, rekao Donald Trump u razgovoru za Fox News. Bez konkretnog dogovora sastanak ministrice zdravstva s predstavnicima veledrogerija zbog 770 milijuna eura duga bolnica. SDP smatra da će za sutra najavljeno Vladino postupno ukidanje mjera subvencije za struju i plin potaknuti rast inflacije. Urednica: Mira Barić</description>
-    <pubDate>Fri, 12 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c9/fc/20250912-dnevne-novosti-36743474-20250912133044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
