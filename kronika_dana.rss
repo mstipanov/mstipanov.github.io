@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 15 Sep 2025 22:46:22 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 20:51:18 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 16.09. 2025-09-16</title>
+    <link>https://api.hrt.hr/media/27/80/20250916-kronika-dana-36756237-20250916204015.mp3</link>
+    <description>Vlada smanjuje subvencije za struju i plin. 117 tisuća građana i dalje će primati vaučere za režije. Izrael pokrenuo kopnenu ofenzivu na grad Gazu. UN utvrdio da se u Gazi provodi genocid. U 74. godini umro general Ante Roso. U 90. godini odlazak glumca i redatelja Roberta Redforda. Urednica: Sanja Cota</description>
+    <pubDate>Tue, 16 Sep 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/80/20250916-kronika-dana-36756237-20250916204015.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 15.09. 2025-09-15</title>
     <link>https://api.hrt.hr/media/bc/82/20250915-kronika-dana-36752842-20250915222013.mp3</link>
     <description>Uzbuna u Varšavi, srušena bespilotna letjelica koja je letjela iznad vladine zgrade, uhićena dva Bjelorusa. Aktualnim prijepodnevnom Sabor počeo jesensku sjednicu. Lokaliziran veliki požar koji je poslijepodne buknuo u tvrtki za proizvodnju drvne građe Windor kod Pleternice. Urednik: Grgo Mrvica</description>
@@ -31,14 +39,6 @@
     <description>Agencija Standard &amp; Poor's potvrdila kreditni rejting Hrvatske. Zbog ruskih bespilotnih letjelica poljske i savezničke zračne snage raspoređene u "preventivnoj operaciji"; i Rumunjska podignula borbene zrakoplove. U Londonu više od sto tisuća ljudi prosvjedovalo protiv migranata. Urednica: Sanja Cota</description>
     <pubDate>Sat, 13 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ca/d5/20250913-kronika-dana-36747183-20250913204011.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 12.09. 2025-09-12</title>
-    <link>https://api.hrt.hr/media/ae/b7/20250912-kronika-dana-36744724-20250912204055.mp3</link>
-    <description>Nakon upada ruskih dronova u Poljsku, NATO pokreće operaciju "Istočna straža". UN prihvatio rezoluciju o rješenju izraelsko-palestinskog sukoba s dvjema državama. ZA glasovala i Hrvatska. Mladić uhićen za ubojstvo Charlieja Kirka, nije imao dosje, brani se šutnjom. Urednica: Sanja Cota</description>
-    <pubDate>Fri, 12 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ae/b7/20250912-kronika-dana-36744724-20250912204055.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
