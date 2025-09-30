@@ -6,7 +6,7 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Sep 2025 05:01:04 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 21:01:07 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
@@ -31,14 +31,6 @@
     <description>JANAF odgovorio mađarskome ministru da su besmislene njegove izjave o ratnom profiterstvu Hrvatske. Rusija opovrgava hibridne napade bespilotnim letjelicama na članice NATO-a i Europske unije. Zbog afričke svinjske kuge u Kopačkom ritu počeo odstrel divljih svinja. Urednica: Sanja Cota</description>
     <pubDate>Sat, 27 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4e/0f/20250927-kronika-dana-36791811-20250927203524.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 26.09. 2025-09-26</title>
-    <link>https://api.hrt.hr/media/29/a2/20250926-kronika-dana-36789364-20250926203540.mp3</link>
-    <description>Trojica pomoraca s broda Lastova optužena za tragediju u malološinjskoj luci kada je rampa usmrtila tri Jadrolinijina pomorca. Otac i sinovi Petrač te Saša Pozder nagodili se s Uskokom i dobili blaže kazne za korupcijsku aferu u zdravstvu. Zbog širenja afričke svinjske kuge ministar poljoprivrede David Vlajčić smatra da je ugrožena nacionalna sigurnost. Na općoj skupštini UN-a uoči govora izraelskog premijera Netanjahua deseci diplomata napustili dvoranu. Urednik: Grgo Mrvica</description>
-    <pubDate>Fri, 26 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/29/a2/20250926-kronika-dana-36789364-20250926203540.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
