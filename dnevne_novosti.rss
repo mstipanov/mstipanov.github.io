@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Sep 2025 05:01:03 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 13:59:44 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 30.09. 2025-09-30</title>
+    <link>https://api.hrt.hr/media/1b/9b/20250930-dnevne-novosti-36800261-20250930133058.mp3</link>
+    <description>Zagrebački profesor pravnih znanosti i ustavni sudac Frane Staničić novi je predsjednik Ustavnoga suda. Hrvatska će otkupti INU ako Mađari ponude razumnu cijenu, izjavio u Čakovcu premijer Plenković. Hamas razmatra američki prijedlog o trajnom prekidu vatre u Gazi.
+Urednik: Grgo Mrvica</description>
+    <pubDate>Tue, 30 Sep 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/1b/9b/20250930-dnevne-novosti-36800261-20250930133058.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 29.09. 2025-09-29</title>
     <link>https://api.hrt.hr/media/46/92/20250929-dnevne-novosti-36796622-20250929133057.mp3</link>
     <description>Donald Trump dao odobrenje Kijevu za izvođenje dalekometnih udara na ruskom teritoriju. U Moldaviji na parlamentarnim izborima pobijedila proeuropska stranka. Od danas u prometu prvi baterijski vlak na hrvatskim prugama
@@ -33,14 +42,6 @@ Urednik: Grgo Mrvica</description>
     <description>Mađarski ministar vanjskih poslova ponovio optužbe da je Hrvatska ratni profiter, te da Janaf nema kapcitet dovoljan za opskrbu Mađarske i Slovačke. Neidentificirane bespilotne letjelice satima letjele iznad vojne baze u Danskoj. Ministarstvo zdravstva počinje postupak utvrđivanja koliko točno nedostaje medicinskih sestara, navodno je taj broj 4 tisuće! Svjetski je dan turizma, ove je godine tema - turizam i održiva transformacija. Urednik: Silvio Šop</description>
     <pubDate>Sat, 27 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/4d/5e/20250927-dnevne-novosti-36790914-20250927134035.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 26.09. 2025-09-26</title>
-    <link>https://api.hrt.hr/media/6d/57/20250926-dnevne-novosti-36788204-20250926133044.mp3</link>
-    <description>Otac i sinovi Petrač te Saša Pozder nagodili se s Uskokom i dobili blaže kazne za korupcijsku aferu u zdravstvu.Nacionalna sigurnost je ugrožena zbog ilegalnih aktivnosti na svinjogojskim gospodarstvima, izjavio ministar poljoprivrede.Hrvatski sabor pozvao Vladu da procijeni trenutak za donošenje odluke o priznanju palestinske države.Urednica: Sanja Cota</description>
-    <pubDate>Fri, 26 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/6d/57/20250926-dnevne-novosti-36788204-20250926133044.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
