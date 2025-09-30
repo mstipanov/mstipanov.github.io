@@ -6,10 +6,26 @@
         <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 13 Sep 2025 18:20:18 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 02:41:53 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/4a/c0/inventura-tjedan-pod-povecalom-20220324112020.webp</url><title>Inventura - tjedan pod povećalom</title><link>https://radio.hrt.hr/slusaonica/inventura-tjedan-pod-povecalom</link></image>
         <item>
+    <title>Inventura, 27.09.2025. 2025-09-27</title>
+    <link>https://api.hrt.hr/media/b5/18/20250927-inventura-tjedan-pod-povecalom-36788721-20250926160054.mp3</link>
+    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
+    <pubDate>Sat, 27 Sep 2025 05:30:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b5/18/20250927-inventura-tjedan-pod-povecalom-36788721-20250926160054.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Inventura, 20.09.2025. 2025-09-20</title>
+    <link>https://api.hrt.hr/media/0f/4e/20250920-inventura-tjedan-pod-povecalom-36766063-20250919155038.mp3</link>
+    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
+    <pubDate>Sat, 20 Sep 2025 05:30:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/0f/4e/20250920-inventura-tjedan-pod-povecalom-36766063-20250919155038.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Inventura, 13.09.2025. 2025-09-13</title>
     <link>https://api.hrt.hr/media/84/c0/20250913-inventura-tjedan-pod-povecalom-36744017-20250912161549.mp3</link>
     <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>

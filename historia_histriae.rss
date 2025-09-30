@@ -6,10 +6,26 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 19 Jun 2025 20:09:24 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 02:41:51 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>Novovjekovna povijest Labina 2025-09-25</title>
+    <link>https://api.hrt.hr/media/b3/1f/20250925-historia-histriae-8219606-20250925160014.mp3</link>
+    <description>Govorimo o povijesti Labina od kraja srednjeg vijeka do uspostave austrijske vlasti. Naš gost - Kristijan Žgaljardić! </description>
+    <pubDate>Thu, 25 Sep 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/b3/1f/20250925-historia-histriae-8219606-20250925160014.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
+    <title>Povijest Labina 2025-09-18</title>
+    <link>https://api.hrt.hr/media/94/4d/20250918-historia-histriae-8217663-20250918163648.mp3</link>
+    <description>Novu sezonu otvaramo pričama iz povijesti kvarnerske strane poluotoka...odlazimo do Labina kojem ćemo posvetiti tri emisije, a u prvoj govorimo o tom šarmantnom gradu u srednjem vijeku...naš gost je jedan jedini Kristijan Žgaljardić! </description>
+    <pubDate>Thu, 18 Sep 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/94/4d/20250918-historia-histriae-8217663-20250918163648.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>o mons. Boži Milanoviću 2025-06-19</title>
     <link>https://api.hrt.hr/media/a2/c4/20250619-historia-histriae-8192880-20250619160513.mp3</link>
     <description>U zadnjoj ovogodišnjoj Historiji gost nam je Kristijan Žgaljardić, a pričamo o mons. Boži Milanoviću </description>
@@ -71,22 +87,6 @@
     <description>Iz Rima nam se javlja Anđela Jeličić Krajcar, a pričamo o smrti pape Franje i procesu izbora novog Petrovog nasljednika. </description>
     <pubDate>Thu, 24 Apr 2025 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/62/0d/20250424-historia-histriae-8176739-20250424163514.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Mirjana Margetić 2025-04-17</title>
-    <link>https://api.hrt.hr/media/38/48/20250417-historia-histriae-8175004-20250417153559.mp3</link>
-    <description>Pričamo o uskršnjim običajima u Istri uz Mirjanu Margetić iz Etnografskog muzeja u Pazinu. </description>
-    <pubDate>Thu, 17 Apr 2025 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/38/48/20250417-historia-histriae-8175004-20250417153559.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Narodna predaja 2025-04-10</title>
-    <link>https://api.hrt.hr/media/9c/2d/20250410-historia-histriae-8172685-20250410160520.mp3</link>
-    <description>Poslušajte zaboravljene priče i štorice koje čine mozaik istarske narodne predaje uz našeg Kristijana Žgaljardića</description>
-    <pubDate>Thu, 10 Apr 2025 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/9c/2d/20250410-historia-histriae-8172685-20250410160520.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
