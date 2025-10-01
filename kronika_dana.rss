@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Sep 2025 21:31:13 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 21:06:40 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 01.10. 2025-10-01</title>
+    <link>https://api.hrt.hr/media/4b/62/20251001-kronika-dana-36804979-20251001204020.mp3</link>
+    <description>Neslužbeni sastanak Europskog vijeća u Kopenhagenu još traje, a trebao je završiti oko 17 sati. Povod sastanku su česti upadi bespilotnih letjelica u zračni prostor NATO-ovih članica. Umirovljeničke udruge nezadovoljne iznosom prvoga godišnjeg dodatak za umirovljenike. Vlada je objavila da će biti 6 eura po godini staža. Zbog povrede prava djeteta i posjedovanja automatske puške vojnog podrijetla podignuta optužnica protiv saborskog zastupnika Domovinskog pokreta Josipa Dabre. Inflacija u Hrvatskoj i u rujnu porasla - 4,2 posto u usporedbi s istim mjesecom lani. Urednik: Silvio Šop</description>
+    <pubDate>Wed, 01 Oct 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/4b/62/20251001-kronika-dana-36804979-20251001204020.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 30.09. 2025-09-30</title>
     <link>https://api.hrt.hr/media/68/b9/20250930-kronika-dana-36801361-20250930205553.mp3</link>
     <description>Frane Staničić novi je predsjednik Ustavnoga suda, čak petero sudaca nije željelo glasovati. Danas nije bilo novih slučajeva afričke svinjske kuge. Iz svijeta; čeka se Hamasov odgovor na Trumpov mirovni plan za Gazu.Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Zbog nedopuštenog rukovanja pirotehnikom, tragedija na dva vjenčanja u Dalmaciji. MUP najavljuje pooštravanje zakona!Zagrepčani prosvjedovali u Dubravi zbog učestaloga maloljetničkog nasilja. Prebrojavaju se glasovi u Moldaviji, zasad proeuropska stranka u prednosti pred proruskom. Urednica: Sanja Cota</description>
     <pubDate>Sun, 28 Sep 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/26/2d/20250928-kronika-dana-36794213-20250928203518.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 27.09. 2025-09-27</title>
-    <link>https://api.hrt.hr/media/4e/0f/20250927-kronika-dana-36791811-20250927203524.mp3</link>
-    <description>JANAF odgovorio mađarskome ministru da su besmislene njegove izjave o ratnom profiterstvu Hrvatske. Rusija opovrgava hibridne napade bespilotnim letjelicama na članice NATO-a i Europske unije. Zbog afričke svinjske kuge u Kopačkom ritu počeo odstrel divljih svinja. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 27 Sep 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4e/0f/20250927-kronika-dana-36791811-20250927203524.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
