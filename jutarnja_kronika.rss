@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 06:02:29 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 06:08:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 02.10. 2025-10-02</title>
+    <link>https://api.hrt.hr/media/f1/f4/20251002-jutarnja-kronika-36805621-20251002055026.mp3</link>
+    <description>Dogovorena isplata 13. mirovine u prosincu s iznosom od 6 eura po odrađenoj godini staža. Prosječni iznos bit će oko 180 eura. Podignuta optužnica protiv bivšeg ministra poljoprivrede Josipa Dabre. U Kopenhagenu sastanak na vrhu s temom sigurnosti Europe. Izraelske snage upale na međunarodnu flotilu koja plovi prema Gazi. S hladnim valom počinje sezona grijanja. Postupno uključivanje trajat će do tri dana. Urednik: Mislav Togonal</description>
+    <pubDate>Thu, 02 Oct 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f1/f4/20251002-jutarnja-kronika-36805621-20251002055026.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 01.10. 2025-10-01</title>
     <link>https://api.hrt.hr/media/df/3d/20251001-jutarnja-kronika-36802007-20251001053537.mp3</link>
     <description>Frane Staničić novi je predsjednik Ustavnoga suda. Petero sudaca napustilo glasovanje, pa prevagu donijeli oni kojima uskoro istječe mandat - upozorila nezadovoljna oporba. U Kopenhagenu počinje dvodnevni neformalni sastanak Europskoga vijeća i Europske političke zajednice - glavna tema - jačanje zajedničke obrane. U Dubrovniku - danas i sutra Međunarodna vježba traganja i spašavanja u Jadranskome moru. Urednica: Snježana Kralj</description>
@@ -31,14 +39,6 @@
     <description>Zbog teške prometne nesreće jutros prekinut promet na riječkoj obilaznic. Zbog nedopuštenog rukovanja signalnim raketama tragedija na dva vjenčanja u Dalmaciji. U zagrebačkoj Dubravi održan prosvjed zbog maloljetničkog nasilja. Donald Trump šalje Nacionalnu gardu u Portland zbog zaštite imigracijskih objekata. Na izborima u Moldaviji pobijedila proeuropska stranka. Urednik: Mislav Togonal</description>
     <pubDate>Mon, 29 Sep 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d8/a3/20250929-jutarnja-kronika-36794842-20250929053540.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 28.09. 2025-09-28</title>
-    <link>https://api.hrt.hr/media/f8/d3/20250928-jutarnja-kronika-36792442-20250928053021.mp3</link>
-    <description>Mađarski ministar vanjskih poslova ponovio tvrdnje o premalom kapacitetu JANAF-a za opskrbu njegove zemlje. JANAF odgovorio da to nije istina. Reagirali i mnogi hrvatski političari. Rusija opovrgava odgovornost za hibridne napade bespilotnim letjelicama na članice NATO-a i Europske unije. Kako bi se zaustavilo širenje afričke svinjske kuge, u Kopačkome ritu nastavlja se odstrel divljih svinja. U zagrebačkoj Dubravi održat će se prosvjed protiv vršnjačkog nasilja. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 28 Sep 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/f8/d3/20250928-jutarnja-kronika-36792442-20250928053021.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
