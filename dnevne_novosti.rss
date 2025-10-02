@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 14:04:02 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 14:10:05 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 02.10. 2025-10-02</title>
+    <link>https://api.hrt.hr/media/51/8a/20251002-dnevne-novosti-36807440-20251002134057.mp3</link>
+    <description>Napad ispred sinagoge u Manchesteru - ubijeno dvoje ljudi, nekoliko ranjeno. U Kopenhagenu traje sastanak čelnika europskih država. Mađarski premijer Orban izjavio: "Jači smo od Rusije, pa zašto je se bojimo?" Izrael objavio da ni jedan brod s humanitarnom pomoći za pojas Gaze nije uspio probiti blokadu njegove mornarice. Prestane li JANAF, zbog sankcija, isporučivati naftu Srbiji, bit će to najveći udar na njegovo poslovanje dosad. Urednik: Silvio Šop</description>
+    <pubDate>Thu, 02 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/51/8a/20251002-dnevne-novosti-36807440-20251002134057.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 01.10. 2025-10-01</title>
     <link>https://api.hrt.hr/media/49/9e/20251001-dnevne-novosti-36804044-20251001140112.mp3</link>
     <description>Summit u Kopenhagenu o jačanju europske obrane, nakon upada dronova u zračni prostor. Inflacija u rujnu 4,2 posto veća nego prije godinu dana. Podignuta optužnica protiv Josipa Dabre - zbog kršenja djetetovih prava i nedopuštenog posjedovanja automatske puške. Urednik: Mario Krstanović</description>
@@ -33,15 +41,6 @@ Urednik: Grgo Mrvica</description>
 Urednica: Sanja Cota.</description>
     <pubDate>Mon, 29 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/46/92/20250929-dnevne-novosti-36796622-20250929133057.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 28.09. 2025-09-28</title>
-    <link>https://api.hrt.hr/media/c8/f1/20250928-dnevne-novosti-36793353-20250928133023.mp3</link>
-    <description>U Šibeniku žena poginula od signalne rakete ispaljene na svadbi. Istu večer i u Makarskoj je žena na svadbi ozlijeđena signalnom raketom. Rusija jutros stotinama bespilotnih letjelica napala Kijev i druge djelove Ukrajine. Poginulo najmanje četvero ljudi, a deseci su ranjeni. U Kopačkom ritu i danas odstrel divljih svinja kako bi se suzbila afrička svinjska kuga. U zagrebačkoj Dubravi u 16 sati prosvjed protiv maloljetničkog nasilja.
-Urednik: Grgo Mrvica</description>
-    <pubDate>Sun, 28 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/c8/f1/20250928-dnevne-novosti-36793353-20250928133023.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
