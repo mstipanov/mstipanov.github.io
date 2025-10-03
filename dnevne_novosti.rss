@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Oct 2025 14:10:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 14:15:36 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 03.10. 2025-10-03</title>
+    <link>https://api.hrt.hr/media/a3/3c/20251003-dnevne-novosti-36811436-20251003134553.mp3</link>
+    <description>Vlada prihvatila rebalans proračuna i Saboru poslala zakone kojima se uvodi temeljno vojno osposobljavanje. Trostrukom ubojici iz Splita Filipu Zavadlavu smanjena kazna s 40 na 35 godina zatvora. Noćas je bio prekinut zračni promet u minhenskoj zračnoj luci nakon dojave građana da su vidjeli dronove. Urednik: Mario Krstanović</description>
+    <pubDate>Fri, 03 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a3/3c/20251003-dnevne-novosti-36811436-20251003134553.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 02.10. 2025-10-02</title>
     <link>https://api.hrt.hr/media/51/8a/20251002-dnevne-novosti-36807440-20251002134057.mp3</link>
     <description>Napad ispred sinagoge u Manchesteru - ubijeno dvoje ljudi, nekoliko ranjeno. U Kopenhagenu traje sastanak čelnika europskih država. Mađarski premijer Orban izjavio: "Jači smo od Rusije, pa zašto je se bojimo?" Izrael objavio da ni jedan brod s humanitarnom pomoći za pojas Gaze nije uspio probiti blokadu njegove mornarice. Prestane li JANAF, zbog sankcija, isporučivati naftu Srbiji, bit će to najveći udar na njegovo poslovanje dosad. Urednik: Silvio Šop</description>
@@ -32,15 +40,6 @@
 Urednik: Grgo Mrvica</description>
     <pubDate>Tue, 30 Sep 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/1b/9b/20250930-dnevne-novosti-36800261-20250930133058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 29.09. 2025-09-29</title>
-    <link>https://api.hrt.hr/media/46/92/20250929-dnevne-novosti-36796622-20250929133057.mp3</link>
-    <description>Donald Trump dao odobrenje Kijevu za izvođenje dalekometnih udara na ruskom teritoriju. U Moldaviji na parlamentarnim izborima pobijedila proeuropska stranka. Od danas u prometu prvi baterijski vlak na hrvatskim prugama
-Urednica: Sanja Cota.</description>
-    <pubDate>Mon, 29 Sep 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/46/92/20250929-dnevne-novosti-36796622-20250929133057.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
