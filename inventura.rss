@@ -6,10 +6,18 @@
         <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 30 Sep 2025 05:01:07 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 06:20:58 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/4a/c0/inventura-tjedan-pod-povecalom-20220324112020.webp</url><title>Inventura - tjedan pod povećalom</title><link>https://radio.hrt.hr/slusaonica/inventura-tjedan-pod-povecalom</link></image>
         <item>
+    <title>Inventura, 04.10.2025. 2025-10-04</title>
+    <link>https://api.hrt.hr/media/27/84/20251004-inventura-tjedan-pod-povecalom-36811792-20251003155552.mp3</link>
+    <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
+    <pubDate>Sat, 04 Oct 2025 05:30:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/27/84/20251004-inventura-tjedan-pod-povecalom-36811792-20251003155552.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Inventura, 27.09.2025. 2025-09-27</title>
     <link>https://api.hrt.hr/media/b5/18/20250927-inventura-tjedan-pod-povecalom-36788721-20250926160054.mp3</link>
     <description>Magazin Hrvatskog radija u kojemu urednici i voditelji Ivana Šubarić, Marija Gerbec Njavro i Ivica Ružičić svake subote pod povećalo stavljaju najvažnije događaje, vijesti, teme i fenomene koji su obilježili tjedan na izmaku, uz neizostavne analize i predviđanja razvoja najvažnijih tema.</description>
