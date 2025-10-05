@@ -6,10 +6,18 @@
         <description>Prva velika informativna emisija u danu. Sastavljena je od najnovijih vijesti iz zemlje i svijeta, izvješća i izravnih reporterskih javljanja o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Oct 2025 05:50:48 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 05:57:28 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/8b/f4/jutarnja-kronika-20220324113218.webp</url><title>Jutarnja kronika</title><link>https://radio.hrt.hr/slusaonica/jutarnja-kronika</link></image>
         <item>
+    <title>JUTARNJA KRONIKA 05.10. 2025-10-05</title>
+    <link>https://api.hrt.hr/media/82/58/20251005-jutarnja-kronika-36815686-20251005055041.mp3</link>
+    <description>Sutra u Egiptu pregovori Izraela i Hamasa. Hrvatska kapetanica jedne od brodica koje nisu uspjele dostaviti humanitarnu pomoć u pojas Gaze, sinoć sletjela u Berlin. Rusija i rano jutros nastavila zračne napade na Ukrajinu. Poljska podignula zrakoplove. Američki predsjednik Trump šalje 300 pripadnika Nacionalne garde u Chicago da bi se suprotstavili, kako kaže, nekontroliranom kriminalu. Urednik: Mario Krstanović</description>
+    <pubDate>Sun, 05 Oct 2025 05:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/82/58/20251005-jutarnja-kronika-36815686-20251005055041.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>JUTARNJA KRONIKA 04.10. 2025-10-04</title>
     <link>https://api.hrt.hr/media/bc/f7/20251004-jutarnja-kronika-36813052-20251004053044.mp3</link>
     <description>Hamas pristao na mirovni sporazum. Oslobodit će sve izraelske taoce. Trump naredio Izraelu da odmah prestane bombardirati Gazu. Zbog dronova opet zatvorena zračna luka u Minhenu. U Zagrebu prosvjed protiv zdravstvenog odgoja u školama. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Dogovorena isplata 13. mirovine u prosincu s iznosom od 6 eura po odrađenoj godini staža. Prosječni iznos bit će oko 180 eura. Podignuta optužnica protiv bivšeg ministra poljoprivrede Josipa Dabre. U Kopenhagenu sastanak na vrhu s temom sigurnosti Europe. Izraelske snage upale na međunarodnu flotilu koja plovi prema Gazi. S hladnim valom počinje sezona grijanja. Postupno uključivanje trajat će do tri dana. Urednik: Mislav Togonal</description>
     <pubDate>Thu, 02 Oct 2025 05:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/f1/f4/20251002-jutarnja-kronika-36805621-20251002055026.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>JUTARNJA KRONIKA 01.10. 2025-10-01</title>
-    <link>https://api.hrt.hr/media/df/3d/20251001-jutarnja-kronika-36802007-20251001053537.mp3</link>
-    <description>Frane Staničić novi je predsjednik Ustavnoga suda. Petero sudaca napustilo glasovanje, pa prevagu donijeli oni kojima uskoro istječe mandat - upozorila nezadovoljna oporba. U Kopenhagenu počinje dvodnevni neformalni sastanak Europskoga vijeća i Europske političke zajednice - glavna tema - jačanje zajedničke obrane. U Dubrovniku - danas i sutra Međunarodna vježba traganja i spašavanja u Jadranskome moru. Urednica: Snježana Kralj</description>
-    <pubDate>Wed, 01 Oct 2025 05:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/df/3d/20251001-jutarnja-kronika-36802007-20251001053537.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
