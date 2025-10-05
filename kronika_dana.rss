@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 04 Oct 2025 20:55:47 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 21:00:33 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 05.10. 2025-10-05</title>
+    <link>https://api.hrt.hr/media/57/cc/20251005-kronika-dana-36817551-20251005204110.mp3</link>
+    <description>Pronađeno tijelo hrvatskog planinara, za dvojicom koje je zatrpala lavina u slovenskim Julijskim Alpama još se traga. Izrazito slab odaziv birača na dopunskim izborima. Veliki ruski napad na Ukrajinu, poginulo 5 osoba, predsjednik Zelenski kritizira Zapad. Urednica: Sanja Cota</description>
+    <pubDate>Sun, 05 Oct 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/57/cc/20251005-kronika-dana-36817551-20251005204110.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 04.10. 2025-10-04</title>
     <link>https://api.hrt.hr/media/11/68/20251004-kronika-dana-36815015-20251004204046.mp3</link>
     <description>Stranka ANO populističkog milijardera Andreja Babiša, kojeg zovu češkim Trumpom, relativni pobjednik parlamentarnih izbora u Češkoj. Ostaje li Ukrajina bez češke pomoći? Hamas pristao na oslobađanje talaca i dijelove mirovnog sporazuma američkog predsjednika Donalda Trumpa, o ostalom traži pregovore. Dvadesetak mještana Morinja prosvjedovalo dok su hrvatski i crnogorski ministar vanjskih poslova polagali vijence kod zloglasnog logora, vojska zabranila snimanje. U mjesecu borbe protiv raka dojke diljem zemlje obilježen Dan ružičaste vrpce. Urednik: Silvio Šop</description>
@@ -31,14 +39,6 @@
     <description>Četiri osobe poginule su u prometnoj nesreći kod Senja nakon što je osobni automobil sletio u more.U Kopenhagenu se sastali premijeri Plenković i Orban, smirile se napetosti u vezi s transportom nafte. Odgovorit ćemo na opasnu militarizaciju Europe, poručio ruski predsjednik Putin. Napad na sinagogu u Manchesteru proglašen terorističkim, tri su osobe ubijene. Urednica: Sanja Cota</description>
     <pubDate>Thu, 02 Oct 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/b8/cc/20251002-kronika-dana-36808466-20251002204020.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 01.10. 2025-10-01</title>
-    <link>https://api.hrt.hr/media/4b/62/20251001-kronika-dana-36804979-20251001204020.mp3</link>
-    <description>Neslužbeni sastanak Europskog vijeća u Kopenhagenu još traje, a trebao je završiti oko 17 sati. Povod sastanku su česti upadi bespilotnih letjelica u zračni prostor NATO-ovih članica. Umirovljeničke udruge nezadovoljne iznosom prvoga godišnjeg dodatak za umirovljenike. Vlada je objavila da će biti 6 eura po godini staža. Zbog povrede prava djeteta i posjedovanja automatske puške vojnog podrijetla podignuta optužnica protiv saborskog zastupnika Domovinskog pokreta Josipa Dabre. Inflacija u Hrvatskoj i u rujnu porasla - 4,2 posto u usporedbi s istim mjesecom lani. Urednik: Silvio Šop</description>
-    <pubDate>Wed, 01 Oct 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/4b/62/20251001-kronika-dana-36804979-20251001204020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
