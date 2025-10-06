@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sun, 05 Oct 2025 21:00:33 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 21:09:02 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 06.10. 2025-10-06</title>
+    <link>https://api.hrt.hr/media/09/6b/20251006-kronika-dana-36821467-20251006203525.mp3</link>
+    <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
+    <pubDate>Mon, 06 Oct 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/09/6b/20251006-kronika-dana-36821467-20251006203525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 05.10. 2025-10-05</title>
     <link>https://api.hrt.hr/media/57/cc/20251005-kronika-dana-36817551-20251005204110.mp3</link>
     <description>Pronađeno tijelo hrvatskog planinara, za dvojicom koje je zatrpala lavina u slovenskim Julijskim Alpama još se traga. Izrazito slab odaziv birača na dopunskim izborima. Veliki ruski napad na Ukrajinu, poginulo 5 osoba, predsjednik Zelenski kritizira Zapad. Urednica: Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Vlada prihvatila rebalans proračuna. Trump dao Hamasu rok do nedjelje navečer da prihvati plan za Gazu. Hamas večeras odgovorio da je spreman osloboditi sve taoce i razgovarati o pojedinostima Trumpova plana . Ivan Katanušić svjetski je prvak u bacanju diska na paraatletskom prvenstvu, Luka Baković osvojio broncu u bacanju kugle. Urednica :Sanja Cota</description>
     <pubDate>Fri, 03 Oct 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/2a/a5/20251003-kronika-dana-36812418-20251003204058.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 02.10. 2025-10-02</title>
-    <link>https://api.hrt.hr/media/b8/cc/20251002-kronika-dana-36808466-20251002204020.mp3</link>
-    <description>Četiri osobe poginule su u prometnoj nesreći kod Senja nakon što je osobni automobil sletio u more.U Kopenhagenu se sastali premijeri Plenković i Orban, smirile se napetosti u vezi s transportom nafte. Odgovorit ćemo na opasnu militarizaciju Europe, poručio ruski predsjednik Putin. Napad na sinagogu u Manchesteru proglašen terorističkim, tri su osobe ubijene. Urednica: Sanja Cota</description>
-    <pubDate>Thu, 02 Oct 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/b8/cc/20251002-kronika-dana-36808466-20251002204020.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
