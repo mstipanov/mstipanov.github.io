@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Mon, 06 Oct 2025 21:09:02 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 20:46:39 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 07.10. 2025-10-07</title>
+    <link>https://api.hrt.hr/media/cd/9d/20251007-kronika-dana-36825046-20251007203509.mp3</link>
+    <description>Dvije godine od Hamasova napada na Izrael, u Egiptu traju pregovori o mirovnom planu američkog predsjednika. Jubilejsko nacionalno hodočašće u Rim, deset tisuća Hrvata na susretu s Papom.Kod Krašića pronađena masovna grobnica s posmrtnim ostatcima pet žrtava iz Drugog svjetskog rata i poslijeratnog razdoblja.Urednica Sanja Cota</description>
+    <pubDate>Tue, 07 Oct 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/cd/9d/20251007-kronika-dana-36825046-20251007203509.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 06.10. 2025-10-06</title>
     <link>https://api.hrt.hr/media/09/6b/20251006-kronika-dana-36821467-20251006203525.mp3</link>
     <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
@@ -31,14 +39,6 @@
     <description>Stranka ANO populističkog milijardera Andreja Babiša, kojeg zovu češkim Trumpom, relativni pobjednik parlamentarnih izbora u Češkoj. Ostaje li Ukrajina bez češke pomoći? Hamas pristao na oslobađanje talaca i dijelove mirovnog sporazuma američkog predsjednika Donalda Trumpa, o ostalom traži pregovore. Dvadesetak mještana Morinja prosvjedovalo dok su hrvatski i crnogorski ministar vanjskih poslova polagali vijence kod zloglasnog logora, vojska zabranila snimanje. U mjesecu borbe protiv raka dojke diljem zemlje obilježen Dan ružičaste vrpce. Urednik: Silvio Šop</description>
     <pubDate>Sat, 04 Oct 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/11/68/20251004-kronika-dana-36815015-20251004204046.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 03.10. 2025-10-03</title>
-    <link>https://api.hrt.hr/media/2a/a5/20251003-kronika-dana-36812418-20251003204058.mp3</link>
-    <description>Vlada prihvatila rebalans proračuna. Trump dao Hamasu rok do nedjelje navečer da prihvati plan za Gazu. Hamas večeras odgovorio da je spreman osloboditi sve taoce i razgovarati o pojedinostima Trumpova plana . Ivan Katanušić svjetski je prvak u bacanju diska na paraatletskom prvenstvu, Luka Baković osvojio broncu u bacanju kugle. Urednica :Sanja Cota</description>
-    <pubDate>Fri, 03 Oct 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/2a/a5/20251003-kronika-dana-36812418-20251003204058.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
