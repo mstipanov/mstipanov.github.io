@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Oct 2025 13:42:43 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 13:51:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 08.10. 2025-10-08</title>
+    <link>https://api.hrt.hr/media/ce/b7/20251008-dnevne-novosti-36827598-20251008133013.mp3</link>
+    <description>Janafu za još tjedan dana produljena licencija za prijevoz nafte Srbiji. Akcija europskih tužitelja u varaždinskoj bolnici, istraga usmjerena na poslove kad je ministar bio Vili Beroš. Iz zagrebačkog KBC-a Sestre milosrdnice potvrdili da je Beroš dobio posao neurokirurga. U pregovorima u Egiptu razmijenjeni popisi talaca i zarobljenika koje bi trebali razmijeniti Izrael i Hamas. Urednik: Mario Krstanović</description>
+    <pubDate>Wed, 08 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/ce/b7/20251008-dnevne-novosti-36827598-20251008133013.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 07.10. 2025-10-07</title>
     <link>https://api.hrt.hr/media/59/3a/20251007-dnevne-novosti-36824137-20251007133016.mp3</link>
     <description>Deset tisuća hrvatskih hodočasnika s uzbuđenjem čeka susret s Papom u Vatikanu. Brodosplit raskinuo ugovor s MORH-om o gradnji triju ophodnih brodova. Prije dvije godine Hamas napao Izrael. U Sarajevu umro Halid Bešlić. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Troje hrvatskih državljana nestalo je u lavini pod vrhom slovenske planine Tosc u Julijskim Alpama. Sutra u Egiptu pregovori Izraela i Hamasa o prekidu vatre. Rusija i rano jutros nastavila zračne napade na Ukrajinu. Poljska podignula zrakoplove. U Splitu održana najveća utrka za žene oboljele od karcinoma dojke - Race for the cure. Urednik: Silvio Šop</description>
     <pubDate>Sun, 05 Oct 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/d6/28/20251005-dnevne-novosti-36816650-20251005132551.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 04.10. 2025-10-04</title>
-    <link>https://api.hrt.hr/media/93/91/20251004-dnevne-novosti-36814149-20251004133050.mp3</link>
-    <description>Hamas pristao na oslobađanje talaca i dijelove Trumpova mirovnog sporazuma, o ostalom traže pregovore. Dvadesetak mještana Morinja prosvjedovalo dok su ministri vanjskih poslova Hrvatske i Crne Gore polagali vijence kod zloglasnog logora. U Zagrebu prosvjed roditelja protiv zdravstvenog odgoja koji namjerava uvesti gradska vlast. Urednica: Sanja Cota</description>
-    <pubDate>Sat, 04 Oct 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/93/91/20251004-dnevne-novosti-36814149-20251004133050.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
