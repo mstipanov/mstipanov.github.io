@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Tue, 07 Oct 2025 20:46:39 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 20:53:45 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 08.10. 2025-10-08</title>
+    <link>https://api.hrt.hr/media/99/22/20251008-kronika-dana-36828628-20251008203507.mp3</link>
+    <description>Janaf u pregovorima s MOL-om, zasad bez konkretnog dogovora. Zdravstveni sustav ne smije biti utemeljen na političkom utjecaju, poruka je liječničke komore nakon odluke o povratku bivšeg ministra Beroša na posao neurokirurga. Neimenovani izvori iz Egipta najavljuju da bi se mir u Gazi mogao postići u roku od 24 do 36 sati. Urednica: Sanja Cota</description>
+    <pubDate>Wed, 08 Oct 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/99/22/20251008-kronika-dana-36828628-20251008203507.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 07.10. 2025-10-07</title>
     <link>https://api.hrt.hr/media/cd/9d/20251007-kronika-dana-36825046-20251007203509.mp3</link>
     <description>Dvije godine od Hamasova napada na Izrael, u Egiptu traju pregovori o mirovnom planu američkog predsjednika. Jubilejsko nacionalno hodočašće u Rim, deset tisuća Hrvata na susretu s Papom.Kod Krašića pronađena masovna grobnica s posmrtnim ostatcima pet žrtava iz Drugog svjetskog rata i poslijeratnog razdoblja.Urednica Sanja Cota</description>
@@ -31,14 +39,6 @@
     <description>Pronađeno tijelo hrvatskog planinara, za dvojicom koje je zatrpala lavina u slovenskim Julijskim Alpama još se traga. Izrazito slab odaziv birača na dopunskim izborima. Veliki ruski napad na Ukrajinu, poginulo 5 osoba, predsjednik Zelenski kritizira Zapad. Urednica: Sanja Cota</description>
     <pubDate>Sun, 05 Oct 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/57/cc/20251005-kronika-dana-36817551-20251005204110.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 04.10. 2025-10-04</title>
-    <link>https://api.hrt.hr/media/11/68/20251004-kronika-dana-36815015-20251004204046.mp3</link>
-    <description>Stranka ANO populističkog milijardera Andreja Babiša, kojeg zovu češkim Trumpom, relativni pobjednik parlamentarnih izbora u Češkoj. Ostaje li Ukrajina bez češke pomoći? Hamas pristao na oslobađanje talaca i dijelove mirovnog sporazuma američkog predsjednika Donalda Trumpa, o ostalom traži pregovore. Dvadesetak mještana Morinja prosvjedovalo dok su hrvatski i crnogorski ministar vanjskih poslova polagali vijence kod zloglasnog logora, vojska zabranila snimanje. U mjesecu borbe protiv raka dojke diljem zemlje obilježen Dan ružičaste vrpce. Urednik: Silvio Šop</description>
-    <pubDate>Sat, 04 Oct 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/11/68/20251004-kronika-dana-36815015-20251004204046.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
