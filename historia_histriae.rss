@@ -6,10 +6,21 @@
         <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 02 Oct 2025 16:40:49 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 20:57:54 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/ae/b7/historia-histriae-20220324111159.webp</url><title>Historia Histriae</title><link>https://radio.hrt.hr/slusaonica/historia-histriae</link></image>
         <item>
+    <title>O Dragu Gervaisu 2025-10-09</title>
+    <link>https://api.hrt.hr/media/07/57/20251009-historia-histriae-8223517-20251009201525.mp3</link>
+    <description>Naša gošća ovog je puta Jennifer Lazarić Jungić koja je na francuski jezik prevela "Čakavske stihove" Drage Gervaisa. Pričamo o liku i djelu našeg književnika, kao i o tome kako nas kroz prijevod na francuski i okcitanski jezik vide drugi. 
+
+
+čakavski stihovi od gervaisa ona napavila prijievod na francuski, preveden, svj dan prevoditelja preko tog prijevoda, kako nas vide drugi </description>
+    <pubDate>Thu, 09 Oct 2025 15:15:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/07/57/20251009-historia-histriae-8223517-20251009201525.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Neven Korda 2025-10-02</title>
     <link>https://api.hrt.hr/media/26/2d/20251002-historia-histriae-8220594-20251002162508.mp3</link>
     <description>Naš gost je Neven Korda koji je 1971. pronašao kosti izgubljenih dječaka Dragana i Vedrana u napuštenim pulskim rudnicima. </description>
@@ -79,14 +90,6 @@
     <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
     <pubDate>Thu, 15 May 2025 15:15:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/86/08/20250515-historia-histriae-8182699-20250515160524.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>ĐINO MATOŠIĆ (r) 2025-05-08</title>
-    <link>https://api.hrt.hr/media/be/3c/20250508-historia-histriae-8180774-20250508151100.mp3</link>
-    <description>Otputujte s nama u prohujala stoljeća! Emisija obrađuje sve značajne teme - od  istarske  najranije do  moderne  povijesti.  Četvrtkom od 17:15 saznajte sva intrigantna pitanja povijesnih tema i odgovore koji se ne mogu naći u udžbenicima. Za sva pitanja i prijedloge tema pišite nam na historiahistriae@hrt.hr</description>
-    <pubDate>Thu, 08 May 2025 15:15:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/be/3c/20250508-historia-histriae-8180774-20250508151100.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
