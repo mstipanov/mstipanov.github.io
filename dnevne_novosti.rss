@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Wed, 08 Oct 2025 13:51:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 13:56:35 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 09.10. 2025-10-09</title>
+    <link>https://api.hrt.hr/media/c4/1f/20251009-dnevne-novosti-36831428-20251009133034.mp3</link>
+    <description>Svijet pozdravlja dogovor Izraela i Hamasa, slavlje na ulicama. Hrvatska je spremna kupiti Naftnu industriju Srbije ako bi to olakšalo poslovanje JANAF-a. Srbijanski predsjednik Vučić ironično odgovara - kupit ćemo HEP i JANAF. Gradnja Nacionalne dječje bolnice u Blatu trebala bi početi sljedeće godine. Urednik: Mario Krstanović</description>
+    <pubDate>Thu, 09 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/c4/1f/20251009-dnevne-novosti-36831428-20251009133034.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 08.10. 2025-10-08</title>
     <link>https://api.hrt.hr/media/ce/b7/20251008-dnevne-novosti-36827598-20251008133013.mp3</link>
     <description>Janafu za još tjedan dana produljena licencija za prijevoz nafte Srbiji. Akcija europskih tužitelja u varaždinskoj bolnici, istraga usmjerena na poslove kad je ministar bio Vili Beroš. Iz zagrebačkog KBC-a Sestre milosrdnice potvrdili da je Beroš dobio posao neurokirurga. U pregovorima u Egiptu razmijenjeni popisi talaca i zarobljenika koje bi trebali razmijeniti Izrael i Hamas. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Tragičan kraj potrage za hrvatskim planinarima u slovenskim Alpama - poginula sva trojica. U promet pušteno posljednjih pet kilometara koridora 5C kroz Hrvatsku. Uoči druge godišnjice Hamasova upada u Izrael, u Egiptu počinju pregovori sukobljenih strana. Urednica: Marija Gerbec Njavro</description>
     <pubDate>Mon, 06 Oct 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/7f/c6/20251006-dnevne-novosti-36820494-20251006133012.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 05.10. 2025-10-05</title>
-    <link>https://api.hrt.hr/media/d6/28/20251005-dnevne-novosti-36816650-20251005132551.mp3</link>
-    <description>Troje hrvatskih državljana nestalo je u lavini pod vrhom slovenske planine Tosc u Julijskim Alpama. Sutra u Egiptu pregovori Izraela i Hamasa o prekidu vatre. Rusija i rano jutros nastavila zračne napade na Ukrajinu. Poljska podignula zrakoplove. U Splitu održana najveća utrka za žene oboljele od karcinoma dojke - Race for the cure. Urednik: Silvio Šop</description>
-    <pubDate>Sun, 05 Oct 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/d6/28/20251005-dnevne-novosti-36816650-20251005132551.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
