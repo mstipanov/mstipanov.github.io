@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Thu, 09 Oct 2025 13:56:35 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 14:01:34 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 10.10. 2025-10-10</title>
+    <link>https://api.hrt.hr/media/88/50/20251010-dnevne-novosti-36835367-20251010133109.mp3</link>
+    <description>MOL će pomoći Srbiji povećanim isporukama nafte, a u našoj Vladi vjeruju da će se problem s prekidom isporuke nafte preko Janafa riješiti u sljedećim mjesecima. Izraelska se vojska povlači, a Palestinci se vraćaju na sjever pojasa Gaze. Nobelovu nagrada za mir dobila venezuelska oporbena čelnica Maria Corina Machado. U Splitu - međunarodna braniteljska konferencija. Urednica: Sanja Cota</description>
+    <pubDate>Fri, 10 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/88/50/20251010-dnevne-novosti-36835367-20251010133109.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 09.10. 2025-10-09</title>
     <link>https://api.hrt.hr/media/c4/1f/20251009-dnevne-novosti-36831428-20251009133034.mp3</link>
     <description>Svijet pozdravlja dogovor Izraela i Hamasa, slavlje na ulicama. Hrvatska je spremna kupiti Naftnu industriju Srbije ako bi to olakšalo poslovanje JANAF-a. Srbijanski predsjednik Vučić ironično odgovara - kupit ćemo HEP i JANAF. Gradnja Nacionalne dječje bolnice u Blatu trebala bi početi sljedeće godine. Urednik: Mario Krstanović</description>
@@ -31,14 +39,6 @@
     <description>Deset tisuća hrvatskih hodočasnika s uzbuđenjem čeka susret s Papom u Vatikanu. Brodosplit raskinuo ugovor s MORH-om o gradnji triju ophodnih brodova. Prije dvije godine Hamas napao Izrael. U Sarajevu umro Halid Bešlić. Urednik: Mario Krstanović</description>
     <pubDate>Tue, 07 Oct 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/59/3a/20251007-dnevne-novosti-36824137-20251007133016.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 06.10. 2025-10-06</title>
-    <link>https://api.hrt.hr/media/7f/c6/20251006-dnevne-novosti-36820494-20251006133012.mp3</link>
-    <description>Tragičan kraj potrage za hrvatskim planinarima u slovenskim Alpama - poginula sva trojica. U promet pušteno posljednjih pet kilometara koridora 5C kroz Hrvatsku. Uoči druge godišnjice Hamasova upada u Izrael, u Egiptu počinju pregovori sukobljenih strana. Urednica: Marija Gerbec Njavro</description>
-    <pubDate>Mon, 06 Oct 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/7f/c6/20251006-dnevne-novosti-36820494-20251006133012.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
