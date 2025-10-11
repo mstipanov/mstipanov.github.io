@@ -6,10 +6,19 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Fri, 10 Oct 2025 14:01:34 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 13:41:06 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 11.10. 2025-10-11</title>
+    <link>https://api.hrt.hr/media/f5/f3/20251011-dnevne-novosti-36838056-20251011132524.mp3</link>
+    <description>Zbog afričke svinjske kuge šire se restrikcije. U cijeloj Hrvatskoj zabranjene izložbe sa svinjama, a u 5 slavonskih županija i priredbe s proizvodima od svinjetine. Afera u splitskoj Gradskoj upravi - 660 dokumenata nestalo iz sustava, gradonačelnik Šuta za sve optužio bivšeg dogradonačelnika Ivoševića. U Kaštelima je Dan žalosti zbog pogibije planinara na slovenskim Alpama. Na pomolu novi carinski rat SAD-a i Kine. Trump prijeti 100-postotnim carinama ako Kina ne ukine ograničenja za izvoz rijetkih metala.
+Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sat, 11 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/f5/f3/20251011-dnevne-novosti-36838056-20251011132524.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 10.10. 2025-10-10</title>
     <link>https://api.hrt.hr/media/88/50/20251010-dnevne-novosti-36835367-20251010133109.mp3</link>
     <description>MOL će pomoći Srbiji povećanim isporukama nafte, a u našoj Vladi vjeruju da će se problem s prekidom isporuke nafte preko Janafa riješiti u sljedećim mjesecima. Izraelska se vojska povlači, a Palestinci se vraćaju na sjever pojasa Gaze. Nobelovu nagrada za mir dobila venezuelska oporbena čelnica Maria Corina Machado. U Splitu - međunarodna braniteljska konferencija. Urednica: Sanja Cota</description>
@@ -31,14 +40,6 @@
     <description>Janafu za još tjedan dana produljena licencija za prijevoz nafte Srbiji. Akcija europskih tužitelja u varaždinskoj bolnici, istraga usmjerena na poslove kad je ministar bio Vili Beroš. Iz zagrebačkog KBC-a Sestre milosrdnice potvrdili da je Beroš dobio posao neurokirurga. U pregovorima u Egiptu razmijenjeni popisi talaca i zarobljenika koje bi trebali razmijeniti Izrael i Hamas. Urednik: Mario Krstanović</description>
     <pubDate>Wed, 08 Oct 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ce/b7/20251008-dnevne-novosti-36827598-20251008133013.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 07.10. 2025-10-07</title>
-    <link>https://api.hrt.hr/media/59/3a/20251007-dnevne-novosti-36824137-20251007133016.mp3</link>
-    <description>Deset tisuća hrvatskih hodočasnika s uzbuđenjem čeka susret s Papom u Vatikanu. Brodosplit raskinuo ugovor s MORH-om o gradnji triju ophodnih brodova. Prije dvije godine Hamas napao Izrael. U Sarajevu umro Halid Bešlić. Urednik: Mario Krstanović</description>
-    <pubDate>Tue, 07 Oct 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/59/3a/20251007-dnevne-novosti-36824137-20251007133016.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
