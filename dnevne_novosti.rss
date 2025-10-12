@@ -6,10 +6,18 @@
         <description>Središnja informativna emisija Hrvatskoga radija, sastavljena od vijesti, izvješća, obrade aktualnih tema te izravnih reporterskih javljanja o glavnim događajima dana. U Dnevnim novostima možete čuti i opsežnu vremensku prognozu te saznati sve o najvažnijim sportskim temama.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Oct 2025 13:41:06 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 13:45:08 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/7a/7e/dnevne-novosti-1706096365-copy-20211206220917.webp</url><title>Dnevne novosti</title><link>https://radio.hrt.hr/slusaonica/dnevne-novosti</link></image>
         <item>
+    <title>Dnevne novosti 12.10. 2025-10-12</title>
+    <link>https://api.hrt.hr/media/7b/58/20251012-dnevne-novosti-36840556-20251012133051.mp3</link>
+    <description>Od danas velike promjene pri ulasku u šengenski prostor. Humanitarna pomoć napokon stiže u Gazu. Sutra se očekuje potpisivanje mirovnog sporazuma. Vatreni večeras u Varaždinu s Gib-raltarom igraju kvalifikacijsku utakmicu za Svjetsko prvenstvo. Urednica: Marija Gerbec Njavro</description>
+    <pubDate>Sun, 12 Oct 2025 13:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/7b/58/20251012-dnevne-novosti-36840556-20251012133051.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Dnevne novosti 11.10. 2025-10-11</title>
     <link>https://api.hrt.hr/media/f5/f3/20251011-dnevne-novosti-36838056-20251011132524.mp3</link>
     <description>Zbog afričke svinjske kuge šire se restrikcije. U cijeloj Hrvatskoj zabranjene izložbe sa svinjama, a u 5 slavonskih županija i priredbe s proizvodima od svinjetine. Afera u splitskoj Gradskoj upravi - 660 dokumenata nestalo iz sustava, gradonačelnik Šuta za sve optužio bivšeg dogradonačelnika Ivoševića. U Kaštelima je Dan žalosti zbog pogibije planinara na slovenskim Alpama. Na pomolu novi carinski rat SAD-a i Kine. Trump prijeti 100-postotnim carinama ako Kina ne ukine ograničenja za izvoz rijetkih metala.
@@ -32,14 +40,6 @@ Urednica: Marija Gerbec Njavro</description>
     <description>Svijet pozdravlja dogovor Izraela i Hamasa, slavlje na ulicama. Hrvatska je spremna kupiti Naftnu industriju Srbije ako bi to olakšalo poslovanje JANAF-a. Srbijanski predsjednik Vučić ironično odgovara - kupit ćemo HEP i JANAF. Gradnja Nacionalne dječje bolnice u Blatu trebala bi početi sljedeće godine. Urednik: Mario Krstanović</description>
     <pubDate>Thu, 09 Oct 2025 13:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/c4/1f/20251009-dnevne-novosti-36831428-20251009133034.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Dnevne novosti 08.10. 2025-10-08</title>
-    <link>https://api.hrt.hr/media/ce/b7/20251008-dnevne-novosti-36827598-20251008133013.mp3</link>
-    <description>Janafu za još tjedan dana produljena licencija za prijevoz nafte Srbiji. Akcija europskih tužitelja u varaždinskoj bolnici, istraga usmjerena na poslove kad je ministar bio Vili Beroš. Iz zagrebačkog KBC-a Sestre milosrdnice potvrdili da je Beroš dobio posao neurokirurga. U pregovorima u Egiptu razmijenjeni popisi talaca i zarobljenika koje bi trebali razmijeniti Izrael i Hamas. Urednik: Mario Krstanović</description>
-    <pubDate>Wed, 08 Oct 2025 13:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/ce/b7/20251008-dnevne-novosti-36827598-20251008133013.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
