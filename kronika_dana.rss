@@ -6,10 +6,18 @@
         <description>Posljednja velika informativna emisija sastavljena od vijesti, obrade aktualnih tema, izvješća i izravnih reporterskih javljanja novinara o događajima dana. Uključuje i podatke o vremenu, sportu i prometu.</description>
         <language>hr-HR</language>
         <copyright>HRT</copyright>
-        <lastBuildDate>Sat, 11 Oct 2025 21:12:35 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 20:46:32 +0100</lastBuildDate>
         <ttl>60</ttl>
         <image><url>https://api.hrt.hr/media/12/79/image00005-20211204200617.webp</url><title>Kronika dana</title><link>https://radio.hrt.hr/slusaonica/kronika-dana</link></image>
         <item>
+    <title>Kronika dana 12.10. 2025-10-12</title>
+    <link>https://api.hrt.hr/media/a4/2d/20251012-kronika-dana-36841398-20251012203545.mp3</link>
+    <description>Prvog dana novog sustava kontrole na granicama Europske unije, Hrvatska kreirala više od četiri tisuće biometrijskih dosjea. Hamas će sutra pustiti izraelske taoce. Na mirovni skup u Egipat stiže američki predsjednik Trump. Sutra počinje cijepljenje protiv gripe. Vatreni večeras u Varaždinu s Gibraltarom igraju kvalifikacijsku utakmicu za Svjetsko prvenstvo. Urednica: Sanja Rabuzin</description>
+    <pubDate>Sun, 12 Oct 2025 20:00:00 +0100</pubDate>
+    <enclosure url="https://api.hrt.hr/media/a4/2d/20251012-kronika-dana-36841398-20251012203545.mp3" length="" type="audio/mpeg"/>
+    <category>Podcasts</category>
+</item>
+<item>
     <title>Kronika dana 11.10. 2025-10-11</title>
     <link>https://api.hrt.hr/media/8e/41/20251011-kronika-dana-36838988-20251011204029.mp3</link>
     <description>Zbog afričke svinjske kuge, u Slavoniji zabranjene priredbe s proizvodima od svinjetine, prva na udaru Pečenkijada. Nakon proglašenog primirja - masovni povratak Palestinaca na sjever Gaze. Od sutra - novi sustav kontrole Europske unije za državljane zemalja izvan Schengena. Moguće gužve na granicama sa Srbijom i Bosnom i Hercegovinom. U 80-toj godini preminula glumica Diane Keaton. Urednica: Sanja Rabuzin</description>
@@ -31,14 +39,6 @@
     <description>Na Bliskom istoku postignut je "povijesni uspjeh", izjavio Donald Trump i najavio odlazak u Jeruzalem. Hrvatska je spremna kupiti Naftnu industriju Srbije ako bi to olakšalo poslovanje JANAF-a, rekao ministar Šušnjar. Ministar Anušić opovrgnuo da vlasnik Brodosplita može prodati vojne brodove nakon što je raskinuo ugovor s Ministarstvom obrane. Urednica: Sanja Cota</description>
     <pubDate>Thu, 09 Oct 2025 20:00:00 +0100</pubDate>
     <enclosure url="https://api.hrt.hr/media/ee/38/20251009-kronika-dana-36832721-20251009204029.mp3" length="" type="audio/mpeg"/>
-    <category>Podcasts</category>
-</item>
-<item>
-    <title>Kronika dana 08.10. 2025-10-08</title>
-    <link>https://api.hrt.hr/media/99/22/20251008-kronika-dana-36828628-20251008203507.mp3</link>
-    <description>Janaf u pregovorima s MOL-om, zasad bez konkretnog dogovora. Zdravstveni sustav ne smije biti utemeljen na političkom utjecaju, poruka je liječničke komore nakon odluke o povratku bivšeg ministra Beroša na posao neurokirurga. Neimenovani izvori iz Egipta najavljuju da bi se mir u Gazi mogao postići u roku od 24 do 36 sati. Urednica: Sanja Cota</description>
-    <pubDate>Wed, 08 Oct 2025 20:00:00 +0100</pubDate>
-    <enclosure url="https://api.hrt.hr/media/99/22/20251008-kronika-dana-36828628-20251008203507.mp3" length="" type="audio/mpeg"/>
     <category>Podcasts</category>
 </item>
 
